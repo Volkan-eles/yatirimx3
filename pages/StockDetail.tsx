@@ -495,7 +495,7 @@ const StockDetail: React.FC = () => {
               </p>
             </div>
 
-            <div className="overflow-hidden rounded-2xl border border-white/[0.03]">
+            <div className="overflow-hidden overflow-x-auto rounded-2xl border border-white/[0.03]">
               <table className="w-full text-sm text-left">
                 <thead>
                   <tr className="bg-white/5 text-[10px] text-zinc-600 uppercase font-black tracking-widest">

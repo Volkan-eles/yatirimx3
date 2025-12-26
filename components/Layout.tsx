@@ -132,9 +132,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
             <div className="h-6 w-px bg-white/10 hidden md:block mx-1"></div>
 
 
-            <button className="p-2 text-zinc-400 hover:text-white hover:bg-white/5 rounded-lg transition-colors hidden md:block">
-              <Settings className="w-5 h-5" />
-            </button>
+
 
             {/* Mobile Menu Button - Show on LG screens and below now */}
             <button

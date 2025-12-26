@@ -1,0 +1,50 @@
+name: Daily Content Update
+
+on:
+  schedule:
+    # 06:00 UTC = 09:00 TRT (Türkiye Saati)
+    - cron: '0 6 * * *'
+  
+  workflow_dispatch:  # Manuel çalıştırma için
+
+jobs:
+  update-daily-content:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          pip install yfinance beautifulsoup4 requests lxml
+      
+      - name: Run Scrapers
+        run: |
+          echo "Fetching IPO Data..."
+          python scrape_halkarz_main.py
+          
+          echo "Fetching Capital Increases..."
+          python scrape_capital.py
+          
+          echo "Fetching Dividends..."
+          python scrape_dividends.py
+          
+          echo "Fetching Piapiri Recommendations..."
+          python scrape_piapiri.py
+          
+          echo "Fetching Target Prices..."
+          python scrape_halkarz_target.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions Bot"
+          git add public/*.json
+          # Commit only if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Daily Content Update - $(date +'%Y-%m-%d')" && git push)
