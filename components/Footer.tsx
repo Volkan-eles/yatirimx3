@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
             <div className="max-w-7xl mx-auto px-6 py-12">
 
                 {/* Main Footer Content */}
-                <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
+                <div className="grid grid-cols-1 md:grid-cols-5 gap-8 mb-8">
 
                     {/* Brand Section */}
                     <div className="col-span-1 md:col-span-2">
@@ -30,18 +30,13 @@ const Footer: React.FC = () => {
                         </div>
                     </div>
 
-                    {/* Quick Links */}
+                    {/* Platform */}
                     <div>
-                        <h3 className="text-white font-bold mb-4 text-sm uppercase tracking-wider">Hızlı Erişim</h3>
+                        <h3 className="text-white font-bold mb-4 text-sm uppercase tracking-wider">Platform</h3>
                         <ul className="space-y-2">
                             <li>
                                 <Link to="/" className="text-zinc-400 hover:text-white text-sm transition-colors">
                                     Ana Sayfa
-                                </Link>
-                            </li>
-                            <li>
-                                <Link to="/piyasa" className="text-zinc-400 hover:text-white text-sm transition-colors">
-                                    Borsa
                                 </Link>
                             </li>
                             <li>
@@ -61,13 +56,13 @@ const Footer: React.FC = () => {
                             </li>
                             <li>
                                 <Link to="/blog" className="text-zinc-400 hover:text-white text-sm transition-colors">
-                                    Finans Blogu
+                                    Blog
                                 </Link>
                             </li>
                         </ul>
                     </div>
 
-                    {/* Legal & Info */}
+                    {/* Kurumsal */}
                     <div>
                         <h3 className="text-white font-bold mb-4 text-sm uppercase tracking-wider">Kurumsal</h3>
                         <ul className="space-y-2">
@@ -83,16 +78,23 @@ const Footer: React.FC = () => {
                                     İletişim
                                 </Link>
                             </li>
-                            <li>
-                                <Link to="/gizlilik-politikasi" className="text-zinc-400 hover:text-white text-sm transition-colors flex items-center gap-1">
-                                    <Shield className="w-3 h-3" />
-                                    Gizlilik Politikası
-                                </Link>
-                            </li>
+                        </ul>
+                    </div>
+
+                    {/* Yasal */}
+                    <div>
+                        <h3 className="text-white font-bold mb-4 text-sm uppercase tracking-wider">Yasal</h3>
+                        <ul className="space-y-2">
                             <li>
                                 <Link to="/kullanim-kosullari" className="text-zinc-400 hover:text-white text-sm transition-colors flex items-center gap-1">
                                     <FileText className="w-3 h-3" />
                                     Kullanım Koşulları
+                                </Link>
+                            </li>
+                            <li>
+                                <Link to="/gizlilik-politikasi" className="text-zinc-400 hover:text-white text-sm transition-colors flex items-center gap-1">
+                                    <Shield className="w-3 h-3" />
+                                    Gizlilik Politikası
                                 </Link>
                             </li>
                         </ul>

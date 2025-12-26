@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Bell, Settings, Command, Home as HomeIcon, LineChart, Building2 } from 'lucide-react';
+import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Bell, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen } from 'lucide-react';
+import Footer from './Footer';
 
 interface NavLinkProps {
   to: string;
@@ -54,6 +55,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
     { name: 'Temettü', path: '/temettu', icon: PieChart },
     { name: 'Halka Arz', path: '/halka-arz', icon: Calendar },
     { name: 'Kurumlar', path: '/araci-kurumlar', icon: Briefcase },
+    { name: 'Blog', path: '/blog', icon: BookOpen },
   ];
 
   const mobileMenuGroups = [
@@ -214,56 +216,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
       </main>
 
       {/* Footer */}
-      <footer className="border-t border-white/5 bg-black/20 backdrop-blur-xl mt-20">
-        <div className="container mx-auto px-4 py-12">
-          <div className="flex flex-col md:flex-row justify-between items-start gap-12">
-            <div className="max-w-xs">
-              <div className="flex items-center gap-2 mb-4">
-                <div className="bg-blue-600/20 border border-blue-500/30 rounded-lg p-1.5">
-                  <TrendingUp className="w-5 h-5 text-blue-400" />
-                </div>
-                <span className="font-bold text-xl text-white tracking-tight">YatirimX</span>
-              </div>
-              <p className="text-zinc-500 text-sm leading-relaxed">
-                Yapay zeka destekli algoritmalar ve gerçek zamanlı veri akışı ile finansal özgürlüğünüze giden yolda en güçlü partneriniz.
-              </p>
-            </div>
-
-            <div className="grid grid-cols-2 md:grid-cols-3 gap-12 text-sm w-full md:w-auto">
-              <div>
-                <h4 className="text-white font-bold mb-4">Platform</h4>
-                <ul className="space-y-3 text-zinc-500">
-                  <li><Link to="/" className="hover:text-blue-400 transition-colors">Ana Sayfa</Link></li>
-                  <li><Link to="/hedef-fiyat" className="hover:text-blue-400 transition-colors">Hedef Fiyatlar</Link></li>
-                  <li><Link to="/temettu" className="hover:text-blue-400 transition-colors">Temettü Takvimi</Link></li>
-                  <li><Link to="/halka-arz" className="hover:text-blue-400 transition-colors">Halka Arzlar</Link></li>
-                </ul>
-              </div>
-              <div>
-                <h4 className="text-white font-bold mb-4">Kurumsal</h4>
-                <ul className="space-y-3 text-zinc-500">
-                  <li><Link to="/hakkimizda" className="hover:text-blue-400 transition-colors">Hakkımızda</Link></li>
-                  <li><Link to="/iletisim" className="hover:text-blue-400 transition-colors">İletişim</Link></li>
-                </ul>
-              </div>
-              <div>
-                <h4 className="text-white font-bold mb-4">Yasal</h4>
-                <ul className="space-y-3 text-zinc-500">
-                  <li><Link to="/kullanim-kosullari" className="hover:text-blue-400 transition-colors">Kullanım Koşulları</Link></li>
-                  <li><Link to="/gizlilik-politikasi" className="hover:text-blue-400 transition-colors">Gizlilik Politikası</Link></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-          <div className="border-t border-white/5 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-zinc-600 gap-4">
-            <p>&copy; 2024 YatirimX Teknoloji A.Ş. Tüm hakları saklıdır.</p>
-            <div className="flex items-center gap-2">
-              <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-              <span>Sistemler Operasyonel</span>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 }

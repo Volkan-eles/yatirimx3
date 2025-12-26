@@ -57,6 +57,14 @@
     <priority>0.7</priority>
   </url>
   
+  <!-- Blog Sayfası -->
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/blog</loc>
+    <lastmod>2025-12-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
   <!-- Yasal Sayfalar -->
   <url>
     <loc>https://leafy-queijadas-418637.netlify.app/hakkimizda</loc>
