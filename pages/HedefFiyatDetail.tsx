@@ -97,7 +97,7 @@ const HedefFiyatDetail: React.FC = () => {
                             {code}
                         </div>
                         <div>
-                            <h1 className="text-3xl md:text-4xl font-bold text-white tracking-tight">{stockName}</h1>
+                            <h1 className="text-3xl md:text-4xl font-bold text-white tracking-tight">{stockName} ({code}) Hedef Fiyat 2026</h1>
                             <div className="flex items-center gap-2 text-zinc-400 mt-1">
                                 <span className="font-mono font-bold text-zinc-200">{code}</span>
                                 <span>•</span>
