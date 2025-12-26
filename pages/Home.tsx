@@ -71,7 +71,7 @@ const Home: React.FC = () => {
           targetPrice: targetPrice,
           recommendation: item.hf_desc
         };
-      }).slice(0, 30); // Show top 30 stocks
+      }).sort((a, b) => b.changeRate - a.changeRate); // Show ALL stocks, sorted by change
 
       setStocks(stockData);
       setLoading(false);
