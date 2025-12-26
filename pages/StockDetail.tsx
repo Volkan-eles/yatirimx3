@@ -226,8 +226,8 @@ const CommunitySentiment = ({ stockCode }: { stockCode: string }) => {
             disabled={votedStatus[activeTab]}
             onClick={() => handleVote('up')}
             className={`flex-1 flex flex-col items-center gap-2 py-6 rounded-2xl font-bold text-sm transition-all border ${votedStatus[activeTab]
-                ? 'bg-zinc-900 border-white/5 text-zinc-600 cursor-default opacity-50'
-                : 'bg-emerald-500/10 border-emerald-500/20 text-emerald-500 hover:bg-emerald-500/20 hover:scale-[1.02]'
+              ? 'bg-zinc-900 border-white/5 text-zinc-600 cursor-default opacity-50'
+              : 'bg-emerald-500/10 border-emerald-500/20 text-emerald-500 hover:bg-emerald-500/20 hover:scale-[1.02]'
               }`}
           >
             <TrendingUp className="w-8 h-8" />
@@ -237,8 +237,8 @@ const CommunitySentiment = ({ stockCode }: { stockCode: string }) => {
             disabled={votedStatus[activeTab]}
             onClick={() => handleVote('down')}
             className={`flex-1 flex flex-col items-center gap-2 py-6 rounded-2xl font-bold text-sm transition-all border ${votedStatus[activeTab]
-                ? 'bg-zinc-900 border-white/5 text-zinc-600 cursor-default opacity-50'
-                : 'bg-rose-500/10 border-rose-500/20 text-rose-500 hover:bg-rose-500/20 hover:scale-[1.02]'
+              ? 'bg-zinc-900 border-white/5 text-zinc-600 cursor-default opacity-50'
+              : 'bg-rose-500/10 border-rose-500/20 text-rose-500 hover:bg-rose-500/20 hover:scale-[1.02]'
               }`}
           >
             <TrendingDown className="w-8 h-8" />
@@ -281,7 +281,60 @@ const CommunitySentiment = ({ stockCode }: { stockCode: string }) => {
 
 const StockDetail: React.FC = () => {
   const { code } = useParams<{ code: string }>();
-  const stock = MOCK_STOCK_DETAIL;
+  const [stock, setStock] = useState<any>(null);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    // Fetch real-time BIST data
+    fetch('/bist_live_data.json')
+      .then(res => res.json())
+      .then(data => {
+        // Find the stock by code
+        const foundStock = data.stocks.find((s: any) => s.code === code?.toUpperCase());
+        if (foundStock) {
+          // Use all comprehensive data from JSON
+          setStock({
+            ...foundStock,
+            // Format market cap for display
+            marketCap: foundStock.marketCap ? `₺${(foundStock.marketCap / 1000000000).toFixed(2)}Mn` : '-',
+            // Format PE ratio
+            peRatio: foundStock.pe?.toFixed(2) || '-',
+            // Format PB ratio
+            pbRatio: foundStock.priceToBook?.toFixed(2) || '-',
+            // Use real high/low from data
+            high: foundStock.dayHigh || foundStock.price * 1.02,
+            low: foundStock.dayLow || foundStock.price * 0.98,
+            // Last update
+            lastUpdate: new Date().toLocaleDateString('tr-TR'),
+            // Use description from data or generate
+            description: foundStock.description || `${foundStock.name}, ${foundStock.sector} sektöründe faaliyet göstermektedir.`
+          });
+        }
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error('Error loading stock data:', err);
+        setLoading(false);
+      });
+  }, [code]);
+
+  if (loading) {
+    return (
+      <div className="flex items-center justify-center min-h-screen">
+        <div className="w-12 h-12 border-4 border-blue-500/30 border-t-blue-500 rounded-full animate-spin"></div>
+      </div>
+    );
+  }
+
+  if (!stock) {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-screen">
+        <h2 className="text-2xl font-bold text-white mb-4">Hisse bulunamadı</h2>
+        <Link to="/" className="text-blue-400 hover:text-blue-300">Ana sayfaya dön</Link>
+      </div>
+    );
+  }
+
   const isPositive = stock.changeRate >= 0;
 
   return (
@@ -466,18 +519,18 @@ const StockDetail: React.FC = () => {
           </SidebarSection>
 
           <SidebarSection title="Değerleme & Karlılık" icon={LayoutGrid}>
-            <SidebarItem label="PEG Oranı" value="-" />
-            <SidebarItem label="Beta (Risk)" value="-" />
-            <SidebarItem label="Özkaynak Karlılığı (ROE)" value="%-" colorClass="text-emerald-500/50" />
-            <SidebarItem label="Brüt Kar Marjı" value="%-" colorClass="text-blue-500/50" />
-            <SidebarItem label="Net Kar Marjı" value="%-" colorClass="text-purple-500/50" />
+            <SidebarItem label="PEG Oranı" value={stock.pegRatio?.toFixed(2) || '-'} />
+            <SidebarItem label="Beta (Risk)" value={stock.beta?.toFixed(2) || '-'} />
+            <SidebarItem label="Özkaynak Karlılığı (ROE)" value={stock.returnOnEquity ? `%${(stock.returnOnEquity * 100).toFixed(2)}` : '-'} colorClass={stock.returnOnEquity > 0 ? "text-emerald-500" : "text-emerald-500/50"} />
+            <SidebarItem label="Brüt Kar Marjı" value={stock.grossMargins ? `%${(stock.grossMargins * 100).toFixed(2)}` : '-'} colorClass={stock.grossMargins > 0 ? "text-blue-500" : "text-blue-500/50"} />
+            <SidebarItem label="Net Kar Marjı" value={stock.profitMargins ? `%${(stock.profitMargins * 100).toFixed(2)}` : '-'} colorClass={stock.profitMargins > 0 ? "text-purple-500" : "text-purple-500/50"} />
           </SidebarSection>
 
           <SidebarSection title="Finansal Durum" icon={Zap}>
-            <SidebarItem label="Hisse Başı Kar (EPS)" value="-" />
-            <SidebarItem label="Cari Oran" value="-" />
-            <SidebarItem label="Borç / Özkaynak" value="-" />
-            <SidebarItem label="FAVÖK (EBITDA)" value="- ₺" />
+            <SidebarItem label="Hisse Başı Kar (EPS)" value={stock.eps?.toFixed(2) || '-'} />
+            <SidebarItem label="Cari Oran" value={stock.currentRatio?.toFixed(2) || '-'} />
+            <SidebarItem label="Borç / Özkaynak" value={stock.debtToEquity?.toFixed(2) || '-'} />
+            <SidebarItem label="Hisse Başı Gelir" value={stock.revenuePerShare?.toFixed(2) || '-'} />
             <div className="pt-4">
               <div className="flex justify-between text-[10px] text-zinc-600 mb-1 font-bold uppercase tracking-widest">
                 <span>52 Hafta (Düşük - Yüksek)</span>
@@ -486,16 +539,16 @@ const StockDetail: React.FC = () => {
                 <div className="absolute top-0 bottom-0 bg-blue-600 w-[60%] left-[20%]"></div>
               </div>
               <div className="flex justify-between text-[10px] text-zinc-600 mt-1 font-mono">
-                <span>₺{(stock.price * 0.8).toFixed(2)}</span>
-                <span>₺{(stock.price * 1.4).toFixed(2)}</span>
+                <span>₺{stock.fiftyTwoWeekLow?.toFixed(2) || (stock.price * 0.8).toFixed(2)}</span>
+                <span>₺{stock.fiftyTwoWeekHigh?.toFixed(2) || (stock.price * 1.4).toFixed(2)}</span>
               </div>
             </div>
           </SidebarSection>
 
           <SidebarSection title="Teknik Göstergeler" icon={TrendingUp}>
             <SidebarItem label="RSI (14)" value="-" />
-            <SidebarItem label="50 Günlük Ort. (MA50)" value="₺0.00" />
-            <SidebarItem label="200 Günlük Ort. (MA200)" value="₺0.00" />
+            <SidebarItem label="50 Günlük Ort. (MA50)" value={stock.fiftyDayAverage ? `₺${stock.fiftyDayAverage.toFixed(2)}` : '₺0.00'} />
+            <SidebarItem label="200 Günlük Ort. (MA200)" value={stock.twoHundredDayAverage ? `₺${stock.twoHundredDayAverage.toFixed(2)}` : '₺0.00'} />
             <p className="text-[10px] text-zinc-600 italic leading-relaxed mt-2">
               * MA50, MA200'ün üzerindeyse (Golden Cross) potansiyel yükseliş sinyali olabilir.
             </p>

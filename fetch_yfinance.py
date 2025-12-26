@@ -96,7 +96,7 @@ for i, code in enumerate(BIST_STOCKS, 1):
         # Hisse verisini çek
         ticker = yf.Ticker(symbol)
         info = ticker.info
-        hist = ticker.history(period="2d")
+        hist = ticker.history(period="1y")
         
         if not hist.empty and len(hist) >= 1:
             current_price = float(hist['Close'].iloc[-1])
@@ -106,16 +106,101 @@ for i, code in enumerate(BIST_STOCKS, 1):
             change_pct = (change / prev_close * 100) if prev_close > 0 else 0
             volume = int(hist['Volume'].iloc[-1])
             
+            # Kapsamlı veri toplama
             stock_info = {
+                # Temel Bilgiler
                 "code": code,
-                "name": info.get('longName', code),
+                "symbol": symbol,
+                "name": info.get('longName', info.get('shortName', code)),
+                "shortName": info.get('shortName', code),
+                
+                # Fiyat Verileri
                 "price": round(current_price, 2),
                 "change": round(change, 2),
                 "changeRate": round(change_pct, 2),
+                "previousClose": round(prev_close, 2),
+                "open": round(info.get('open', current_price), 2),
+                "dayLow": round(info.get('dayLow', current_price * 0.98), 2),
+                "dayHigh": round(info.get('dayHigh', current_price * 1.02), 2),
+                "fiftyTwoWeekLow": round(info.get('fiftyTwoWeekLow', current_price * 0.7), 2),
+                "fiftyTwoWeekHigh": round(info.get('fiftyTwoWeekHigh', current_price * 1.5), 2),
+                "fiftyDayAverage": round(info.get('fiftyDayAverage', current_price), 2),
+                "twoHundredDayAverage": round(info.get('twoHundredDayAverage', current_price), 2),
+                
+                # Hacim
                 "volume": f"{volume:,}",
-                "sector": info.get('sector', 'Diğer'),
+                "averageVolume": info.get('averageVolume', volume),
+                "averageVolume10days": info.get('averageVolume10days', volume),
+                
+                # Piyasa Değeri
                 "marketCap": info.get('marketCap', 0),
-                "pe": info.get('trailingPE', None)
+                "enterpriseValue": info.get('enterpriseValue', 0),
+                "sharesOutstanding": info.get('sharesOutstanding', 0),
+                
+                # Şirket Bilgileri
+                "sector": info.get('sector', 'Diğer'),
+                "industry": info.get('industry', ''),
+                "website": info.get('website', ''),
+                "address": info.get('address1', ''),
+                "city": info.get('city', ''),
+                "country": info.get('country', 'Turkey'),
+                "phone": info.get('phone', ''),
+                "description": info.get('longBusinessSummary', ''),
+                
+                # Değerleme Oranları
+                "pe": info.get('trailingPE', None),
+                "forwardPE": info.get('forwardPE', None),
+                "priceToBook": info.get('priceToBook', None),
+                "pegRatio": info.get('pegRatio', None),
+                "priceToSales": info.get('priceToSalesTrailing12Months', None),
+                "enterpriseToRevenue": info.get('enterpriseToRevenue', None),
+                "enterpriseToEbitda": info.get('enterpriseToEbitda', None),
+                
+                # Karlılık
+                "profitMargins": info.get('profitMargins', None),
+                "grossMargins": info.get('grossMargins', None),
+                "operatingMargins": info.get('operatingMargins', None),
+                "returnOnAssets": info.get('returnOnAssets', None),
+                "returnOnEquity": info.get('returnOnEquity', None),
+                
+                # Finansal Sağlık
+                "totalRevenue": info.get('totalRevenue', None),
+                "revenuePerShare": info.get('revenuePerShare', None),
+                "totalCash": info.get('totalCash', None),
+                "totalDebt": info.get('totalDebt', None),
+                "debtToEquity": info.get('debtToEquity', None),
+                "currentRatio": info.get('currentRatio', None),
+                "quickRatio": info.get('quickRatio', None),
+                
+                # Hisse Başı Veriler
+                "eps": info.get('trailingEps', None),
+                "forwardEps": info.get('forwardEps', None),
+                "bookValue": info.get('bookValue', None),
+                
+                # Temettü
+                "dividendRate": info.get('dividendRate', None),
+                "dividendYield": info.get('dividendYield', None),
+                "exDividendDate": info.get('exDividendDate', None),
+                "payoutRatio": info.get('payoutRatio', None),
+                
+                # Analist Tahminleri
+                "targetHighPrice": info.get('targetHighPrice', None),
+                "targetLowPrice": info.get('targetLowPrice', None),
+                "targetMeanPrice": info.get('targetMeanPrice', None),
+                "targetMedianPrice": info.get('targetMedianPrice', None),
+                "recommendationMean": info.get('recommendationMean', None),
+                "recommendationKey": info.get('recommendationKey', ''),
+                "numberOfAnalystOpinions": info.get('numberOfAnalystOpinions', 0),
+                
+                # Risk
+                "beta": info.get('beta', None),
+                
+                # Tarihsel Veriler (Son 30 gün)
+                "historicalData": hist.tail(30)[['Close', 'Volume']].to_dict('records') if len(hist) >= 30 else [],
+                
+                # Kurumsal Sahiplik
+                "heldPercentInsiders": info.get('heldPercentInsiders', None),
+                "heldPercentInstitutions": info.get('heldPercentInstitutions', None),
             }
             
             stocks_data.append(stock_info)
