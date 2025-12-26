@@ -112,9 +112,21 @@ const BlogDetail: React.FC = () => {
                                 <thead className="text-xs text-zinc-400 uppercase bg-white/5 font-bold">
                                     <tr>
                                         <th className="px-6 py-4">Şirket Ünvanı (Hisse Kodu)</th>
-                                        <th className="px-6 py-4 text-center">Bedelsiz Oranı</th>
-                                        <th className="px-6 py-4 text-center">Bedelsiz Karar Tarihi</th>
-                                        <th className="px-6 py-4 text-center">SPK Başvuru Tarihi</th>
+
+                                        {/* Dynamic Headers based on Table Type */}
+                                        {(post as any).tableType === 'dividend' ? (
+                                            <>
+                                                <th className="px-6 py-4 text-center">Brüt / Net Temettü</th>
+                                                <th className="px-6 py-4 text-center">Ödeme Tarihi</th>
+                                                <th className="px-6 py-4 text-center">Temettü Verimi</th>
+                                            </>
+                                        ) : (
+                                            <>
+                                                <th className="px-6 py-4 text-center">Bedelsiz Oranı</th>
+                                                <th className="px-6 py-4 text-center">Karar Tarihi</th>
+                                                <th className="px-6 py-4 text-center">SPK Başvuru</th>
+                                            </>
+                                        )}
                                     </tr>
                                 </thead>
                                 <tbody className="divide-y divide-white/5">
@@ -123,9 +135,26 @@ const BlogDetail: React.FC = () => {
                                             <td className="px-6 py-4 font-medium text-white">
                                                 {row.name} <span className="text-blue-400 font-bold">({row.code})</span>
                                             </td>
-                                            <td className="px-6 py-4 text-center text-emerald-400 font-bold">{row.ratio}</td>
-                                            <td className="px-6 py-4 text-center text-zinc-400">{row.decisionDate}</td>
-                                            <td className="px-6 py-4 text-center text-zinc-400">{row.appDate}</td>
+
+                                            {/* Dynamic Rows based on Table Type */}
+                                            {(post as any).tableType === 'dividend' ? (
+                                                <>
+                                                    <td className="px-6 py-4 text-center">
+                                                        <div className="flex flex-col">
+                                                            <span className="text-white font-bold">{row.gross}</span>
+                                                            <span className="text-xs text-zinc-500">{row.net} (Net)</span>
+                                                        </div>
+                                                    </td>
+                                                    <td className="px-6 py-4 text-center text-zinc-400">{row.date}</td>
+                                                    <td className="px-6 py-4 text-center text-emerald-400 font-bold">{row.yield}</td>
+                                                </>
+                                            ) : (
+                                                <>
+                                                    <td className="px-6 py-4 text-center text-emerald-400 font-bold">{row.ratio}</td>
+                                                    <td className="px-6 py-4 text-center text-zinc-400">{row.decisionDate}</td>
+                                                    <td className="px-6 py-4 text-center text-zinc-400">{row.appDate}</td>
+                                                </>
+                                            )}
                                         </tr>
                                     ))}
                                 </tbody>
