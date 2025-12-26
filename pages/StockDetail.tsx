@@ -358,7 +358,7 @@ const StockDetail: React.FC = () => {
       <div className="mb-10">
         <h1 className="text-3xl font-black text-white mb-3">{stock.code} Hisse Fiyatı, Grafiği ve {stock.code} Yorum 2026</h1>
         <p className="text-zinc-500 text-sm max-w-4xl leading-relaxed">
-          {stock.code} hisse senedi fiyatı, canlı grafik ve detaylı teknik analiz bilgileri. {new Date().toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })} tarihli güncel {stock.code} hisse fiyatı ₺{stock.price.toFixed(2)} seviyesinde işlem görmektedir. {stock.code} hisse grafiği, teknik göstergeler ve uzman yorumları ile 2026 yılı için {stock.code} hisse senedi analizlerini inceleyin. Anlık fiyat hareketleri, hacim bilgileri ve piyasa derinliği ile {stock.code} yatırım kararlarınızı destekleyin.
+          {stock.code} hisse senedi fiyatı, canlı grafik ve detaylı teknik analiz bilgileri. Güncel {stock.code} hisse fiyatı ₺{stock.price.toFixed(2)} seviyesinde işlem görmektedir. {stock.code} hisse grafiği, teknik göstergeler ve uzman yorumları ile 2026 yılı için {stock.code} hisse senedi analizlerini inceleyin. Anlık fiyat hareketleri, hacim bilgileri ve piyasa derinliği ile {stock.code} yatırım kararlarınızı destekleyin.
         </p>
       </div>
 
