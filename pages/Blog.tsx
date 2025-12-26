@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Calendar, User, ArrowRight, BookOpen, Search, Tag } from 'lucide-react';
+import { DIVIDEND_DATA } from '../data/dividendData';
 
 // Mock Data for Blog Posts
 export const BLOG_POSTS = [
@@ -73,7 +74,7 @@ export const BLOG_POSTS = [
             'Hangi hisseler bedelsiz verecek'
         ],
         category: 'Sermaye Artırımı',
-        author: 'Volkan Keleş',
+        author: 'Volkan Eles',
         date: '26 Aralık 2026',
         image: '/bedelsiz-2026.png',
         readTime: '8 dk'
@@ -95,70 +96,48 @@ export const BLOG_POSTS = [
       <p>2026 temettüleri, şirketlerin 2025 yılı finansal tabloları ve genel kurul kararları doğrultusunda belirlenmektedir. Özellikle düzenli temettü ödeyen şirketler, her yıl yatırımcıların radarında yer alır.</p>
 
       <h2>2026 Temettü Takvimi</h2>
+      <h3>2026 Temettü Takvimi Neyi Gösterir?</h3>
       <p>2026 temettü takvimi; temettü ödeme tarihi, hisse başı brüt temettü, hisse başı net temettü ve temettü verimi gibi yatırım kararlarında kritik öneme sahip bilgileri içerir.</p>
+      
       <div class="bg-blue-500/10 border-l-4 border-blue-500 p-4 my-4">
         <p class="text-sm text-blue-200">Not: Aşağıdaki tabloda yer alan veriler, temettü kararının açıklandığı gün oluşan hisse fiyatı baz alınarak hesaplanmıştır. Taksitli temettü ödeyen şirketlerde temettü verimi, toplam temettü tutarı üzerinden hesaplanmıştır.</p>
       </div>
 
       <h2>2026 Temettü Verecek Hisseler (Kesinleşenler)</h2>
+      <h3>2026 Yılında Temettü Dağıtacak Şirketler</h3>
       <p>2026 yılı itibarıyla temettü dağıtımı kesinleşen şirketlerin listesi gün geçtikçe genişlemektedir. Bu liste, KAP’a yapılan resmi bildirimler doğrultusunda hazırlanmakta ve anlık olarak güncellenmektedir.</p>
 
-      <ul class="list-disc pl-6 space-y-2 text-zinc-300 mb-6">
-        <li><strong class="text-white">“Ödendi”</strong> ibaresi bulunan temettüler yatırımcı hesaplarına geçmiştir.</li>
-        <li><strong class="text-white">Açıklanmadı</strong> olarak belirtilen temettü tarihleri, şirket tarafından henüz duyurulmamıştır.</li>
-      </ul>
+      <div class="bg-yellow-500/10 border-l-4 border-yellow-500 p-4 my-4">
+        <p class="font-bold text-yellow-500 mb-2">📌 Önemli Not:</p>
+        <ul class="list-disc pl-6 space-y-1 text-yellow-200 text-sm">
+          <li>“Ödendi” ibaresi bulunan temettüler yatırımcı hesaplarına geçmiştir.</li>
+          <li>Açıklanmadı olarak belirtilen temettü tarihleri, şirket tarafından henüz duyurulmamıştır.</li>
+        </ul>
+      </div>
 
       <h2>2026 Temettü Veren Hisseler Tablosu</h2>
-      <p>Aşağıda yer alan tablo, 2026 yılına ait temettü dağıtımlarını; şirket adı, hisse kodu, brüt/net temettü, ödeme tarihi ve temettü verimi ile birlikte göstermektedir.</p>
+      <p>🔽 Aşağıda yer alan tablo, 2026 yılına ait temettü dağıtımlarını; şirket adı, hisse kodu, brüt/net temettü, ödeme tarihi ve temettü verimi ile birlikte göstermektedir.</p>
+
+      <h2>2026 Temettü Veren Hisseler Güvenilir mi?</h2>
+      <p>Temettü listesinde yer alan tüm şirketler:</p>
+      <ul class="list-disc pl-6 space-y-2 text-zinc-300 mb-6">
+        <li>Borsa İstanbul’da işlem görmektedir</li>
+        <li>SPK ve KAP mevzuatına tabidir</li>
+        <li>Resmî genel kurul kararları ile temettü dağıtır</li>
+      </ul>
+      <p>Ancak unutulmamalıdır ki temettü yatırımında tek kriter verim değildir. Şirketin sürdürülebilir kârlılığı, borçluluk durumu ve sektörel riskler mutlaka değerlendirilmelidir.</p>
+
+      <h2>2026 Temettü Yatırımı Yaparken Nelere Dikkat Edilmeli?</h2>
+      <ul class="list-none space-y-2 text-zinc-300 mb-6">
+        <li class="flex items-center gap-2"><span class="text-green-500">✔</span> Düzenli Temettü Geçmişi</li>
+        <li class="flex items-center gap-2"><span class="text-green-500">✔</span> Şirketin Nakit Akışı</li>
+        <li class="flex items-center gap-2"><span class="text-green-500">✔</span> Temettü Verimi (Aşırı yüksek oranlara dikkat)</li>
+        <li class="flex items-center gap-2"><span class="text-green-500">✔</span> Taksitli / Tek seferlik ödeme yapısı</li>
+        <li class="flex items-center gap-2"><span class="text-green-500">✔</span> Uzun vadeli büyüme potansiyeli</li>
+      </ul>
     `,
         tableType: 'dividend',
-        tableData: [
-            { name: 'Nuh Çimento Sanayi A.Ş.', code: 'NUHCM', gross: '2,90 TL', net: '2,465 TL', date: '6 Ocak 2025 (Ödendi)', yield: '%0,94' },
-            { name: 'Mistral GYO (2. Taksit)', code: 'MSGYO', gross: '0,24 TL', net: '0,24 TL', date: '22 Ocak 2025 (Ödendi)', yield: '%6,25' },
-            { name: 'Osmanlı Yatırım', code: 'OSMEN', gross: '0,0875 TL', net: '0,0743 TL', date: '29 Ocak 2025 (Ödendi)', yield: '%1,05' },
-            { name: 'Mistral GYO (3. Taksit)', code: 'MSGYO', gross: '0,24 TL', net: '0,24 TL', date: '18 Mart 2025 (Ödendi)', yield: '%6,25' },
-            { name: 'Akçansa', code: 'AKCNS', gross: '6,26 TL', net: '5,32 TL', date: '24 Mart 2025 (Ödendi)', yield: '%3,48' },
-            { name: 'Nuh Çimento', code: 'NUHCM', gross: '10,10 TL', net: '8,58 TL', date: '25 Mart 2025 (Ödendi)', yield: '%3,93' },
-            { name: 'Agesa Hayat', code: 'AGESA', gross: '5,55 TL', net: '4,72 TL', date: '26 Mart 2025 (Ödendi)', yield: '%3,94' },
-            { name: 'Akbank', code: 'AKBNK', gross: '1,22 TL', net: '1,03 TL', date: '26 Mart 2025 (Ödendi)', yield: '%1,81' },
-            { name: 'Anadolu Hayat', code: 'ANHYT', gross: '5,81 TL', net: '4,94 TL', date: '26 Mart 2025 (Ödendi)', yield: '%5,63' },
-            { name: 'Brisa', code: 'BRISA', gross: '2,12 TL', net: '1,81 TL', date: '28 Mart 2025 (Ödendi)', yield: '%2,68' },
-            { name: 'İş Yatırım', code: 'ISMEN', gross: '5,66 TL', net: '4,81 TL', date: '28 Mart 2025 (Ödendi)', yield: '%13,14' },
-            { name: 'Ege Endüstri', code: 'EGEEN', gross: '53 TL', net: '45,05 TL', date: '28 Mart 2025 (Ödendi)', yield: '%0,59' },
-            { name: 'Anadolu Sigorta', code: 'ANSGR', gross: '4,20 TL', net: '3,57 TL', date: '28 Mart 2025 (Ödendi)', yield: '%3,89' },
-            { name: 'Garanti BBVA', code: 'GARAN', gross: '4,38 TL', net: '3,73 TL', date: '28 Mart 2025 (Ödendi)', yield: '%3,14' },
-            { name: 'Tüpraş (1. Taksit)', code: 'TUPRS', gross: '7,78 TL', net: '6,61 TL', date: '28 Mart 2025 (Ödendi)', yield: '%11,40' },
-            { name: 'İş Bankası (C)', code: 'ISCTR', gross: '0,18 TL', net: '0,15 TL', date: '28 Mart 2025 (Ödendi)', yield: '%0,97' },
-            { name: 'Türk Traktör', code: 'TTRAK', gross: '48,46 TL', net: '41,19 TL', date: '2 Nisan 2025 (Ödendi)', yield: '%7,24' },
-            { name: 'Çimsa', code: 'CIMSA', gross: '0,63 TL', net: '0,53 TL', date: '2 Nisan 2025 (Ödendi)', yield: '%1,33' },
-            { name: 'Sabancı Holding', code: 'SAHOL', gross: '3,00 TL', net: '2,55 TL', date: '2 Nisan 2025 (Ödendi)', yield: '%2,98' },
-            { name: 'Aygaz', code: 'AYGAZ', gross: '12,55 TL', net: '10,66 TL', date: '2 Nisan 2025 (Ödendi)', yield: '%8,68' },
-            { name: 'Tofaş', code: 'TOASO', gross: '12 TL', net: '10,20 TL', date: '3 Nisan 2025 (Ödendi)', yield: '%6,08' },
-            { name: 'Ford Otosan', code: 'FROTO', gross: '17,10 TL', net: '14,53 TL', date: '3 Nisan 2025 (Ödendi)', yield: '%1,93' },
-            { name: 'Koç Holding', code: 'KCHOL', gross: '6,88 TL', net: '5,84 TL', date: '10 Nisan 2025 (Ödendi)', yield: '%4,06' },
-            { name: 'Alarko Holding', code: 'ALARK', gross: '2,60 TL', net: '2,25 TL', date: '17 Nisan 2025 (Ödendi)', yield: '%3,05' },
-            { name: 'Enerjisa', code: 'ENJSA', gross: '2,87 TL', net: '2,43 TL', date: '21 Nisan 2025 (Ödendi)', yield: '%4,95' },
-            { name: 'Doğuş Otomotiv', code: 'DOAS', gross: '27,27 TL', net: '23,18 TL', date: '20 Mayıs 2025 (Ödendi)', yield: '%15,77' },
-            { name: 'Coca-Cola', code: 'CCOLA', gross: '1,07 TL', net: '0,91 TL', date: '26 Mayıs 2025 (Ödendi)', yield: '%1,99' },
-            { name: 'Mavi Giyim', code: 'MAVI', gross: '1,17 TL', net: '0,99 TL', date: '26 Mayıs 2025 (Ödendi)', yield: '%3,58' },
-            { name: 'Anadolu Efes', code: 'AEFES', gross: '1,27 TL', net: '1,08 TL', date: '27 Mayıs 2025 (Ödendi)', yield: '%0,72' },
-            { name: 'Migros', code: 'MGROS', gross: '6,90 TL', net: '5,86 TL', date: '28 Mayıs 2025 (Ödendi)', yield: '%1,48' },
-            { name: 'Şişecam', code: 'SISE', gross: '0,65 TL', net: '0,55 TL', date: '30 Mayıs 2025 (Ödendi)', yield: '%1,83' },
-            { name: 'THY (1. Taksit)', code: 'THYAO', gross: '3,44 TL', net: '2,92 TL', date: '16 Haziran 2025 (Ödendi)', yield: '%1,85' },
-            { name: 'BİM (1. Taksit)', code: 'BIMAS', gross: '4,00 TL', net: '3,40 TL', date: '18 Haziran 2025 (Ödendi)', yield: '%2,77' },
-            { name: 'Turkcell (1. Taksit)', code: 'TCELL', gross: '1,81 TL', net: '1,54 TL', date: '20 Haziran 2025 (Ödendi)', yield: '%3,83' },
-            { name: 'Ereğli Demir Çelik', code: 'EREGL', gross: '0,25 TL', net: '0,21 TL', date: '2 Temmuz 2025 (Ödendi)', yield: '%1,11' },
-            { name: 'İskenderun Demir Çelik', code: 'ISDMR', gross: '0,25 TL', net: '0,21 TL', date: '2 Temmuz 2025 (Ödendi)', yield: '%0,65' },
-            { name: 'Kontrolmatik', code: 'KONTR', gross: '0,03 TL', net: '0,026 TL', date: '8 Temmuz 2025 (Ödendi)', yield: '%0,11' },
-            { name: 'Astor Enerji', code: 'ASTOR', gross: '1,51 TL', net: '1,28 TL', date: '18 Ağustos 2025 (Ödendi)', yield: '%1,64' },
-            { name: 'THY (2. Taksit)', code: 'THYAO', gross: '3,44 TL', net: '2,92 TL', date: '2 Eylül 2025 (Ödendi)', yield: '%1,85' },
-            { name: 'BİM (2. Taksit)', code: 'BIMAS', gross: '4,00 TL', net: '3,40 TL', date: '17 Eylül 2025 (Ödendi)', yield: '%2,77' },
-            { name: 'Tüpraş (2. Taksit)', code: 'TUPRS', gross: '7,42 TL', net: '6,30 TL', date: '30 Eylül 2025 (Ödendi)', yield: '%11,40' },
-            { name: 'Aselsan', code: 'ASELS', gross: '0,23 TL', net: '0,19 TL', date: '25 Kasım 2025 (Ödendi)', yield: '%0,17' },
-            { name: 'BİM (3. Taksit)', code: 'BIMAS', gross: '5,00 TL', net: '4,25 TL', date: '17 Aralık 2025 (Ödendi)', yield: '%2,77' },
-            { name: 'Turkcell (2. Taksit)', code: 'TCELL', gross: '1,81 TL', net: '1,54 TL', date: '26 Aralık 2025', yield: '%3,83' },
-            { name: 'Enka İnşaat', code: 'ENKAI', gross: '0,83 TL', net: '0,70 TL', date: '14 Ocak 2026', yield: '%1,06' }
-        ],
+        tableData: DIVIDEND_DATA,
         seoKeywords: [
             '2026 temettü verecek hisseler',
             '2026 temettü takvimi',
@@ -170,11 +149,12 @@ export const BLOG_POSTS = [
             'nakit temettü 2026'
         ],
         category: 'Temettü',
-        author: 'Volkan Keleş',
+        author: 'Volkan Eles',
         date: '24 Aralık 2025',
         image: '/temettu-2026.png',
         readTime: '12 dk'
     },
+
     {
         id: 3,
         slug: 'halka-arz-furyasi-devam-edecek-mi',
@@ -182,7 +162,7 @@ export const BLOG_POSTS = [
         excerpt: 'Son dönemde artan halka arzların geleceği ne olacak? Yatırımcılar hangi sektörlere odaklanmalı?',
         content: '<p>İçerik hazırlanıyor...</p>',
         category: 'Halka Arz',
-        author: 'Volkan Keleş',
+        author: 'Volkan Eles',
         date: '20 Aralık 2026',
         image: 'https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=2070&auto=format&fit=crop',
         readTime: '4 dk'

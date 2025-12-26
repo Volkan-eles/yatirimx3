@@ -59,6 +59,11 @@ const Footer: React.FC = () => {
                                     Halka Arzlar
                                 </Link>
                             </li>
+                            <li>
+                                <Link to="/blog" className="text-zinc-400 hover:text-white text-sm transition-colors">
+                                    Finans Blogu
+                                </Link>
+                            </li>
                         </ul>
                     </div>
 
