@@ -401,18 +401,23 @@ const StockDetail: React.FC = () => {
               </h3>
               <div className="flex items-center gap-4">
                 <span className="text-[10px] text-zinc-600 font-bold flex items-center gap-1 uppercase tracking-widest">
-                  <Clock className="w-3 h-3" /> Son 30 Gün (Simüle)
+                  <Clock className="w-3 h-3" /> Son 30 Gün
                 </span>
-                <a href="#" className="text-xs text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1 transition-colors">
-                  <Globe className="w-3.5 h-3.5" /> Web Sitesi
-                </a>
+                {stock.website && (
+                  <a href={stock.website} target="_blank" rel="noopener noreferrer" className="text-xs text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1 transition-colors">
+                    <Globe className="w-3.5 h-3.5" /> Web Sitesi
+                  </a>
+                )}
               </div>
             </div>
             <div className="h-[400px]">
-              <StockChart color={isPositive ? "#10b981" : "#f43f5e"} />
+              <StockChart
+                color={isPositive ? "#10b981" : "#f43f5e"}
+                data={stock.historicalData || []}
+              />
             </div>
             <div className="mt-4 text-[10px] text-zinc-700 text-center italic">
-              * BIST veri kısıtlamaları nedeniyle grafik temsilidir. Anlık veriler için aracı kurumunuzu kullanınız.
+              * Yahoo Finance'den alınan gerçek tarihsel veriler gösterilmektedir.
             </div>
           </div>
 
