@@ -41,6 +41,22 @@
     <priority>0.8</priority>
   </url>
   
+  <!-- Sermaye Artırımı -->
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/sermaye-artirimi</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Aracı Kurumlar -->
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/araci-kurumlar</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
   <!-- Yasal Sayfalar -->
   <url>
     <loc>https://leafy-queijadas-418637.netlify.app/hakkimizda</loc>
@@ -70,7 +86,78 @@
     <priority>0.5</priority>
   </url>
   
-  <!-- Not: Hisse detay sayfaları için dinamik sitemap oluşturulabilir -->
-  <!-- Örnek: /hisse/GARAN, /hisse/THYAO vb. -->
+  <!-- Popüler Hisse Detay Sayfaları (Örnekler) -->
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hisse/GARAN</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hisse/THYAO</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hisse/AKBNK</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hisse/YKBNK</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hisse/TUPRS</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hisse/EREGL</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hisse/SAHOL</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hisse/KCHOL</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hisse/ASELS</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hisse/BIMAS</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Not: Tüm 507 hisse için dinamik sitemap oluşturulabilir -->
+  <!-- Bu örnekler en popüler hisselerdir -->
   
 </urlset>

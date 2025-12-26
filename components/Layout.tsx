@@ -13,8 +13,8 @@ const NavLink: React.FC<NavLinkProps> = ({ to, children, icon: Icon, active }) =
   <Link
     to={to}
     className={`flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200 group relative ${active
-        ? 'text-white'
-        : 'text-zinc-400 hover:text-zinc-100'
+      ? 'text-white'
+      : 'text-zinc-400 hover:text-zinc-100'
       }`}
   >
     {active && (
@@ -175,8 +175,8 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
                     key={link.path}
                     to={link.path}
                     className={`flex items-center justify-between p-3 rounded-xl transition-all ${location.pathname === link.path
-                        ? 'bg-blue-600/10 text-blue-400 border border-blue-600/20 shadow-sm shadow-blue-900/10'
-                        : 'text-zinc-300 hover:bg-white/5 hover:text-white'
+                      ? 'bg-blue-600/10 text-blue-400 border border-blue-600/20 shadow-sm shadow-blue-900/10'
+                      : 'text-zinc-300 hover:bg-white/5 hover:text-white'
                       }`}
                   >
                     <div className="flex items-center gap-3">
@@ -243,7 +243,6 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
                 <h4 className="text-white font-bold mb-4">Kurumsal</h4>
                 <ul className="space-y-3 text-zinc-500">
                   <li><Link to="/hakkimizda" className="hover:text-blue-400 transition-colors">Hakkımızda</Link></li>
-                  <li><Link to="/kariyer" className="hover:text-blue-400 transition-colors">Kariyer</Link></li>
                   <li><Link to="/iletisim" className="hover:text-blue-400 transition-colors">İletişim</Link></li>
                 </ul>
               </div>
@@ -252,7 +251,6 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
                 <ul className="space-y-3 text-zinc-500">
                   <li><Link to="/kullanim-kosullari" className="hover:text-blue-400 transition-colors">Kullanım Koşulları</Link></li>
                   <li><Link to="/gizlilik-politikasi" className="hover:text-blue-400 transition-colors">Gizlilik Politikası</Link></li>
-                  <li><Link to="/cerezler" className="hover:text-blue-400 transition-colors">Çerezler</Link></li>
                 </ul>
               </div>
             </div>

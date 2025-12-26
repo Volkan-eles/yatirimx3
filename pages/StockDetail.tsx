@@ -283,6 +283,7 @@ const StockDetail: React.FC = () => {
   const { code } = useParams<{ code: string }>();
   const [stock, setStock] = useState<any>(null);
   const [loading, setLoading] = useState(true);
+  const [hasTargetPrice, setHasTargetPrice] = useState(false);
 
   useEffect(() => {
     // Fetch real-time BIST data
@@ -316,7 +317,39 @@ const StockDetail: React.FC = () => {
         console.error('Error loading stock data:', err);
         setLoading(false);
       });
+
+    // Check if stock has target price data
+    fetch('/halkarz_target_prices.json')
+      .then(res => res.json())
+      .then(targetData => {
+        const hasTarget = targetData.some((item: any) => item.bistkodu === code?.toUpperCase());
+        setHasTargetPrice(hasTarget);
+      })
+      .catch(() => setHasTargetPrice(false));
   }, [code]);
+
+  // Update document title based on target price availability
+  useEffect(() => {
+    if (stock) {
+      const title = hasTargetPrice
+        ? `${stock.name} (${stock.code}) Hedef Fiyat 2026 | YatırımX`
+        : `${stock.code} Hisse Fiyatı, Grafiği ve ${stock.code} Yorum 2026 | YatırımX`;
+      document.title = title;
+
+      // Update meta description
+      const description = hasTargetPrice
+        ? `${stock.name} (${stock.code}) Hedef Fiyat 2026`
+        : `${stock.code} hisse senedi fiyatı, canlı grafik ve detaylı teknik analiz. ${stock.code} hisse grafiği, yorumları ve 2026 tahminleri.`;
+
+      let metaDescription = document.querySelector('meta[name="description"]');
+      if (!metaDescription) {
+        metaDescription = document.createElement('meta');
+        metaDescription.setAttribute('name', 'description');
+        document.head.appendChild(metaDescription);
+      }
+      metaDescription.setAttribute('content', description);
+    }
+  }, [stock, hasTargetPrice]);
 
   if (loading) {
     return (
@@ -356,7 +389,12 @@ const StockDetail: React.FC = () => {
 
       {/* Main Title Area */}
       <div className="mb-10">
-        <h1 className="text-3xl font-black text-white mb-3">{stock.code} Hisse Fiyatı, Grafiği ve {stock.code} Yorum 2026</h1>
+        <h1 className="text-3xl font-black text-white mb-3">
+          {hasTargetPrice
+            ? `${stock.name} (${stock.code}) Hedef Fiyat 2026`
+            : `${stock.code} Hisse Fiyatı, Grafiği ve ${stock.code} Yorum 2026`
+          }
+        </h1>
         <p className="text-zinc-500 text-sm max-w-4xl leading-relaxed">
           {stock.code} hisse senedi fiyatı, canlı grafik ve detaylı teknik analiz bilgileri. Güncel {stock.code} hisse fiyatı ₺{stock.price.toFixed(2)} seviyesinde işlem görmektedir. {stock.code} hisse grafiği, teknik göstergeler ve uzman yorumları ile 2026 yılı için {stock.code} hisse senedi analizlerini inceleyin. Anlık fiyat hareketleri, hacim bilgileri ve piyasa derinliği ile {stock.code} yatırım kararlarınızı destekleyin.
         </p>
