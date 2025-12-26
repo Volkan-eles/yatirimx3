@@ -65,7 +65,8 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
     {
       title: "Genel Bakış",
       items: [
-        { name: 'Ana Sayfa', path: '/', icon: HomeIcon }
+        { name: 'Ana Sayfa', path: '/', icon: HomeIcon },
+        { name: 'Blog', path: '/blog', icon: BookOpen }
       ]
     },
     {
@@ -105,7 +106,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
           </Link>
 
           {/* Desktop Nav */}
-          <nav className="hidden lg:flex items-center gap-1.5 bg-zinc-900/40 backdrop-blur-md p-1.5 rounded-2xl border border-white/5 shadow-xl shadow-black/20 ring-1 ring-white/5 hover:ring-white/10 transition-all duration-300">
+          <nav className="hidden xl:flex items-center gap-1.5 bg-zinc-900/40 backdrop-blur-md p-1.5 rounded-2xl border border-white/5 shadow-xl shadow-black/20 ring-1 ring-white/5 hover:ring-white/10 transition-all duration-300">
             {desktopLinks.map((link) => (
               <NavLink key={link.path} to={link.path} icon={link.icon} active={location.pathname === link.path}>
                 {link.name}
@@ -115,7 +116,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
 
           {/* Actions */}
           <div className="flex items-center gap-3">
-            <div className="hidden md:flex items-center bg-zinc-900/50 border border-white/10 rounded-lg px-3 py-2 focus-within:border-blue-500/50 focus-within:ring-2 focus-within:ring-blue-500/20 transition-all w-56 group cursor-text">
+            <div className="hidden md:flex items-center bg-zinc-900/50 border border-white/10 rounded-lg px-3 py-2 focus-within:border-blue-500/50 focus-within:ring-2 focus-within:ring-blue-500/20 transition-all w-40 lg:w-56 group cursor-text">
               <Search className="w-3.5 h-3.5 text-zinc-500 group-focus-within:text-blue-400 transition-colors" />
               <input
                 type="text"
@@ -135,11 +136,12 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
               <Settings className="w-5 h-5" />
             </button>
 
+            {/* Mobile Menu Button - Show on LG screens and below now */}
             <button
-              className="lg:hidden p-2 text-zinc-400 hover:text-white relative z-50"
+              className="xl:hidden p-2 text-zinc-400 hover:text-white relative z-50 hover:bg-white/5 rounded-xl transition-colors"
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
             >
-              {isMobileMenuOpen ? <X /> : <Menu />}
+              {isMobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
             </button>
           </div>
         </div>
@@ -147,14 +149,14 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
 
       {/* Mobile Menu Backdrop */}
       <div
-        className={`fixed inset-0 z-40 bg-black/60 backdrop-blur-sm transition-opacity duration-300 lg:hidden ${isMobileMenuOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'
+        className={`fixed inset-0 z-40 bg-black/60 backdrop-blur-md transition-all duration-500 xl:hidden ${isMobileMenuOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'
           }`}
         onClick={() => setIsMobileMenuOpen(false)}
       />
 
       {/* Mobile Menu Sidebar */}
       <div
-        className={`fixed top-0 right-0 bottom-0 w-[85%] max-w-sm z-50 bg-zinc-950 border-l border-white/10 shadow-2xl transition-transform duration-300 cubic-bezier(0.16, 1, 0.3, 1) lg:hidden transform flex flex-col ${isMobileMenuOpen ? 'translate-x-0' : 'translate-x-full'
+        className={`fixed top-0 right-0 bottom-0 w-[85%] max-w-sm z-50 bg-[#09090b]/95 backdrop-blur-xl border-l border-white/10 shadow-2xl transition-transform duration-500 cubic-bezier(0.16, 1, 0.3, 1) xl:hidden transform flex flex-col ${isMobileMenuOpen ? 'translate-x-0' : 'translate-x-full'
           }`}
       >
         <div className="p-6 border-b border-white/5 flex items-center justify-between">
@@ -176,9 +178,9 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
                   <Link
                     key={link.path}
                     to={link.path}
-                    className={`flex items-center justify-between p-3 rounded-xl transition-all ${location.pathname === link.path
-                      ? 'bg-blue-600/10 text-blue-400 border border-blue-600/20 shadow-sm shadow-blue-900/10'
-                      : 'text-zinc-300 hover:bg-white/5 hover:text-white'
+                    className={`flex items-center justify-between p-3 rounded-xl transition-all group ${location.pathname === link.path
+                      ? 'bg-blue-600/10 text-blue-400 border border-blue-600/20 shadow-[0_0_15px_rgba(59,130,246,0.1)]'
+                      : 'text-zinc-400 hover:bg-white/5 hover:text-white'
                       }`}
                   >
                     <div className="flex items-center gap-3">
