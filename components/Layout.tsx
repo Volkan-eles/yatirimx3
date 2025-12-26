@@ -13,18 +13,18 @@ interface NavLinkProps {
 const NavLink: React.FC<NavLinkProps> = ({ to, children, icon: Icon, active }) => (
   <Link
     to={to}
-    className={`relative flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-medium transition-all duration-300 group whitespace-nowrap ${active
+    className={`relative flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-all duration-300 group whitespace-nowrap ${active
       ? 'text-white'
       : 'text-zinc-400 hover:text-white'
       }`}
   >
     {active && (
       <>
-        <span className="absolute inset-0 bg-gradient-to-tr from-blue-600/20 to-indigo-600/20 rounded-xl border border-blue-500/20 shadow-[0_0_15px_rgba(59,130,246,0.15)]"></span>
-        <span className="absolute bottom-1.5 left-1/2 -translate-x-1/2 w-1 h-1 bg-blue-500 rounded-full shadow-[0_0_8px_rgba(59,130,246,0.8)]"></span>
+        <span className="absolute inset-0 bg-gradient-to-tr from-blue-600/20 to-indigo-600/20 rounded-lg border border-blue-500/20 shadow-[0_0_15px_rgba(59,130,246,0.15)]"></span>
+        <span className="absolute bottom-1 left-1/2 -translate-x-1/2 w-1 h-1 bg-blue-500 rounded-full shadow-[0_0_8px_rgba(59,130,246,0.8)]"></span>
       </>
     )}
-    <Icon className={`w-4 h-4 relative z-10 transition-transform duration-300 group-hover:scale-110 ${active ? 'text-blue-400 drop-shadow-[0_0_8px_rgba(59,130,246,0.5)]' : 'text-zinc-500 group-hover:text-zinc-300'}`} />
+    <Icon className={`w-3.5 h-3.5 relative z-10 transition-transform duration-300 group-hover:scale-110 ${active ? 'text-blue-400 drop-shadow-[0_0_8px_rgba(59,130,246,0.5)]' : 'text-zinc-500 group-hover:text-zinc-300'}`} />
     <span className="relative z-10">{children}</span>
   </Link>
 );
@@ -91,22 +91,22 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
     <div className="min-h-screen flex flex-col font-sans selection:bg-blue-500/30">
       {/* Navbar */}
       <header className="border-b border-white/5 bg-black/20 backdrop-blur-xl sticky top-0 z-50">
-        <div className="container mx-auto px-4 h-16 flex items-center justify-between">
+        <div className="container mx-auto px-4 h-14 flex items-center justify-between">
 
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3 group">
-            <div className="relative flex items-center justify-center w-9 h-9 rounded-xl bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800 shadow-lg shadow-blue-900/20 group-hover:scale-105 transition-transform duration-300">
-              <TrendingUp className="w-5 h-5 text-white" />
-              <div className="absolute inset-0 bg-white/20 rounded-xl opacity-0 group-hover:opacity-100 transition-opacity"></div>
+            <div className="relative flex items-center justify-center w-8 h-8 rounded-lg bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800 shadow-lg shadow-blue-900/20 group-hover:scale-105 transition-transform duration-300">
+              <TrendingUp className="w-4 h-4 text-white" />
+              <div className="absolute inset-0 bg-white/20 rounded-lg opacity-0 group-hover:opacity-100 transition-opacity"></div>
             </div>
             <div className="flex flex-col">
-              <span className="font-bold text-lg leading-none tracking-tight text-white font-display">YatirimX</span>
-              <span className="text-[10px] text-zinc-500 font-medium tracking-[0.2em] uppercase mt-1">Terminal</span>
+              <span className="font-bold text-base leading-none tracking-tight text-white font-display">YatirimX</span>
+              <span className="text-[9px] text-zinc-500 font-medium tracking-[0.2em] uppercase mt-0.5">Terminal</span>
             </div>
           </Link>
 
           {/* Desktop Nav */}
-          <nav className="hidden xl:flex items-center gap-1.5 bg-zinc-900/40 backdrop-blur-md p-1.5 rounded-2xl border border-white/5 shadow-xl shadow-black/20 ring-1 ring-white/5 hover:ring-white/10 transition-all duration-300">
+          <nav className="hidden xl:flex items-center gap-1 bg-zinc-900/40 backdrop-blur-md p-1 rounded-xl border border-white/5 shadow-xl shadow-black/20 ring-1 ring-white/5 hover:ring-white/10 transition-all duration-300">
             {desktopLinks.map((link) => (
               <NavLink key={link.path} to={link.path} icon={link.icon} active={location.pathname === link.path}>
                 {link.name}
@@ -115,8 +115,8 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
           </nav>
 
           {/* Actions */}
-          <div className="flex items-center gap-3">
-            <div className="hidden md:flex items-center bg-zinc-900/50 border border-white/10 rounded-lg px-3 py-2 focus-within:border-blue-500/50 focus-within:ring-2 focus-within:ring-blue-500/20 transition-all w-40 lg:w-56 group cursor-text">
+          <div className="flex items-center gap-2">
+            <div className="hidden md:flex items-center bg-zinc-900/50 border border-white/10 rounded-lg px-2.5 py-1.5 focus-within:border-blue-500/50 focus-within:ring-2 focus-within:ring-blue-500/20 transition-all w-40 lg:w-48 group cursor-text">
               <Search className="w-3.5 h-3.5 text-zinc-500 group-focus-within:text-blue-400 transition-colors" />
               <input
                 type="text"
