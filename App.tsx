@@ -13,6 +13,8 @@ import HalkaArzDetail from './pages/HalkaArzDetail';
 import AraciKurumlar from './pages/AraciKurumlar';
 import BrokerDetail from './pages/BrokerDetail';
 import SermayeArtirimi from './pages/SermayeArtirimi';
+import Blog from './pages/Blog';
+import BlogDetail from './pages/BlogDetail';
 
 // Legal and Corporate Pages
 import Hakkimizda from './pages/Hakkimizda';
@@ -54,6 +56,8 @@ function App() {
           {/* Corporate Pages */}
           <Route path="/hakkimizda" element={<Hakkimizda />} />
           <Route path="/iletisim" element={<Iletisim />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/blog/:slug" element={<BlogDetail />} />
 
           {/* Legal Pages */}
           <Route path="/kullanim-kosullari" element={<KullanimKosullari />} />
