@@ -356,9 +356,9 @@ const StockDetail: React.FC = () => {
 
       {/* Main Title Area */}
       <div className="mb-10">
-        <h1 className="text-3xl font-black text-white mb-3">{stock.code} Hisse Hedef Fiyat 2026 | {stock.code} Hisse Yorum</h1>
+        <h1 className="text-3xl font-black text-white mb-3">{stock.code} Hisse Fiyatı, Grafiği ve {stock.code} Yorum 2026</h1>
         <p className="text-zinc-500 text-sm max-w-4xl leading-relaxed">
-          {new Date().toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })} güncel {stock.code} hisse yorum ve {stock.code} hisse hedef fiyat 2026 analizleri burada. Uzman hisse yorum değerlendirmeleri ve hisse hedef fiyat tahminleri ile {stock.code} temettü 2026 beklentilerine ulaşın.
+          {stock.code} hisse senedi fiyatı, canlı grafik ve detaylı teknik analiz bilgileri. {new Date().toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' })} tarihli güncel {stock.code} hisse fiyatı ₺{stock.price.toFixed(2)} seviyesinde işlem görmektedir. {stock.code} hisse grafiği, teknik göstergeler ve uzman yorumları ile 2026 yılı için {stock.code} hisse senedi analizlerini inceleyin. Anlık fiyat hareketleri, hacim bilgileri ve piyasa derinliği ile {stock.code} yatırım kararlarınızı destekleyin.
         </p>
       </div>
 
