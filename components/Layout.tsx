@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Bell, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen } from 'lucide-react';
+import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen } from 'lucide-react';
 import Footer from './Footer';
 
 interface NavLinkProps {
@@ -13,15 +13,18 @@ interface NavLinkProps {
 const NavLink: React.FC<NavLinkProps> = ({ to, children, icon: Icon, active }) => (
   <Link
     to={to}
-    className={`flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200 group relative ${active
+    className={`relative flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-medium transition-all duration-300 group whitespace-nowrap ${active
       ? 'text-white'
-      : 'text-zinc-400 hover:text-zinc-100'
+      : 'text-zinc-400 hover:text-white'
       }`}
   >
     {active && (
-      <span className="absolute inset-0 bg-white/5 rounded-lg border border-white/5 shadow-sm"></span>
+      <>
+        <span className="absolute inset-0 bg-gradient-to-tr from-blue-600/20 to-indigo-600/20 rounded-xl border border-blue-500/20 shadow-[0_0_15px_rgba(59,130,246,0.15)]"></span>
+        <span className="absolute bottom-1.5 left-1/2 -translate-x-1/2 w-1 h-1 bg-blue-500 rounded-full shadow-[0_0_8px_rgba(59,130,246,0.8)]"></span>
+      </>
     )}
-    <Icon className={`w-4 h-4 relative z-10 ${active ? 'text-blue-400' : 'text-zinc-500 group-hover:text-zinc-300'}`} />
+    <Icon className={`w-4 h-4 relative z-10 transition-transform duration-300 group-hover:scale-110 ${active ? 'text-blue-400 drop-shadow-[0_0_8px_rgba(59,130,246,0.5)]' : 'text-zinc-500 group-hover:text-zinc-300'}`} />
     <span className="relative z-10">{children}</span>
   </Link>
 );
@@ -102,7 +105,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
           </Link>
 
           {/* Desktop Nav */}
-          <nav className="hidden lg:flex items-center gap-1 bg-white/5 p-1 rounded-xl border border-white/5 shadow-inner shadow-black/20">
+          <nav className="hidden lg:flex items-center gap-1.5 bg-zinc-900/40 backdrop-blur-md p-1.5 rounded-2xl border border-white/5 shadow-xl shadow-black/20 ring-1 ring-white/5 hover:ring-white/10 transition-all duration-300">
             {desktopLinks.map((link) => (
               <NavLink key={link.path} to={link.path} icon={link.icon} active={location.pathname === link.path}>
                 {link.name}
@@ -127,10 +130,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
 
             <div className="h-6 w-px bg-white/10 hidden md:block mx-1"></div>
 
-            <button className="p-2 text-zinc-400 hover:text-white hover:bg-white/5 rounded-lg transition-colors relative">
-              <Bell className="w-5 h-5" />
-              <span className="absolute top-2 right-2 w-2 h-2 bg-rose-500 rounded-full border-2 border-black"></span>
-            </button>
+
             <button className="p-2 text-zinc-400 hover:text-white hover:bg-white/5 rounded-lg transition-colors hidden md:block">
               <Settings className="w-5 h-5" />
             </button>
