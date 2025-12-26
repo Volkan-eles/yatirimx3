@@ -486,24 +486,36 @@ const StockDetail: React.FC = () => {
             <h3 className="text-2xl font-black text-white">Sıkça Sorulan Sorular</h3>
             <div className="glass-panel px-8 rounded-[2rem] border border-white/5">
               <FAQItem
-                question={`${stock.code} Hisse Güncel Yorumları Nedir?`}
-                answer={`${stock.code} hissesi son dönemdeki finansal sonuçları ve sektörel gelişmeleri ile analistlerin radarında. Teknik olarak destek seviyelerinden gelen alımlarla pozitif bir momentum sergiliyor.`}
+                question={`${stock.code} Hisse Güncel Yorumları Nedir 2026?`}
+                answer={`${stock.code} hissesi 2026 yılı için uzman analistlerin radarında. Güncel teknik analizlere göre, ${stock.code} destek seviyelerinden gelen alımlarla pozitif bir momentum sergiliyor. Sektörel gelişmeler ve şirketin finansal performansı göz önüne alındığında, orta vadeli beklentiler olumlu yönde.`}
               />
               <FAQItem
                 question={`2026 ${stock.code} Hisse Hedef Fiyatı Nedir?`}
-                answer={`Uzman analistlerin konsensüs beklentisi, şirketin büyüme potansiyeli ve pazar payı artışı ile 2026 yılı sonunda ₺${(stock.price * 1.6).toFixed(2)} seviyelerine ulaşması yönündedir.`}
+                answer={`Analistlerin 2026 yılı için ${stock.code} hisse hedef fiyat konsensüsü ₺${(stock.price * 1.6).toFixed(2)} seviyelerini işaret ediyor. Şirketin büyüme potansiyeli, pazar payı artışı ve sektörel dinamikler dikkate alındığında, uzun vadeli yatırımcılar için cazip fırsatlar sunabilir.`}
               />
               <FAQItem
-                question={`${stock.code} Hisse Grafik Nasıl Yorumlanmalı?`}
-                answer="Hissenin grafiğinde 50 günlük hareketli ortalama, 200 günlük ortalamanın üzerinde seyretmekte olup, bu durum uzun vadeli yükseliş trendinin (Golden Cross) devam ettiğini göstermektedir."
+                question={`${stock.code} Hisse Temettü Ne Zaman 2026?`}
+                answer={`${stock.code} şirketinin temettü politikası gereği, 2026 yılında genellikle yılın ikinci çeyreğinde (Nisan-Mayıs) kar dağıtımı yapması beklenmektedir. Kesin temettü tarihi ve tutarı, şirketin genel kurul kararı sonrası KAP bildirimi ile açıklanacaktır.`}
               />
               <FAQItem
-                question={`${stock.code} Hisse Temettü Ne Zaman?`}
-                answer="Şirketin temettü politikası gereği, genellikle yılın ikinci çeyreğinde (Nisan-Mayıs) kar dağıtımı yapması beklenmektedir. Kesin tarih KAP bildirimi ile netleşecektir."
+                question={`${stock.code} Hisse Neden Düşüyor / Yükseliyor 2026?`}
+                answer={`${stock.code} hisse fiyatındaki hareketler, makroekonomik veriler, şirket karlılığı, sektörel haber akışı, küresel piyasa dinamikleri ve yatırımcı risk iştahı gibi birçok faktöre bağlı olarak değişkenlik gösterebilir. 2026 yılı için piyasa beklentileri ve şirket performansı yakından takip edilmelidir.`}
               />
               <FAQItem
-                question={`${stock.code} Neden Düşüyor / Yükseliyor?`}
-                answer="Hisse fiyatlarındaki dalgalanmalar makroekonomik veriler, şirket karlılığı, sektörel haber akışı ve piyasadaki genel risk iştahı gibi many many faktöre bağlı olarak değişkenlik gösterebilir."
+                question={`${stock.code} Hisse Alınır Mı 2026?`}
+                answer={`${stock.code} hissesinin 2026 yılı için alım kararı, yatırımcının risk profili, yatırım hedefleri ve piyasa koşullarına göre değerlendirilmelidir. Teknik göstergeler, temel analiz verileri ve uzman görüşleri dikkate alınarak, kişisel finansal danışmanınızla görüşerek karar verilmesi önerilir.`}
+              />
+              <FAQItem
+                question={`${stock.code} Hisse Senedi Nasıl Alınır?`}
+                answer={`${stock.code} hisse senedi almak için öncelikle bir aracı kurumda yatırım hesabı açmanız gerekmektedir. Hesap açıldıktan sonra, aracı kurumun mobil uygulaması veya web platformu üzerinden ${stock.code} hissesini arayıp, istediğiniz miktarda alım emri verebilirsiniz. İşlem, BIST piyasa saatleri içinde gerçekleştirilir.`}
+              />
+              <FAQItem
+                question={`${stock.code} Hisse Bölünmesi Ne Zaman?`}
+                answer={`${stock.code} hisse bölünmesi (split) kararı, şirket yönetim kurulu tarafından alınır ve KAP'ta duyurulur. Hisse bölünmesi genellikle hisse fiyatının yüksek olduğu durumlarda, likiditeyi artırmak ve küçük yatırımcıların erişimini kolaylaştırmak için yapılır. Güncel bir bölünme planı için şirketin resmi açıklamalarını takip ediniz.`}
+              />
+              <FAQItem
+                question={`${stock.code} Teknik Analizi Nasıl?`}
+                answer={`${stock.code} hissesinin teknik analizinde, 50 günlük hareketli ortalama ${stock.fiftyDayAverage ? `₺${stock.fiftyDayAverage.toFixed(2)}` : 'hesaplanıyor'}, 200 günlük hareketli ortalama ise ${stock.twoHundredDayAverage ? `₺${stock.twoHundredDayAverage.toFixed(2)}` : 'hesaplanıyor'} seviyelerinde. RSI, MACD ve Bollinger Bantları gibi göstergeler, güncel trend ve momentum hakkında bilgi verir. Detaylı teknik analiz için profesyonel araçlar kullanılması önerilir.`}
               />
             </div>
           </div>
