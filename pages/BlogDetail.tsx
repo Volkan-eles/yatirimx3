@@ -99,40 +99,53 @@ const BlogDetail: React.FC = () => {
                         {post.excerpt}
                     </p>
 
-                    <div className="text-zinc-300 space-y-6 leading-relaxed">
-                        <p>
-                            Borsa İstanbul'da yatırım yapmak, doğru stratejilerle finansal geleceğinizi şekillendirmenin en etkili yollarından biridir. Ancak, piyasaların volatilitesi ve karmaşık yapısı, hazırlıksız yatırımcılar için riskler barındırır. İşte başarılı bir borsa yatırımcısı olmak için dikkat etmeniz gereken temel prensipler.
-                        </p>
+                    {/* Dynamic Content Rendering */}
+                    <div
+                        className="text-zinc-300 space-y-6 leading-relaxed"
+                        dangerouslySetInnerHTML={{ __html: post.content }}
+                    />
 
-                        <h2 className="text-2xl font-bold text-white mt-8 mb-4">1. Uzun Vadeli Düşünün</h2>
-                        <p>
-                            Borsa bir oyun yeri değil, şirketlere ortak olma platformudur. Warren Buffett'ın da dediği gibi: <span className="text-white font-semibold">"Hisse senedi piyasası, sabırsızlardan sabırlılara para aktaran bir araçtır."</span> Kısa vadeli fiyat hareketlerinden ziyade, şirketin uzun vadeli büyüme potansiyeline odaklanın.
-                        </p>
-
-                        <h2 className="text-2xl font-bold text-white mt-8 mb-4">2. Çeşitlendirme (Sepet) Yapın</h2>
-                        <p>
-                            "Tüm yumurtaları aynı sepete koymayın" sözü borsada hayati önem taşır. Portföyünüzü farklı sektörlere ve farklı risk gruplarına dağıtarak, olası kayıpları minimize edebilirsiniz. Enerji, bankacılık, sanayi ve teknoloji gibi farklı sektörlerden dengeli bir portföy oluşturun.
-                        </p>
-
-                        <div className="my-8 p-6 bg-blue-500/10 border border-blue-500/20 rounded-2xl">
-                            <h4 className="text-blue-400 font-bold mb-2 flex items-center gap-2">
-                                💡 Profesyonel İpucu
-                            </h4>
-                            <p className="text-sm m-0">
-                                Portföyünüzde en az 5-8 arası farklı hisse bulundurmak, sektörel risklerden korunmanıza yardımcı olur. Tek bir hissenin portföydeki ağırlığı %20'yi geçmemelidir.
-                            </p>
+                    {/* Conditional Table Rendering */}
+                    {(post as any).tableData && (
+                        <div className="mt-8 overflow-x-auto rounded-xl border border-white/10">
+                            <table className="w-full text-sm text-left">
+                                <thead className="text-xs text-zinc-400 uppercase bg-white/5 font-bold">
+                                    <tr>
+                                        <th className="px-6 py-4">Şirket Ünvanı (Hisse Kodu)</th>
+                                        <th className="px-6 py-4 text-center">Bedelsiz Oranı</th>
+                                        <th className="px-6 py-4 text-center">Bedelsiz Karar Tarihi</th>
+                                        <th className="px-6 py-4 text-center">SPK Başvuru Tarihi</th>
+                                    </tr>
+                                </thead>
+                                <tbody className="divide-y divide-white/5">
+                                    {(post as any).tableData.map((row: any, idx: number) => (
+                                        <tr key={idx} className="hover:bg-white/5 transition-colors">
+                                            <td className="px-6 py-4 font-medium text-white">
+                                                {row.name} <span className="text-blue-400 font-bold">({row.code})</span>
+                                            </td>
+                                            <td className="px-6 py-4 text-center text-emerald-400 font-bold">{row.ratio}</td>
+                                            <td className="px-6 py-4 text-center text-zinc-400">{row.decisionDate}</td>
+                                            <td className="px-6 py-4 text-center text-zinc-400">{row.appDate}</td>
+                                        </tr>
+                                    ))}
+                                </tbody>
+                            </table>
                         </div>
+                    )}
 
-                        <h2 className="text-2xl font-bold text-white mt-8 mb-4">3. Şirketi Tanıyın</h2>
-                        <p>
-                            Hissesini aldığınız şirketin ne iş yaptığını, rakiplerini, karlılık durumunu ve gelecek planlarını detaylıca araştırın. KAP (Kamuyu Aydınlatma Platformu) bildirimlerini takip edin ve faaliyet raporlarını okuyun. Bilmediğiniz bir işe yatırım yapmak, karanlıkta yürümeye benzer.
-                        </p>
-
-                        <h2 className="text-2xl font-bold text-white mt-8 mb-4">4. Duygularınızı Kontrol Edin</h2>
-                        <p>
-                            Piyasa coşkuluyken alım yapma (FOMO) veya piyasa düşerken panikle satma (Panic Selling) dürtülerinize engel olun. Yatırım kararlarınızı duygularınızla değil, mantığınızla ve verilerle verin.
-                        </p>
-                    </div>
+                    {/* SEO Keywords */}
+                    {(post as any).seoKeywords && (
+                        <div className="mt-12 pt-8 border-t border-white/5">
+                            <h4 className="text-sm font-bold text-zinc-500 uppercase tracking-widest mb-4">İlgili Aramalar</h4>
+                            <div className="flex flex-wrap gap-2">
+                                {(post as any).seoKeywords.map((keyword: string, idx: number) => (
+                                    <span key={idx} className="px-3 py-1 bg-zinc-900 border border-white/10 rounded-full text-xs text-zinc-400 hover:text-white hover:border-blue-500/30 transition-colors cursor-default">
+                                        {keyword}
+                                    </span>
+                                ))}
+                            </div>
+                        </div>
+                    )}
                 </article>
             </div>
 

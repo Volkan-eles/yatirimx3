@@ -6,23 +6,86 @@ import { Calendar, User, ArrowRight, BookOpen, Search, Tag } from 'lucide-react'
 export const BLOG_POSTS = [
     {
         id: 1,
-        slug: 'borsada-yatirim-yaparken-dikkat-edilmesi-gerekenler',
-        title: 'Borsada Yatırım Yaparken Dikkat Edilmesi Gereken 5 Altın Kural',
-        excerpt: 'Borsa İstanbul\'da başarılı bir yatırımcı olmak için bilmeniz gereken temel stratejiler ve risk yönetimi ipuçları.',
-        content: '...', // Bu detay sayfasında kullanılacak
-        category: 'Yatırım Stratejileri',
+        slug: '2026-bedelsiz-verecek-hisseler',
+        title: '2026 Bedelsiz Verecek Hisseler | Güncel SPK Bedelsiz Takvimi',
+        excerpt: '2026 yılında bedelsiz sermaye artırımı yapması beklenen hisseler, bedelsiz oranları, karar tarihleri ve SPK başvuru tarihleri. Güncel 2026 bedelsiz takvimi burada.',
+        content: `
+      <p>Borsa İstanbul’da 2025 yılı, yatırımcılar açısından bedelsiz sermaye artırımı bakımından oldukça hareketli geçti. Yılın sonuna yaklaşılırken yatırımcıların odağı, 2026 yılında bedelsiz sermaye artırımı yapması beklenen hisselere çevrilmiş durumda.</p>
+      <p>Bu içerikte; SPK bedelsiz onayı bekleyen şirketler, bedelsiz oranları, karar tarihleri ve SPK başvuru tarihleri detaylı şekilde yer almaktadır. İçerik düzenli olarak güncellenmektedir.</p>
+
+      <h2>2026 Bedelsiz Sermaye Artırımı Nedir?</h2>
+      <h3>Bedelsiz Sermaye Artırımı Ne Anlama Gelir?</h3>
+      <p>Bedelsiz sermaye artırımı, şirketlerin iç kaynaklarını (kâr yedekleri, emisyon primi vb.) kullanarak sermayelerini artırmalarıdır. Bu işlem sonucunda yatırımcılar ek bir ödeme yapmadan pay sahibi olmaya devam eder.</p>
+
+      <h3>Bedelsiz Hisseler Hisse Fiyatını Nasıl Etkiler?</h3>
+      <ul>
+        <li>Hisse adedi artar</li>
+        <li>Teorik hisse fiyatı bölünme oranına göre düşer</li>
+        <li>Şirketin piyasa değeri değişmez</li>
+      </ul>
+
+      <h2>2026’da Bedelsiz Verecek Hisseler Ne Zaman Bölünecek?</h2>
+      <p>Sermaye Piyasası Kurulu (SPK), önümüzdeki dönemde birçok şirketin bedelsiz sermaye artırımı başvurusunu değerlendirecektir. Bu nedenle aşağıda yer alan şirketlerin bazıları 2025 yılı içinde onay alabileceği gibi, bölünme işlemleri 2026 yılına da sarkabilir.</p>
+      
+      <div class="bg-yellow-500/10 border-l-4 border-yellow-500 p-4 my-4">
+        <p class="text-sm text-yellow-200">Not: Listede yer alan şirketler, resmi KAP açıklamaları ve SPK başvuruları esas alınarak hazırlanmıştır.</p>
+      </div>
+
+      <h2>SPK Bedelsiz Onayı Bekleyen Şirketler (2026)</h2>
+      <p>Aşağıda, 2026 yılında bedelsiz sermaye artırımı yapması beklenen hisseler, bedelsiz oranları ve ilgili tarihler yer almaktadır.</p>
+    `,
+        tableData: [
+            { code: 'CASA', name: 'Casa Emtia Petrol Kimyevi ve Türevleri A.Ş.', ratio: '%1000', decisionDate: '22 Eylül 2023', appDate: '–' },
+            { code: 'MPARK', name: 'MLP Sağlık Hizmetleri A.Ş.', ratio: '%200', decisionDate: '3 Kasım 2023', appDate: '3 Kasım 2023' },
+            { code: 'AGROT', name: 'Agrotech Yüksek Teknoloji ve Yatırım A.Ş.', ratio: '%100', decisionDate: '26 Kasım 2024', appDate: '3 Aralık 2024' },
+            { code: 'QNBTR', name: 'QNB Bank A.Ş.', ratio: '%64,17910', decisionDate: '14 Mart 2025 (Revize)', appDate: '26 Kasım 2025' },
+            { code: 'REEDR', name: 'Reeder Teknoloji A.Ş.', ratio: '%300', decisionDate: '3 Haziran 2025 (Revize)', appDate: '19 Eylül 2025' },
+            { code: 'SODSN', name: 'Sodaş Sodyum Sanayii A.Ş.', ratio: '%700', decisionDate: '20 Haziran 2025', appDate: '11 Temmuz 2025' },
+            { code: 'GENIL', name: 'Gen İlaç ve Sağlık Ürünleri A.Ş.', ratio: '%1400', decisionDate: '14 Temmuz 2025', appDate: '11 Ağustos 2025' },
+            { code: 'ALVES', name: 'Alves Kablo A.Ş.', ratio: '%900', decisionDate: '15 Ağustos 2025', appDate: '5 Eylül 2025' },
+            { code: 'LINK', name: 'Link Bilgisayar A.Ş.', ratio: '%4000', decisionDate: '18 Ağustos 2025', appDate: '26 Ağustos 2025' },
+            { code: 'EUYO', name: 'Euro Menkul Kıymet YO', ratio: '%200', decisionDate: '1 Eylül 2025', appDate: '3 Eylül 2025' },
+            { code: 'ETYAT', name: 'Euro Trend YO', ratio: '%200', decisionDate: '1 Eylül 2025', appDate: '3 Eylül 2025' },
+            { code: 'EUKYO', name: 'Euro Kapital YO', ratio: '%200', decisionDate: '1 Eylül 2025', appDate: '3 Eylül 2025' },
+            { code: 'ENTRA', name: 'IC Enterra Yenilenebilir Enerji A.Ş.', ratio: '%100', decisionDate: '23 Eylül 2025', appDate: '25 Eylül 2025' },
+            { code: 'KZBGY', name: 'Kızılbük GYO', ratio: '%233,33', decisionDate: '8 Ekim 2025', appDate: '11 Kasım 2025' },
+            { code: 'RYSAS', name: 'Reysaş Taşımacılık A.Ş.', ratio: '%50', decisionDate: '31 Ekim 2025', appDate: '31 Ekim 2025' },
+            { code: 'GZNMI', name: 'Gezinomi Turizm A.Ş.', ratio: '%1000', decisionDate: '5 Kasım 2025', appDate: '7 Kasım 2025' },
+            { code: 'KAYSE', name: 'Kayseri Şeker Fabrikası A.Ş.', ratio: '%324,92', decisionDate: '7 Kasım 2025', appDate: '20 Kasım 2025' },
+            { code: 'LIDFA', name: 'Lider Faktoring A.Ş.', ratio: '%95', decisionDate: '19 Kasım 2025', appDate: '–' },
+            { code: 'GMTAS', name: 'Gimat Mağazacılık A.Ş.', ratio: '%101,07', decisionDate: '19 Kasım 2025', appDate: '21 Kasım 2025' },
+            { code: 'RYGYO', name: 'Reysaş GYO', ratio: '%100', decisionDate: '20 Kasım 2025', appDate: '20 Kasım 2025' },
+            { code: 'TRHOL', name: 'Tera Finansal Yatırımlar Holding A.Ş.', ratio: '%100', decisionDate: '21 Kasım 2025', appDate: '21 Kasım 2025' },
+            { code: 'RNPOL', name: 'Rainbow Polikarbonat A.Ş.', ratio: '%1900', decisionDate: '25 Kasım 2025', appDate: '1 Aralık 2025' },
+            { code: 'YAPRK', name: 'Yaprak Süt A.Ş.', ratio: '%2000', decisionDate: '8 Aralık 2025', appDate: '16 Aralık 2025' },
+            { code: 'SMRTG', name: 'Smart Güneş Enerjisi A.Ş.', ratio: '%200', decisionDate: '9 Aralık 2025', appDate: '–' },
+            { code: 'BIGCH', name: 'BigChefs Gıda A.Ş.', ratio: '%400', decisionDate: '9 Aralık 2025', appDate: '24 Aralık 2025' },
+            { code: 'ATEKS', name: 'Akın Tekstil A.Ş.', ratio: '%2023,80', decisionDate: '16 Aralık 2025', appDate: '–' },
+            { code: 'SMRVA', name: 'Sümer Varlık Yönetim A.Ş.', ratio: '%408,47', decisionDate: '23 Aralık 2025', appDate: '–' }
+        ],
+        seoKeywords: [
+            '2026 bedelsiz takvimi',
+            'SPK bedelsiz onayı bekleyen hisseler',
+            'Bedelsiz sermaye artırımı 2026',
+            'Borsa İstanbul bedelsiz hisseler',
+            'Bedelsiz bölünecek hisseler',
+            '2026 bedelsiz hisseler listesi',
+            'Hangi hisseler bedelsiz verecek'
+        ],
+        category: 'Sermaye Artırımı',
         author: 'Volkan Keleş',
         date: '26 Aralık 2025',
-        image: 'https://images.unsplash.com/photo-1611974765270-ca1258634369?q=80&w=2064&auto=format&fit=crop',
-        readTime: '5 dk'
+        image: '/bedelsiz-2026.png',
+        readTime: '8 dk'
     },
     {
         id: 2,
         slug: 'temettu-yatirimciligi-nedir',
         title: 'Temettü Yatırımcılığı: Pasif Gelir Elde Etmenin Yolu',
         excerpt: 'Düzenli temettü ödeyen şirketlere yatırım yaparak finansal özgürlüğe nasıl ulaşabilirsiniz? İşte detaylar.',
+        content: '<p>İçerik hazırlanıyor...</p>',
         category: 'Temettü',
-        author: 'Zeynep Yılmaz',
+        author: 'Volkan Keleş',
         date: '24 Aralık 2025',
         image: 'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=2071&auto=format&fit=crop',
         readTime: '7 dk'
@@ -32,22 +95,12 @@ export const BLOG_POSTS = [
         slug: 'halka-arz-furyasi-devam-edecek-mi',
         title: '2026 Yılında Halka Arz Furyası: Beklentiler ve Riskler',
         excerpt: 'Son dönemde artan halka arzların geleceği ne olacak? Yatırımcılar hangi sektörlere odaklanmalı?',
+        content: '<p>İçerik hazırlanıyor...</p>',
         category: 'Halka Arz',
-        author: 'Ahmet Demir',
+        author: 'Volkan Keleş',
         date: '20 Aralık 2025',
         image: 'https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=2070&auto=format&fit=crop',
         readTime: '4 dk'
-    },
-    {
-        id: 4,
-        slug: 'teknik-analiz-mi-temel-analiz-mi',
-        title: 'Teknik Analiz mi, Temel Analiz mi? Hangisi Daha Önemli?',
-        excerpt: 'Hisse senedi seçerken grafiklere mi bakmalı yoksa bilançolara mı? İki analiz yönteminin karşılaştırması.',
-        category: 'Analiz',
-        author: 'Mehmet Yılmaz',
-        date: '18 Aralık 2025',
-        image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop',
-        readTime: '6 dk'
     }
 ];
 
