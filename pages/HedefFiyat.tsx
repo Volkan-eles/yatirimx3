@@ -52,8 +52,10 @@ const TargetCard: React.FC<{ item: StockTargetData }> = ({ item }) => {
                         {item.stockCode}
                     </div>
                     <div>
-                        <h3 className="font-bold text-white text-lg group-hover:text-blue-400 transition-colors">{item.stockCode}</h3>
-                        <p className="text-zinc-500 text-xs truncate max-w-[150px]">{item.stockName}</p>
+                        <h3 className="font-bold text-white text-lg group-hover:text-blue-400 transition-colors">
+                            {item.stockName} ({item.stockCode}) Hedef Fiyat 2026
+                        </h3>
+                        <p className="text-zinc-500 text-xs">{totalReports} Analist Raporu</p>
                     </div>
                 </div>
                 <div className={`text-xs px-2 py-1 rounded-lg border font-medium ${getRecommendationColor(latestReport.hf_desc)}`}>

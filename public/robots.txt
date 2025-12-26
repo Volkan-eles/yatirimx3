@@ -1,0 +1,26 @@
+# robots.txt for YatırımX
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://leafy-queijadas-418637.netlify.app/sitemap.xml
+
+# Allow all search engines to crawl
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# Disallow crawling of API endpoints if any
+Disallow: /api/
+
+# Allow crawling of all stock pages
+Allow: /hisse/
+
+# Crawl delay (optional, in seconds)
+Crawl-delay: 1

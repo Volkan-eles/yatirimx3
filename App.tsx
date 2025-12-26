@@ -14,6 +14,12 @@ import AraciKurumlar from './pages/AraciKurumlar';
 import BrokerDetail from './pages/BrokerDetail';
 import SermayeArtirimi from './pages/SermayeArtirimi';
 
+// Legal and Corporate Pages
+import Hakkimizda from './pages/Hakkimizda';
+import Iletisim from './pages/Iletisim';
+import GizlilikPolitikasi from './pages/GizlilikPolitikasi';
+import KullanimKosullari from './pages/KullanimKosullari';
+
 import { About, Careers, Contact } from './pages/Corporate';
 import { Terms, Privacy, Cookies } from './pages/Legal';
 
@@ -46,14 +52,12 @@ function App() {
           <Route path="/araci-kurum/:id" element={<BrokerDetail />} />
 
           {/* Corporate Pages */}
-          <Route path="/hakkimizda" element={<About />} />
-          <Route path="/kariyer" element={<Careers />} />
-          <Route path="/iletisim" element={<Contact />} />
+          <Route path="/hakkimizda" element={<Hakkimizda />} />
+          <Route path="/iletisim" element={<Iletisim />} />
 
           {/* Legal Pages */}
-          <Route path="/kullanim-kosullari" element={<Terms />} />
-          <Route path="/gizlilik-politikasi" element={<Privacy />} />
-          <Route path="/cerezler" element={<Cookies />} />
+          <Route path="/kullanim-kosullari" element={<KullanimKosullari />} />
+          <Route path="/gizlilik-politikasi" element={<GizlilikPolitikasi />} />
         </Routes>
       </Layout>
     </Router>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Ana Sayfa -->
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Piyasa Sayfası -->
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/piyasa</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Hedef Fiyat Sayfası -->
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hedef-fiyat</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Temettü Sayfası -->
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/temettu</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Halka Arz Sayfası -->
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/halka-arz</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Yasal Sayfalar -->
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/hakkimizda</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/iletisim</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/gizlilik-politikasi</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://leafy-queijadas-418637.netlify.app/kullanim-kosullari</loc>
+    <lastmod>2025-12-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- Not: Hisse detay sayfaları için dinamik sitemap oluşturulabilir -->
+  <!-- Örnek: /hisse/GARAN, /hisse/THYAO vb. -->
+  
+</urlset>
