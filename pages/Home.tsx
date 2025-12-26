@@ -37,48 +37,29 @@ const Home: React.FC = () => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    // Fetch real stock data from JSON files
-    Promise.all([
-      fetch('/halkarz_target_prices.json').then(res => res.json()),
-      fetch('/temettu.json').then(res => res.json()).catch(() => [])
-    ]).then(([targetPrices, dividends]) => {
-      // Group target prices by stock code and get latest
-      const stockMap = new Map<string, any>();
+    // Fetch real-time BIST stock data from Yahoo Finance
+    fetch('/bist_live_data.json')
+      .then(res => res.json())
+      .then(data => {
+        // Use real-time BIST data
+        const stockData: StockData[] = data.stocks.map((item: any) => ({
+          code: item.code,
+          name: item.name,
+          price: item.price,
+          changeRate: item.changeRate,
+          volume: item.volume,
+          sector: item.sector || 'Diğer',
+          targetPrice: 0,
+          recommendation: ''
+        }));
 
-      targetPrices.forEach((item: any) => {
-        const code = item.bistkodu;
-        if (!stockMap.has(code) || new Date(item.tarih) > new Date(stockMap.get(code).tarih)) {
-          stockMap.set(code, item);
-        }
+        setStocks(stockData);
+        setLoading(false);
+      })
+      .catch(err => {
+        console.error('Error loading BIST data:', err);
+        setLoading(false);
       });
-
-      // Convert to stock data format
-      const stockData: StockData[] = Array.from(stockMap.values()).map(item => {
-        // Parse target price
-        const targetPrice = parseFloat(item.hf_fiyat?.replace(',', '.') || '0');
-        // Generate mock current price (80-120% of target)
-        const priceRatio = 0.8 + Math.random() * 0.4;
-        const currentPrice = targetPrice * priceRatio;
-        const changeRate = ((currentPrice / (currentPrice * 0.98)) - 1) * 100;
-
-        return {
-          code: item.bistkodu,
-          name: item.sirket,
-          price: currentPrice,
-          changeRate: changeRate,
-          volume: `${(Math.random() * 100 + 10).toFixed(1)}M`,
-          sector: 'Finans', // Default sector
-          targetPrice: targetPrice,
-          recommendation: item.hf_desc
-        };
-      }).sort((a, b) => b.changeRate - a.changeRate); // Show ALL stocks, sorted by change
-
-      setStocks(stockData);
-      setLoading(false);
-    }).catch(err => {
-      console.error('Error loading stock data:', err);
-      setLoading(false);
-    });
   }, []);
 
   let displayedStocks = stocks.filter(stock =>
