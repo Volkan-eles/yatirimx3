@@ -143,7 +143,7 @@ const HedefFiyat: React.FC = () => {
 
                     return {
                         stockCode: code,
-                        stockName: reports[0].sirket,
+                        stockName: reports[0].sirket.replace(/^T\.\s*/, ''),
                         reports: reports,
                         averageTarget: prices.reduce((a, b) => a + b, 0) / prices.length,
                         highestTarget: Math.max(...prices),
