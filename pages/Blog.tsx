@@ -10,7 +10,7 @@ export const BLOG_POSTS = [
         title: '2026 Bedelsiz Verecek Hisseler | Güncel SPK Bedelsiz Takvimi',
         excerpt: '2026 yılında bedelsiz sermaye artırımı yapması beklenen hisseler, bedelsiz oranları, karar tarihleri ve SPK başvuru tarihleri. Güncel 2026 bedelsiz takvimi burada.',
         content: `
-      <p>Borsa İstanbul’da 2025 yılı, yatırımcılar açısından bedelsiz sermaye artırımı bakımından oldukça hareketli geçti. Yılın sonuna yaklaşılırken yatırımcıların odağı, 2026 yılında bedelsiz sermaye artırımı yapması beklenen hisselere çevrilmiş durumda.</p>
+      <p>Borsa İstanbul’da 2026 yılı, yatırımcılar açısından bedelsiz sermaye artırımı bakımından oldukça hareketli geçti. Yılın sonuna yaklaşılırken yatırımcıların odağı, 2027 yılında bedelsiz sermaye artırımı yapması beklenen hisselere çevrilmiş durumda.</p>
       <p>Bu içerikte; SPK bedelsiz onayı bekleyen şirketler, bedelsiz oranları, karar tarihleri ve SPK başvuru tarihleri detaylı şekilde yer almaktadır. İçerik düzenli olarak güncellenmektedir.</p>
 
       <h2>2026 Bedelsiz Sermaye Artırımı Nedir?</h2>
@@ -25,14 +25,14 @@ export const BLOG_POSTS = [
       </ul>
 
       <h2>2026’da Bedelsiz Verecek Hisseler Ne Zaman Bölünecek?</h2>
-      <p>Sermaye Piyasası Kurulu (SPK), önümüzdeki dönemde birçok şirketin bedelsiz sermaye artırımı başvurusunu değerlendirecektir. Bu nedenle aşağıda yer alan şirketlerin bazıları 2025 yılı içinde onay alabileceği gibi, bölünme işlemleri 2026 yılına da sarkabilir.</p>
+      <p>Sermaye Piyasası Kurulu (SPK), önümüzdeki dönemde birçok şirketin bedelsiz sermaye artırımı başvurusunu değerlendirecektir. Bu nedenle aşağıda yer alan şirketlerin bazıları 2026 yılı içinde onay alabileceği gibi, bölünme işlemleri 2027 yılına da sarkabilir.</p>
       
       <div class="bg-yellow-500/10 border-l-4 border-yellow-500 p-4 my-4">
         <p class="text-sm text-yellow-200">Not: Listede yer alan şirketler, resmi KAP açıklamaları ve SPK başvuruları esas alınarak hazırlanmıştır.</p>
       </div>
 
       <h2>SPK Bedelsiz Onayı Bekleyen Şirketler (2026)</h2>
-      <p>Aşağıda, 2026 yılında bedelsiz sermaye artırımı yapması beklenen hisseler, bedelsiz oranları ve ilgili tarihler yer almaktadır.</p>
+      <p>Aşağıda, 2027 yılında bedelsiz sermaye artırımı yapması beklenen hisseler, bedelsiz oranları ve ilgili tarihler yer almaktadır.</p>
     `,
         tableData: [
             { code: 'CASA', name: 'Casa Emtia Petrol Kimyevi ve Türevleri A.Ş.', ratio: '%1000', decisionDate: '22 Eylül 2023', appDate: '–' },
@@ -74,7 +74,7 @@ export const BLOG_POSTS = [
         ],
         category: 'Sermaye Artırımı',
         author: 'Volkan Keleş',
-        date: '26 Aralık 2025',
+        date: '26 Aralık 2026',
         image: '/bedelsiz-2026.png',
         readTime: '8 dk'
     },
@@ -86,7 +86,7 @@ export const BLOG_POSTS = [
         content: '<p>İçerik hazırlanıyor...</p>',
         category: 'Temettü',
         author: 'Volkan Keleş',
-        date: '24 Aralık 2025',
+        date: '24 Aralık 2026',
         image: 'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=2071&auto=format&fit=crop',
         readTime: '7 dk'
     },
@@ -98,7 +98,7 @@ export const BLOG_POSTS = [
         content: '<p>İçerik hazırlanıyor...</p>',
         category: 'Halka Arz',
         author: 'Volkan Keleş',
-        date: '20 Aralık 2025',
+        date: '20 Aralık 2026',
         image: 'https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=2070&auto=format&fit=crop',
         readTime: '4 dk'
     }
