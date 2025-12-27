@@ -45,8 +45,6 @@ const generateSparkData = (start: number, count: number) => {
     });
 };
 
-import SEO from '../components/SEO';
-
 const Borsa: React.FC = () => {
     const [searchTerm, setSearchTerm] = useState('');
     const [activeTab, setActiveTab] = useState<'Tümü' | 'Yükselenler' | 'Düşenler' | 'Hacim'>('Tümü');
