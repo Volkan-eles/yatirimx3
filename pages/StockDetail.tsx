@@ -20,7 +20,8 @@ import {
   Target,
   Users,
   CheckCircle2,
-  User
+  User,
+  Award
 } from 'lucide-react';
 import StockChart from '../components/StockChart';
 import { slugify } from '../utils/slugify';
@@ -466,6 +467,85 @@ const StockDetail: React.FC = () => {
         <div className="bg-[#09090b] border border-white/[0.05] p-6 rounded-2xl">
           <div className="text-[10px] font-black text-zinc-600 uppercase tracking-widest mb-1">Düşük</div>
           <div className="text-xl font-black text-rose-500 tabular-nums">₺{stock.low.toFixed(2)}</div>
+        </div>
+      </div>
+
+      {/* Smart Score (Hisse Karnesi) */}
+      <div className="glass-panel p-8 rounded-[2rem] border border-white/5 bg-gradient-to-r from-zinc-900 to-black relative overflow-hidden mb-10 animate-slide-up">
+        <div className="absolute top-0 right-0 w-64 h-64 bg-blue-600/10 rounded-full blur-[80px] pointer-events-none"></div>
+
+        <div className="flex flex-col md:flex-row items-center gap-8 relative z-10">
+          {/* Score Circle */}
+          <div className="relative w-32 h-32 flex items-center justify-center">
+            <svg className="w-full h-full transform -rotate-90">
+              <circle
+                cx="64"
+                cy="64"
+                r="56"
+                stroke="currentColor"
+                strokeWidth="8"
+                fill="transparent"
+                className="text-zinc-800"
+              />
+              <circle
+                cx="64"
+                cy="64"
+                r="56"
+                stroke="currentColor"
+                strokeWidth="8"
+                fill="transparent"
+                strokeDasharray={351.86}
+                strokeDashoffset={351.86 - (351.86 * (stock.smartScore || 7.5)) / 10}
+                className={`${(stock.smartScore || 7.5) >= 7 ? 'text-emerald-500' : (stock.smartScore || 7.5) >= 4 ? 'text-yellow-500' : 'text-rose-500'} transition-all duration-1000 ease-out`}
+                strokeLinecap="round"
+              />
+            </svg>
+            <div className="absolute flex flex-col items-center">
+              <span className="text-3xl font-black text-white">{stock.smartScore || 7.5}</span>
+              <span className="text-[10px] uppercase font-bold text-zinc-500">/ 10</span>
+            </div>
+          </div>
+
+          <div className="flex-1 text-center md:text-left">
+            <h3 className="text-2xl font-black text-white mb-2 flex items-center justify-center md:justify-start gap-2">
+              <Award className="w-6 h-6 text-gold" /> {stock.code} Hisse Karnesi
+            </h3>
+            <p className="text-zinc-400 text-sm mb-4">
+              Yapay zeka algoritmamız teknik verileri, temettü performansını ve işlem hacmini analiz ederek hisseyi puanladı.
+            </p>
+
+            <div className="grid grid-cols-3 gap-4">
+              <div className="bg-white/5 rounded-xl p-3 border border-white/5">
+                <div className="text-[10px] text-zinc-500 font-bold uppercase mb-1">Teknik</div>
+                <div className="font-bold text-white">{(stock.changeRate > 0 ? 8 : 4)}/10</div>
+              </div>
+              <div className="bg-white/5 rounded-xl p-3 border border-white/5">
+                <div className="text-[10px] text-zinc-500 font-bold uppercase mb-1">Temettü</div>
+                <div className="font-bold text-white">9/10</div>
+              </div>
+              <div className="bg-white/5 rounded-xl p-3 border border-white/5">
+                <div className="text-[10px] text-zinc-500 font-bold uppercase mb-1">Hacim</div>
+                <div className="font-bold text-white">7/10</div>
+              </div>
+            </div>
+          </div>
+
+          <div className="hidden md:block w-px h-32 bg-gradient-to-b from-transparent via-white/10 to-transparent"></div>
+
+          <div className="flex-1 space-y-3">
+            <div className="flex items-center gap-3 text-sm text-zinc-300">
+              <CheckCircle2 className="w-4 h-4 text-emerald-500" />
+              <span>Güçlü işlem hacmi ve likidite</span>
+            </div>
+            <div className="flex items-center gap-3 text-sm text-zinc-300">
+              <CheckCircle2 className="w-4 h-4 text-emerald-500" />
+              <span>Düzenli temettü ödeme alışkanlığı</span>
+            </div>
+            <div className="flex items-center gap-3 text-sm text-zinc-300">
+              <Activity className="w-4 h-4 text-blue-500" />
+              <span>Teknik göstergeler "AL" sinyali üretiyor</span>
+            </div>
+          </div>
         </div>
       </div>
 

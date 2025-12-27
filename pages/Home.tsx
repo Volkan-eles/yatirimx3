@@ -32,6 +32,7 @@ interface StockData {
 }
 
 import SEO from '../components/SEO';
+import MarketHeatmap from '../components/MarketHeatmap';
 
 const Home: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -219,6 +220,9 @@ const Home: React.FC = () => {
           </div>
         )}
       </div>
+
+      {/* Heatmap Section */}
+      <MarketHeatmap />
 
       {/* Advanced Insights Section (Placed below for more context) */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-12">
