@@ -43,6 +43,8 @@ const generateSparkData = (start: number, count: number) => {
     });
 };
 
+import SEO from '../components/SEO';
+
 const Borsa: React.FC = () => {
     const [searchTerm, setSearchTerm] = useState('');
     const [activeTab, setActiveTab] = useState<'Tümü' | 'Yükselenler' | 'Düşenler' | 'Hacim'>('Tümü');
@@ -79,6 +81,12 @@ const Borsa: React.FC = () => {
 
     return (
         <div className="space-y-8 animate-in fade-in duration-500 min-h-screen pb-20">
+            <SEO
+                title="Canlı Borsa Ekranı - BIST 100 Hisse Senedi Fiyatları"
+                description="Borsa İstanbul (BIST 100) canlı verileri, anlık hisse senedi fiyatları, hacim liderleri ve piyasa analizleri. YatırımX ile piyasayı anlık takip edin."
+                canonicalUrl="https://yatirimx.com/piyasa/"
+                keywords="canlı borsa, bist 100 canlı, hisse senedi fiyatları, borsa istanbul, anlık borsa verileri"
+            />
 
             {/* Hero / Header Section */}
             <div className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-blue-900/20 via-zinc-900/50 to-zinc-950 border border-white/5 p-8 md:p-10 shadow-2xl shadow-black/40">
@@ -135,8 +143,8 @@ const Borsa: React.FC = () => {
                                 key={tab}
                                 onClick={() => setActiveTab(tab as any)}
                                 className={`px-5 py-2.5 rounded-lg text-sm font-bold transition-all duration-300 whitespace-nowrap ${activeTab === tab
-                                        ? 'bg-zinc-800 text-white shadow-lg ring-1 ring-white/10'
-                                        : 'text-zinc-500 hover:text-zinc-300 hover:bg-white/5'
+                                    ? 'bg-zinc-800 text-white shadow-lg ring-1 ring-white/10'
+                                    : 'text-zinc-500 hover:text-zinc-300 hover:bg-white/5'
                                     }`}
                             >
                                 {tab}
@@ -200,8 +208,8 @@ const Borsa: React.FC = () => {
                                             </td>
                                             <td className="px-6 py-5 text-right">
                                                 <div className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-bold w-24 justify-end tabular-nums transition-colors ${isPositive
-                                                        ? 'text-emerald-400 bg-emerald-500/5 border border-emerald-500/10 group-hover:bg-emerald-500/10'
-                                                        : 'text-rose-400 bg-rose-500/5 border border-rose-500/10 group-hover:bg-rose-500/10'
+                                                    ? 'text-emerald-400 bg-emerald-500/5 border border-emerald-500/10 group-hover:bg-emerald-500/10'
+                                                    : 'text-rose-400 bg-rose-500/5 border border-rose-500/10 group-hover:bg-rose-500/10'
                                                     }`}>
                                                     {isPositive ? <TrendingUp className="w-3.5 h-3.5" /> : <TrendingDown className="w-3.5 h-3.5" />}
                                                     %{Math.abs(stock.changeRate).toFixed(2)}
