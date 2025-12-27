@@ -23,6 +23,7 @@ import {
   User
 } from 'lucide-react';
 import StockChart from '../components/StockChart';
+import { slugify } from '../utils/slugify';
 import SEO from '../components/SEO';
 import { MOCK_STOCK_DETAIL, MOCK_TARGET_PRICES } from '../constants';
 
@@ -339,7 +340,7 @@ const StockDetail: React.FC = () => {
     `2026 ${stock.code} hisse hedef fiyatı, teknik analiz ve uzman yorumları. ${stock.name} hissesi için güncel veriler ve getiri beklentileri.` :
     'Borsa İstanbul hisse senedi teknik analizi, hedef fiyat tahminleri ve güncel piyasa verileri.';
 
-  const canonicalUrl = `https://yatirimx.com/hisse/${code?.toUpperCase()}/`;
+  const canonicalUrl = `https://yatirimx.com/hisse/${slugify(code || '')}/`;
 
   // Schema.org Structured Data
   const stockSchema = stock ? {

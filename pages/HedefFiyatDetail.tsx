@@ -1,7 +1,9 @@
+
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ArrowLeft, Target, TrendingUp, Calendar, Building2, BarChart2, HelpCircle } from 'lucide-react';
+import { ArrowLeft, TrendingUp, TrendingDown, Calendar, Target, Award, BarChart3, Clock, DollarSign, Percent, Building2, HelpCircle } from 'lucide-react';
 import SEO from '../components/SEO';
+import { slugify } from '../utils/slugify';
 
 // Halkarz data structure
 interface HalkarzTargetPrice {
@@ -88,8 +90,8 @@ const HedefFiyatDetail: React.FC = () => {
             {code && (
                 <SEO
                     title={`${stockName} (${code}) Hedef Fiyat 2026 - Aracı Kurum Tahminleri | YatirimX`}
-                    description={`${stockName} (${code}) 2026 hedef fiyat tahminleri, aracı kurum raporları, al/sat/tut tavsiyeleri ve ortalama hedef fiyat beklentisi. ${code} analizleri.`}
-                    canonicalUrl={`https://yatirimx.com/hedef-fiyat/${code.toLowerCase()}/`}
+                    description={`${stockName} (${code}) 2026 hedef fiyat tahminleri, aracı kurum raporları, al / sat / tut tavsiyeleri ve ortalama hedef fiyat beklentisi.${code} analizleri.`}
+                    canonicalUrl={`https://yatirimx.com/hedef-fiyat/${slugify(code)}/`}
                     keywords={`${code}, ${stockName}, ${code} hedef fiyat, ${code} hisse analizi, 2026 borsa tahminleri`}
                 />
             )}
@@ -168,7 +170,7 @@ const HedefFiyatDetail: React.FC = () => {
                     {/* Recommendation Gauge */}
                     <div className="glass-panel p-6 rounded-2xl border border-white/5">
                         <h3 className="text-lg font-bold text-white mb-6 flex items-center gap-2">
-                            <BarChart2 className="w-5 h-5 text-purple-500" /> Analist Konsensüsü
+                            <BarChart3 className="w-5 h-5 text-purple-500" /> Analist Konsensüsü
                         </h3>
 
                         <div className="space-y-4">
@@ -408,7 +410,7 @@ const HedefFiyatDetail: React.FC = () => {
                 </div>
 
             </div>
-        </div>
+        </div >
     );
 };
 

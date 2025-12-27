@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowLeft, Calendar, Users, BarChart, Info, Clock, CheckCircle2 } from 'lucide-react';
 import SEO from '../components/SEO';
+import { slugify } from '../utils/slugify';
 
 interface IPOItem {
     code: string;
@@ -100,7 +101,7 @@ const IPOCard: React.FC<{ ipo: IPOItem; isDraft?: boolean }> = ({ ipo, isDraft }
                 <BarChart className="w-3 h-3" />
                 {ipo.lotCount} Lot
             </div>
-            <Link to={`/halka-arz/${ipo.slug || ipo.code}`} className="text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1 transition-colors">
+            <Link to={`/halka-arz/${ipo.slug || slugify(ipo.company)}`} className="text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1 transition-colors">
                 Detayları İncele <ArrowLeft className="w-3 h-3 rotate-180" />
             </Link>
         </div>

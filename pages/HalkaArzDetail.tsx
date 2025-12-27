@@ -1,8 +1,10 @@
+
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { MOCK_IPOS } from '../constants';
 import { ArrowLeft, Calendar, Building, Info, Tag, Layers, PieChart, Wallet, Users, BarChart } from 'lucide-react';
 import SEO from '../components/SEO';
+import { slugify } from '../utils/slugify';
 
 const DetailRow = ({ label, value }: { label: string; value: React.ReactNode }) => (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-2 py-4 border-b border-white/5 last:border-0">
@@ -63,10 +65,10 @@ const HalkaArzDetail: React.FC = () => {
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-500 space-y-8 max-w-5xl mx-auto">
             {ipo && (
                 <SEO
-                    title={`${ipo.company} (${ipo.code}) Halka Arz İncelemesi | YatirimX`}
-                    description={`${ipo.company} (${ipo.code}) halka arz fiyatı ${ipo.price > 0 ? ipo.price + ' TL' : 'belirlenmedi'}, halka arz tarihi ${ipo.dates} ve detaylı şirket analizi. Katılım endeksine uygun mu, dağıtım şekli ve yorumlar.`}
-                    canonicalUrl={`https://yatirimx.com/halka-arz/${ipo.code ? ipo.code.toLowerCase() : ''}/`}
-                    keywords={`${ipo.code}, ${ipo.company}, ${ipo.code} halka arz, ${ipo.code} yorum, ${ipo.code} ne zaman işlem görecek, halka arz takvimi`}
+                    title={`${ipo.company} Halka Arzı Hakkında Bilmen Gereken Her Şey! – 2026`}
+                    description={`${ipo.company} (${ipo.code || 'KOD_YOK'}) halka arz fiyatı ${ipo.price > 0 ? ipo.price + ' TL' : 'belirlenmedi'}, halka arz tarihi ${ipo.dates} ve detaylı şirket analizi. Katılım endeksine uygun mu, dağıtım şekli ve yorumlar.`}
+                    canonicalUrl={`https://yatirimx.com/halka-arz/${ipo.slug || slugify(ipo.company)}/`}
+                    keywords={`${ipo.code || ''}, ${ipo.company}, ${ipo.company} halka arz, ${ipo.company} yorum, ${ipo.company} ne zaman işlem görecek, halka arz takvimi`}
                 />
             )}
 
@@ -417,7 +419,7 @@ const HalkaArzDetail: React.FC = () => {
                     </details>
                 </div>
             </div>
-        </div>
+        </div >
     );
 };
 

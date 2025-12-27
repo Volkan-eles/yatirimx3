@@ -1,9 +1,16 @@
 import React from 'react';
 import { Mail, Phone, MapPin, Clock } from 'lucide-react';
+import SEO from '../components/SEO';
 
 const Iletisim: React.FC = () => {
     return (
         <div className="max-w-4xl mx-auto pb-20 animate-in fade-in duration-500">
+            <SEO
+                title="İletişim - Bize Ulaşın | YatırımX"
+                description="YatırımX destek ekibi ile iletişime geçin. Görüş, öneri ve sorularınız için iletişim kanallarımız."
+                canonicalUrl="https://yatirimx.com/iletisim/"
+                keywords="iletişim, bize ulaşın, yatırımx destek, borsa iletişim"
+            />
 
             {/* Hero Section */}
             <div className="text-center mb-12 pt-8">

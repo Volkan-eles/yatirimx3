@@ -1,10 +1,17 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { TrendingUp, Users, Shield, Zap, BarChart3, Globe } from 'lucide-react';
+import SEO from '../components/SEO';
 
 const Hakkimizda: React.FC = () => {
     return (
         <div className="max-w-4xl mx-auto pb-20 animate-in fade-in duration-500">
+            <SEO
+                title="Hakkımızda - Borsa ve Finans Analiz Platformu | YatırımX"
+                description="YatırımX, Borsa İstanbul (BIST) hisse senetleri için canlı veriler, teknik analizler, hedef fiyatlar ve temettü bilgileri sunan kapsamlı finans platformudur."
+                canonicalUrl="https://yatirimx.com/hakkimizda/"
+                keywords="hakkımızda, yatırımx kimdir, borsa analiz platformu, finansal veriler"
+            />
 
             {/* Hero Section */}
             <div className="text-center mb-16 pt-8">

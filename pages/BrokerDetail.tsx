@@ -4,6 +4,7 @@ import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft, TrendingUp, TrendingDown, Activity, ChevronRight, Target, ShieldCheck, PieChart, Info, Calendar, Loader2 } from 'lucide-react';
 import SEO from '../components/SEO';
 import FAQItem from '../components/FAQItem';
+import { slugify } from '../utils/slugify';
 
 interface Recommendation {
     symbol: string;
@@ -49,9 +50,9 @@ const BrokerDetail: React.FC = () => {
                 const response = await fetch('/brokers_tefas.json');
                 if (response.ok) {
                     const data: Broker[] = await response.json();
-                    // Find broker by slug matching
+                    // Find broker by slug matching (using strict slugify)
                     const found = data.find(b =>
-                        b.name.toLowerCase().replace(/\s+/g, '-') === id
+                        slugify(b.name) === id
                     );
                     setBroker(found || null);
                 }
@@ -99,7 +100,7 @@ const BrokerDetail: React.FC = () => {
                 <SEO
                     title={`${broker.name} Hedef Fiyatlar ve Hisse Önerileri 2026 | YatirimX`}
                     description={`${broker.name} 2026 hedef fiyat tahminleri, hisse önerileri, model portföyü ve şirket analiz raporları. ${broker.name} al/sat tavsiyeleri.`}
-                    canonicalUrl={`https://yatirimx.com/araci-kurumlar/${broker.name.toLowerCase().replace(/\s+/g, '-')}/`}
+                    canonicalUrl={`https://yatirimx.com/araci-kurumlar/${slugify(broker.name)}/`}
                     keywords={`${broker.name}, ${broker.name} hedef fiyat, ${broker.name} hisse önerileri, 2026 borsa, aracı kurum raporları`}
                 />
             )}

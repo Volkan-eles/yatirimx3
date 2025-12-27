@@ -1,8 +1,10 @@
+
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import { ArrowLeft, PieChart, Calendar, Wallet, TrendingUp, Info, Loader2 } from 'lucide-react';
+import { ArrowLeft, Calendar, DollarSign, Percent, TrendingUp, Clock, AlertCircle, Loader2, PieChart, Wallet, Info } from 'lucide-react';
 import SEO from '../components/SEO';
 import FAQItem from '../components/FAQItem';
+import { slugify } from '../utils/slugify';
 
 interface Dividend {
     t_bistkod: string;
@@ -25,7 +27,7 @@ const TemettuDetail: React.FC = () => {
                 const response = await fetch('/temettu.json');
                 if (response.ok) {
                     const data: Dividend[] = await response.json();
-                    const found = data.find(d => d.t_bistkod === code);
+                    const found = data.find(d => d.t_bistkod.toLowerCase() === code?.toLowerCase());
                     setDividend(found || null);
                 }
             } catch (error) {
@@ -63,7 +65,7 @@ const TemettuDetail: React.FC = () => {
             <SEO
                 title={`${dividend.t_sirket} (${dividend.t_bistkod}) Temettü Tarihi 2026 - Ne Kadar Verecek? | YatirimX`}
                 description={`${dividend.t_sirket} (${dividend.t_bistkod}) 2026 temettü tarihi, hisse başı net temettü miktarı (${dividend.t_temt_net} TL), dağıtım oranı ve ödeme tarihleri. ${dividend.t_bistkod} temettü verimliliği.`}
-                canonicalUrl={`https://yatirimx.com/temettu/${dividend.t_bistkod.toLowerCase()}/`}
+                canonicalUrl={`https://yatirimx.com/temettu/${slugify(dividend.t_bistkod)}/`}
                 keywords={`${dividend.t_bistkod}, ${dividend.t_sirket}, ${dividend.t_bistkod} temettü tarihi 2026, ${dividend.t_bistkod} ne kadar temettü verecek, temettü hesaplama`}
             />
 
@@ -145,7 +147,7 @@ const TemettuDetail: React.FC = () => {
                 </div>
             </div>
 
-        </div>
+        </div >
     );
 };
 

@@ -1,9 +1,16 @@
 import React from 'react';
 import { FileText, AlertTriangle, Shield, Ban } from 'lucide-react';
+import SEO from '../components/SEO';
 
 const KullanimKosullari: React.FC = () => {
     return (
         <div className="max-w-4xl mx-auto pb-20 animate-in fade-in duration-500">
+            <SEO
+                title="Kullanım Koşulları ve Yasal Uyarılar | YatırımX"
+                description="YatırımX web sitesi kullanım koşulları, yasal uyarılar, sorumluluk reddi ve kullanıcı sözleşmesi."
+                canonicalUrl="https://yatirimx.com/kullanim-kosullari/"
+                keywords="kullanım koşulları, yasal uyarı, sorumluluk reddi, yatırımx sözleşme"
+            />
 
             <div className="text-center mb-12 pt-8">
                 <h1 className="text-4xl md:text-5xl font-black text-white mb-4">

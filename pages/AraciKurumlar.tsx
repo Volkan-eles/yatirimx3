@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Search, Briefcase, Award, TrendingUp, ChevronRight, Activity, Target, FileText, Loader2 } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { slugify } from '../utils/slugify';
 import SEO from '../components/SEO';
 import FAQItem from '../components/FAQItem';
 
@@ -91,8 +92,10 @@ const AraciKurumlar: React.FC = () => {
             ) : (
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {filteredBrokers.map((broker, idx) => (
+
+
                         <Link
-                            to={`/araci-kurumlar/${broker.name.toLowerCase().replace(/\s+/g, '-')}`}
+                            to={`/araci-kurumlar/${slugify(broker.name)}`}
                             key={idx}
                             className="glass-panel rounded-3xl p-8 hover:border-blue-500/40 hover:bg-zinc-900/60 transition-all duration-500 group relative overflow-hidden flex flex-col"
                         >

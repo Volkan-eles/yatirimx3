@@ -1,9 +1,16 @@
 import React from 'react';
 import { Shield, Lock, Eye, Database, Cookie, Mail } from 'lucide-react';
+import SEO from '../components/SEO';
 
 const GizlilikPolitikasi: React.FC = () => {
     return (
         <div className="max-w-4xl mx-auto pb-20 animate-in fade-in duration-500">
+            <SEO
+                title="Gizlilik Politikası ve KVKK Aydınlatma Metni | YatırımX"
+                description="YatırımX gizlilik politikası, veri güvenliği ve KVKK kapsamında kişisel verilerinizin korunması hakkında bilgilendirme."
+                canonicalUrl="https://yatirimx.com/gizlilik-politikasi/"
+                keywords="gizlilik politikası, kvkk, veri güvenliği, yatırımx yasal"
+            />
 
             <div className="text-center mb-12 pt-8">
                 <h1 className="text-4xl md:text-5xl font-black text-white mb-4">
