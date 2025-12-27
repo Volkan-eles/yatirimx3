@@ -92,7 +92,7 @@ const AraciKurumlar: React.FC = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {filteredBrokers.map((broker, idx) => (
                         <Link
-                            to={`/araci-kurum/${broker.name.toLowerCase().replace(/\s+/g, '-')}`}
+                            to={`/araci-kurumlar/${broker.name.toLowerCase().replace(/\s+/g, '-')}`}
                             key={idx}
                             className="glass-panel rounded-3xl p-8 hover:border-blue-500/40 hover:bg-zinc-900/60 transition-all duration-500 group relative overflow-hidden flex flex-col"
                         >

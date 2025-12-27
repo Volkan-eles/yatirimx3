@@ -51,7 +51,7 @@ function App() {
           <Route path="/halka-arz" element={<HalkaArz />} />
           <Route path="/halka-arz/:code" element={<HalkaArzDetail />} />
           <Route path="/araci-kurumlar" element={<AraciKurumlar />} />
-          <Route path="/araci-kurum/:id" element={<BrokerDetail />} />
+          <Route path="/araci-kurumlar/:id" element={<BrokerDetail />} />
 
           {/* Corporate Pages */}
           <Route path="/hakkimizda" element={<Hakkimizda />} />
