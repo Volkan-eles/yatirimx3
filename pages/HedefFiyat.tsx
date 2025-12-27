@@ -106,6 +106,8 @@ const TargetCard: React.FC<{ item: StockTargetData }> = ({ item }) => {
     );
 }
 
+import SEO from '../components/SEO';
+
 const HedefFiyat: React.FC = () => {
     const [data, setData] = useState<StockTargetData[]>([]);
     const [searchTerm, setSearchTerm] = useState('');
@@ -180,6 +182,13 @@ const HedefFiyat: React.FC = () => {
 
     return (
         <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
+            <SEO
+                title="Borsa Hedef Fiyatlar 2026 - Hisse Senedi Analiz ve Tahminler | YatırımX"
+                description="BIST hisse senetleri için en güncel hedef fiyat tahminleri, aracı kurum raporları, al/sat/tut tavsiyeleri ve 2026 yılı borsa beklentileri. Uzman analistlerin hisse yorumlarını inceleyin."
+                canonicalUrl="https://yatirimx.com/hedef-fiyat/"
+                keywords="hedef fiyatlar, hisse hedef fiyat 2026, borsa tahminleri, hisse senetleri, analist tavsiyeleri, al sat tut, borsa istanbul"
+            />
+
 
             <div className="flex flex-col md:flex-row justify-between items-end gap-6 mb-8">
                 <div>

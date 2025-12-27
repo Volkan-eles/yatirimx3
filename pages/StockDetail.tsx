@@ -23,6 +23,7 @@ import {
   User
 } from 'lucide-react';
 import StockChart from '../components/StockChart';
+import SEO from '../components/SEO';
 import { MOCK_STOCK_DETAIL, MOCK_TARGET_PRICES } from '../constants';
 
 const SidebarSection = ({ title, icon: Icon, children }: any) => (
@@ -329,27 +330,32 @@ const StockDetail: React.FC = () => {
   }, [code]);
 
   // Update document title based on target price availability
-  useEffect(() => {
-    if (stock) {
-      const title = hasTargetPrice
-        ? `${stock.name} (${stock.code}) Hedef Fiyat 2026 | YatırımX`
-        : `${stock.code} Hisse Fiyatı, Grafiği ve ${stock.code} Yorum 2026 | YatırımX`;
-      document.title = title;
+  // SEO Configuration
+  const seoTitle = hasTargetPrice
+    ? `${stock?.code} Hisse Hedef Fiyat 2026`
+    : `${stock?.code} Hisse Fiyatı, Grafiği ve Yorum 2026 | YatırımX`;
 
-      // Update meta description
-      const description = hasTargetPrice
-        ? `${stock.name} (${stock.code}) Hedef Fiyat 2026`
-        : `${stock.code} hisse senedi fiyatı, canlı grafik ve detaylı teknik analiz. ${stock.code} hisse grafiği, yorumları ve 2026 tahminleri.`;
+  const seoDescription = stock ?
+    `2026 yılı için ${stock.code} hisse hedef fiyat tahmini, uzman analist yorumları, teknik analiz ve ${stock.code} hissesi için en güncel veriler. ${stock.name} hisse analiz raporları ve potansiyel getiri beklentileri.` :
+    'Borsa İstanbul hisse senedi teknik analizi, hedef fiyat tahminleri ve güncel piyasa verileri.';
 
-      let metaDescription = document.querySelector('meta[name="description"]');
-      if (!metaDescription) {
-        metaDescription = document.createElement('meta');
-        metaDescription.setAttribute('name', 'description');
-        document.head.appendChild(metaDescription);
-      }
-      metaDescription.setAttribute('content', description);
+  const canonicalUrl = `https://yatirimx.com/hisse/${code?.toUpperCase()}/`;
+
+  // Schema.org Structured Data
+  const stockSchema = stock ? {
+    "@context": "https://schema.org",
+    "@type": "FinancialProduct",
+    "name": `${stock.name} (${stock.code})`,
+    "tickerSymbol": stock.code,
+    "description": stock.description,
+    "offers": {
+      "@type": "Offer",
+      "price": stock.price,
+      "priceCurrency": "TRY",
+      "availability": "https://schema.org/InStock",
+      "priceValidUntil": "2026-12-31"
     }
-  }, [stock, hasTargetPrice]);
+  } : undefined;
 
   if (loading) {
     return (
@@ -372,6 +378,13 @@ const StockDetail: React.FC = () => {
 
   return (
     <div className="animate-in fade-in duration-500 max-w-7xl mx-auto pb-20">
+      <SEO
+        title={seoTitle}
+        description={seoDescription}
+        canonicalUrl={canonicalUrl}
+        schema={stockSchema}
+        keywords={`${stock.code}, ${stock.code} hisse, ${stock.code} hedef fiyat, ${stock.code} yorum, borsa istanbul, hisse senedi`}
+      />
 
       {/* Breadcrumb */}
       <nav className="flex items-center gap-2 text-[11px] font-bold uppercase tracking-widest text-zinc-600 mb-8">

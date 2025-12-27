@@ -8,7 +8,7 @@ interface SEOProps {
     keywords?: string;
 }
 
-const SEO = ({ title, description, image, url, keywords }: SEOProps) => {
+const SEO = ({ title, description, image, url, keywords, canonicalUrl, schema }: SEOProps & { canonicalUrl?: string; schema?: object }) => {
     useEffect(() => {
         // Update Title
         document.title = title;
@@ -41,7 +41,29 @@ const SEO = ({ title, description, image, url, keywords }: SEOProps) => {
         updateMeta('twitter:description', description);
         if (image) updateMeta('twitter:image', image);
 
-    }, [title, description, image, url, keywords]);
+        // Canonical URL
+        if (canonicalUrl) {
+            let link = document.querySelector('link[rel="canonical"]');
+            if (!link) {
+                link = document.createElement('link');
+                link.setAttribute('rel', 'canonical');
+                document.head.appendChild(link);
+            }
+            link.setAttribute('href', canonicalUrl);
+        }
+
+        // Schema.org JSON-LD
+        if (schema) {
+            let script = document.querySelector('script[type="application/ld+json"]');
+            if (!script) {
+                script = document.createElement('script');
+                script.setAttribute('type', 'application/ld+json');
+                document.head.appendChild(script);
+            }
+            script.textContent = JSON.stringify(schema);
+        }
+
+    }, [title, description, image, url, keywords, canonicalUrl, schema]);
 
     return null;
 };
