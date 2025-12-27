@@ -100,7 +100,7 @@ const Temettu: React.FC = () => {
                         filteredData.map((div, idx) => (
                            <tr key={idx} className="hover:bg-white/5 transition-colors group">
                               <td className="px-6 py-4">
-                                 <Link to={`/temettu/${slugify(`${div.t_bistkod} Temettu Tarihi 2026 Ne Kadar Verecek`)}`} className="flex items-center gap-3 group/link">
+                                 <Link to={`/temettu/${slugify(`${div.t_bistkod} Temettu Tarihi 2026 Ne Kadar Verecek`)}/`} className="flex items-center gap-3 group/link">
                                     <div className="w-10 h-10 rounded-lg bg-zinc-800 flex items-center justify-center font-bold text-xs text-zinc-300 border border-white/5 group-hover/link:border-purple-500/50 group-hover/link:text-white transition-colors">
                                        {div.t_bistkod}
                                     </div>
@@ -119,7 +119,7 @@ const Temettu: React.FC = () => {
                               </td>
                               <td className="px-6 py-4 text-zinc-300 text-right">{div.t_tarih}</td>
                               <td className="px-6 py-4 text-right">
-                                 <Link to={`/temettu/${slugify(`${div.t_bistkod} Temettu Tarihi 2026 Ne Kadar Verecek`)}`} className="p-2 hover:bg-white/10 rounded-full inline-flex text-zinc-500 hover:text-white transition-colors">
+                                 <Link to={`/temettu/${slugify(`${div.t_bistkod} Temettu Tarihi 2026 Ne Kadar Verecek`)}/`} className="p-2 hover:bg-white/10 rounded-full inline-flex text-zinc-500 hover:text-white transition-colors">
                                     <ChevronRight className="w-5 h-5" />
                                  </Link>
                               </td>

@@ -61,7 +61,7 @@ const TemettuDetail: React.FC = () => {
                     <Info className="w-12 h-12 text-zinc-700" />
                 </div>
                 <h2 className="text-xl font-bold text-white mb-2">Temettü Verisi Bulunamadı</h2>
-                <Link to="/temettu" className="text-purple-400 hover:underline">Listeye Dön</Link>
+                <Link to="/temettu/" className="text-purple-400 hover:underline">Listeye Dön</Link>
             </div>
         );
     }
@@ -77,7 +77,7 @@ const TemettuDetail: React.FC = () => {
 
             {/* Header */}
             <div className="flex items-center gap-4">
-                <Link to="/temettu" className="p-2 hover:bg-white/10 rounded-lg text-zinc-400 hover:text-white transition-colors">
+                <Link to="/temettu/" className="p-2 hover:bg-white/10 rounded-lg text-zinc-400 hover:text-white transition-colors">
                     <ArrowLeft className="w-6 h-6" />
                 </Link>
                 <div>

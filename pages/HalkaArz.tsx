@@ -101,7 +101,7 @@ const IPOCard: React.FC<{ ipo: IPOItem; isDraft?: boolean }> = ({ ipo, isDraft }
                 <BarChart className="w-3 h-3" />
                 {ipo.lotCount} Lot
             </div>
-            <Link to={`/halka-arz/${slugify(`${ipo.company} Halka Arzı Hakkında Bilmen Gereken Her Şey 2026`)}`} className="text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1 transition-colors">
+            <Link to={`/halka-arz/${slugify(`${ipo.company} Halka Arzı Hakkında Bilmen Gereken Her Şey 2026`)}/`} className="text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1 transition-colors">
                 Detayları İncele <ArrowLeft className="w-3 h-3 rotate-180" />
             </Link>
         </div>

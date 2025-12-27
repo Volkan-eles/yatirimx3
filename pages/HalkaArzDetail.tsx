@@ -59,7 +59,7 @@ const HalkaArzDetail: React.FC = () => {
         return (
             <div className="min-h-[60vh] flex flex-col items-center justify-center text-zinc-500">
                 <h2 className="text-xl font-bold text-white mb-4">Halka Arz Bulunamadı</h2>
-                <Link to="/halka-arz" className="text-blue-400 hover:text-blue-300 flex items-center gap-2">
+                <Link to="/halka-arz/" className="text-blue-400 hover:text-blue-300 flex items-center gap-2">
                     <ArrowLeft className="w-4 h-4" /> Listeye Dön
                 </Link>
             </div>
@@ -79,7 +79,7 @@ const HalkaArzDetail: React.FC = () => {
 
             {/* Top Navigation */}
             <div className="flex items-center gap-4 mb-4">
-                <Link to="/halka-arz" className="p-2 hover:bg-white/10 rounded-lg text-zinc-400 hover:text-white transition-colors">
+                <Link to="/halka-arz/" className="p-2 hover:bg-white/10 rounded-lg text-zinc-400 hover:text-white transition-colors">
                     <ArrowLeft className="w-5 h-5" />
                 </Link>
                 <div className="flex items-center gap-3">

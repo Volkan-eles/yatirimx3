@@ -64,7 +64,7 @@ const HedefFiyatDetail: React.FC = () => {
             <div className="min-h-[60vh] flex flex-col items-center justify-center text-zinc-500">
                 <h2 className="text-xl font-bold text-white mb-4">Veri Bulunamadı</h2>
                 <p className="mb-6">{error || 'Bu hisse için hedef fiyat verisi bulunamadı.'}</p>
-                <Link to="/hedef-fiyat" className="text-blue-400 hover:text-blue-300 flex items-center gap-2">
+                <Link to="/hedef-fiyat/" className="text-blue-400 hover:text-blue-300 flex items-center gap-2">
                     <ArrowLeft className="w-4 h-4" /> Listeye Dön
                 </Link>
             </div>
@@ -114,7 +114,7 @@ const HedefFiyatDetail: React.FC = () => {
 
             {/* Navigation & Header */}
             <div className="flex flex-col gap-6">
-                <Link to="/hedef-fiyat" className="inline-flex items-center gap-2 text-zinc-400 hover:text-white transition-colors w-fit">
+                <Link to="/hedef-fiyat/" className="inline-flex items-center gap-2 text-zinc-400 hover:text-white transition-colors w-fit">
                     <ArrowLeft className="w-4 h-4" /> Geri Dön
                 </Link>
 
