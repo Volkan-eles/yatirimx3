@@ -103,7 +103,7 @@ const Home: React.FC = () => {
   };
 
   return (
-    <div className="space-y-12 animate-in fade-in duration-700 pb-20 max-w-7xl mx-auto">
+    <div className="space-y-12 animate-in fade-in duration-700 pb-20 max-w-7xl mx-auto selection:bg-accent selection:text-white">
       <SEO
         title="Borsa İstanbul Canlı Veriler, Hedef Fiyatlar ve Temettü Takvimi | YatırımX"
         description="BIST hisse senedi fiyatlarını canlı takip edin, uzman hedef fiyat tahminlerini, temettü takvimini ve güncel piyasa analizlerini YatırımX ile inceleyin."
@@ -118,7 +118,7 @@ const Home: React.FC = () => {
       </div>
 
       {/* Terminal Container */}
-      <div className="glass-panel rounded-3xl border border-white/[0.05] shadow-2xl overflow-hidden bg-[#09090b]">
+      <div className="glass-panel rounded-3xl border border-white/[0.05] shadow-2xl overflow-hidden bg-[#09090b] hover:shadow-[0_20px_40px_-15px_rgba(0,0,0,0.3)] transition-all duration-500 animate-slide-up [animation-delay:100ms]">
 
         {/* Table Controls (Search & Filters) */}
         <div className="p-6 flex flex-col md:flex-row justify-between items-center gap-4 border-b border-white/[0.03]">
@@ -223,7 +223,7 @@ const Home: React.FC = () => {
       {/* Advanced Insights Section (Placed below for more context) */}
       <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-12">
         {/* Sentiment Gauge */}
-        <div className="glass-panel p-8 rounded-[2rem] border border-white/5 bg-gradient-to-br from-zinc-900/50 to-black relative overflow-hidden">
+        <div className="glass-panel p-8 rounded-[2rem] border border-white/5 bg-gradient-to-br from-zinc-900/50 to-black relative overflow-hidden animate-slide-up [animation-delay:200ms] group hover:border-blue-500/20 transition-all duration-500">
           <div className="flex justify-between items-start mb-6">
             <div>
               <h3 className="text-white font-bold text-lg flex items-center gap-2">
@@ -240,7 +240,7 @@ const Home: React.FC = () => {
         </div>
 
         {/* IPO Spotlight */}
-        <div className="lg:col-span-2 glass-panel p-8 rounded-[2rem] border border-white/5 relative overflow-hidden flex flex-col md:flex-row gap-8 items-center">
+        <div className="lg:col-span-2 glass-panel p-8 rounded-[2rem] border border-white/5 relative overflow-hidden flex flex-col md:flex-row gap-8 items-center animate-slide-up [animation-delay:300ms] group hover:border-white/10 transition-all duration-500">
           <div className="w-20 h-20 rounded-[1.5rem] bg-white flex items-center justify-center shrink-0 shadow-2xl">
             <span className="text-black font-black text-xl">{MOCK_IPOS[0].code}</span>
           </div>
@@ -260,7 +260,7 @@ const Home: React.FC = () => {
       </div>
 
       {/* Quick Access Modules */}
-      <section className="grid grid-cols-2 md:grid-cols-4 gap-6">
+      <section className="grid grid-cols-2 md:grid-cols-4 gap-6 animate-slide-up [animation-delay:400ms]">
         {[
           { title: 'Hedef Fiyatlar', icon: Zap, to: '/hedef-fiyat', color: 'emerald' },
           { title: 'Bilanço Takvimi', icon: Activity, to: '/bilanco-takvimi', color: 'blue' },

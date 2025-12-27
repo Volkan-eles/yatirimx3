@@ -38,10 +38,14 @@
             accent: '#8b5cf6', // Violet 500
             success: '#10b981', // Emerald 500
             danger: '#ef4444', // Red 500
+            gold: '#fbbf24', // Amber 400
           },
           animation: {
             'blob': 'blob 10s infinite',
             'fade-in': 'fadeIn 0.5s ease-out forwards',
+            'slide-up': 'slideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards',
+            'zoom-in': 'zoomIn 0.4s cubic-bezier(0.16, 1, 0.3, 1) forwards',
+            'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
           },
           keyframes: {
             blob: {
@@ -53,6 +57,14 @@
             fadeIn: {
               '0%': { opacity: '0', transform: 'translateY(10px)' },
               '100%': { opacity: '1', transform: 'translateY(0)' },
+            },
+            slideUp: {
+              '0%': { opacity: '0', transform: 'translateY(20px)' },
+              '100%': { opacity: '1', transform: 'translateY(0)' },
+            },
+            zoomIn: {
+              '0%': { opacity: '0', transform: 'scale(0.95)' },
+              '100%': { opacity: '1', transform: 'scale(1)' },
             }
           }
         }
@@ -79,7 +91,9 @@
         radial-gradient(at 0% 0%, rgba(59, 130, 246, 0.15) 0px, transparent 50%),
         radial-gradient(at 100% 0%, rgba(139, 92, 246, 0.15) 0px, transparent 50%),
         radial-gradient(at 100% 100%, rgba(16, 185, 129, 0.1) 0px, transparent 50%);
-      filter: blur(40px);
+      filter: blur(60px);
+      opacity: 0.8;
+      animation: pulse-slow 10s ease-in-out infinite alternate;
     }
 
     .bg-dots {
@@ -91,14 +105,14 @@
       z-index: -1;
       background-image: radial-gradient(#27272a 1px, transparent 1px);
       background-size: 40px 40px;
-      opacity: 0.3;
+      opacity: 0.2;
       mask-image: linear-gradient(to bottom, black, transparent);
     }
 
     /* Modern Scrollbar */
     ::-webkit-scrollbar {
-      width: 8px;
-      height: 8px;
+      width: 6px;
+      height: 6px;
     }
 
     ::-webkit-scrollbar-track {
@@ -107,8 +121,8 @@
 
     ::-webkit-scrollbar-thumb {
       background: #3f3f46;
-      border-radius: 4px;
-      border: 2px solid #09090b;
+      border-radius: 99px;
+      border: 1px solid #09090b;
     }
 
     ::-webkit-scrollbar-thumb:hover {
@@ -117,15 +131,41 @@
 
     /* Glass Panel Enhanced */
     .glass-panel {
+      background: rgba(24, 24, 27, 0.4);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+      border: 1px solid rgba(255, 255, 255, 0.03);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .glass-panel:hover {
       background: rgba(24, 24, 27, 0.6);
-      backdrop-filter: blur(16px);
-      -webkit-backdrop-filter: blur(16px);
-      border: 1px solid rgba(255, 255, 255, 0.05);
-      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+      border-color: rgba(255, 255, 255, 0.08);
+      box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+      transform: translateY(-2px);
+    }
+
+    /* Premium Selection */
+    ::selection {
+      background: rgba(139, 92, 246, 0.3);
+      /* Violet 500 equivalent with opacity */
+      color: #fff;
     }
 
     .tabular-nums {
       font-variant-numeric: tabular-nums;
+    }
+
+    /* Animation Utilities */
+    @keyframes pulse-slow {
+      0% {
+        opacity: 0.5;
+      }
+
+      100% {
+        opacity: 0.8;
+      }
     }
   </style>
   <script type="importmap">
