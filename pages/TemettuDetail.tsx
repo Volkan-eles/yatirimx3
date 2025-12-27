@@ -27,7 +27,13 @@ const TemettuDetail: React.FC = () => {
                 const response = await fetch('/temettu.json');
                 if (response.ok) {
                     const data: Dividend[] = await response.json();
-                    const found = data.find(d => d.t_bistkod.toLowerCase() === code?.toLowerCase());
+
+                    // Support both direct code match (old URL) and slug match (long SEO URL)
+                    const found = data.find(d => {
+                        const longSlug = slugify(`${d.t_bistkod} Temettu Tarihi 2026 Ne Kadar Verecek`);
+                        return d.t_bistkod.toLowerCase() === code?.toLowerCase() || longSlug === code;
+                    });
+
                     setDividend(found || null);
                 }
             } catch (error) {
@@ -63,9 +69,9 @@ const TemettuDetail: React.FC = () => {
     return (
         <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500 max-w-4xl mx-auto pb-20">
             <SEO
-                title={`${dividend.t_sirket} (${dividend.t_bistkod}) Temettü Tarihi 2026 - Ne Kadar Verecek? | YatirimX`}
+                title={`${dividend.t_bistkod} Temettü Tarihi 2026 - Ne Kadar Verecek?`}
                 description={`${dividend.t_sirket} (${dividend.t_bistkod}) 2026 temettü tarihi, hisse başı net temettü miktarı (${dividend.t_temt_net} TL), dağıtım oranı ve ödeme tarihleri. ${dividend.t_bistkod} temettü verimliliği.`}
-                canonicalUrl={`https://yatirimx.com/temettu/${slugify(dividend.t_bistkod)}/`}
+                canonicalUrl={`https://yatirimx.com/temettu/${slugify(`${dividend.t_bistkod} Temettu Tarihi 2026 Ne Kadar Verecek`)}/`}
                 keywords={`${dividend.t_bistkod}, ${dividend.t_sirket}, ${dividend.t_bistkod} temettü tarihi 2026, ${dividend.t_bistkod} ne kadar temettü verecek, temettü hesaplama`}
             />
 
