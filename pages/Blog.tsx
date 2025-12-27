@@ -169,9 +169,17 @@ export const BLOG_POSTS = [
     }
 ];
 
+import SEO from '../components/SEO';
+
 const Blog: React.FC = () => {
     return (
         <div className="max-w-7xl mx-auto pb-20 animate-in fade-in duration-500">
+            <SEO
+                title="Finans Blogu - Piyasa Analizleri ve Yatırım Stratejileri | YatırımX"
+                description="Borsa İstanbul piyasa analizleri, 2026 yatırım stratejileri, bedelsiz sermaye artırımı takvimi, temettü tahminleri ve eğitici finans içerikleri."
+                canonicalUrl="https://yatirimx.com/blog/"
+                keywords="borsa blog, finans analizleri, yatırım stratejileri, hisse senedi yorumları, borsa eğitim"
+            />
 
             {/* Header Section */}
             <div className="flex flex-col md:flex-row justify-between items-end gap-6 mb-12">
