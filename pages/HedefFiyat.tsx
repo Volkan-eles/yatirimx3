@@ -183,8 +183,8 @@ const HedefFiyat: React.FC = () => {
     return (
         <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
             <SEO
-                title="Borsa Hedef Fiyatlar 2026 - Hisse Senedi Analiz ve Tahminler | YatırımX"
-                description="BIST hisse senetleri için en güncel hedef fiyat tahminleri, aracı kurum raporları, al/sat/tut tavsiyeleri ve 2026 yılı borsa beklentileri. Uzman analistlerin hisse yorumlarını inceleyin."
+                title="Borsa Hedef Fiyatlar 2026 - Hisse Analiz ve Tahminler"
+                description="BIST hisse senetleri için güncel hedef fiyat tahminleri, aracı kurum raporları ve 2026 borsa beklentileri. Uzman analist yorumlarını inceleyin."
                 canonicalUrl="https://yatirimx.com/hedef-fiyat/"
                 keywords="hedef fiyatlar, hisse hedef fiyat 2026, borsa tahminleri, hisse senetleri, analist tavsiyeleri, al sat tut, borsa istanbul"
             />
