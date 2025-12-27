@@ -3,15 +3,13 @@ import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft, ArrowRight, Calendar, User, Clock, Share2, Twitter, Linkedin, Facebook } from 'lucide-react';
 import { BLOG_POSTS } from './Blog';
 
+import SEO from '../components/SEO';
+
 const BlogDetail: React.FC = () => {
     const { slug } = useParams<{ slug: string }>();
     const post = BLOG_POSTS.find(p => p.slug === slug);
 
     useEffect(() => {
-        // Update Document Title
-        if (post) {
-            document.title = `${post.title} | YatırımX Blog`;
-        }
         // Scroll to top
         window.scrollTo(0, 0);
     }, [post]);
@@ -27,8 +25,36 @@ const BlogDetail: React.FC = () => {
         );
     }
 
+    const blogSchema = {
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": post.title,
+        "image": post.image?.startsWith('http') ? post.image : `https://yatirimx.com${post.image}`,
+        "author": {
+            "@type": "Person",
+            "name": post.author
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "YatırımX",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://yatirimx.com/logo.png"
+            }
+        },
+        "datePublished": "2024-12-26", // Fallback, normally should be ISO date from post
+        "description": post.excerpt
+    };
+
     return (
         <div className="max-w-4xl mx-auto pb-20 animate-in fade-in slide-in-from-bottom-4 duration-700">
+            <SEO
+                title={`${post.title} | YatırımX Blog`}
+                description={post.excerpt}
+                canonicalUrl={`https://yatirimx.com/blog/${post.slug}/`}
+                schema={blogSchema}
+                keywords={(post as any).seoKeywords?.join(', ')}
+            />
 
             {/* Navigation */}
             <Link to="/blog" className="inline-flex items-center gap-2 text-zinc-500 hover:text-white transition-colors mb-8 font-medium text-sm">

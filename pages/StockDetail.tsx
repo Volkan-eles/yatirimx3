@@ -344,17 +344,44 @@ const StockDetail: React.FC = () => {
   // Schema.org Structured Data
   const stockSchema = stock ? {
     "@context": "https://schema.org",
-    "@type": "FinancialProduct",
-    "name": `${stock.name} (${stock.code})`,
-    "tickerSymbol": stock.code,
-    "description": stock.description,
-    "offers": {
-      "@type": "Offer",
-      "price": stock.price,
-      "priceCurrency": "TRY",
-      "availability": "https://schema.org/InStock",
-      "priceValidUntil": "2026-12-31"
-    }
+    "@graph": [
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Ana Sayfa",
+            "item": "https://yatirimx.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Borsa",
+            "item": "https://yatirimx.com/piyasa"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": `${stock.code}`,
+            "item": canonicalUrl
+          }
+        ]
+      },
+      {
+        "@type": "FinancialProduct",
+        "name": `${stock.name} (${stock.code})`,
+        "tickerSymbol": stock.code,
+        "description": stock.description,
+        "offers": {
+          "@type": "Offer",
+          "price": stock.price,
+          "priceCurrency": "TRY",
+          "availability": "https://schema.org/InStock",
+          "priceValidUntil": "2026-12-31"
+        }
+      }
+    ]
   } : undefined;
 
   if (loading) {

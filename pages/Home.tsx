@@ -30,6 +30,8 @@ interface StockData {
   recommendation?: string;
 }
 
+import SEO from '../components/SEO';
+
 const Home: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [filter, setFilter] = useState<'Tümü' | 'Yükselenler' | 'Hacim'>('Tümü');
@@ -73,8 +75,40 @@ const Home: React.FC = () => {
     displayedStocks = [...displayedStocks].sort((a, b) => parseFloat(b.volume) - parseFloat(a.volume));
   }
 
+  const homeSchema = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": "YatırımX",
+        "url": "https://yatirimx.com/",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://yatirimx.com/?s={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "Organization",
+        "name": "YatırımX",
+        "url": "https://yatirimx.com/",
+        "logo": "https://yatirimx.com/logo.png",
+        "sameAs": [
+          "https://twitter.com/yatirimx",
+          "https://instagram.com/yatirimx"
+        ]
+      }
+    ]
+  };
+
   return (
     <div className="space-y-12 animate-in fade-in duration-700 pb-20 max-w-7xl mx-auto">
+      <SEO
+        title="Borsa İstanbul Canlı Veriler, Hedef Fiyatlar ve Temettü Takvimi | YatırımX"
+        description="BIST hisse senedi fiyatlarını canlı takip edin, uzman hedef fiyat tahminlerini, temettü takvimini ve güncel piyasa analizlerini YatırımX ile inceleyin."
+        canonicalUrl="https://yatirimx.com/"
+        schema={homeSchema}
+      />
 
       {/* Page Header Area */}
       <div className="pt-8 pb-4">
