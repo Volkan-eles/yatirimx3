@@ -62,7 +62,8 @@ const TemettuDetail: React.FC = () => {
         <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500 max-w-4xl mx-auto pb-20">
             <SEO
                 title={`${dividend.t_sirket} (${dividend.t_bistkod}) Temettü Tarihi 2026 - Ne Kadar Verecek? | YatirimX`}
-                description={`${dividend.t_sirket} (${dividend.t_bistkod}) 2026 temettü tarihi, hisse başı net temettü miktarı (${dividend.t_temt_net} TL), dağıtım oranı ve ödeme tarihi. ${dividend.t_bistkod} temettü verimliliği.`}
+                description={`${dividend.t_sirket} (${dividend.t_bistkod}) 2026 temettü tarihi, hisse başı net temettü miktarı (${dividend.t_temt_net} TL), dağıtım oranı ve ödeme tarihleri. ${dividend.t_bistkod} temettü verimliliği.`}
+                canonicalUrl={`https://yatirimx.com/temettu/${dividend.t_bistkod.toLowerCase()}/`}
                 keywords={`${dividend.t_bistkod}, ${dividend.t_sirket}, ${dividend.t_bistkod} temettü tarihi 2026, ${dividend.t_bistkod} ne kadar temettü verecek, temettü hesaplama`}
             />
 

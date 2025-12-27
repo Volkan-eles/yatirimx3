@@ -99,6 +99,7 @@ const BrokerDetail: React.FC = () => {
                 <SEO
                     title={`${broker.name} Hedef Fiyatlar ve Hisse Önerileri 2026 | YatirimX`}
                     description={`${broker.name} 2026 hedef fiyat tahminleri, hisse önerileri, model portföyü ve şirket analiz raporları. ${broker.name} al/sat tavsiyeleri.`}
+                    canonicalUrl={`https://yatirimx.com/araci-kurum/${broker.name.toLowerCase().replace(/\s+/g, '-')}/`}
                     keywords={`${broker.name}, ${broker.name} hedef fiyat, ${broker.name} hisse önerileri, 2026 borsa, aracı kurum raporları`}
                 />
             )}

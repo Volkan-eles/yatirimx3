@@ -65,6 +65,7 @@ const HalkaArzDetail: React.FC = () => {
                 <SEO
                     title={`${ipo.company} (${ipo.code}) Halka Arz İncelemesi | YatirimX`}
                     description={`${ipo.company} (${ipo.code}) halka arz fiyatı ${ipo.price > 0 ? ipo.price + ' TL' : 'belirlenmedi'}, halka arz tarihi ${ipo.dates} ve detaylı şirket analizi. Katılım endeksine uygun mu, dağıtım şekli ve yorumlar.`}
+                    canonicalUrl={`https://yatirimx.com/halka-arz/${ipo.code ? ipo.code.toLowerCase() : ''}/`}
                     keywords={`${ipo.code}, ${ipo.company}, ${ipo.code} halka arz, ${ipo.code} yorum, ${ipo.code} ne zaman işlem görecek, halka arz takvimi`}
                 />
             )}

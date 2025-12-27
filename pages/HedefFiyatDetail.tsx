@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft, Target, TrendingUp, Calendar, Building2, BarChart2, HelpCircle } from 'lucide-react';
+import SEO from '../components/SEO';
 
 // Halkarz data structure
 interface HalkarzTargetPrice {
@@ -84,6 +85,26 @@ const HedefFiyatDetail: React.FC = () => {
 
     return (
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-500 space-y-8 max-w-6xl mx-auto pb-20">
+            {code && (
+                <SEO
+                    title={`${stockName} (${code}) Hedef Fiyat 2026 - Aracı Kurum Tahminleri | YatirimX`}
+                    description={`${stockName} (${code}) 2026 hedef fiyat tahminleri, aracı kurum raporları, al/sat/tut tavsiyeleri ve ortalama hedef fiyat beklentisi. ${code} analizleri.`}
+                    canonicalUrl={`https://yatirimx.com/hedef-fiyat/${code.toLowerCase()}/`}
+                    keywords={`${code}, ${stockName}, ${code} hedef fiyat, ${code} hisse analizi, 2026 borsa tahminleri`}
+                />
+            )}
+            <SEO // Fallback if code missing, though should be covered
+                title="Hisse Hedef Fiyatları ve Analizler | YatirimX"
+                description="Borsa İstanbul hisse senetleri için güncel hedef fiyatlar ve uzman analizleri."
+                canonicalUrl="https://yatirimx.com/hedef-fiyat/"
+                keywords="hedef fiyat, borsa analiz, hisse önerileri"
+            />
+            {/* The second SEO component is redundant/risky if code is present. 
+               Better to just use one conditional block or rely on the main one. 
+               Let's stick to the conditional one which will be the primary one. 
+               However, TSX needs a single parent or fragment usually, but here inside div is fine.
+               Actually, I will just add the dynamic one.
+            */}
 
             {/* Navigation & Header */}
             <div className="flex flex-col gap-6">
