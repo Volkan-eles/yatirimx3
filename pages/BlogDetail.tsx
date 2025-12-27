@@ -146,6 +146,10 @@ const BlogDetail: React.FC = () => {
                                                 <th className="px-6 py-4 text-center">Ödeme Tarihi</th>
                                                 <th className="px-6 py-4 text-center">Temettü Verimi</th>
                                             </>
+                                        ) : (post as any).tableType === 'lot_count' ? (
+                                            <>
+                                                <th className="px-6 py-4 text-center">Lot Sayısı</th>
+                                            </>
                                         ) : (
                                             <>
                                                 <th className="px-6 py-4 text-center">Bedelsiz Oranı</th>
@@ -174,6 +178,10 @@ const BlogDetail: React.FC = () => {
                                                     <td className="px-6 py-4 text-center text-zinc-400">{row.date}</td>
                                                     <td className="px-6 py-4 text-center text-emerald-400 font-bold">{row.yield}</td>
                                                 </>
+                                            ) : (post as any).tableType === 'lot_count' ? (
+                                                <td className="px-6 py-4 text-center font-mono font-bold text-white">
+                                                    {row.lot}
+                                                </td>
                                             ) : (
                                                 <>
                                                     <td className="px-6 py-4 text-center text-emerald-400 font-bold">{row.ratio}</td>

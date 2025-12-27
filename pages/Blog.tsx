@@ -157,6 +157,140 @@ export const BLOG_POSTS = [
 
     {
         id: 3,
+        slug: 'lot-sayisi-az-olan-hisseler-2026',
+        title: 'Lot Sayısı Az Olan Hisseler 2026 | Borsa İstanbul Küçük Sermayeli Hisseler',
+        excerpt: 'Borsada 2026 yılında lot sayısı az olan hisseler hangileri? Küçük sermayeli şirketler ve avantajları/dezavantajları hakkında detaylı analiz.',
+        content: `
+            <p>Borsa İstanbul’da yatırım yapan tasarruf sahiplerinin son dönemde ilgilendiği konulardan biri, ödenmiş sermayesi yani lot sayısı az olan hisse senetleri oluyor. Lot, bir hissenin bir seferde alınıp satılabilen en küçük miktarını ifade eder. Lot sayısı az olan hisselerin, lot sayısı fazla olan hisselere göre bazı avantajları ve dezavantajları vardır.</p>
+
+            <p><strong>Lot sayısı az olan hisseler</strong>, yatırımcılara daha fazla kontrol sağlar. Bunun nedeni, daha az sayıda hisse bulunması ve bu nedenle yatırımcıların fiyat hareketlerini daha fazla etkileyebilmesidir. Bunun yanında lot sayısı az olan hisseler, genellikle daha düşük likiditeye sahiptir.</p>
+
+            <h2>Ödenmiş Sermaye Nedir?</h2>
+            <p>Ödenmiş sermaye, borsada şirketlerin ortakları tarafından taahhüt edilen sermayenin nakit olan kısmına denir. Şirketin ödenmiş sermayesi, toplam hisse sayısı ile hissenin nominal değerinin çarpımı ile bulunur. Borsada hisselerin nominal değerleri 1 TL olarak kullanıldığından bir lot hisse şirketin ödenmiş sermayesindeki 1 TL’ye karşılık gelir.</p>
+
+            <h2>Borsada Lot Sayısı Az Olan Şirketler (2026)</h2>
+            <p>Borsada yıl içerisinde birçok şirket, sermaye artırım yoluyla sermayelerini yükseltirken 2026 yılında lot sayısı az olan hisseler sıralamasında değişiklikler oldu. İşte lot sayısı az olan hisselerin güncel listesi:</p>
+
+            <h3>Lot Sayısı Az Olan Hisselerin Avantajları</h3>
+            <ul>
+                <li><strong>Hızlı Fiyat Hareketleri:</strong> İşlem hacmi düşük olduğu için fiyat hareketleri daha hızlı ve belirgin olabilir.</li>
+                <li><strong>Potansiyel Getiri:</strong> Düşük sermayeli şirketler büyüme potansiyeli taşıdığında hisse fiyatları agresif yükselebilir.</li>
+            </ul>
+
+            <h3>Lot Sayısı Az Olan Hisselerin Dezavantajları</h3>
+            <ul>
+                <li><strong>Düşük Likidite:</strong> Hisselerin hızlı ve kolay satılması zor olabilir.</li>
+                <li><strong>Volatilite:</strong> Fiyatlamalar bazen mantıksız seviyelere ulaşabilir ve manipülasyona daha açıktır.</li>
+            </ul>
+        `,
+        tableType: 'lot_count',
+        tableData: [
+            { name: 'Çimbeton Hazırbeton ve Prefabrik Yapı Elemanları Sanayi ve Ticaret A.Ş.', code: 'CMBTN', lot: '1.770.000' },
+            { name: 'Lydia Yeşil Enerji Kaynakları A.Ş.', code: 'LYDYE', lot: '1.891.069' },
+            { name: 'Ege Endüstri ve Ticaret A.Ş.', code: 'EGEEN', lot: '3.150.000' },
+            { name: 'Politeknik Metal Sanayi ve Ticaret A.Ş.', code: 'POLTK', lot: '3.750.000' },
+            { name: 'Kuştur Kuşadası Turizm Endüstri A.Ş.', code: 'KSTUR', lot: '4.244.586' },
+            { name: 'Konya Çimento Sanayii A.Ş.', code: 'KONYA', lot: '4.873.440' },
+            { name: 'Casa Emtia Petrol Kimyevi ve Türevleri Sanayi Ticaret A.Ş.', code: 'CASA', lot: '4.900.000' },
+            { name: 'Eminiş Ambalaj Sanayi ve Ticaret A.Ş.', code: 'EMNIS', lot: '6.200.000' },
+            { name: 'Sumaş Suni Tahta ve Mobilya Sanayi A.Ş.', code: 'SUMAS', lot: '6.224.400' },
+            { name: 'Cosmos Yatırım Holding A.Ş.', code: 'COSMO', lot: '6.494.694' },
+            { name: 'Marmaris Altınyunus Turistik Tesisler A.Ş.', code: 'MAALT', lot: '6.967.091' },
+            { name: 'Burçelik Vana Sanayi ve Ticaret A.Ş.', code: 'BURVA', lot: '7.347.672' },
+            { name: 'Pergamon Status Dış Ticaret A.Ş.', code: 'PSDTC', lot: '7.425.000' },
+            { name: 'Otto Holding A.Ş.', code: 'OTTO', lot: '7.635.461' },
+            { name: 'Senkron Güvenlik ve İletişim Sistemleri A.Ş.', code: 'SNKRN', lot: '7.849.206' },
+            { name: 'İnnosa Teknoloji A.Ş.', code: 'INTEK', lot: '8.000.000' },
+            { name: 'Ekiz Kimya Sanayi ve Ticaret A.Ş.', code: 'EKIZ', lot: '9.284.470' },
+            { name: 'Skyalp Finansal Teknolojiler ve Danışmanlık A.Ş.', code: 'SKYLP', lot: '9.500.000' },
+            { name: 'Diriteks Diriliş Tekstil Sanayi ve Ticaret A.Ş.', code: 'DIRIT', lot: '10.650.000' },
+            { name: 'Acıselsan Acıpayam Selüloz Sanayi ve Ticaret A.Ş.', code: 'ACSEL', lot: '10.721.700' },
+            { name: 'Alarko Carrier Sanayi ve Ticaret A.Ş.', code: 'ALCAR', lot: '10.800.000' },
+            { name: 'Do & Co Aktiengesellschaft', code: 'DOCO', lot: '10.983.458' },
+            { name: 'Marshall Boya ve Vernik Sanayii A.Ş.', code: 'MRSHL', lot: '10.994.134' },
+            { name: 'Mmc Sanayi ve Ticari Yatırımlar A.Ş.', code: 'MMCAS', lot: '13.336.879' },
+            { name: 'Balatacılar Balatacılık Sanayi ve Ticaret A.Ş.', code: 'BALAT', lot: '13.878.486' },
+            { name: 'Temapol Polimer Plastik ve İnşaat Sanayi Ticaret A.Ş.', code: 'TMPOL', lot: '14.175.000' },
+            { name: 'Yaprak Süt ve Besi Çiftlikleri Sanayi ve Ticaret A.Ş.', code: 'YAPRK', lot: '14.200.000' },
+            { name: 'Federal-Mogul İzmit Piston ve Pim Üretim Tesisleri A.Ş.', code: 'FMIZP', lot: '14.276.790' },
+            { name: 'Sodaş Sodyum Sanayii A.Ş.', code: 'SODSN', lot: '15.000.000' },
+            { name: 'Yonga Mobilya Sanayi ve Ticaret A.Ş.', code: 'YONGA', lot: '16.800.000' },
+            { name: 'İZ Yatırım Holding A.Ş', code: 'IZINV', lot: '17.512.456' },
+            { name: 'Göltaş Göller Bölgesi Çimento Sanayi ve Ticaret A.Ş.', code: 'GOLTS', lot: '18.000.000' },
+            { name: 'San-El Mühendislik Elektrik Taahhüt Sanayi ve Ticaret A.Ş.', code: 'SANEL', lot: '18.255.333' },
+            { name: 'İntema İnşaat ve Tesisat Malzemeleri Yatırım ve Pazarlama A.Ş.', code: 'INTEM', lot: '19.440.000' },
+            { name: 'Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.', code: 'DOBUR', lot: '19.559.175' },
+            { name: 'Kafein Yazılım Hizmetleri Ticaret A.Ş.', code: 'KFEIN', lot: '19.750.000' },
+            { name: 'Euro Trend Yatırım Ortaklığı A.Ş.', code: 'ETYAT', lot: '20.000.000' },
+            { name: 'Marka Yatırım Holding A.Ş.', code: 'MARKA', lot: '20.990.000' },
+            { name: 'Tarkim Bitki Koruma Sanayi ve Ticaret A.Ş.', code: 'TARKM', lot: '21.000.000' },
+            { name: 'Link Bilgisayar Sistemleri Yazılımı ve Donanımı Sanayi ve Ticaret A.Ş.', code: 'LINK', lot: '21.750.120' },
+            { name: 'Selçuk Gıda Endüstri İhracat İthalat A.Ş.', code: 'SELGD', lot: '22.000.000' },
+            { name: 'Plastikkart Akıllı Kart İletişim Sistemleri Sanayi ve Ticaret A.Ş.', code: 'PKART', lot: '22.750.000' },
+            { name: 'Despec Bilgisayar Pazarlama ve Ticaret A.Ş.', code: 'DESPC', lot: '23.000.000' },
+            { name: 'Oncosem Onkolojik Sistemler Sanayi ve Ticaret A.Ş.', code: 'ONCSM', lot: '23.850.000' },
+            { name: 'Ingram Micro Bilişim Sistemleri A.Ş.', code: 'INGRM', lot: '24.000.000' },
+            { name: 'Çelebi Hava Servisi A.Ş.', code: 'CLEBI', lot: '24.300.000' },
+            { name: 'Petrokent Turizm A.Ş.', code: 'PKENT', lot: '24.883.200' },
+            { name: 'Altın Yunus Çeşme Turistik Tesisler A.Ş.', code: 'AYCES', lot: '25.000.000' },
+            { name: 'Akın Tekstil A.Ş.', code: 'ATEKS', lot: '25.200.000' },
+            { name: 'Ulaşlar Turizm Yatırımları ve Dayanıklı Tüketim Malları Ticaret Pazarlama A.Ş.', code: 'ULAS', lot: '25.382.375' },
+            { name: 'Orma Orman Mahsulleri Entegre Sanayi ve Ticaret A.Ş.', code: 'ORMA', lot: '27.200.000' },
+            { name: 'Lüks Kadife Ticaret ve Sanayii A.Ş.', code: 'LUKSK', lot: '28.000.000' },
+            { name: 'Borusan Yatırım ve Pazarlama A.Ş.', code: 'BRYAT', lot: '28.125.000' },
+            { name: 'Rodrigo Tekstil Sanayi ve Ticaret A.Ş.', code: 'RODRG', lot: '28.340.000' },
+            { name: 'Tera Finansal Yatırımlar Holding A.Ş.', code: 'TRHOL', lot: '30.000.000' },
+            { name: 'Kuvva Gıda Ticaret ve Sanayi Yatırımları A.Ş.', code: 'KUVVA', lot: '31.042.007' },
+            { name: 'Pamukova Yenilenebilir Elektrik Üretimi A.Ş.', code: 'PAMEL', lot: '31.095.331' },
+            { name: 'Smartiks Yazılım A.Ş.', code: 'SMART', lot: '31.862.500' },
+            { name: 'İşbir Holding A.Ş.', code: 'ISBIR', lot: '32.387.040' },
+            { name: 'Karsu Tekstil Sanayii ve Ticaret A.Ş.', code: 'KRTEK', lot: '35.100.498' },
+            { name: 'Safkar Ege Soğutmacılık Klima Soğuk Hava Tesisleri İhracat İthalat Sanayi ve Ticaret A.Ş.', code: 'SAFKR', lot: '35.250.000' },
+            { name: 'Ersu Meyve ve Gıda Sanayi A.Ş.', code: 'ERSU', lot: '36.000.000' },
+            { name: 'Saray Matbaacılık Kağıtçılık Kırtasiyecilik Ticaret ve Sanayi A.Ş.', code: 'SAMAT', lot: '36.600.000' },
+            { name: 'Avrupa Yatırım Holding A.Ş.', code: 'AVHOL', lot: '37.250.000' },
+            { name: 'Garanti Yatırım Ortaklığı A.Ş.', code: 'GRNYO', lot: '37.500.000' },
+            { name: 'Bülbüloğlu Vinç Sanayi ve Ticaret A.Ş.', code: 'BVSAN', lot: '37.600.000' },
+            { name: 'Alcatel Lucent Teletaş Telekomünikasyon A.Ş.', code: 'ALCTL', lot: '38.700.772' },
+            { name: 'Gündoğdu Gıda Süt Ürünleri Sanayi ve Dış Ticaret A.Ş.', code: 'GUNDG', lot: '39.000.000' },
+            { name: 'Kütahya Porselen Sanayi A.Ş.', code: 'KUTPO', lot: '39.916.800' },
+            { name: 'Umpaş Holding A.Ş.', code: 'UMPAS', lot: '42.000.000' },
+            { name: 'Ceo Event Medya A.Ş.', code: 'CEOEM', lot: '44.000.000' },
+            { name: 'Birlik Mensucat Ticaret ve Sanayi İşletmesi A.Ş.', code: 'BRMEN', lot: '44.627.051' },
+            { name: 'Silverline Endüstri ve Ticaret A.Ş.', code: 'SILVR', lot: '45.000.000' },
+            { name: 'Obase Bilgisayar ve Danışmanlık Hizmetleri Ticaret A.Ş.', code: 'OBASE', lot: '45.500.000' },
+            { name: 'Kütahya Şeker Fabrikası A.Ş.', code: 'KTSKR', lot: '46.000.000' },
+            { name: 'Gediz Ambalaj Sanayi ve Ticaret A.Ş.', code: 'GEDZA', lot: '46.656.000' },
+            { name: 'Ufuk Yatırım Yönetim ve Gayrimenkul A.Ş.', code: 'UFUK', lot: '46.846.881' },
+            { name: 'Ata Gayrimenkul Yatırım Ortaklığı A.Ş.', code: 'ATAGY', lot: '47.500.000' },
+            { name: 'Yayla Enerji Üretim Turizm ve İnşaat Ticaret A.Ş.', code: 'YAYLA', lot: '49.875.000' },
+            { name: 'Verusatürk Girişim Sermayesi Yatırım Ortaklığı A.Ş.', code: 'VERTU', lot: '52.000.000' },
+            { name: 'Sekuro Plastik Ambalaj Sanayi A.Ş.', code: 'SEKUR', lot: '53.611.826' },
+            { name: 'Derimod Konfeksiyon Ayakkabı Deri Sanayi ve Ticaret A.Ş.', code: 'DERIM', lot: '54.000.000' },
+            { name: 'A1 Yenilenebilir Enerji Üretim A.Ş.', code: 'A1YEN', lot: '55.000.000' },
+            { name: 'Dofer Yapı Malzemeleri Sanayi ve Ticaret A.Ş.', code: 'DOFER', lot: '55.750.000' },
+            { name: 'Birikim Varlık Yönetim A.Ş.', code: 'BRKVY', lot: '56.000.000' },
+            { name: 'Bayrak Ebt Taban Sanayi ve Ticaret A.Ş.', code: 'BAYRK', lot: '56.465.188' },
+            { name: 'SDT Uzay ve Savunma Teknolojileri A.Ş.', code: 'SDTTR', lot: '58.000.000' },
+            { name: 'İzmir Fırça Sanayi ve Ticaret A.Ş.', code: 'IZFAS', lot: '59.062.500' },
+            { name: 'Atlas Menkul Kıymetler Yatırım Ortaklığı A.Ş.', code: 'ATLAS', lot: '60.000.000' },
+        ],
+        seoKeywords: [
+            'lot sayısı az olan hisseler 2026',
+            'küçük sermayeli hisseler',
+            'dolaşımdaki lot sayısı en az olan hisseler',
+            'az lotlu hisseler',
+            'borsa istanbul küçük sermayeli şirketler',
+            'ödenmiş sermayesi düşük hisseler'
+        ],
+        category: 'Hisse Analiz',
+        author: 'Volkan Eles',
+        date: '27 Aralık 2025',
+        image: '/lot-sayisi-az-hisseler-2026.png',
+        readTime: '6 dk'
+    },
+    {
+        id: 4,
         slug: 'halka-arz-furyasi-devam-edecek-mi',
         title: '2026 Yılında Halka Arz Furyası: Beklentiler ve Riskler',
         excerpt: 'Son dönemde artan halka arzların geleceği ne olacak? Yatırımcılar hangi sektörlere odaklanmalı?',

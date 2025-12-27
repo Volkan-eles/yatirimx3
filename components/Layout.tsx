@@ -55,7 +55,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
     { name: 'Hedef Fiyat', path: '/hedef-fiyat', icon: TrendingUp },
 
     { name: 'Sermaye', path: '/sermaye-artirimi', icon: Layers },
-    { name: 'Temettü', path: '/temettu', icon: PieChart },
+    { name: 'Temettü', path: '/temettu-takvimi-2026', icon: PieChart },
     { name: 'Halka Arz', path: '/halka-arz', icon: Calendar },
     { name: 'Kurumlar', path: '/araci-kurumlar', icon: Briefcase },
     { name: 'Blog', path: '/blog', icon: BookOpen },
@@ -81,7 +81,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
       title: "Şirket Verileri",
       items: [
         { name: 'Halka Arz Takvimi', path: '/halka-arz', icon: Calendar },
-        { name: 'Temettü Dağıtımları', path: '/temettu', icon: PieChart },
+        { name: 'Temettü Dağıtımları', path: '/temettu-takvimi-2026', icon: PieChart },
         { name: 'Sermaye Artırımları', path: '/sermaye-artirimi', icon: Layers },
       ]
     }

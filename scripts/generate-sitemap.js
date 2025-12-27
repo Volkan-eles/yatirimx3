@@ -81,7 +81,7 @@ const main = () => {
         { path: '/', priority: '1.0', freq: 'hourly' },
         { path: '/piyasa', priority: '0.9', freq: 'hourly' },
         { path: '/hedef-fiyat', priority: '0.9', freq: 'daily' },
-        { path: '/temettu', priority: '0.9', freq: 'daily' },
+        { path: '/temettu-takvimi-2026', priority: '0.9', freq: 'daily' },
         { path: '/halka-arz', priority: '0.9', freq: 'weekly' },
         { path: '/sermaye-artirimi', priority: '0.8', freq: 'weekly' },
         { path: '/araci-kurumlar', priority: '0.8', freq: 'weekly' },
@@ -171,6 +171,7 @@ const main = () => {
     const BLOG_POSTS = [
         { slug: '2026-bedelsiz-verecek-hisseler' },
         { slug: '2026-temettu-verecek-hisseler' },
+        { slug: 'lot-sayisi-az-olan-hisseler-2026' },
         { slug: 'halka-arz-furyasi-devam-edecek-mi' }
     ];
     console.log(`Processing ${BLOG_POSTS.length} blog posts...`);

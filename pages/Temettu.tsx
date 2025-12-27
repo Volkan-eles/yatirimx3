@@ -48,7 +48,7 @@ const Temettu: React.FC = () => {
          <SEO
             title="Temettü Takvimi 2026 - En Çok Temettü Veren Hisseler"
             description="2026 temettü takvimi, hisse başı net temettü miktarları, en yüksek verimli hisseler ve ödeme tarihleri. BIST temettü endeksi analizleri."
-            canonicalUrl="https://yatirimx.com/temettu/"
+            canonicalUrl="https://yatirimx.com/temettu-takvimi-2026/"
             keywords="temettü takvimi 2026, temettü veren hisseler, 2026 temettü tahminleri, temettü verimliliği, nakit kar payı, borsa istanbul"
          />
 

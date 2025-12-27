@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, useLocation, Navigate } from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './pages/Home'; // New Home page
 import Borsa from './pages/Borsa';
@@ -46,7 +46,10 @@ function App() {
           <Route path="/hedef-fiyat/:code" element={<HedefFiyatDetail />} />
           <Route path="/sermaye-artirimi" element={<SermayeArtirimi />} />
 
-          <Route path="/temettu" element={<Temettu />} />
+          <Route path="/temettu-takvimi-2026" element={<Temettu />} />
+          {/* Redirect old route to new SEO-friendly route */}
+          <Route path="/temettu" element={<Navigate to="/temettu-takvimi-2026" replace />} />
+
           <Route path="/temettu/:code" element={<TemettuDetail />} />
           <Route path="/halka-arz" element={<HalkaArz />} />
           <Route path="/halka-arz/:code" element={<HalkaArzDetail />} />

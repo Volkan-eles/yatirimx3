@@ -264,7 +264,7 @@ const Home: React.FC = () => {
         {[
           { title: 'Hedef Fiyatlar', icon: Zap, to: '/hedef-fiyat', color: 'emerald' },
           { title: 'Bilanço Takvimi', icon: Activity, to: '/bilanco-takvimi', color: 'blue' },
-          { title: 'Temettü Verimi', icon: PieChart, to: '/temettu', color: 'purple' },
+          { title: 'Temettü Verimi', icon: PieChart, to: '/temettu-takvimi-2026', color: 'purple' },
           { title: 'Model Portföy', icon: Award, to: '/araci-kurumlar', color: 'orange' },
         ].map((item, i) => (
           <Link key={i} to={item.to} className="glass-panel p-6 rounded-2xl border border-white/5 hover:border-blue-500/30 transition-all group flex flex-col items-center text-center">
