@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Layers, ArrowRight, CheckCircle2, Clock, AlertCircle, Loader2 } from 'lucide-react';
-import Link from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import SEO from '../components/SEO';
 
 interface CapitalIncrease {
