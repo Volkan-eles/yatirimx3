@@ -332,11 +332,11 @@ const StockDetail: React.FC = () => {
   // Update document title based on target price availability
   // SEO Configuration
   const seoTitle = hasTargetPrice
-    ? `${stock?.code} Hisse Hedef Fiyat 2026`
-    : `${stock?.code} Hisse Fiyatı, Grafiği ve Yorum 2026 | YatırımX`;
+    ? `${stock?.code} Hisse Hedef Fiyat 2026 | YatırımX`
+    : `${stock?.code} Hisse Fiyatı ve Yorum 2026 | YatırımX`;
 
   const seoDescription = stock ?
-    `2026 yılı için ${stock.code} hisse hedef fiyat tahmini, uzman analist yorumları, teknik analiz ve ${stock.code} hissesi için en güncel veriler. ${stock.name} hisse analiz raporları ve potansiyel getiri beklentileri.` :
+    `2026 ${stock.code} hisse hedef fiyatı, teknik analiz ve uzman yorumları. ${stock.name} hissesi için güncel veriler ve getiri beklentileri.` :
     'Borsa İstanbul hisse senedi teknik analizi, hedef fiyat tahminleri ve güncel piyasa verileri.';
 
   const canonicalUrl = `https://yatirimx.com/hisse/${code?.toUpperCase()}/`;
