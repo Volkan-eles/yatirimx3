@@ -292,8 +292,12 @@ const StockDetail: React.FC = () => {
     fetch('/bist_live_data.json')
       .then(res => res.json())
       .then(data => {
-        // Find the stock by code
-        const foundStock = data.stocks.find((s: any) => s.code === code?.toUpperCase());
+        // Find the stock by code or matching long slug
+        const foundStock = data.stocks.find((s: any) => {
+          const longSlug = slugify(`${s.code} Hisse Senedi Fiyatı Grafiği ${s.code} Yorumu 2026`);
+          return s.code === code?.toUpperCase() || longSlug === code;
+        });
+
         if (foundStock) {
           // Use all comprehensive data from JSON
           setStock({
@@ -324,23 +328,24 @@ const StockDetail: React.FC = () => {
     fetch('/halkarz_target_prices.json')
       .then(res => res.json())
       .then(targetData => {
-        const hasTarget = targetData.some((item: any) => item.bistkodu === code?.toUpperCase());
+        // Simple check, code resolution handled above
+        const hasTarget = targetData.some((item: any) => item.bistkodu === (stock?.code || code?.toUpperCase()));
         setHasTargetPrice(hasTarget);
       })
       .catch(() => setHasTargetPrice(false));
-  }, [code]);
+  }, [code, stock?.code]);
 
   // Update document title based on target price availability
   // SEO Configuration
-  const seoTitle = hasTargetPrice
-    ? `${stock?.code} Hisse Hedef Fiyat 2026 | YatırımX`
-    : `${stock?.code} Hisse Fiyatı ve Yorum 2026 | YatırımX`;
+  const seoTitle = stock
+    ? `${stock.code} Hisse Senedi Fiyatı, Grafiği ${stock.code} Yorumu 2026`
+    : `${code} Hisse Senedi Fiyatı ve Yorum 2026`;
 
   const seoDescription = stock ?
-    `2026 ${stock.code} hisse hedef fiyatı, teknik analiz ve uzman yorumları. ${stock.name} hissesi için güncel veriler ve getiri beklentileri.` :
+    `${stock.code} hisse senedi fiyatı, canlı grafiği ve ${stock.code} yorumu 2026. ${stock.name} hissesi için güncel teknik analiz, uzman hedef fiyat tahminleri ve detaylı piyasa verileri. ${stock.code} neden düşüyor/yükseliyor?` :
     'Borsa İstanbul hisse senedi teknik analizi, hedef fiyat tahminleri ve güncel piyasa verileri.';
 
-  const canonicalUrl = `https://yatirimx.com/hisse/${slugify(code || '')}/`;
+  const canonicalUrl = `https://yatirimx.com/hisse/${slugify(`${stock?.code || code} Hisse Senedi Fiyatı Grafiği ${stock?.code || code} Yorumu 2026`)}/`;
 
   // Schema.org Structured Data
   const stockSchema = stock ? {
@@ -359,7 +364,7 @@ const StockDetail: React.FC = () => {
             "@type": "ListItem",
             "position": 2,
             "name": "Borsa",
-            "item": "https://yatirimx.com/piyasa"
+            "item": "https://yatirimx.com/piyasa/"
           },
           {
             "@type": "ListItem",
@@ -411,7 +416,7 @@ const StockDetail: React.FC = () => {
         description={seoDescription}
         canonicalUrl={canonicalUrl}
         schema={stockSchema}
-        keywords={`${stock.code}, ${stock.code} hisse, ${stock.code} hedef fiyat, ${stock.code} yorum, borsa istanbul, hisse senedi`}
+        keywords={`${stock.code}, ${stock.code} hisse, ${stock.code} hisse yorum, ${stock.code} grafik, borsa istanbul, hisse senedi 2026`}
       />
 
       {/* Breadcrumb */}
@@ -422,7 +427,7 @@ const StockDetail: React.FC = () => {
         <span>/</span>
         <span className="text-zinc-400">{stock.code}</span>
         <div className="ml-auto">
-          <Link to="/piyasa" className="px-4 py-1.5 bg-zinc-900/50 border border-white/5 rounded-lg text-zinc-400 hover:text-white transition-all flex items-center gap-2">
+          <Link to="/piyasa/" className="px-4 py-1.5 bg-zinc-900/50 border border-white/5 rounded-lg text-zinc-400 hover:text-white transition-all flex items-center gap-2">
             <ArrowLeft className="w-3 h-3" /> Listeye Dön
           </Link>
         </div>

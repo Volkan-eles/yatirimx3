@@ -18,6 +18,7 @@ import {
   ArrowRight
 } from 'lucide-react';
 import { MOCK_IPOS } from '../constants';
+import { slugify } from '../utils/slugify';
 
 interface StockData {
   code: string;
@@ -206,7 +207,7 @@ const Home: React.FC = () => {
                         <span className="text-zinc-500 text-xs font-medium">{stock.sector}</span>
                       </td>
                       <td className="px-6 py-5 text-right">
-                        <Link to={`/hisse/${stock.code}`} className="p-2 text-zinc-600 hover:text-white transition-colors">
+                        <Link to={`/hisse/${slugify(`${stock.code} Hisse Senedi Fiyatı Grafiği ${stock.code} Yorumu 2026`)}/`} className="p-2 text-zinc-600 hover:text-white transition-colors">
                           <ChevronRight className="w-5 h-5 opacity-0 group-hover:opacity-100 transform translate-x-2 group-hover:translate-x-0 transition-all" />
                         </Link>
                       </td>

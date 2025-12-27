@@ -154,7 +154,7 @@ const BrokerDetail: React.FC = () => {
                                 broker.recommendations.map((rec, i) => (
                                     <div key={i} className="p-6 hover:bg-white/5 transition-colors flex items-center justify-between group">
                                         <div className="flex items-center gap-6">
-                                            <Link to={`/hisse/${rec.symbol}`} className="w-14 h-14 rounded-xl bg-zinc-900 border border-white/10 flex flex-col items-center justify-center group-hover:bg-blue-900/20 group-hover:border-blue-500/30 transition-all">
+                                            <Link to={`/hisse/${slugify(`${rec.symbol} Hisse Senedi Fiyatı Grafiği ${rec.symbol} Yorumu 2026`)}/`} className="w-14 h-14 rounded-xl bg-zinc-900 border border-white/10 flex flex-col items-center justify-center group-hover:bg-blue-900/20 group-hover:border-blue-500/30 transition-all">
                                                 <span className="font-black text-sm text-white">{rec.symbol}</span>
                                             </Link>
                                             <div>
@@ -172,7 +172,7 @@ const BrokerDetail: React.FC = () => {
                                                 </div>
                                             </div>
                                         </div>
-                                        <Link to={`/hisse/${rec.symbol}`}>
+                                        <Link to={`/hisse/${slugify(`${rec.symbol} Hisse Senedi Fiyatı Grafiği ${rec.symbol} Yorumu 2026`)}/`}>
                                             <ChevronRight className="w-5 h-5 text-zinc-600 group-hover:text-white transition-all transform group-hover:translate-x-1" />
                                         </Link>
                                     </div>

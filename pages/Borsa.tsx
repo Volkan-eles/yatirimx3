@@ -2,6 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { Search, ChevronRight, TrendingUp, TrendingDown, BarChart2, Filter, Activity, Clock } from 'lucide-react';
 import { AreaChart, Area } from 'recharts';
+import SEO from '../components/SEO';
+import { slugify } from '../utils/slugify';
 
 interface StockData {
     code: string;
@@ -196,7 +198,7 @@ const Borsa: React.FC = () => {
                                                         <span className={isPositive ? 'text-emerald-500' : 'text-rose-500'}>{stock.code.substring(0, 1)}</span>
                                                     </div>
                                                     <div>
-                                                        <Link to={`/hisse/${stock.code}`} className="font-bold text-white text-base hover:text-blue-400 transition-colors block leading-tight mb-0.5">
+                                                        <Link to={`/hisse/${slugify(`${stock.code} Hisse Senedi Fiyatı Grafiği ${stock.code} Yorumu 2026`)}/`} className="font-bold text-white text-base hover:text-blue-400 transition-colors block leading-tight mb-0.5">
                                                             {stock.code}
                                                         </Link>
                                                         <span className="text-xs text-zinc-500 font-medium">{stock.name}</span>
@@ -222,7 +224,7 @@ const Borsa: React.FC = () => {
                                                 {stock.volume}
                                             </td>
                                             <td className="px-6 py-5 text-right">
-                                                <Link to={`/hisse/${stock.code}`} className="p-2.5 rounded-xl bg-white/5 hover:bg-blue-600 text-zinc-400 hover:text-white transition-all inline-flex opacity-0 group-hover:opacity-100 translate-x-2 group-hover:translate-x-0 duration-300">
+                                                <Link to={`/hisse/${slugify(`${stock.code} Hisse Senedi Fiyatı Grafiği ${stock.code} Yorumu 2026`)}/`} className="p-2.5 rounded-xl bg-white/5 hover:bg-blue-600 text-zinc-400 hover:text-white transition-all inline-flex opacity-0 group-hover:opacity-100 translate-x-2 group-hover:translate-x-0 duration-300">
                                                     <ChevronRight className="w-4 h-4" />
                                                 </Link>
                                             </td>

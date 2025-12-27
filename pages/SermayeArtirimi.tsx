@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Layers, ArrowRight, CheckCircle2, Clock, AlertCircle, Loader2 } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import SEO from '../components/SEO';
+import { slugify } from '../utils/slugify';
 
 interface CapitalIncrease {
   code: string;
@@ -154,7 +155,7 @@ const SermayeArtirimi: React.FC = () => {
                       {item.description || '-'}
                     </td>
                     <td className="px-6 py-4 text-right">
-                      <Link to={`/hisse/${item.code}`} className="inline-flex items-center justify-center w-8 h-8 rounded-lg bg-white/5 hover:bg-white/10 text-zinc-400 hover:text-white transition-colors">
+                      <Link to={`/hisse/${slugify(`${item.code} Hisse Senedi Fiyatı Grafiği ${item.code} Yorumu 2026`)}/`} className="inline-flex items-center justify-center w-8 h-8 rounded-lg bg-white/5 hover:bg-white/10 text-zinc-400 hover:text-white transition-colors">
                         <ArrowRight className="w-4 h-4" />
                       </Link>
                     </td>
