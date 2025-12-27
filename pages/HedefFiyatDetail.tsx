@@ -30,7 +30,11 @@ const HedefFiyatDetail: React.FC = () => {
             .then(res => res.json())
             .then((jsonData: HalkarzTargetPrice[]) => {
                 // Filter reports for this stock code
-                const stockReports = jsonData.filter(report => report.bistkodu === code?.toUpperCase());
+                // Support both direct code match (old URL) and slug match (long SEO URL)
+                const stockReports = jsonData.filter(report => {
+                    const longSlug = slugify(`${report.bistkodu} Hedef Fiyat 2026`);
+                    return report.bistkodu === code?.toUpperCase() || longSlug === code;
+                });
 
                 if (stockReports.length === 0) {
                     setError('Bu hisse için hedef fiyat verisi bulunamadı.');
@@ -89,10 +93,10 @@ const HedefFiyatDetail: React.FC = () => {
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-500 space-y-8 max-w-6xl mx-auto pb-20">
             {code && (
                 <SEO
-                    title={`${stockName} (${code}) Hedef Fiyat 2026 - Aracı Kurum Tahminleri | YatirimX`}
-                    description={`${stockName} (${code}) 2026 hedef fiyat tahminleri, aracı kurum raporları, al / sat / tut tavsiyeleri ve ortalama hedef fiyat beklentisi.${code} analizleri.`}
-                    canonicalUrl={`https://yatirimx.com/hedef-fiyat/${slugify(code)}/`}
-                    keywords={`${code}, ${stockName}, ${code} hedef fiyat, ${code} hisse analizi, 2026 borsa tahminleri`}
+                    title={`${reports[0].bistkodu} Hedef Fiyat 2026`}
+                    description={`${stockName} (${reports[0].bistkodu}) 2026 hedef fiyat tahminleri, aracı kurum raporları, al / sat / tut tavsiyeleri ve ortalama hedef fiyat beklentisi.`}
+                    canonicalUrl={`https://yatirimx.com/hedef-fiyat/${slugify(`${reports[0].bistkodu} Hedef Fiyat 2026`)}/`}
+                    keywords={`${reports[0].bistkodu}, ${stockName}, ${reports[0].bistkodu} hedef fiyat, ${reports[0].bistkodu} hisse analizi, 2026 borsa tahminleri`}
                 />
             )}
             <SEO // Fallback if code missing, though should be covered
