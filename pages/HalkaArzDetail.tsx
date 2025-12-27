@@ -34,7 +34,12 @@ const HalkaArzDetail: React.FC = () => {
 
                 // Search in both active and draft
                 const allIpos = [...(data.active_ipos || []), ...(data.draft_ipos || [])];
-                const found = allIpos.find((item) => item.slug === code || item.code === code);
+
+                // Find IPO by generating the expected long slug for each and comparing with URL param
+                const found = allIpos.find((item) => {
+                    const longSlug = slugify(`${item.company} Halka Arzı Hakkında Bilmen Gereken Her Şey 2026`);
+                    return longSlug === code || item.slug === code || item.code === code;
+                });
 
                 setIpo(found);
             } catch (error) {
@@ -67,7 +72,7 @@ const HalkaArzDetail: React.FC = () => {
                 <SEO
                     title={`${ipo.company} Halka Arzı Hakkında Bilmen Gereken Her Şey! – 2026`}
                     description={`${ipo.company} (${ipo.code || 'KOD_YOK'}) halka arz fiyatı ${ipo.price > 0 ? ipo.price + ' TL' : 'belirlenmedi'}, halka arz tarihi ${ipo.dates} ve detaylı şirket analizi. Katılım endeksine uygun mu, dağıtım şekli ve yorumlar.`}
-                    canonicalUrl={`https://yatirimx.com/halka-arz/${ipo.slug || slugify(ipo.company)}/`}
+                    canonicalUrl={`https://yatirimx.com/halka-arz/${slugify(`${ipo.company} Halka Arzı Hakkında Bilmen Gereken Her Şey 2026`)}/`}
                     keywords={`${ipo.code || ''}, ${ipo.company}, ${ipo.company} halka arz, ${ipo.company} yorum, ${ipo.company} ne zaman işlem görecek, halka arz takvimi`}
                 />
             )}
