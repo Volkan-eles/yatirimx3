@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Layers, ArrowRight, CheckCircle2, Clock, AlertCircle, Loader2 } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import Link from 'react-router-dom';
+import SEO from '../components/SEO';
 
 interface CapitalIncrease {
   code: string;
@@ -64,6 +65,12 @@ const SermayeArtirimi: React.FC = () => {
 
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <SEO
+        title="Sermaye Artırımları 2026 - Bedelsiz, Bedelli Takvimi"
+        description="2026 yılında sermaye artırımı yapacak şirketler, bedelsiz potansiyeli olan hisseler ve güncel SPK başvuru durumları. Bedelli, bedelsiz ve tahsisli artırım takvimi."
+        canonicalUrl="https://yatirimx.com/sermaye-artirimi/"
+        keywords="sermaye artırımı, bedelsiz hisseler 2026, bedelli sermaye artırımı, spk bülteni, bedelsiz potansiyeli, borsa istanbul, hisse bölünmesi"
+      />
 
       {/* Header */}
       <div className="flex flex-col md:flex-row justify-between items-end gap-6">
@@ -84,8 +91,8 @@ const SermayeArtirimi: React.FC = () => {
             key={tab}
             onClick={() => setActiveTab(tab)}
             className={`flex-1 md:flex-none px-6 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${activeTab === tab
-                ? 'bg-zinc-800 text-white shadow-lg shadow-black/20 ring-1 ring-white/10'
-                : 'text-zinc-500 hover:text-zinc-300 hover:bg-white/5'
+              ? 'bg-zinc-800 text-white shadow-lg shadow-black/20 ring-1 ring-white/10'
+              : 'text-zinc-500 hover:text-zinc-300 hover:bg-white/5'
               }`}
           >
             {tab}
