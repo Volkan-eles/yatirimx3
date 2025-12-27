@@ -137,6 +137,7 @@ const HalkaArz: React.FC = () => {
             <SEO
                 title="Halka Arz Takvimi 2026 | YatirimX"
                 description="2026 yılı güncel halka arz takvimi, SPK onaylı yeni halka arzlar, talep toplama tarihleri, dağıtım oranları ve şirket analizleri YatirimX'te."
+                canonicalUrl="https://yatirimx.com/halka-arz/"
                 keywords="halka arz, halka arz takvimi, 2026 halka arz, yeni halka arzlar, spk bülteni, borsa istanbul"
             />
 

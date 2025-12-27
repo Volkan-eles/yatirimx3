@@ -43,6 +43,7 @@ const AraciKurumlar: React.FC = () => {
             <SEO
                 title="Aracı Kurum Raporları ve Hedef Fiyatlar 2026 | YatirimX"
                 description="2026 yılı aracı kurum hisse önerileri, hedef fiyatlar, model portföyler ve en başarılı aracı kurum analizleri. Borsa İstanbul hisse senedi raporları."
+                canonicalUrl="https://yatirimx.com/araci-kurumlar/"
                 keywords="aracı kurum raporları, hedef fiyatlar, hisse önerileri, model portföy, borsa istanbul, 2026 hisse senedi"
             />
 
