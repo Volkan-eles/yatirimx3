@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-29T22:48:04.210801",
+  "last_update": "2025-12-29T23:27:15.632286",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 507,
   "successful": 507,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 41.981136,
-      "targetLowPrice": 29.189339,
-      "targetMeanPrice": 35.413536,
-      "targetMedianPrice": 34.91989,
+      "targetHighPrice": 41.964123,
+      "targetLowPrice": 29.17751,
+      "targetMeanPrice": 35.39918,
+      "targetMedianPrice": 34.90574,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 6,
@@ -5542,10 +5542,10 @@
       "dividendYield": null,
       "exDividendDate": 1585094400,
       "payoutRatio": 0.0,
-      "targetHighPrice": 576.25714,
-      "targetLowPrice": 342.50958,
-      "targetMeanPrice": 436.13495,
-      "targetMedianPrice": 434.26495,
+      "targetHighPrice": 576.3175,
+      "targetLowPrice": 342.5455,
+      "targetMeanPrice": 436.1807,
+      "targetMedianPrice": 434.3105,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -45988,10 +45988,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 74.71954,
-      "targetLowPrice": 56.77998,
-      "targetMeanPrice": 65.749756,
-      "targetMedianPrice": 65.749756,
+      "targetHighPrice": 74.72598,
+      "targetLowPrice": 56.784878,
+      "targetMeanPrice": 65.755424,
+      "targetMedianPrice": 65.755424,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
@@ -81152,7 +81152,7 @@
       "beta": 0.393,
       "historicalData": [
         {
-          "Close": 177.5314178466797,
+          "Close": 177.53143310546875,
           "Volume": 467704
         },
         {
@@ -81164,7 +81164,7 @@
           "Volume": 340741
         },
         {
-          "Close": 177.5314178466797,
+          "Close": 177.53143310546875,
           "Volume": 479173
         },
         {
