@@ -5,7 +5,6 @@ import Layout from './components/Layout';
 // Lazy Load Pages for Performance
 const Home = lazy(() => import('./pages/Home'));
 const Borsa = lazy(() => import('./pages/Borsa'));
-// Watchlist imported at line 23
 const ComparePage = React.lazy(() => import('./pages/ComparePage'));
 const NotFound = React.lazy(() => import('./pages/NotFound'));
 const StockDetail = lazy(() => import('./pages/StockDetail'));
