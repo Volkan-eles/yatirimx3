@@ -189,13 +189,13 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
         {isMobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
       </button>
     </div>
-      </header >
+      </header>
 
       {/* Mobile Menu Backdrop */ }
-      < div
-    className = {`fixed inset-0 z-40 bg-black/60 backdrop-blur-md transition-all duration-500 xl:hidden ${isMobileMenuOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`
+      <div
+    className={`fixed inset-0 z-40 bg-black/60 backdrop-blur-md transition-all duration-500 xl:hidden ${isMobileMenuOpen ? 'opacity-100' : 'opacity-0 pointer-events-none'}`
   }
-        onClick = {() => setIsMobileMenuOpen(false)}
+        onClick={() => setIsMobileMenuOpen(false)}
       />
 
 {/* Mobile Menu Sidebar */ }
@@ -262,6 +262,6 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
 
 {/* Footer */ }
 <Footer />
-    </div >
+    </div>
   );
 }
