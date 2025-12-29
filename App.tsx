@@ -58,11 +58,12 @@ function App() {
             <Route path="/hedef-fiyat/:code" element={<HedefFiyatDetail />} />
             <Route path="/sermaye-artirimi" element={<SermayeArtirimi />} />
 
+
             <Route path="/temettu-takvimi-2026" element={<Temettu />} />
+            <Route path="/temettu/:code" element={<TemettuDetail />} />
             {/* Redirect old route */}
             <Route path="/temettu" element={<Navigate to="/temettu-takvimi-2026" replace />} />
 
-            <Route path="/temettu/:code" element={<TemettuDetail />} />
             {/* Watchlist route already defined at line 55 */}
             <Route path="/karsilastir" element={<ComparePage />} />
             <Route path="*" element={<NotFound />} />
