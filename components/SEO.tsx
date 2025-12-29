@@ -1,71 +1,125 @@
-import { useEffect } from 'react';
+import React from 'react';
+import { Helmet } from 'react-helmet-async';
 
 interface SEOProps {
     title: string;
     description: string;
-    image?: string;
-    url?: string;
+    canonicalUrl?: string;
     keywords?: string;
+    ogImage?: string;
+    ogType?: string;
+    article?: {
+        publishedTime?: string;
+        modifiedTime?: string;
+        author?: string;
+        section?: string;
+        tags?: string[];
+    };
+    schema?: object;
 }
 
-const SEO = ({ title, description, image, url, keywords, canonicalUrl, schema }: SEOProps & { canonicalUrl?: string; schema?: object }) => {
-    useEffect(() => {
-        // Update Title
-        document.title = title;
+const SEO: React.FC<SEOProps> = ({
+    title,
+    description,
+    canonicalUrl,
+    keywords,
+    ogImage = 'https://yatirimx.com/og-image.jpg',
+    ogType = 'website',
+    article,
+    schema,
+}) => {
+    const siteUrl = 'https://yatirimx.com';
+    const fullCanonicalUrl = canonicalUrl || siteUrl;
 
-        // Helper to update meta tags
-        const updateMeta = (name: string, content: string, attribute = 'name') => {
-            let meta = document.querySelector(`meta[${attribute}="${name}"]`);
-            if (!meta) {
-                meta = document.createElement('meta');
-                meta.setAttribute(attribute, name);
-                document.head.appendChild(meta);
-            }
-            meta.setAttribute('content', content);
-        };
+    // Default Organization Schema
+    const organizationSchema = {
+        '@context': 'https://schema.org',
+        '@type': 'FinancialService',
+        name: 'YatırımX',
+        description: 'Türkiye\'nin en kapsamlı borsa ve finans platformu',
+        url: siteUrl,
+        logo: `${siteUrl}/logo.png`,
+        sameAs: [
+            'https://twitter.com/yatirimx',
+            'https://facebook.com/yatirimx',
+            'https://linkedin.com/company/yatirimx',
+        ],
+        contactPoint: {
+            '@type': 'ContactPoint',
+            contactType: 'Customer Service',
+            email: 'info@yatirimx.com',
+        },
+    };
 
-        // Standard Meta
-        updateMeta('description', description);
-        if (keywords) updateMeta('keywords', keywords);
+    // Combine schemas
+    const allSchemas = schema
+        ? { '@graph': [organizationSchema, schema] }
+        : organizationSchema;
 
-        // Open Graph
-        updateMeta('og:title', title, 'property');
-        updateMeta('og:description', description, 'property');
-        if (image) updateMeta('og:image', image, 'property');
-        if (url) updateMeta('og:url', url, 'property');
-        updateMeta('og:type', 'website', 'property');
+    return (
+        <Helmet>
+            {/* Basic Meta Tags */}
+            <title>{title}</title>
+            <meta name="description" content={description} />
+            {keywords && <meta name="keywords" content={keywords} />}
+            <link rel="canonical" href={fullCanonicalUrl} />
 
-        // Twitter
-        updateMeta('twitter:card', 'summary_large_image');
-        updateMeta('twitter:title', title);
-        updateMeta('twitter:description', description);
-        if (image) updateMeta('twitter:image', image);
+            {/* Open Graph / Facebook */}
+            <meta property="og:type" content={ogType} />
+            <meta property="og:url" content={fullCanonicalUrl} />
+            <meta property="og:title" content={title} />
+            <meta property="og:description" content={description} />
+            <meta property="og:image" content={ogImage} />
+            <meta property="og:site_name" content="YatırımX" />
+            <meta property="og:locale" content="tr_TR" />
 
-        // Canonical URL
-        if (canonicalUrl) {
-            let link = document.querySelector('link[rel="canonical"]');
-            if (!link) {
-                link = document.createElement('link');
-                link.setAttribute('rel', 'canonical');
-                document.head.appendChild(link);
-            }
-            link.setAttribute('href', canonicalUrl);
-        }
+            {/* Article specific */}
+            {article && (
+                <>
+                    {article.publishedTime && (
+                        <meta property="article:published_time" content={article.publishedTime} />
+                    )}
+                    {article.modifiedTime && (
+                        <meta property="article:modified_time" content={article.modifiedTime} />
+                    )}
+                    {article.author && (
+                        <meta property="article:author" content={article.author} />
+                    )}
+                    {article.section && (
+                        <meta property="article:section" content={article.section} />
+                    )}
+                    {article.tags && article.tags.map((tag, index) => (
+                        <meta key={index} property="article:tag" content={tag} />
+                    ))}
+                </>
+            )}
 
-        // Schema.org JSON-LD
-        if (schema) {
-            let script = document.querySelector('script[type="application/ld+json"]');
-            if (!script) {
-                script = document.createElement('script');
-                script.setAttribute('type', 'application/ld+json');
-                document.head.appendChild(script);
-            }
-            script.textContent = JSON.stringify(schema);
-        }
+            {/* Twitter */}
+            <meta name="twitter:card" content="summary_large_image" />
+            <meta name="twitter:url" content={fullCanonicalUrl} />
+            <meta name="twitter:title" content={title} />
+            <meta name="twitter:description" content={description} />
+            <meta name="twitter:image" content={ogImage} />
+            <meta name="twitter:site" content="@yatirimx" />
+            <meta name="twitter:creator" content="@yatirimx" />
 
-    }, [title, description, image, url, keywords, canonicalUrl, schema]);
+            {/* Additional SEO */}
+            <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+            <meta name="googlebot" content="index, follow" />
+            <meta name="language" content="Turkish" />
+            <meta name="revisit-after" content="1 days" />
+            <meta name="author" content="YatırımX" />
 
-    return null;
+            {/* Geo Tags */}
+            <meta name="geo.region" content="TR" />
+            <meta name="geo.placename" content="Turkey" />
+
+            {/* Schema.org JSON-LD */}
+            <script type="application/ld+json">
+                {JSON.stringify(allSchemas)}
+            </script>
+        </Helmet>
+    );
 };
 
 export default SEO;
