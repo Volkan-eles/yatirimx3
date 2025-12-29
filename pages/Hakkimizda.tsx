@@ -84,13 +84,119 @@ const Hakkimizda: React.FC = () => {
                 </div>
             </div>
 
-            {/* What We Offer */}
+            {/* Company Timeline */}
+            <div className="mb-20">
+                <div className="text-center mb-12">
+                    <h2 className="text-3xl font-bold text-white mb-4">Yolculuğumuz</h2>
+                    <p className="text-zinc-400">YatırımX'in kuruluşundan bugüne uzanan başarı hikayesi.</p>
+                </div>
+
+                <div className="relative border-l border-white/10 ml-4 md:ml-1/2 md:-translate-x-[0.5px] space-y-12">
+                    {/* 2023 */}
+                    <div className="relative md:flex items-center justify-between group">
+                        <div className="absolute left-[-5px] top-6 md:left-1/2 md:-ml-[5px] w-[11px] h-[11px] rounded-full bg-zinc-800 border-2 border-blue-500 z-10 group-hover:bg-blue-500 transition-colors"></div>
+                        <div className="pl-8 md:pl-0 md:w-[45%] md:text-right">
+                            <span className="text-blue-500 font-bold font-mono text-sm">2023 4. Çeyrek</span>
+                            <h3 className="text-xl font-bold text-white mt-1 mb-2">Fikir ve Başlangıç</h3>
+                            <p className="text-zinc-400 text-sm">Yatırımcıların doğru veriye ulaşma sorununu çözmek için ilk kod satırları yazıldı ve proje başladı.</p>
+                        </div>
+                        <div className="hidden md:block md:w-[45%]"></div>
+                    </div>
+
+                    {/* 2024 Q1 */}
+                    <div className="relative md:flex items-center justify-between group">
+                        <div className="absolute left-[-5px] top-6 md:left-1/2 md:-ml-[5px] w-[11px] h-[11px] rounded-full bg-zinc-800 border-2 border-purple-500 z-10 group-hover:bg-purple-500 transition-colors"></div>
+                        <div className="hidden md:block md:w-[45%]"></div>
+                        <div className="pl-8 md:pl-0 md:w-[45%]">
+                            <span className="text-purple-500 font-bold font-mono text-sm">2024 1. Çeyrek</span>
+                            <h3 className="text-xl font-bold text-white mt-1 mb-2">Beta Lansmanı</h3>
+                            <p className="text-zinc-400 text-sm">İlk kapalı beta sürümü 500+ seçkin yatırımcı ile paylaşıldı ve geri bildirimler toplandı.</p>
+                        </div>
+                    </div>
+
+                    {/* 2024 Q3 */}
+                    <div className="relative md:flex items-center justify-between group">
+                        <div className="absolute left-[-5px] top-6 md:left-1/2 md:-ml-[5px] w-[11px] h-[11px] rounded-full bg-zinc-800 border-2 border-emerald-500 z-10 group-hover:bg-emerald-500 transition-colors"></div>
+                        <div className="pl-8 md:pl-0 md:w-[45%] md:text-right">
+                            <span className="text-emerald-500 font-bold font-mono text-sm">2024 3. Çeyrek</span>
+                            <h3 className="text-xl font-bold text-white mt-1 mb-2">Yapay Zeka Entegrasyonu</h3>
+                            <p className="text-zinc-400 text-sm">Hisse analizlerine AI tabanlı öngörüler ve "Akıllı Skor" sistemi entegre edildi.</p>
+                        </div>
+                        <div className="hidden md:block md:w-[45%]"></div>
+                    </div>
+
+                    {/* 2025 (Future) */}
+                    <div className="relative md:flex items-center justify-between group">
+                        <div className="absolute left-[-5px] top-6 md:left-1/2 md:-ml-[5px] w-[11px] h-[11px] rounded-full bg-zinc-800 border-2 border-white/20 z-10 group-hover:border-white transition-colors"></div>
+                        <div className="hidden md:block md:w-[45%]"></div>
+                        <div className="pl-8 md:pl-0 md:w-[45%]">
+                            <span className="text-zinc-500 font-bold font-mono text-sm">2025 Hedefi</span>
+                            <h3 className="text-white font-bold mt-1 mb-2">Global Pazarlar & Mobil App</h3>
+                            <p className="text-zinc-400 text-sm">ABD borsaları (NASDAQ/NYSE) verilerinin eklenmesi ve yerel mobil uygulama lansmanı.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {/* Team Section */}
+            <div className="mb-20">
+                <div className="text-center mb-12">
+                    <h2 className="text-3xl font-bold text-white mb-4">Uzman Ekibimiz</h2>
+                    <p className="text-zinc-400">Finans ve teknolojiyi birleştiren tutkulu kadromuz.</p>
+                </div>
+
+                <div className="grid md:grid-cols-3 gap-8">
+                    {/* Team Member 1 */}
+                    <div className="glass-panel p-6 rounded-2xl text-center group hover:-translate-y-2 transition-transform duration-300">
+                        <div className="w-24 h-24 mx-auto bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full mb-6 p-1">
+                            <div className="w-full h-full bg-zinc-900 rounded-full flex items-center justify-center overflow-hidden">
+                                <Users className="w-10 h-10 text-white/20" />
+                            </div>
+                        </div>
+                        <h3 className="text-xl font-bold text-white mb-1">Volkan Keleş</h3>
+                        <p className="text-blue-400 text-sm font-medium mb-4">Kurucu & Baş Analist</p>
+                        <p className="text-zinc-500 text-sm leading-relaxed">
+                            10+ yıllık finans piyasaları tecrübesi ile YatırımX'in vizyonunu şekillendiriyor.
+                        </p>
+                    </div>
+
+                    {/* Team Member 2 */}
+                    <div className="glass-panel p-6 rounded-2xl text-center group hover:-translate-y-2 transition-transform duration-300">
+                        <div className="w-24 h-24 mx-auto bg-gradient-to-br from-purple-500 to-pink-600 rounded-full mb-6 p-1">
+                            <div className="w-full h-full bg-zinc-900 rounded-full flex items-center justify-center overflow-hidden">
+                                <Users className="w-10 h-10 text-white/20" />
+                            </div>
+                        </div>
+                        <h3 className="text-xl font-bold text-white mb-1">Zeynep Yılmaz</h3>
+                        <p className="text-purple-400 text-sm font-medium mb-4">CTO & AI Mühendisi</p>
+                        <p className="text-zinc-500 text-sm leading-relaxed">
+                            Borsa verilerini işleyen algoritmaların ve yapay zeka modellerinin mimarı.
+                        </p>
+                    </div>
+
+                    {/* Team Member 3 */}
+                    <div className="glass-panel p-6 rounded-2xl text-center group hover:-translate-y-2 transition-transform duration-300">
+                        <div className="w-24 h-24 mx-auto bg-gradient-to-br from-emerald-500 to-teal-600 rounded-full mb-6 p-1">
+                            <div className="w-full h-full bg-zinc-900 rounded-full flex items-center justify-center overflow-hidden">
+                                <Users className="w-10 h-10 text-white/20" />
+                            </div>
+                        </div>
+                        <h3 className="text-xl font-bold text-white mb-1">Ahmet Demir</h3>
+                        <p className="text-emerald-400 text-sm font-medium mb-4">Finansal İçerik Lideri</p>
+                        <p className="text-zinc-500 text-sm leading-relaxed">
+                            Yatırımcı topluluğumuz için en güncel ve anlaşılır analizleri hazırlar.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            {/* What We Offer (Existing, kept but moved down or integrated) */}
             <div className="glass-panel p-8 rounded-3xl mb-8">
                 <div className="flex items-center gap-3 mb-6">
                     <div className="w-12 h-12 rounded-xl bg-purple-600/20 border border-purple-500/30 flex items-center justify-center">
                         <Users className="w-6 h-6 text-purple-400" />
                     </div>
-                    <h2 className="text-2xl font-bold text-white">Neler Sunuyoruz?</h2>
+                    <h2 className="text-2xl font-bold text-white">Platform Özellikleri</h2>
                 </div>
 
                 <div className="space-y-4">

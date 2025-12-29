@@ -1,6 +1,7 @@
 import React from 'react';
 import { Mail, Phone, MapPin, Clock } from 'lucide-react';
 import SEO from '../components/SEO';
+import { ContactForm } from '../components/ContactForm';
 
 const Iletisim: React.FC = () => {
     return (
@@ -22,47 +23,33 @@ const Iletisim: React.FC = () => {
                 </p>
             </div>
 
-            <div className="grid md:grid-cols-2 gap-8">
-
-                {/* Contact Info */}
-                <div className="space-y-6">
-                    <div className="glass-panel p-8 rounded-3xl">
-                        <div className="flex items-center gap-3 mb-6">
-                            <div className="w-12 h-12 rounded-xl bg-blue-600/20 border border-blue-500/30 flex items-center justify-center">
-                                <Mail className="w-6 h-6 text-blue-400" />
-                            </div>
+            <div className="grid md:grid-cols-2 gap-8 items-start">
+                {/* Contact Form */}
+                <div className="glass-panel p-8 rounded-3xl md:row-span-2">
+                    <div className="flex items-center gap-3 mb-6">
+                        <div className="w-12 h-12 rounded-xl bg-blue-600/20 border border-blue-500/30 flex items-center justify-center">
+                            <Mail className="w-6 h-6 text-blue-400" />
+                        </div>
+                        <div>
                             <h2 className="text-2xl font-bold text-white">Bize Ulaşın</h2>
+                            <p className="text-zinc-500 text-sm">Formu doldurun, en kısa sürede dönüş yapalım.</p>
                         </div>
+                    </div>
 
-                        <div className="space-y-4">
-                            <div>
-                                <h3 className="text-white font-semibold mb-2">E-posta</h3>
-                                <a
-                                    href="mailto:vlkneles@gmail.com"
-                                    className="text-blue-400 hover:text-blue-300 transition-colors"
-                                >
-                                    vlkneles@gmail.com
-                                </a>
-                            </div>
+                    <ContactForm />
+                </div>
 
-                            <div className="pt-4 border-t border-white/10">
-                                <h3 className="text-white font-semibold mb-2">Çalışma Saatleri</h3>
-                                <p className="text-zinc-400 text-sm">
-                                    E-posta yoluyla 7/24 ulaşabilirsiniz.
-                                    <br />
-                                    Genellikle 24-48 saat içinde yanıt veriyoruz.
-                                </p>
-                            </div>
-
-                            <div className="pt-4 border-t border-white/10">
-                                <h3 className="text-white font-semibold mb-2">Platform</h3>
-                                <p className="text-zinc-400 text-sm">
-                                    YatırımX - Borsa ve Hisse Senedi Analiz Platformu
-                                    <br />
-                                    <span className="text-zinc-500">Türkiye'nin en kapsamlı BIST veri kaynağı</span>
-                                </p>
-                            </div>
-                        </div>
+                {/* Additional Contact Info (Right Side) */}
+                <div className="space-y-6">
+                    <div className="glass-panel p-6 rounded-2xl">
+                        <h3 className="text-white font-bold mb-4 flex items-center gap-2">
+                            <MapPin className="w-4 h-4 text-zinc-400" /> Merkez Ofis
+                        </h3>
+                        <p className="text-zinc-400 text-sm leading-relaxed">
+                            Büyükdere Cd. No:123<br />
+                            Levent, İstanbul<br />
+                            Türkiye
+                        </p>
                     </div>
 
                     <div className="bg-blue-500/10 border border-blue-500/20 rounded-2xl p-6">
@@ -72,10 +59,8 @@ const Iletisim: React.FC = () => {
                             Hisse senedi ile ilgili sorularınızda hisse kodunu (örn: GARAN) eklemeyi unutmayın.
                         </p>
                     </div>
-                </div>
 
-                {/* Additional Contact Cards */}
-                <div className="space-y-6">
+                    {/* Additional Contact Cards */}
                     <div className="glass-panel p-8 rounded-3xl">
                         <div className="flex items-center gap-3 mb-6">
                             <div className="w-12 h-12 rounded-xl bg-emerald-600/20 border border-emerald-500/30 flex items-center justify-center">
@@ -125,19 +110,10 @@ const Iletisim: React.FC = () => {
                                     Evet, tüm özellikler tamamen ücretsizdir.
                                 </p>
                             </div>
-                            <div className="pt-3 border-t border-white/10">
-                                <p className="text-zinc-400">
-                                    <span className="text-white font-semibold">Mobil uyumlu mu?</span>
-                                    <br />
-                                    Platform tüm cihazlarda sorunsuz çalışır.
-                                </p>
-                            </div>
                         </div>
                     </div>
                 </div>
-
             </div>
-
         </div>
     );
 };

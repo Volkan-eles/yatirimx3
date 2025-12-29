@@ -4,6 +4,38 @@ import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, 
 import Footer from './Footer';
 import { slugify } from '../utils/slugify';
 
+// Market Status Helper
+const getMarketStatus = () => {
+  const now = new Date();
+  const day = now.getDay();
+  const hour = now.getHours();
+  const min = now.getMinutes();
+  const time = hour * 60 + min;
+
+  // Weekend
+  if (day === 0 || day === 6) return { isOpen: false, text: 'KAPALI (HAFTA SONU)', nextOpen: 'Pazartesi 10:00' };
+
+  // Weekday Market Hours (10:00 - 18:00)
+  const marketOpen = 10 * 60;
+  const marketClose = 18 * 60;
+
+  if (time >= marketOpen && time < marketClose) return { isOpen: true, text: 'PİYASALAR AÇIK', nextOpen: null };
+  if (time < marketOpen) return { isOpen: false, text: 'KAPALI', nextOpen: 'Bugün 10:00' };
+  return { isOpen: false, text: 'KAPALI', nextOpen: 'Yarın 10:00' };
+};
+
+const marketStatus = getMarketStatus();
+
+// Ticker Items (Mock Data for Ticker)
+const tickerItems = [
+  { symbol: 'XU100', value: '8,790.25', change: 1.25 },
+  { symbol: 'USD/TRY', value: '32.15', change: 0.12 },
+  { symbol: 'EUR/TRY', value: '35.40', change: -0.05 },
+  { symbol: 'GAU/TRY', value: '2,450', change: 0.8 },
+  { symbol: 'BRENT', value: '85.40', change: 1.1 },
+  { symbol: 'BTC/USD', value: '64,200', change: 2.5 },
+];
+
 interface NavLinkProps {
   to: string;
   children: React.ReactNode;
@@ -117,6 +149,31 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
 
   return (
     <div className="min-h-screen flex flex-col font-sans selection:bg-blue-500/30">
+      {/* Ticker Tape */}
+      <div className="bg-black border-b border-white/5 h-8 overflow-hidden relative flex items-center">
+        <div className="absolute left-0 top-0 bottom-0 bg-black z-20 px-3 flex items-center border-r border-white/10">
+          <div className={`w-2 h-2 rounded-full mr-2 ${marketStatus.isOpen ? 'bg-emerald-500 animate-pulse' : 'bg-red-500'}`}></div>
+          <span className={`text-[10px] font-bold tracking-wider ${marketStatus.isOpen ? 'text-emerald-500' : 'text-zinc-500'}`}>
+            {marketStatus.text}
+          </span>
+        </div>
+
+        <div className="animate-[scroll_30s_linear_infinite] flex items-center gap-8 whitespace-nowrap pl-32">
+          {/* Duplicate content for seamless loop */}
+          {[...tickerItems, ...tickerItems, ...tickerItems].map((item, idx) => (
+            <div key={idx} className="flex items-center gap-2 text-xs">
+              <span className="font-bold text-zinc-300">{item.symbol}</span>
+              <span className="text-white">{item.value}</span>
+              <span className={item.change >= 0 ? 'text-emerald-500' : 'text-red-500'}>
+                {item.change >= 0 ? '+' : ''}%{item.change}
+              </span>
+            </div>
+          ))}
+        </div>
+
+        <div className="absolute right-0 top-0 bottom-0 w-20 bg-gradient-to-l from-black via-black to-transparent z-10 pointer-events-none"></div>
+      </div>
+
       {/* Navbar */}
       <header className="border-b border-white/5 bg-black/20 backdrop-blur-xl sticky top-0 z-50">
         <div className="container mx-auto px-4 h-14 flex items-center justify-between">
