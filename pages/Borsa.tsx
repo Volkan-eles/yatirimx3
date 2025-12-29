@@ -14,8 +14,8 @@ interface StockData {
     sector: string;
 }
 
-// Fixed size sparkline for table rows
-const TableSparkline = ({ data, color }: { data: any[], color: string }) => (
+// Fixed size sparkline for table rows - Memoized for performance
+const TableSparkline = React.memo(({ data, color }: { data: any[], color: string }) => (
     <div style={{ width: 140, height: 40 }}>
         <AreaChart width={140} height={40} data={data}>
             <defs>
@@ -34,7 +34,7 @@ const TableSparkline = ({ data, color }: { data: any[], color: string }) => (
             />
         </AreaChart>
     </div>
-);
+));
 
 // Mock data generator
 const generateSparkData = (start: number, count: number) => {
@@ -65,19 +65,23 @@ const Borsa: React.FC = () => {
             });
     }, []);
 
-    // Filter and Sort Logic
-    let displayedStocks = stocks.filter(stock =>
-        stock.code.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        stock.name.toLowerCase().includes(searchTerm.toLowerCase())
-    );
+    // Filter and Sort Logic - Memoized for performance
+    const displayedStocks = React.useMemo(() => {
+        let filtered = stocks.filter(stock =>
+            stock.code.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            stock.name.toLowerCase().includes(searchTerm.toLowerCase())
+        );
 
-    if (activeTab === 'Yükselenler') {
-        displayedStocks = [...displayedStocks].sort((a, b) => b.changeRate - a.changeRate);
-    } else if (activeTab === 'Düşenler') {
-        displayedStocks = [...displayedStocks].sort((a, b) => a.changeRate - b.changeRate);
-    } else if (activeTab === 'Hacim') {
-        displayedStocks = [...displayedStocks].sort((a, b) => b.price - a.price);
-    }
+        if (activeTab === 'Yükselenler') {
+            return [...filtered].sort((a, b) => b.changeRate - a.changeRate);
+        } else if (activeTab === 'Düşenler') {
+            return [...filtered].sort((a, b) => a.changeRate - b.changeRate);
+        } else if (activeTab === 'Hacim') {
+            return [...filtered].sort((a, b) => b.price - a.price);
+        }
+
+        return filtered;
+    }, [stocks, searchTerm, activeTab]);
 
     return (
         <div className="space-y-8 animate-in fade-in duration-500 min-h-screen pb-20">
