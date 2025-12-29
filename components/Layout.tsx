@@ -177,6 +177,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
     { name: 'Ana Sayfa', path: '/', icon: HomeIcon },
     { name: 'Piyasa Haritası', path: '/piyasa-haritasi', icon: PieChart },
     { name: 'İzleme Listesi', path: '/izleme-listesi', icon: Star },
+    { name: 'Hisse Karşılaştır', path: '/karsilastir', icon: BarChart3 },
     { name: 'Temettü', path: '/temettu-takvimi-2026', icon: Calendar },
     { name: 'Halka Arz', path: '/halka-arz', icon: Briefcase },
     { name: 'Hedef Fiyat', path: '/hedef-fiyat', icon: LineChart },
