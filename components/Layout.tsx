@@ -200,8 +200,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
 
 {/* Mobile Menu Sidebar */ }
 <div
-  className={`fixed top-0 right-0 bottom-0 w-[85%] max-w-sm z-50 bg-[#09090b]/95 backdrop-blur-xl border-l border-white/10 shadow-2xl transition-transform duration-500 cubic-bezier(0.16, 1, 0.3, 1) xl:hidden transform flex flex-col ${isMobileMenuOpen ? 'translate-x-0' : 'translate-x-full'
-    }`}
+  className={`fixed top-0 right-0 bottom-0 w-[85%] max-w-sm z-50 bg-[#09090b]/95 backdrop-blur-xl border-l border-white/10 shadow-2xl transition-transform duration-500 cubic-bezier(0.16, 1, 0.3, 1) xl:hidden transform flex flex-col ${isMobileMenuOpen ? 'translate-x-0' : 'translate-x-full'}`}
 >
   <div className="p-6 border-b border-white/5 flex items-center justify-between">
     <span className="font-bold text-lg text-white">Menü</span>
