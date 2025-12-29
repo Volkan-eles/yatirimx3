@@ -176,6 +176,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
   const navLinks = [
     { name: 'Ana Sayfa', path: '/', icon: HomeIcon },
     { name: 'Piyasa Haritası', path: '/piyasa-haritasi', icon: PieChart },
+    { name: 'İzleme Listesi', path: '/izleme-listesi', icon: Star },
     { name: 'Temettü', path: '/temettu-takvimi-2026', icon: Calendar },
     { name: 'Halka Arz', path: '/halka-arz', icon: Briefcase },
     { name: 'Hedef Fiyat', path: '/hedef-fiyat', icon: LineChart },
