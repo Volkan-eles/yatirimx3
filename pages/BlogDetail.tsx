@@ -27,23 +27,36 @@ const BlogDetail: React.FC = () => {
 
     const blogSchema = {
         "@context": "https://schema.org",
-        "@type": "BlogPosting",
+        "@type": "Article",
         "headline": post.title,
-        "image": post.image?.startsWith('http') ? post.image : `https://yatirimx.com${post.image}`,
+        "image": {
+            "@type": "ImageObject",
+            "url": post.image?.startsWith('http') ? post.image : `https://yatirimx.com${post.image}`,
+            "width": 1200,
+            "height": 675
+        },
         "author": {
             "@type": "Person",
-            "name": post.author
+            "name": post.author,
+            "url": "https://yatirimx.com/yazarlar/uzman-ekip"
         },
         "publisher": {
             "@type": "Organization",
             "name": "YatırımX",
             "logo": {
                 "@type": "ImageObject",
-                "url": "https://yatirimx.com/logo.png"
+                "url": "https://yatirimx.com/logo.png",
+                "width": 112,
+                "height": 112
             }
         },
-        "datePublished": "2024-12-26", // Fallback, normally should be ISO date from post
-        "description": post.excerpt
+        "datePublished": "2024-12-26T09:00:00+03:00", // Fallback, should ideally come from post data
+        "dateModified": "2024-12-29T12:00:00+03:00", // Fallback
+        "description": post.excerpt,
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": `https://yatirimx.com/blog/${post.slug}/`
+        }
     };
 
     return (

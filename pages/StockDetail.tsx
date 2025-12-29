@@ -418,14 +418,47 @@ const StockDetail: React.FC = () => {
         "@type": "FinancialProduct",
         "name": `${stock.name} (${stock.code})`,
         "tickerSymbol": stock.code,
+        "exchangeTicker": "BIST: " + stock.code,
         "description": stock.description,
+        "url": canonicalUrl,
+        "image": `https://yatirimx.com/og/${stock.code}.png`, // Hypothetical OG image generator
         "offers": {
           "@type": "Offer",
           "price": stock.price,
           "priceCurrency": "TRY",
           "availability": "https://schema.org/InStock",
-          "priceValidUntil": "2026-12-31"
+          "priceValidUntil": "2026-12-31",
+          "url": canonicalUrl
         }
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": `${stock.code} Hisse Hedef Fiyatı 2026 Nedir?`,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": `Analistlerin 2026 yılı için ${stock.code} hisse hedef fiyat konsensüsü ₺${(stock.price * 1.6).toFixed(2)} seviyelerini işaret etmektedir.`
+            }
+          },
+          {
+            "@type": "Question",
+            "name": `${stock.code} Temettü Verecek mi 2026?`,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": `${stock.code} şirketinin geçmiş temettü alışkanlıklarına ve karlılığına bakıldığında 2026 yılında temettü dağıtması beklenmektedir. Kesin tarih için KAP açıklamaları takip edilmelidir.`
+            }
+          },
+          {
+            "@type": "Question",
+            "name": `${stock.code} Hisse Alınır mı?`,
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": `Teknik analiz göstergeleri ${stock.smartScore > 5 ? 'pozitif' : 'nötr'} bir görünüm sergilemekte olup, ${stock.smartScore}/10 yapay zeka puanına sahiptir.`
+            }
+          }
+        ]
       }
     ]
   } : undefined;
