@@ -1,70 +1,43 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { Search, PieChart, ArrowUpRight, Loader2, Info, BookOpen, ChevronRight, Calculator } from 'lucide-react';
+import { Search, PieChart, Loader2, Info, BookOpen, ChevronRight, Calculator } from 'lucide-react';
 import { slugify } from '../utils/slugify';
 import SEO from '../components/SEO';
 import FAQItem from '../components/FAQItem';
+import DividendCalculator from '../components/DividendCalculator';
+import DividendFilters, { FilterState } from '../components/DividendFilters';
+import DividendViewSwitcher from '../components/DividendViewSwitcher';
+import DividendCard from '../components/DividendCard';
 
 interface Dividend {
    t_bistkod: string;
+   t_sirketadi?: string;
    t_sirket: string;
    t_temt_net: string;
+   t_nakit?: number;
+   t_bedelsiz?: number;
    t_yuzde: string;
    t_tarih: string;
+   t_hakedistarih?: string;
+   t_odemetarihi?: string;
+   t_getiri?: number;
    t_link: string;
    t_ok: string;
 }
-
-const CalculatorWidget = ({ data }: { data: Dividend[] }) => {
-   const [selectedStock, setSelectedStock] = useState<string>('');
-   const [lotAmount, setLotAmount] = useState<string>('');
-
-   const stockData = data.find(d => d.t_bistkod === selectedStock);
-   const estimatedIncome = stockData && lotAmount ? (parseFloat(stockData.t_temt_net.replace(',', '.')) * parseInt(lotAmount)) : 0;
-
-   return (
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-         <div className="space-y-2">
-            <label className="text-xs font-bold text-zinc-500 uppercase">Hisse Seçimi</label>
-            <select
-               className="w-full bg-zinc-900/50 border border-white/10 rounded-xl p-3 text-sm text-white focus:outline-none focus:ring-2 focus:ring-purple-500/50 appearance-none"
-               value={selectedStock}
-               onChange={(e) => setSelectedStock(e.target.value)}
-            >
-               <option value="">Hisse Seçiniz...</option>
-               {data.map(d => (
-                  <option key={d.t_bistkod} value={d.t_bistkod}>{d.t_bistkod} - {d.t_sirket}</option>
-               ))}
-            </select>
-         </div>
-         <div className="space-y-2">
-            <label className="text-xs font-bold text-zinc-500 uppercase">Lot Sayısı</label>
-            <input
-               type="number"
-               className="w-full bg-zinc-900/50 border border-white/10 rounded-xl p-3 text-sm text-white focus:outline-none focus:ring-2 focus:ring-purple-500/50"
-               placeholder="Örn: 1000"
-               value={lotAmount}
-               onChange={(e) => setLotAmount(e.target.value)}
-            />
-         </div>
-         <div className="bg-zinc-900/50 border border-white/10 rounded-xl p-4 flex flex-col justify-center">
-            <div className="text-xs text-purple-400 font-bold mb-1">TAHMİNİ NET GELİR</div>
-            <div className="text-2xl font-black text-white">
-               {estimatedIncome > 0 ? (
-                  <>₺{estimatedIncome.toLocaleString('tr-TR', { minimumFractionDigits: 2 })}</>
-               ) : (
-                  <span className="text-zinc-600">-</span>
-               )}
-            </div>
-         </div>
-      </div>
-   );
-};
 
 const Temettu: React.FC = () => {
    const [data, setData] = useState<Dividend[]>([]);
    const [loading, setLoading] = useState(true);
    const [search, setSearch] = useState('');
+   const [currentView, setCurrentView] = useState<'calendar' | 'list' | 'timeline' | 'cards'>('list');
+   const [filters, setFilters] = useState<FilterState>({
+      search: '',
+      dateRange: { start: '', end: '' },
+      types: [],
+      sectors: [],
+      yieldRange: { min: 0, max: 15 },
+      status: 'all',
+   });
 
    useEffect(() => {
       const fetchData = async () => {
@@ -84,10 +57,43 @@ const Temettu: React.FC = () => {
       fetchData();
    }, []);
 
-   const filteredData = data.filter(item =>
-      item.t_sirket.toLowerCase().includes(search.toLowerCase()) ||
-      item.t_bistkod.toLowerCase().includes(search.toLowerCase())
-   );
+   // Apply filters
+   const filteredData = data.filter(item => {
+      // Search filter
+      const searchMatch = !filters.search ||
+         item.t_sirket.toLowerCase().includes(filters.search.toLowerCase()) ||
+         item.t_bistkod.toLowerCase().includes(filters.search.toLowerCase());
+
+      // Date range filter
+      let dateMatch = true;
+      if (filters.dateRange.start || filters.dateRange.end) {
+         const itemDate = item.t_tarih || item.t_odemetarihi;
+         if (itemDate) {
+            const date = new Date(itemDate);
+            if (filters.dateRange.start) {
+               dateMatch = dateMatch && date >= new Date(filters.dateRange.start);
+            }
+            if (filters.dateRange.end) {
+               dateMatch = dateMatch && date <= new Date(filters.dateRange.end);
+            }
+         }
+      }
+
+      // Type filter
+      let typeMatch = filters.types.length === 0;
+      if (!typeMatch && item.t_nakit && item.t_nakit > 0) {
+         typeMatch = filters.types.includes('nakit');
+      }
+      if (!typeMatch && item.t_bedelsiz && item.t_bedelsiz > 0) {
+         typeMatch = filters.types.includes('bedelsiz');
+      }
+
+      // Yield filter
+      const yieldValue = parseFloat(item.t_yuzde) || 0;
+      const yieldMatch = yieldValue >= filters.yieldRange.min && yieldValue <= filters.yieldRange.max;
+
+      return searchMatch && dateMatch && typeMatch && yieldMatch;
+   });
 
    const faqSchema = {
       "@context": "https://schema.org",
@@ -129,7 +135,7 @@ const Temettu: React.FC = () => {
    };
 
    return (
-      <div className="space-y-12 animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
          <SEO
             title="Temettü Takvimi 2026 - En Çok Temettü Veren Hisseler"
             description="2026 temettü takvimi, hisse başı net temettü miktarları, en yüksek verimli hisseler ve ödeme tarihleri. BIST temettü endeksi analizleri."
@@ -145,101 +151,98 @@ const Temettu: React.FC = () => {
                </h1>
                <p className="text-zinc-400">2026 yılı yaklaşan nakit kar payı dağıtımları ve en yüksek verim analizleri.</p>
             </div>
+
+            {/* View Switcher */}
+            <DividendViewSwitcher currentView={currentView} onViewChange={setCurrentView} />
          </div>
 
-         <div className="flex gap-4">
-            <div className="relative flex-1 md:w-96">
-               <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
-               <input
-                  type="text"
-                  placeholder="Şirket veya kod ara..."
-                  value={search}
-                  onChange={(e) => setSearch(e.target.value)}
-                  className="w-full bg-zinc-900 border border-white/10 rounded-xl py-2 pl-9 pr-4 text-sm text-white focus:outline-none focus:ring-2 focus:ring-purple-500/20 focus:border-purple-500/20"
-               />
-            </div>
-         </div>
+         {/* Filters */}
+         <DividendFilters onFilterChange={setFilters} />
 
          {/* Dividend Calculator */}
-         <div className="bg-gradient-to-br from-purple-900/20 to-indigo-900/20 border border-white/5 rounded-2xl p-6 sm:p-8 relative overflow-hidden group">
-            <div className="absolute top-0 right-0 w-64 h-64 bg-purple-500/10 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2" />
-            <div className="relative z-10">
-               <div className="flex items-center gap-3 mb-6">
-                  <div className="p-3 bg-purple-500/20 rounded-xl">
-                     <Calculator className="w-6 h-6 text-purple-400" />
-                  </div>
-                  <div>
-                     <h3 className="text-xl font-bold text-white">Temettü Hesaplama Aracı</h3>
-                     <p className="text-sm text-zinc-400">Tahmini temettü gelirinizi hesaplayın.</p>
-                  </div>
-               </div>
+         <DividendCalculator />
 
-               <CalculatorWidget data={data} />
+         {/* Content based on view */}
+         {loading ? (
+            <div className="glass-panel p-12 rounded-2xl border border-white/5 text-center">
+               <Loader2 className="w-8 h-8 animate-spin text-purple-500 mx-auto mb-4" />
+               <p className="text-zinc-500">Veriler yükleniyor...</p>
             </div>
-         </div>
+         ) : (
+            <>
+               {currentView === 'cards' && (
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                     {filteredData.map((div, idx) => (
+                        <DividendCard key={idx} dividend={div} index={idx} />
+                     ))}
+                  </div>
+               )}
 
-         <div className="glass-panel rounded-2xl overflow-hidden border border-white/5 min-h-[400px]">
-            <div className="overflow-x-auto">
-               <table className="w-full text-left text-sm">
-                  <thead>
-                     <tr className="bg-white/5 text-zinc-400 border-b border-white/5">
-                        <th className="px-6 py-4 font-medium">Şirket</th>
-                        <th className="px-6 py-4 font-medium text-right">Pay Başına Net</th>
-                        <th className="px-6 py-4 font-medium text-center">Verim</th>
-                        <th className="px-6 py-4 font-medium text-right">Tarih</th>
-                        <th className="px-6 py-4 font-medium text-right"></th>
-                     </tr>
-                  </thead>
-                  <tbody className="divide-y divide-white/5">
-                     {loading ? (
-                        <tr>
-                           <td colSpan={5} className="px-6 py-12 text-center text-zinc-500">
-                              <div className="flex flex-col items-center gap-3">
-                                 <Loader2 className="w-6 h-6 animate-spin text-purple-500" />
-                                 <p>Veriler yükleniyor...</p>
-                              </div>
-                           </td>
-                        </tr>
-                     ) : filteredData.length > 0 ? (
-                        filteredData.map((div, idx) => (
-                           <tr key={idx} className="hover:bg-white/5 transition-colors group">
-                              <td className="px-6 py-4">
-                                 <Link to={`/temettu/${slugify(`${div.t_bistkod} Temettu Tarihi 2026 Ne Kadar Verecek`)}/`} className="flex items-center gap-3 group/link">
-                                    <div className="w-10 h-10 rounded-lg bg-zinc-800 flex items-center justify-center font-bold text-xs text-zinc-300 border border-white/5 group-hover/link:border-purple-500/50 group-hover/link:text-white transition-colors">
-                                       {div.t_bistkod}
-                                    </div>
-                                    <div>
-                                       <div className="text-white font-bold group-hover/link:text-purple-400 transition-colors">{div.t_sirket}</div>
-                                    </div>
-                                 </Link>
-                              </td>
-                              <td className="px-6 py-4 text-white font-mono text-right font-medium text-base">
-                                 {div.t_temt_net} TL
-                              </td>
-                              <td className="px-6 py-4 text-center">
-                                 <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-500/10 text-purple-400 border border-purple-500/20 font-bold text-xs">
-                                    %{div.t_yuzde}
-                                 </div>
-                              </td>
-                              <td className="px-6 py-4 text-zinc-300 text-right">{div.t_tarih}</td>
-                              <td className="px-6 py-4 text-right">
-                                 <Link to={`/temettu/${slugify(`${div.t_bistkod} Temettu Tarihi 2026 Ne Kadar Verecek`)}/`} className="p-2 hover:bg-white/10 rounded-full inline-flex text-zinc-500 hover:text-white transition-colors">
-                                    <ChevronRight className="w-5 h-5" />
-                                 </Link>
-                              </td>
-                           </tr>
-                        ))
-                     ) : (
-                        <tr>
-                           <td colSpan={5} className="px-6 py-12 text-center text-zinc-500">
-                              Kriterlere uygun veri bulunamadı.
-                           </td>
-                        </tr>
-                     )}
-                  </tbody>
-               </table>
-            </div>
-         </div>
+               {currentView === 'list' && (
+                  <div className="glass-panel rounded-2xl overflow-hidden border border-white/5 min-h-[400px]">
+                     <div className="overflow-x-auto">
+                        <table className="w-full text-left text-sm">
+                           <thead>
+                              <tr className="bg-white/5 text-zinc-400 border-b border-white/5">
+                                 <th className="px-6 py-4 font-medium">Şirket</th>
+                                 <th className="px-6 py-4 font-medium text-right">Pay Başına Net</th>
+                                 <th className="px-6 py-4 font-medium text-center">Verim</th>
+                                 <th className="px-6 py-4 font-medium text-right">Tarih</th>
+                                 <th className="px-6 py-4 font-medium text-right"></th>
+                              </tr>
+                           </thead>
+                           <tbody className="divide-y divide-white/5">
+                              {filteredData.length > 0 ? (
+                                 filteredData.map((div, idx) => (
+                                    <tr key={idx} className="hover:bg-white/5 transition-colors group">
+                                       <td className="px-6 py-4">
+                                          <Link to={`/temettu/${slugify(`${div.t_bistkod} Temettu Tarihi 2026 Ne Kadar Verecek`)}/`} className="flex items-center gap-3 group/link">
+                                             <div className="w-10 h-10 rounded-lg bg-zinc-800 flex items-center justify-center font-bold text-xs text-zinc-300 border border-white/5 group-hover/link:border-purple-500/50 group-hover/link:text-white transition-colors">
+                                                {div.t_bistkod}
+                                             </div>
+                                             <div>
+                                                <div className="text-white font-bold group-hover/link:text-purple-400 transition-colors">{div.t_sirket}</div>
+                                             </div>
+                                          </Link>
+                                       </td>
+                                       <td className="px-6 py-4 text-white font-mono text-right font-medium text-base">
+                                          {div.t_temt_net} TL
+                                       </td>
+                                       <td className="px-6 py-4 text-center">
+                                          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-purple-500/10 text-purple-400 border border-purple-500/20 font-bold text-xs">
+                                             %{div.t_yuzde}
+                                          </div>
+                                       </td>
+                                       <td className="px-6 py-4 text-zinc-300 text-right">{div.t_tarih}</td>
+                                       <td className="px-6 py-4 text-right">
+                                          <Link to={`/temettu/${slugify(`${div.t_bistkod} Temettu Tarihi 2026 Ne Kadar Verecek`)}/`} className="p-2 hover:bg-white/10 rounded-full inline-flex text-zinc-500 hover:text-white transition-colors">
+                                             <ChevronRight className="w-5 h-5" />
+                                          </Link>
+                                       </td>
+                                    </tr>
+                                 ))
+                              ) : (
+                                 <tr>
+                                    <td colSpan={5} className="px-6 py-12 text-center text-zinc-500">
+                                       Kriterlere uygun veri bulunamadı.
+                                    </td>
+                                 </tr>
+                              )}
+                           </tbody>
+                        </table>
+                     </div>
+                  </div>
+               )}
+
+               {(currentView === 'calendar' || currentView === 'timeline') && (
+                  <div className="glass-panel p-12 rounded-2xl border border-white/5 text-center">
+                     <p className="text-zinc-400">
+                        {currentView === 'calendar' ? 'Takvim' : 'Timeline'} görünümü yakında eklenecek...
+                     </p>
+                  </div>
+               )}
+            </>
+         )}
 
          {/* Info & FAQ Section */}
          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
