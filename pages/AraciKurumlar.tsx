@@ -42,10 +42,10 @@ const AraciKurumlar: React.FC = () => {
     return (
         <div className="space-y-12 animate-in fade-in slide-in-from-bottom-4 duration-500 max-w-7xl mx-auto">
             <SEO
-                title="Aracı Kurum Raporları ve Hedef Fiyatlar 2026 | YatirimX"
-                description="2026 yılı aracı kurum hisse önerileri, hedef fiyatlar, model portföyler ve en başarılı aracı kurum analizleri. Borsa İstanbul hisse senedi raporları."
+                title="Aracı Kurumlar Karşılaştırması 2026 - Komisyon Oranları ve Performans | YatırımX"
+                description="Türkiye'deki tüm aracı kurumların detaylı karşılaştırması. Komisyon oranları, hizmet kalitesi, müşteri memnuniyeti ve performans analizleri. En iyi aracı kurumu seçin."
                 canonicalUrl="https://yatirimx.com/araci-kurumlar/"
-                keywords="aracı kurum raporları, hedef fiyatlar, hisse önerileri, model portföy, borsa istanbul, 2026 hisse senedi"
+                keywords="aracı kurumlar, borsa komisyonu, aracı kurum karşılaştırma, en iyi aracı kurum, komisyon oranları, yatırım danışmanlığı"
             />
 
             {/* Dynamic Header */}

@@ -67,10 +67,10 @@ const SermayeArtirimi: React.FC = () => {
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
       <SEO
-        title="Sermaye Artırımları 2026 - Bedelsiz, Bedelli Takvimi"
-        description="2026 yılında sermaye artırımı yapacak şirketler, bedelsiz potansiyeli olan hisseler ve güncel SPK başvuru durumları. Bedelli, bedelsiz ve tahsisli artırım takvimi."
+        title="Sermaye Artırımı Takvimi 2026 - Bedelsiz, Bedelli, Tahsisli | YatırımX"
+        description="BIST şirketlerinin sermaye artırımı duyuruları, bedelsiz hisse, bedelli hisse ve tahsisli artırım takvimi. Güncel sermaye artırımı haberleri ve detaylı analizler."
         canonicalUrl="https://yatirimx.com/sermaye-artirimi/"
-        keywords="sermaye artırımı, bedelsiz hisseler 2026, bedelli sermaye artırımı, spk bülteni, bedelsiz potansiyeli, borsa istanbul, hisse bölünmesi"
+        keywords="sermaye artırımı, bedelsiz hisse, bedelli hisse, tahsisli artırım, sermaye artırımı takvimi, bist sermaye artırımı"
       />
 
       {/* Header */}
