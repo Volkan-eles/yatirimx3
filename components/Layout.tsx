@@ -134,20 +134,20 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
       title: 'Ana Sayfa',
       items: [
         { name: 'Ana Sayfa', path: '/', icon: HomeIcon },
-        { name: 'Canlı Borsa', path: '/canli-borsa', icon: TrendingUp },
+        { name: 'Canlı Borsa', path: '/piyasa', icon: TrendingUp },
       ]
     },
     {
       title: 'Piyasalar',
       items: [
-        { name: 'Hisse Karşılaştır', path: '/hisse-karsilastir', icon: BarChart3 },
-        { name: 'Piyasa Haritası', path: '/piyasa-haritasi', icon: PieChart },
+        { name: 'Hisse Karşılaştır', path: '/karsilastir', icon: BarChart3 },
+        { name: 'Piyasa Haritası', path: '/', icon: PieChart },
       ]
     },
     {
       title: 'Takvimler',
       items: [
-        { name: 'Temettü Takvimi', path: '/temettu-takvimi', icon: Calendar },
+        { name: 'Temettü Takvimi', path: '/temettu-takvimi-2026', icon: Calendar },
         { name: 'Halka Arz', path: '/halka-arz', icon: Briefcase },
         { name: 'Sermaye Artırımı', path: '/sermaye-artirimi', icon: Layers },
       ]
@@ -163,7 +163,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
       title: 'Diğer',
       items: [
         { name: 'Blog', path: '/blog', icon: BookOpen },
-        { name: 'Favorilerim', path: '/favorilerim', icon: Star },
+        { name: 'Favorilerim', path: '/izleme-listesi', icon: Star },
       ]
     }
   ];
@@ -171,8 +171,8 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
   // Navigation links for desktop
   const navLinks = [
     { name: 'Ana Sayfa', path: '/', icon: HomeIcon },
-    { name: 'Canlı Borsa', path: '/canli-borsa', icon: TrendingUp },
-    { name: 'Temettü', path: '/temettu-takvimi', icon: Calendar },
+    { name: 'Canlı Borsa', path: '/piyasa', icon: TrendingUp },
+    { name: 'Temettü', path: '/temettu-takvimi-2026', icon: Calendar },
     { name: 'Halka Arz', path: '/halka-arz', icon: Briefcase },
     { name: 'Hedef Fiyat', path: '/hedef-fiyat', icon: LineChart },
     { name: 'Aracı Kurumlar', path: '/araci-kurumlar', icon: Building2 },
