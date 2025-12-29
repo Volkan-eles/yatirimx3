@@ -62,7 +62,7 @@ function App() {
             {/* Redirect old route */}
             <Route path="/temettu" element={<Navigate to="/temettu-takvimi-2026" replace />} />
 
-            <Route path="/temettu-detail/:code" element={<TemettuDetail />} />
+            <Route path="/temettu/:code" element={<TemettuDetail />} />
             {/* Watchlist route already defined at line 55 */}
             <Route path="/karsilastir" element={<ComparePage />} />
             <Route path="*" element={<NotFound />} />
