@@ -5,7 +5,7 @@ import Layout from './components/Layout';
 // Lazy Load Pages for Performance
 const Home = lazy(() => import('./pages/Home'));
 const Borsa = lazy(() => import('./pages/Borsa'));
-const Watchlist = React.lazy(() => import('./pages/Watchlist'));
+// Watchlist imported at line 23
 const ComparePage = React.lazy(() => import('./pages/ComparePage'));
 const NotFound = React.lazy(() => import('./pages/NotFound'));
 const StockDetail = lazy(() => import('./pages/StockDetail'));
@@ -63,7 +63,7 @@ function App() {
             <Route path="/temettu" element={<Navigate to="/temettu-takvimi-2026" replace />} />
 
             <Route path="/temettu-detail/:code" element={<TemettuDetail />} />
-            <Route path="/izleme-listesi" element={<Watchlist />} />
+            {/* Watchlist route already defined at line 55 */}
             <Route path="/karsilastir" element={<ComparePage />} />
             <Route path="*" element={<NotFound />} />
             <Route path="/halka-arz" element={<HalkaArz />} />
