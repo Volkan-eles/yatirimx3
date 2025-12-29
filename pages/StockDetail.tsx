@@ -23,13 +23,15 @@ import {
   User,
   Award,
   BookOpen,
-  ArrowRight
+  ArrowRight,
+  Star
 } from 'lucide-react';
 import StockChart from '../components/StockChart';
 import { slugify } from '../utils/slugify';
 import SEO from '../components/SEO';
 import { MOCK_STOCK_DETAIL, MOCK_TARGET_PRICES } from '../constants';
 import { BLOG_POSTS } from '../data/blogPosts';
+import { useWatchlist } from '../hooks/useWatchlist';
 
 const SidebarSection = ({ title, icon: Icon, children }: any) => (
   <div className="glass-panel p-5 rounded-2xl border border-white/5 mb-4 last:mb-0">
@@ -287,6 +289,7 @@ const CommunitySentiment = ({ stockCode }: { stockCode: string }) => {
 
 const StockDetail: React.FC = () => {
   const { code } = useParams<{ code: string }>();
+  const { toggleWatchlist, isInWatchlist } = useWatchlist();
   const [stock, setStock] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [hasTargetPrice, setHasTargetPrice] = useState(false);
@@ -528,9 +531,18 @@ const StockDetail: React.FC = () => {
 
       {/* Main Title Area */}
       <div className="mb-10">
-        <h1 className="text-3xl font-black text-white mb-3">
-          {`${stock.code} Hisse Senedi Fiyatı, Grafiği ${stock.code} Yorumu 2026`}
-        </h1>
+        <div className="flex items-center gap-4 mb-3">
+          <h1 className="text-3xl font-black text-white">
+            {`${stock.code} Hisse Senedi Fiyatı, Grafiği ${stock.code} Yorumu 2026`}
+          </h1>
+          <button
+            onClick={() => toggleWatchlist(stock.code)}
+            className="p-2 rounded-xl bg-white/5 hover:bg-white/10 border border-white/5 transition-colors group"
+            title={isInWatchlist(stock.code) ? "İzleme Listesinden Çıkar" : "İzleme Listesine Ekle"}
+          >
+            <Star className={`w-6 h-6 ${isInWatchlist(stock.code) ? 'text-yellow-400 fill-yellow-400' : 'text-zinc-500 group-hover:text-yellow-400'}`} />
+          </button>
+        </div>
         <p className="text-zinc-500 text-sm max-w-4xl leading-relaxed">
           {stock.code} hisse senedi fiyatı, canlı grafik ve detaylı teknik analiz bilgileri. Güncel {stock.code} hisse fiyatı ₺{stock.price.toFixed(2)} seviyesinde işlem görmektedir. {stock.code} hisse grafiği, teknik göstergeler ve uzman yorumları ile 2026 yılı için {stock.code} hisse senedi analizlerini inceleyin. Anlık fiyat hareketleri, hacim bilgileri ve piyasa derinliği ile {stock.code} yatırım kararlarınızı destekleyin.
         </p>

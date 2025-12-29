@@ -17,6 +17,7 @@ const BrokerDetail = lazy(() => import('./pages/BrokerDetail'));
 const SermayeArtirimi = lazy(() => import('./pages/SermayeArtirimi'));
 const Blog = lazy(() => import('./pages/Blog'));
 const BlogDetail = lazy(() => import('./pages/BlogDetail'));
+const Watchlist = lazy(() => import('./pages/Watchlist'));
 
 // Legal and Corporate Pages - Lazy Loaded
 const Hakkimizda = lazy(() => import('./pages/Hakkimizda'));
@@ -48,6 +49,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/piyasa" element={<Borsa />} />
+            <Route path="/izleme-listesi" element={<Watchlist />} />
             <Route path="/hisse/:code" element={<StockDetail />} />
             <Route path="/hedef-fiyat" element={<HedefFiyat />} />
             <Route path="/hedef-fiyat/:code" element={<HedefFiyatDetail />} />

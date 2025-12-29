@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen } from 'lucide-react';
+import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen, Star } from 'lucide-react';
 import Footer from './Footer';
+import { slugify } from '../utils/slugify';
 
 interface NavLinkProps {
   to: string;
@@ -33,9 +34,34 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const location = useLocation();
 
+  // Search State
+  const [searchQuery, setSearchQuery] = useState('');
+  const [searchResults, setSearchResults] = useState<any[]>([]);
+  const [showResults, setShowResults] = useState(false);
+  const [allStocks, setAllStocks] = useState<any[]>([]);
+
+  // Fetch stocks for search
+  useEffect(() => {
+    fetch('/bist_live_data.json')
+      .then(res => res.json())
+      .then(data => {
+        if (data && data.stocks) {
+          setAllStocks(data.stocks);
+        }
+      })
+      .catch(err => console.error('Error loading stocks for search:', err));
+  }, []);
+
+  // Filter stocks based on search query
+  const filteredStocks = allStocks.filter(stock =>
+    stock.code.toLowerCase().includes(searchQuery.toLowerCase()) ||
+    stock.name.toLowerCase().includes(searchQuery.toLowerCase())
+  ).slice(0, 5); // Limit to 5 results
+
   // Close mobile menu when route changes
   useEffect(() => {
     setIsMobileMenuOpen(false);
+    setShowResults(false); // Close search results on navigation
   }, [location.pathname]);
 
   // Lock body scroll when menu is open
@@ -52,6 +78,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
 
   const desktopLinks = [
     { name: 'Ana Sayfa', path: '/', icon: HomeIcon },
+    { name: 'İzleme Listesi', path: '/izleme-listesi', icon: Star },
     { name: 'Hedef Fiyat', path: '/hedef-fiyat', icon: TrendingUp },
 
     { name: 'Sermaye', path: '/sermaye-artirimi', icon: Layers },
@@ -66,6 +93,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
       title: "Genel Bakış",
       items: [
         { name: 'Ana Sayfa', path: '/', icon: HomeIcon },
+        { name: 'İzleme Listesi', path: '/izleme-listesi', icon: Star },
         { name: 'Blog', path: '/blog', icon: BookOpen }
       ]
     },
@@ -116,23 +144,55 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
 
           {/* Actions */}
           <div className="flex items-center gap-2">
-            <div className="hidden md:flex items-center bg-zinc-900/50 border border-white/10 rounded-lg px-2.5 py-1.5 focus-within:border-blue-500/50 focus-within:ring-2 focus-within:ring-blue-500/20 transition-all w-40 lg:w-48 group cursor-text">
+            <div className="hidden md:flex items-center bg-zinc-900/50 border border-white/10 rounded-lg px-2.5 py-1.5 focus-within:border-blue-500/50 focus-within:ring-2 focus-within:ring-blue-500/20 transition-all w-40 lg:w-48 group cursor-text relative">
               <Search className="w-3.5 h-3.5 text-zinc-500 group-focus-within:text-blue-400 transition-colors" />
               <input
                 type="text"
-                placeholder="Hızlı Arama..."
+                placeholder="Hisse Ara..."
                 className="bg-transparent border-none outline-none text-xs text-zinc-200 placeholder-zinc-600 w-full ml-2 font-medium"
+                value={searchQuery}
+                onChange={(e) => setSearchQuery(e.target.value)}
+                onFocus={() => setShowResults(true)}
               />
               <div className="hidden group-focus-within:flex items-center gap-1">
                 <Command className="w-3 h-3 text-zinc-600" />
                 <span className="text-[10px] text-zinc-600 font-bold">K</span>
               </div>
+
+              {/* Search Results Dropdown */}
+              {showResults && searchQuery.length > 1 && (
+                <div className="absolute top-full left-0 right-0 mt-2 bg-zinc-900 border border-white/10 rounded-xl overflow-hidden shadow-2xl z-50 max-h-64 overflow-y-auto">
+                  {filteredStocks.length > 0 ? (
+                    filteredStocks.map(stock => (
+                      <Link
+                        key={stock.code}
+                        to={`/hisse/${slugify(`${stock.code} Hisse Senedi Fiyatı Grafiği ${stock.code} Yorumu 2026`)}`}
+                        className="flex items-center justify-between p-3 hover:bg-white/5 border-b border-white/5 last:border-0 transition-colors group"
+                        onClick={() => {
+                          setSearchQuery('');
+                          setShowResults(false);
+                        }}
+                      >
+                        <div>
+                          <div className="font-bold text-white text-xs group-hover:text-blue-400 transition-colors">{stock.code}</div>
+                          <div className="text-[10px] text-zinc-500 truncate max-w-[120px]">{stock.name}</div>
+                        </div>
+                        <span className="text-[10px] font-mono text-zinc-400">{stock.price}</span>
+                      </Link>
+                    ))
+                  ) : (
+                    <div className="p-3 text-center text-xs text-zinc-500">Sonuç bulunamadı.</div>
+                  )}
+                </div>
+              )}
             </div>
 
+            {/* Mobile Menu Button Mask (invisible overlay to close search) */}
+            {showResults && (
+              <div className="fixed inset-0 z-40 bg-transparent" onClick={() => setShowResults(false)}></div>
+            )}
+
             <div className="h-6 w-px bg-white/10 hidden md:block mx-1"></div>
-
-
-
 
             {/* Mobile Menu Button - Show on LG screens and below now */}
             <button

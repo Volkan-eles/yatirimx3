@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { Search, PieChart, ArrowUpRight, Loader2, Info, BookOpen, ChevronRight } from 'lucide-react';
+import { Search, PieChart, ArrowUpRight, Loader2, Info, BookOpen, ChevronRight, Calculator } from 'lucide-react';
 import { slugify } from '../utils/slugify';
 import SEO from '../components/SEO';
 import FAQItem from '../components/FAQItem';
@@ -14,6 +14,52 @@ interface Dividend {
    t_link: string;
    t_ok: string;
 }
+
+const CalculatorWidget = ({ data }: { data: Dividend[] }) => {
+   const [selectedStock, setSelectedStock] = useState<string>('');
+   const [lotAmount, setLotAmount] = useState<string>('');
+
+   const stockData = data.find(d => d.t_bistkod === selectedStock);
+   const estimatedIncome = stockData && lotAmount ? (parseFloat(stockData.t_temt_net.replace(',', '.')) * parseInt(lotAmount)) : 0;
+
+   return (
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+         <div className="space-y-2">
+            <label className="text-xs font-bold text-zinc-500 uppercase">Hisse Seçimi</label>
+            <select
+               className="w-full bg-zinc-900/50 border border-white/10 rounded-xl p-3 text-sm text-white focus:outline-none focus:ring-2 focus:ring-purple-500/50 appearance-none"
+               value={selectedStock}
+               onChange={(e) => setSelectedStock(e.target.value)}
+            >
+               <option value="">Hisse Seçiniz...</option>
+               {data.map(d => (
+                  <option key={d.t_bistkod} value={d.t_bistkod}>{d.t_bistkod} - {d.t_sirket}</option>
+               ))}
+            </select>
+         </div>
+         <div className="space-y-2">
+            <label className="text-xs font-bold text-zinc-500 uppercase">Lot Sayısı</label>
+            <input
+               type="number"
+               className="w-full bg-zinc-900/50 border border-white/10 rounded-xl p-3 text-sm text-white focus:outline-none focus:ring-2 focus:ring-purple-500/50"
+               placeholder="Örn: 1000"
+               value={lotAmount}
+               onChange={(e) => setLotAmount(e.target.value)}
+            />
+         </div>
+         <div className="bg-zinc-900/50 border border-white/10 rounded-xl p-4 flex flex-col justify-center">
+            <div className="text-xs text-purple-400 font-bold mb-1">TAHMİNİ NET GELİR</div>
+            <div className="text-2xl font-black text-white">
+               {estimatedIncome > 0 ? (
+                  <>₺{estimatedIncome.toLocaleString('tr-TR', { minimumFractionDigits: 2 })}</>
+               ) : (
+                  <span className="text-zinc-600">-</span>
+               )}
+            </div>
+         </div>
+      </div>
+   );
+};
 
 const Temettu: React.FC = () => {
    const [data, setData] = useState<Dividend[]>([]);
@@ -111,6 +157,24 @@ const Temettu: React.FC = () => {
                   onChange={(e) => setSearch(e.target.value)}
                   className="w-full bg-zinc-900 border border-white/10 rounded-xl py-2 pl-9 pr-4 text-sm text-white focus:outline-none focus:ring-2 focus:ring-purple-500/20 focus:border-purple-500/20"
                />
+            </div>
+         </div>
+
+         {/* Dividend Calculator */}
+         <div className="bg-gradient-to-br from-purple-900/20 to-indigo-900/20 border border-white/5 rounded-2xl p-6 sm:p-8 relative overflow-hidden group">
+            <div className="absolute top-0 right-0 w-64 h-64 bg-purple-500/10 rounded-full blur-3xl -translate-y-1/2 translate-x-1/2" />
+            <div className="relative z-10">
+               <div className="flex items-center gap-3 mb-6">
+                  <div className="p-3 bg-purple-500/20 rounded-xl">
+                     <Calculator className="w-6 h-6 text-purple-400" />
+                  </div>
+                  <div>
+                     <h3 className="text-xl font-bold text-white">Temettü Hesaplama Aracı</h3>
+                     <p className="text-sm text-zinc-400">Tahmini temettü gelirinizi hesaplayın.</p>
+                  </div>
+               </div>
+
+               <CalculatorWidget data={data} />
             </div>
          </div>
 
