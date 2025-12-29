@@ -29,15 +29,13 @@ const Hakkimizda: React.FC = () => {
                     <div className="w-12 h-12 rounded-xl bg-blue-600/20 border border-blue-500/30 flex items-center justify-center">
                         <TrendingUp className="w-6 h-6 text-blue-400" />
                     </div>
-                    <h2 className="text-2xl font-bold text-white">Misyonumuz</h2>
+                    <h2 className="text-2xl font-bold text-white">Hakkımda</h2>
                 </div>
                 <p className="text-zinc-400 leading-relaxed mb-4">
-                    YatırımX, Türkiye'deki bireysel yatırımcılara BIST (Borsa İstanbul) hisse senetleri hakkında
-                    güncel, doğru ve kapsamlı bilgi sağlamayı amaçlayan bir finans platformudur.
+                    Merhaba, ben Volkan. Lefke Avrupa Üniversitesi (LAÜ) Hukuk Fakültesi öğrencisiyim. Yatırım dünyasına ilgi duyan herkes için sade, güvenilir ve erişilebilir bir kaynak oluşturmak amacıyla yatirimx.com’u hayata geçirdim.
                 </p>
                 <p className="text-zinc-400 leading-relaxed">
-                    Amacımız, yatırımcıların bilinçli kararlar almasına yardımcı olmak için gerçek zamanlı veriler,
-                    teknik analizler ve uzman görüşlerini tek bir platformda sunmaktır.
+                    Bu siteyi 2024 yılının Ekim ayında faaliyete geçirdim. Amacım, yatırımcıların bilinçli kararlar almasına yardımcı olmaktır.
                 </p>
             </div>
 
@@ -141,51 +139,19 @@ const Hakkimizda: React.FC = () => {
             {/* Team Section */}
             <div className="mb-20">
                 <div className="text-center mb-12">
-                    <h2 className="text-3xl font-bold text-white mb-4">Uzman Ekibimiz</h2>
-                    <p className="text-zinc-400">Finans ve teknolojiyi birleştiren tutkulu kadromuz.</p>
+                    <h2 className="text-3xl font-bold text-white mb-4">Kurucu</h2>
                 </div>
 
-                <div className="grid md:grid-cols-3 gap-8">
-                    {/* Team Member 1 */}
-                    <div className="glass-panel p-6 rounded-2xl text-center group hover:-translate-y-2 transition-transform duration-300">
+                <div className="flex justify-center">
+                    {/* Founder */}
+                    <div className="glass-panel p-6 rounded-2xl text-center group hover:-translate-y-2 transition-transform duration-300 max-w-sm w-full">
                         <div className="w-24 h-24 mx-auto bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full mb-6 p-1">
                             <div className="w-full h-full bg-zinc-900 rounded-full flex items-center justify-center overflow-hidden">
                                 <Users className="w-10 h-10 text-white/20" />
                             </div>
                         </div>
-                        <h3 className="text-xl font-bold text-white mb-1">Volkan Keleş</h3>
-                        <p className="text-blue-400 text-sm font-medium mb-4">Kurucu & Baş Analist</p>
-                        <p className="text-zinc-500 text-sm leading-relaxed">
-                            10+ yıllık finans piyasaları tecrübesi ile YatırımX'in vizyonunu şekillendiriyor.
-                        </p>
-                    </div>
-
-                    {/* Team Member 2 */}
-                    <div className="glass-panel p-6 rounded-2xl text-center group hover:-translate-y-2 transition-transform duration-300">
-                        <div className="w-24 h-24 mx-auto bg-gradient-to-br from-purple-500 to-pink-600 rounded-full mb-6 p-1">
-                            <div className="w-full h-full bg-zinc-900 rounded-full flex items-center justify-center overflow-hidden">
-                                <Users className="w-10 h-10 text-white/20" />
-                            </div>
-                        </div>
-                        <h3 className="text-xl font-bold text-white mb-1">Zeynep Yılmaz</h3>
-                        <p className="text-purple-400 text-sm font-medium mb-4">CTO & AI Mühendisi</p>
-                        <p className="text-zinc-500 text-sm leading-relaxed">
-                            Borsa verilerini işleyen algoritmaların ve yapay zeka modellerinin mimarı.
-                        </p>
-                    </div>
-
-                    {/* Team Member 3 */}
-                    <div className="glass-panel p-6 rounded-2xl text-center group hover:-translate-y-2 transition-transform duration-300">
-                        <div className="w-24 h-24 mx-auto bg-gradient-to-br from-emerald-500 to-teal-600 rounded-full mb-6 p-1">
-                            <div className="w-full h-full bg-zinc-900 rounded-full flex items-center justify-center overflow-hidden">
-                                <Users className="w-10 h-10 text-white/20" />
-                            </div>
-                        </div>
-                        <h3 className="text-xl font-bold text-white mb-1">Ahmet Demir</h3>
-                        <p className="text-emerald-400 text-sm font-medium mb-4">Finansal İçerik Lideri</p>
-                        <p className="text-zinc-500 text-sm leading-relaxed">
-                            Yatırımcı topluluğumuz için en güncel ve anlaşılır analizleri hazırlar.
-                        </p>
+                        <h3 className="text-xl font-bold text-white mb-1">Volkan Eles</h3>
+                        <p className="text-blue-400 text-sm font-medium mb-4">Kurucu</p>
                     </div>
                 </div>
             </div>
