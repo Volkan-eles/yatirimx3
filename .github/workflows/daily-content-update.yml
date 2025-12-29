@@ -7,6 +7,9 @@ on:
   
   workflow_dispatch:  # Manuel çalıştırma için
 
+permissions:
+  contents: write
+
 jobs:
   update-daily-content:
     runs-on: ubuntu-latest
