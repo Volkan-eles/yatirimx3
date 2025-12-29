@@ -37,57 +37,58 @@ const StockChart = ({ color = "#3b82f6", data }: StockChartProps) => {
   const padding = (maxValue - minValue) * 0.1; // 10% padding
 
   return (
-    <div className="h-[350px] w-full select-none">
+    <div className="h-[400px] w-full select-none -ml-4">
       <ResponsiveContainer width="100%" height="100%" minWidth={0}>
-        <AreaChart data={chartData} margin={{ top: 10, right: 10, left: 0, bottom: 0 }}>
+        <AreaChart data={chartData} margin={{ top: 20, right: 0, left: 0, bottom: 0 }}>
           <defs>
             <linearGradient id="colorValue" x1="0" y1="0" x2="0" y2="1">
-              <stop offset="5%" stopColor={color} stopOpacity={0.4} />
-              <stop offset="95%" stopColor={color} stopOpacity={0.05} />
+              <stop offset="5%" stopColor={color} stopOpacity={0.3} />
+              <stop offset="95%" stopColor={color} stopOpacity={0} />
             </linearGradient>
             <filter id="shadow" height="200%">
-              <feDropShadow dx="0" dy="3" stdDeviation="4" floodColor={color} floodOpacity="0.25" />
+              <feDropShadow dx="0" dy="4" stdDeviation="8" floodColor={color} floodOpacity="0.3" />
             </filter>
           </defs>
           <CartesianGrid
             strokeDasharray="3 3"
-            stroke="rgba(255,255,255,0.04)"
+            stroke="rgba(255,255,255,0.03)"
             vertical={false}
             horizontal={true}
           />
           <XAxis
             dataKey="name"
             stroke="#52525b"
-            tick={{ fontSize: 10, fill: '#71717a', fontWeight: 600 }}
-            axisLine={{ stroke: 'rgba(255,255,255,0.05)' }}
+            tick={{ fontSize: 10, fill: '#52525b', fontWeight: 500 }}
+            axisLine={false}
             tickLine={false}
-            dy={8}
+            dy={10}
             interval="preserveStartEnd"
           />
           <YAxis
             stroke="#52525b"
-            tick={{ fontSize: 11, fill: '#a1a1aa', fontFamily: 'monospace', fontWeight: 600 }}
+            tick={{ fontSize: 11, fill: '#71717a', fontFamily: 'JetBrains Mono', fontWeight: 500 }}
             domain={[minValue - padding, maxValue + padding]}
-            axisLine={{ stroke: 'rgba(255,255,255,0.05)' }}
+            axisLine={false}
             tickLine={false}
             tickFormatter={(value) => `₺${value.toFixed(2)}`}
-            width={65}
+            width={70}
             tickCount={6}
+            orientation="right"
           />
           <Tooltip
             contentStyle={{
-              backgroundColor: 'rgba(9, 9, 11, 0.98)',
-              borderColor: 'rgba(255,255,255,0.15)',
+              backgroundColor: 'rgba(9, 9, 11, 0.95)',
+              borderColor: 'rgba(255,255,255,0.05)',
               color: '#fff',
-              borderRadius: '14px',
-              backdropFilter: 'blur(12px)',
-              boxShadow: '0 20px 25px -5px rgba(0, 0, 0, 0.6), 0 10px 10px -5px rgba(0, 0, 0, 0.4)',
-              padding: '14px 16px',
-              border: '1px solid rgba(255,255,255,0.1)'
+              borderRadius: '12px',
+              backdropFilter: 'blur(8px)',
+              boxShadow: '0 20px 40px -10px rgba(0, 0, 0, 0.5)',
+              padding: '12px 16px',
+              border: '1px solid rgba(255,255,255,0.05)'
             }}
-            itemStyle={{ color: '#ffffff', fontSize: '14px', fontWeight: 700, fontFamily: 'monospace' }}
-            labelStyle={{ color: '#a1a1aa', fontSize: '11px', marginBottom: '6px', fontWeight: 600 }}
-            cursor={{ stroke: color, strokeWidth: 2, strokeDasharray: '5 5', opacity: 0.5 }}
+            itemStyle={{ color: '#ffffff', fontSize: '13px', fontWeight: 600, fontFamily: 'Plus Jakarta Sans' }}
+            labelStyle={{ color: '#a1a1aa', fontSize: '11px', marginBottom: '4px', fontWeight: 500 }}
+            cursor={{ stroke: color, strokeWidth: 1, strokeDasharray: '4 4', opacity: 0.3 }}
             formatter={(value: number, name: string, props: any) => [
               `₺${value.toFixed(2)}`,
               props.payload.fullDay
@@ -99,16 +100,16 @@ const StockChart = ({ color = "#3b82f6", data }: StockChartProps) => {
             stroke={color}
             fillOpacity={1}
             fill="url(#colorValue)"
-            strokeWidth={2.5}
-            animationDuration={1200}
+            strokeWidth={3}
+            animationDuration={1500}
             filter="url(#shadow)"
             dot={false}
             activeDot={{
-              r: 5,
-              fill: color,
-              stroke: '#fff',
-              strokeWidth: 2,
-              style: { filter: 'drop-shadow(0 0 6px rgba(0,0,0,0.4))' }
+              r: 6,
+              fill: '#09090b',
+              stroke: color,
+              strokeWidth: 3,
+              style: { filter: 'drop-shadow(0 0 10px rgba(255,255,255,0.2))' }
             }}
           />
         </AreaChart>

@@ -33,6 +33,7 @@ interface StockData {
 
 import SEO from '../components/SEO';
 import MarketHeatmap from '../components/MarketHeatmap';
+import { Skeleton } from '../components/Skeleton';
 
 const Home: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -158,9 +159,22 @@ const Home: React.FC = () => {
 
         {/* Stock Table */}
         {loading ? (
-          <div className="flex flex-col items-center justify-center py-20">
-            <div className="w-12 h-12 border-4 border-blue-500/30 border-t-blue-500 rounded-full animate-spin mb-4"></div>
-            <p className="text-zinc-500 text-sm">Borsa verileri yükleniyor...</p>
+          <div className="p-4 space-y-4">
+            {[...Array(5)].map((_, i) => (
+              <div key={i} className="flex items-center justify-between p-4 border-b border-white/5 last:border-0">
+                <div className="flex items-center gap-4 w-1/3">
+                  <Skeleton className="w-16 h-8" />
+                  <div className="space-y-2">
+                    <Skeleton className="w-24 h-4" />
+                    <Skeleton className="w-32 h-3" />
+                  </div>
+                </div>
+                <Skeleton className="w-20 h-6" />
+                <Skeleton className="w-20 h-6" />
+                <Skeleton className="w-24 h-6 hidden md:block" />
+                <div className="w-8 h-8 rounded-full bg-white/5 animate-pulse ml-auto" />
+              </div>
+            ))}
           </div>
         ) : (
           <div className="overflow-x-auto">
@@ -179,7 +193,7 @@ const Home: React.FC = () => {
                 {displayedStocks.map((stock) => {
                   const isPositive = stock.changeRate >= 0;
                   return (
-                    <tr key={stock.code} className="group hover:bg-white/[0.01] transition-colors">
+                    <tr key={stock.code} className="group hover:bg-white/[0.02] border-b border-transparent hover:border-white/5 transition-all duration-300">
                       <td className="px-8 py-5">
                         <div className="flex flex-col">
                           <span className="text-white font-bold text-sm tracking-wide group-hover:text-blue-400 transition-colors uppercase">

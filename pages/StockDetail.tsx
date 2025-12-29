@@ -32,6 +32,7 @@ import SEO from '../components/SEO';
 import { MOCK_STOCK_DETAIL, MOCK_TARGET_PRICES } from '../constants';
 import { BLOG_POSTS } from '../data/blogPosts';
 import { useWatchlist } from '../hooks/useWatchlist';
+import { Skeleton } from '../components/Skeleton';
 
 const SidebarSection = ({ title, icon: Icon, children }: any) => (
   <div className="glass-panel p-5 rounded-2xl border border-white/5 mb-4 last:mb-0">
@@ -488,8 +489,33 @@ const StockDetail: React.FC = () => {
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center min-h-screen">
-        <div className="w-12 h-12 border-4 border-blue-500/30 border-t-blue-500 rounded-full animate-spin"></div>
+      <div className="max-w-7xl mx-auto pb-20 pt-8 px-4">
+        {/* Skeleton Breadcrumb */}
+        <div className="flex gap-2 mb-8">
+          <Skeleton className="w-16 h-4" />
+          <Skeleton className="w-4 h-4" />
+          <Skeleton className="w-24 h-4" />
+        </div>
+
+        {/* Skeleton Header */}
+        <div className="mb-10 space-y-4">
+          <Skeleton className="w-1/2 h-12" />
+          <Skeleton className="w-full max-w-2xl h-6" />
+          <Skeleton className="w-full max-w-xl h-6" />
+        </div>
+
+        {/* Skeleton Stats */}
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-10">
+          {[...Array(5)].map((_, i) => (
+            <Skeleton key={i} className="h-24 w-full rounded-2xl" />
+          ))}
+        </div>
+
+        {/* Skeleton Chart Area */}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+          <Skeleton className="lg:col-span-2 h-[400px] rounded-3xl" />
+          <Skeleton className="h-[400px] rounded-3xl" />
+        </div>
       </div>
     );
   }
@@ -514,6 +540,14 @@ const StockDetail: React.FC = () => {
         schema={stockSchema}
         keywords={`${stock.code}, ${stock.code} hisse, ${stock.code} hisse yorum, ${stock.code} grafik, borsa istanbul, hisse senedi 2026`}
       />
+
+      {/* Ambient Background Glow */}
+      <div className="fixed top-0 left-0 w-full h-[600px] pointer-events-none -z-10 overflow-hidden">
+        <div
+          className={`absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[500px] rounded-[50%] blur-[120px] opacity-20 transition-colors duration-1000 ${isPositive ? 'bg-emerald-600' : 'bg-rose-600'
+            }`}
+        />
+      </div>
 
       {/* Breadcrumb */}
       <nav className="flex items-center gap-2 text-[11px] font-bold uppercase tracking-widest text-zinc-600 mb-8">
