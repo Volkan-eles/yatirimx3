@@ -133,6 +133,53 @@ const HalkaArz: React.FC = () => {
         fetchData();
     }, []);
 
+    const faqSchema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Halka Arz Çeşitleri Nelerdir?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Halka arzlar genellikle dağıtım yöntemine göre ikiye ayrılır: Eşit Dağıtım ve Oransal Dağıtım. Ayrıca fiyat belirleme yöntemine göre 'Sabit Fiyatla Talep Toplama' ve 'Fiyat Aralığı ile Talep Toplama' olarak da sınıflandırılabilir."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Halka Arzda Oransal Dağıtım Nedir?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Oransal dağıtımda, yatırımcılara talep ettikleri pay miktarıyla orantılı olarak hisse verilir. Yani, ne kadar çok talep girerseniz ve toplam talep ne kadar azsa, o kadar çok hisse alırsınız."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Halka Arzda Eşit Dağıtım Nedir?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Eşit dağıtımda, halka arza katılan tüm yatırımcılara, talep miktarına bakılmaksızın eşit sayıda lot verilir. Küçük yatırımcı dostu bir yöntemdir."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Borsa Market’ten Halka Arzlara Katılabilir miyim?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Evet, hesabınızın bulunduğu aracı kurum veya bankanın mobil uygulaması üzerinden 'Halka Arz' menüsünü kullanarak talep toplama tarihlerinde emir girebilirsiniz."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Halka Arz Hisseleri Borsada Ne Zaman İşlem Görmeye Başlar?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Talep toplama süreci tamamlandıktan genellikle 3 ila 7 iş günü içerisinde 'Gong Töreni' yapılır ve hisseler Borsa İstanbul'da işlem görmeye başlar."
+                }
+            }
+        ]
+    };
+
     return (
         <div className="space-y-12 animate-in fade-in slide-in-from-bottom-4 duration-500">
             <SEO
@@ -140,6 +187,7 @@ const HalkaArz: React.FC = () => {
                 description="2026 yılı güncel halka arz takvimi, SPK onaylı yeni halka arzlar, talep toplama tarihleri, dağıtım oranları ve şirket analizleri YatirimX'te."
                 canonicalUrl="https://yatirimx.com/halka-arz/"
                 keywords="halka arz, halka arz takvimi, 2026 halka arz, yeni halka arzlar, spk bülteni, borsa istanbul"
+                schema={faqSchema}
             />
 
             {/* Page Header */}

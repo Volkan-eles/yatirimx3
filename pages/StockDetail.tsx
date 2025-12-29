@@ -21,12 +21,15 @@ import {
   Users,
   CheckCircle2,
   User,
-  Award
+  Award,
+  BookOpen,
+  ArrowRight
 } from 'lucide-react';
 import StockChart from '../components/StockChart';
 import { slugify } from '../utils/slugify';
 import SEO from '../components/SEO';
 import { MOCK_STOCK_DETAIL, MOCK_TARGET_PRICES } from '../constants';
+import { BLOG_POSTS } from '../data/blogPosts';
 
 const SidebarSection = ({ title, icon: Icon, children }: any) => (
   <div className="glass-panel p-5 rounded-2xl border border-white/5 mb-4 last:mb-0">
@@ -287,6 +290,8 @@ const StockDetail: React.FC = () => {
   const [stock, setStock] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [hasTargetPrice, setHasTargetPrice] = useState(false);
+  const [relatedStocks, setRelatedStocks] = useState<any[]>([]);
+  const [dividendInfo, setDividendInfo] = useState<any>(null);
 
   useEffect(() => {
     // Fetch real-time BIST data
@@ -356,6 +361,12 @@ const StockDetail: React.FC = () => {
             volumeScore: Math.random() * 4 + 4, // Mock volume score for now 4-8 range
             performancePercentile: performancePercentile
           });
+
+          // Find Related Stocks (Same Sector)
+          const related = allStocks
+            .filter((s: any) => s.sector === foundStock.sector && s.code !== foundStock.code)
+            .slice(0, 4); // Take top 4
+          setRelatedStocks(related);
         }
         setLoading(false);
       })
@@ -373,6 +384,15 @@ const StockDetail: React.FC = () => {
         setHasTargetPrice(hasTarget);
       })
       .catch(() => setHasTargetPrice(false));
+
+    // Fetch Dividend Data
+    fetch('/temettu.json')
+      .then(res => res.json())
+      .then(data => {
+        const dividend = data.find((d: any) => d.t_bistkod === (stock?.code || code?.toUpperCase()));
+        setDividendInfo(dividend);
+      })
+      .catch(err => console.error('Error loading dividend data:', err));
   }, [code, stock?.code]);
 
   // Update document title based on target price availability
@@ -762,6 +782,55 @@ const StockDetail: React.FC = () => {
               />
             </div>
           </div>
+
+          {/* Related Stocks Widget */}
+          {relatedStocks.length > 0 && (
+            <div className="glass-panel p-8 rounded-[2rem] border border-white/5">
+              <h3 className="text-white font-bold text-lg mb-6 flex items-center gap-2">
+                <LayoutGrid className="w-5 h-5 text-blue-500" /> Benzer {stock.sector} Hisseleri
+              </h3>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {relatedStocks.map((s) => (
+                  <Link key={s.code} to={`/hisse/${slugify(`${s.code} Hisse Senedi Fiyatı Grafiği ${s.code} Yorumu 2026`)}`} className="group block bg-zinc-900/50 hover:bg-zinc-800 transition-colors rounded-xl p-4 border border-white/5">
+                    <div className="flex justify-between items-center mb-2">
+                      <span className="font-black text-white group-hover:text-blue-400 transition-colors">{s.code}</span>
+                      <span className={`font-bold ${s.changeRate >= 0 ? 'text-emerald-500' : 'text-rose-500'}`}>
+                        {s.changeRate >= 0 ? '+' : ''}%{Math.abs(s.changeRate).toFixed(2)}
+                      </span>
+                    </div>
+                    <div className="text-xs text-zinc-500 truncate">{s.name}</div>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Latest Analysis Widget */}
+          <div className="glass-panel p-8 rounded-[2rem] border border-white/5">
+            <h3 className="text-white font-bold text-lg mb-6 flex items-center gap-2">
+              <BookOpen className="w-5 h-5 text-blue-500" /> İlgili Analizler ve Haberler
+            </h3>
+            <div className="space-y-4">
+              {BLOG_POSTS.slice(0, 3).map((post) => (
+                <Link key={post.id} to={`/blog/${post.slug}`} className="group flex gap-4 items-start p-4 rounded-xl hover:bg-white/5 transition-colors border border-transparent hover:border-white/5">
+                  <div className="w-20 h-20 rounded-lg overflow-hidden shrink-0">
+                    <img src={post.image} alt={post.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
+                  </div>
+                  <div>
+                    <h4 className="text-white font-bold text-sm mb-1 group-hover:text-blue-400 transition-colors line-clamp-2">
+                      {post.title}
+                    </h4>
+                    <span className="text-[10px] text-zinc-500 uppercase tracking-wider">{post.date}</span>
+                  </div>
+                </Link>
+              ))}
+            </div>
+            <div className="mt-4 pt-4 border-t border-white/5 text-center">
+              <Link to="/blog" className="text-xs font-bold text-blue-500 hover:text-blue-400 flex items-center justify-center gap-1">
+                Tüm Analizleri Gör <ArrowRight className="w-3 h-3" />
+              </Link>
+            </div>
+          </div>
         </div>
 
         {/* Sidebar Panel */}
@@ -777,6 +846,21 @@ const StockDetail: React.FC = () => {
             </Link>
             <SidebarItem label="Son Güncelleme" value={stock.lastUpdate} colorClass="text-zinc-600" />
           </SidebarSection>
+
+          {/* Dividend Info Widget */}
+          {dividendInfo && (
+            <SidebarSection title="Temettü Durumu" icon={Users}>
+              <div className="bg-emerald-500/10 border border-emerald-500/20 rounded-xl p-4 mb-3">
+                <div className="text-xs text-emerald-400 font-bold mb-1">2026 Tahmini Temettü</div>
+                <div className="text-2xl font-black text-white tabular-nums">₺{dividendInfo.t_temt_net}</div>
+                <div className="text-[10px] text-emerald-500/60 font-bold uppercase mt-1">Verim: %{dividendInfo.t_yuzde}</div>
+              </div>
+              <SidebarItem label="Ödeme Tarihi" value={dividendInfo.t_tarih} />
+              <Link to="/temettu" className="block w-full py-2 bg-zinc-800 hover:bg-zinc-700 text-center rounded-lg text-xs font-bold text-white transition-colors mt-2">
+                Temettü Takvimine Git
+              </Link>
+            </SidebarSection>
+          )}
 
           <SidebarSection title="Değerleme & Karlılık" icon={LayoutGrid}>
             <SidebarItem label="PEG Oranı" value={stock.pegRatio?.toFixed(2) || '-'} />

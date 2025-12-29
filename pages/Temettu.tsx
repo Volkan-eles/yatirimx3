@@ -43,6 +43,45 @@ const Temettu: React.FC = () => {
       item.t_bistkod.toLowerCase().includes(search.toLowerCase())
    );
 
+   const faqSchema = {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+         {
+            "@type": "Question",
+            "name": "Temettü almak için hisseyi ne zaman almalıyım?",
+            "acceptedAnswer": {
+               "@type": "Answer",
+               "text": "Temettü ödemesinden faydalanmak için, şirketin açıkladığı 'Hak Kullanım Tarihi'nden en az bir gün önce piyasa kapanışında hisseye sahip olmanız gerekir."
+            }
+         },
+         {
+            "@type": "Question",
+            "name": "Temettü dağıtılan gün hisse fiyatı düşer mi?",
+            "acceptedAnswer": {
+               "@type": "Answer",
+               "text": "Evet, temettü dağıtım tarihinde hisse senedinin teorik fiyatı, ödenen brüt temettü miktarı kadar düşer. Ancak bu durum portföy değerinizi değiştirmez, çünkü düşen miktar nakit olarak hesabınıza yatar."
+            }
+         },
+         {
+            "@type": "Question",
+            "name": "Temettü ne zaman hesaba geçer?",
+            "acceptedAnswer": {
+               "@type": "Answer",
+               "text": "Nakit kar payı ödemeleri, hak kullanım tarihinden 2 iş günü sonra (T+2) yatırım hesabınıza nakit olarak geçer."
+            }
+         },
+         {
+            "@type": "Question",
+            "name": "Temettü ödemesinden vergi kesilir mi?",
+            "acceptedAnswer": {
+               "@type": "Answer",
+               "text": "Evet, bireysel yatırımcılar için brüt temettü üzerinden %10 oranında stopaj (gelir vergisi) kaynağında kesilir. Hesabınıza yatan tutar net temettüdür."
+            }
+         }
+      ]
+   };
+
    return (
       <div className="space-y-12 animate-in fade-in slide-in-from-bottom-4 duration-500">
          <SEO
@@ -50,6 +89,7 @@ const Temettu: React.FC = () => {
             description="2026 temettü takvimi, hisse başı net temettü miktarları, en yüksek verimli hisseler ve ödeme tarihleri. BIST temettü endeksi analizleri."
             canonicalUrl="https://yatirimx.com/temettu-takvimi-2026/"
             keywords="temettü takvimi 2026, temettü veren hisseler, 2026 temettü tahminleri, temettü verimliliği, nakit kar payı, borsa istanbul"
+            schema={faqSchema}
          />
 
          <div className="flex flex-col md:flex-row justify-between items-end gap-6">

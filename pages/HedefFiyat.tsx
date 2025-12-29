@@ -181,6 +181,45 @@ const HedefFiyat: React.FC = () => {
         return 0;
     });
 
+    const faqSchema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Hedef fiyatlar ne kadar güvenilir?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Hedef fiyatlar, analistlerin mevcut verilere dayalı tahminleridir ve kesin değildir. Piyasa koşulları veya şirket performansındaki değişiklikler hedef fiyatların tutmamasına neden olabilir."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Hedef fiyat yüksekse hemen almalı mıyım?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Hayır. Yüksek hedef fiyat tek başına alım sinyali değildir. Hissenin mevcut değerlemesi, şirketin temelleri ve genel piyasa koşullarını da değerlendirmelisiniz."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Analist konsensüsü neden önemli?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Tek bir analist görüşü öznel olabilir, ancak birden fazla bağımsız analistin ortak görüşü (konsensüs) daha objektif bir perspektif sunar ve yatırım kararlarında daha güvenilir bir referanstır."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "Hedef fiyat ne kadar sürede gerçekleşir?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Çoğu hedef fiyat tahmini 6-12 aylık bir zaman dilimi için yapılır. Analist raporunda belirtilen vadeye dikkat etmek önemlidir."
+                }
+            }
+        ]
+    };
+
     return (
         <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
             <SEO
@@ -188,6 +227,7 @@ const HedefFiyat: React.FC = () => {
                 description="BIST hisse senetleri için güncel hedef fiyat tahminleri, aracı kurum raporları ve 2026 borsa beklentileri. Uzman analist yorumlarını inceleyin."
                 canonicalUrl="https://yatirimx.com/hedef-fiyat/"
                 keywords="hedef fiyatlar, hisse hedef fiyat 2026, borsa tahminleri, hisse senetleri, analist tavsiyeleri, al sat tut, borsa istanbul"
+                schema={faqSchema}
             />
 
 
