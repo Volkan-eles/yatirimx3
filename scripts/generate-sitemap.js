@@ -78,22 +78,25 @@ const main = () => {
 
     // 1. Static Pages
     const staticPages = [
-        { path: '/', priority: '1.0', freq: 'hourly' },
-        { path: '/piyasa', priority: '0.9', freq: 'hourly' },
-        { path: '/hedef-fiyat', priority: '0.9', freq: 'daily' },
-        { path: '/temettu-takvimi-2026', priority: '0.9', freq: 'daily' },
-        { path: '/halka-arz', priority: '0.9', freq: 'weekly' },
-        { path: '/sermaye-artirimi', priority: '0.8', freq: 'weekly' },
-        { path: '/araci-kurumlar', priority: '0.8', freq: 'weekly' },
-        { path: '/blog', priority: '0.8', freq: 'daily' },
-        { path: '/hakkimizda', priority: '0.6', freq: 'monthly' },
-        { path: '/iletisim', priority: '0.6', freq: 'monthly' },
-        { path: '/gizlilik-politikasi', priority: '0.5', freq: 'monthly' },
-        { path: '/kullanim-kosullari', priority: '0.5', freq: 'monthly' },
+        { url: '', priority: '1.0', changefreq: 'daily' },
+        { url: 'piyasa', priority: '0.9', changefreq: 'hourly' },
+        { url: 'piyasa-haritasi', priority: '0.9', changefreq: 'hourly' },
+        { url: 'izleme-listesi', priority: '0.8', changefreq: 'daily' },
+        { url: 'karsilastir', priority: '0.8', changefreq: 'daily' },
+        { url: 'temettu-takvimi-2026', priority: '0.9', changefreq: 'daily' },
+        { url: 'halka-arz', priority: '0.8', changefreq: 'daily' },
+        { url: 'hedef-fiyat', priority: '0.8', changefreq: 'daily' },
+        { url: 'sermaye-artirimi', priority: '0.7', changefreq: 'weekly' },
+        { url: 'araci-kurumlar', priority: '0.7', changefreq: 'weekly' },
+        { url: 'blog', priority: '0.7', changefreq: 'weekly' },
+        { url: 'hakkimizda', priority: '0.5', changefreq: 'monthly' },
+        { url: 'iletisim', priority: '0.5', changefreq: 'monthly' },
+        { url: 'gizlilik-politikasi', priority: '0.3', changefreq: 'yearly' },
+        { url: 'kullanim-kosullari', priority: '0.3', changefreq: 'yearly' },
     ];
 
     staticPages.forEach(page => {
-        xml += createUrlEntry(page.path, page.priority, page.freq);
+        xml += createUrlEntry(page.url, page.priority, page.changefreq);
     });
 
     // 2. Dynamic Stocks (/hisse/...)

@@ -88,8 +88,10 @@ const ComparePage: React.FC = () => {
     return (
         <div className="max-w-7xl mx-auto px-4 py-8 pb-20">
             <SEO
-                title="Hisse Karşılaştırma Aracı - BIST 100 | YatırımX"
-                description="İki hisse senedini yan yana koyun, temel ve teknik verilerini karşılaştırın."
+                title="Hisse Senedi Karşılaştırma - BIST 100 Hisse Analizi | YatırımX"
+                description="İki hisse senedini yan yana karşılaştırın. Fiyat, F/K oranı, temettü verimi ve daha fazlasını analiz edin. Akıllı yatırım kararları için detaylı karşılaştırma aracı."
+                canonicalUrl="https://yatirimx.com/karsilastir/"
+                keywords="hisse karşılaştırma, hisse analizi, bist 100 karşılaştırma, hisse senedi analiz, f/k oranı, temettü karşılaştırma"
             />
 
             <div className="text-center mb-12">

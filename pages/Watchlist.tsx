@@ -37,9 +37,10 @@ const Watchlist: React.FC = () => {
     return (
         <div className="min-h-screen animate-in fade-in duration-500 pb-20">
             <SEO
-                title="İzleme Listem - YatirimX"
-                description="Takip ettiğiniz hisse senetlerinin güncel fiyatları ve performansları."
-                keywords="izleme listesi, borsa takip, hisse senedi takibi"
+                title="İzleme Listesi - Favori Hisselerim | YatırımX"
+                description="Takip ettiğiniz hisse senetlerinin güncel fiyatları, performansları ve anlık değişimlerini izleyin. Kişisel portföy takip aracı."
+                canonicalUrl="https://yatirimx.com/izleme-listesi/"
+                keywords="izleme listesi, favori hisseler, portföy takip, hisse senedi takibi, borsa takip, watchlist"
             />
 
             <div className="flex items-center gap-3 mb-8">
