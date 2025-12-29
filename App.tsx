@@ -5,6 +5,9 @@ import Layout from './components/Layout';
 // Lazy Load Pages for Performance
 const Home = lazy(() => import('./pages/Home'));
 const Borsa = lazy(() => import('./pages/Borsa'));
+const Watchlist = React.lazy(() => import('./pages/Watchlist'));
+const ComparePage = React.lazy(() => import('./pages/ComparePage'));
+const NotFound = React.lazy(() => import('./pages/NotFound'));
 const StockDetail = lazy(() => import('./pages/StockDetail'));
 const HedefFiyat = lazy(() => import('./pages/HedefFiyat'));
 const HedefFiyatDetail = lazy(() => import('./pages/HedefFiyatDetail'));
@@ -59,7 +62,10 @@ function App() {
             {/* Redirect old route */}
             <Route path="/temettu" element={<Navigate to="/temettu-takvimi-2026" replace />} />
 
-            <Route path="/temettu/:code" element={<TemettuDetail />} />
+            <Route path="/temettu-detail/:code" element={<TemettuDetail />} />
+            <Route path="/izleme-listesi" element={<Watchlist />} />
+            <Route path="/karsilastir" element={<ComparePage />} />
+            <Route path="*" element={<NotFound />} />
             <Route path="/halka-arz" element={<HalkaArz />} />
             <Route path="/halka-arz/:code" element={<HalkaArzDetail />} />
             <Route path="/araci-kurumlar" element={<AraciKurumlar />} />

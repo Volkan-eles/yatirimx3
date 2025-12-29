@@ -1,129 +1,122 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { TrendingUp, Mail, Shield, FileText } from 'lucide-react';
+import { TrendingUp, Mail, Shield, FileText, ArrowRight, Lock, Activity, Globe, Send } from 'lucide-react';
 
 const Footer: React.FC = () => {
     const currentYear = new Date().getFullYear();
 
     return (
-        <footer className="bg-[#09090b] border-t border-white/5 mt-20">
-            <div className="max-w-7xl mx-auto px-6 py-12">
+        <footer className="bg-black/80 border-t border-white/5 mt-20 relative overflow-hidden">
+            {/* Background Glow */}
+            <div className="absolute bottom-0 left-1/4 w-[500px] h-[500px] bg-blue-600/5 rounded-full blur-[100px] pointer-events-none"></div>
 
-                {/* Main Footer Content */}
-                <div className="grid grid-cols-1 md:grid-cols-5 gap-8 mb-8">
+            <div className="max-w-7xl mx-auto px-6 pt-16 pb-8 relative z-10">
 
-                    {/* Brand Section */}
-                    <div className="col-span-1 md:col-span-2">
-                        <Link to="/" className="flex items-center gap-2 mb-4">
-                            <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-600 to-purple-600 flex items-center justify-center">
-                                <TrendingUp className="w-6 h-6 text-white" />
+                <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 mb-16">
+
+                    {/* Brand & Newsletter Column */}
+                    <div className="lg:col-span-5 space-y-8">
+                        <div>
+                            <Link to="/" className="flex items-center gap-3 mb-4 group">
+                                <div className="relative flex items-center justify-center w-10 h-10 rounded-xl bg-gradient-to-br from-blue-600 via-blue-700 to-indigo-800 shadow-lg shadow-blue-900/20 group-hover:scale-105 transition-transform duration-300">
+                                    <TrendingUp className="w-5 h-5 text-white" />
+                                </div>
+                                <div className="flex flex-col">
+                                    <span className="font-bold text-xl leading-none tracking-tight text-white font-display">YatirimX</span>
+                                    <span className="text-[10px] text-zinc-500 font-medium tracking-[0.2em] uppercase mt-0.5">Terminal</span>
+                                </div>
+                            </Link>
+                            <p className="text-zinc-400 text-sm leading-relaxed max-w-sm">
+                                Finansal özgürlük yolculuğunuzda size rehberlik eden yeni nesil analiz platformu.
+                                Yapay zeka destekli verilerle piyasanın bir adım önünde olun.
+                            </p>
+                        </div>
+
+                        {/* Newsletter */}
+                        <div className="p-6 rounded-2xl bg-white/[0.03] border border-white/5 backdrop-blur-sm">
+                            <h3 className="text-white font-bold mb-2 flex items-center gap-2">
+                                <Mail className="w-4 h-4 text-blue-400" /> Bültene Abone Olun
+                            </h3>
+                            <p className="text-zinc-500 text-xs mb-4">Piyasa analizleri ve önemli gelişmeler her sabah e-postanızda.</p>
+                            <div className="flex gap-2">
+                                <input
+                                    type="email"
+                                    placeholder="E-posta adresiniz"
+                                    className="flex-1 bg-black/50 border border-white/10 rounded-lg px-4 py-2.5 text-sm text-white focus:border-blue-500/50 outline-none transition-all placeholder:text-zinc-600"
+                                />
+                                <button className="bg-blue-600 hover:bg-blue-700 text-white p-2.5 rounded-lg transition-colors flex items-center justify-center">
+                                    <ArrowRight className="w-4 h-4" />
+                                </button>
                             </div>
-                            <span className="text-xl font-black text-white">YatırımX</span>
-                        </Link>
-                        <p className="text-zinc-500 text-sm leading-relaxed mb-4">
-                            Türkiye'nin en kapsamlı borsa ve hisse senedi analiz platformu.
-                            507 BIST hissesi için gerçek zamanlı veriler, teknik analizler ve uzman görüşleri.
-                        </p>
-                        <div className="flex items-center gap-2 text-zinc-600 text-xs">
-                            <Shield className="w-4 h-4" />
-                            <span>Veriler Yahoo Finance API'den sağlanmaktadır</span>
                         </div>
                     </div>
 
-                    {/* Platform */}
-                    <div>
-                        <h3 className="text-white font-bold mb-4 text-sm uppercase tracking-wider">Platform</h3>
-                        <ul className="space-y-2">
-                            <li>
-                                <Link to="/" className="text-zinc-400 hover:text-white text-sm transition-colors">
-                                    Ana Sayfa
-                                </Link>
-                            </li>
-                            <li>
-                                <Link to="/hedef-fiyat" className="text-zinc-400 hover:text-white text-sm transition-colors">
-                                    Hedef Fiyatlar
-                                </Link>
-                            </li>
-                            <li>
-                                <Link to="/temettu-takvimi-2026" className="text-zinc-400 hover:text-white text-sm transition-colors">
-                                    Temettü Takvimi
-                                </Link>
-                            </li>
-                            <li>
-                                <Link to="/halka-arz" className="text-zinc-400 hover:text-white text-sm transition-colors">
-                                    Halka Arzlar
-                                </Link>
-                            </li>
-                            <li>
-                                <Link to="/blog" className="text-zinc-400 hover:text-white text-sm transition-colors">
-                                    Blog
-                                </Link>
-                            </li>
-                        </ul>
-                    </div>
+                    {/* Links Columns */}
+                    <div className="lg:col-span-7 grid grid-cols-2 md:grid-cols-3 gap-8">
 
-                    {/* Kurumsal */}
-                    <div>
-                        <h3 className="text-white font-bold mb-4 text-sm uppercase tracking-wider">Kurumsal</h3>
-                        <ul className="space-y-2">
-                            <li>
-                                <Link to="/hakkimizda" className="text-zinc-400 hover:text-white text-sm transition-colors flex items-center gap-1">
-                                    <FileText className="w-3 h-3" />
-                                    Hakkımızda
-                                </Link>
-                            </li>
-                            <li>
-                                <Link to="/iletisim" className="text-zinc-400 hover:text-white text-sm transition-colors flex items-center gap-1">
-                                    <Mail className="w-3 h-3" />
-                                    İletişim
-                                </Link>
-                            </li>
-                        </ul>
-                    </div>
+                        {/* Column 1 */}
+                        <div>
+                            <h3 className="text-white font-bold mb-6 text-sm flex items-center gap-2">
+                                <Activity className="w-4 h-4 text-blue-500" /> Platform
+                            </h3>
+                            <ul className="space-y-3">
+                                <li><Link to="/hedef-fiyat" className="text-zinc-400 hover:text-white text-sm transition-colors">Hedef Fiyatlar</Link></li>
+                                <li><Link to="/temettu-takvimi-2026" className="text-zinc-400 hover:text-white text-sm transition-colors">Temettü Takvimi</Link></li>
+                                <li><Link to="/halka-arz" className="text-zinc-400 hover:text-white text-sm transition-colors">Halka Arzlar</Link></li>
+                                <li><Link to="/araci-kurumlar" className="text-zinc-400 hover:text-white text-sm transition-colors">Aracı Kurumlar</Link></li>
+                            </ul>
+                        </div>
 
-                    {/* Yasal */}
-                    <div>
-                        <h3 className="text-white font-bold mb-4 text-sm uppercase tracking-wider">Yasal</h3>
-                        <ul className="space-y-2">
-                            <li>
-                                <Link to="/kullanim-kosullari" className="text-zinc-400 hover:text-white text-sm transition-colors flex items-center gap-1">
-                                    <FileText className="w-3 h-3" />
-                                    Kullanım Koşulları
-                                </Link>
-                            </li>
-                            <li>
-                                <Link to="/gizlilik-politikasi" className="text-zinc-400 hover:text-white text-sm transition-colors flex items-center gap-1">
-                                    <Shield className="w-3 h-3" />
-                                    Gizlilik Politikası
-                                </Link>
-                            </li>
-                        </ul>
-                    </div>
+                        {/* Column 2 */}
+                        <div>
+                            <h3 className="text-white font-bold mb-6 text-sm flex items-center gap-2">
+                                <Globe className="w-4 h-4 text-purple-500" /> Kurumsal
+                            </h3>
+                            <ul className="space-y-3">
+                                <li><Link to="/hakkimizda" className="text-zinc-400 hover:text-white text-sm transition-colors">Hakkımızda</Link></li>
+                                <li><Link to="/blog" className="text-zinc-400 hover:text-white text-sm transition-colors">Blog & Analiz</Link></li>
+                                <li><Link to="/iletisim" className="text-zinc-400 hover:text-white text-sm transition-colors">İletişim</Link></li>
+                                <li><a href="#" className="text-zinc-400 hover:text-white text-sm transition-colors">Kariyer</a></li>
+                            </ul>
+                        </div>
 
-                </div>
-
-                {/* Disclaimer */}
-                <div className="border-t border-white/5 pt-6 mb-6">
-                    <div className="bg-yellow-500/10 border border-yellow-500/20 rounded-xl p-4">
-                        <p className="text-yellow-400 text-xs font-semibold mb-1">⚠️ Önemli Uyarı</p>
-                        <p className="text-zinc-400 text-xs leading-relaxed">
-                            Bu platformda sunulan bilgiler yalnızca bilgilendirme amaçlıdır ve yatırım tavsiyesi niteliği taşımamaktadır.
-                            Hisse senedi yatırımları yüksek risk içerir. Yatırım kararlarınızı vermeden önce profesyonel bir finansal danışmana danışmanız önerilir.
-                        </p>
+                        {/* Column 3 */}
+                        <div>
+                            <h3 className="text-white font-bold mb-6 text-sm flex items-center gap-2">
+                                <Shield className="w-4 h-4 text-emerald-500" /> Yasal
+                            </h3>
+                            <ul className="space-y-3">
+                                <li><Link to="/kullanim-kosullari" className="text-zinc-400 hover:text-white text-sm transition-colors">Kullanım Koşulları</Link></li>
+                                <li><Link to="/gizlilik-politikasi" className="text-zinc-400 hover:text-white text-sm transition-colors">Gizlilik Politikası</Link></li>
+                                <li><Link to="/cerez-politikasi" className="text-zinc-400 hover:text-white text-sm transition-colors">Çerez Politikası</Link></li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
 
-                {/* Bottom Bar */}
-                <div className="border-t border-white/5 pt-6 flex flex-col md:flex-row justify-between items-center gap-4">
-                    <p className="text-zinc-600 text-xs">
-                        © {currentYear} YatırımX. Tüm hakları saklıdır.
-                    </p>
-                    <div className="flex items-center gap-4 text-xs text-zinc-600">
-                        <a href="mailto:vlkneles@gmail.com" className="hover:text-white transition-colors">
-                            vlkneles@gmail.com
-                        </a>
-                        <span>•</span>
-                        <span>v1.0.0</span>
+                {/* Trust Badges & Bottom */}
+                <div className="pt-8 border-t border-white/5">
+                    <div className="flex flex-col md:flex-row justify-between items-center gap-6">
+
+                        <div className="flex items-center gap-6">
+                            <div className="flex items-center gap-2 text-xs text-zinc-500 bg-white/[0.02] px-3 py-1.5 rounded-full border border-white/5">
+                                <Lock className="w-3 h-3 text-emerald-500" />
+                                <span>256-bit SSL Secured</span>
+                            </div>
+                            <div className="flex items-center gap-2 text-xs text-zinc-500 bg-white/[0.02] px-3 py-1.5 rounded-full border border-white/5">
+                                <Activity className="w-3 h-3 text-blue-500" />
+                                <span>Canlı BIST Verisi</span>
+                            </div>
+                        </div>
+
+                        <div className="flex items-center gap-6 text-xs text-zinc-600">
+                            <span>© {currentYear} YatırımX Teknoloji A.Ş.</span>
+                            <div className="flex items-center gap-4">
+                                <a href="#" className="hover:text-white transition-colors">Twitter</a>
+                                <a href="#" className="hover:text-white transition-colors">Instagram</a>
+                                <a href="#" className="hover:text-white transition-colors">Linkedin</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
 

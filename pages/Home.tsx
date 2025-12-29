@@ -34,6 +34,8 @@ interface StockData {
 import SEO from '../components/SEO';
 import MarketHeatmap from '../components/MarketHeatmap';
 import { Skeleton } from '../components/Skeleton';
+import { ParticleBackground } from '../components/ParticleBackground';
+import { Sparkline } from '../components/Sparkline';
 
 const Home: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -113,6 +115,9 @@ const Home: React.FC = () => {
         schema={homeSchema}
       />
 
+      {/* Dynamic Background */}
+      <ParticleBackground />
+
       {/* Page Header Area */}
       <div className="pt-8 pb-4">
         <h1 className="text-4xl font-bold text-white tracking-tight mb-2">Borsa İstanbul</h1>
@@ -184,6 +189,7 @@ const Home: React.FC = () => {
                   <th className="px-8 py-4">Hisse Kodu</th>
                   <th className="px-6 py-4">Fiyat</th>
                   <th className="px-6 py-4">Değişim</th>
+                  <th className="px-6 py-4">Grafik (7G)</th>
                   <th className="px-6 py-4">Hacim</th>
                   <th className="px-6 py-4">Sektör</th>
                   <th className="px-6 py-4 text-right">İşlem</th>
@@ -193,7 +199,7 @@ const Home: React.FC = () => {
                 {displayedStocks.map((stock) => {
                   const isPositive = stock.changeRate >= 0;
                   return (
-                    <tr key={stock.code} className="group hover:bg-white/[0.02] border-b border-transparent hover:border-white/5 transition-all duration-300">
+                    <tr key={stock.code} className="group hover:bg-white/[0.02] border-b border-white/[0.02] hover:border-white/5 transition-all duration-300">
                       <td className="px-8 py-5">
                         <div className="flex flex-col">
                           <span className="text-white font-bold text-sm tracking-wide group-hover:text-blue-400 transition-colors uppercase">
@@ -213,6 +219,11 @@ const Home: React.FC = () => {
                           : 'bg-rose-500/10 text-rose-500 border border-rose-500/10'
                           }`}>
                           {isPositive ? '↑' : '↓'} %{Math.abs(stock.changeRate).toFixed(2)}
+                        </div>
+                      </td>
+                      <td className="px-6 py-5">
+                        <div className="opacity-70 group-hover:opacity-100 transition-opacity">
+                          <Sparkline isPositive={isPositive} width={80} height={25} />
                         </div>
                       </td>
                       <td className="px-6 py-5">

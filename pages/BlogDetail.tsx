@@ -5,6 +5,8 @@ import { BLOG_POSTS } from '../data/blogPosts';
 
 import SEO from '../components/SEO';
 
+import { Breadcrumbs } from '../components/Breadcrumbs';
+
 const BlogDetail: React.FC = () => {
     const { slug } = useParams<{ slug: string }>();
     const post = BLOG_POSTS.find(p => p.slug === slug);

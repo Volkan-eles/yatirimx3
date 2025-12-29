@@ -288,14 +288,24 @@ const CommunitySentiment = ({ stockCode }: { stockCode: string }) => {
   );
 };
 
+import { Breadcrumbs } from '../components/Breadcrumbs';
+
 const StockDetail: React.FC = () => {
-  const { code } = useParams<{ code: string }>();
-  const { toggleWatchlist, isInWatchlist } = useWatchlist();
+  const { symbol } = useParams<{ symbol: string }>();
+  // Extract stock code from slug (e.g. "thyao-hisse..." -> "THYAO")
+  const stockCode = symbol?.split('-')[0].toUpperCase();
+  const code = stockCode; // Alias for backward compatibility
+
   const [stock, setStock] = useState<any>(null);
   const [loading, setLoading] = useState(true);
   const [hasTargetPrice, setHasTargetPrice] = useState(false);
   const [relatedStocks, setRelatedStocks] = useState<any[]>([]);
   const [dividendInfo, setDividendInfo] = useState<any>(null);
+
+  // Watchlist Hook
+  const { isInWatchlist, toggleWatchlist } = useWatchlist();
+
+  // ... useEffects ...
 
   useEffect(() => {
     // Fetch real-time BIST data
@@ -305,7 +315,7 @@ const StockDetail: React.FC = () => {
         // Find the stock by code or matching long slug
         const foundStock = data.stocks.find((s: any) => {
           const longSlug = slugify(`${s.code} Hisse Senedi Fiyatı Grafiği ${s.code} Yorumu 2026`);
-          return s.code === code?.toUpperCase() || longSlug === code;
+          return s.code === stockCode || longSlug === symbol;
         });
 
         if (foundStock) {
