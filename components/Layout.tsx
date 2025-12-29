@@ -175,6 +175,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
   // Navigation links for desktop
   const navLinks = [
     { name: 'Ana Sayfa', path: '/', icon: HomeIcon },
+    { name: 'Piyasa Haritası', path: '/piyasa-haritasi', icon: PieChart },
     { name: 'Temettü', path: '/temettu-takvimi-2026', icon: Calendar },
     { name: 'Halka Arz', path: '/halka-arz', icon: Briefcase },
     { name: 'Hedef Fiyat', path: '/hedef-fiyat', icon: LineChart },
