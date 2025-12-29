@@ -7,6 +7,9 @@ on:
   
   workflow_dispatch:  # Manuel çalıştırma için
 
+permissions:
+  contents: write  # Repository'ye yazma yetkisi
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
