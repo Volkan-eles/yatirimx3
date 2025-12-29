@@ -5,8 +5,10 @@ import os
 def scrape_dividends():
     url = "https://halkarz.com/wp-content/themes/halkarz/json/temettu.json"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-        "Referer": "https://halkarz.com/temettu-takvimi/"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://halkarz.com/temettu-takvimi/",
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7"
     }
 
     try:
@@ -28,6 +30,12 @@ def scrape_dividends():
 
     except Exception as e:
         print(f"An error occurred: {e}")
+        print("Creating empty fallback file...")
+        os.makedirs('public', exist_ok=True)
+        output_path = os.path.join('public', 'temettu.json')
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump([], f)
+        print("Fallback file created.")
 
 if __name__ == "__main__":
     scrape_dividends()

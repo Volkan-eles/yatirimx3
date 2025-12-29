@@ -13,7 +13,10 @@ def scrape_capital_increases():
     log("Starting scraper...")
     url = "https://halkarz.com/sermaye-artirimi/"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Referer": "https://halkarz.com/",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7"
     }
 
     try:
@@ -118,6 +121,12 @@ def scrape_capital_increases():
     except Exception as e:
         log(f"An error occurred: {e}")
         print(f"An error occurred: {e}")
+        print("Creating empty fallback file...")
+        os.makedirs('public', exist_ok=True)
+        output_path = os.path.join('public', 'sermaye_artirimi.json')
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump([], f)
+        print("Fallback file created.")
 
 if __name__ == "__main__":
     scrape_capital_increases()
