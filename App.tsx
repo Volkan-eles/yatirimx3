@@ -53,7 +53,7 @@ function App() {
             <Route path="/" element={<Home />} />
             <Route path="/piyasa" element={<Borsa />} />
             <Route path="/izleme-listesi" element={<Watchlist />} />
-            <Route path="/hisse/:code" element={<StockDetail />} />
+            <Route path="/hisse/:symbol" element={<StockDetail />} />
             <Route path="/hedef-fiyat" element={<HedefFiyat />} />
             <Route path="/hedef-fiyat/:code" element={<HedefFiyatDetail />} />
             <Route path="/sermaye-artirimi" element={<SermayeArtirimi />} />
