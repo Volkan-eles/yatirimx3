@@ -1,18 +1,55 @@
 import React, { useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft, ArrowRight, Calendar, User, Clock, Share2, Twitter, Linkedin, Facebook } from 'lucide-react';
-import { BLOG_POSTS } from './Blog';
+import { BLOG_POSTS } from '../data/blogPosts';
 
 import SEO from '../components/SEO';
 
 const BlogDetail: React.FC = () => {
     const { slug } = useParams<{ slug: string }>();
     const post = BLOG_POSTS.find(p => p.slug === slug);
+    const [scrollProgress, setScrollProgress] = React.useState(0);
+    const [toc, setToc] = React.useState<{ id: string; text: string }[]>([]);
 
     useEffect(() => {
-        // Scroll to top
         window.scrollTo(0, 0);
     }, [post]);
+
+    // Handle Scroll Progress
+    useEffect(() => {
+        const handleScroll = () => {
+            const totalScroll = document.documentElement.scrollTop;
+            const windowHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+            const scroll = `${totalScroll / windowHeight}`;
+            setScrollProgress(Number(scroll));
+        };
+        window.addEventListener('scroll', handleScroll);
+        return () => window.removeEventListener('scroll', handleScroll);
+    }, []);
+
+    // Generate TOC from content
+    useEffect(() => {
+        if (post?.content) {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(post.content, 'text/html');
+            const headings = Array.from(doc.querySelectorAll('h2')).map((h2, index) => ({
+                id: `heading-${index}`,
+                text: h2.textContent || ''
+            }));
+            setToc(headings);
+        }
+    }, [post]);
+
+    // Helper to inject IDs into content
+    const processedContent = React.useMemo(() => {
+        if (!post?.content) return '';
+        // Simple regex replace to add IDs to h2s - in a real app better parsing is needed
+        let content = post.content;
+        toc.forEach((item, index) => {
+            content = content.replace(`<h2>${item.text}</h2>`, `<h2 id="heading-${index}">${item.text}</h2>`);
+        });
+        return content;
+    }, [post, toc]);
 
     if (!post) {
         return (
@@ -24,6 +61,28 @@ const BlogDetail: React.FC = () => {
             </div>
         );
     }
+
+    const shareUrl = `https://yatirimx.com/blog/${slug}`;
+    const shareText = post.title;
+
+    const handleShare = (platform: string) => {
+        let url = '';
+        switch (platform) {
+            case 'twitter':
+                url = `https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(shareUrl)}`;
+                break;
+            case 'facebook':
+                url = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(shareUrl)}`;
+                break;
+            case 'linkedin':
+                url = `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(shareUrl)}`;
+                break;
+            case 'whatsapp':
+                url = `https://wa.me/?text=${encodeURIComponent(shareText + ' ' + shareUrl)}`;
+                break;
+        }
+        window.open(url, '_blank');
+    };
 
     const blogSchema = {
         "@context": "https://schema.org",
@@ -50,8 +109,8 @@ const BlogDetail: React.FC = () => {
                 "height": 112
             }
         },
-        "datePublished": "2024-12-26T09:00:00+03:00", // Fallback, should ideally come from post data
-        "dateModified": "2024-12-29T12:00:00+03:00", // Fallback
+        "datePublished": "2024-12-26T09:00:00+03:00",
+        "dateModified": "2024-12-29T12:00:00+03:00",
         "description": post.excerpt,
         "mainEntityOfPage": {
             "@type": "WebPage",
@@ -60,7 +119,13 @@ const BlogDetail: React.FC = () => {
     };
 
     return (
-        <div className="max-w-4xl mx-auto pb-20 animate-in fade-in slide-in-from-bottom-4 duration-700">
+        <div className="max-w-4xl mx-auto pb-20 animate-in fade-in slide-in-from-bottom-4 duration-700 relative">
+            {/* Reading Progress Bar */}
+            <div
+                className="fixed top-0 left-0 h-1 bg-gradient-to-r from-blue-600 to-purple-600 z-50 transition-all duration-100"
+                style={{ width: `${scrollProgress * 100}%` }}
+            />
+
             <SEO
                 title={`${post.title} | YatırımX Blog`}
                 description={post.excerpt}
@@ -117,16 +182,16 @@ const BlogDetail: React.FC = () => {
                 {/* Share Sidebar (Desktop) */}
                 <div className="hidden lg:block lg:col-span-1">
                     <div className="sticky top-32 space-y-4">
-                        <button className="w-10 h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-zinc-400 hover:bg-blue-600 hover:text-white hover:border-blue-500 transition-all">
+                        <button onClick={() => handleShare('twitter')} className="w-10 h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-zinc-400 hover:bg-blue-600 hover:text-white hover:border-blue-500 transition-all">
                             <Twitter className="w-4 h-4" />
                         </button>
-                        <button className="w-10 h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-zinc-400 hover:bg-[#0077b5] hover:text-white hover:border-[#0077b5] transition-all">
+                        <button onClick={() => handleShare('linkedin')} className="w-10 h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-zinc-400 hover:bg-[#0077b5] hover:text-white hover:border-[#0077b5] transition-all">
                             <Linkedin className="w-4 h-4" />
                         </button>
-                        <button className="w-10 h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-zinc-400 hover:bg-[#1877f2] hover:text-white hover:border-[#1877f2] transition-all">
+                        <button onClick={() => handleShare('facebook')} className="w-10 h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-zinc-400 hover:bg-[#1877f2] hover:text-white hover:border-[#1877f2] transition-all">
                             <Facebook className="w-4 h-4" />
                         </button>
-                        <button className="w-10 h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-zinc-400 hover:bg-zinc-800 hover:text-white transition-all">
+                        <button onClick={() => handleShare('whatsapp')} className="w-10 h-10 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-zinc-400 hover:bg-[#25D366] hover:text-white hover:border-[#25D366] transition-all">
                             <Share2 className="w-4 h-4" />
                         </button>
                     </div>
@@ -134,6 +199,30 @@ const BlogDetail: React.FC = () => {
 
                 {/* Article Body */}
                 <article className="lg:col-span-11 prose prose-invert prose-lg max-w-none">
+
+                    {/* Table of Contents */}
+                    {toc.length > 0 && (
+                        <div className="bg-zinc-900/50 border border-white/5 rounded-2xl p-6 mb-8 not-prose">
+                            <h3 className="text-lg font-bold text-white mb-4">İçindekiler</h3>
+                            <ul className="space-y-2">
+                                {toc.map((item) => (
+                                    <li key={item.id}>
+                                        <a
+                                            href={`#${item.id}`}
+                                            onClick={(e) => {
+                                                e.preventDefault();
+                                                document.getElementById(item.id)?.scrollIntoView({ behavior: 'smooth' });
+                                            }}
+                                            className="text-zinc-400 hover:text-blue-400 transition-colors text-sm block"
+                                        >
+                                            {item.text}
+                                        </a>
+                                    </li>
+                                ))}
+                            </ul>
+                        </div>
+                    )}
+
                     <p className="text-xl text-zinc-300 leading-relaxed mb-8 border-l-4 border-blue-500 pl-6 italic">
                         {post.excerpt}
                     </p>
@@ -141,7 +230,7 @@ const BlogDetail: React.FC = () => {
                     {/* Dynamic Content Rendering */}
                     <div
                         className="text-zinc-300 space-y-6 leading-relaxed"
-                        dangerouslySetInnerHTML={{ __html: post.content }}
+                        dangerouslySetInnerHTML={{ __html: processedContent }}
                     />
 
                     {/* Conditional Table Rendering */}
