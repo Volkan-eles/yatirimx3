@@ -21,6 +21,7 @@ const SermayeArtirimi = lazy(() => import('./pages/SermayeArtirimi'));
 const Blog = lazy(() => import('./pages/Blog'));
 const BlogDetail = lazy(() => import('./pages/BlogDetail'));
 const Watchlist = lazy(() => import('./pages/Watchlist'));
+const MarketHeatmapPage = lazy(() => import('./pages/MarketHeatmapPage'));
 
 // Legal and Corporate Pages - Lazy Loaded
 const Hakkimizda = lazy(() => import('./pages/Hakkimizda'));
@@ -66,6 +67,7 @@ function App() {
 
             {/* Watchlist route already defined at line 55 */}
             <Route path="/karsilastir" element={<ComparePage />} />
+            <Route path="/piyasa-haritasi" element={<MarketHeatmapPage />} />
             <Route path="*" element={<NotFound />} />
             <Route path="/halka-arz" element={<HalkaArz />} />
             <Route path="/halka-arz/:code" element={<HalkaArzDetail />} />

@@ -140,8 +140,12 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
     {
       title: 'Piyasalar',
       items: [
-        { name: 'Hisse Karşılaştır', path: '/karsilastir', icon: BarChart3 },
-        { name: 'Piyasa Haritası', path: '/', icon: PieChart },
+        {
+          name: 'Hisse Karşılaştır', path: '/karsilastir', icon: BarChart3
+        },
+        {
+          name: 'Piyasa Haritası', path: '/', icon: PieChart
+        },
       ]
     },
     {
