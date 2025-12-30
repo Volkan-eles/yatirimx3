@@ -46,78 +46,80 @@ const FAQItem = ({ question, answer }: { question: string, answer: string }) => 
     );
 };
 
-const formatPrice = (p: string | number) => {
-    if (!p) return 'Belirlenmedi';
-    if (typeof p === 'number') return `₺${p.toFixed(2)}`;
-    // If string and looks like number
-    const num = parseFloat(p);
-    if (!isNaN(num)) return `₺${num.toFixed(2)}`;
-    return p; // Return as is if string like "50-60 TL"
+const IPOCard: React.FC<{ ipo: IPOItem; isDraft?: boolean }> = ({ ipo, isDraft }) => {
+    const formatPrice = (p: string | number) => {
+        if (!p) return 'Belirlenmedi';
+        if (typeof p === 'number') return `₺${p.toFixed(2)}`;
+        // If string and looks like number
+        const num = parseFloat(p);
+        if (!isNaN(num)) return `₺${num.toFixed(2)}`;
+        return p; // Return as is if string like "50-60 TL"
+    };
+
+    return (
+        <div className={`glass-panel p-6 rounded-2xl relative overflow-hidden group transition-all duration-300 hover:border-blue-500/30 ${isDraft ? 'border-dashed' : ''}`}>
+            {!isDraft && ipo.status.includes('Yeni') && (
+                <div className="absolute top-0 right-0 bg-emerald-600 text-white text-[10px] font-bold px-3 py-1 rounded-bl-xl shadow-lg">
+                    TALEP TOPLANIYOR
+                </div>
+            )}
+
+            {isDraft && (
+                <div className="absolute top-0 right-0 bg-zinc-700 text-zinc-300 text-[10px] font-bold px-3 py-1 rounded-bl-xl">
+                    TASLAK AŞAMASINDA
+                </div>
+            )}
+
+            {!isDraft && ipo.status.includes('Tamamlandı') && (
+                <div className="absolute top-0 right-0 bg-blue-600/20 text-blue-400 text-[10px] font-bold px-3 py-1 rounded-bl-xl border-l border-b border-blue-500/20">
+                    TAMAMLANDI
+                </div>
+            )}
+
+            <div className="flex items-start gap-4 mb-6">
+                <div className={`w-14 h-14 rounded-xl flex items-center justify-center shrink-0 shadow-lg overflow-hidden ${isDraft ? 'bg-zinc-800 border border-white/5' : 'bg-white'}`}>
+                    {ipo.logo ? (
+                        <img src={ipo.logo} alt={ipo.code} className="w-full h-full object-contain p-1" />
+                    ) : (
+                        <span className={`${isDraft ? 'text-zinc-500' : 'text-black'} font-bold text-sm tracking-tighter`}>
+                            {ipo.code || ipo.company.substring(0, 2).toUpperCase()}
+                        </span>
+                    )}
+                </div>
+                <div className="flex-1 min-w-0">
+                    <h3 className="text-white font-bold text-lg leading-tight mb-1 truncate" title={ipo.company}>{ipo.company}</h3>
+                    <div className="text-zinc-500 text-sm flex items-center gap-2">
+                        {isDraft ? <Clock className="w-3 h-3" /> : <Calendar className="w-3 h-3" />}
+                        {ipo.dates || 'Tarih Bekleniyor'}
+                    </div>
+                </div>
+            </div>
+
+            <div className="grid grid-cols-2 gap-4 mb-6">
+                <div className="bg-zinc-900/60 p-3 rounded-lg border border-white/5">
+                    <div className="text-zinc-500 text-xs mb-1">Arz Fiyatı</div>
+                    <div className="text-white font-mono font-bold">
+                        {formatPrice(ipo.price)}
+                    </div>
+                </div>
+                <div className="bg-zinc-900/60 p-3 rounded-lg border border-white/5">
+                    <div className="text-zinc-500 text-xs mb-1">Dağıtım</div>
+                    <div className="text-white font-medium text-sm truncate" title={ipo.distributionType}>{ipo.distributionType || 'Belirtilmedi'}</div>
+                </div>
+            </div>
+
+            <div className="flex items-center justify-between text-xs text-zinc-500 border-t border-white/5 pt-4">
+                <div className="flex items-center gap-1.5">
+                    <BarChart className="w-3 h-3" />
+                    {ipo.lotCount || 'Lot Bilgisi Yok'}
+                </div>
+                <Link to={`/halka-arz/${slugify(`${ipo.company} Halka Arzı Hakkında Bilmen Gereken Her Şey 2026`)}/`} className="text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1 transition-colors">
+                    Detayları İncele <ArrowLeft className="w-3 h-3 rotate-180" />
+                </Link>
+            </div>
+        </div>
+    );
 };
-
-return (
-    <div className={`glass-panel p-6 rounded-2xl relative overflow-hidden group transition-all duration-300 hover:border-blue-500/30 ${isDraft ? 'border-dashed' : ''}`}>
-        {!isDraft && ipo.status.includes('Yeni') && (
-            <div className="absolute top-0 right-0 bg-emerald-600 text-white text-[10px] font-bold px-3 py-1 rounded-bl-xl shadow-lg">
-                TALEP TOPLANIYOR
-            </div>
-        )}
-
-        {isDraft && (
-            <div className="absolute top-0 right-0 bg-zinc-700 text-zinc-300 text-[10px] font-bold px-3 py-1 rounded-bl-xl">
-                TASLAK AŞAMASINDA
-            </div>
-        )}
-
-        {!isDraft && ipo.status.includes('Tamamlandı') && (
-            <div className="absolute top-0 right-0 bg-blue-600/20 text-blue-400 text-[10px] font-bold px-3 py-1 rounded-bl-xl border-l border-b border-blue-500/20">
-                TAMAMLANDI
-            </div>
-        )}
-
-        <div className="flex items-start gap-4 mb-6">
-            <div className={`w-14 h-14 rounded-xl flex items-center justify-center shrink-0 shadow-lg overflow-hidden ${isDraft ? 'bg-zinc-800 border border-white/5' : 'bg-white'}`}>
-                {ipo.logo ? (
-                    <img src={ipo.logo} alt={ipo.code} className="w-full h-full object-contain p-1" />
-                ) : (
-                    <span className={`${isDraft ? 'text-zinc-500' : 'text-black'} font-bold text-sm tracking-tighter`}>
-                        {ipo.code || ipo.company.substring(0, 2).toUpperCase()}
-                    </span>
-                )}
-            </div>
-            <div className="flex-1 min-w-0">
-                <h3 className="text-white font-bold text-lg leading-tight mb-1 truncate" title={ipo.company}>{ipo.company}</h3>
-                <div className="text-zinc-500 text-sm flex items-center gap-2">
-                    {isDraft ? <Clock className="w-3 h-3" /> : <Calendar className="w-3 h-3" />}
-                    {ipo.dates || 'Tarih Bekleniyor'}
-                </div>
-            </div>
-        </div>
-
-        <div className="grid grid-cols-2 gap-4 mb-6">
-            <div className="bg-zinc-900/60 p-3 rounded-lg border border-white/5">
-                <div className="text-zinc-500 text-xs mb-1">Arz Fiyatı</div>
-                <div className="text-white font-mono font-bold">
-                    {formatPrice(ipo.price)}
-                </div>
-            </div>
-            <div className="bg-zinc-900/60 p-3 rounded-lg border border-white/5">
-                <div className="text-zinc-500 text-xs mb-1">Dağıtım</div>
-                <div className="text-white font-medium text-sm truncate" title={ipo.distributionType}>{ipo.distributionType || 'Belirtilmedi'}</div>
-            </div>
-        </div>
-
-        <div className="flex items-center justify-between text-xs text-zinc-500 border-t border-white/5 pt-4">
-            <div className="flex items-center gap-1.5">
-                <BarChart className="w-3 h-3" />
-                {ipo.lotCount || 'Lot Bilgisi Yok'}
-            </div>
-            <Link to={`/halka-arz/${slugify(`${ipo.company} Halka Arzı Hakkında Bilmen Gereken Her Şey 2026`)}/`} className="text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1 transition-colors">
-                Detayları İncele <ArrowLeft className="w-3 h-3 rotate-180" />
-            </Link>
-        </div>
-    </div>
-);
 
 const HalkaArz: React.FC = () => {
     const [activeTab, setActiveTab] = useState<'Halka Arzlar' | 'Taslak Arzlar'>('Halka Arzlar');
