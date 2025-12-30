@@ -109,7 +109,7 @@ const IPOCard: React.FC<{ ipo: IPOItem; isDraft?: boolean }> = ({ ipo, isDraft }
 );
 
 const HalkaArz: React.FC = () => {
-    const [activeTab, setActiveTab] = useState<'Halka Arzlar' | 'Geçmiş Arzlar'>('Halka Arzlar');
+    const [activeTab, setActiveTab] = useState<'Halka Arzlar' | 'Taslak Arzlar'>('Halka Arzlar');
     const [ipos, setIpos] = useState<IPOItem[]>([]);
     const [draftIpos, setDraftIpos] = useState<IPOItem[]>([]);
     const [loading, setLoading] = useState(true);
@@ -218,17 +218,17 @@ const HalkaArz: React.FC = () => {
                         Halka Arzlar
                     </button>
                     <button
-                        onClick={() => setActiveTab('Geçmiş Arzlar')}
-                        className={`relative z-10 px-10 py-3.5 rounded-xl text-sm font-bold transition-all duration-300 flex items-center gap-2 ${activeTab === 'Geçmiş Arzlar' ? 'text-white' : 'text-zinc-500 hover:text-zinc-300'
+                        onClick={() => setActiveTab('Taslak Arzlar')}
+                        className={`relative z-10 px-10 py-3.5 rounded-xl text-sm font-bold transition-all duration-300 flex items-center gap-2 ${activeTab === 'Taslak Arzlar' ? 'text-white' : 'text-zinc-500 hover:text-zinc-300'
                             }`}
                     >
-                        <Clock className={`w-4 h-4 transition-transform duration-500 ${activeTab === 'Geçmiş Arzlar' ? 'scale-100' : 'scale-0'}`} />
-                        Geçmiş Arzlar
+                        <Clock className={`w-4 h-4 transition-transform duration-500 ${activeTab === 'Taslak Arzlar' ? 'scale-100' : 'scale-0'}`} />
+                        Taslak Arzlar
                     </button>
 
                     {/* Animated Slider Background */}
                     <div
-                        className={`absolute top-1.5 bottom-1.5 w-[calc(50%-6px)] bg-zinc-800 rounded-xl border border-white/5 shadow-lg transition-transform duration-500 cubic-bezier(0.16, 1, 0.3, 1) ${activeTab === 'Geçmiş Arzlar' ? 'translate-x-[calc(100%+6px)]' : 'translate-x-0'
+                        className={`absolute top-1.5 bottom-1.5 w-[calc(50%-6px)] bg-zinc-800 rounded-xl border border-white/5 shadow-lg transition-transform duration-500 cubic-bezier(0.16, 1, 0.3, 1) ${activeTab === 'Taslak Arzlar' ? 'translate-x-[calc(100%+6px)]' : 'translate-x-0'
                             }`}
                     />
                 </div>
