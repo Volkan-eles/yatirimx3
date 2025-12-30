@@ -4,6 +4,7 @@ import { Search, PieChart, Loader2, Info, BookOpen, ChevronRight, Calculator } f
 import { slugify } from '../utils/slugify';
 import SEO from '../components/SEO';
 import FAQItem from '../components/FAQItem';
+import { fixTurkishChars } from '../utils/fixEncoding';
 import DividendCalculator from '../components/DividendCalculator';
 import DividendFilters, { FilterState } from '../components/DividendFilters';
 import DividendViewSwitcher from '../components/DividendViewSwitcher';
@@ -201,7 +202,7 @@ const Temettu: React.FC = () => {
                                                 {div.t_bistkod}
                                              </div>
                                              <div>
-                                                <div className="text-white font-bold group-hover/link:text-purple-400 transition-colors">{div.t_sirket}</div>
+                                                <div className="text-white font-bold group-hover/link:text-purple-400 transition-colors">{fixTurkishChars(div.t_sirket)}</div>
                                              </div>
                                           </Link>
                                        </td>

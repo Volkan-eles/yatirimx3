@@ -3,6 +3,7 @@ import { Search, Filter, TrendingUp, ChevronDown, Download, ArrowRight, Info, Bo
 import { Link } from 'react-router-dom';
 import FAQItem from '../components/FAQItem';
 import { slugify } from '../utils/slugify';
+import { fixTurkishChars } from '../utils/fixEncoding';
 
 // Halkarz data structure
 interface HalkarzTargetPrice {
@@ -54,7 +55,7 @@ const TargetCard: React.FC<{ item: StockTargetData }> = ({ item }) => {
                     </div>
                     <div>
                         <h3 className="font-bold text-white text-lg group-hover:text-blue-400 transition-colors">
-                            {item.stockName} ({item.stockCode}) Hedef Fiyat 2026
+                            {fixTurkishChars(item.stockName)} ({item.stockCode}) Hedef Fiyat 2026
                         </h3>
                         <p className="text-zinc-500 text-xs">{totalReports} Analist Raporu</p>
                     </div>
