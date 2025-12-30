@@ -29,18 +29,7 @@ try {
     Write-Host "  ✗ Hata: $($_.Exception.Message)"
 }
 
-# 3. Halka Arz (Piapiri)
-Write-Host "`n[3/3] Halka arz verileri güncelleniyor (Piapiri)..."
-try {
-    python scripts\fetch_piapiri_ipos.py
-    if ($LASTEXITCODE -eq 0) {
-        Write-Host "  ✓ Halka arz verileri güncellendi"
-    } else {
-        Write-Host "  ⚠ Python script tamamlandı ama çıkış kodu: $LASTEXITCODE"
-    }
-} catch {
-    Write-Host "  ✗ Hata: $($_.Exception.Message)"
-}
+
 
 Write-Host "`n" + "="*60
 Write-Host "Güncelleme tamamlandı!"
