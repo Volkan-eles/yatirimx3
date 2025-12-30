@@ -70,9 +70,9 @@ const HalkaArzDetail: React.FC = () => {
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-500 space-y-8 max-w-5xl mx-auto">
             {ipo && (
                 <SEO
-                    title={`${ipo.company} Halka Arzı Hakkında Bilmen Gereken Her Şey! – 2026`}
-                    description={`${ipo.company} (${ipo.code || 'KOD_YOK'}) halka arz fiyatı ${ipo.price > 0 ? ipo.price + ' TL' : 'belirlenmedi'}, halka arz tarihi ${ipo.dates} ve detaylı şirket analizi. Katılım endeksine uygun mu, dağıtım şekli ve yorumlar.`}
-                    canonicalUrl={`https://yatirimx.com/halka-arz/${slugify(`${ipo.company} Halka Arzı Hakkında Bilmen Gereken Her Şey 2026`)}/`}
+                    title={`${ipo.company} Halka Arzı Hakkında Bilmeniz Gerekenler – 2026`}
+                    description={`${ipo.company} (${ipo.code || 'KOD_YOK'}) halka arz fiyatı ${ipo.price > 0 ? ipo.price + ' TL' : 'belirlenmedi'}, halka arz tarihi ${ipo.dates} ve detaylı şirket analizi. Katılım endeksine uygunluk, dağıtım şekli ve uzman yorumları.`}
+                    canonicalUrl={`https://yatirimx.com/halka-arz/${slugify(`${ipo.company} Halka Arzı Hakkında Bilmeniz Gerekenler 2026`)}/`}
                     keywords={`${ipo.code || ''}, ${ipo.company}, ${ipo.company} halka arz, ${ipo.company} yorum, ${ipo.company} ne zaman işlem görecek, halka arz takvimi`}
                 />
             )}
@@ -218,9 +218,9 @@ const HalkaArzDetail: React.FC = () => {
             {/* Content / FAQ Section */}
             <div className="glass-panel p-6 md:p-8 rounded-2xl border border-white/5 space-y-8">
                 <div>
-                    <h2 className="text-2xl font-bold text-white mb-2">{ipo.company} ({ipo.code || '?'}) halka arzı hakkında bilmen gereken her şey! – 2025</h2>
+                    <h2 className="text-2xl font-bold text-white mb-2">{ipo.company} ({ipo.code || '?'}) Halka Arzı Hakkında Bilmeniz Gerekenler – 2026</h2>
                     <p className="text-zinc-400 text-sm leading-relaxed">
-                        {ipo.company} halka arzı Sermaye Piyasası Kurulu (SPK) tarafından onaylandı. {ipo.code} halka arz özelliklerini, şirketi, yatırımlarını ve detaylarını inceleyeceğiz.
+                        {ipo.company} halka arzı Sermaye Piyasası Kurulu (SPK) tarafından onaylanmıştır. {ipo.code} halka arz özelliklerini, şirketi, yatırımlarını ve diğer detayları aşağıda inceleyebilirsiniz.
                     </p>
                 </div>
 

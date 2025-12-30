@@ -20,6 +20,8 @@ const TemettuDetail: React.FC = () => {
     const { code } = useParams<{ code: string }>();
     const [dividend, setDividend] = useState<Dividend | null>(null);
     const [loading, setLoading] = useState(true);
+    const [amortizationYears, setAmortizationYears] = useState<string>('--');
+    const [userCost, setUserCost] = useState<string>('');
 
     useEffect(() => {
         const fetchDividend = async () => {
@@ -142,14 +144,18 @@ const TemettuDetail: React.FC = () => {
                                 <input
                                     type="number"
                                     placeholder="Örn: 100"
+                                    value={userCost}
                                     className="w-full bg-zinc-900/50 border border-white/10 rounded-xl py-2 pl-8 pr-4 text-white focus:outline-none focus:ring-2 focus:ring-indigo-500/20"
                                     onChange={(e) => {
-                                        const cost = parseFloat(e.target.value);
+                                        const val = e.target.value;
+                                        setUserCost(val);
+                                        const cost = parseFloat(val);
                                         const profit = parseFloat(dividend.t_temt_net.replace(',', '.'));
-                                        if (cost && profit) {
+                                        if (cost && profit && profit > 0) {
                                             const years = cost / profit;
-                                            const element = document.getElementById('amortization-result');
-                                            if (element) element.innerText = `${years.toFixed(1)} Yıl`;
+                                            setAmortizationYears(`${years.toFixed(1)} Yıl`);
+                                        } else {
+                                            setAmortizationYears('-- Yıl');
                                         }
                                     }}
                                 />
@@ -157,7 +163,7 @@ const TemettuDetail: React.FC = () => {
                         </div>
                         <div className="p-4 bg-indigo-500/10 rounded-xl border border-indigo-500/20 flex flex-col items-center justify-center text-center">
                             <span className="text-zinc-400 text-xs mb-1">Tahmini Amorti Süresi</span>
-                            <span id="amortization-result" className="text-3xl font-bold text-indigo-400">-- Yıl</span>
+                            <span className="text-3xl font-bold text-indigo-400">{amortizationYears}</span>
                             <span className="text-[10px] text-zinc-500 mt-2">*Sadece temettü geliri ile</span>
                         </div>
                     </div>

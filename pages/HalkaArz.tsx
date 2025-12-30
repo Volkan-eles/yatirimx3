@@ -275,7 +275,7 @@ const HalkaArz: React.FC = () => {
                             <strong className="text-white">Halka arz</strong>, şirketlerin kaynak ihtiyaçlarını karşılamak, büyümek veya kurumsallaşmak amacıyla hisselerini Borsa İstanbul'da işlem görmek üzere yatırımcılara açması sürecidir.
                         </p>
                         <p>
-                            Bu süreçte şirketler, sahip oldukları payları belirli bir fiyat veya fiyat aralığından halka satışa sunarlar. Yatırımcılar, ilan edilen <strong>talep toplama tarihlerinde</strong> aracı kurumlar veya bankalar üzerinden (örneğin Fibabanka Mobil Borsa Market) ilgili hisseye alım emri girerek halka arza katılabilirler.
+                            Bu süreçte şirketler, sahip oldukları payları belirli bir fiyat veya fiyat aralığından halka satışa sunarlar. Yatırımcılar, ilan edilen <strong>talep toplama tarihlerinde</strong> aracı kurumlar veya bankalar üzerinden ilgili hisseye alım emri girerek halka arza katılabilirler.
                         </p>
                         <p>
                             Halka arz sūreci, yatırımcılar için potansiyel değeri yüksek şirketlere erken aşamada ortak olma fırsatı sunarken, şirketler için de faizsiz finansman kaynağına erişim sağlar.
