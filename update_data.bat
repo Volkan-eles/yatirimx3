@@ -16,8 +16,8 @@ if %ERRORLEVEL% EQU 0 (
 )
 
 echo.
-echo [2/3] Halka arz verileri guncelleniyor...
-node scripts/fetch_halkarz_html.js
+echo [2/3] Halka arz verileri guncelleniyor (Python)...
+python scripts/fetch_halkarz_ipo.py
 if %ERRORLEVEL% EQU 0 (
     echo   ✓ Halka arz verileri guncellendi
 ) else (
