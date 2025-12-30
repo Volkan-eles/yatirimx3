@@ -16,8 +16,8 @@ if %ERRORLEVEL% EQU 0 (
 )
 
 echo.
-echo [2/3] Halka arz verileri guncelleniyor...
-powershell -ExecutionPolicy Bypass -File "scripts\fetch_ip_ps.ps1"
+echo [2/4] Halka arz verileri çekiliyor...
+node scripts/fetch_halkarz_html.js
 if %ERRORLEVEL% EQU 0 (
     echo   ✓ Halka arz verileri guncellendi
 ) else (

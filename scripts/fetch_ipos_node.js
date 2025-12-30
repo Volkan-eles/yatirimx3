@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import axios from 'axios';
 
 async function fetchIPOs() {
     const url = 'https://halkarz.com/api/halka-arz';
@@ -7,59 +8,58 @@ async function fetchIPOs() {
 
     try {
         console.log(`Fetching from: ${url}`);
-        const response = await fetch(url, {
+        const response = await axios.get(url, {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-            }
+            },
+            timeout: 10000
         });
 
-        if (!response.ok) {
-            throw new Error(`HTTP ${response.status}`);
-        }
-
-        const data = await response.json();
+        const data = response.data;
         console.log('Data fetched successfully');
+        console.log('Data keys:', Object.keys(data));
 
         // Normalize data structure
         let cleanData = data;
         if (data.value) cleanData = data.value;
         else if (data.Content) cleanData = data.Content;
 
-        // Map to our expected format
-        // halkarz.com usually returns a list of IPO objects
-        // We need { active_ipos: [], draft_ipos: [] }
+        let activeIPOs = [];
+        let draftIPOs = []; // API might not afford this, but let's check structure
 
-        // Let's assume the fetched list are "active" IPOs by default
-        // But the user wanted some mapping logic changes.
-        // "First IPOs from halkaarz.com -> my site Halka arz" (Active)
-        // "Taslak arzlari -> Taslak arzlar" (Draft) - Does the API afford this?
-        // Let's dump whatever we get into active_ipos first, and if appropriate, draft.
+        if (Array.isArray(cleanData)) {
+            // Assume these are the 'active' ones
+            activeIPOs = cleanData;
+        } else if (cleanData && typeof cleanData === 'object') {
+            // Maybe it has keys like 'active', 'draft'?
+            // Let's inspect active fields
+            if (cleanData.active_ipos) activeIPOs = cleanData.active_ipos;
+            if (cleanData.draft_ipos) draftIPOs = cleanData.draft_ipos;
+        }
 
-        // If cleanData is an array, it's likely the list of IPOs
-        const ipos = Array.isArray(cleanData) ? cleanData : (cleanData.active_ipos || []);
+        // Use user logic:
+        // "halkaarz.com da ilk halka arzları benim sitemde Halka arz" -> Active goes to Active
+        // "taslak arzları da taslak arzlara çek" -> Draft goes to Draft
 
-        // Fix encoding for fields if needed (Node.js fetch text() handling is usually good with UTF-8, 
-        // but we apply our utility fix just in case if we were processing text, 
-        // but here we parsed JSON directly. The JSON parser should handle UTF-8 correctly 
-        // IF the response headers were correct. If not, might need manual text fix.)
+        // If the API only gives one list, maybe we populate *both* or just Active?
+        // Let's populate Active with what we got.
+        // If API has draft_ipos, populate Draft.
+
+        // IMPORTANT: The user said "taslak arzları da taslak arzlara çek".
+        // This implies `halkarz.com` has drafts.
+        // If `cleanData` is just an array, we might not have drafts.
 
         const finalOutput = {
-            active_ipos: ipos,
-            draft_ipos: [] // halkaarz.com API might not give drafts easily in the same endpoint
+            active_ipos: activeIPOs,
+            draft_ipos: draftIPOs
         };
 
-        // Manually fix known encoding issues in specific fields if strictly necessary, 
-        // but let's trust Node.js JSON parse first.
-
         fs.writeFileSync(path.resolve(outputPath), JSON.stringify(finalOutput, null, 2), 'utf-8');
-        console.log(`✓ Saved ${ipos.length} IPOs to ${outputPath}`);
+        console.log(`✓ Saved ${activeIPOs.length} Active and ${draftIPOs.length} Draft IPOs to ${outputPath}`);
+        console.log('Sample Active:', activeIPOs[0] ? activeIPOs[0].company : 'None');
 
     } catch (err) {
-        console.error('Error fetching IPOs:', err);
-        // Don't overwrite with empty if failed, unless file doesn't exist
-        if (!fs.existsSync(outputPath)) {
-            fs.writeFileSync(path.resolve(outputPath), JSON.stringify({ active_ipos: [], draft_ipos: [] }, null, 2), 'utf-8');
-        }
+        console.error('Error fetching IPOs:', err.message);
     }
 }
 
