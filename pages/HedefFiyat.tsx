@@ -98,7 +98,7 @@ const TargetCard: React.FC<{ item: StockTargetData }> = ({ item }) => {
             </div>
 
             <div className="text-xs text-zinc-500 mb-3 relative z-10">
-                Son Rapor: <span className="text-zinc-400">{latestReport.analist}</span> • {latestReport.tarih}
+                Son Rapor: <span className="text-zinc-400">{fixTurkishChars(latestReport.analist)}</span> • {latestReport.tarih}
             </div>
 
             <Link to={`/hedef-fiyat/${slugify(`${item.stockCode} Hedef Fiyat 2026`)}/`} className="w-full py-2.5 rounded-lg bg-white/5 group-hover:bg-blue-600 group-hover:text-white text-sm font-medium text-zinc-300 transition-all border border-white/5 flex items-center justify-center gap-2 relative z-10">
