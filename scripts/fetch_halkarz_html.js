@@ -20,17 +20,17 @@ async function fetchDetails(link) {
 
         // Create regex for common patterns
         // "Fiyat: 50,00 TL" or "Halka Arz Fiyatı: 50 TL"
-        const priceRegex = /(?:Halka Arz Fiyatı|Fiyat)\s*[:]?\s*([\d,.]+)\s*TL/i;
+        const priceRegex = /(?:Halka Arz Fiyatı|Fiyat).*?([\d,.]+)\s*TL/i;
         const codeRegex = /\(([A-Z]{3,5})\)/;
-        const dateRegex = /(?:Tarih|Talep Toplama)\s*[:]?\s*(\d{1,2}.*?\d{4})/;
-        // Draft specific regex
-        const draftDateRegex = /(?:Tahmini Halka Arz Takvimi)\s*[:]?\s*(.*?)(?:\n|$)/i;
-        const lotRegex = /(?:Sermaye Artırımı|Ortak Satışı)\s*[:]?\s*([\d.]+\s*Lot)/i;
+        const dateRegex = /(?:Tarih|Talep Toplama).*?(\d{1,2}.*?\d{4})/i;
+        // Draft specific regex: Look for year "202x" for date, and "Lot" for count
+        const draftDateRegex = /(?:Takvimi).*?(\d{4}.*?)(?:\n|$|[*])/i;
+        const lotRegex = /(?:Sermaye Artırımı|Ortak Satışı).*?([\d.,]+\s*Lot)/i;
 
         // Find main content container to avoid sidebar noise
         const content = $('.entry-content, .post-content, article').first();
         if (content.length) {
-            const text = content.text();
+            const text = content.text().replace(/\s+/g, ' '); // Normalize whitespace to single spaces!
 
             // Extract Code
             const title = $('h1').first().text();
@@ -41,23 +41,23 @@ async function fetchDetails(link) {
             const priceMatch = text.match(priceRegex);
             if (priceMatch) price = priceMatch[1];
 
-            // Extract Date (Try standard, then draft)
+            // Extract Date
             const dateMatch = text.match(dateRegex);
             if (dateMatch) dates = dateMatch[1];
             else {
                 const draftDateMatch = text.match(draftDateRegex);
-                if (draftDateMatch) dates = draftDateMatch[1].trim(); // e.g. "2025 yılı içerisinde..."
+                if (draftDateMatch) dates = draftDateMatch[1].trim();
             }
 
-            // Extract Distribution (simple search)
+            // Extract Distribution
             if (text.includes('Eşit Dağıtım')) distributionType = 'Eşit Dağıtım';
             else if (text.includes('Oransal Dağıtım')) distributionType = 'Oransal Dağıtım';
 
-            // Extract Lot (searching for "Lot" pattern)
+            // Extract Lot
             const lotMatch = text.match(lotRegex);
             if (lotMatch) lotCount = lotMatch[1];
         } else {
-            // Fallback to list search if content block not found
+            // Fallback
             $('li').each((i, el) => {
                 const text = $(el).text();
                 if (text.match(priceRegex)) price = text.match(priceRegex)[1];
@@ -67,38 +67,36 @@ async function fetchDetails(link) {
 
         return { code, price, dates, distributionType, lotCount };
     } catch (e) {
-        console.error(`Error details for ${link}: ${e.message}`);
+        console.error(`Error details for ${link}:`, e.message);
         return {};
     }
 }
 
 async function fetchIPOs() {
     const outputPath = 'public/halkarz_ipos.json';
-    const activeIPOs = [];
-    const draftIPOs = [];
 
     try {
-        // 1. Fetch Active IPOs from Main Page (limited to top 6 to save time/bandwidth)
-        console.log(`Fetching Main Page...`);
-        const mainRes = await axios.get('https://halkarz.com/', {
+        console.log("Fetching Main Page...");
+        const response = await axios.get('https://halkarz.com/', {
             headers: { 'User-Agent': 'Mozilla/5.0' }
         });
-        const $main = cheerio.load(mainRes.data);
+        const $ = cheerio.load(response.data);
 
-        // Select potential IPO posts (adjust selector based on site)
-        // Usually recent posts on home page
-        const seenLinks = new Set();
+        const activeIPOs = [];
+        const draftIPOs = [];
+
+        // 1. Parse Active IPOs from the main slider/list
         const activeLinks = [];
+        $('.post-item, article').each((i, el) => {
+            const status = $(el).find('.status-label, .tag').text();
+            // This scraping logic mimics the user's previous successful one but now we go DEEPER
+            const title = $(el).find('h2, h3').text().trim();
+            const link = $(el).find('a').attr('href');
 
-        $main('article, .post-item').each((i, el) => {
-            const link = $main(el).find('a').attr('href');
-            const title = $main(el).find('h2, h3').text().trim();
-
-            if (link && link.includes('halkarz.com') && !seenLinks.has(link)) {
-                if (title.includes('A.Ş.') || title.includes('Holding')) {
-                    seenLinks.add(link);
-                    activeLinks.push({ title, link });
-                }
+            // Heuristic for "Active": usually on home page or specific status
+            // For now, let's grab the first few items as "Active" if they aren't "Taslak"
+            if (title && link && !title.includes('Taslak')) {
+                activeLinks.push({ title, link });
             }
         });
 
@@ -116,7 +114,6 @@ async function fetchIPOs() {
                 distributionType: details.distributionType || 'Bilinmiyor',
                 lotCount: details.lotCount || 'Belirtilmedi'
             });
-            // Be nice to server
             await new Promise(r => setTimeout(r, 500));
         }
 
@@ -139,7 +136,7 @@ async function fetchIPOs() {
 
         console.log(`Found ${draftLinks.length} Draft IPOs. Processing top 20...`);
 
-        // Fetch details for top 20 drafts to ensure data isn't empty
+        // Fetch details for top 20 drafts
         for (const item of draftLinks.slice(0, 20)) {
             const details = await fetchDetails(item.link);
             draftIPOs.push({
