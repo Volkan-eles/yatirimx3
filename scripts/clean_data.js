@@ -188,4 +188,3 @@ files.forEach(file => {
         console.error(`Error processing ${file}:`, err.message);
     }
 });
-```
