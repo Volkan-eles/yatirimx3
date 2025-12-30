@@ -11,6 +11,10 @@ HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
 }
 
+def clean_text(text):
+    if not text: return ""
+    return ' '.join(text.split())
+
 def fetch_details(link):
     try:
         response = requests.get(link, headers=HEADERS, timeout=10)
@@ -23,14 +27,19 @@ def fetch_details(link):
             return {}
         
         # Normalize whitespace
-        text = ' '.join(content.get_text(separator=' ').split())
+        text = clean_text(content.get_text())
         title = soup.find('h1').get_text(strip=True) if soup.find('h1') else ''
 
         # Regex Patterns
+        # Code: (ABCD)
         code_regex = r'\(([A-Z]{3,5})\)'
+        # Price: "Fiyat: 10,50 TL"
         price_regex = r'(?:Halka Arz Fiyatı|Fiyat).*?([\d,.]+)\s*TL'
+        # Date: "Tarih: 10-11 Ocak" or "Talep Toplama: ..."
         date_regex = r'(?:Tarih|Talep Toplama).*?(\d{1,2}.*?\d{4})'
+        # Draft Date: "Tahmini Halka Arz Takvimi: 2025..."
         draft_date_regex = r'(?:Takvimi).*?(\d{4}.*?)(?:\n|$|[*])'
+        # Lot: "Sermaye Artırımı: 5.000.000 Lot"
         lot_regex = r'(?:Sermaye Artırımı|Ortak Satışı).*?([\d.,]+\s*Lot)'
 
         # Extraction
@@ -49,6 +58,7 @@ def fetch_details(link):
         if match:
             dates = match.group(1)
         else:
+            # Try draft date fallback
             match = re.search(draft_date_regex, text, re.IGNORECASE)
             if match:
                 dates = match.group(1).strip()
@@ -121,7 +131,9 @@ def fetch_ipos():
 
         # 2. Draft IPOs
         print("Fetching Draft Page (halkarz.com/k/taslak/)...")
-        response = requests.get('https://halkarz.com/k/taslak/', headers=HEADERS)
+        response = requests.get('https://halkarz.com/k/taslak/', {
+            headers: { 'User-Agent': 'Mozilla/5.0' }
+        })
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
 
