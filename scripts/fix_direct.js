@@ -1,4 +1,4 @@
-const fs = require('fs');
+import fs from 'fs';
 
 // Read and fix data files directly
 const files = ['public/halkarz_target_prices.json', 'public/temettu.json'];
