@@ -3,129 +3,149 @@ import path from 'path';
 import axios from 'axios';
 import * as cheerio from 'cheerio';
 
-async function fetchIPOs() {
-    const url = 'https://halkarz.com/';
-    const outputPath = 'public/halkarz_ipos.json';
-
+async function fetchDetails(link) {
     try {
-        console.log(`Fetching HTML from: ${url}`);
-        const response = await axios.get(url, {
-            headers: {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-            },
-            timeout: 10000
+        const response = await axios.get(link, {
+            headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0' },
+            timeout: 5000
         });
+        const $ = cheerio.load(response.data);
 
-        const html = response.data;
-        const $ = cheerio.load(html);
-        console.log('HTML fetched and parsed.');
+        // Extract Details
+        let code = '';
+        let price = '';
+        let dates = '';
+        let distributionType = '';
+        let lotCount = '';
 
-        const activeIPOs = [];
-        const draftIPOs = [];
+        // Create regex for common patterns
+        // "Fiyat: 50,00 TL" or "Halka Arz Fiyatı: 50 TL"
+        const priceRegex = /(?:Halka Arz Fiyatı|Fiyat)\s*[:]?\s*([\d,.]+)\s*TL/i;
+        const codeRegex = /\(([A-Z]{3,5})\)/;
+        const dateRegex = /(?:Tarih|Talep Toplama)\s*[:]?\s*(\d{1,2}.*?\d{4})/;
 
-        // Halka Arzlar usually in a specific container. 
-        // Based on typical Wordpress/site structures, looking for lists or grid items.
-        // The text showed "İlk Halka Arzlar" and "Taslak Arzlar".
-        // Let's try to find headers and their following lists.
+        // Find main content container to avoid sidebar noise
+        const content = $('.entry-content, .post-content, article').first();
+        if (content.length) {
+            const text = content.text();
 
-        // Strategy: specific known IPOs from the chunk to identify selectors.
-        // "Menkul Değerler" often appears in draft list.
-        // "Meysu Gıda" appears in active?
+            // Extract Code
+            const title = $('h1').first().text();
+            const codeMatch = title.match(codeRegex);
+            if (codeMatch) code = codeMatch[1];
 
-        /* 
-           Structure Analysis (Hypothetical but common):
-           The site likely has tabs or sections.
-           We'll look for any anchor containing "halkarz.com/" that looks like an IPO page.
-        */
+            // Extract Price
+            const priceMatch = text.match(priceRegex);
+            if (priceMatch) price = priceMatch[1];
 
-        // Try to identify "Yeni Halka Arzlar" section (Active)
-        // Often these are in a widget or main list.
-        // Let's grab ALL links that look like IPOs and try to categorize them if possible,
-        // or just grab the first N as active if we can't distinguish.
+            // Extract Date
+            const dateMatch = text.match(dateRegex);
+            if (dateMatch) dates = dateMatch[1];
 
-        // BUT, the user specifically mentioned "Taslak Arzlar" (Drafts).
-        // Let's guess the structure based on "Taslak Arzlar" text.
+            // Extract Distribution (simple search)
+            if (text.includes('Eşit Dağıtım')) distributionType = 'Eşit Dağıtım';
+            else if (text.includes('Oransal Dağıtım')) distributionType = 'Oransal Dağıtım';
 
-        // Finding "Taslak Arzlar" header
-        let draftHeader = $('h3:contains("Taslak Arzlar"), h2:contains("Taslak Arzlar"), h4:contains("Taslak Arzlar"), strong:contains("Taslak Arzlar")').first();
-
-        // If header found, look for list items nearby
-        if (draftHeader.length) {
-            console.log('Found Draft IPOs header');
-            // Traverse to next list
-            let draftContainer = draftHeader.closest('div').find('ul').first();
-            if (!draftContainer.length) {
-                draftContainer = draftHeader.nextAll('ul').first();
-            }
-
-            if (draftContainer.length) {
-                draftContainer.find('li').each((i, el) => {
-                    const link = $(el).find('a');
-                    if (link.length) {
-                        const title = link.text().trim();
-                        const href = link.attr('href');
-                        if (title && href) {
-                            draftIPOs.push({
-                                company: title,
-                                link: href,
-                                status: 'Taslak',
-                                code: ''
-                            });
-                        }
-                    }
-                });
-            }
+            // Extract Lot (searching for "Lot" pattern)
+            const lotMatch = text.match(/([\d.]+\s*Lot)/i);
+            if (lotMatch) lotCount = lotMatch[1];
+        } else {
+            // Fallback to list search if content block not found
+            $('li').each((i, el) => {
+                const text = $(el).text();
+                if (text.match(priceRegex)) price = text.match(priceRegex)[1];
+                if (text.match(dateRegex)) dates = text.match(dateRegex)[1];
+            });
         }
 
-        // If we can't pinpoint draft section easily, we might resort to parsing all links and filtering.
-        // But let's try a more generic approach for "Active":
-        // Usually the "Home" page lists active/new ones prominently.
+        return { code, price, dates, distributionType, lotCount };
+    } catch (e) {
+        console.error(`Error details for ${link}: ${e.message}`);
+        return {};
+    }
+}
 
-        // Let's look for article tags or specific classes for posts
-        $('.post-item, article').each((i, el) => {
-            // This might catch blog posts too, but improved filtering needed.
-            const titleEl = $(el).find('h2, h3, .title');
-            const linkEl = $(el).find('a').first();
-            const statusEl = $(el).find('.cat-links, .status'); // Hyp.
+async function fetchIPOs() {
+    const outputPath = 'public/halkarz_ipos.json';
+    const activeIPOs = [];
+    const draftIPOs = [];
 
-            const title = titleEl.text().trim() || linkEl.text().trim();
-            const href = linkEl.attr('href');
+    try {
+        // 1. Fetch Active IPOs from Main Page (limited to top 6 to save time/bandwidth)
+        console.log(`Fetching Main Page...`);
+        const mainRes = await axios.get('https://halkarz.com/', {
+            headers: { 'User-Agent': 'Mozilla/5.0' }
+        });
+        const $main = cheerio.load(mainRes.data);
 
-            // Heuristic: specific keywords in IPO titles often contain "A.Ş." or "Halka Arz"
-            if (href && href.includes('halkarz.com') && (title.includes('A.Ş.') || title.includes('Sanayi') || title.includes('Holding'))) {
+        // Select potential IPO posts (adjust selector based on site)
+        // Usually recent posts on home page
+        const seenLinks = new Set();
+        const activeLinks = [];
 
-                // Avoid duplicates if already in draft
-                if (draftIPOs.some(d => d.link === href)) return;
+        $main('article, .post-item').each((i, el) => {
+            const link = $main(el).find('a').attr('href');
+            const title = $main(el).find('h2, h3').text().trim();
 
-                // Add to active (limit to top 10 recent)
-                if (activeIPOs.length < 15) {
-                    activeIPOs.push({
-                        company: title,
-                        link: href,
-                        status: 'Aktif/Yeni', // hard to distinguish without more parsing
-                        code: ''
-                    });
+            if (link && link.includes('halkarz.com') && !seenLinks.has(link)) {
+                if (title.includes('A.Ş.') || title.includes('Holding')) {
+                    seenLinks.add(link);
+                    activeLinks.push({ title, link });
                 }
             }
         });
 
-        // Fallback: If "Draft" header approach failed, try to find the "Taslak Arzlar" 195 link
-        // The chunk said "İlk Halka Arzlar / Taslak Arzlar 195". Maybe it's a menu item?
-        // If we can't find drafts, we'll leave it empty or map some 'active' ones there if requested.
+        console.log(`Found ${activeLinks.length} potential active IPOs. Processing top 4...`);
 
-        // Refined extraction logic:
-        // Use the exact link structure if possible.
+        for (const item of activeLinks.slice(0, 4)) {
+            const details = await fetchDetails(item.link);
+            activeIPOs.push({
+                company: item.title,
+                link: item.link,
+                status: 'Yeni',
+                code: details.code || '',
+                price: details.price || 'Belirlenmedi',
+                dates: details.dates || 'Tarih Yok',
+                distributionType: details.distributionType || 'Bilinmiyor',
+                lotCount: details.lotCount || 'Belirtilmedi'
+            });
+            // Be nice to server
+            await new Promise(r => setTimeout(r, 500));
+        }
+
+        // 2. Fetch Draft IPOs from Category Page
+        console.log(`Fetching Draft Page...`);
+        const draftRes = await axios.get('https://halkarz.com/k/taslak/', {
+            headers: { 'User-Agent': 'Mozilla/5.0' }
+        });
+        const $draft = cheerio.load(draftRes.data);
+
+        $draft('article, .post-item').each((i, el) => {
+            const link = $draft(el).find('a').attr('href');
+            const title = $draft(el).find('h2, h3').text().trim();
+
+            if (link && title && !draftIPOs.some(d => d.link === link)) {
+                draftIPOs.push({
+                    company: title,
+                    link: link,
+                    status: 'Taslak',
+                    code: ''
+                });
+            }
+        });
+
+        console.log(`Found ${draftIPOs.length} Draft IPOs.`);
 
         const finalOutput = {
             active_ipos: activeIPOs,
-            draft_ipos: draftIPOs
+            draft_ipos: draftIPOs.slice(0, 50) // Limit drafts
         };
 
         fs.writeFileSync(path.resolve(outputPath), JSON.stringify(finalOutput, null, 2), 'utf-8');
-        console.log(`✓ Scraped ${activeIPOs.length} Active and ${draftIPOs.length} Draft IPOs`);
+        console.log(`✓ Saved ${activeIPOs.length} Active and ${draftIPOs.length} Draft IPOs`);
 
     } catch (err) {
-        console.error('Error fetching HTML:', err.message);
+        console.error('Error fetching IPOs:', err.message);
     }
 }
 
