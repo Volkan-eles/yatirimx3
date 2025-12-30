@@ -128,22 +128,8 @@ const HalkaArz: React.FC = () => {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        const fetchData = async () => {
-            try {
-                console.log("Fetching IPO data...");
-                const response = await fetch('/halkarz_ipos.json');
-                if (!response.ok) throw new Error('Data fetch failed');
-                const data = await response.json();
-                console.log("Fetched data:", data);
-                setIpos(data.active_ipos || []);
-                setDraftIpos(data.draft_ipos || []);
-            } catch (error) {
-                console.error("Failed to fetch IPO data", error);
-            } finally {
-                setLoading(false);
-            }
-        };
-        fetchData();
+        // Data fetching removed as per user request
+        setLoading(false);
     }, []);
 
     const faqSchema = {
