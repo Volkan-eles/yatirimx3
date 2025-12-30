@@ -25,9 +25,15 @@ def fetch_halkarz_ipos():
             elif 'Content' in data:
                 data = data['Content']
         
-        # Veriyi kaydet
+        # Veriyi kaydet  
+        # Halkaarz.com'dan gelen "active" verilerini "draft_ipos" (Taslak Arzlar) olarak kaydet
+        result = {
+            "active_ipos": [],  # Gerçek halka arzlar (şimdilik boş)
+            "draft_ipos": data.get('active_ipos', []) if isinstance(data, dict) else []
+        }
+        
         with open('public/halkarz_ipos.json', 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+            json.dump(result, f, ensure_ascii=False, indent=2)
         
         print(f"✓ Halka arz verileri kaydedildi")
         return data
