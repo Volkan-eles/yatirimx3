@@ -11,7 +11,18 @@ async function fetchData(url, outputPath) {
             throw new Error(`HTTP ${response.status}`);
         }
 
-        const data = await response.json();
+        // Get as text first, then manually fix encoding
+        let text = await response.text();
+
+        // Fix common Windows-1254 -> UTF-8 mojibake
+        text = text
+            .replace(/Ã‡/g, 'Ç').replace(/Ã¼/g, 'ü').replace(/Ã§/g, 'ç')
+            .replace(/ÄŸ/g, 'ğ').replace(/Ä±/g, 'ı').replace(/Ã¶/g, 'ö')
+            .replace(/ÅŸ/g, 'ş').replace(/Ã–/g, 'Ö').replace(/Åž/g, 'Ş')
+            .replace(/Ä°/g, 'İ').replace(/Ãœ/g, 'Ü').replace(/Äž/g, 'Ğ')
+            .replace(/Â/g, '');
+
+        const data = JSON.parse(text);
 
         // Extract array if wrapped
         let finalData = data;
