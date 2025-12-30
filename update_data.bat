@@ -16,17 +16,13 @@ if %ERRORLEVEL% EQU 0 (
 )
 
 echo.
-echo [2/4] Halka arz verileri çekiliyor...
+echo [2/3] Halka arz verileri guncelleniyor...
 node scripts/fetch_halkarz_html.js
 if %ERRORLEVEL% EQU 0 (
     echo   ✓ Halka arz verileri guncellendi
 ) else (
     echo   ✗ Halka arz guncellemesinde sorun olabilir
 )
-
-echo.
-echo [3/3] Karakter kodlamasi duzeltiliyor...
-node scripts/clean_data.js
 if %ERRORLEVEL% EQU 0 (
     echo   ✓ Veri formatlari duzeltildi
 ) else (
