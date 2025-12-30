@@ -15,13 +15,8 @@ HEADERS = {
 def clean_text(text):
     return ' '.join(text.split())
 
-def log_debug(msg):
-    with open('scraper_status.log', 'a', encoding='utf-8') as f:
-        f.write(f"{time.strftime('%H:%M:%S')} - {msg}\n")
-
-# Clear log at start
-with open('scraper_status.log', 'w') as f:
-    f.write("Scraper Started\n")
+def clean_text(text):
+    return ' '.join(text.split())
 
 def fetch_details(link):
     try:
@@ -39,64 +34,54 @@ def fetch_details(link):
         text = clean_text(content.get_text())
         title = soup.find('h1').get_text(strip=True) if soup.find('h1') else ''
 
-        log_debug(f"Processing details for: {title}")
+        title = soup.find('h1').get_text(strip=True) if soup.find('h1') else ''
+
+        # BeautifulSoup Extraction
+        # Try to find data in the table first
+        sp_table = soup.select_one('table.sp-table')
         
-        # DEBUG CHECK
-        if 'Formül' in title or 'Ağaoğlu' in title:
-            print(f"DEBUG: Found specific title: {title}")
-        # print(f"DEBUG SAMPLE TEXT: {text[:200]}...")
-
-        # Regex Patterns
-        # Code: (ABCD)
-        code_regex = r'\(([A-Z]{3,5})\)'
-        # Price: "Fiyat: 10,50 TL"
-        price_regex = r'(?:Halka Arz Fiyatı|Fiyat).*?([\d,.]+)\s*TL'
-        # Date: "Tarih: 10-11 Ocak" or "Talep Toplama: ..."
-        date_regex = r'(?:Tarih|Talep Toplama).*?(\d{1,2}.*?\d{4})'
-        # Draft Date: "Tahmini Halka Arz Takvimi: 2025..."
-        draft_date_regex = r'(?:Takvimi).*?(\d{4}.*?)(?:\n|$|[*])'
-        # Lot: "Sermaye Artırımı: 5.000.000 Lot"
-        lot_regex = r'(?:Sermaye Artırımı|Ortak Satışı).*?([\d.,]+\s*Lot)'
-
-        # Extraction
-        code = ''
-        match = re.search(code_regex, title)
-        if match:
-            code = match.group(1)
-
         price = 'Belirlenmedi'
-        match = re.search(price_regex, text, re.IGNORECASE)
-        if match:
-            price = match.group(1)
-            print(f"  > Found Price: {price}")
-        else:
-            print(f"  > Price NOT found")
-
         dates = 'Tarih Yok'
-        match = re.search(date_regex, text, re.IGNORECASE)
-        if match:
-            dates = match.group(1)
-            print(f"  > Found Date: {dates}")
-        else:
-            # Try draft date fallback
-            match = re.search(draft_date_regex, text, re.IGNORECASE)
-            if match:
-                dates = match.group(1).strip()
-                print(f"  > Found Draft Date: {dates}")
-            else:
-                print(f"  > Date NOT found")
-
         distribution_type = 'Bilinmiyor'
-        if 'Eşit Dağıtım' in text:
-            distribution_type = 'Eşit Dağıtım'
-        elif 'Oransal Dağıtım' in text:
-            distribution_type = 'Oransal Dağıtım'
-
         lot_count = 'Belirtilmedi'
-        match = re.search(lot_regex, text, re.IGNORECASE)
-        if match:
-            lot_count = match.group(1)
-            print(f"  > Found Lot: {lot_count}")
+        code = ''
+
+        # Extract Code from header if available
+        code_tag = soup.select_one('.il-bist-kod')
+        if code_tag:
+            code = code_tag.get_text(strip=True)
+        
+        if not code:
+            # Fallback to Title Regex
+            code_match = re.search(r'\(([A-Z]{3,5})\)', title)
+            if code_match:
+                code = code_match.group(1)
+
+        if sp_table:
+            for tr in sp_table.find_all('tr'):
+                tds = tr.find_all('td')
+                if len(tds) < 2: continue
+                
+                label = tds[0].get_text(strip=True)
+                value = tds[1].get_text(strip=True)
+
+                if 'Fiyat' in label:
+                    price = value
+                elif 'Tarih' in label:
+                    dates = value
+                elif 'Dağıtım' in label:
+                    distribution_type = value
+                elif 'Pay' in label:
+                     lot_count = value
+
+        # Clean up values
+        if 'Hazırlanıyor' in dates:
+            dates = 'Tarih Bekleniyor'
+        
+        # Fallback for draft pages which might structure data differently (e.g. lists)
+        if price == 'Belirlenmedi':
+             match = re.search(r'(?:Halka Arz Fiyatı|Fiyat).*?([\d,.]+)\s*TL', text, re.IGNORECASE)
+             if match: price = match.group(1) + ' TL'
 
         return {
             'code': code,
@@ -107,7 +92,8 @@ def fetch_details(link):
         }
 
     except Exception as e:
-        log_debug(f"Error fetching detail for {link}: {e}")
+    except Exception as e:
+        # print(f"Error fetching detail for {link}: {e}")
         return {}
 
 def fetch_ipos():
@@ -139,6 +125,10 @@ def fetch_ipos():
 
         # Process top 4 actives
         print(f"Found {len(active_links)} potential active IPOs. Processing top 4...")
+        
+        # Process top 4 actives
+        print(f"Found {len(active_links)} potential active IPOs. Processing top 4...")
+        
         for item in active_links[:4]:
             print(f"Processing Active: {item['title']}")
             details = fetch_details(item['link'])
@@ -204,8 +194,11 @@ def fetch_ipos():
         
         print(f"✓ Saved {len(active_ipos)} Active and {len(draft_ipos)} Draft IPOs to {output_path}")
 
+
     except Exception as e:
         print(f"Error in fetch_ipos: {e}")
 
 if __name__ == "__main__":
+    # Ensure stdout is utf-8 to avoid encoding errors in console
+    sys.stdout.reconfigure(encoding='utf-8')
     fetch_ipos()
