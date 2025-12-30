@@ -23,6 +23,9 @@ async function fetchDetails(link) {
         const priceRegex = /(?:Halka Arz Fiyatı|Fiyat)\s*[:]?\s*([\d,.]+)\s*TL/i;
         const codeRegex = /\(([A-Z]{3,5})\)/;
         const dateRegex = /(?:Tarih|Talep Toplama)\s*[:]?\s*(\d{1,2}.*?\d{4})/;
+        // Draft specific regex
+        const draftDateRegex = /(?:Tahmini Halka Arz Takvimi)\s*[:]?\s*(.*?)(?:\n|$)/i;
+        const lotRegex = /(?:Sermaye Artırımı|Ortak Satışı)\s*[:]?\s*([\d.]+\s*Lot)/i;
 
         // Find main content container to avoid sidebar noise
         const content = $('.entry-content, .post-content, article').first();
@@ -38,16 +41,20 @@ async function fetchDetails(link) {
             const priceMatch = text.match(priceRegex);
             if (priceMatch) price = priceMatch[1];
 
-            // Extract Date
+            // Extract Date (Try standard, then draft)
             const dateMatch = text.match(dateRegex);
             if (dateMatch) dates = dateMatch[1];
+            else {
+                const draftDateMatch = text.match(draftDateRegex);
+                if (draftDateMatch) dates = draftDateMatch[1].trim(); // e.g. "2025 yılı içerisinde..."
+            }
 
             // Extract Distribution (simple search)
             if (text.includes('Eşit Dağıtım')) distributionType = 'Eşit Dağıtım';
             else if (text.includes('Oransal Dağıtım')) distributionType = 'Oransal Dağıtım';
 
             // Extract Lot (searching for "Lot" pattern)
-            const lotMatch = text.match(/([\d.]+\s*Lot)/i);
+            const lotMatch = text.match(lotRegex);
             if (lotMatch) lotCount = lotMatch[1];
         } else {
             // Fallback to list search if content block not found
