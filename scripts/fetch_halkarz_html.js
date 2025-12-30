@@ -120,19 +120,33 @@ async function fetchIPOs() {
         });
         const $draft = cheerio.load(draftRes.data);
 
+        const draftLinks = [];
         $draft('article, .post-item').each((i, el) => {
             const link = $draft(el).find('a').attr('href');
             const title = $draft(el).find('h2, h3').text().trim();
 
             if (link && title && !draftIPOs.some(d => d.link === link)) {
-                draftIPOs.push({
-                    company: title,
-                    link: link,
-                    status: 'Taslak',
-                    code: ''
-                });
+                draftLinks.push({ title, link });
             }
         });
+
+        console.log(`Found ${draftLinks.length} Draft IPOs. Processing top 20...`);
+
+        // Fetch details for top 20 drafts to ensure data isn't empty
+        for (const item of draftLinks.slice(0, 20)) {
+            const details = await fetchDetails(item.link);
+            draftIPOs.push({
+                company: item.title,
+                link: item.link,
+                status: 'Taslak',
+                code: details.code || '',
+                price: details.price || 'Belirlenmedi',
+                dates: details.dates || 'Tarih Bekleniyor',
+                distributionType: details.distributionType || 'Bilinmiyor',
+                lotCount: details.lotCount || 'Belirtilmedi'
+            });
+            await new Promise(r => setTimeout(r, 500));
+        }
 
         console.log(`Found ${draftIPOs.length} Draft IPOs.`);
 
