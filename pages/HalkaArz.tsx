@@ -109,7 +109,7 @@ const IPOCard: React.FC<{ ipo: IPOItem; isDraft?: boolean }> = ({ ipo, isDraft }
 );
 
 const HalkaArz: React.FC = () => {
-    const [activeTab, setActiveTab] = useState<'Halka Arzlar' | 'Taslak Arzlar'>('Halka Arzlar');
+    const [activeTab, setActiveTab] = useState<'Halka Arzlar' | 'Geçmiş Arzlar'>('Halka Arzlar');
     const [ipos, setIpos] = useState<IPOItem[]>([]);
     const [draftIpos, setDraftIpos] = useState<IPOItem[]>([]);
     const [loading, setLoading] = useState(true);
@@ -218,17 +218,17 @@ const HalkaArz: React.FC = () => {
                         Halka Arzlar
                     </button>
                     <button
-                        onClick={() => setActiveTab('Taslak Arzlar')}
-                        className={`relative z-10 px-10 py-3.5 rounded-xl text-sm font-bold transition-all duration-300 flex items-center gap-2 ${activeTab === 'Taslak Arzlar' ? 'text-white' : 'text-zinc-500 hover:text-zinc-300'
+                        onClick={() => setActiveTab('Geçmiş Arzlar')}
+                        className={`relative z-10 px-10 py-3.5 rounded-xl text-sm font-bold transition-all duration-300 flex items-center gap-2 ${activeTab === 'Geçmiş Arzlar' ? 'text-white' : 'text-zinc-500 hover:text-zinc-300'
                             }`}
                     >
-                        <Clock className={`w-4 h-4 transition-transform duration-500 ${activeTab === 'Taslak Arzlar' ? 'scale-100' : 'scale-0'}`} />
-                        Taslak Arzlar
+                        <Clock className={`w-4 h-4 transition-transform duration-500 ${activeTab === 'Geçmiş Arzlar' ? 'scale-100' : 'scale-0'}`} />
+                        Geçmiş Arzlar
                     </button>
 
                     {/* Animated Slider Background */}
                     <div
-                        className={`absolute top-1.5 bottom-1.5 w-[calc(50%-6px)] bg-zinc-800 rounded-xl border border-white/5 shadow-lg transition-transform duration-500 cubic-bezier(0.16, 1, 0.3, 1) ${activeTab === 'Taslak Arzlar' ? 'translate-x-[calc(100%+6px)]' : 'translate-x-0'
+                        className={`absolute top-1.5 bottom-1.5 w-[calc(50%-6px)] bg-zinc-800 rounded-xl border border-white/5 shadow-lg transition-transform duration-500 cubic-bezier(0.16, 1, 0.3, 1) ${activeTab === 'Geçmiş Arzlar' ? 'translate-x-[calc(100%+6px)]' : 'translate-x-0'
                             }`}
                     />
                 </div>
@@ -252,7 +252,7 @@ const HalkaArz: React.FC = () => {
                             <IPOCard key={ipo.code + idx} ipo={ipo} isDraft />
                         ))
                     ) : (
-                        <div className="col-span-full text-center py-20 text-zinc-500">Taslak arz bulunamadı.</div>
+                        <div className="col-span-full text-center py-20 text-zinc-500">Geçmiş halka arz bulunamadı.</div>
                     )
                 )}
             </div>
@@ -260,7 +260,7 @@ const HalkaArz: React.FC = () => {
             {/* Empty State / Legend */}
             <div className="mt-12 p-8 rounded-3xl bg-zinc-900/30 border border-white/5 text-center mb-12">
                 <p className="text-zinc-500 text-sm max-w-2xl mx-auto italic">
-                    * Taslak arzlar henüz Sermaye Piyasası Kurulu (SPK) onayından geçmemiş, başvuru aşamasındaki şirketleri kapsamaktadır. Bilgiler resmi izahname yayınlandığında güncellenecektir.
+                    * Geçmiş arzlar tamamlanmış veya iptal edilmiş halka arz süreçlerini kapsamaktadır. Bilgiler arşiv amaçlıdır.
                 </p>
             </div>
 
