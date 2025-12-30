@@ -26,6 +26,11 @@ if %ERRORLEVEL% EQU 0 (
 )
 
 echo.
+echo [4/4] Veri formatları düzenleniyor...
+node scripts/clean_data.js
+
+
+echo.
 echo ============================================================
 echo Güncelleme tamamlandı!
 echo ============================================================
