@@ -15,6 +15,15 @@ if %ERRORLEVEL% EQU 0 (
     echo   ✗ Veri indirmede sorun oluştu
 )
 
+echo.
+echo [2/3] Halka arz verileri guncelleniyor (Python)...
+py scripts/fetch_halkarz_ipo.py
+if %ERRORLEVEL% EQU 0 (
+    echo   ✓ Halka arz verileri guncellendi
+) else (
+    echo   ✗ Halka arz guncellemesinde sorun olabilir
+)
+
 
 if %ERRORLEVEL% EQU 0 (
     echo   ✓ Veri formatlari duzeltildi
