@@ -49,10 +49,49 @@ files.forEach(file => {
                 // Recursive string fix for all fields
                 const fixStrings = (obj) => {
                     if (typeof obj === 'string') {
-                        return obj.replace(/Ã‡/g, 'Ç').replace(/Ã¼/g, 'ü').replace(/Ã§/g, 'ç')
-                            .replace(/ÄŸ/g, 'ğ').replace(/Ä±/g, 'ı').replace(/Ã¶/g, 'ö')
-                            .replace(/ÅŸ/g, 'ş').replace(/Ã–/g, 'Ö').replace(/Åž/g, 'Ş')
-                            .replace(/Ä°/g, 'İ').replace(/Ãœ/g, 'Ü').replace(/Â/g, '');
+                        return obj
+                            // Lowercase mappings
+                            .replace(/Ã¼/g, 'ü')
+                            .replace(/Ã§/g, 'ç')
+                            .replace(/ÄŸ/g, 'ğ')
+                            .replace(/Ä±/g, 'ı')
+                            .replace(/Ã¶/g, 'ö')
+                            .replace(/ÅŸ/g, 'ş')
+
+                            // Uppercase mappings
+                            .replace(/Ãœ/g, 'Ü')
+                            .replace(/Ã‡/g, 'Ç')
+                            .replace(/Äž/g, 'Ğ')
+                            .replace(/Ä°/g, 'İ')
+                            .replace(/Ã–/g, 'Ö')
+                            .replace(/Åž/g, 'Ş')
+
+                            // Common double-encoded sequences
+                            .replace(/Å~/g, 'Ş')
+                            .replace(/Ã/g, 'İ') // Be careful with single chars
+
+                            // Specific words/patterns from user feedback
+                            .replace(/A\.Åž\./g, 'A.Ş.')
+                            .replace(/T\.A\.Åž\./g, 'T.A.Ş.')
+                            .replace(/YatÄ±rÄ±m/g, 'Yatırım')
+                            .replace(/OrtaklÄ±ÄŸÄ±/g, 'Ortaklığı')
+                            .replace(/Ä°nÅŸaat/g, 'İnşaat')
+                            .replace(/DeÄŸerler/g, 'Değerler')
+                            .replace(/San\./g, 'San.') // Just to be safe
+                            .replace(/Tic\./g, 'Tic.')
+                            .replace(/Ã‡imento/g, 'Çimento')
+                            .replace(/ÃœstÃ¼/g, 'Üstü')
+                            .replace(/NÃ¶tr/g, 'Nötr')
+                            .replace(/SaÄŸlÄ±k/g, 'Sağlık')
+                            .replace(/MaÄŸazalarÄ±/g, 'Mağazaları')
+                            .replace(/DoÄŸuÅŸ/g, 'Doğuş')
+                            .replace(/TaÅŸÄ±macÄ±lÄ±ÄŸÄ±/g, 'Taşımacılığı')
+                            .replace(/Ä°letiÅŸim/g, 'İletişim')
+                            .replace(/BeÅŸiktaÅŸ/g, 'Beşiktaş')
+
+                            // Cleanup phantom chars
+                            .replace(/Â/g, '')
+                            .replace(/Ã¢/g, 'a');
                     } else if (Array.isArray(obj)) {
                         return obj.map(fixStrings);
                     } else if (obj && typeof obj === 'object') {
