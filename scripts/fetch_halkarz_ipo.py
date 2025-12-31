@@ -6,6 +6,7 @@ import re
 import time
 import os
 import sys
+import concurrent.futures
 
 # Headers to mimic a browser
 HEADERS = {
@@ -15,30 +16,25 @@ HEADERS = {
 def clean_text(text):
     return ' '.join(text.split())
 
-def clean_text(text):
-    return ' '.join(text.split())
-
-def fetch_details(link):
+def fetch_details_for_item(item):
+    """
+    Fetches details for a given item dict {title, link, status}.
+    Returns the complete item dict with details, or None on failure.
+    """
+    link = item['link']
+    title = item['title']
+    
     try:
-        response = requests.get(link, headers=HEADERS, timeout=10)
-        response.raise_for_status()
+        response = requests.get(link, headers=HEADERS, timeout=15)
+        if response.status_code != 200:
+            return None
+            
         soup = BeautifulSoup(response.content, 'html.parser')
 
-        # Clean text
-        content = soup.select_one('.entry-content, .post-content, article')
-        if not content:
-            print(f"DEBUG: Content NOT found for {link}")
-            return {}
-        
-        # Normalize whitespace
-        text = clean_text(content.get_text())
-        title = soup.find('h1').get_text(strip=True) if soup.find('h1') else ''
-
-        title = soup.find('h1').get_text(strip=True) if soup.find('h1') else ''
-
-        # BeautifulSoup Extraction
-        # Try to find data in the table first
+        # BeautifulSoup Extraction logic
         sp_table = soup.select_one('table.sp-table')
+        content_div = soup.select_one('.entry-content, .post-content, article')
+        text = clean_text(content_div.get_text()) if content_div else ""
         
         price = 'Belirlenmedi'
         dates = 'Tarih Yok'
@@ -46,17 +42,17 @@ def fetch_details(link):
         lot_count = 'Belirtilmedi'
         code = ''
 
-        # Extract Code from header if available
+        # Extract Code
         code_tag = soup.select_one('.il-bist-kod')
         if code_tag:
             code = code_tag.get_text(strip=True)
         
         if not code:
-            # Fallback to Title Regex
             code_match = re.search(r'\(([A-Z]{3,5})\)', title)
             if code_match:
                 code = code_match.group(1)
 
+        # Extract from Table
         if sp_table:
             for tr in sp_table.find_all('tr'):
                 tds = tr.find_all('td')
@@ -74,16 +70,26 @@ def fetch_details(link):
                 elif 'Pay' in label:
                      lot_count = value
 
-        # Clean up values
+        # Clean/Fallback
         if 'Hazırlanıyor' in dates:
             dates = 'Tarih Bekleniyor'
         
-        # Fallback for draft pages which might structure data differently (e.g. lists)
         if price == 'Belirlenmedi':
              match = re.search(r'(?:Halka Arz Fiyatı|Fiyat).*?([\d,.]+)\s*TL', text, re.IGNORECASE)
              if match: price = match.group(1) + ' TL'
 
+        # Refining Status Logic
+        final_status = item['status']
+        if final_status == 'Yeni':
+            if 'Tarih Bekleniyor' in dates:
+                final_status = 'Onaylı' # Approved but dates pending
+            elif re.search(r'\d', dates):
+                final_status = 'Talep Toplanıyor' # Has numeric dates
+
         return {
+            'company': title,
+            'link': link,
+            'status': final_status,
             'code': code,
             'price': price,
             'dates': dates,
@@ -92,113 +98,146 @@ def fetch_details(link):
         }
 
     except Exception as e:
-    except Exception as e:
-        # print(f"Error fetching detail for {link}: {e}")
-        return {}
+        # print(f"Error details {link}: {e}")
+        return None
+
+def fetch_category_links(base_url, status_label):
+    links = []
+    page = 1
+    max_pages = 50 # Safety limit
+    
+    print(f"Starting scan for {status_label} at {base_url}...")
+    
+    while page <= max_pages:
+        url = f"{base_url}page/{page}/" if page > 1 else base_url
+        try:
+            response = requests.get(url, headers=HEADERS, timeout=10)
+            if response.status_code == 404:
+                # End of pages
+                break
+            if response.status_code != 200:
+                print(f"Skipping page {page} due to status {response.status_code}")
+                page += 1
+                continue
+            
+            soup = BeautifulSoup(response.content, 'html.parser')
+            articles = soup.select('article, .post-item')
+            
+            if not articles:
+                # No articles found using selectors
+                break
+            
+            new_items = []
+            for article in articles:
+                a_tag = article.find('a')
+                if not a_tag: continue
+                
+                link = a_tag['href']
+                title_tag = article.find(['h2', 'h3'])
+                title = title_tag.get_text(strip=True) if title_tag else ''
+                
+                # Check for 'halkarz.com' to ensure internal link, avoid ads
+                if link and 'halkarz.com' in link and title:
+                    # Basic dedup check within this batch not needed if set used, but list is fine
+                    new_items.append({'title': title, 'link': link, 'status': status_label})
+            
+            if not new_items:
+                break
+                
+            links.extend(new_items)
+            print(f"  Page {page}: Found {len(new_items)} items. Total: {len(links)}")
+            
+            # Check for "Next" button/link to verify pagination existence, 
+            # otherwise 404 check above handles 
+            # (halkarz usually 404s on out of bounds pages or redirects)
+            
+            page += 1
+            time.sleep(0.2)
+            
+        except Exception as e:
+            print(f"Error scanning page {page}: {e}")
+            break
+            
+    return links
 
 def fetch_ipos():
     output_path = 'public/halkarz_ipos.json'
-    active_ipos = []
-    draft_ipos = []
+    
+    # 1. Fetch All Links
+    print("--- Phase 1: Gathering Links ---")
+    active_links = fetch_category_links('https://halkarz.com/k/halka-arz/', 'Yeni')
+    draft_links = fetch_category_links('https://halkarz.com/k/taslak/', 'Taslak')
+    
+    unique_active = {v['link']:v for v in active_links}.values()
+    unique_draft = {v['link']:v for v in draft_links}.values()
+    
+    print(f"Total Unique Active/Completed: {len(unique_active)}")
+    print(f"Total Unique Drafts: {len(unique_draft)}")
+
+    # 2. Fetch Details Concurrently
+    print("\n--- Phase 2: Fetching Details (Concurrent) ---")
+    
+    all_active_data = []
+    all_draft_data = []
+    
+    # Use ThreadPoolExecutor
+    # Adjust max_workers based on performance/server tolerance. 10 is usually safe for scraping.
+    max_workers = 10
+    
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Helper to submit
+        def submit_list(items_list):
+            futures = []
+            for item in items_list:
+                futures.append(executor.submit(fetch_details_for_item, item))
+            return futures
+            
+        print(f"Starting threads for {len(unique_active)} active items...")
+        futures_active = submit_list(unique_active)
+        
+        print(f"Starting threads for {len(unique_draft)} draft items...")
+        futures_draft = submit_list(unique_draft)
+        
+        # Collect Active
+        completed_count = 0
+        for future in concurrent.futures.as_completed(futures_active):
+            res = future.result()
+            if res:
+                all_active_data.append(res)
+            completed_count += 1
+            if completed_count % 10 == 0:
+                print(f"  Active Progress: {completed_count}/{len(unique_active)}", end='\r')
+        print(f"  Active Progress: {len(unique_active)}/{len(unique_active)} Done.")
+
+        # Collect Drafts
+        completed_count = 0
+        for future in concurrent.futures.as_completed(futures_draft):
+            res = future.result()
+            if res:
+                all_draft_data.append(res)
+            completed_count += 1
+            if completed_count % 10 == 0:
+                print(f"  Draft Progress: {completed_count}/{len(unique_draft)}", end='\r')
+        print(f"  Draft Progress: {len(unique_draft)}/{len(unique_draft)} Done.")
+
+    # 3. Save
+    print("\n--- Phase 3: Saving Data ---")
+    data = {
+        'active_ipos': all_active_data,
+        'draft_ipos': all_draft_data
+    } # Note: 'active_ipos' naming kept for compatibility, even though it contains completed/past ones now.
 
     try:
-        print("Fetching Main Page (halkarz.com)...")
-        response = requests.get('https://halkarz.com/', headers=HEADERS)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        # 1. Active IPOs
-        # Looking for recent posts that are not drafts
-        active_links = []
-        for article in soup.select('article, .post-item'):
-            a_tag = article.find('a')
-            if not a_tag: continue
-            
-            link = a_tag['href']
-            title_tag = article.find(['h2', 'h3'])
-            title = title_tag.get_text(strip=True) if title_tag else ''
-
-            if link and 'halkarz.com' in link and 'Taslak' not in title:
-                # Basic filtering to ensure it's a company
-                if 'A.Ş.' in title or 'Holding' in title:
-                    active_links.append({'title': title, 'link': link})
-
-        # Process top 4 actives
-        print(f"Found {len(active_links)} potential active IPOs. Processing top 4...")
-        
-        # Process top 4 actives
-        print(f"Found {len(active_links)} potential active IPOs. Processing top 4...")
-        
-        for item in active_links[:4]:
-            print(f"Processing Active: {item['title']}")
-            details = fetch_details(item['link'])
-            active_ipos.append({
-                'company': item['title'],
-                'link': item['link'],
-                'status': 'Yeni',
-                'code': details.get('code', ''),
-                'price': details.get('price', 'Belirlenmedi'),
-                'dates': details.get('dates', 'Tarih Yok'),
-                'distributionType': details.get('distributionType', 'Bilinmiyor'),
-                'lotCount': details.get('lotCount', 'Belirtilmedi')
-            })
-            time.sleep(0.5)
-
-        # 2. Draft IPOs
-        print("Fetching Draft Page (halkarz.com/k/taslak/)...")
-        print("Fetching Draft Page (halkarz.com/k/taslak/)...")
-        response = requests.get('https://halkarz.com/k/taslak/', headers=HEADERS)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.content, 'html.parser')
-
-        draft_links = []
-        for article in soup.select('article, .post-item'):
-            a_tag = article.find('a')
-            if not a_tag: continue
-            
-            link = a_tag['href']
-            title_tag = article.find(['h2', 'h3'])
-            title = title_tag.get_text(strip=True) if title_tag else ''
-
-            if link and title:
-                # Avoid duplicates
-                if not any(d['link'] == link for d in draft_ipos):
-                    draft_links.append({'title': title, 'link': link})
-
-        # Process top 5 drafts (reduced for debug speed)
-        print(f"Found {len(draft_links)} Draft IPOs. Processing top 5 for debug...")
-        for item in draft_links[:5]:
-            print(f"Processing Draft: {item['title']}")
-            details = fetch_details(item['link'])
-            draft_ipos.append({
-                'company': item['title'],
-                'link': item['link'],
-                'status': 'Taslak',
-                'code': details.get('code', ''),
-                'price': details.get('price', 'Belirlenmedi'),
-                'dates': details.get('dates', 'Tarih Bekleniyor'),
-                'distributionType': details.get('distributionType', 'Bilinmiyor'),
-                'lotCount': details.get('lotCount', 'Belirtilmedi')
-            })
-            time.sleep(0.5)
-
-        # Save to JSON
-        data = {
-            'active_ipos': active_ipos,
-            'draft_ipos': draft_ipos
-        }
-
-        # Write with UTF-8 encoding
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(data, f, ensure_ascii=False, indent=2)
-        
-        print(f"✓ Saved {len(active_ipos)} Active and {len(draft_ipos)} Draft IPOs to {output_path}")
-
-
+        print(f"✓ Saved {len(all_active_data)} Active/Past and {len(all_draft_data)} Draft IPOs to {output_path}")
     except Exception as e:
-        print(f"Error in fetch_ipos: {e}")
+        print(f"Error saving JSON: {e}")
 
 if __name__ == "__main__":
-    # Ensure stdout is utf-8 to avoid encoding errors in console
-    sys.stdout.reconfigure(encoding='utf-8')
+    if sys.stdout.encoding != 'utf-8':
+        try:
+            sys.stdout.reconfigure(encoding='utf-8')
+        except:
+            pass
     fetch_ipos()

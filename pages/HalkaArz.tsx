@@ -58,9 +58,15 @@ const IPOCard: React.FC<{ ipo: IPOItem; isDraft?: boolean }> = ({ ipo, isDraft }
 
     return (
         <div className={`glass-panel p-6 rounded-2xl relative overflow-hidden group transition-all duration-300 hover:border-blue-500/30 ${isDraft ? 'border-dashed' : ''}`}>
-            {!isDraft && ipo.status.includes('Yeni') && (
+            {!isDraft && (ipo.status === 'Talep Toplanıyor' || (ipo.status === 'Yeni' && /\d/.test(ipo.dates))) && (
                 <div className="absolute top-0 right-0 bg-emerald-600 text-white text-[10px] font-bold px-3 py-1 rounded-bl-xl shadow-lg">
                     TALEP TOPLANIYOR
+                </div>
+            )}
+
+            {!isDraft && ipo.status === 'Onaylı' && (
+                <div className="absolute top-0 right-0 bg-amber-600 text-white text-[10px] font-bold px-3 py-1 rounded-bl-xl shadow-lg">
+                    ONAYLANDI - TARİH BEKLENİYOR
                 </div>
             )}
 
