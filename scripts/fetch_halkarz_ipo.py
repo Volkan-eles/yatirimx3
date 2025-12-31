@@ -24,12 +24,25 @@ def fetch_details_for_item(item):
     link = item['link']
     title = item['title']
     
+    retries = 3
+    for attempt in range(retries):
+        try:
+            response = requests.get(link, headers=HEADERS, timeout=20)
+            if response.status_code == 200:
+                break
+            time.sleep(1)
+        except Exception:
+            if attempt == retries - 1:
+                print(f"FAILED to fetch {title} after {retries} attempts.")
+                return None
+            time.sleep(1)
+    
+    if response.status_code != 200:
+        return None
+
     try:
-        response = requests.get(link, headers=HEADERS, timeout=15)
-        if response.status_code != 200:
-            return None
-            
         soup = BeautifulSoup(response.content, 'html.parser')
+        # ... rest of extraction ...
 
         # BeautifulSoup Extraction logic
         sp_table = soup.select_one('table.sp-table')
@@ -210,8 +223,8 @@ def fetch_ipos():
     all_draft_data = []
     
     # Use ThreadPoolExecutor
-    # Adjust max_workers based on performance/server tolerance. 10 is usually safe for scraping.
-    max_workers = 10
+    # Adjust max_workers based on performance/server tolerance. 
+    max_workers = 5
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         # Helper to submit
