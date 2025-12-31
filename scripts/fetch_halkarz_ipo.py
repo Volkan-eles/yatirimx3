@@ -165,10 +165,39 @@ def fetch_ipos():
     
     # 1. Fetch All Links
     print("--- Phase 1: Gathering Links ---")
+    
+    # scan for homepage items too, as some might be pinned there
+    homepage_links = []
+    try:
+        print(f"Scanning Homepage (https://halkarz.com/)...")
+        r_home = requests.get('https://halkarz.com/', headers=HEADERS, timeout=10)
+        if r_home.status_code == 200:
+            soup_home = BeautifulSoup(r_home.content, 'html.parser')
+            # Homepage might have slider or different structure, but usually articles are there
+            for article in soup_home.select('article, .post-item, .slider-caption'):
+                a_tag = article.find('a')
+                if not a_tag: 
+                    # check parent if a_tag is not direct child (common in sliders)
+                    a_tag = article.find_parent('a')
+                
+                if not a_tag: continue
+                
+                link = a_tag.get('href', '')
+                title_tag = article.find(['h2', 'h3', 'h4', 'span'])
+                title = title_tag.get_text(strip=True) if title_tag else ''
+                
+                if link and 'halkarz.com' in link and 'Taslak' not in title and ('A.Ş.' in title or 'Holding' in title):
+                     homepage_links.append({'title': title, 'link': link, 'status': 'Yeni'})
+        print(f"  Homepage: Found {len(homepage_links)} potential items.")
+    except Exception as e:
+        print(f"  Homepage scan failed: {e}")
+
     active_links = fetch_category_links('https://halkarz.com/k/halka-arz/', 'Yeni')
     draft_links = fetch_category_links('https://halkarz.com/k/taslak/', 'Taslak')
     
-    unique_active = {v['link']:v for v in active_links}.values()
+    # Merge Homepage + Category for Active
+    all_active_raw = homepage_links + active_links
+    unique_active = {v['link']:v for v in all_active_raw}.values()
     unique_draft = {v['link']:v for v in draft_links}.values()
     
     print(f"Total Unique Active/Completed: {len(unique_active)}")
