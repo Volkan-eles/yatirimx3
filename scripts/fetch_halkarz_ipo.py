@@ -187,10 +187,7 @@ def fetch_ipos():
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         # Helper to submit
         def submit_list(items_list):
-            futures = []
-            for item in items_list:
-                futures.append(executor.submit(fetch_details_for_item, item))
-            return futures
+            return [executor.submit(fetch_details_for_item, item) for item in items_list]
             
         print(f"Starting threads for {len(unique_active)} active items...")
         futures_active = submit_list(unique_active)
@@ -198,30 +195,49 @@ def fetch_ipos():
         print(f"Starting threads for {len(unique_draft)} draft items...")
         futures_draft = submit_list(unique_draft)
         
-        # Collect Active
-        completed_count = 0
-        for future in concurrent.futures.as_completed(futures_active):
-            res = future.result()
-            if res:
-                all_active_data.append(res)
-            completed_count += 1
-            if completed_count % 10 == 0:
-                print(f"  Active Progress: {completed_count}/{len(unique_active)}", end='\r')
+        # Collect Active - In Order
+        print("Collecting Active Results (Preserving Order)...")
+        for i, future in enumerate(futures_active):
+            try:
+                res = future.result()
+                if res:
+                    all_active_data.append(res)
+            except Exception as e:
+                print(f"Error getting result: {e}")
+            
+            if (i + 1) % 10 == 0:
+                print(f"  Active Progress: {i + 1}/{len(unique_active)}", end='\r')
         print(f"  Active Progress: {len(unique_active)}/{len(unique_active)} Done.")
 
-        # Collect Drafts
-        completed_count = 0
-        for future in concurrent.futures.as_completed(futures_draft):
-            res = future.result()
-            if res:
-                all_draft_data.append(res)
-            completed_count += 1
-            if completed_count % 10 == 0:
-                print(f"  Draft Progress: {completed_count}/{len(unique_draft)}", end='\r')
+        # Collect Drafts - In Order
+        print("Collecting Draft Results (Preserving Order)...")
+        for i, future in enumerate(futures_draft):
+            try:
+                res = future.result()
+                if res:
+                    all_draft_data.append(res)
+            except Exception as e:
+                print(f"Error getting result: {e}")
+                
+            if (i + 1) % 10 == 0:
+                print(f"  Draft Progress: {i + 1}/{len(unique_draft)}", end='\r')
         print(f"  Draft Progress: {len(unique_draft)}/{len(unique_draft)} Done.")
 
+    # Sort Active Data to prioritize New/Approved
+    print("\nSorting data by status priority...")
+    def sort_key(item):
+        status = item.get('status', '')
+        # Priority: Onaylı (0) > Talep Toplanıyor (1) > Others (2)
+        if status == 'Onaylı':
+            return 0
+        if status == 'Talep Toplanıyor':
+            return 1
+        return 2
+
+    all_active_data.sort(key=sort_key)
+
     # 3. Save
-    print("\n--- Phase 3: Saving Data ---")
+    print("--- Phase 3: Saving Data ---")
     data = {
         'active_ipos': all_active_data,
         'draft_ipos': all_draft_data
