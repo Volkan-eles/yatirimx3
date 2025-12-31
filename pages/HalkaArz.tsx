@@ -12,7 +12,8 @@ interface IPOItem {
     price: number | string;
     lotCount: string;
     distributionType: string;
-    url: string;
+    url?: string;
+    link?: string;
     logo?: string;
     slug?: string;
 }
@@ -119,7 +120,7 @@ const IPOCard: React.FC<{ ipo: IPOItem; isDraft?: boolean }> = ({ ipo, isDraft }
                     <BarChart className="w-3 h-3" />
                     {ipo.lotCount || 'Lot Bilgisi Yok'}
                 </div>
-                <Link to={`/halka-arz/${(ipo.slug || (ipo.url ? ipo.url.match(/halkarz\.com\/([^\/]+)\/?$/)?.[1] : null) || slugify(ipo.company))}-halka-arzi-hakkinda-bilmeniz-gerekenler-2026/`} className="text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1 transition-colors">
+                <Link to={`/halka-arz/${(ipo.slug || (ipo.link ? ipo.link.match(/halkarz\.com\/([^\/]+)\/?$/)?.[1] : null) || (ipo.url ? ipo.url.match(/halkarz\.com\/([^\/]+)\/?$/)?.[1] : null) || slugify(ipo.company))}-halka-arzi-hakkinda-bilmeniz-gerekenler-2026/`} className="text-blue-400 hover:text-blue-300 font-bold flex items-center gap-1 transition-colors">
                     Detayları İncele <ArrowLeft className="w-3 h-3 rotate-180" />
                 </Link>
             </div>

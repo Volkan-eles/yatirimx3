@@ -37,16 +37,31 @@ const HalkaArzDetail: React.FC = () => {
 
                 // Find IPO by generating the expected long slug for each and comparing with URL param
                 const found = allIpos.find((item) => {
-                    // We check if the current URL slug (code) starts with the company slug or matches the generated long slug
-                    // The new format is: [slug]-halka-arzi-hakkinda-bilmeniz-gerekenler-2026
-                    const baseSlug = item.slug || (item.link ? item.link.match(/halkarz\.com\/([^\/]+)\/?$/)?.[1] : null) || slugify(item.company);
-                    const longSlug = `${baseSlug}-halka-arzi-hakkinda-bilmeniz-gerekenler-2026`;
+                    // Check against multiple potential slugs to handle variations (e.g. as vs a-s)
+                    const slugsToCheck = [];
 
-                    // Direct match
-                    if (code === longSlug) return true;
-                    // Fallback for legacy short links or internal nav
-                    if (code === baseSlug) return true;
-                    // Fallback for code match
+                    // 1. Explicit slug
+                    if (item.slug) slugsToCheck.push(item.slug);
+
+                    // 2. Slug from link (usually has a-s)
+                    if (item.link) {
+                        const linkSlug = item.link.match(/halkarz\.com\/([^\/]+)\/?$/)?.[1];
+                        if (linkSlug) slugsToCheck.push(linkSlug);
+                    }
+
+                    // 3. Slug from company name (usually has as, due to A.Ş. -> AS)
+                    if (item.company) {
+                        slugsToCheck.push(slugify(item.company));
+                    }
+
+                    // Check against all possible base slugs
+                    for (const base of slugsToCheck) {
+                        const longSlug = `${base}-halka-arzi-hakkinda-bilmeniz-gerekenler-2026`;
+                        if (code === longSlug) return true;
+                        if (code === base) return true;
+                    }
+
+                    // Direct code match
                     if (code === item.code) return true;
 
                     return false;
