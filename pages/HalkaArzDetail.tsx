@@ -37,8 +37,19 @@ const HalkaArzDetail: React.FC = () => {
 
                 // Find IPO by generating the expected long slug for each and comparing with URL param
                 const found = allIpos.find((item) => {
-                    const longSlug = slugify(`${item.company} Halka Arzı Hakkında Bilmen Gereken Her Şey 2026`);
-                    return longSlug === code || item.slug === code || item.code === code;
+                    // We check if the current URL slug (code) starts with the company slug or matches the generated long slug
+                    // The new format is: [slug]-halka-arzi-hakkinda-bilmeniz-gerekenler-2026
+                    const baseSlug = item.slug || (item.link ? item.link.match(/halkarz\.com\/([^\/]+)\/?$/)?.[1] : null) || slugify(item.company);
+                    const longSlug = `${baseSlug}-halka-arzi-hakkinda-bilmeniz-gerekenler-2026`;
+
+                    // Direct match
+                    if (code === longSlug) return true;
+                    // Fallback for legacy short links or internal nav
+                    if (code === baseSlug) return true;
+                    // Fallback for code match
+                    if (code === item.code) return true;
+
+                    return false;
                 });
 
                 setIpo(found);
@@ -66,13 +77,17 @@ const HalkaArzDetail: React.FC = () => {
         );
     }
 
+    // SEO Helpers
+    const baseSlug = ipo.slug || (ipo.link ? ipo.link.match(/halkarz\.com\/([^\/]+)\/?$/)?.[1] : null) || slugify(ipo.company);
+    const canonicalPath = `halka-arz/${baseSlug}-halka-arzi-hakkinda-bilmeniz-gerekenler-2026`;
+
     return (
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-500 space-y-8 max-w-5xl mx-auto">
             {ipo && (
                 <SEO
                     title={`${ipo.company} Halka Arzı Hakkında Bilmeniz Gerekenler – 2026`}
-                    description={`${ipo.company} (${ipo.code || 'KOD_YOK'}) halka arz fiyatı ${ipo.price > 0 ? ipo.price + ' TL' : 'belirlenmedi'}, halka arz tarihi ${ipo.dates} ve detaylı şirket analizi. Katılım endeksine uygunluk, dağıtım şekli ve uzman yorumları.`}
-                    canonicalUrl={`https://yatirimx.com/halka-arz/${slugify(`${ipo.company} Halka Arzı Hakkında Bilmeniz Gerekenler 2026`)}/`}
+                    description={`${ipo.company} (${ipo.code || 'KOD_YOK'}) halka arz fiyatı ${ipo.price > 0 ? ipo.price.toFixed(2) + ' TL' : 'belirlenmedi'}, halka arz tarihi ${ipo.dates} ve detaylı şirket analizi. Katılım endeksine uygunluk, dağıtım şekli ve uzman yorumları.`}
+                    canonicalUrl={`https://yatirimx.com/${canonicalPath}/`}
                     keywords={`${ipo.code || ''}, ${ipo.company}, ${ipo.company} halka arz, ${ipo.company} yorum, ${ipo.company} ne zaman işlem görecek, halka arz takvimi`}
                 />
             )}

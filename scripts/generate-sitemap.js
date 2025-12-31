@@ -143,7 +143,18 @@ const main = () => {
             }
 
             if (slug) {
-                xml += createUrlEntry(`/halka-arz/${slug}`, '0.8', 'weekly');
+                // Ensure we use the full company name based slug if possible for better SEO, 
+                // but if we extracted a slug from the link, that's usually good too.
+                // We append the requested suffix.
+                let baseSlug = slug;
+                const suffix = '-halka-arzi-hakkinda-bilmeniz-gerekenler-2026';
+
+                // Avoid double suffixing if run multiple times or if slug already has it
+                if (!baseSlug.endsWith(suffix)) {
+                    xml += createUrlEntry(`/halka-arz/${baseSlug}${suffix}`, '0.8', 'weekly');
+                } else {
+                    xml += createUrlEntry(`/halka-arz/${baseSlug}`, '0.8', 'weekly');
+                }
             }
         });
     }
