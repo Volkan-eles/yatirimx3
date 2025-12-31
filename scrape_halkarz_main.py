@@ -4,6 +4,7 @@ import json
 import os
 import time
 import re
+import subprocess
 from datetime import datetime
 
 # Setup logging
@@ -15,16 +16,36 @@ def log(msg):
         f.write(log_msg + "\n")
 
 def get_soup(url):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Referer": "https://halkarz.com/",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7"
-    }
     try:
-        resp = requests.get(url, headers=headers, timeout=10)
-        resp.raise_for_status()
-        return BeautifulSoup(resp.text, 'html.parser')
+        # Use PowerShell to fetch content to bypass potential bot detection/caching issues
+        ps_command = f"Invoke-WebRequest -Uri '{url}' -UserAgent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' -UseBasicParsing | Select-Object -ExpandProperty Content"
+        cmd = ["powershell", "-Command", ps_command]
+        
+        result = subprocess.run(cmd, capture_output=True, text=True, encoding='utf-8')
+        
+        if result.returncode != 0:
+            log(f"PowerShell fetch failed: {result.stderr}")
+            # Fallback to requests if PS fails
+            headers = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+                "Referer": "https://halkarz.com/"
+            }
+            resp = requests.get(url, headers=headers, timeout=10)
+            resp.raise_for_status()
+            return BeautifulSoup(resp.text, 'html.parser')
+            
+        html_content = result.stdout
+        if not html_content or len(html_content) < 100:
+             log("PowerShell returned empty/short content, falling back to requests")
+             headers = {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+                "Referer": "https://halkarz.com/"
+             }
+             resp = requests.get(url, headers=headers, timeout=10)
+             resp.raise_for_status()
+             return BeautifulSoup(resp.text, 'html.parser')
+
+        return BeautifulSoup(html_content, 'html.parser')
     except Exception as e:
         log(f"Failed to fetch {url}: {e}")
         return None
@@ -213,7 +234,18 @@ def scrape_halkarz():
 
     # Debug
     log(f"Found {len(tab_items)} tab_items")
-    
+    # Debug: Search for missing items
+    full_str = str(soup)
+    if "Formül" in full_str:
+        log("DEBUG: Found 'Formül' in soup!")
+    else:
+        log("DEBUG: 'Formül' NOT found in soup.")
+        
+    if "Z Gayrimenkul" in full_str:
+        log("DEBUG: Found 'Z Gayrimenkul' in soup!")
+    else:
+        log("DEBUG: 'Z Gayrimenkul' NOT found in soup.")
+
     active_container = tab_items[0]
     draft_container = tab_items[1]
     

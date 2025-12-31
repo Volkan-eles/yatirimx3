@@ -17,7 +17,7 @@ if %ERRORLEVEL% EQU 0 (
 
 echo.
 echo [2/3] Halka arz verileri guncelleniyor (Python)...
-py scripts/fetch_halkarz_ipo.py
+python scrape_halkarz_main.py
 if %ERRORLEVEL% EQU 0 (
     echo   ✓ Halka arz verileri guncellendi
 ) else (
