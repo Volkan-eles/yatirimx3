@@ -50,4 +50,16 @@ try {
     Write-Log "✗ Temettü verisi hatası: $($_.Exception.Message)"
 }
 
+try {
+    # Halka Arz Verilerini Güncelle
+    Write-Log "Halka arz verileri çekiliyor..."
+    $pythonScript = Join-Path $scriptPath "convert_piapiri_to_halkarz.py"
+    
+    python $pythonScript
+    Write-Log "✓ Halka arz verileri güncellendi"
+    
+} catch {
+    Write-Log "✗ Halka arz verisi hatası: $($_.Exception.Message)"
+}
+
 Write-Log "=== Veri Güncelleme Tamamlandı ===`n"
