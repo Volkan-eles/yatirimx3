@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 from curl_cffi import requests
+=======
+import requests
+>>>>>>> Stashed changes
 from bs4 import BeautifulSoup
 import json
 import re
