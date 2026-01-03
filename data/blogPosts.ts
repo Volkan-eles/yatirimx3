@@ -296,5 +296,56 @@ export const BLOG_POSTS = [
     date: '20 Aralık 2026',
     image: 'https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?q=80&w=2070&auto=format&fit=crop',
     readTime: '4 dk'
+  },
+  {
+    id: 5,
+    slug: '2026-bedelsiz-potansiyeli-olan-hisseler',
+    title: '2026 Yılında Bedelsiz Potansiyeli En Yüksek 10 Hisse',
+    excerpt: 'Kasasında yüksek nakit bulunan, özkaynakları güçlü ve bedelsiz sermaye artırımı yapma ihtimali (potansiyeli) en yüksek olan hisselerin listesi.',
+    content: `
+      <p>Borsa İstanbul'da yatırımcıların en çok ilgisini çeken konulardan biri de <strong>bedelsiz sermaye artırımı potansiyeli</strong> taşıyan şirketlerdir. Özellikle "Bedelsiz Potansiyeli" yüksek olan hisseler, henüz bölünme kararı almamış olsalar bile, yatırımcılar tarafından yakından takip edilmektedir.</p>
+
+      <h2>Bedelsiz Potansiyeli Nasıl Hesaplanır?</h2>
+      <p>Bir şirketin bedelsiz potansiyeli, özkaynak kalemleri (özellikle geçmiş yıl kârları, olağanüstü yedekler vb.) ile ödenmiş sermayesi arasındaki ilişkiye bakılarak hesaplanır. Formül basitçe şöyledir:</p>
+      <div class="bg-zinc-800 p-4 rounded-lg my-4 font-mono text-sm text-green-400">
+        Bedelsiz Potansiyeli = (Özkaynaklar - Ödenmiş Sermaye) / Ödenmiş Sermaye
+      </div>
+
+      <h2>2026 Bedelsiz Potansiyeli En Yüksek Hisseler</h2>
+      <p>Aşağıdaki liste, finansal tablolarına göre iç kaynakları güçlü ve bedelsiz verme ihtimali matematiksel olarak en yüksek olan şirketlerden bazılarını içermektedir. Bu bir yatırım tavsiyesi değildir, sadece finansal rasyolara dayalı bir analizdir.</p>
+
+      <h3>1. Ege Endüstri (EGEEN)</h3>
+      <p>Yıllardır bedelsiz beklentisi en yüksek olan hisselerin başında gelir. Ödenmiş sermayesinin düşüklüğü ve devasa özkaynakları ile potansiyeli çok yüksektir.</p>
+
+      <h3>2. Konya Çimento (KONYA)</h3>
+      <p>Düşük sermayesi ve yüksek kârlılığı ile her dönem bedelsiz potansiyeli listelerinin üst sıralarında yer alır.</p>
+
+      <h3>3. Çimbeton (CMBTN)</h3>
+      <p>Hazır beton sektörünün güçlü oyuncusu, sermaye yapısı itibarıyla yüksek potansiyel taşımaktadır.</p>
+
+      <h3>4. Pegasus (PGSUS)</h3>
+      <p>Havacılık sektörünün devi, son yıllarda açıkladığı yüksek kârlar ile bedelsiz potansiyelini katlamıştır.</p>
+      
+      <h3>5. Türk Hava Yolları (THYAO)</h3>
+      <p>Türkiye'nin bayrak taşıyıcısı, rekor kârları ile sermaye artırımı beklentisini canlı tutmaktadır.</p>
+      
+      <h3>Diğer Potansiyelli Şirketler</h3>
+      <ul>
+        <li>Borusan Yatırım (BRYAT)</li>
+        <li>Alarko Carrier (ALCAR)</li>
+        <li>Politeknik Metal (POLTK)</li>
+        <li>Otokar (OTKAR)</li>
+        <li>Ford Otosan (FROTO)</li>
+      </ul>
+
+      <div class="bg-yellow-500/10 border-l-4 border-yellow-500 p-4 my-4">
+        <p class="text-sm text-yellow-200"><strong>Dikkat:</strong> Bir şirketin bedelsiz potansiyelinin yüksek olması, kesinlikle bedelsiz vereceği anlamına gelmez. Bu tamamen yönetim kurulu kararına bağlıdır.</p>
+      </div>
+    `,
+    category: 'Hisse Analiz',
+    author: 'Volkan Eles',
+    date: '3 Ocak 2026',
+    image: 'https://images.unsplash.com/photo-1611974765270-ca12586343bb?q=80&w=2070&auto=format&fit=crop',
+    readTime: '5 dk'
   }
 ];

@@ -67,10 +67,10 @@ const SermayeArtirimi: React.FC = () => {
   return (
     <div className="space-y-8 animate-in fade-in slide-in-from-bottom-4 duration-500">
       <SEO
-        title="Sermaye Artırımı Takvimi 2026 - Bedelsiz, Bedelli, Tahsisli | YatırımX"
-        description="BIST şirketlerinin sermaye artırımı duyuruları, bedelsiz hisse, bedelli hisse ve tahsisli artırım takvimi. Güncel sermaye artırımı haberleri ve detaylı analizler."
+        title="2026 Bedelsiz Sermaye Artırımları ve Bölünecek Hisseler | YatirimX"
+        description="2026 bedelsiz verecek hisseler, bedelsiz potansiyeli olan hisseler ve tarihleri. BIST şirketlerinin sermaye artırımı duyuruları ve detaylı analizler."
         canonicalUrl="https://yatirimx.com/sermaye-artirimi/"
-        keywords="sermaye artırımı, bedelsiz hisse, bedelli hisse, tahsisli artırım, sermaye artırımı takvimi, bist sermaye artırımı"
+        keywords="2026 bedelsiz verecek hisseler, 2026 bölünecek hisseler, bedelsiz potansiyeli olan hisseler, sermaye artırımı, bedelsiz hisse, bedelli hisse, tahsisli artırım"
       />
 
       {/* Header */}
@@ -79,8 +79,12 @@ const SermayeArtirimi: React.FC = () => {
           <h1 className="text-3xl font-bold text-white mb-2 flex items-center gap-3">
             <Layers className="w-8 h-8 text-orange-500" /> Sermaye Artırımları
           </h1>
+          <h2 className="text-lg font-semibold text-zinc-300 mb-2">
+            2026 Bedelsiz Verecek Hisseler ve Bölünme Tarihleri
+          </h2>
           <p className="text-zinc-400 max-w-2xl">
-            Bedelli, bedelsiz ve tahsisli sermaye artırımı kararı alan şirketler, oranlar ve süreç durumları.
+            Bedelli, bedelsiz ve tahsisli sermaye artırımı kararı alan şirketler, bölünme oranları ve SPK onay durumları.
+            Bedelsiz potansiyeli olan hisseleri ve 2026 takvimini buradan takip edebilirsiniz.
           </p>
         </div>
       </div>
