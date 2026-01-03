@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-01-03T04:39:07.605070",
+  "last_update": "2026-01-03T05:29:34.349421",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 507,
-  "successful": 507,
-  "failed": 24,
+  "total_stocks": 505,
+  "successful": 505,
+  "failed": 26,
   "stocks": [
     {
       "code": "GARAN",
@@ -35,7 +35,7 @@
       "country": "Turkey",
       "phone": "90 212 318 18 18",
       "description": "Turkiye Garanti Bankasi A.S. provides various banking products and services in Turkey. The company offers current, savings, time deposit, e-savings, YUVAM, NET, ELMA, overdraft, and gold accounts; SME general purpose, auto, mortgage, commercial, foreign currency spot, installment loans, and project loans, as well as IBOR reforms and foreign trade financing; investment funds, stocks, derivatives, Garanti BBVA e-trader platform, time barred deposit and investment lists, and derivative instruments; credit and debit cards, bonusflas, and POS and e-commerce products; and insurance and pension products. It also provides payment systems and services; private banking services; banking services for salary payments/entrepreneurship and women entrepreneurs; leasing, fleet, and factoring services; investment banking and financing services; mobile and internet banking services; and ATM and cash management services. The company was founded in 1946 and is based in Istanbul, Turkey. Turkiye Garanti Bankasi A.S. is a subsidiary of Banco Bilbao Vizcaya Argentaria, S.A.",
-      "pe": 5.8023257,
+      "pe": 5.8000774,
       "forwardPE": 4.423759,
       "priceToBook": 1.5326651,
       "pegRatio": null,
@@ -54,11 +54,11 @@
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
-      "eps": 25.8,
+      "eps": 25.81,
       "forwardEps": 33.84,
       "bookValue": 97.673,
       "dividendRate": 4.39,
-      "dividendYield": 3.06,
+      "dividendYield": 2.93,
       "exDividendDate": 1743120000,
       "payoutRatio": 0.1701,
       "targetHighPrice": 207.14,
@@ -1948,7 +1948,7 @@
       "forwardEps": 6.16,
       "bookValue": 39.956,
       "dividendRate": 0.25,
-      "dividendYield": 1.05,
+      "dividendYield": 1.03,
       "exDividendDate": 1751414400,
       "payoutRatio": 0.3379,
       "targetHighPrice": 39.7,
@@ -2492,7 +2492,7 @@
       "country": "Turkey",
       "phone": "90 216 564 03 03",
       "description": "BIM Birlesik Magazalar A.S., together with its subsidiaries, operates retail stores in Turkey, Morocco, and Egypt. The company's stores sell meat, breakfast and dairy, legumes and bakery, and cosmetics and paper products, as well as beverages, snacks and sweets, fruits and vegetables, frozen foods, oils, and cleaning supplies. The company was incorporated in 1995 and is headquartered in Istanbul, Turkey.",
-      "pe": 28.503939,
+      "pe": 28.488983,
       "forwardPE": 10.210606,
       "priceToBook": 2.135584,
       "pegRatio": null,
@@ -2511,11 +2511,11 @@
       "debtToEquity": 31.82,
       "currentRatio": 1.007,
       "quickRatio": 0.49,
-      "eps": 19.05,
+      "eps": 19.06,
       "forwardEps": 53.18,
       "bookValue": 254.263,
       "dividendRate": 17.0,
-      "dividendYield": 3.17,
+      "dividendYield": 3.13,
       "exDividendDate": 1765929600,
       "payoutRatio": 0.6303,
       "targetHighPrice": 914.0,
@@ -4216,7 +4216,7 @@
       "forwardEps": 29.89,
       "bookValue": 254.235,
       "dividendRate": 6.88,
-      "dividendYield": 4.08,
+      "dividendYield": 3.94,
       "exDividendDate": 1744243200,
       "payoutRatio": 2.7465,
       "targetHighPrice": 333.0,
@@ -4594,7 +4594,7 @@
       "forwardEps": 183.63,
       "bookValue": 45.246,
       "dividendRate": 7.76,
-      "dividendYield": 8.38,
+      "dividendYield": 8.12,
       "exDividendDate": 1764720000,
       "payoutRatio": 0.4074,
       "targetHighPrice": 227.0,
@@ -5111,7 +5111,7 @@
     {
       "code": "KOZAL",
       "symbol": "KOZAL.IS",
-      "name": "Koza Altin Isletmeleri A.S.",
+      "name": "Turk Altin Isletmeleri A.S.",
       "shortName": "TURK ALTIN ISLETMELERI",
       "price": 41.96,
       "change": 0.98,
@@ -13245,7 +13245,7 @@
       "changeRate": -6.62,
       "previousClose": 26.0,
       "open": 26.0,
-      "dayLow": 23.4,
+      "dayLow": 23.42,
       "dayHigh": 26.3,
       "fiftyTwoWeekLow": 10.0,
       "fiftyTwoWeekHigh": 26.3,
@@ -13812,7 +13812,7 @@
       "changeRate": 0.58,
       "previousClose": 103.5,
       "open": 103.7,
-      "dayLow": 103.5,
+      "dayLow": 103.6,
       "dayHigh": 104.6,
       "fiftyTwoWeekLow": 90.6,
       "fiftyTwoWeekHigh": 151.1,
@@ -14380,7 +14380,7 @@
       "previousClose": 16.69,
       "open": 16.69,
       "dayLow": 15.86,
-      "dayHigh": 17.06,
+      "dayHigh": 17.04,
       "fiftyTwoWeekLow": 13.65,
       "fiftyTwoWeekHigh": 26.44,
       "fiftyDayAverage": 15.93,
@@ -14568,7 +14568,7 @@
       "changeRate": -1.07,
       "previousClose": 98.25,
       "open": 98.6,
-      "dayLow": 96.4,
+      "dayLow": 96.5,
       "dayHigh": 100.7,
       "fiftyTwoWeekLow": 68.05,
       "fiftyTwoWeekHigh": 114.1,
@@ -21373,9 +21373,9 @@
       "previousClose": 30.4,
       "open": 30.4,
       "dayLow": 30.4,
-      "dayHigh": 33.44,
+      "dayHigh": 33.38,
       "fiftyTwoWeekLow": 9.06,
-      "fiftyTwoWeekHigh": 33.44,
+      "fiftyTwoWeekHigh": 33.38,
       "fiftyDayAverage": 22.96,
       "twoHundredDayAverage": 16.37,
       "volume": "15,893,189",
@@ -25195,7 +25195,7 @@
       "forwardEps": 9.35,
       "bookValue": 26.042,
       "dividendRate": 1.07,
-      "dividendYield": 1.82,
+      "dividendYield": 1.81,
       "exDividendDate": 1748217600,
       "payoutRatio": 0.3044,
       "targetHighPrice": 101.0,
@@ -27799,7 +27799,7 @@
       "previousClose": 11.86,
       "open": 11.98,
       "dayLow": 11.76,
-      "dayHigh": 13.04,
+      "dayHigh": 13.03,
       "fiftyTwoWeekLow": 6.64,
       "fiftyTwoWeekHigh": 19.75,
       "fiftyDayAverage": 12.51,
@@ -30067,7 +30067,7 @@
       "previousClose": 31.25,
       "open": 32.92,
       "dayLow": 29.8,
-      "dayHigh": 34.38,
+      "dayHigh": 34.28,
       "fiftyTwoWeekLow": 11.04,
       "fiftyTwoWeekHigh": 51.6,
       "fiftyDayAverage": 36.14,
@@ -30676,7 +30676,7 @@
       "forwardEps": 108.59,
       "bookValue": 305.023,
       "dividendRate": 37.27,
-      "dividendYield": 19.82,
+      "dividendYield": 19.31,
       "exDividendDate": 1747699200,
       "payoutRatio": 1.2839999,
       "targetHighPrice": 302.9,
@@ -30811,195 +30811,6 @@
       ],
       "heldPercentInsiders": 0.605,
       "heldPercentInstitutions": 0.057350002
-    },
-    {
-      "code": "DOBUR",
-      "symbol": "DOBUR.IS",
-      "name": "Big Medya Teknoloji Anonim Sirketi",
-      "shortName": "BIG MEDYA TEKNOLOJI",
-      "price": 302.0,
-      "change": -4.5,
-      "changeRate": -1.47,
-      "previousClose": 306.5,
-      "open": 484.25,
-      "dayLow": 464.25,
-      "dayHigh": 517.5,
-      "fiftyTwoWeekLow": 155.9,
-      "fiftyTwoWeekHigh": 598.5,
-      "fiftyDayAverage": 362.87,
-      "twoHundredDayAverage": 329.77,
-      "volume": "217,720",
-      "averageVolume": 361950,
-      "averageVolume10days": 296252,
-      "marketCap": 9975179264,
-      "enterpriseValue": 8090941440,
-      "sharesOutstanding": 19559175,
-      "sector": "Communication Services",
-      "industry": "Publishing",
-      "website": "https://www.doganburda.com",
-      "address": "Trump Towers",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 410 36 54",
-      "description": "Dogan Burda Dergi Yayincilik Ve Pazarlama A.S. publishes magazines in Turkey. It publishes magazines in computer and technology, decoration, youth, travel and exploration, human, business and economy, corporate, life and style, fashion and women, special interest, and health and fitness categories in printed and digital formats. The company was incorporated in 1988 and is based in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 855.70465,
-      "pegRatio": null,
-      "priceToSales": 20.771368,
-      "enterpriseToRevenue": 16.848,
-      "enterpriseToEbitda": -132.449,
-      "profitMargins": -0.01449,
-      "grossMargins": 0.36463,
-      "operatingMargins": -0.06408,
-      "returnOnAssets": -0.16278,
-      "returnOnEquity": -0.27909002,
-      "totalRevenue": 480236992,
-      "revenuePerShare": 24.553,
-      "totalCash": 63321992,
-      "totalDebt": 71434376,
-      "debtToEquity": 613.176,
-      "currentRatio": 1.134,
-      "quickRatio": 1.043,
-      "eps": -0.36,
-      "forwardEps": null,
-      "bookValue": 0.596,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1459123200,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.801,
-      "historicalData": [
-        {
-          "Close": 303.0,
-          "Volume": 103423
-        },
-        {
-          "Close": 322.0,
-          "Volume": 370163
-        },
-        {
-          "Close": 308.25,
-          "Volume": 271563
-        },
-        {
-          "Close": 339.0,
-          "Volume": 213297
-        },
-        {
-          "Close": 319.25,
-          "Volume": 528534
-        },
-        {
-          "Close": 319.0,
-          "Volume": 255711
-        },
-        {
-          "Close": 350.75,
-          "Volume": 921242
-        },
-        {
-          "Close": 340.25,
-          "Volume": 415896
-        },
-        {
-          "Close": 341.0,
-          "Volume": 261012
-        },
-        {
-          "Close": 333.75,
-          "Volume": 159518
-        },
-        {
-          "Close": 329.0,
-          "Volume": 131079
-        },
-        {
-          "Close": 331.75,
-          "Volume": 113242
-        },
-        {
-          "Close": 324.0,
-          "Volume": 106536
-        },
-        {
-          "Close": 319.75,
-          "Volume": 106391
-        },
-        {
-          "Close": 315.5,
-          "Volume": 82622
-        },
-        {
-          "Close": 314.75,
-          "Volume": 83990
-        },
-        {
-          "Close": 346.0,
-          "Volume": 381461
-        },
-        {
-          "Close": 334.5,
-          "Volume": 247206
-        },
-        {
-          "Close": 321.25,
-          "Volume": 125652
-        },
-        {
-          "Close": 321.75,
-          "Volume": 86752
-        },
-        {
-          "Close": 319.5,
-          "Volume": 84217
-        },
-        {
-          "Close": 320.75,
-          "Volume": 184323
-        },
-        {
-          "Close": 316.0,
-          "Volume": 80889
-        },
-        {
-          "Close": 347.5,
-          "Volume": 445374
-        },
-        {
-          "Close": 382.25,
-          "Volume": 1097957
-        },
-        {
-          "Close": 374.0,
-          "Volume": 2514418
-        },
-        {
-          "Close": 336.75,
-          "Volume": 408326
-        },
-        {
-          "Close": 315.0,
-          "Volume": 1876614
-        },
-        {
-          "Close": 306.5,
-          "Volume": 300121
-        },
-        {
-          "Close": 302.0,
-          "Volume": 217720
-        }
-      ],
-      "heldPercentInsiders": 0.51413,
-      "heldPercentInstitutions": 0.18634
     },
     {
       "code": "DOCO",
@@ -32721,7 +32532,7 @@
       "volume": "37,409,163",
       "averageVolume": 8887437,
       "averageVolume10days": 18058082,
-      "marketCap": 2678451968,
+      "marketCap": 2870884608,
       "enterpriseValue": 2623239424,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32736,7 +32547,7 @@
       "forwardPE": null,
       "priceToBook": 3.0833333,
       "pegRatio": null,
-      "priceToSales": 1.495502,
+      "priceToSales": 1.6029459,
       "enterpriseToRevenue": 1.465,
       "enterpriseToEbitda": 36.863,
       "profitMargins": -0.01041,
@@ -32902,7 +32713,7 @@
       "previousClose": 34.4,
       "open": 34.44,
       "dayLow": 34.44,
-      "dayHigh": 35.36,
+      "dayHigh": 35.3,
       "fiftyTwoWeekLow": 17.38,
       "fiftyTwoWeekHigh": 49.8,
       "fiftyDayAverage": 34.96,
@@ -33079,195 +32890,6 @@
       ],
       "heldPercentInsiders": 0.52104,
       "heldPercentInstitutions": 0.0
-    },
-    {
-      "code": "EFORC",
-      "symbol": "EFORC.IS",
-      "name": "Efor Yatirim Sanayi Ticaret Anonim Sirketi",
-      "shortName": "EFOR YATIRIM SANAYI TICARET A S",
-      "price": 23.5,
-      "change": -0.7,
-      "changeRate": -2.89,
-      "previousClose": 24.2,
-      "open": 143.7,
-      "dayLow": 141.1,
-      "dayHigh": 143.7,
-      "fiftyTwoWeekLow": 39.18,
-      "fiftyTwoWeekHigh": 160.4,
-      "fiftyDayAverage": 132.37,
-      "twoHundredDayAverage": 108.79,
-      "volume": "19,249,250",
-      "averageVolume": 1373261,
-      "averageVolume10days": 1608990,
-      "marketCap": 51473399808,
-      "enterpriseValue": 57359364096,
-      "sharesOutstanding": 363000000,
-      "sector": "Consumer Defensive",
-      "industry": "Farm Products",
-      "website": "https://www.eforcay.com",
-      "address": "Fatih Sultan Mehmet Mah. Aheste Sk. No: 7/8",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 216 252 07 46",
-      "description": "Efor Cay Sanayi Ticaret Anonim Sirketi produces and sells tea products in Turkey. Its products include bulk tea, teapot bag, cup bag tea, form fruit and herbal tea, O.P.A Ceylon tea, and out-of-home consumption tea products. The company was founded in 2005 and is based in Istanbul, Turkey.",
-      "pe": 172.92683,
-      "forwardPE": null,
-      "priceToBook": 11.25129,
-      "pegRatio": null,
-      "priceToSales": 5.5304337,
-      "enterpriseToRevenue": 6.163,
-      "enterpriseToEbitda": 43.465,
-      "profitMargins": 0.02718,
-      "grossMargins": 0.18596001,
-      "operatingMargins": 0.049039997,
-      "returnOnAssets": 0.09771,
-      "returnOnEquity": 0.07259,
-      "totalRevenue": 9307298816,
-      "revenuePerShare": 25.664,
-      "totalCash": 204660048,
-      "totalDebt": 4711224320,
-      "debtToEquity": 102.984,
-      "currentRatio": 1.16,
-      "quickRatio": 0.411,
-      "eps": 0.82,
-      "forwardEps": null,
-      "bookValue": 12.603,
-      "dividendRate": 0.14,
-      "dividendYield": 0.00090000004,
-      "exDividendDate": 1755216000,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": null,
-      "historicalData": [
-        {
-          "Close": 22.183332443237305,
-          "Volume": 16446659
-        },
-        {
-          "Close": 22.433332443237305,
-          "Volume": 7977173
-        },
-        {
-          "Close": 22.716665267944336,
-          "Volume": 8816075
-        },
-        {
-          "Close": 22.78333282470703,
-          "Volume": 4740281
-        },
-        {
-          "Close": 23.299999237060547,
-          "Volume": 8625413
-        },
-        {
-          "Close": 22.399999618530273,
-          "Volume": 6562664
-        },
-        {
-          "Close": 22.8799991607666,
-          "Volume": 9267788
-        },
-        {
-          "Close": 25.15999984741211,
-          "Volume": 12063990
-        },
-        {
-          "Close": 26.579999923706055,
-          "Volume": 43367020
-        },
-        {
-          "Close": 29.219999313354492,
-          "Volume": 17183680
-        },
-        {
-          "Close": 31.899999618530273,
-          "Volume": 25333420
-        },
-        {
-          "Close": 31.979999542236328,
-          "Volume": 23160460
-        },
-        {
-          "Close": 31.020000457763672,
-          "Volume": 13084200
-        },
-        {
-          "Close": 30.760000228881836,
-          "Volume": 10182160
-        },
-        {
-          "Close": 31.420000076293945,
-          "Volume": 6179461
-        },
-        {
-          "Close": 28.31999969482422,
-          "Volume": 10241410
-        },
-        {
-          "Close": 29.100000381469727,
-          "Volume": 17413490
-        },
-        {
-          "Close": 29.479999542236328,
-          "Volume": 17105200
-        },
-        {
-          "Close": 30.579999923706055,
-          "Volume": 11135170
-        },
-        {
-          "Close": 31.1200008392334,
-          "Volume": 12902400
-        },
-        {
-          "Close": 31.479999542236328,
-          "Volume": 9080333
-        },
-        {
-          "Close": 30.799999237060547,
-          "Volume": 13382300
-        },
-        {
-          "Close": 27.719999313354492,
-          "Volume": 10293110
-        },
-        {
-          "Close": 25.059999465942383,
-          "Volume": 34758480
-        },
-        {
-          "Close": 26.639999389648438,
-          "Volume": 26617870
-        },
-        {
-          "Close": 25.100000381469727,
-          "Volume": 21067490
-        },
-        {
-          "Close": 26.399999618530273,
-          "Volume": 12325940
-        },
-        {
-          "Close": 23.760000228881836,
-          "Volume": 16396380
-        },
-        {
-          "Close": 24.200000762939453,
-          "Volume": 13706540
-        },
-        {
-          "Close": 23.5,
-          "Volume": 19249250
-        }
-      ],
-      "heldPercentInsiders": 0.75207,
-      "heldPercentInstitutions": 0.02348
     },
     {
       "code": "EGEEN",
@@ -37816,7 +37438,7 @@
       "previousClose": 32.8,
       "open": 33.0,
       "dayLow": 32.84,
-      "dayHigh": 33.9,
+      "dayHigh": 33.84,
       "fiftyTwoWeekLow": 23.3,
       "fiftyTwoWeekHigh": 40.18,
       "fiftyDayAverage": 29.92,
@@ -43297,7 +42919,7 @@
       "previousClose": 21.72,
       "open": 21.74,
       "dayLow": 21.74,
-      "dayHigh": 22.46,
+      "dayHigh": 22.44,
       "fiftyTwoWeekLow": 15.51,
       "fiftyTwoWeekHigh": 26.46,
       "fiftyDayAverage": 21.88,
@@ -45943,7 +45565,7 @@
       "previousClose": 41.96,
       "open": 42.04,
       "dayLow": 41.9,
-      "dayHigh": 43.0,
+      "dayHigh": 42.8,
       "fiftyTwoWeekLow": 35.82,
       "fiftyTwoWeekHigh": 53.95,
       "fiftyDayAverage": 45.84,
@@ -51423,7 +51045,7 @@
       "changeRate": -4.12,
       "previousClose": 11.64,
       "open": 11.68,
-      "dayLow": 11.11,
+      "dayLow": 11.12,
       "dayHigh": 11.68,
       "fiftyTwoWeekLow": 2.58,
       "fiftyTwoWeekHigh": 12.91,
@@ -52936,7 +52558,7 @@
       "previousClose": 18.61,
       "open": 18.65,
       "dayLow": 18.65,
-      "dayHigh": 20.46,
+      "dayHigh": 20.44,
       "fiftyTwoWeekLow": 18.46,
       "fiftyTwoWeekHigh": 31.0,
       "fiftyDayAverage": 19.72,
@@ -59362,7 +58984,7 @@
       "previousClose": 24.76,
       "open": 25.06,
       "dayLow": 24.7,
-      "dayHigh": 25.4,
+      "dayHigh": 25.24,
       "fiftyTwoWeekLow": 22.16,
       "fiftyTwoWeekHigh": 42.0,
       "fiftyDayAverage": 27.27,
@@ -60684,7 +60306,7 @@
       "changeRate": 1.21,
       "previousClose": 53.5,
       "open": 53.55,
-      "dayLow": 53.45,
+      "dayLow": 53.5,
       "dayHigh": 54.9,
       "fiftyTwoWeekLow": 19.62,
       "fiftyTwoWeekHigh": 72.0,
@@ -61063,7 +60685,7 @@
       "previousClose": 23.2,
       "open": 23.42,
       "dayLow": 23.34,
-      "dayHigh": 24.34,
+      "dayHigh": 24.3,
       "fiftyTwoWeekLow": 17.25,
       "fiftyTwoWeekHigh": 27.96,
       "fiftyDayAverage": 24.69,
@@ -62952,7 +62574,7 @@
       "changeRate": 0.32,
       "previousClose": 15.45,
       "open": 15.5,
-      "dayLow": 15.3,
+      "dayLow": 15.32,
       "dayHigh": 16.31,
       "fiftyTwoWeekLow": 5.97,
       "fiftyTwoWeekHigh": 22.86,
@@ -67677,7 +67299,7 @@
       "changeRate": -0.73,
       "previousClose": 21.98,
       "open": 21.96,
-      "dayLow": 21.5,
+      "dayLow": 21.58,
       "dayHigh": 21.98,
       "fiftyTwoWeekLow": 17.13,
       "fiftyTwoWeekHigh": 30.8,
@@ -71646,7 +71268,7 @@
       "changeRate": -1.56,
       "previousClose": 54.45,
       "open": 54.45,
-      "dayLow": 53.0,
+      "dayLow": 53.1,
       "dayHigh": 56.8,
       "fiftyTwoWeekLow": 19.4,
       "fiftyTwoWeekHigh": 62.85,
@@ -76560,7 +76182,7 @@
       "changeRate": 0.98,
       "previousClose": 30.66,
       "open": 30.76,
-      "dayLow": 30.38,
+      "dayLow": 30.42,
       "dayHigh": 31.2,
       "fiftyTwoWeekLow": 24.5,
       "fiftyTwoWeekHigh": 47.5,
@@ -79773,7 +79395,7 @@
       "changeRate": -2.21,
       "previousClose": 23.48,
       "open": 23.8,
-      "dayLow": 22.62,
+      "dayLow": 22.64,
       "dayHigh": 23.8,
       "fiftyTwoWeekLow": 9.47,
       "fiftyTwoWeekHigh": 30.42,
@@ -81152,7 +80774,7 @@
       "beta": 0.393,
       "historicalData": [
         {
-          "Close": 177.5314178466797,
+          "Close": 177.53143310546875,
           "Volume": 479173
         },
         {
@@ -81663,7 +81285,7 @@
       "changeRate": 0.63,
       "previousClose": 8.0,
       "open": 8.09,
-      "dayLow": 7.95,
+      "dayLow": 7.97,
       "dayHigh": 8.09,
       "fiftyTwoWeekLow": 6.51,
       "fiftyTwoWeekHigh": 10.4,
@@ -92058,7 +91680,7 @@
       "changeRate": -2.3,
       "previousClose": 16.94,
       "open": 16.94,
-      "dayLow": 16.5,
+      "dayLow": 16.55,
       "dayHigh": 17.4,
       "fiftyTwoWeekLow": 15.2,
       "fiftyTwoWeekHigh": 26.58,
@@ -92247,7 +91869,7 @@
       "changeRate": -1.42,
       "previousClose": 42.3,
       "open": 42.26,
-      "dayLow": 41.42,
+      "dayLow": 41.44,
       "dayHigh": 42.26,
       "fiftyTwoWeekLow": 28.52,
       "fiftyTwoWeekHigh": 64.05,
