@@ -1,4 +1,4 @@
-import requests
+from curl_cffi import requests
 import json
 import os
 from datetime import datetime
@@ -12,7 +12,7 @@ def log(msg):
 def scrape_dividends():
     url = "https://halkarz.com/wp-content/themes/halkarz/json/temettu.json"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         "Referer": "https://halkarz.com/temettu-takvimi/",
         "Accept": "application/json, text/plain, */*",
         "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7"
@@ -20,7 +20,8 @@ def scrape_dividends():
 
     try:
         log(f"Fetching data from {url}...")
-        response = requests.get(url, headers=headers, timeout=15)
+        # Use curl_cffi to bypass 403 blocks
+        response = requests.get(url, headers=headers, impersonate="chrome124", timeout=30)
         log(f"Response status: {response.status_code}")
         log(f"Response size: {len(response.content)} bytes")
         
