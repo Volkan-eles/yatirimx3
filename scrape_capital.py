@@ -1,4 +1,4 @@
-import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 import json
 import os
@@ -13,7 +13,7 @@ def scrape_capital_increases():
     log("Starting scraper...")
     url = "https://halkarz.com/sermaye-artirimi/"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         "Referer": "https://halkarz.com/",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7"
@@ -21,7 +21,8 @@ def scrape_capital_increases():
 
     try:
         log(f"Requesting {url}")
-        response = requests.get(url, headers=headers)
+        # Use curl_cffi to bypass 403 blocks
+        response = requests.get(url, headers=headers, impersonate="chrome124", timeout=30)
         log(f"Response status: {response.status_code}")
         response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
