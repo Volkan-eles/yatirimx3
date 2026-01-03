@@ -10,6 +10,10 @@ Disallow: /*.json$
 Allow: /bist_live_data.json
 Allow: /temettu.json
 Allow: /halkarz_ipos.json
+Allow: /halkarz_target_prices.json
+Allow: /brokers_tefas.json
+Allow: /sermaye_artirimi.json
+Allow: /piapiri_ipos.json
 
 # Sitemap
 Sitemap: https://yatirimx.com/sitemap.xml
