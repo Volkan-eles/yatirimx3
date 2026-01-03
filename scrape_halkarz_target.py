@@ -1,7 +1,8 @@
-import requests
+from curl_cffi import requests
 import json
 import os
 from datetime import datetime
+import sys
 
 def log(msg):
     timestamp = datetime.now().isoformat()
@@ -17,14 +18,13 @@ def scrape_halkarz_target_prices():
     
     try:
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Referer": "https://halkarz.com/",
             "Accept": "application/json, text/plain, */*",
             "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7"
         }
         
         log("Sending HTTP request...")
-        response = requests.get(json_url, headers=headers, timeout=15)
+        response = requests.get(json_url, headers=headers, impersonate="chrome124", timeout=30)
         log(f"Response status: {response.status_code}")
         log(f"Response size: {len(response.content)} bytes")
         
@@ -55,14 +55,8 @@ def scrape_halkarz_target_prices():
         
         return True
         
-    except requests.Timeout:
-        log("✗ Error: Request timed out after 15 seconds")
-    except requests.RequestException as e:
-        log(f"✗ Network error: {e}")
-    except json.JSONDecodeError as e:
-        log(f"✗ JSON parse error: {e}")
     except Exception as e:
-        log(f"✗ Unexpected error: {e}")
+        log(f"✗ Error: {e}")
         import traceback
         traceback.print_exc()
     

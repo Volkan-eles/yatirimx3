@@ -12,7 +12,6 @@ def log(msg):
 def scrape_dividends():
     url = "https://halkarz.com/wp-content/themes/halkarz/json/temettu.json"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         "Referer": "https://halkarz.com/temettu-takvimi/",
         "Accept": "application/json, text/plain, */*",
         "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7"
@@ -45,14 +44,8 @@ def scrape_dividends():
         log(f"✓ Successfully saved {len(data)} records to {output_path}")
         return True
 
-    except requests.Timeout:
-        log(f"✗ Request timed out after 15 seconds")
-    except requests.RequestException as e:
-        log(f"✗ Network error: {e}")
-    except json.JSONDecodeError as e:
-        log(f"✗ JSON parse error: {e}")
     except Exception as e:
-        log(f"✗ Unexpected error: {e}")
+        log(f"✗ Error: {e}")
         import traceback
         traceback.print_exc()
     
