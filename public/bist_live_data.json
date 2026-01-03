@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-01-03T10:51:12.539576",
+  "last_update": "2026-01-03T11:24:01.918655",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 505,
-  "successful": 505,
-  "failed": 26,
+  "total_stocks": 506,
+  "successful": 506,
+  "failed": 25,
   "stocks": [
     {
       "code": "GARAN",
@@ -570,7 +570,7 @@
         }
       ],
       "heldPercentInsiders": 0.61166,
-      "heldPercentInstitutions": 0.12173
+      "heldPercentInstitutions": 0.12114
     },
     {
       "code": "ISCTR",
@@ -2460,7 +2460,7 @@
         }
       ],
       "heldPercentInsiders": 0.74195,
-      "heldPercentInstitutions": 0.070089996
+      "heldPercentInstitutions": 0.07007
     },
     {
       "code": "BIMAS",
@@ -8319,7 +8319,7 @@
         }
       ],
       "heldPercentInsiders": 0.27186,
-      "heldPercentInstitutions": 0.16929
+      "heldPercentInstitutions": 0.1693
     },
     {
       "code": "KARSN",
@@ -18178,7 +18178,7 @@
       "city": "Ankara",
       "country": "Turkey",
       "phone": "90 312 445 04 64",
-      "description": "Ayen Enerji A.S., together with its subsidiaries, engages in the production, distribution, and trading of electricity in Turkey and internationally. It generates electricity through hydroelectric, solar, and wind sources. Ayen Enerji A.S. was incorporated in 1990 and is based in Ankara, Turkey. Ayen Enerji A.S. operates as a subsidiary of Aydiner Insaat AS.",
+      "description": "Ayen Enerji A.S., together with its subsidiaries, engages in the production, distribution, and trading of electricity in Turkey and internationally. It generates electricity through hydroelectric, solar, and wind sources. Ayen Enerji A.S. was incorporated in 1990 and is based in Ankara, Turkey. Ayen Enerji A.S. is a subsidiary of Aydiner Insaat AS.",
       "pe": null,
       "forwardPE": null,
       "priceToBook": 0.42607367,
@@ -32890,6 +32890,195 @@
       ],
       "heldPercentInsiders": 0.52104,
       "heldPercentInstitutions": 0.0
+    },
+    {
+      "code": "EFORC",
+      "symbol": "EFORC.IS",
+      "name": "EFORC",
+      "shortName": "EFORC",
+      "price": 23.5,
+      "change": -0.7,
+      "changeRate": -2.89,
+      "previousClose": 24.2,
+      "open": 23.5,
+      "dayLow": 23.03,
+      "dayHigh": 23.97,
+      "fiftyTwoWeekLow": 16.45,
+      "fiftyTwoWeekHigh": 35.25,
+      "fiftyDayAverage": 23.5,
+      "twoHundredDayAverage": 23.5,
+      "volume": "19,249,250",
+      "averageVolume": 19249250,
+      "averageVolume10days": 19249250,
+      "marketCap": 0,
+      "enterpriseValue": 0,
+      "sharesOutstanding": 0,
+      "sector": "Diğer",
+      "industry": "",
+      "website": "",
+      "address": "",
+      "city": "",
+      "country": "Turkey",
+      "phone": "",
+      "description": "",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": null,
+      "pegRatio": null,
+      "priceToSales": null,
+      "enterpriseToRevenue": null,
+      "enterpriseToEbitda": null,
+      "profitMargins": null,
+      "grossMargins": null,
+      "operatingMargins": null,
+      "returnOnAssets": null,
+      "returnOnEquity": null,
+      "totalRevenue": null,
+      "revenuePerShare": null,
+      "totalCash": null,
+      "totalDebt": null,
+      "debtToEquity": null,
+      "currentRatio": null,
+      "quickRatio": null,
+      "eps": null,
+      "forwardEps": null,
+      "bookValue": null,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "",
+      "numberOfAnalystOpinions": 0,
+      "beta": null,
+      "historicalData": [
+        {
+          "Close": 22.183332443237305,
+          "Volume": 16446659
+        },
+        {
+          "Close": 22.433332443237305,
+          "Volume": 7977173
+        },
+        {
+          "Close": 22.716665267944336,
+          "Volume": 8816075
+        },
+        {
+          "Close": 22.78333282470703,
+          "Volume": 4740281
+        },
+        {
+          "Close": 23.299999237060547,
+          "Volume": 8625413
+        },
+        {
+          "Close": 22.399999618530273,
+          "Volume": 6562664
+        },
+        {
+          "Close": 22.8799991607666,
+          "Volume": 9267788
+        },
+        {
+          "Close": 25.15999984741211,
+          "Volume": 12063990
+        },
+        {
+          "Close": 26.579999923706055,
+          "Volume": 43367020
+        },
+        {
+          "Close": 29.219999313354492,
+          "Volume": 17183680
+        },
+        {
+          "Close": 31.899999618530273,
+          "Volume": 25333420
+        },
+        {
+          "Close": 31.979999542236328,
+          "Volume": 23160460
+        },
+        {
+          "Close": 31.020000457763672,
+          "Volume": 13084200
+        },
+        {
+          "Close": 30.760000228881836,
+          "Volume": 10182160
+        },
+        {
+          "Close": 31.420000076293945,
+          "Volume": 6179461
+        },
+        {
+          "Close": 28.31999969482422,
+          "Volume": 10241410
+        },
+        {
+          "Close": 29.100000381469727,
+          "Volume": 17413490
+        },
+        {
+          "Close": 29.479999542236328,
+          "Volume": 17105200
+        },
+        {
+          "Close": 30.579999923706055,
+          "Volume": 11135170
+        },
+        {
+          "Close": 31.1200008392334,
+          "Volume": 12902400
+        },
+        {
+          "Close": 31.479999542236328,
+          "Volume": 9080333
+        },
+        {
+          "Close": 30.799999237060547,
+          "Volume": 13382300
+        },
+        {
+          "Close": 27.719999313354492,
+          "Volume": 10293110
+        },
+        {
+          "Close": 25.059999465942383,
+          "Volume": 34758480
+        },
+        {
+          "Close": 26.639999389648438,
+          "Volume": 26617870
+        },
+        {
+          "Close": 25.100000381469727,
+          "Volume": 21067490
+        },
+        {
+          "Close": 26.399999618530273,
+          "Volume": 12325940
+        },
+        {
+          "Close": 23.760000228881836,
+          "Volume": 16396380
+        },
+        {
+          "Close": 24.200000762939453,
+          "Volume": 13706540
+        },
+        {
+          "Close": 23.5,
+          "Volume": 19249250
+        }
+      ],
+      "heldPercentInsiders": null,
+      "heldPercentInstitutions": null
     },
     {
       "code": "EGEEN",
@@ -80774,7 +80963,7 @@
       "beta": 0.393,
       "historicalData": [
         {
-          "Close": 177.5314178466797,
+          "Close": 177.53143310546875,
           "Volume": 479173
         },
         {
