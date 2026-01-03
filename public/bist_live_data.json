@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-03T07:25:46.692748",
+  "last_update": "2026-01-03T07:44:23.575286",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 505,
   "successful": 505,
@@ -1515,7 +1515,7 @@
         }
       ],
       "heldPercentInsiders": 0.52811,
-      "heldPercentInstitutions": 0.059970003
+      "heldPercentInstitutions": 0.05978
     },
     {
       "code": "TUPRS",
@@ -1704,7 +1704,7 @@
         }
       ],
       "heldPercentInsiders": 0.52744997,
-      "heldPercentInstitutions": 0.08044
+      "heldPercentInstitutions": 0.08064
     },
     {
       "code": "PETKM",
@@ -3027,7 +3027,7 @@
         }
       ],
       "heldPercentInsiders": 0.24271,
-      "heldPercentInstitutions": 0.41006002
+      "heldPercentInstitutions": 0.40995
     },
     {
       "code": "TTKOM",
@@ -6240,7 +6240,7 @@
         }
       ],
       "heldPercentInsiders": 0.69254,
-      "heldPercentInstitutions": 0.01212
+      "heldPercentInstitutions": 0.01207
     },
     {
       "code": "GUBRF",
@@ -8886,7 +8886,7 @@
         }
       ],
       "heldPercentInsiders": 0.37604,
-      "heldPercentInstitutions": 0.15517999
+      "heldPercentInstitutions": 0.15519
     },
     {
       "code": "AGHOL",
@@ -80774,7 +80774,7 @@
       "beta": 0.393,
       "historicalData": [
         {
-          "Close": 177.5314178466797,
+          "Close": 177.53143310546875,
           "Volume": 479173
         },
         {
