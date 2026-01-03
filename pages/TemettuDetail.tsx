@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft, Calendar, DollarSign, Percent, TrendingUp, Clock, AlertCircle, Loader2, PieChart, Wallet, Info, Calculator, LineChart } from 'lucide-react';
