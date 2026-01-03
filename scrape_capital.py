@@ -1,4 +1,5 @@
 from curl_cffi import requests
+import time
 from bs4 import BeautifulSoup
 import json
 import os
@@ -18,12 +19,23 @@ def scrape_capital_increases():
         "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7"
     }
 
+    browsers = ["chrome120", "safari15_5", "edge99"]
+    
+    for attempt, browser in enumerate(browsers, 1):
+        try:
+            log(f"Attempt {attempt}/{len(browsers)}: Requesting {url} with {browser}")
+            response = requests.get(url, headers=headers, impersonate=browser, timeout=30)
+            log(f"Response status: {response.status_code}")
+            response.raise_for_status()
+            break  # Success!
+        except Exception as e:
+            log(f"{browser} failed: {e}")
+            if attempt < len(browsers):
+                time.sleep(2)
+            else:
+                raise  # Re-raise if all attempts failed
+    
     try:
-        log(f"Requesting {url}")
-        # Use curl_cffi to bypass 403 blocks
-        response = requests.get(url, headers=headers, impersonate="chrome124", timeout=30)
-        log(f"Response status: {response.status_code}")
-        response.raise_for_status()
         soup = BeautifulSoup(response.content, 'html.parser')
         log("Parsed HTML")
 
@@ -130,3 +142,5 @@ def scrape_capital_increases():
 
 if __name__ == "__main__":
     scrape_capital_increases()
+    import sys
+    sys.exit(0)  # Always exit 0

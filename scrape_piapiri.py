@@ -1,4 +1,5 @@
 from curl_cffi import requests
+import time as time_module
 from bs4 import BeautifulSoup
 import json
 import os
@@ -13,20 +14,27 @@ def log(msg):
 
 def scrape_piapiri():
     url = "https://www.piapiri.com/halka-arz/"
-    headers = {
-        # User-Agent removed to let curl_cffi handle it
-    }
+    headers = {}
+    browsers = ["chrome120", "safari15_5", "edge99"]
 
     log(f"Starting scraper for {url}")
-    try:
-        response = requests.get(url, headers=headers, impersonate="chrome124", timeout=30)
-        response.raise_for_status()
-        log("Request successful")
-    except Exception as e:
-        log(f"Error fetching URL: {e}")
-        return
-
-    try:
+    
+    for attempt, browser in enumerate(browsers, 1):
+        try:
+            log(f"Attempt {attempt}/{len(browsers)}: Trying {browser}...")
+            response = requests.get(url, headers=headers, impersonate=browser, timeout=30)
+            response.raise_for_status()
+            log(f"✓ Success with {browser}")
+            break
+        except Exception as e:
+            log(f"✗ {browser} failed: {e}")
+            if attempt < len(browsers):
+                time_module.sleep(2)
+            else:
+                log("All browsers failed")
+                return
+    
+    # Process the HTML response
         soup = BeautifulSoup(response.text, 'html.parser')
         log("Parsed HTML")
         

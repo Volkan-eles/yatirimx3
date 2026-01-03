@@ -15,20 +15,23 @@ def log(msg):
         f.write(log_msg + "\n")
 
 def get_soup(url):
-    try:
-        # Use curl_cffi to bypass bot detection (Solar, Cloudflare etc.)
-        # impersonate="chrome124" mimics a real browser TLS fingerprint
-        headers = {
-            "Referer": "https://halkarz.com/"
-        }
-        
-        resp = requests.get(url, headers=headers, impersonate="chrome124", timeout=30)
-        resp.raise_for_status()
-        
-        return BeautifulSoup(resp.content, 'html.parser')
-    except Exception as e:
-        log(f"Failed to fetch {url}: {e}")
-        return None
+    # Try multiple browser profiles
+    browsers = ["chrome120", "safari15_5", "edge99"]
+    headers = {"Referer": "https://halkarz.com/"}
+    
+    for browser in browsers:
+        try:
+            log(f"Trying {browser} for {url}...")
+            resp = requests.get(url, headers=headers, impersonate=browser, timeout=30)
+            resp.raise_for_status()
+            log(f"✓ Success with {browser}")
+            return BeautifulSoup(resp.content, 'html.parser')
+        except Exception as e:
+            log(f"✗ {browser} failed: {e}")
+            time.sleep(2)  # Wait between attempts
+    
+    log(f"All browsers failed for {url}")
+    return None
 
 def extract_detail_data(detail_url):
     soup = get_soup(detail_url)
