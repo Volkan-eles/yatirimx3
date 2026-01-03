@@ -1,10 +1,9 @@
-import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 import json
 import os
 import time
 import re
-import subprocess
 from datetime import datetime
 
 # Setup logging
@@ -17,35 +16,17 @@ def log(msg):
 
 def get_soup(url):
     try:
-        # Use PowerShell to fetch content to bypass potential bot detection/caching issues
-        ps_command = f"Invoke-WebRequest -Uri '{url}' -UserAgent 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36' -UseBasicParsing | Select-Object -ExpandProperty Content"
-        cmd = ["powershell", "-Command", ps_command]
+        # Use curl_cffi to bypass bot detection (Solar, Cloudflare etc.)
+        # impersonate="chrome124" mimics a real browser TLS fingerprint
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+            "Referer": "https://halkarz.com/"
+        }
         
-        result = subprocess.run(cmd, capture_output=True, text=True, encoding='utf-8')
+        resp = requests.get(url, headers=headers, impersonate="chrome124", timeout=30)
+        resp.raise_for_status()
         
-        if result.returncode != 0:
-            log(f"PowerShell fetch failed: {result.stderr}")
-            # Fallback to requests if PS fails
-            headers = {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-                "Referer": "https://halkarz.com/"
-            }
-            resp = requests.get(url, headers=headers, timeout=10)
-            resp.raise_for_status()
-            return BeautifulSoup(resp.text, 'html.parser')
-            
-        html_content = result.stdout
-        if not html_content or len(html_content) < 100:
-             log("PowerShell returned empty/short content, falling back to requests")
-             headers = {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
-                "Referer": "https://halkarz.com/"
-             }
-             resp = requests.get(url, headers=headers, timeout=10)
-             resp.raise_for_status()
-             return BeautifulSoup(resp.text, 'html.parser')
-
-        return BeautifulSoup(html_content, 'html.parser')
+        return BeautifulSoup(resp.content, 'html.parser')
     except Exception as e:
         log(f"Failed to fetch {url}: {e}")
         return None
