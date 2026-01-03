@@ -1,4 +1,4 @@
-import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 import json
 import re
@@ -7,9 +7,10 @@ import os
 import sys
 import concurrent.futures
 
-# Headers to mimic a browser
+# Headers not needed for curl_cffi as impersonate handles it, 
+# but good to keep basic ones just in case or for logging
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
 def clean_text(text):
@@ -26,7 +27,7 @@ def fetch_details_for_item(item):
     retries = 3
     for attempt in range(retries):
         try:
-            response = requests.get(link, headers=HEADERS, timeout=20)
+            response = requests.get(link, headers=HEADERS, impersonate="chrome120", timeout=30)
             if response.status_code == 200:
                 break
             time.sleep(1)
@@ -123,7 +124,7 @@ def fetch_category_links(base_url, status_label):
     while page <= max_pages:
         url = f"{base_url}page/{page}/" if page > 1 else base_url
         try:
-            response = requests.get(url, headers=HEADERS, timeout=10)
+            response = requests.get(url, headers=HEADERS, impersonate="chrome120", timeout=20)
             if response.status_code == 404:
                 # End of pages
                 break
@@ -182,7 +183,7 @@ def fetch_ipos():
     homepage_links = []
     try:
         print(f"Scanning Homepage (https://halkarz.com/)...")
-        r_home = requests.get('https://halkarz.com/', headers=HEADERS, timeout=10)
+        r_home = requests.get('https://halkarz.com/', headers=HEADERS, impersonate="chrome120", timeout=20)
         if r_home.status_code == 200:
             soup_home = BeautifulSoup(r_home.content, 'html.parser')
             # Homepage might have slider or different structure, but usually articles are there

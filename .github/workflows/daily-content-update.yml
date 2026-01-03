@@ -30,7 +30,7 @@ jobs:
       - name: Run Scrapers
         run: |
           echo "Fetching IPO Data..."
-          python scrape_halkarz_main.py
+          python scripts/fetch_halkarz_ipo.py
           
           echo "Fetching Capital Increases..."
           python scrape_capital.py
