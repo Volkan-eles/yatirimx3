@@ -38,9 +38,6 @@ jobs:
           echo "Fetching Dividends..."
           python scrape_dividends.py
           
-          echo "Fetching Piapiri Recommendations..."
-          python scrape_piapiri.py
-          
           echo "Fetching Target Prices..."
           python scrape_halkarz_target.py
       
