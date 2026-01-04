@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-04T21:26:09.722628",
+  "last_update": "2026-01-04T21:44:35.898580",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 505,
   "successful": 505,
@@ -5111,7 +5111,7 @@
     {
       "code": "KOZAL",
       "symbol": "KOZAL.IS",
-      "name": "Koza Altin Isletmeleri A.S.",
+      "name": "Turk Altin Isletmeleri A.S.",
       "shortName": "TURK ALTIN ISLETMELERI",
       "price": 41.96,
       "change": 0.98,
@@ -5542,10 +5542,10 @@
       "dividendYield": null,
       "exDividendDate": 1585094400,
       "payoutRatio": 0.0,
-      "targetHighPrice": 574.4875,
-      "targetLowPrice": 341.4578,
-      "targetMeanPrice": 432.59128,
-      "targetMedianPrice": 431.82294,
+      "targetHighPrice": 574.8524,
+      "targetLowPrice": 341.67465,
+      "targetMeanPrice": 432.86603,
+      "targetMedianPrice": 432.09723,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -32532,7 +32532,7 @@
       "volume": "37,409,163",
       "averageVolume": 9340163,
       "averageVolume10days": 21517117,
-      "marketCap": 2678451968,
+      "marketCap": 2870884608,
       "enterpriseValue": 2623239424,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32547,7 +32547,7 @@
       "forwardPE": null,
       "priceToBook": 3.0833333,
       "pegRatio": null,
-      "priceToSales": 1.495502,
+      "priceToSales": 1.6029459,
       "enterpriseToRevenue": 1.465,
       "enterpriseToEbitda": 36.863,
       "profitMargins": -0.01041,
@@ -80774,7 +80774,7 @@
       "beta": 0.393,
       "historicalData": [
         {
-          "Close": 177.5314178466797,
+          "Close": 177.53143310546875,
           "Volume": 479173
         },
         {
