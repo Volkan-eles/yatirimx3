@@ -180,6 +180,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
     { name: 'Hisse Karşılaştır', path: '/karsilastir', icon: BarChart3 },
     { name: 'Temettü', path: '/temettu-takvimi-2026', icon: Calendar },
     { name: 'Halka Arz', path: '/halka-arz', icon: Briefcase },
+    { name: 'Sermaye Artırımı', path: '/sermaye-artirimi', icon: Layers },
     { name: 'Hedef Fiyat', path: '/hedef-fiyat', icon: LineChart },
     { name: 'Aracı Kurumlar', path: '/araci-kurumlar', icon: Building2 },
   ];
