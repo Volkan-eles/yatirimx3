@@ -100,15 +100,34 @@ const main = () => {
     });
 
     // 2. Dynamic Stocks (/hisse/...)
+    const processedStocks = new Set();
+
     // Source: bist_live_data.json
     const bistData = loadJson('bist_live_data.json');
     if (bistData && bistData.stocks) {
-        console.log(`Processing ${bistData.stocks.length} stocks...`);
+        console.log(`Processing ${bistData.stocks.length} stocks from BIST data...`);
         bistData.stocks.forEach(stock => {
             // Format: /hisse/[CODE] Hisse Senedi Fiyatı Grafiği [CODE] Yorumu 2026/
             const longSlug = slugify(`${stock.code} Hisse Senedi Fiyatı Grafiği ${stock.code} Yorumu 2026`);
             xml += createUrlEntry(`/hisse/${longSlug}`, '0.9', 'hourly');
+            processedStocks.add(stock.code);
         });
+    }
+
+    // Source: sermaye_artirimi.json (Ensure these stocks are also covered)
+    const capData = loadJson('sermaye_artirimi.json');
+    if (capData && Array.isArray(capData)) {
+        let addedCount = 0;
+        capData.forEach(item => {
+            if (item.code && !processedStocks.has(item.code)) {
+                // Same URL format
+                const longSlug = slugify(`${item.code} Hisse Senedi Fiyatı Grafiği ${item.code} Yorumu 2026`);
+                xml += createUrlEntry(`/hisse/${longSlug}`, '0.8', 'weekly');
+                processedStocks.add(item.code);
+                addedCount++;
+            }
+        });
+        if (addedCount > 0) console.log(`Added ${addedCount} additional stocks from Capital Increase data.`);
     }
 
     // 3. Dynamic IPOs (/halka-arz/...)
