@@ -22,7 +22,7 @@ const SermayeArtirimi: React.FC = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('/sermaye_artirimi.json');
+        const response = await fetch(`/sermaye_artirimi.json?v=${new Date().getTime()}`);
         if (response.ok) {
           const result = await response.json();
           setData(result);
