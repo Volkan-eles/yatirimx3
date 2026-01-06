@@ -253,6 +253,22 @@ const main = () => {
         console.error('Error parsing blog posts:', e.message);
     }
 
+    // 8. Dynamic Commodities (/emtia/...)
+    // Source: emtia.json
+    const emtiaData = loadJson('emtia.json');
+    if (emtiaData && Array.isArray(emtiaData)) {
+        console.log(`Processing ${emtiaData.length} commodities...`);
+        emtiaData.forEach(item => {
+            // Format: /emtia/[slug]
+            if (item.name) {
+                // Use the same slugify logic as frontend but tailored for our sitemap helper if needed.
+                // Or just use the local sitemap slugify helper which mimics it.
+                const slug = slugify(item.name);
+                xml += createUrlEntry(`/emtia/${slug}`, '0.9', 'hourly');
+            }
+        });
+    }
+
     xml += `
 </urlset>`;
 
