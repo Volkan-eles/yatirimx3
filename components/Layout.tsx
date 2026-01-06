@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen, Star } from 'lucide-react';
+import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen, Star, Coins } from 'lucide-react';
 import Footer from './Footer';
 import { slugify } from '../utils/slugify';
 
@@ -146,6 +146,9 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
         {
           name: 'Piyasa Haritası', path: '/', icon: PieChart
         },
+        {
+          name: 'Emtia', path: '/emtia', icon: Coins
+        },
       ]
     },
     {
@@ -176,6 +179,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
   const navLinks = [
     { name: 'Ana Sayfa', path: '/', icon: HomeIcon },
     { name: 'Piyasa Haritası', path: '/piyasa-haritasi', icon: PieChart },
+    { name: 'Emtia', path: '/emtia', icon: Coins },
     { name: 'İzleme Listesi', path: '/izleme-listesi', icon: Star },
     { name: 'Hisse Karşılaştır', path: '/karsilastir', icon: BarChart3 },
     { name: 'Temettü', path: '/temettu-takvimi-2026', icon: Calendar },
