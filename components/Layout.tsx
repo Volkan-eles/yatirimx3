@@ -60,8 +60,6 @@ const NavLink: React.FC<NavLinkProps> = ({ to, children, icon: Icon, active }) =
     <Icon className={`w-3.5 h-3.5 relative z-10 transition-transform duration-300 group-hover:scale-110 ${active ? 'text-blue-400 drop-shadow-[0_0_8px_rgba(59,130,246,0.5)]' : 'text-zinc-500 group-hover:text-zinc-300'}`} />
     <span className="relative z-10">{children}</span>
   </Link>
-    <span className="relative z-10">{children}</span>
-  </Link >
 );
 
 interface NavDropdownProps {
