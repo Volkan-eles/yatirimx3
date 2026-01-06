@@ -129,7 +129,7 @@ const Emtia: React.FC = () => {
                 title="Canlı Emtia Fiyatları 2026 - Altın, Gümüş, Petrol ve Döviz | YatırımX"
                 description="2026 güncel emtia fiyatları. Gram Altın, Ons Altın, Gümüş, Brent Petrol ve diğer emtiaların anlık alış satış fiyatları ve günlük değişim oranları."
                 keywords="emtia fiyatları, canlı altın fiyatları, gümüş fiyatı, brent petrol fiyatı, emtia borsası 2026"
-                url="https://yatirimx.com/emtia"
+                url="https://yatirimx.com/emtia/"
             />
 
             <div className="container mx-auto px-4 py-8">
