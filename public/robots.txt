@@ -6,6 +6,13 @@ Disallow: /api/
 Disallow: /admin/
 Disallow: /*.json$
 
+# Disallow legacy WordPress paths
+Disallow: /wp-content/
+Disallow: /wp-includes/
+Disallow: /wp-admin/
+Disallow: /wp-*.php
+
+
 # Allow important resources
 Allow: /bist_live_data.json
 Allow: /temettu.json

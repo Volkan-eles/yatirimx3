@@ -1,6 +1,14 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
+
+  # Legacy Redirects used to fix GSC 404s
+  RewriteRule ^wp-content/.*$ / [R=301,L]
+  RewriteRule ^wp-includes/.*$ / [R=301,L]
+  RewriteRule ^wp-admin/.*$ / [R=301,L]
+  RewriteRule ^wp-.*\.php$ / [R=301,L]
+  RewriteRule ^author/.*$ / [R=301,L]
+  RewriteRule ^kripto-para/.*$ / [R=301,L]
   
   # Force trailing slash
   RewriteCond %{REQUEST_FILENAME} !-f

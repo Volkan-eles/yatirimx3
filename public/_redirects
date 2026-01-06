@@ -1,0 +1,12 @@
+# Legacy WordPress paths
+/wp-content/*  /  301
+/wp-includes/* /  301
+/wp-admin/*    /  301
+/wp-*.php      /  301
+/author/*      /  301
+
+# Removed Crypto/Legacy Content
+/kripto-para/* /  301
+
+# SPA Catch-all (standard for React/Vite apps on Netlify if not already present)
+# /*    /index.html   200
