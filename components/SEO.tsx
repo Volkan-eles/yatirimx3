@@ -42,14 +42,15 @@ const SEO = ({ title, description, image, url, keywords, canonicalUrl, schema }:
         if (image) updateMeta('twitter:image', image);
 
         // Canonical URL
-        if (canonicalUrl) {
+        const finalCanonical = canonicalUrl || url;
+        if (finalCanonical) {
             let link = document.querySelector('link[rel="canonical"]');
             if (!link) {
                 link = document.createElement('link');
                 link.setAttribute('rel', 'canonical');
                 document.head.appendChild(link);
             }
-            link.setAttribute('href', canonicalUrl);
+            link.setAttribute('href', finalCanonical);
         }
 
         // Schema.org JSON-LD
