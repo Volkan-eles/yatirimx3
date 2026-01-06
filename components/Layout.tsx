@@ -60,7 +60,69 @@ const NavLink: React.FC<NavLinkProps> = ({ to, children, icon: Icon, active }) =
     <Icon className={`w-3.5 h-3.5 relative z-10 transition-transform duration-300 group-hover:scale-110 ${active ? 'text-blue-400 drop-shadow-[0_0_8px_rgba(59,130,246,0.5)]' : 'text-zinc-500 group-hover:text-zinc-300'}`} />
     <span className="relative z-10">{children}</span>
   </Link>
+    <span className="relative z-10">{children}</span>
+  </Link >
 );
+
+interface NavDropdownProps {
+  title: string;
+  icon: any;
+  active: boolean;
+  items: { name: string; path: string; icon: any }[];
+}
+
+const NavDropdown: React.FC<NavDropdownProps> = ({ title, icon: Icon, active, items }) => {
+  const [isOpen, setIsOpen] = useState(false);
+  const timeoutRef = useRef<any>(null);
+
+  const handleMouseEnter = () => {
+    if (timeoutRef.current) clearTimeout(timeoutRef.current);
+    setIsOpen(true);
+  };
+
+  const handleMouseLeave = () => {
+    timeoutRef.current = setTimeout(() => {
+      setIsOpen(false);
+    }, 150);
+  };
+
+  return (
+    <div
+      className="relative group"
+      onMouseEnter={handleMouseEnter}
+      onMouseLeave={handleMouseLeave}
+    >
+      <button
+        className={`relative flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-all duration-300 whitespace-nowrap ${active || isOpen ? 'text-white' : 'text-zinc-400 hover:text-white'
+          }`}
+      >
+        {active && (
+          <>
+            <span className="absolute inset-0 bg-gradient-to-tr from-blue-600/20 to-indigo-600/20 rounded-lg border border-blue-500/20 shadow-[0_0_15px_rgba(59,130,246,0.15)]"></span>
+          </>
+        )}
+        <Icon className={`w-3.5 h-3.5 relative z-10 ${active ? 'text-blue-400' : 'text-zinc-500 group-hover:text-zinc-300'}`} />
+        <span className="relative z-10">{title}</span>
+        <ChevronRight className={`w-3 h-3 transition-transform duration-300 ${isOpen ? 'rotate-90' : 'rotate-0 text-zinc-600'}`} />
+      </button>
+
+      {/* Dropdown Menu */}
+      <div className={`absolute top-full left-0 mt-2 w-48 bg-[#09090b] border border-white/10 rounded-xl shadow-2xl p-1 z-[100] transition-all duration-200 origin-top-left ${isOpen ? 'opacity-100 scale-100 translate-y-0 visible' : 'opacity-0 scale-95 -translate-y-2 invisible'
+        }`}>
+        {items.map((item) => (
+          <Link
+            key={item.path}
+            to={item.path}
+            className="flex items-center gap-2 px-3 py-2.5 rounded-lg text-xs text-zinc-400 hover:text-white hover:bg-white/5 transition-colors"
+          >
+            <item.icon className="w-4 h-4 text-zinc-500" />
+            {item.name}
+          </Link>
+        ))}
+      </div>
+    </div>
+  );
+};
 
 export default function Layout({ children }: { children?: React.ReactNode }) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -207,16 +269,49 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
 
             {/* Desktop Navigation */}
             <nav className="hidden xl:flex items-center gap-1">
-              {navLinks.map(link => (
-                <NavLink
-                  key={link.path}
-                  to={link.path}
-                  icon={link.icon}
-                  active={location.pathname === link.path}
-                >
-                  {link.name}
-                </NavLink>
-              ))}
+              <NavLink to="/" icon={HomeIcon} active={location.pathname === '/'}>
+                Ana Sayfa
+              </NavLink>
+
+              {/* Piyasalar Dropdown */}
+              <NavDropdown
+                title="Piyasalar"
+                icon={BarChart3}
+                active={['/piyasa', '/piyasa-haritasi', '/emtia', '/karsilastir'].includes(location.pathname)}
+                items={[
+                  { name: 'Canlı Borsa', path: '/piyasa', icon: TrendingUp },
+                  { name: 'Piyasa Haritası', path: '/piyasa-haritasi', icon: PieChart },
+                  { name: 'Emtia', path: '/emtia', icon: Coins },
+                  { name: 'Hisse Karşılaştır', path: '/karsilastir', icon: BarChart3 },
+                ]}
+              />
+
+              {/* Takvimler Dropdown */}
+              <NavDropdown
+                title="Takvimler"
+                icon={Calendar}
+                active={['/temettu-takvimi-2026', '/halka-arz', '/sermaye-artirimi'].some(p => location.pathname.startsWith(p))}
+                items={[
+                  { name: 'Temettü Takvimi', path: '/temettu-takvimi-2026', icon: Calendar },
+                  { name: 'Halka Arz', path: '/halka-arz', icon: Briefcase },
+                  { name: 'Sermaye Artırımı', path: '/sermaye-artirimi', icon: Layers },
+                ]}
+              />
+
+              {/* Analiz Dropdown */}
+              <NavDropdown
+                title="Analiz"
+                icon={LineChart}
+                active={['/hedef-fiyat', '/araci-kurumlar'].some(p => location.pathname.startsWith(p))}
+                items={[
+                  { name: 'Hedef Fiyat', path: '/hedef-fiyat', icon: LineChart },
+                  { name: 'Aracı Kurumlar', path: '/araci-kurumlar', icon: Building2 },
+                ]}
+              />
+
+              <NavLink to="/izleme-listesi" icon={Star} active={location.pathname === '/izleme-listesi'}>
+                İzleme Listesi
+              </NavLink>
             </nav>
 
             {/* Actions */}
