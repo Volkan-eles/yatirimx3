@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-06T19:24:01.768385",
+  "last_update": "2026-01-06T19:45:19.805738",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 505,
   "successful": 505,
@@ -5542,10 +5542,10 @@
       "dividendYield": null,
       "exDividendDate": 1585094400,
       "payoutRatio": 0.0,
-      "targetHighPrice": 573.94366,
-      "targetLowPrice": 341.13452,
-      "targetMeanPrice": 432.18173,
-      "targetMedianPrice": 431.41415,
+      "targetHighPrice": 574.2378,
+      "targetLowPrice": 341.30936,
+      "targetMeanPrice": 432.40326,
+      "targetMedianPrice": 431.63525,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -45610,10 +45610,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 74.91141,
-      "targetLowPrice": 56.92578,
-      "targetMeanPrice": 65.91859,
-      "targetMedianPrice": 65.91859,
+      "targetHighPrice": 74.904785,
+      "targetLowPrice": 56.920746,
+      "targetMeanPrice": 65.912766,
+      "targetMedianPrice": 65.912766,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
@@ -53512,7 +53512,7 @@
       "averageVolume": 4180638,
       "averageVolume10days": 10595393,
       "marketCap": 14070000640,
-      "enterpriseValue": 19668267008,
+      "enterpriseValue": 19668463616,
       "sharesOutstanding": 706000000,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
@@ -65027,9 +65027,9 @@
       "name": "Metro Ticari ve Mali Yatirimlar Holding A.S.",
       "shortName": "METRO HOLDING",
       "price": 4.31,
-      "change": 0.39,
-      "changeRate": 9.95,
-      "previousClose": 3.92,
+      "change": 0.0,
+      "changeRate": 0.0,
+      "previousClose": 4.31,
       "open": 3.93,
       "dayLow": 3.91,
       "dayHigh": 4.31,
@@ -65085,128 +65085,7 @@
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
       "beta": 1.177,
-      "historicalData": [
-        {
-          "Close": 4.900000095367432,
-          "Volume": 6723642
-        },
-        {
-          "Close": 4.809999942779541,
-          "Volume": 4121149
-        },
-        {
-          "Close": 4.809999942779541,
-          "Volume": 4630584
-        },
-        {
-          "Close": 4.690000057220459,
-          "Volume": 12625367
-        },
-        {
-          "Close": 4.949999809265137,
-          "Volume": 12107759
-        },
-        {
-          "Close": 4.909999847412109,
-          "Volume": 3995086
-        },
-        {
-          "Close": 5.400000095367432,
-          "Volume": 26796308
-        },
-        {
-          "Close": 5.940000057220459,
-          "Volume": 27531950
-        },
-        {
-          "Close": 6.179999828338623,
-          "Volume": 67964779
-        },
-        {
-          "Close": 6.079999923706055,
-          "Volume": 18667533
-        },
-        {
-          "Close": 5.710000038146973,
-          "Volume": 17490132
-        },
-        {
-          "Close": 5.619999885559082,
-          "Volume": 15255223
-        },
-        {
-          "Close": 5.550000190734863,
-          "Volume": 8242972
-        },
-        {
-          "Close": 5.170000076293945,
-          "Volume": 13010309
-        },
-        {
-          "Close": 5.090000152587891,
-          "Volume": 9047868
-        },
-        {
-          "Close": 4.980000019073486,
-          "Volume": 5651600
-        },
-        {
-          "Close": 4.889999866485596,
-          "Volume": 15638377
-        },
-        {
-          "Close": 5.070000171661377,
-          "Volume": 37372646
-        },
-        {
-          "Close": 4.900000095367432,
-          "Volume": 13292121
-        },
-        {
-          "Close": 4.71999979019165,
-          "Volume": 18431787
-        },
-        {
-          "Close": 4.309999942779541,
-          "Volume": 44201385
-        },
-        {
-          "Close": 4.119999885559082,
-          "Volume": 14720378
-        },
-        {
-          "Close": 4.159999847412109,
-          "Volume": 14449831
-        },
-        {
-          "Close": 4.019999980926514,
-          "Volume": 13420975
-        },
-        {
-          "Close": 3.950000047683716,
-          "Volume": 8563378
-        },
-        {
-          "Close": 3.869999885559082,
-          "Volume": 8148371
-        },
-        {
-          "Close": 3.9700000286102295,
-          "Volume": 6252843
-        },
-        {
-          "Close": 4.03000020980835,
-          "Volume": 5362245
-        },
-        {
-          "Close": 3.9200000762939453,
-          "Volume": 6866511
-        },
-        {
-          "Close": 4.309999942779541,
-          "Volume": 24837230
-        }
-      ],
+      "historicalData": [],
       "heldPercentInsiders": 0.39773,
       "heldPercentInstitutions": 0.0
     },
