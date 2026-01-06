@@ -127,7 +127,7 @@ const EmtiaDetail: React.FC = () => {
                 title={`${commodity.name} Fiyatı Ne Kadar? Canlı ${commodity.name} Yorumları 2026`}
                 description={`2026 ${commodity.name} anlık alış satış fiyatı, canlı grafik ve piyasa yorumları. ${commodity.name} kaç TL? Günlük değişim ve uzman analizleri YatırımX'te.`}
                 keywords={`${commodity.name}, ${commodity.name} fiyatı, canlı emtia, altın yorumları 2026, yatırım`}
-                url={`https://yatirimx.com/emtia/${slug}`}
+                url={`https://yatirimx.com/emtia/${slug}/`}
             />
 
             {/* Breadcrumb */}
