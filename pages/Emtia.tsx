@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import SEO from '../components/SEO';
+import { slugify } from '../utils/slugify';
 
 interface Commodity {
     name: string;
@@ -86,10 +88,12 @@ const Emtia: React.FC = () => {
                                     {data.map((item, index) => (
                                         <tr
                                             key={index}
-                                            className="hover:bg-zinc-700/30 transition-colors"
+                                            className="hover:bg-zinc-700/30 transition-colors group"
                                         >
                                             <td className="p-4">
-                                                <span className="font-semibold text-lg text-white block">{item.name}</span>
+                                                <Link to={`/emtia/${slugify(item.name)}`} className="font-semibold text-lg text-white block group-hover:text-blue-400 transition-colors">
+                                                    {item.name}
+                                                </Link>
                                             </td>
                                             <td className="p-4 font-medium text-zinc-200">{item.buy_price}</td>
                                             <td className="p-4 font-medium text-zinc-200">{item.sell_price}</td>
