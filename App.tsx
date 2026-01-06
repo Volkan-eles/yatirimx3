@@ -23,6 +23,7 @@ const BlogDetail = lazy(() => import('./pages/BlogDetail'));
 const Watchlist = lazy(() => import('./pages/Watchlist'));
 const MarketHeatmapPage = lazy(() => import('./pages/MarketHeatmapPage'));
 const Emtia = lazy(() => import('./pages/Emtia'));
+const EmtiaDetail = lazy(() => import('./pages/EmtiaDetail'));
 
 // Legal and Corporate Pages - Lazy Loaded
 const Hakkimizda = lazy(() => import('./pages/Hakkimizda'));
@@ -70,6 +71,7 @@ function App() {
             <Route path="/karsilastir" element={<ComparePage />} />
             <Route path="/piyasa-haritasi" element={<MarketHeatmapPage />} />
             <Route path="/emtia" element={<Emtia />} />
+            <Route path="/emtia/:slug" element={<EmtiaDetail />} />
             <Route path="*" element={<NotFound />} />
             <Route path="/halka-arz" element={<HalkaArz />} />
             <Route path="/halka-arz/:code" element={<HalkaArzDetail />} />
