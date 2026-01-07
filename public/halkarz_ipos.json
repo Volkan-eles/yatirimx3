@@ -1,1276 +1,386 @@
 {
   "active_ipos": [
     {
-      "company": "FRMPL",
-      "link": "https://halkarz.com/formul-plastik-ve-metal-sanayi-a-s/",
+      "company": "BJKAS",
+      "link": "https://halkarz.com/besiktas-futbol-yatirimlari-san-ve-tic-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "FRMPL",
-      "price": "30,24 TL",
-      "dates": "7-8-9 Ocak 202609:00-17:00",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "40,000,000 Lot"
+      "code": "BJKAS",
+      "price": "57.500 TL *YTL Öncesi",
+      "dates": "20 Şubat 2002",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%18.44"
     },
     {
-      "company": "MEYSU",
-      "link": "https://halkarz.com/meysu-gida-san-ve-tic-a-s/",
+      "company": "AGYO",
+      "link": "https://halkarz.com/atakule-gayrimenkul-yatirim-ortakligi-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "MEYSU",
-      "price": "7,50 TL",
-      "dates": "5-6-7 Ocak 202609:00-17:00",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "175,000,000 Lot"
+      "code": "AGYO",
+      "price": "1.150 TL *YTL Öncesi",
+      "dates": "14 Şubat 2002",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%18.30"
     },
     {
-      "company": "ARFYE",
-      "link": "https://halkarz.com/arf-bio-yenilenebilir-enerji-uretim-a-s/",
+      "company": "ARENA",
+      "link": "https://halkarz.com/arena-bilgisayar-san-ve-tic-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "ARFYE",
-      "price": "19,50 TL",
-      "dates": "5 Ocak 2026",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "47,000,000 Lot"
+      "code": "ARENA",
+      "price": "31.000 TL  *YTL Öncesi",
+      "dates": "2 Eylül 2000",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%34.21"
     },
     {
-      "company": "ZERGY",
-      "link": "https://halkarz.com/zeray-gayrimenkul-yatirim-ortakligi-a-s/",
+      "company": "LINK",
+      "link": "https://halkarz.com/link-bilgisayar-sistemleri-yazilimi-ve-donanimi-san-ve-tic-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "ZERGY",
-      "price": "13,00 TL",
-      "dates": "18 Aralık 2025",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%25.04"
+      "code": "LINK",
+      "price": "25.500 TL  *YTL Öncesi",
+      "dates": "26 Ekim 2000",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%60.51"
     },
     {
-      "company": "PAHOL",
-      "link": "https://halkarz.com/pasifik-holding-a-s/",
+      "company": "SANKO",
+      "link": "https://halkarz.com/sanko-pazarlama-ithalat-ihracat-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "PAHOL",
-      "price": "1,50 TL",
-      "dates": "21 Kasım 2025",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%19.99"
+      "code": "SANKO",
+      "price": "16.000 TL  *YTL Öncesi",
+      "dates": "5 Ekim 2000",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%10.20"
     },
     {
-      "company": "MARMR",
-      "link": "https://halkarz.com/marmara-holding-a-s/",
+      "company": "TEKTU",
+      "link": "https://halkarz.com/tek-art-insaat-ticaret-turizm-sanayi-ve-yatirimlar-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "MARMR",
+      "code": "TEKTU",
+      "price": "28.000 TL  *YTL Öncesi",
+      "dates": "10 Ağustos 2000",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%65.16"
+    },
+    {
+      "company": "TCELL",
+      "link": "https://halkarz.com/turkcell-iletisim-hizmetleri-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "TCELL",
+      "price": "41.500-50.500 TL  *YTL Öncesi",
+      "dates": "11 Temmuz 2000",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%53.95"
+    },
+    {
+      "company": "ICUGS",
+      "link": "https://halkarz.com/icu-girisim-sermayesi-yatirim-ortakligi-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "ICUGS",
+      "price": "2.800 TL  *YTL Öncesi",
+      "dates": "5 Temmuz 2000",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%88.70"
+    },
+    {
+      "company": "TRENJ",
+      "link": "https://halkarz.com/tr-dogal-enerji-kaynaklari-arastirma-ve-uretim-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "TRENJ",
       "price": "Belirlenmedi",
-      "dates": "16 Eylül 2025",
+      "dates": "27 Haziran 2000",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%21.62"
+      "lotCount": "%33.53"
     },
     {
-      "company": "DOFRB",
-      "link": "https://halkarz.com/dof-robotik-sanayi-a-s/",
+      "company": "LOGO",
+      "link": "https://halkarz.com/logo-yazilim-san-ve-tic-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "DOFRB",
-      "price": "45,00 TL",
-      "dates": "11 Eylül 2025",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "%29.03"
-    },
-    {
-      "company": "BULGS",
-      "link": "https://halkarz.com/bulls-girisim-sermayesi-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "BULGS",
-      "price": "12,18 TL",
-      "dates": "21 Şubat 2025",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%27.05"
-    },
-    {
-      "company": "ENDAE",
-      "link": "https://halkarz.com/enda-enerji-holding-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ENDAE",
-      "price": "17,44 TL",
-      "dates": "13 Şubat 2025",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%19.95"
-    },
-    {
-      "company": "VSNMD",
-      "link": "https://halkarz.com/visne-madencilik-uretim-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "VSNMD",
-      "price": "37,44 TL",
-      "dates": "11 Şubat 2025",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%20.50"
-    },
-    {
-      "company": "DSTKF",
-      "link": "https://halkarz.com/destek-finans-faktoring-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "DSTKF",
-      "price": "46,98 TL",
-      "dates": "6 Şubat 2025",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%24.05"
-    },
-    {
-      "company": "SERNT",
-      "link": "https://halkarz.com/seranit-granit-seramik-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SERNT",
-      "price": "12,00 TL",
-      "dates": "4 Şubat 2025",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%27.79"
-    },
-    {
-      "company": "MOPAS",
-      "link": "https://halkarz.com/mopas-marketcilik-gida-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "MOPAS",
-      "price": "35,00 TL",
-      "dates": "29 Ocak 2025",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%10.99"
-    },
-    {
-      "company": "AKFIS",
-      "link": "https://halkarz.com/akfen-insaat-turizm-ve-ticaret-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "AKFIS",
-      "price": "38,70 TL",
-      "dates": "23 Ocak 2025",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%10.49"
-    },
-    {
-      "company": "ARMGD",
-      "link": "https://halkarz.com/armada-gida-ticaret-sanayi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ARMGD",
-      "price": "40,00 TL",
-      "dates": "3 Ocak 2025",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%16.93"
-    },
-    {
-      "company": "SMRVA",
-      "link": "https://halkarz.com/sumer-varlik-yonetim-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SMRVA",
-      "price": "22,00 TL",
-      "dates": "18 Aralık 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%23.72"
-    },
-    {
-      "company": "CGCAM",
-      "link": "https://halkarz.com/cagdas-cam-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "CGCAM",
-      "price": "20,00 TL",
-      "dates": "17 Aralık 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%24.99"
-    },
-    {
-      "company": "BINBN",
-      "link": "https://halkarz.com/bin-ulasim-ve-akilli-sehir-teknolojileri-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "BINBN",
-      "price": "91,85 TL",
-      "dates": "9 Ekim 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%15.17"
-    },
-    {
-      "company": "OZATD",
-      "link": "https://halkarz.com/ozata-denizcilik-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "OZATD",
-      "price": "105,00 TL",
-      "dates": "5 Eylül 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%17.91"
-    },
-    {
-      "company": "SEGMN",
-      "link": "https://halkarz.com/segmen-kardesler-gida-uretim-ve-ambalaj-sanayi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SEGMN",
-      "price": "30,00 TL",
-      "dates": "4 Temmuz 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%18.69"
-    },
-    {
-      "company": "EFOR",
-      "link": "https://halkarz.com/efor-yatirim-sanayi-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "EFOR",
-      "price": "14,50 TL",
-      "dates": "5 Temmuz 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%24.79"
-    },
-    {
-      "company": "HOROZ",
-      "link": "https://halkarz.com/horoz-lojistik-kargo-hizmetleri-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "HOROZ",
-      "price": "55,00 TL",
-      "dates": "7 Haziran 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%24.05"
-    },
-    {
-      "company": "ALKLC",
-      "link": "https://halkarz.com/altinkilic-gida-ve-sut-san-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ALKLC",
-      "price": "22,98 TL",
-      "dates": "4 Haziran 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%30.25"
-    },
-    {
-      "company": "HRKET",
-      "link": "https://halkarz.com/hareket-proje-tasimaciligi-ve-yuk-muhendisligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "HRKET",
-      "price": "70,00 TL",
-      "dates": "23 Mayıs 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%20.83"
-    },
-    {
-      "company": "KOCMT",
-      "link": "https://halkarz.com/koc-metalurji-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "KOCMT",
-      "price": "20,50 TL",
-      "dates": "17 Mayıs 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%5.26"
-    },
-    {
-      "company": "KOTON",
-      "link": "https://halkarz.com/koton-magazacilik-tekstil-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "KOTON",
-      "price": "30,50 TL",
-      "dates": "10 Mayıs 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%13.16"
-    },
-    {
-      "company": "LILAK",
-      "link": "https://halkarz.com/lila-kagit-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "LILAK",
-      "price": "37,39 TL",
-      "dates": "9 Mayıs 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%17.03"
-    },
-    {
-      "company": "ENTRA",
-      "link": "https://halkarz.com/ic-enterra-yenilenebilir-enerji-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ENTRA",
-      "price": "10,00 TL",
-      "dates": "4 Nisan 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%20.02"
-    },
-    {
-      "company": "MOGAN",
-      "link": "https://halkarz.com/mogan-enerji-yatirim-holding-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "MOGAN",
-      "price": "11,33 TL",
-      "dates": "7 Mart 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%10.75"
-    },
-    {
-      "company": "ALVES",
-      "link": "https://halkarz.com/alves-kablo-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ALVES",
-      "price": "19,45 TL",
-      "dates": "29 Şubat 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%24.99"
-    },
-    {
-      "company": "BORSK",
-      "link": "https://halkarz.com/bor-seker-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "BORSK",
-      "price": "26,54 TL",
-      "dates": "15 Şubat 2024",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%29.15"
-    },
-    {
-      "company": "MEGMT",
-      "link": "https://halkarz.com/mega-metal-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "MEGMT",
-      "price": "28,30 TL",
-      "dates": "15 Aralık 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%23.67"
-    },
-    {
-      "company": "KBORU",
-      "link": "https://halkarz.com/kuzey-boru-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "KBORU",
-      "price": "36,20 TL",
-      "dates": "14 Aralık 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%23.97"
-    },
-    {
-      "company": "CATES",
-      "link": "https://halkarz.com/cates-elektrik-uretim-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "CATES",
-      "price": "57,15 TL",
-      "dates": "7 Aralık 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%19.99"
-    },
-    {
-      "company": "SKYMD",
-      "link": "https://halkarz.com/seker-yatirim-menkul-degerler-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SKYMD",
-      "price": "7,00 TL",
-      "dates": "6 Aralık 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%33.85"
-    },
-    {
-      "company": "BEGYO",
-      "link": "https://halkarz.com/bati-ege-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "BEGYO",
-      "price": "3,00 TL",
-      "dates": "8 Aralık 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%35.57"
-    },
-    {
-      "company": "AGROT",
-      "link": "https://halkarz.com/agrotech-yuksek-teknoloji-ve-yatirim-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "AGROT",
-      "price": "5,21 TL",
-      "dates": "23 Kasım 2023",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "%32.11"
-    },
-    {
-      "company": "EKOS",
-      "link": "https://halkarz.com/ekos-teknoloji-ve-elektrik-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "EKOS",
-      "price": "12,77 TL",
-      "dates": "21 Kasım 2023",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "%8.62"
-    },
-    {
-      "company": "TABGD",
-      "link": "https://halkarz.com/tab-gida-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "TABGD",
-      "price": "130,00 TL",
-      "dates": "26 Ekim 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%20.07"
-    },
-    {
-      "company": "VRGYO",
-      "link": "https://halkarz.com/vera-konsept-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "VRGYO",
-      "price": "15,78 TL",
-      "dates": "27 Ekim 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%8.80"
-    },
-    {
-      "company": "MHRGY",
-      "link": "https://halkarz.com/mhr-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "MHRGY",
-      "price": "4,30 TL",
-      "dates": "18 Ekim 2023",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "%22.41"
-    },
-    {
-      "company": "DOFER",
-      "link": "https://halkarz.com/dofer-yapi-malzemeleri-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "DOFER",
-      "price": "17,11 TL",
-      "dates": "16 Ekim 2023",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "%30.49"
-    },
-    {
-      "company": "MEKAG",
-      "link": "https://halkarz.com/meka-global-makine-imalat-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "MEKAG",
-      "price": "25,00 TL",
-      "dates": "12 Ekim 2023",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "%2.81"
-    },
-    {
-      "company": "DMRGD",
-      "link": "https://halkarz.com/dmr-unlu-mamuller-uretim-gida-toptan-perakende-ihracat-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "DMRGD",
-      "price": "10,24 TL",
-      "dates": "29 Eylül 2023",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "%46.52"
-    },
-    {
-      "company": "HATSN",
-      "link": "https://halkarz.com/hat-san-gemi-insaa-bakim-onarim-deniz-nakliyat-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "HATSN",
-      "price": "22,60 TL",
-      "dates": "22 Eylül 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%19.99"
-    },
-    {
-      "company": "GIPTA",
-      "link": "https://halkarz.com/gipta-ofis-kirtasiye-ve-promosyon-urunleri-imalat-san-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "GIPTA",
-      "price": "20,90 TL",
-      "dates": "14 Eylül 2023",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "%34.42"
-    },
-    {
-      "company": "TARKM",
-      "link": "https://halkarz.com/tarkim-bitki-koruma-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "TARKM",
-      "price": "107,50 TL",
-      "dates": "12 Eylül 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%23.80"
-    },
-    {
-      "company": "KZGYO",
-      "link": "https://halkarz.com/kuzugrup-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "KZGYO",
-      "price": "20,76 TL",
-      "dates": "29 Ağustos 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%24.99"
-    },
-    {
-      "company": "ENERY",
-      "link": "https://halkarz.com/enerya-enerji-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ENERY",
-      "price": "88,76 TL",
-      "dates": "23 Ağustos 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%22.83"
-    },
-    {
-      "company": "OFSYM",
-      "link": "https://halkarz.com/ofis-yem-gida-san-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "OFSYM",
-      "price": "27,20 TL",
-      "dates": "16 Ağustos 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%15.55"
-    },
-    {
-      "company": "ASGYO",
-      "link": "https://halkarz.com/asce-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ASGYO",
-      "price": "12,60 TL",
-      "dates": "3 Ağustos 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%23.43"
-    },
-    {
-      "company": "KLSER",
-      "link": "https://halkarz.com/kaleseramik-canakkale-kalebodur-seramik-sanayi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "KLSER",
-      "price": "25,00 TL",
-      "dates": "27 Temmuz 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%21.24"
-    },
-    {
-      "company": "FZLGY",
-      "link": "https://halkarz.com/fuzul-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "FZLGY",
-      "price": "8,90 TL",
-      "dates": "28 Temmuz 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%31.86"
-    },
-    {
-      "company": "ATAKP",
-      "link": "https://halkarz.com/atakey-patates-gida-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ATAKP",
-      "price": "39,50 TL",
-      "dates": "27 Temmuz 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%20.33"
-    },
-    {
-      "company": "FORTE",
-      "link": "https://halkarz.com/forte-bilgi-iletisim-teknolojileri-ve-savunma-sanayi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "FORTE",
-      "price": "12,12 TL",
-      "dates": "14 Haziran 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%32.83"
-    },
-    {
-      "company": "KTLEV",
-      "link": "https://halkarz.com/katilimevim-tasarruf-finansman-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "KTLEV",
-      "price": "13,43 TL",
-      "dates": "12 Haziran 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%62.23"
-    },
-    {
-      "company": "BIENY",
-      "link": "https://halkarz.com/bien-yapi-urunleri-san-turizm-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "BIENY",
-      "price": "42,80 TL",
-      "dates": "18 Mayıs 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%20.02"
-    },
-    {
-      "company": "KAYSE",
-      "link": "https://halkarz.com/kayseri-seker-fabrikasi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "KAYSE",
-      "price": "16,27 TL",
-      "dates": "18 Mayıs 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%25"
-    },
-    {
-      "company": "CWENE",
-      "link": "https://halkarz.com/cw-enerji-muhendislik-tic-ve-san-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "CWENE",
-      "price": "108,60 TL",
-      "dates": "5 Mayıs 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%35.66"
-    },
-    {
-      "company": "GRTHO",
-      "link": "https://halkarz.com/grainturk-holding-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "GRTHO",
-      "price": "17,60 TL",
-      "dates": "26 Nisan 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%28.99"
-    },
-    {
-      "company": "EUPWR",
-      "link": "https://halkarz.com/europower-enerji-ve-otomasyon-teknolojileri-san-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "EUPWR",
-      "price": "40,60 TL",
-      "dates": "20 Nisan 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%30.22"
-    },
-    {
-      "company": "KOPOL",
-      "link": "https://halkarz.com/koza-polyester-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "KOPOL",
-      "price": "24,50 TL",
-      "dates": "13 Nisan 2023",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "%20.52"
-    },
-    {
-      "company": "GOKNR",
-      "link": "https://halkarz.com/goknur-gida-maddeleri-enerji-imalat-ithalat-ihracat-tic-ve-san-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "GOKNR",
-      "price": "11,00 TL",
-      "dates": "9 Mart 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%46.22"
-    },
-    {
-      "company": "BVSAN",
-      "link": "https://halkarz.com/bulbuloglu-vinc-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "BVSAN",
-      "price": "31,00 TL",
-      "dates": "6 Şubat 2023",
-      "distributionType": "Oransal Dağıtım",
-      "lotCount": "%30.58"
-    },
-    {
-      "company": "MACKO",
-      "link": "https://halkarz.com/mackolik-internet-hizmetleri-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "MACKO",
-      "price": "38,00 TL",
-      "dates": "26 Ocak 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%33.96"
-    },
-    {
-      "company": "ASTOR",
-      "link": "https://halkarz.com/astor-enerji-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ASTOR",
-      "price": "12,50 TL",
-      "dates": "18 Ocak 2023",
-      "distributionType": "Oransal Dağıtım",
-      "lotCount": "%27.72"
-    },
-    {
-      "company": "TNZTP",
-      "link": "https://halkarz.com/tapdi-oksijen-ozel-saglik-ve-egitim-hizmetleri-san-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "TNZTP",
-      "price": "10,21 TL",
-      "dates": "11 Ocak 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%21.74"
-    },
-    {
-      "company": "SDTTR",
-      "link": "https://halkarz.com/sdt-uzay-ve-savunma-teknolojileri-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SDTTR",
-      "price": "32,00 TL",
-      "dates": "4 Ocak 2023",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%27.55"
-    },
-    {
-      "company": "EYGYO",
-      "link": "https://halkarz.com/eyg-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "EYGYO",
-      "price": "14,23 TL",
-      "dates": "29 Aralık 2022",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%31.32"
-    },
-    {
-      "company": "OZSUB",
-      "link": "https://halkarz.com/ozsu-balik-uretim-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "OZSUB",
-      "price": "7,69 TL",
-      "dates": "29 Kasım 2022",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%33.32"
-    },
-    {
-      "company": "SNICA",
-      "link": "https://halkarz.com/sanica-isi-sanayi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SNICA",
-      "price": "20,03 TL",
-      "dates": "24 Kasım 2022",
-      "distributionType": "Oransal Dağıtım",
-      "lotCount": "%35.57"
-    },
-    {
-      "company": "BAYRK",
-      "link": "https://halkarz.com/bayrak-ebt-taban-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "BAYRK",
-      "price": "3,28 TL",
-      "dates": "4 Haziran 2020",
+      "code": "LOGO",
+      "price": "29.000 TL *YTL Öncesi",
+      "dates": "8 Mayıs 2000",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%60.20"
+      "lotCount": "%66.25"
     },
     {
-      "company": "PAPIL",
-      "link": "https://halkarz.com/papilon-savunma-teknoloji-ve-tic-a-s/",
+      "company": "BSOKE",
+      "link": "https://halkarz.com/batisoke-soke-cimento-sanayii-t-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "PAPIL",
-      "price": "4,40 TL",
-      "dates": "6 Aralık 2019",
+      "code": "BSOKE",
+      "price": "4.500 TL  *YTL Öncesi",
+      "dates": "3 Mayıs 2000",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%99.90"
+      "lotCount": "%25,32"
     },
     {
-      "company": "YKSLN",
-      "link": "https://halkarz.com/yukselen-celik-a-s/",
+      "company": "ANHYT",
+      "link": "https://halkarz.com/anadolu-hayat-emeklilik-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "YKSLN",
-      "price": "5,40 TL",
-      "dates": "14 Kasım 2019",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%56.15"
-    },
-    {
-      "company": "NATEN",
-      "link": "https://halkarz.com/naturel-yenilenebilir-enerji-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "NATEN",
-      "price": "5,80 TL",
-      "dates": "8 Ağustos 2019",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%10.21"
-    },
-    {
-      "company": "DERHL",
-      "link": "https://halkarz.com/derluks-yatirim-holding-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "DERHL",
-      "price": "2,66 TL",
-      "dates": "4 Temmuz 2019",
+      "code": "ANHYT",
+      "price": "26.000 TL *YTL Öncesi",
+      "dates": "24 Şubat 2000",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%74.56"
+      "lotCount": "%15.06"
     },
     {
-      "company": "CEOEM",
-      "link": "https://halkarz.com/ceo-event-medya-a-s/",
+      "company": "AKSUE",
+      "link": "https://halkarz.com/aksu-enerji-ve-ticaret-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "CEOEM",
-      "price": "4,80 TL",
-      "dates": "31 Mayıs 2019",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%38,63"
-    },
-    {
-      "company": "SMART",
-      "link": "https://halkarz.com/smartiks-yazilim-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SMART",
-      "price": "2,42 TL",
-      "dates": "16 Mayıs 2019",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "%93,31"
-    },
-    {
-      "company": "MPARK",
-      "link": "https://halkarz.com/mlp-saglik-hizmetleri-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "MPARK",
-      "price": "19,00 TL",
-      "dates": "13 Şubat 2018",
+      "code": "AKSUE",
+      "price": "22.000 TL *YTL Öncesi",
+      "dates": "4 Ocak 2000",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%26.7"
+      "lotCount": "%77.69"
     },
     {
-      "company": "ENJSA",
-      "link": "https://halkarz.com/enerjisa-enerji-a-s/",
+      "company": "NUGYO",
+      "link": "https://halkarz.com/nurol-gayrimenkul-yatirim-ortakligi-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "ENJSA",
-      "price": "6,25 TL",
-      "dates": "8 Şubat 2018",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%19.97"
-    },
-    {
-      "company": "TLMAN",
-      "link": "https://halkarz.com/trabzon-liman-isletmeciligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "TLMAN",
-      "price": "15,50 TL",
-      "dates": "24 Ocak 2018",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%39.47"
-    },
-    {
-      "company": "SAFKR",
-      "link": "https://halkarz.com/safkar-ege-sogutmacilik-klima-soguk-hava-tesisleri-ihr-ith-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SAFKR",
-      "price": "1,98 TL",
-      "dates": "16 Ocak 2018",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%66.82"
-    },
-    {
-      "company": "MAVI",
-      "link": "https://halkarz.com/mavi-giyim-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "MAVI",
-      "price": "43,00 TL",
-      "dates": "15 Haziran 2017",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%72.55"
-    },
-    {
-      "company": "ISDMR",
-      "link": "https://halkarz.com/iskenderun-demir-ve-celik-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ISDMR",
-      "price": "Belirlenmedi",
-      "dates": "23 Mart 2016",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%5.07"
-    },
-    {
-      "company": "CUSAN",
-      "link": "https://halkarz.com/cuhadaroglu-metal-san-ve-pazarlama-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "CUSAN",
-      "price": "2,00 TL",
-      "dates": "18 Şubat 2016",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%25,96"
-    },
-    {
-      "company": "VERTU",
-      "link": "https://halkarz.com/verusaturk-girisim-sermayesi-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "VERTU",
-      "price": "2,36 TL",
-      "dates": "17 Kasım 2015",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%41.81"
-    },
-    {
-      "company": "SEYKM",
-      "link": "https://halkarz.com/seyitler-kimya-sanayi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SEYKM",
-      "price": "2,80 TL",
-      "dates": "3 Ağustos 2015",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%75.36"
-    },
-    {
-      "company": "SNKRN",
-      "link": "https://halkarz.com/senkron-guvenlik-ve-iletisim-sistemleri-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SNKRN",
-      "price": "5,25 TL",
-      "dates": "4 Mart 2015",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%89.17"
-    },
-    {
-      "company": "HDFGS",
-      "link": "https://halkarz.com/hedef-girisim-sermayesi-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "HDFGS",
-      "price": "1,55 TL",
-      "dates": "3 Şubat 2015",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%76.76"
-    },
-    {
-      "company": "SKBNK",
-      "link": "https://halkarz.com/sekerbank-t-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SKBNK",
-      "price": "3.300 TL *YTL Öncesi",
-      "dates": "10 Nisan 1997",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%50.06"
-    },
-    {
-      "company": "VKGYO",
-      "link": "https://halkarz.com/vakif-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "VKGYO",
-      "price": "2.000 TL *YTL Öncesi",
-      "dates": "13 Ocak 1997",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%31.48"
-    },
-    {
-      "company": "CLEBI",
-      "link": "https://halkarz.com/celebi-hava-servisi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "CLEBI",
-      "price": "21.000 TL *YTL Öncesi",
-      "dates": "18 Kasım 1996",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%10.05"
-    },
-    {
-      "company": "SASA",
-      "link": "https://halkarz.com/sasa-polyester-sanayi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SASA",
-      "price": "7.200 TL *YTL Öncesi",
-      "dates": "1 Kasım 1996",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%5.35"
-    },
-    {
-      "company": "KNFRT",
-      "link": "https://halkarz.com/konfrut-tarim-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "KNFRT",
-      "price": "5.300 TL *YTL Öncesi",
-      "dates": "10 Haziran 1996",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%22.38"
-    },
-    {
-      "company": "AVGYO",
-      "link": "https://halkarz.com/avrasya-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "AVGYO",
-      "price": "1.000 TL  *YTL Öncesi",
-      "dates": "8 Temmuz 1996",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%52.01"
-    },
-    {
-      "company": "ATEKS",
-      "link": "https://halkarz.com/akin-tekstil-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ATEKS",
-      "price": "4.900 TL *YTL Öncesi",
-      "dates": "5 Mayıs 1996",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%21.43"
-    },
-    {
-      "company": "ISYAT",
-      "link": "https://halkarz.com/is-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ISYAT",
-      "price": "1.400 TL *YTL Öncesi",
-      "dates": "15 Nisan 1996",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%67.25"
-    },
-    {
-      "company": "TRHOL",
-      "link": "https://halkarz.com/tera-finansal-yatirimlar-holding-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "TRHOL",
-      "price": "Belirlenmedi",
-      "dates": "13 Ekim 1995",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%53.76"
-    },
-    {
-      "company": "DZGYO",
-      "link": "https://halkarz.com/deniz-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "DZGYO",
-      "price": "Belirlenmedi",
-      "dates": "23 Ekim 1995",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%25.07"
-    },
-    {
-      "company": "GLYHO",
-      "link": "https://halkarz.com/global-yatirim-holding-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "GLYHO",
-      "price": "9,750 TL  *YTL Öncesi",
-      "dates": "22 Mayıs 1995",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%51.87"
-    },
-    {
-      "company": "ERBOS",
-      "link": "https://halkarz.com/erbosan-erciyas-boru-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ERBOS",
-      "price": "5.500 TL *YTL Öncesi",
-      "dates": "17 Nisan 1995",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%58.24"
-    },
-    {
-      "company": "FRIGO",
-      "link": "https://halkarz.com/frigo-pak-gida-maddeleri-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "FRIGO",
-      "price": "15.500 TL *YTL Öncesi",
-      "dates": "24 Nisan 1995",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%73.08"
-    },
-    {
-      "company": "SKTAS",
-      "link": "https://halkarz.com/soktas-tekstil-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "SKTAS",
-      "price": "15.000 TL *YTL Öncesi",
-      "dates": "3 Nisan 1995",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%59.92"
-    },
-    {
-      "company": "DGNMO",
-      "link": "https://halkarz.com/doganlar-mobilya-grubu-imalat-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "DGNMO",
-      "price": "Belirlenmedi",
-      "dates": "1 Ağustos 1990",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%50.08"
-    },
-    {
-      "company": "AKBNK",
-      "link": "https://halkarz.com/akbank-t-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "AKBNK",
-      "price": "12.000 TL *YTL Öncesi",
-      "dates": "26 Temmuz 1990",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%52.79"
-    },
-    {
-      "company": "PETKM",
-      "link": "https://halkarz.com/petkim-petrokimya-holding-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "PETKM",
+      "code": "NUGYO",
       "price": "2.500 TL *YTL Öncesi",
-      "dates": "9 Temmuz 1990",
+      "dates": "15 Aralık 1999",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%48.06"
+      "lotCount": "%50.50"
     },
     {
-      "company": "VESTL",
-      "link": "https://halkarz.com/vestel-elektronik-san-ve-tic-a-s/",
+      "company": "CMENT",
+      "link": "https://halkarz.com/cimentas-izmir-cimento-fabrikasi-t-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "VESTL",
-      "price": "13.250 TL *YTL Öncesi",
-      "dates": "27 Haziran 1990",
+      "code": "CMENT",
+      "price": "10.500 TL *YTL Öncesi",
+      "dates": "20 Ekim 1992",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%44.28"
+      "lotCount": "%2.70"
     },
     {
-      "company": "ECILC",
-      "link": "https://halkarz.com/eis-eczacibasi-ilac-sinai-ve-finansal-yatirimlar-san-ve-tic-a-s/",
+      "company": "BURCE",
+      "link": "https://halkarz.com/burcelik-bursa-celik-dokum-san-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "ECILC",
-      "price": "20.000 TL *YTL Öncesi",
-      "dates": "25 Haziran 1990",
+      "code": "BURCE",
+      "price": "5.600 TL *YTL Öncesi",
+      "dates": "8 Ekim 1992",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%52.69"
+    },
+    {
+      "company": "TRCAS",
+      "link": "https://halkarz.com/turcas-holding-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "TRCAS",
+      "price": "7.000 TL *YTL Öncesi",
+      "dates": "6 Nisan 1992",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%27.95"
+    },
+    {
+      "company": "HURGZ",
+      "link": "https://halkarz.com/hurriyet-gazetecilik-ve-matbaacilik-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "HURGZ",
+      "price": "7.800 TL *YTL Öncesi",
+      "dates": "25 Şubat 1992",
       "distributionType": "Bilinmiyor",
       "lotCount": "%18.78"
     },
     {
-      "company": "GARAN",
-      "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
+      "company": "ALARK",
+      "link": "https://halkarz.com/alarko-holding-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "GARAN",
-      "price": "4.500 TL *YTL Öncesi",
-      "dates": "6 Haziran 1990",
+      "code": "ALARK",
+      "price": "8.750 TL *YTL Öncesi",
+      "dates": "27 Ocak 1992",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%13.98"
+      "lotCount": "%37.12"
     },
     {
-      "company": "ICBCT",
-      "link": "https://halkarz.com/icbc-turkey-bank-a-s/",
+      "company": "ALCAR",
+      "link": "https://halkarz.com/alarko-carrier-san-ve-tic-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "ICBCT",
+      "code": "ALCAR",
       "price": "Belirlenmedi",
-      "dates": "28 Nisan 1990",
+      "dates": "27 Ocak 1992",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%7.14"
+      "lotCount": "%15.92"
     },
     {
-      "company": "YUNSA",
-      "link": "https://halkarz.com/yunsa-yunlu-san-ve-tic-a-s/",
+      "company": "TEHOL",
+      "link": "https://halkarz.com/tera-yatirim-teknoloji-holding-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "YUNSA",
+      "code": "TEHOL",
+      "price": "Belirlenmedi",
+      "dates": "24 Ocak 1992",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%88.47"
+    },
+    {
+      "company": "DURDO",
+      "link": "https://halkarz.com/duran-dogan-basim-ve-ambalaj-san-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "DURDO",
+      "price": "9.000 TL *YTL Öncesi",
+      "dates": "17 Temmuz 1991",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%16.07"
+    },
+    {
+      "company": "KLNMA",
+      "link": "https://halkarz.com/turkiye-kalkinma-bankasi-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "KLNMA",
+      "price": "3.000 TL *YTL Öncesi",
+      "dates": "3 Haziran 1991",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%0.91"
+    },
+    {
+      "company": "TUPRS",
+      "link": "https://halkarz.com/turkiye-petrol-rafinerileri-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "TUPRS",
+      "price": "2.000 TL  *YTL Öncesi",
+      "dates": "30 Mayıs 1991",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%46.49"
+    },
+    {
+      "company": "LUKSK",
+      "link": "https://halkarz.com/luks-kadife-tic-ve-san-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "LUKSK",
+      "price": "7.000 TL *YTL Öncesi",
+      "dates": "29 Nisan 1991",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%16.96"
+    },
+    {
+      "company": "VAKFN",
+      "link": "https://halkarz.com/vakif-finansal-kiralama-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "VAKFN",
+      "price": "6.000 TL *YTL Öncesi",
+      "dates": "24 Nisan 1991",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%37.85"
+    },
+    {
+      "company": "AFYON",
+      "link": "https://halkarz.com/afyon-cimento-san-t-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "AFYON",
+      "price": "30.000 TL *YTL Öncesi",
+      "dates": "27 Mart 1991",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%48.58"
+    },
+    {
+      "company": "MGROS",
+      "link": "https://halkarz.com/migros-t-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "MGROS",
+      "price": "8.000 TL *YTL Öncesi",
+      "dates": "27 Şubat 1991",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%50.77"
+    },
+    {
+      "company": "EDIP",
+      "link": "https://halkarz.com/edip-gayrimenkul-yatirim-san-ve-tic-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "EDIP",
+      "price": "4.000 TL  *YTL Öncesi",
+      "dates": "18 Ocak 1991",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%43.97"
+    },
+    {
+      "company": "TOASO",
+      "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "TOASO",
+      "price": "19.000 TL *YTL Öncesi",
+      "dates": "7 Ocak 1991",
+      "distributionType": "Bilinmiyor",
+      "lotCount": "%24.11"
+    },
+    {
+      "company": "USAK",
+      "link": "https://halkarz.com/usak-seramik-sanayii-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "USAK",
       "price": "5.000 TL *YTL Öncesi",
-      "dates": "6 Nisan 1990",
+      "dates": "28 Kasım 1990",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%8.33"
+      "lotCount": "%75.54"
     },
     {
-      "company": "INTEM",
-      "link": "https://halkarz.com/intema-insaat-ve-tesisat-malz-yat-ve-paz-a-s/",
+      "company": "PARSN",
+      "link": "https://halkarz.com/parsan-makina-parcalari-sanayii-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "INTEM",
-      "price": "5.000 TL *YTL Öncesi",
-      "dates": "16 Mart 1990",
+      "code": "PARSN",
+      "price": "7.000 TL *YTL Öncesi",
+      "dates": "16 Ekim 1990",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%13.53"
+      "lotCount": "%29.80"
     },
     {
-      "company": "MARTI",
-      "link": "https://halkarz.com/marti-otel-isletmeleri-a-s/",
+      "company": "KUTPO",
+      "link": "https://halkarz.com/kutahya-porselen-sanayii-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "MARTI",
-      "price": "3.500 TL  *YTL Öncesi",
-      "dates": "9 Şubat 1990",
+      "code": "KUTPO",
+      "price": "10.000 TL *YTL Öncesi",
+      "dates": "19 Eylül 1990",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%63.32"
+      "lotCount": "%25.86"
     },
     {
-      "company": "GENTS",
-      "link": "https://halkarz.com/gentas-dekoratif-yuzeyler-san-ve-tic-a-s/",
+      "company": "FMIZP",
+      "link": "https://halkarz.com/federal-mogul-izmit-piston-ve-pim-uretim-tesisleri-a-s/",
       "status": "Talep Toplanıyor",
-      "code": "GENTS",
-      "price": "3.500 TL  *YTL Öncesi",
-      "dates": "2 Şubat 1990",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%54.62"
-    },
-    {
-      "company": "NTHOL",
-      "link": "https://halkarz.com/net-holding-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "NTHOL",
+      "code": "FMIZP",
       "price": "Belirlenmedi",
-      "dates": "5 Ekim 1989",
+      "dates": "20 Ağustos 1990",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%22.54"
-    },
-    {
-      "company": "BUCIM",
-      "link": "https://halkarz.com/bursa-cimento-fabrikasi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "BUCIM",
-      "price": "Belirlenmedi",
-      "dates": "28 Mart 1988",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%36.13"
-    },
-    {
-      "company": "ALCTL",
-      "link": "https://halkarz.com/alcatel-lucent-teletas-telekomunikasyon-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "ALCTL",
-      "price": "Belirlenmedi",
-      "dates": "22 Mart 1988",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%34.97"
-    },
-    {
-      "company": "AYGAZ",
-      "link": "https://halkarz.com/aygaz-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "AYGAZ",
-      "price": "Belirlenmedi",
-      "dates": "13 Ocak 1988",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%24.15"
-    },
-    {
-      "company": "AYCES",
-      "link": "https://halkarz.com/altin-yunus-cesme-turistik-tesisler-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "AYCES",
-      "price": "Belirlenmedi",
-      "dates": "28 Ağustos 1987",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%7.47"
-    },
-    {
-      "company": "MAALT",
-      "link": "https://halkarz.com/marmaris-altinyunus-turistik-tesisleri-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "MAALT",
-      "price": "Belirlenmedi",
-      "dates": "28 Ağustos 1987",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%23.51"
-    },
-    {
-      "company": "DYOBY",
-      "link": "https://halkarz.com/dyo-boya-fabrikalari-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "DYOBY",
-      "price": "Belirlenmedi",
-      "dates": "12 Ağustos 1987",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%14.34"
-    },
-    {
-      "company": "DOGUB",
-      "link": "https://halkarz.com/dogusan-boru-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "DOGUB",
-      "price": "Belirlenmedi",
-      "dates": "3 Temmuz 1987",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%43.90"
-    },
-    {
-      "company": "TSKB",
-      "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "TSKB",
-      "price": "Belirlenmedi",
-      "dates": "26 Aralık 1986",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%41.19"
-    },
-    {
-      "company": "PETUN",
-      "link": "https://halkarz.com/pinar-entegre-et-ve-un-sanayi-a-s/",
-      "status": "Talep Toplanıyor",
-      "code": "PETUN",
-      "price": "Belirlenmedi",
-      "dates": "3 Şubat 1986",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%7.61"
-    },
-    {
-      "company": "YGYO",
-      "link": "https://halkarz.com/yesil-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Yeni",
-      "code": "YGYO",
-      "price": "Belirlenmedi",
-      "dates": "Tarih Yok",
-      "distributionType": "Bilinmiyor",
-      "lotCount": "%78.52"
+      "lotCount": "%22.24"
     }
   ],
   "draft_ipos": [
     {
-      "company": "HDMCB",
-      "link": "https://halkarz.com/hdm-celik-boru-san-ve-tic-a-s/",
+      "company": "YESOT",
+      "link": "https://halkarz.com/yes-oto-kiralama-ve-turizm-yatirimlari-a-s/",
       "status": "Taslak",
-      "code": "HDMCB",
+      "code": "YESOT",
+      "price": "Hazırlanıyor...",
+      "dates": "Tarih Bekleniyor",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "5,250,000 Lot"
+    },
+    {
+      "company": "TMGSY",
+      "link": "https://halkarz.com/techmine-girisim-sermayesi-yatirim-ortakligi-a-s/",
+      "status": "Taslak",
+      "code": "TMGSY",
+      "price": "Hazırlanıyor...",
+      "dates": "Tarih Bekleniyor",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "36,000,000 Lot"
+    },
+    {
+      "company": "TVKDN",
+      "link": "https://halkarz.com/tavuk-dunyasi-gida-san-ve-tic-a-s/",
+      "status": "Taslak",
+      "code": "TVKDN",
       "price": "Hazırlanıyor...",
       "dates": "Tarih Bekleniyor",
       "distributionType": "Oransal Dağıtım",
-      "lotCount": "6,666,666 Lot"
+      "lotCount": "3,000,000 Lot"
     },
     {
-      "company": "CAVDC",
-      "link": "https://halkarz.com/cavusoglu-demir-celik-geri-donusum-san-tic-a-s/",
+      "company": "KZLYI",
+      "link": "https://halkarz.com/kizilay-icecek-san-ve-tic-a-s/",
       "status": "Taslak",
-      "code": "CAVDC",
+      "code": "KZLYI",
       "price": "Hazırlanıyor...",
       "dates": "Tarih Bekleniyor",
-      "distributionType": "Eşit Dağıtım",
-      "lotCount": "15,200,000 Lot"
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "2,000,000 Lot"
     }
   ]
 }

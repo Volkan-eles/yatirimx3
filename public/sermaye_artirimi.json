@@ -1,291 +1,291 @@
 [
   {
-    "code": "KAYSE",
-    "company": "KAYSE\nKayseri Şeker Fabrikası A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%324.92",
-    "date": "06.01.2026",
-    "status": "Onaylandı",
-    "description": "Tutar: 2.294.000.000 TL | Tarih: 06.01.2026"
-  },
-  {
     "code": "AGROT",
-    "company": "AGROT\nAgrotech Yüksek Teknoloji ve Yatırım A.Ş.",
+    "company": "AGROT Agrotech Yüksek Teknoloji ve Yatırım A.Ş.",
     "type": "Bedelsiz",
     "rate": "%100",
     "date": "07.01.2026",
     "status": "Onaylandı",
-    "description": "Tutar: 1.200.000.000 TL | Tarih: 07.01.2026"
+    "description": "Bölünme Tarihi: 07.01.2026"
   },
   {
     "code": "LIDFA",
-    "company": "LIDFA\nLider Faktoring A.Ş.",
+    "company": "LIDFA Lider Faktoring A.Ş.",
     "type": "Bedelsiz",
     "rate": "%90",
     "date": "30.12.2025",
     "status": "SPK Onay",
-    "description": "Tutar: 502.524.000 TL"
+    "description": "SPK Onayı Alındı | Tutar: 502.524.000 TL"
   },
   {
     "code": "ALGYO",
-    "company": "ALGYO\nAlarko Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "company": "ALGYO Alarko Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
     "rate": "%600",
     "date": "23.12.2025",
     "status": "SPK Onay",
-    "description": "Tutar: 1.738.800.000 TL"
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "KAYSE",
+    "company": "KAYSE Kayseri Şeker Fabrikası A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%324.92",
+    "date": "06.01.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 06.01.2026"
   },
   {
     "code": "SMRVA",
-    "company": "SMRVA\nSümer Varlık Yönetim A.Ş.",
+    "company": "SMRVA Sümer Varlık Yönetim A.Ş.",
     "type": "Bedelsiz",
     "rate": "%408.47",
     "date": "23.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 482.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "ATEKS",
-    "company": "ATEKS\nAkın Tekstil A.Ş.",
+    "company": "ATEKS Akın Tekstil A.Ş.",
     "type": "Bedelsiz",
     "rate": "%2023.80",
     "date": "16.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 510.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "BIGCH",
-    "company": "BIGCH\n(BigChefs) Büyük Şefler Gıda Turizm Tekstil Danışmanlık Organizasyon Eğitim San. ve Tic. A.Ş.",
+    "company": "BIGCH (BigChefs) Büyük Şefler Gıda Turizm Tekstil Danışmanlık Organizasyon Eğitim San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%400",
     "date": "09.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 428.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "SMRTG",
-    "company": "SMRTG\nSmart Güneş Enerjisi Teknolojileri Ar-Ge Üretim San. ve Tic. A.Ş.",
+    "company": "SMRTG Smart Güneş Enerjisi Teknolojileri Ar-Ge Üretim San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%200",
     "date": "09.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1.211.760.000 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1.211.760.000 TL"
   },
   {
     "code": "YAPRK",
-    "company": "YAPRK\nYaprak Süt ve Besi Çiftlikleri San. ve Tic. A.Ş.",
+    "company": "YAPRK Yaprak Süt ve Besi Çiftlikleri San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%2000",
     "date": "08.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 284.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "GMTAS",
-    "company": "GMTAS\nGimat Mağazacılık San. ve Tic. A.Ş.",
+    "company": "GMTAS Gimat Mağazacılık San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%101.07",
     "date": "05.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 150.800.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "RNPOL",
-    "company": "RNPOL\nRainbow Polikarbonat San. Tic. A.Ş.",
+    "company": "RNPOL Rainbow Polikarbonat San. Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%1900",
     "date": "25.11.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 570.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "TRHOL",
-    "company": "TRHOL\nTera Finansal Yatırımlar Holding A.Ş.",
+    "company": "TRHOL Tera Finansal Yatırımlar Holding A.Ş.",
     "type": "Bedelsiz",
     "rate": "%100",
     "date": "21.11.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 30.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "RYGYO",
-    "company": "RYGYO\nReysaş Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "company": "RYGYO Reysaş Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
     "rate": "%100",
     "date": "19.11.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 2.000.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "KZBGY",
-    "company": "KZBGY\nKızılbük Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "company": "KZBGY Kızılbük Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
     "rate": "%233.33",
     "date": "08.11.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 2.800.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "GZNMI",
-    "company": "GZNMI\nGezinomi Seyahat Turizm Tic. A.Ş.",
+    "company": "GZNMI Gezinomi Seyahat Turizm Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%1000",
     "date": "05.11.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 650.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "RYSAS",
-    "company": "RYSAS\nReysaş Taşımacılık ve Lojistik Ticaret A.Ş.",
+    "company": "RYSAS Reysaş Taşımacılık ve Lojistik Ticaret A.Ş.",
     "type": "Bedelsiz",
     "rate": "%50",
     "date": "24.10.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1.000.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "QNBTR",
-    "company": "QNBTR\nQnb Bank A.Ş.",
+    "company": "QNBTR Qnb Bank A.Ş.",
     "type": "Bedelsiz",
     "rate": "%64.17",
     "date": "23.10.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 2.150.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "ENTRA",
-    "company": "ENTRA\nIc Enterra Yenilenebilir Enerji A.Ş.",
+    "company": "ENTRA Ic Enterra Yenilenebilir Enerji A.Ş.",
     "type": "Bedelsiz",
     "rate": "%100",
     "date": "23.09.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1.845.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "EUKYO",
-    "company": "EUKYO\nEuro Kapital Yatırım Ortaklığı A.Ş.",
+    "company": "EUKYO Euro Kapital Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
     "rate": "%200",
     "date": "01.09.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 40.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "ETYAT",
-    "company": "ETYAT\nEuro Trend Yatırım Ortaklığı A.Ş.",
+    "company": "ETYAT Euro Trend Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
     "rate": "%200",
     "date": "01.09.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 40.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "EUYO",
-    "company": "EUYO\nEuro Menkul Kıymetler Yatırım Ortaklığı A.Ş.",
+    "company": "EUYO Euro Menkul Kıymetler Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
     "rate": "%200",
     "date": "01.09.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 40.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "LINK",
-    "company": "LINK\nLink Bilgisayar Sistemleri Yazılımı ve Donanımı San. ve Tic. A.Ş.",
+    "company": "LINK Link Bilgisayar Sistemleri Yazılımı ve Donanımı San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%4000",
     "date": "18.08.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 870.004.835 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 870.004.835 TL"
   },
   {
     "code": "ALVES",
-    "company": "ALVES\nAlves Kablo San. ve Tic. A.Ş.",
+    "company": "ALVES Alves Kablo San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%900",
     "date": "15.08.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1.440.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "GENIL",
-    "company": "GENIL\nGen İlaç ve Sağlık Ürünleri San. ve Tic. A.Ş.",
+    "company": "GENIL Gen İlaç ve Sağlık Ürünleri San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%1400",
     "date": "14.07.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 4.200.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "SODSN",
-    "company": "SODSN\nSodaş Sodyum Sanayi A.Ş.",
+    "company": "SODSN Sodaş Sodyum Sanayi A.Ş.",
     "type": "Bedelsiz",
     "rate": "%700",
     "date": "20.06.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 105.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "REEDR",
-    "company": "REEDR\nReeder Teknoloji San. ve Tic. A.Ş.",
+    "company": "REEDR Reeder Teknoloji San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%300",
     "date": "03.06.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 2.850.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "PASEU",
-    "company": "PASEU\nPasifik Eurasia Lojistik Dış Ticaret A.Ş.",
+    "company": "PASEU Pasifik Eurasia Lojistik Dış Ticaret A.Ş.",
     "type": "Bedelsiz",
     "rate": "%45",
     "date": "08.05.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 302.400.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "SNICA",
-    "company": "SNICA\nSanica Isı Sanayi A.Ş.",
+    "company": "SNICA Sanica Isı Sanayi A.Ş.",
     "type": "Bedelsiz",
     "rate": "%100",
     "date": "20.06.2024",
     "status": "YKK Kararı",
-    "description": "Tutar: 600.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "CASA",
-    "company": "CASA\nCasa Emtia Petrol Kimyevi ve Türevleri San. Tic. A.Ş.",
+    "company": "CASA Casa Emtia Petrol Kimyevi ve Türevleri San. Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%1000",
     "date": "22.09.2023",
     "status": "YKK Kararı",
-    "description": "Tutar: 49.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "BRMEN",
     "company": "BRMEN Birlik Mensucat Tic. ve San. İşletmesi A.Ş.",
     "type": "Bedelli",
     "rate": "%100",
-    "date": "12.01.2026",
+    "date": "29.12.2025 Bitiş: 12.01.2026",
     "status": "Onaylandı",
-    "description": "Tutar: 1 TL | Tarih: 12.01.2026"
+    "description": "Bölünme Tarihi: 29.12.2025 Bitiş: 12.01.2026 | Tutar: 44.627.021 TL"
   },
   {
     "code": "DITAS",
     "company": "DITAS Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş.",
     "type": "Bedelli",
     "rate": "%100",
-    "date": "16.01.2026",
+    "date": "02.01.2026 Bitiş: 16.01.2026",
     "status": "Onaylandı",
-    "description": "Tutar: 1 TL | Tarih: 16.01.2026"
+    "description": "Bölünme Tarihi: 02.01.2026 Bitiş: 16.01.2026 | Tutar: 1 TL"
   },
   {
     "code": "FENER",
     "company": "FENER Fenerbahçe Fulbol A.Ş.",
     "type": "Bedelli",
     "rate": "%400",
-    "date": "19.01.2026",
+    "date": "05.01.2026 Bitiş: 19.01.2026",
     "status": "Onaylandı",
-    "description": "Tutar: 2 TL | Tarih: 19.01.2026"
+    "description": "Bölünme Tarihi: 05.01.2026 Bitiş: 19.01.2026 | Tutar: 2 TL"
   },
   {
     "code": "IDGYO",
@@ -294,7 +294,7 @@
     "rate": "%250",
     "date": "18.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "VRGYO",
@@ -303,7 +303,7 @@
     "rate": "%250",
     "date": "17.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "CVKMD",
@@ -312,7 +312,7 @@
     "rate": "%170",
     "date": "12.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "MARKA",
@@ -321,7 +321,7 @@
     "rate": "%300",
     "date": "04.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 62.970.000 TL"
   },
   {
     "code": "YESIL",
@@ -330,7 +330,7 @@
     "rate": "%200",
     "date": "01.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "IHLAS",
@@ -339,7 +339,7 @@
     "rate": "%200",
     "date": "01.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "TRHOL",
@@ -348,7 +348,7 @@
     "rate": "%300",
     "date": "21.11.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "RYGYO",
@@ -357,7 +357,7 @@
     "rate": "%50",
     "date": "19.11.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "RYSAS",
@@ -366,7 +366,7 @@
     "rate": "%100",
     "date": "24.10.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "QNBFK",
@@ -375,7 +375,7 @@
     "rate": "%25",
     "date": "15.10.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "VANGD",
@@ -384,7 +384,7 @@
     "rate": "%300",
     "date": "01.10.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 5 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 5 TL"
   },
   {
     "code": "VBTYZ",
@@ -393,7 +393,7 @@
     "rate": "%300",
     "date": "24.09.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "KARTN",
@@ -402,7 +402,7 @@
     "rate": "%400",
     "date": "24.09.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "USAK",
@@ -411,7 +411,7 @@
     "rate": "%200",
     "date": "23.09.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "KORDS",
@@ -420,7 +420,7 @@
     "rate": "%148.96",
     "date": "12.09.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 10 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 289.776.399 TL"
   },
   {
     "code": "CANTE",
@@ -429,7 +429,7 @@
     "rate": "%42.85",
     "date": "21.08.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "KTLEV",
@@ -438,7 +438,7 @@
     "rate": "%262",
     "date": "30.09.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "KENT",
@@ -447,7 +447,7 @@
     "rate": "%50",
     "date": "15.08.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "FRIGO",
@@ -456,7 +456,7 @@
     "rate": "%239.89",
     "date": "30.07.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 352.897.525 TL"
   },
   {
     "code": "KRTEK",
@@ -465,7 +465,7 @@
     "rate": "%300",
     "date": "07.07.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 105.301.495 TL"
   },
   {
     "code": "MANAS",
@@ -474,7 +474,7 @@
     "rate": "%200",
     "date": "25.06.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 331.056.000 TL"
   },
   {
     "code": "MRGYO",
@@ -483,7 +483,7 @@
     "rate": "%120",
     "date": "03.04.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1.309.176.000 TL"
   },
   {
     "code": "BAGFS",
@@ -492,7 +492,7 @@
     "rate": "%1000",
     "date": "14.03.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "MEGAP",
@@ -501,7 +501,7 @@
     "rate": "%100",
     "date": "13.03.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "HUBVC",
@@ -510,7 +510,7 @@
     "rate": "%200",
     "date": "25.02.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 1 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "PATEK",
@@ -519,7 +519,7 @@
     "rate": "%12.35",
     "date": "08.08.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 74.074.000 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 74.074.000 TL"
   },
   {
     "code": "ETILR",
@@ -528,7 +528,7 @@
     "rate": "%26.73",
     "date": "15.12.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 64.175.957 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 64.175.957 TL"
   },
   {
     "code": "TMPOL",
@@ -537,7 +537,7 @@
     "rate": "%6.04",
     "date": "01.09.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 856.000 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 856.000 TL"
   },
   {
     "code": "FORMT",
@@ -546,7 +546,7 @@
     "rate": "%59.55",
     "date": "02.09.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 641.000.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "HKTM",
@@ -555,7 +555,16 @@
     "rate": "%23.62",
     "date": "28.03.2025",
     "status": "YKK Kararı",
-    "description": "Tutar: 24.797.000 TL"
+    "description": "Yönetim Kurulu Kararı | Tutar: 24.797.000 TL"
+  },
+  {
+    "code": "MAALT",
+    "company": "MAALT Marmaris Altınyunus Turistik Tesisleri A.Ş.",
+    "type": "Tahsisli",
+    "rate": "%24.01",
+    "date": "08.07.2025",
+    "status": "YKK Kararı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1.672.957 TL"
   },
   {
     "code": "DIRIT",
@@ -564,6 +573,6 @@
     "rate": "%23.47",
     "date": "05.02.2024",
     "status": "YKK Kararı",
-    "description": "Tutar: 2.500.000 TL"
+    "description": "Yönetim Kurulu Kararı"
   }
 ]
