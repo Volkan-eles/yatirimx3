@@ -1,14 +1,5 @@
 [
   {
-    "code": "AGROT",
-    "company": "AGROT Agrotech Yüksek Teknoloji ve Yatırım A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "07.01.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 07.01.2026"
-  },
-  {
     "code": "LIDFA",
     "company": "LIDFA Lider Faktoring A.Ş.",
     "type": "Bedelsiz",
@@ -34,6 +25,15 @@
     "date": "06.01.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 06.01.2026"
+  },
+  {
+    "code": "AGROT",
+    "company": "AGROT Agrotech Yüksek Teknoloji ve Yatırım A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "08.01.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 08.01.2026"
   },
   {
     "code": "SMRVA",
@@ -360,6 +360,15 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
+    "code": "EPLAS",
+    "company": "EPLAS Egeplast Ege Plastik Tic. ve San. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%150",
+    "date": "31.10.2025",
+    "status": "YKK Kararı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 285.922.834 TL"
+  },
+  {
     "code": "RYSAS",
     "company": "RYSAS Reysaş Taşımacılık ve Lojistik Ticaret A.Ş.",
     "type": "Bedelli",
@@ -511,15 +520,6 @@
     "date": "25.02.2025",
     "status": "YKK Kararı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "PATEK",
-    "company": "PATEK Pasifik Teknoloji A.Ş.",
-    "type": "Tahsisli",
-    "rate": "%12.35",
-    "date": "08.08.2025",
-    "status": "YKK Kararı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 74.074.000 TL"
   },
   {
     "code": "ETILR",
