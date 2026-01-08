@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-08T05:54:37.249497",
+  "last_update": "2026-01-08T06:44:03.831671",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 505,
   "successful": 505,
@@ -247,7 +247,7 @@
       "forwardEps": 17.48,
       "bookValue": 53.345,
       "dividendRate": 1.22,
-      "dividendYield": 1.64,
+      "dividendYield": 1.69,
       "exDividendDate": 1742947200,
       "payoutRatio": 0.132,
       "targetHighPrice": 101.46,
@@ -439,9 +439,9 @@
       "dividendYield": null,
       "exDividendDate": 1712102400,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.91,
+      "targetHighPrice": 53.1,
       "targetLowPrice": 27.1,
-      "targetMeanPrice": 42.795,
+      "targetMeanPrice": 43.43786,
       "targetMedianPrice": 43.0,
       "recommendationMean": 1.625,
       "recommendationKey": "buy",
@@ -1192,7 +1192,7 @@
       "forwardEps": 72.02,
       "bookValue": 14.763,
       "dividendRate": 6.88,
-      "dividendYield": 2.39,
+      "dividendYield": 2.37,
       "exDividendDate": 1756771200,
       "payoutRatio": 0.0859,
       "targetHighPrice": 580.0,
@@ -1911,7 +1911,7 @@
       "fiftyTwoWeekHigh": 32.7,
       "fiftyDayAverage": 24.8,
       "twoHundredDayAverage": 25.69,
-      "volume": "218,789,466",
+      "volume": "218,779,466",
       "averageVolume": 185223037,
       "averageVolume10days": 113473871,
       "marketCap": 164282646528,
@@ -2078,7 +2078,7 @@
         },
         {
           "Close": 24.440000534057617,
-          "Volume": 218789466
+          "Volume": 218779466
         }
       ],
       "heldPercentInsiders": 0.49542,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 42.08999,
-      "targetLowPrice": 29.265024,
-      "targetMeanPrice": 35.50536,
-      "targetMedianPrice": 35.010437,
+      "targetHighPrice": 42.103584,
+      "targetLowPrice": 29.274477,
+      "targetMeanPrice": 35.516827,
+      "targetMedianPrice": 35.021744,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 6,
@@ -3271,7 +3271,7 @@
       "forwardEps": 12.54,
       "bookValue": 111.665,
       "dividendRate": 3.64,
-      "dividendYield": 3.67,
+      "dividendYield": 3.68,
       "exDividendDate": 1766707200,
       "payoutRatio": 0.73330003,
       "targetHighPrice": 171.0,
@@ -3460,7 +3460,7 @@
       "forwardEps": 10.62,
       "bookValue": 84.237,
       "dividendRate": 0.65,
-      "dividendYield": 1.62,
+      "dividendYield": 1.64,
       "exDividendDate": 1748563200,
       "payoutRatio": 0.6721,
       "targetHighPrice": 60.0,
@@ -5516,7 +5516,7 @@
       "country": "Turkey",
       "phone": "90 212 463 30 00",
       "description": "TAV Havalimanlari Holding A.S., together with its subsidiaries, constructs terminal buildings, and manages and operates terminals or airports in Turkey, Georgia, Kazakhstan, Macedonia, Tunisia, Croatia, Oman, Latvia, Spain, Qatar, Saudi Arabia, and internationally. It operates through Terminal Operations, Catering Operations, Duty Free Operations, Ground Handling and Bus Operations, and Other segments. The Terminal Operations segment engages in the operation of terminal buildings, car parks, general aviation terminals, and parking-apron-taxi way, as well as ground handling operations. Its Catering Operations segment manages food and beverage operations of the terminal for passengers and the terminal personnel. The Duty Free Operations segment sells duty free goods for the international arriving and departing passengers. Its Ground Handling and Bus Operations segment is involved in the provision of traffic, ramp, flight operations, cargo, and other ground handling services for domestic and international flights, as well as the operation of buses. The Other segment provides lounge, IT, security and education, and airline taxi services, as well as software and system services. The company was formerly known as Tepe Akfen Vie Yatirim Yapim ve Isletme A.S. and changed its name to TAV Havalimanlari Holding A.S. in August 2006. TAV Havalimanlari Holding A.S. was founded in 1997 and is based in Istanbul, Turkey.",
-      "pe": 31.268581,
+      "pe": 31.237623,
       "forwardPE": 15.767117,
       "priceToBook": 1.432034,
       "pegRatio": null,
@@ -5535,17 +5535,17 @@
       "debtToEquity": 110.684,
       "currentRatio": 0.935,
       "quickRatio": 0.693,
-      "eps": 10.09,
+      "eps": 10.1,
       "forwardEps": 20.01,
       "bookValue": 220.316,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1585094400,
       "payoutRatio": 0.0,
-      "targetHighPrice": 574.47723,
-      "targetLowPrice": 341.4517,
-      "targetMeanPrice": 432.58356,
-      "targetMedianPrice": 431.81522,
+      "targetHighPrice": 574.26324,
+      "targetLowPrice": 341.3245,
+      "targetMeanPrice": 432.4224,
+      "targetMedianPrice": 431.6544,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -6069,7 +6069,7 @@
       "fiftyTwoWeekHigh": 5.66,
       "fiftyDayAverage": 2.92,
       "twoHundredDayAverage": 3.43,
-      "volume": "301,315,231",
+      "volume": "1,375,057,055",
       "averageVolume": 592733553,
       "averageVolume10days": 595620961,
       "marketCap": 123121876992,
@@ -6236,7 +6236,7 @@
         },
         {
           "Close": 2.809999942779541,
-          "Volume": 301315231
+          "Volume": 1375057055
         }
       ],
       "heldPercentInsiders": 0.69254,
@@ -7240,7 +7240,7 @@
       "forwardEps": 30.54,
       "bookValue": 17.106,
       "dividendRate": 0.13,
-      "dividendYield": 0.78,
+      "dividendYield": 0.77,
       "exDividendDate": 1748304000,
       "payoutRatio": 0.115100004,
       "targetHighPrice": 29.0,
@@ -7429,7 +7429,7 @@
       "forwardEps": 28.75,
       "bookValue": 108.73,
       "dividendRate": 8.07,
-      "dividendYield": 6.96,
+      "dividendYield": 6.97,
       "exDividendDate": 1750291200,
       "payoutRatio": 0.4864,
       "targetHighPrice": 265.0,
@@ -10071,7 +10071,7 @@
       "debtToEquity": 125.034,
       "currentRatio": 1.007,
       "quickRatio": 1.001,
-      "eps": -22.05,
+      "eps": -22.92,
       "forwardEps": 7.29,
       "bookValue": 39.155,
       "dividendRate": 0.55,
@@ -10449,7 +10449,7 @@
       "debtToEquity": 116.487,
       "currentRatio": 0.456,
       "quickRatio": 0.153,
-      "eps": -1.49,
+      "eps": -1.56,
       "forwardEps": null,
       "bookValue": 8.694,
       "dividendRate": null,
@@ -14611,7 +14611,7 @@
       "forwardEps": 16.77,
       "bookValue": 27.24,
       "dividendRate": 5.81,
-      "dividendYield": 5.82,
+      "dividendYield": 5.74,
       "exDividendDate": 1742947200,
       "payoutRatio": 0.4645,
       "targetHighPrice": 187.2,
@@ -15155,7 +15155,7 @@
       "country": "Turkey",
       "phone": "90 312 299 25 95",
       "description": "Ard Grup Bilisim Teknolojileri Anonim Sirketi engages in the software, information technology, communication, and telecommunication businesses in Turkey. The company offers enterprise software solutions, including corporate information management system, corporate identity and access management systems, enterprise equipment tracking, enterprise equipment tracking systems, e-government projects, RFID-based software and integration solutions, vehicle tracking and security control systems, logistic warehouse and container tracking systems, textile tracking and process management solutions, and social media tracking systems, as well as staff, visitor, and person tracking systems. It also provides health system solutions, such as sterilization, patient, baby, hospital textile, hospital fixtures, medical equipment, and hospital warehouse tracking systems; and SAP mobile and CRM, business one, and business analytics solutions. In addition, the company information system solutions, which include server, virtualization disaster recovery center, traceability and process management applications, and components supply of enterprise information systems. Further, it offers command center and security solutions; and smart technology solutions comprising smart highway, bridge, tunnel, secure campus, factory and manufacture, conference hall and meeting room, classroom, distance education, and city and traffic solutions. The company was incorporated in 2011 and is headquartered in Ankara, Turkey. Ard Grup Bilisim Teknolojileri Anonim Sirketi is a subsidiary of Ard Grup Holding Anonim Sirketi.",
-      "pe": 14.181817,
+      "pe": 13.815497,
       "forwardPE": null,
       "priceToBook": 1.6909804,
       "pegRatio": null,
@@ -15174,7 +15174,7 @@
       "debtToEquity": 37.197,
       "currentRatio": 1.123,
       "quickRatio": 0.866,
-      "eps": 2.64,
+      "eps": 2.71,
       "forwardEps": null,
       "bookValue": 22.141,
       "dividendRate": 0.03,
@@ -15722,7 +15722,7 @@
       "country": "Turkey",
       "phone": "90 850 640 08 88",
       "description": "Artemis Hali Anonim Sirketi designs, manufactures, and sells carpets in Turkey and internationally. It offers handmade carpets and machine-made carpets, runners, prayer rugs, rugs, blankets, and textile products. The company operates under the JOY ANETTA, ARTEX, BAROQUE, SERENA, BELLA, CARLA, COUTURE, COZY, DAVINA, DIOR, EMMA, EVA, GINA, INSPIRATION, CHARISMA, LIA, MURANO, PALACE, PETINYA, PIA, ROMANTIC, ROSA, RUNNER, SAMOA, SILK, and VANESSA brand names. It also offers its products through online. The company was founded in 2012 and is based in Istanbul, Turkey.",
-      "pe": 9.5206175,
+      "pe": 9.351898,
       "forwardPE": null,
       "priceToBook": 1.1665509,
       "pegRatio": null,
@@ -15741,7 +15741,7 @@
       "debtToEquity": 14.74,
       "currentRatio": 4.217,
       "quickRatio": 1.329,
-      "eps": 3.88,
+      "eps": 3.95,
       "forwardEps": null,
       "bookValue": 31.666,
       "dividendRate": null,
@@ -15930,7 +15930,7 @@
       "debtToEquity": 952.137,
       "currentRatio": 0.844,
       "quickRatio": 0.58,
-      "eps": -0.76,
+      "eps": -0.78,
       "forwardEps": null,
       "bookValue": 0.259,
       "dividendRate": null,
@@ -16100,7 +16100,7 @@
       "country": "Turkey",
       "phone": "90 312 267 01 56",
       "description": "Astor Enerji A.S. engages in the manufacturing of transformers, and medium and high voltage switching products for industrial facilities. The company offers power transformers and special type transformers; and distribution transformers, such as oil type distribution, dry type, special distribution, and grounding, as well as MT shunt reactors and magnetic control shunt reactors. It also provides H.V. equipment, including metal enclosed switchgears, RMU, metal clad switchgears, MV switches and disconnectors, concrete kiosk, mobile substation, and HV live-tank circuit breakers. The company was incorporated in 1983 and is based in Sincan, Turkey.",
-      "pe": 22.868368,
+      "pe": 22.514507,
       "forwardPE": 10.914717,
       "priceToBook": 3.9639027,
       "pegRatio": null,
@@ -16119,7 +16119,7 @@
       "debtToEquity": 16.018,
       "currentRatio": 2.191,
       "quickRatio": 1.216,
-      "eps": 5.09,
+      "eps": 5.17,
       "forwardEps": null,
       "bookValue": 29.365,
       "dividendRate": 1.51,
@@ -16478,7 +16478,7 @@
       "country": "Turkey",
       "phone": "90 212 259 66 88",
       "description": "Atakey Patates Gida Sanayi ve Ticaret A.S. produces and supplies French fries in Turkey. The company offers potato wedges, spicy coated potato wedges, crinkle potato, spicy coated crinkle potato, coated cage fries, and spicy coated cage fries. It also provides frozen cheese stick and onion rings. It supplies its products to quick service restaurants. It also exports to China, Brazil, Iraq, and United Arab Emirates. Atakey Patates Gida Sanayi ve Ticaret A.S. was incorporated in 2012 and is headquartered in Istanbul, Turkey.",
-      "pe": 35.0,
+      "pe": 34.533333,
       "forwardPE": null,
       "priceToBook": 1.2434586,
       "pegRatio": null,
@@ -16497,7 +16497,7 @@
       "debtToEquity": 4.827,
       "currentRatio": 3.901,
       "quickRatio": 1.599,
-      "eps": 1.48,
+      "eps": 1.5,
       "forwardEps": null,
       "bookValue": 41.658,
       "dividendRate": 0.55,
@@ -16667,7 +16667,7 @@
       "country": "Turkey",
       "phone": "90 212 310 65 00",
       "description": "ATP Yazilim ve Teknoloji Anonim Sirketi, together with its subsidiaries, develops enterprise software and system solutions in Turkey, the Netherlands, Malta, China, Europe, the Middle East, and Africa. The company offers restaurant POS, customer experience, O2O and delivery, restaurant management, and MDM and support center services under the Zenia brand; brokerage software, portfolio management, RPA and automation, mobile and virtual branch, finance applications, and market connectivity solutions under the Tradesoft brand; CRM, ERP and e-accounting, custom business solutions, and corporate support services under the Digital brand; green and carbon certificates trading under the GreenX brand; and  autonomous robots under the RobotX brand. It also provides cloud computing and artificial intelligence solutions; business solutions, including ERP, CRM, and BI ve HR, e-transformation, BPM and low-code, capital markets, and robotic; infrastructure and security solutions, such as netsec, data security, and threat and system management; system solutions comprising database, switchboard, data leak prevention, payment and barcode, and UPS systems; and IT services, which include licensing, integration, and research and development consultancy, as well as managed, professional, and field services. It serves hospitality, finance, retail, energy, and logistics sectors. The company was formerly known as ATP Ticari Bilgisayar Agi ve Elektrik Guc Kaynaklari Uretim Pazarlama ve Ticaret A.S. and changed its name to ATP Yazilim ve Teknoloji Anonim Sirketi in April 2023. ATP Yazilim ve Teknoloji Anonim Sirketi was founded in 1997 and is headquartered in Istanbul, Turkey.",
-      "pe": 7.623706,
+      "pe": 7.5412636,
       "forwardPE": null,
       "priceToBook": 3.1850195,
       "pegRatio": null,
@@ -16686,7 +16686,7 @@
       "debtToEquity": 1.416,
       "currentRatio": 2.388,
       "quickRatio": 2.139,
-      "eps": 17.38,
+      "eps": 17.57,
       "forwardEps": null,
       "bookValue": 41.601,
       "dividendRate": 0.7,
@@ -19710,7 +19710,7 @@
       "debtToEquity": 83.861,
       "currentRatio": 1.009,
       "quickRatio": 0.46,
-      "eps": -0.54,
+      "eps": -0.56,
       "forwardEps": null,
       "bookValue": 1.289,
       "dividendRate": null,
@@ -19880,7 +19880,7 @@
       "country": "Turkey",
       "phone": "90 258 371 99 00",
       "description": "Bati Ege Gayrimenkul Yatirim Ortakligi A.S., an investment company, invests in the real estate sector in Denizli and the rest of Aegean Region. The company was founded in 2011 and is based in Denizli, Turkey.",
-      "pe": 5.3444448,
+      "pe": 5.2282605,
       "forwardPE": null,
       "priceToBook": 0.77907354,
       "pegRatio": null,
@@ -19899,7 +19899,7 @@
       "debtToEquity": null,
       "currentRatio": 11.136,
       "quickRatio": 0.66,
-      "eps": 0.9,
+      "eps": 0.92,
       "forwardEps": null,
       "bookValue": 6.174,
       "dividendRate": 0.09,
@@ -20811,7 +20811,7 @@
       "fiftyTwoWeekHigh": 14.01,
       "fiftyDayAverage": 10.16,
       "twoHundredDayAverage": 9.73,
-      "volume": "19,152,490",
+      "volume": "19,152,493",
       "averageVolume": 46358745,
       "averageVolume10days": 21639014,
       "marketCap": 11508137984,
@@ -20844,7 +20844,7 @@
       "debtToEquity": 1.331,
       "currentRatio": 1.496,
       "quickRatio": 0.894,
-      "eps": -2.67,
+      "eps": -2.71,
       "forwardEps": null,
       "bookValue": 11.465,
       "dividendRate": null,
@@ -20978,7 +20978,7 @@
         },
         {
           "Close": 8.920000076293945,
-          "Volume": 19152490
+          "Volume": 19152493
         }
       ],
       "heldPercentInsiders": 0.62106,
@@ -22134,7 +22134,7 @@
       "fiftyTwoWeekHigh": 33.16,
       "fiftyDayAverage": 9.65,
       "twoHundredDayAverage": 18.96,
-      "volume": "30,655,310",
+      "volume": "30,655,313",
       "averageVolume": 50388379,
       "averageVolume10days": 31687918,
       "marketCap": 2821000192,
@@ -22167,7 +22167,7 @@
       "debtToEquity": 948.8,
       "currentRatio": 0.63,
       "quickRatio": 0.302,
-      "eps": -2.76,
+      "eps": -2.89,
       "forwardEps": null,
       "bookValue": 1.626,
       "dividendRate": 0.0,
@@ -22301,7 +22301,7 @@
         },
         {
           "Close": 4.03000020980835,
-          "Volume": 30655310
+          "Volume": 30655313
         }
       ],
       "heldPercentInsiders": 0.56497,
@@ -22337,7 +22337,7 @@
       "country": "Turkey",
       "phone": "90 850 304 02 67",
       "description": "Bor Seker A.S. manufactures and sells sugar products in Turkey. It offers granulated sugar, sugar cubes, stick sugar, wet beet pulp, bagged beet pulp, and molasses. The company was founded in 1983 and is headquartered in Istanbul, Turkey.",
-      "pe": 24.583334,
+      "pe": 23.6,
       "forwardPE": null,
       "priceToBook": 0.8402165,
       "pegRatio": null,
@@ -22356,7 +22356,7 @@
       "debtToEquity": 3.501,
       "currentRatio": 4.608,
       "quickRatio": 0.961,
-      "eps": 0.24,
+      "eps": 0.25,
       "forwardEps": null,
       "bookValue": 7.022,
       "dividendRate": 0.21,
@@ -22904,7 +22904,7 @@
       "country": "Turkey",
       "phone": "90 212 355 19 00",
       "description": "Birikim Varlik Yonetim Anonim Sirketi operates as an asset management company in Turkey. The company engages in the purchase and sale of receivables and other assets of banks, private financial institutions, and other financial institutions; collection of purchased receivables from the debtor; and development, sale, operation, and leasing of real estate or other goods. It also provides consultancy and intermediary services in restructuring the receivables and other assets of banks and other financial institutions; restructuring and improvement activities, including additional financing and capital to customers; and consultancy services to companies in the areas of corporate and financial restructuring. The company was incorporated in 2016 and is based in Istanbul, Turkey. Birikim Varlik Yonetim Anonim Sirketi operates as a subsidiary of Altinhas Yatirim Holding A.S.",
-      "pe": 17.730497,
+      "pe": 16.722408,
       "forwardPE": null,
       "priceToBook": 4.5737286,
       "pegRatio": null,
@@ -22923,7 +22923,7 @@
       "debtToEquity": 59.376,
       "currentRatio": 2.622,
       "quickRatio": 0.178,
-      "eps": 5.64,
+      "eps": 5.98,
       "forwardEps": null,
       "bookValue": 21.864,
       "dividendRate": 0.54,
@@ -27426,7 +27426,7 @@
       "fiftyTwoWeekHigh": 31.96,
       "fiftyDayAverage": 26.67,
       "twoHundredDayAverage": 19.2,
-      "volume": "32,274,100",
+      "volume": "32,274,108",
       "averageVolume": 27260254,
       "averageVolume10days": 28257942,
       "marketCap": 29757755392,
@@ -27593,7 +27593,7 @@
         },
         {
           "Close": 28.6200008392334,
-          "Volume": 32274100
+          "Volume": 32274108
         }
       ],
       "heldPercentInsiders": 0.60861,
@@ -27804,7 +27804,7 @@
       "fiftyTwoWeekHigh": 19.75,
       "fiftyDayAverage": 12.54,
       "twoHundredDayAverage": 11.77,
-      "volume": "138,044,567",
+      "volume": "131,544,567",
       "averageVolume": 32886283,
       "averageVolume10days": 54786838,
       "marketCap": 32912998400,
@@ -27971,7 +27971,7 @@
         },
         {
           "Close": 12.420000076293945,
-          "Volume": 138044567
+          "Volume": 131544567
         }
       ],
       "heldPercentInsiders": 0.71245,
@@ -34041,7 +34041,7 @@
       "fiftyTwoWeekHigh": 7.42,
       "fiftyDayAverage": 6.67,
       "twoHundredDayAverage": 6.05,
-      "volume": "11,545,890",
+      "volume": "11,545,891",
       "averageVolume": 19207514,
       "averageVolume10days": 14846206,
       "marketCap": 6406400000,
@@ -34208,7 +34208,7 @@
         },
         {
           "Close": 5.71999979019165,
-          "Volume": 11545890
+          "Volume": 11545891
         }
       ],
       "heldPercentInsiders": 0.72571,
@@ -34986,7 +34986,7 @@
       "fiftyTwoWeekHigh": 11.93,
       "fiftyDayAverage": 9.93,
       "twoHundredDayAverage": 8.04,
-      "volume": "24,611,460",
+      "volume": "24,611,463",
       "averageVolume": 26073527,
       "averageVolume10days": 13345704,
       "marketCap": 88559992832,
@@ -35153,7 +35153,7 @@
         },
         {
           "Close": 9.84000015258789,
-          "Volume": 24611460
+          "Volume": 24611463
         }
       ],
       "heldPercentInsiders": 0.72905,
@@ -39333,7 +39333,7 @@
       "fiftyTwoWeekHigh": 93.4,
       "fiftyDayAverage": 79.68,
       "twoHundredDayAverage": 74.19,
-      "volume": "10,789,750",
+      "volume": "10,789,755",
       "averageVolume": 1819104,
       "averageVolume10days": 2928341,
       "marketCap": 6180749824,
@@ -39500,7 +39500,7 @@
         },
         {
           "Close": 92.25,
-          "Volume": 10789750
+          "Volume": 10789755
         }
       ],
       "heldPercentInsiders": 0.67164004,
@@ -39711,7 +39711,7 @@
       "fiftyTwoWeekHigh": 17.44,
       "fiftyDayAverage": 12.89,
       "twoHundredDayAverage": 11.27,
-      "volume": "15,085,100",
+      "volume": "15,085,108",
       "averageVolume": 9815807,
       "averageVolume10days": 5790646,
       "marketCap": 17987500032,
@@ -39878,7 +39878,7 @@
         },
         {
           "Close": 14.390000343322754,
-          "Volume": 15085100
+          "Volume": 15085108
         }
       ],
       "heldPercentInsiders": 0.72950995,
@@ -40504,7 +40504,7 @@
       "forwardEps": null,
       "bookValue": 32.546,
       "dividendRate": 0.4,
-      "dividendYield": 0.21,
+      "dividendYield": 0.22,
       "exDividendDate": 1762905600,
       "payoutRatio": 0.2842,
       "targetHighPrice": 120.0,
@@ -40693,7 +40693,7 @@
       "forwardEps": null,
       "bookValue": 4.164,
       "dividendRate": 0.12,
-      "dividendYield": 1.26,
+      "dividendYield": 1.19,
       "exDividendDate": 1752624000,
       "payoutRatio": 0.4761,
       "targetHighPrice": null,
@@ -41223,7 +41223,7 @@
       "fiftyTwoWeekHigh": 160.8,
       "fiftyDayAverage": 73.06,
       "twoHundredDayAverage": 98.16,
-      "volume": "14,486,540",
+      "volume": "14,486,546",
       "averageVolume": 8109763,
       "averageVolume10days": 18612802,
       "marketCap": 9121200128,
@@ -41260,7 +41260,7 @@
       "forwardEps": null,
       "bookValue": 27.241,
       "dividendRate": 1.06,
-      "dividendYield": 1.43,
+      "dividendYield": 1.53,
       "exDividendDate": 1750118400,
       "payoutRatio": 0.24270001,
       "targetHighPrice": null,
@@ -41390,7 +41390,7 @@
         },
         {
           "Close": 69.0999984741211,
-          "Volume": 14486540
+          "Volume": 14486546
         }
       ],
       "heldPercentInsiders": 0.5764,
@@ -41615,7 +41615,7 @@
       "country": "Turkey",
       "phone": "90 212 381 73 00",
       "description": "Gelecek Varlik Yönetimi AS operates as a financial institution in Turkey. It provides banking, savings deposits insurance fund, loans, other financial institution, and consultancy and intermediary services. The company was incorporated in 2018 and is headquartered in Istanbul, Turkey. Gelecek Varlik Yönetimi Anonim Sirketi operates as a subsidiary of Fiba Holding Anonim Sirketi.",
-      "pe": 13.721136,
+      "pe": 13.745552,
       "forwardPE": null,
       "priceToBook": 3.1012886,
       "pegRatio": null,
@@ -41634,7 +41634,7 @@
       "debtToEquity": 115.354,
       "currentRatio": 2.052,
       "quickRatio": 0.108,
-      "eps": 5.63,
+      "eps": 5.62,
       "forwardEps": null,
       "bookValue": 24.909,
       "dividendRate": 2.51,
@@ -42394,7 +42394,7 @@
       "forwardEps": null,
       "bookValue": 27.651,
       "dividendRate": 0.36,
-      "dividendYield": 1.74,
+      "dividendYield": 1.78,
       "exDividendDate": 1760486400,
       "payoutRatio": 0.1435,
       "targetHighPrice": 36.11,
@@ -42579,7 +42579,7 @@
       "debtToEquity": 18.271,
       "currentRatio": 0.995,
       "quickRatio": 0.597,
-      "eps": -33.44,
+      "eps": -33.49,
       "forwardEps": null,
       "bookValue": 539.813,
       "dividendRate": 5.0,
@@ -43339,7 +43339,7 @@
       "forwardEps": null,
       "bookValue": 88.14,
       "dividendRate": 0.78,
-      "dividendYield": 0.25,
+      "dividendYield": 0.24,
       "exDividendDate": 1753401600,
       "payoutRatio": 0.0506,
       "targetHighPrice": null,
@@ -43524,7 +43524,7 @@
       "debtToEquity": 71.67,
       "currentRatio": 5.301,
       "quickRatio": 5.117,
-      "eps": -0.9,
+      "eps": -0.89,
       "forwardEps": null,
       "bookValue": 17.525,
       "dividendRate": null,
@@ -44072,7 +44072,7 @@
       "country": "Turkey",
       "phone": "90 216 556 90 00",
       "description": "Galata Wind Enerji A.S., together with its subsidiaries, engages in generation and sale of electricity from renewable energy in Turkey. The company operates three wind power plants and three solar power plants with a total capacity of approximately 297.2 MW. It also installs systems for the generation of energy from solar radiation; constructs, commissions, and leases facilities for the generation of electrical energy; and develops projects in Europe. The company was formerly known as GY Enerji Danismanlik Poje Mühendislik Üretim, Ticaret ve Sanayi Limited Sirketi and changed its name to Galata Wind Enerji A.S. in January 2012. The company was incorporated in 2006 and is headquartered in Istanbul, Turkey. Galata Wind Enerji A.S. is a subsidiary of Dogan Sirketler Grubu Holding A.S.",
-      "pe": 16.87324,
+      "pe": 16.992908,
       "forwardPE": null,
       "priceToBook": 0.9608212,
       "pegRatio": null,
@@ -44091,11 +44091,11 @@
       "debtToEquity": 16.267,
       "currentRatio": 1.666,
       "quickRatio": 1.614,
-      "eps": 1.42,
+      "eps": 1.41,
       "forwardEps": null,
       "bookValue": 24.937,
       "dividendRate": 0.64,
-      "dividendYield": 2.69,
+      "dividendYield": 2.67,
       "exDividendDate": 1764115200,
       "payoutRatio": 0.0,
       "targetHighPrice": 55.53,
@@ -44280,7 +44280,7 @@
       "debtToEquity": 128.043,
       "currentRatio": 0.966,
       "quickRatio": 0.458,
-      "eps": -0.84,
+      "eps": -0.92,
       "forwardEps": null,
       "bookValue": 21.695,
       "dividendRate": null,
@@ -44469,7 +44469,7 @@
       "debtToEquity": 54.617,
       "currentRatio": 0.805,
       "quickRatio": 0.157,
-      "eps": -1.89,
+      "eps": -1.88,
       "forwardEps": null,
       "bookValue": 28.356,
       "dividendRate": null,
@@ -44828,7 +44828,7 @@
       "country": "Turkey",
       "phone": "0216-970-57-57",
       "description": "Hedef Girisim Sermayesi Yatirim Ortakligi A.S. is a venture capital and private equity firm specializing in seed/startup, middle market in growth capital companies. It prefers to invest in materials, industrials, consumer discretionary, financials, capital markets, insurance, information technology, communication services, SaaS, real sector, fintech, software, gaming, real estate, agriculture and food, marketing, press and publishing, education, logistics, medical health products, polycarbonate, polymer, plastic, and plastic-like products, blockchain, crypto and SaaS. The firm prefers to invest in Africa/Middle East with a focus on Turkey. The firm purchases a maximum of 49 percent of the shares. Considering the demands of the applicant companies, investments are made up to an average of USD 250,000 ($0.25 million) for projects at the initial stage, at least USD 500, 000 ($0.5 million) for IT projects with established companies, at least USD 1 million and up to a maximum of USD 5 million for other sectors. The firm typically exits the investments within 5-6 years on average. Hedef Girisim Sermayesi Yatirim Ortakligi A.S. is based in Istanbul, Turkey.",
-      "pe": 7.372549,
+      "pe": 8.173913,
       "forwardPE": null,
       "priceToBook": 1.3128492,
       "pegRatio": null,
@@ -44847,7 +44847,7 @@
       "debtToEquity": 0.078,
       "currentRatio": 16.36,
       "quickRatio": 16.311,
-      "eps": 0.51,
+      "eps": 0.46,
       "forwardEps": null,
       "bookValue": 2.864,
       "dividendRate": null,
@@ -45036,7 +45036,7 @@
       "debtToEquity": 0.414,
       "currentRatio": 0.525,
       "quickRatio": 0.497,
-      "eps": -0.22,
+      "eps": -0.2,
       "forwardEps": null,
       "bookValue": 2.275,
       "dividendRate": null,
@@ -45610,10 +45610,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 74.91018,
-      "targetLowPrice": 56.92485,
-      "targetMeanPrice": 65.91751,
-      "targetMedianPrice": 65.91751,
+      "targetHighPrice": 74.95162,
+      "targetLowPrice": 56.956337,
+      "targetMeanPrice": 65.95398,
+      "targetMedianPrice": 65.95398,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
@@ -51807,7 +51807,7 @@
       "fiftyTwoWeekHigh": 11.94,
       "fiftyDayAverage": 9.98,
       "twoHundredDayAverage": 8.1,
-      "volume": "26,386,910",
+      "volume": "26,386,917",
       "averageVolume": 32689975,
       "averageVolume10days": 42717286,
       "marketCap": 23044562944,
@@ -51974,7 +51974,7 @@
         },
         {
           "Close": 9.430000305175781,
-          "Volume": 26386910
+          "Volume": 26386917
         }
       ],
       "heldPercentInsiders": 0.60797,
@@ -53508,7 +53508,7 @@
       "fiftyTwoWeekHigh": 5.33,
       "fiftyDayAverage": 4.25,
       "twoHundredDayAverage": 4.41,
-      "volume": "25,607,070",
+      "volume": "25,607,077",
       "averageVolume": 13495928,
       "averageVolume10days": 17736153,
       "marketCap": 14819999744,
@@ -53675,7 +53675,7 @@
         },
         {
           "Close": 4.940000057220459,
-          "Volume": 25607070
+          "Volume": 25607077
         }
       ],
       "heldPercentInsiders": 2.51624,
@@ -56721,7 +56721,7 @@
       "fiftyTwoWeekHigh": 3.29,
       "fiftyDayAverage": 2.8,
       "twoHundredDayAverage": 2.6,
-      "volume": "71,199,700",
+      "volume": "71,199,707",
       "averageVolume": 35417128,
       "averageVolume10days": 27930584,
       "marketCap": 6669791232,
@@ -56888,7 +56888,7 @@
         },
         {
           "Close": 2.6700000762939453,
-          "Volume": 71199700
+          "Volume": 71199707
         }
       ],
       "heldPercentInsiders": 0.76426005,
@@ -59556,7 +59556,7 @@
       "fiftyTwoWeekHigh": 25.38,
       "fiftyDayAverage": 17.08,
       "twoHundredDayAverage": 11.19,
-      "volume": "83,926,800",
+      "volume": "83,926,806",
       "averageVolume": 50880789,
       "averageVolume10days": 51679173,
       "marketCap": 50673598464,
@@ -59723,7 +59723,7 @@
         },
         {
           "Close": 24.479999542236328,
-          "Volume": 83926800
+          "Volume": 83926806
         }
       ],
       "heldPercentInsiders": 0.37754002,
@@ -61446,7 +61446,7 @@
       "fiftyTwoWeekHigh": 7.8,
       "fiftyDayAverage": 5.2,
       "twoHundredDayAverage": 4.92,
-      "volume": "38,565,850",
+      "volume": "38,565,854",
       "averageVolume": 38578858,
       "averageVolume10days": 32451766,
       "marketCap": 3247822336,
@@ -61613,7 +61613,7 @@
         },
         {
           "Close": 4.25,
-          "Volume": 38565850
+          "Volume": 38565854
         }
       ],
       "heldPercentInsiders": 0.15627,
@@ -73164,7 +73164,7 @@
       "fiftyTwoWeekHigh": 161.3,
       "fiftyDayAverage": 140.26,
       "twoHundredDayAverage": 100.81,
-      "volume": "12,051,890",
+      "volume": "12,051,895",
       "averageVolume": 4015870,
       "averageVolume10days": 3147691,
       "marketCap": 91526397952,
@@ -73331,7 +73331,7 @@
         },
         {
           "Close": 136.1999969482422,
-          "Volume": 12051890
+          "Volume": 12051895
         }
       ],
       "heldPercentInsiders": 0.51192003,
@@ -73353,7 +73353,7 @@
       "fiftyTwoWeekHigh": 36.94,
       "fiftyDayAverage": 26.46,
       "twoHundredDayAverage": 24.08,
-      "volume": "42,039,190",
+      "volume": "42,039,193",
       "averageVolume": 28254126,
       "averageVolume10days": 54972096,
       "marketCap": 14497590272,
@@ -73520,7 +73520,7 @@
         },
         {
           "Close": 21.479999542236328,
-          "Volume": 42039190
+          "Volume": 42039193
         }
       ],
       "heldPercentInsiders": 0.51153,
@@ -77700,7 +77700,7 @@
       "fiftyTwoWeekHigh": 14.99,
       "fiftyDayAverage": 8.08,
       "twoHundredDayAverage": 10.02,
-      "volume": "14,129,060",
+      "volume": "14,129,062",
       "averageVolume": 34822836,
       "averageVolume10days": 20646606,
       "marketCap": 6279500288,
@@ -77867,7 +77867,7 @@
         },
         {
           "Close": 6.610000133514404,
-          "Volume": 14129060
+          "Volume": 14129062
         }
       ],
       "heldPercentInsiders": 0.39626,
@@ -86394,7 +86394,7 @@
       "fiftyTwoWeekHigh": 343.75,
       "fiftyDayAverage": 261.16,
       "twoHundredDayAverage": 133.87,
-      "volume": "21,294,353",
+      "volume": "20,764,353",
       "averageVolume": 14332081,
       "averageVolume10days": 26991653,
       "marketCap": 108010004480,
@@ -86561,7 +86561,7 @@
         },
         {
           "Close": 154.3000030517578,
-          "Volume": 21294353
+          "Volume": 20764353
         }
       ],
       "heldPercentInsiders": 0.65586996,
@@ -89985,7 +89985,7 @@
       "fiftyTwoWeekHigh": 4.65,
       "fiftyDayAverage": 3.9,
       "twoHundredDayAverage": 3.79,
-      "volume": "10,947,450",
+      "volume": "10,947,455",
       "averageVolume": 18814894,
       "averageVolume10days": 9536242,
       "marketCap": 0,
@@ -90152,7 +90152,7 @@
         },
         {
           "Close": 3.7200000286102295,
-          "Volume": 10947450
+          "Volume": 10947455
         }
       ],
       "heldPercentInsiders": 0.42771998,
@@ -93023,7 +93023,7 @@
       "country": "Turkey",
       "phone": "90 266 422 27 77",
       "description": "Yaprak Süt ve Besi Çiftlikleri Sanayi ve Ticaret A.S. is involved in the animal husbandry business in Turkey. The company breeds calf, heifers, and dairy animals, as well as provides health services. It is also involved in milk production facilities. The company was founded in 1994 and is headquartered in Atasehir, Turkey.",
-      "pe": 220.28688,
+      "pe": 216.73387,
       "forwardPE": null,
       "priceToBook": 5.87573,
       "pegRatio": null,
@@ -93042,11 +93042,11 @@
       "debtToEquity": 13.639,
       "currentRatio": 2.434,
       "quickRatio": 1.714,
-      "eps": 1.22,
+      "eps": 1.24,
       "forwardEps": null,
       "bookValue": 45.739,
       "dividendRate": 0.4,
-      "dividendYield": 0.14,
+      "dividendYield": 0.15,
       "exDividendDate": 1751328000,
       "payoutRatio": 0.32490003,
       "targetHighPrice": null,
@@ -93802,7 +93802,7 @@
       "forwardEps": null,
       "bookValue": 79.058,
       "dividendRate": 7.0,
-      "dividendYield": 5.19,
+      "dividendYield": 5.15,
       "exDividendDate": 1744675200,
       "payoutRatio": 0.109799996,
       "targetHighPrice": null,
@@ -94369,7 +94369,7 @@
       "forwardEps": null,
       "bookValue": 9.507,
       "dividendRate": 0.04,
-      "dividendYield": 0.49,
+      "dividendYield": 0.51,
       "exDividendDate": 1745798400,
       "payoutRatio": 0.0548,
       "targetHighPrice": null,
@@ -95193,7 +95193,7 @@
       "forwardEps": null,
       "bookValue": 15.215,
       "dividendRate": 0.06,
-      "dividendYield": 0.27,
+      "dividendYield": 0.26,
       "exDividendDate": 1759190400,
       "payoutRatio": 0.056900002,
       "targetHighPrice": null,
