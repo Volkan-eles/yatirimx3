@@ -1,5 +1,159 @@
 [
   {
+    "bistkodu": "THYAO",
+    "sirket": "Türk Hava Yolları A.O.",
+    "link": "https://halkarz.com/turk-hava-yollari-a-o/",
+    "analist": "Garanti BBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "456,00"
+  },
+  {
+    "bistkodu": "TTKOM",
+    "sirket": "Türk Telekomünikasyon A.Ş.",
+    "link": "https://halkarz.com/turk-telekomunikasyon-a-s/",
+    "analist": "GarantiBBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "88,00"
+  },
+  {
+    "bistkodu": "TCELL",
+    "sirket": "Turkcell İletişim Hizmetleri A.Ş. ORD",
+    "link": "https://halkarz.com/turkcell-iletisim-hizmetleri-a-s-ord/",
+    "analist": "GarantiBBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "154,00"
+  },
+  {
+    "bistkodu": "TOASO",
+    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
+    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
+    "analist": "Garanti BBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "notr",
+    "hf_desc": "Endekse Paralel Getiri",
+    "hf_icon": "fa-arrow-right-arrow-left",
+    "hf_fiyat": "345,00"
+  },
+  {
+    "bistkodu": "TKNSA",
+    "sirket": "Teknosa İç ve Dış Ticaret A.Ş.",
+    "link": "https://halkarz.com/teknosa-ic-ve-dis-ticaret-a-s/",
+    "analist": "GarantiBBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "38,00"
+  },
+  {
+    "bistkodu": "YATAS",
+    "sirket": "Yataş Yatak ve Yorgan San. Tic. A.Ş.",
+    "link": "https://halkarz.com/yatas-yatak-ve-yorgan-san-tic-a-s/",
+    "analist": "GarantiBBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "notr",
+    "hf_desc": "Endekse Paralel Getiri",
+    "hf_icon": "fa-arrow-right-arrow-left",
+    "hf_fiyat": "48,00"
+  },
+  {
+    "bistkodu": "SOKM",
+    "sirket": "Şok Marketler Ticaret A.Ş.",
+    "link": "https://halkarz.com/sok-marketler-ticaret-a-s/",
+    "analist": "GarantiBBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "71,00"
+  },
+  {
+    "bistkodu": "PGSUS",
+    "sirket": "Pegasus Hava Taşımacılığı A.Ş.",
+    "link": "https://halkarz.com/pegasus-hava-tasimaciligi-a-s/",
+    "analist": "GarantiBBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "322,00"
+  },
+  {
+    "bistkodu": "MGROS",
+    "sirket": "Migros T.A.Ş.",
+    "link": "https://halkarz.com/migros-t-a-s/",
+    "analist": "GarantiBBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "810,00"
+  },
+  {
+    "bistkodu": "ENTRA",
+    "sirket": "Ic Enterra Yenilenebilir Enerji A.Ş.",
+    "link": "https://halkarz.com/ic-enterra-yenilenebilir-enerji-a-s/",
+    "analist": "Garanti BBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "notr",
+    "hf_desc": "Endekse Paralel Getiri",
+    "hf_icon": "fa-arrow-right-arrow-left",
+    "hf_fiyat": "16,10"
+  },
+  {
+    "bistkodu": "BIMAS",
+    "sirket": "Bim Birleşik Mağazalar A.Ş.",
+    "link": "https://halkarz.com/bim-birlesik-magazalar-a-s/",
+    "analist": "GarantiBBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "824,80"
+  },
+  {
+    "bistkodu": "ASELS",
+    "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
+    "analist": "Garanti BBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "358,00"
+  },
+  {
+    "bistkodu": "TRGYO",
+    "sirket": "Torunlar Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "link": "https://halkarz.com/torunlar-gayrimenkul-yatirim-ortakligi-a-s/",
+    "analist": "Garanti BBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "111,00"
+  },
+  {
+    "bistkodu": "EKGYO",
+    "sirket": "Emlak Konut Gayrimenkul Yatırım A.Ş.",
+    "link": "https://halkarz.com/emlak-konut-gayrimenkul-yatirim-a-s/",
+    "analist": "Garanti BBVA Yatırım",
+    "tarih": "08.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "36,00"
+  },
+  {
     "bistkodu": "VESTL",
     "sirket": "Vestel Elektronik San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/vestel-elektronik-san-ve-tic-a-s/",
@@ -2046,17 +2200,6 @@
     "hf_fiyat": "90,00"
   },
   {
-    "bistkodu": "ASELS",
-    "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
-    "analist": "Garanti BBVA Yatırım",
-    "tarih": "05.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "256,00"
-  },
-  {
     "bistkodu": "YKBNK",
     "sirket": "Yapı ve Kredi Bankası A.Ş.",
     "link": "https://halkarz.com/yapi-ve-kredi-bankasi-a-s/",
@@ -2176,28 +2319,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "17,29"
-  },
-  {
-    "bistkodu": "TRGYO",
-    "sirket": "Torunlar Gayrimenkul Yatırım Ortaklığı A.Ş.",
-    "link": "https://halkarz.com/torunlar-gayrimenkul-yatirim-ortakligi-a-s/",
-    "analist": "Garanti BBVA Yatırım",
-    "tarih": "03.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "104,00"
-  },
-  {
-    "bistkodu": "EKGYO",
-    "sirket": "Emlak Konut Gayrimenkul Yatırım A.Ş.",
-    "link": "https://halkarz.com/emlak-konut-gayrimenkul-yatirim-a-s/",
-    "analist": "Garanti BBVA Yatırım",
-    "tarih": "03.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "40,00"
   },
   {
     "bistkodu": "ISCTR",
@@ -3124,17 +3245,6 @@
     "hf_fiyat": "45,01"
   },
   {
-    "bistkodu": "ENTRA",
-    "sirket": "Ic Enterra Yenilenebilir Enerji A.Ş.",
-    "link": "https://halkarz.com/ic-enterra-yenilenebilir-enerji-a-s/",
-    "analist": "Garanti BBVA Yatırım",
-    "tarih": "29.09.2025",
-    "tr_class": "notr",
-    "hf_desc": "Endekse Paralel Getiri",
-    "hf_icon": "fa-arrow-right-arrow-left",
-    "hf_fiyat": "16,10"
-  },
-  {
     "bistkodu": "GWIND",
     "sirket": "Galata Wind Enerji A.Ş.",
     "link": "https://halkarz.com/galata-wind-enerji-a-s/",
@@ -3947,17 +4057,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "33,70"
-  },
-  {
-    "bistkodu": "THYAO",
-    "sirket": "Türk Hava Yolları A.O.",
-    "link": "https://halkarz.com/turk-hava-yollari-a-o/",
-    "analist": "Garanti BBVA Yatırım",
-    "tarih": "06.08.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "458,00"
   },
   {
     "bistkodu": "ASELS",
@@ -4785,17 +4884,6 @@
     "hf_fiyat": "172,50"
   },
   {
-    "bistkodu": "TCELL",
-    "sirket": "Turkcell İletişim Hizmetleri A.Ş. ORD",
-    "link": "https://halkarz.com/turkcell-iletisim-hizmetleri-a-s-ord/",
-    "analist": "GarantiBBVA Yatırım",
-    "tarih": "12.05.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "140,00"
-  },
-  {
     "bistkodu": "KRDMD",
     "sirket": "Kardemir Karabük Demir Çelik San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/kardemir-karabuk-demir-celik-san-ve-tic-a-s/",
@@ -5049,17 +5137,6 @@
     "hf_fiyat": "192,27"
   },
   {
-    "bistkodu": "TKNSA",
-    "sirket": "Teknosa İç ve Dış Ticaret A.Ş.",
-    "link": "https://halkarz.com/teknosa-ic-ve-dis-ticaret-a-s/",
-    "analist": "GarantiBBVA Yatırım",
-    "tarih": "30.04.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "47,30"
-  },
-  {
     "bistkodu": "THYAO",
     "sirket": "Türk Hava Yolları A.O.",
     "link": "https://halkarz.com/turk-hava-yollari-a-o/",
@@ -5145,17 +5222,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "495,50"
-  },
-  {
-    "bistkodu": "TOASO",
-    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
-    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
-    "analist": "Garanti BBVA Yatırım",
-    "tarih": "29.04.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "286,90"
   },
   {
     "bistkodu": "TAVHL",
@@ -5444,28 +5510,6 @@
     "hf_fiyat": "800,00"
   },
   {
-    "bistkodu": "BIMAS",
-    "sirket": "Bim Birleşik Mağazalar A.Ş.",
-    "link": "https://halkarz.com/bim-birlesik-magazalar-a-s/",
-    "analist": "GarantiBBVA Yatırım",
-    "tarih": "12.03.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "900,00"
-  },
-  {
-    "bistkodu": "SOKM",
-    "sirket": "Şok Marketler Ticaret A.Ş.",
-    "link": "https://halkarz.com/sok-marketler-ticaret-a-s/",
-    "analist": "GarantiBBVA Yatırım",
-    "tarih": "12.03.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "66,10"
-  },
-  {
     "bistkodu": "INDES",
     "sirket": "İndeks Bilgisayar Sistemleri Mühendislik San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/indeks-bilgisayar-sistemleri-muhendislik-san-ve-tic-a-s/",
@@ -5554,28 +5598,6 @@
     "hf_fiyat": "171,00"
   },
   {
-    "bistkodu": "TTKOM",
-    "sirket": "Türk Telekomünikasyon A.Ş.",
-    "link": "https://halkarz.com/turk-telekomunikasyon-a-s/",
-    "analist": "GarantiBBVA Yatırım",
-    "tarih": "11.03.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "74,00"
-  },
-  {
-    "bistkodu": "YATAS",
-    "sirket": "Yataş Yatak ve Yorgan San. Tic. A.Ş.",
-    "link": "https://halkarz.com/yatas-yatak-ve-yorgan-san-tic-a-s/",
-    "analist": "GarantiBBVA Yatırım",
-    "tarih": "11.03.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "40,80"
-  },
-  {
     "bistkodu": "VESTL",
     "sirket": "Vestel Elektronik San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/vestel-elektronik-san-ve-tic-a-s/",
@@ -5612,34 +5634,12 @@
     "bistkodu": "MGROS",
     "sirket": "Migros T.A.Ş.",
     "link": "https://halkarz.com/migros-t-a-s/",
-    "analist": "GarantiBBVA Yatırım",
-    "tarih": "06.03.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "881,00"
-  },
-  {
-    "bistkodu": "MGROS",
-    "sirket": "Migros T.A.Ş.",
-    "link": "https://halkarz.com/migros-t-a-s/",
     "analist": "Yapı Kredi Yatırım",
     "tarih": "06.03.2025",
     "tr_class": "green",
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "905,00"
-  },
-  {
-    "bistkodu": "PGSUS",
-    "sirket": "Pegasus Hava Taşımacılığı A.Ş.",
-    "link": "https://halkarz.com/pegasus-hava-tasimaciligi-a-s/",
-    "analist": "GarantiBBVA Yatırım",
-    "tarih": "05.03.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "376,00"
   },
   {
     "bistkodu": "CCOLA",

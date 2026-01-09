@@ -1,5 +1,23 @@
 [
   {
+    "code": "QNBTR",
+    "company": "QNBTR Qnb Bank A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%64.17",
+    "date": "08.01.2026",
+    "status": "SPK Onay",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "GMTAS",
+    "company": "GMTAS Gimat Mağazacılık San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%101.07",
+    "date": "08.01.2026",
+    "status": "SPK Onay",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "LIDFA",
     "company": "LIDFA Lider Faktoring A.Ş.",
     "type": "Bedelsiz",
@@ -81,15 +99,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "GMTAS",
-    "company": "GMTAS Gimat Mağazacılık San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%101.07",
-    "date": "05.12.2025",
-    "status": "YKK Kararı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "RNPOL",
     "company": "RNPOL Rainbow Polikarbonat San. Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -140,15 +149,6 @@
     "type": "Bedelsiz",
     "rate": "%50",
     "date": "24.10.2025",
-    "status": "YKK Kararı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "QNBTR",
-    "company": "QNBTR Qnb Bank A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%64.17",
-    "date": "23.10.2025",
     "status": "YKK Kararı",
     "description": "Yönetim Kurulu Kararı"
   },
