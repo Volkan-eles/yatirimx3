@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-10T07:26:20.553193",
+  "last_update": "2026-01-10T07:46:04.123830",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 505,
   "successful": 505,
@@ -250,10 +250,10 @@
       "dividendYield": 1.66,
       "exDividendDate": 1742947200,
       "payoutRatio": 0.132,
-      "targetHighPrice": 101.46,
+      "targetHighPrice": 108.1,
       "targetLowPrice": 56.0,
-      "targetMeanPrice": 88.732,
-      "targetMedianPrice": 90.0,
+      "targetMeanPrice": 90.012,
+      "targetMedianPrice": 91.0,
       "recommendationMean": 1.46667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 15,
@@ -570,7 +570,7 @@
         }
       ],
       "heldPercentInsiders": 0.61166,
-      "heldPercentInstitutions": 0.121800005
+      "heldPercentInstitutions": 0.12184
     },
     {
       "code": "ISCTR",
@@ -1197,8 +1197,8 @@
       "payoutRatio": 0.0859,
       "targetHighPrice": 580.0,
       "targetLowPrice": 373.0,
-      "targetMeanPrice": 465.76334,
-      "targetMedianPrice": 453.73,
+      "targetMeanPrice": 461.555,
+      "targetMedianPrice": 449.23,
       "recommendationMean": 1.38462,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -3216,7 +3216,7 @@
         }
       ],
       "heldPercentInsiders": 0.8668,
-      "heldPercentInstitutions": 0.017549999
+      "heldPercentInstitutions": 0.01759
     },
     {
       "code": "TCELL",
@@ -3276,7 +3276,7 @@
       "payoutRatio": 0.73330003,
       "targetHighPrice": 171.0,
       "targetLowPrice": 101.2,
-      "targetMeanPrice": 143.43456,
+      "targetMeanPrice": 143.74364,
       "targetMedianPrice": 140.0,
       "recommendationMean": 1.25,
       "recommendationKey": "strong_buy",
@@ -6618,7 +6618,7 @@
         }
       ],
       "heldPercentInsiders": 0.55367,
-      "heldPercentInstitutions": 0.03432
+      "heldPercentInstitutions": 0.034360003
     },
     {
       "code": "CLEBI",
@@ -39882,7 +39882,7 @@
         }
       ],
       "heldPercentInsiders": 0.72950995,
-      "heldPercentInstitutions": 0.09856
+      "heldPercentInstitutions": 0.09861
     },
     {
       "code": "GARFA",
@@ -44229,7 +44229,7 @@
         }
       ],
       "heldPercentInsiders": 0.7,
-      "heldPercentInstitutions": 0.02232
+      "heldPercentInstitutions": 0.02229
     },
     {
       "code": "GZNMI",
@@ -87005,8 +87005,8 @@
       "targetLowPrice": 73.1,
       "targetMeanPrice": 82.23333,
       "targetMedianPrice": 75.0,
-      "recommendationMean": 1.66667,
-      "recommendationKey": "buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
       "beta": 0.018,
       "historicalData": [
