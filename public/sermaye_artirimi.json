@@ -1,5 +1,14 @@
 [
   {
+    "code": "LIDFA",
+    "company": "LIDFA Lider Faktoring A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%90",
+    "date": "14.01.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 14.01.2026 | Tutar: 502.524.000 TL"
+  },
+  {
     "code": "QNBTR",
     "company": "QNBTR Qnb Bank A.Ş.",
     "type": "Bedelsiz",
@@ -18,15 +27,6 @@
     "description": "SPK Onayı Alındı"
   },
   {
-    "code": "LIDFA",
-    "company": "LIDFA Lider Faktoring A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%90",
-    "date": "30.12.2025",
-    "status": "SPK Onay",
-    "description": "SPK Onayı Alındı | Tutar: 502.524.000 TL"
-  },
-  {
     "code": "ALGYO",
     "company": "ALGYO Alarko Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
@@ -34,24 +34,6 @@
     "date": "23.12.2025",
     "status": "SPK Onay",
     "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "KAYSE",
-    "company": "KAYSE Kayseri Şeker Fabrikası A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%324.92",
-    "date": "06.01.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 06.01.2026"
-  },
-  {
-    "code": "AGROT",
-    "company": "AGROT Agrotech Yüksek Teknoloji ve Yatırım A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "08.01.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 08.01.2026"
   },
   {
     "code": "SMRVA",
@@ -261,15 +243,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "BRMEN",
-    "company": "BRMEN Birlik Mensucat Tic. ve San. İşletmesi A.Ş.",
-    "type": "Bedelli",
-    "rate": "%100",
-    "date": "29.12.2025 Bitiş: 12.01.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 29.12.2025 Bitiş: 12.01.2026 | Tutar: 44.627.021 TL"
-  },
-  {
     "code": "DITAS",
     "company": "DITAS Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş.",
     "type": "Bedelli",
@@ -286,6 +259,15 @@
     "date": "05.01.2026 Bitiş: 19.01.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 05.01.2026 Bitiş: 19.01.2026 | Tutar: 2 TL"
+  },
+  {
+    "code": "BRMEN",
+    "company": "BRMEN Birlik Mensucat Tic. ve San. İşletmesi A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "29.12.2025 Bitiş: 12.01.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 29.12.2025 Bitiş: 12.01.2026 | Tutar: 44.627.021 TL"
   },
   {
     "code": "IDGYO",
