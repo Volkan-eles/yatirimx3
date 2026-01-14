@@ -1,5 +1,82 @@
 [
   {
+    "bistkodu": "THYAO",
+    "sirket": "Türk Hava Yolları A.O.",
+    "link": "https://halkarz.com/turk-hava-yollari-a-o/",
+    "analist": "Hsbc",
+    "tarih": "13.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "400,00"
+  },
+  {
+    "bistkodu": "TAVHL",
+    "sirket": "Tav Havalimanları Holding A.Ş.",
+    "link": "https://halkarz.com/tav-havalimanlari-holding-a-s/",
+    "analist": "Hsbc",
+    "tarih": "13.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "440,00"
+  },
+  {
+    "bistkodu": "PGSUS",
+    "sirket": "Pegasus Hava Taşımacılığı A.Ş.",
+    "link": "https://halkarz.com/pegasus-hava-tasimaciligi-a-s/",
+    "analist": "Hsbc",
+    "tarih": "13.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "290,00"
+  },
+  {
+    "bistkodu": "ASELS",
+    "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
+    "analist": "Bnp Paribas",
+    "tarih": "13.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "290,00"
+  },
+  {
+    "bistkodu": "ASELS",
+    "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
+    "analist": "Wood & Company",
+    "tarih": "12.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "204,00"
+  },
+  {
+    "bistkodu": "ASELS",
+    "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
+    "analist": "Hsbc",
+    "tarih": "12.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "235,00"
+  },
+  {
+    "bistkodu": "ASELS",
+    "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
+    "analist": "Vakıf Yatırım",
+    "tarih": "12.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "272,00"
+  },
+  {
     "bistkodu": "GARAN",
     "sirket": "T. Garanti Bankası A.Ş.",
     "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
@@ -416,17 +493,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "445,00"
-  },
-  {
-    "bistkodu": "TAVHL",
-    "sirket": "Tav Havalimanları Holding A.Ş.",
-    "link": "https://halkarz.com/tav-havalimanlari-holding-a-s/",
-    "analist": "Şeker Yatırım",
-    "tarih": "09.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "425,30"
   },
   {
     "bistkodu": "PGSUS",
@@ -3993,17 +4059,6 @@
     "hf_fiyat": "100,08"
   },
   {
-    "bistkodu": "AGHOL",
-    "sirket": "AG Anadolu Grubu Holding A.Ş.",
-    "link": "https://halkarz.com/ag-anadolu-grubu-holding-a-s/",
-    "analist": "Yapı Kredi Yatırım",
-    "tarih": "15.08.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "53,20"
-  },
-  {
     "bistkodu": "GARAN",
     "sirket": "T. Garanti Bankası A.Ş.",
     "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
@@ -4024,17 +4079,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "340,08"
-  },
-  {
-    "bistkodu": "ASELS",
-    "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
-    "analist": "Hsbc",
-    "tarih": "15.08.2025",
-    "tr_class": "notr",
-    "hf_desc": "Nötr",
-    "hf_icon": "fa-arrow-right-arrow-left",
-    "hf_fiyat": "200,00"
   },
   {
     "bistkodu": "SAHOL",
@@ -6115,17 +6159,6 @@
     "hf_fiyat": "124,33"
   },
   {
-    "bistkodu": "AKSEN",
-    "sirket": "Aksa Enerji Üretim A.Ş.",
-    "link": "https://halkarz.com/aksa-enerji-uretim-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "07.11.2024",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "55,20"
-  },
-  {
     "bistkodu": "BIZIM",
     "sirket": "Bizim Toptan Satış Mağazaları A.Ş.",
     "link": "https://halkarz.com/bizim-toptan-satis-magazalari-a-s/",
@@ -6311,16 +6344,5 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "64,07"
-  },
-  {
-    "bistkodu": "VESBE",
-    "sirket": "Vestel Beyaz Eşya San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/vestel-beyaz-esya-san-ve-tic-a-s/",
-    "analist": "Ahlatcı Yatırım",
-    "tarih": "06.01.2024",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "27,16"
   }
 ]
