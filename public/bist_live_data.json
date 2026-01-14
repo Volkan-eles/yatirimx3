@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-14T02:11:36.489682",
+  "last_update": "2026-01-14T04:01:04.460780",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 505,
   "successful": 505,
@@ -966,7 +966,7 @@
       "fiftyTwoWeekHigh": 44.7,
       "fiftyDayAverage": 34.58,
       "twoHundredDayAverage": 26.8,
-      "volume": "42,326,572",
+      "volume": "43,326,572",
       "averageVolume": 69139640,
       "averageVolume10days": 70099037,
       "marketCap": 296300281856,
@@ -1133,7 +1133,7 @@
         },
         {
           "Close": 41.2400016784668,
-          "Volume": 42326572
+          "Volume": 43326572
         }
       ],
       "heldPercentInsiders": 0.91493,
@@ -1722,7 +1722,7 @@
       "fiftyTwoWeekHigh": 22.1,
       "fiftyDayAverage": 16.96,
       "twoHundredDayAverage": 17.41,
-      "volume": "61,625,214",
+      "volume": "62,625,214",
       "averageVolume": 69108199,
       "averageVolume10days": 42555962,
       "marketCap": 42856701952,
@@ -1889,7 +1889,7 @@
         },
         {
           "Close": 16.90999984741211,
-          "Volume": 61625214
+          "Volume": 62625214
         }
       ],
       "heldPercentInsiders": 0.51,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 42.18368,
-      "targetLowPrice": 29.330168,
-      "targetMeanPrice": 35.505463,
-      "targetMedianPrice": 35.088367,
+      "targetHighPrice": 42.17801,
+      "targetLowPrice": 29.326225,
+      "targetMeanPrice": 35.50069,
+      "targetMedianPrice": 35.083652,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 6,
@@ -2478,7 +2478,7 @@
       "fiftyTwoWeekHigh": 655.0,
       "fiftyDayAverage": 548.89,
       "twoHundredDayAverage": 516.35,
-      "volume": "12,238,056",
+      "volume": "12,488,056",
       "averageVolume": 6466076,
       "averageVolume10days": 6473423,
       "marketCap": 381942005760,
@@ -2645,7 +2645,7 @@
         },
         {
           "Close": 643.0,
-          "Volume": 12238056
+          "Volume": 12488056
         }
       ],
       "heldPercentInsiders": 0.27298,
@@ -5113,10 +5113,10 @@
       "symbol": "KOZAL.IS",
       "name": "Turk Altin Isletmeleri A.S.",
       "shortName": "TURK ALTIN ISLETMELERI",
-      "price": 46.68,
-      "change": 2.32,
-      "changeRate": 5.23,
-      "previousClose": 44.36,
+      "price": 48.46,
+      "change": 1.78,
+      "changeRate": 3.81,
+      "previousClose": 46.68,
       "open": 39.88,
       "dayLow": 39.02,
       "dayHigh": 40.36,
@@ -5124,7 +5124,7 @@
       "fiftyTwoWeekHigh": 40.82,
       "fiftyDayAverage": 29.65,
       "twoHundredDayAverage": 26.08,
-      "volume": "185,930,971",
+      "volume": "314,357,392",
       "averageVolume": 116719804,
       "averageVolume10days": 119294268,
       "marketCap": 128100007936,
@@ -5173,10 +5173,6 @@
       "numberOfAnalystOpinions": 5,
       "beta": 1.138,
       "historicalData": [
-        {
-          "Close": 34.400001525878906,
-          "Volume": 93862785
-        },
         {
           "Close": 35.2599983215332,
           "Volume": 125594802
@@ -5292,6 +5288,10 @@
         {
           "Close": 46.68000030517578,
           "Volume": 185930971
+        },
+        {
+          "Close": 48.459999084472656,
+          "Volume": 314357392
         }
       ],
       "heldPercentInsiders": 0.77662003,
@@ -5302,10 +5302,10 @@
       "symbol": "KOZAA.IS",
       "name": "TR Anadolu Metal Madencilik Isletmeleri A.S.",
       "shortName": "TR ANADOLU METAL MADENCILIK",
-      "price": 117.5,
-      "change": -1.6,
-      "changeRate": -1.34,
-      "previousClose": 119.1,
+      "price": 118.9,
+      "change": 1.4,
+      "changeRate": 1.19,
+      "previousClose": 117.5,
       "open": 102.5,
       "dayLow": 99.05,
       "dayHigh": 107.4,
@@ -5313,7 +5313,7 @@
       "fiftyTwoWeekHigh": 107.4,
       "fiftyDayAverage": 91.89,
       "twoHundredDayAverage": 83.95,
-      "volume": "12,078,470",
+      "volume": "8,427,540",
       "averageVolume": 8316665,
       "averageVolume10days": 7596280,
       "marketCap": 39778201600,
@@ -5362,10 +5362,6 @@
       "numberOfAnalystOpinions": 2,
       "beta": 0.699,
       "historicalData": [
-        {
-          "Close": 94.0,
-          "Volume": 6845898
-        },
         {
           "Close": 95.5,
           "Volume": 5450561
@@ -5481,6 +5477,10 @@
         {
           "Close": 117.5,
           "Volume": 12078470
+        },
+        {
+          "Close": 118.9000015258789,
+          "Volume": 8427540
         }
       ],
       "heldPercentInsiders": 0.5225,
@@ -5542,10 +5542,10 @@
       "dividendYield": null,
       "exDividendDate": 1585094400,
       "payoutRatio": 0.0,
-      "targetHighPrice": 572.979,
-      "targetLowPrice": 340.5612,
-      "targetMeanPrice": 434.04742,
-      "targetMedianPrice": 430.68906,
+      "targetHighPrice": 572.8114,
+      "targetLowPrice": 340.46158,
+      "targetMeanPrice": 433.92047,
+      "targetMedianPrice": 430.56308,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -6069,7 +6069,7 @@
       "fiftyTwoWeekHigh": 5.66,
       "fiftyDayAverage": 2.88,
       "twoHundredDayAverage": 3.41,
-      "volume": "2,543,510,244",
+      "volume": "0",
       "averageVolume": 570567281,
       "averageVolume10days": 478935280,
       "marketCap": 103843004416,
@@ -6236,7 +6236,7 @@
         },
         {
           "Close": 2.369999885559082,
-          "Volume": 2543510244
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": 0.69254,
@@ -8941,7 +8941,7 @@
       "forwardEps": 151.14,
       "bookValue": 44.85,
       "dividendRate": 0.51,
-      "dividendYield": 1.65,
+      "dividendYield": 1.63,
       "exDividendDate": 1748390400,
       "payoutRatio": 0.26459998,
       "targetHighPrice": 55.6,
@@ -11776,7 +11776,7 @@
       "forwardEps": null,
       "bookValue": 5.534,
       "dividendRate": 0.58,
-      "dividendYield": 1.76,
+      "dividendYield": 1.8,
       "exDividendDate": 1758844800,
       "payoutRatio": 2.775,
       "targetHighPrice": null,
@@ -12154,7 +12154,7 @@
       "forwardEps": null,
       "bookValue": 17.757,
       "dividendRate": 1.0,
-      "dividendYield": 7.43,
+      "dividendYield": 7.41,
       "exDividendDate": 1744070400,
       "payoutRatio": 1.4085001,
       "targetHighPrice": null,
@@ -19489,7 +19489,7 @@
       "fiftyDayAverage": 42.88,
       "twoHundredDayAverage": 36.6,
       "volume": "512,473",
-      "averageVolume": 1017678,
+      "averageVolume": 1009942,
       "averageVolume10days": 898143,
       "marketCap": 29581998080,
       "enterpriseValue": 30831343616,
@@ -28183,7 +28183,7 @@
       "fiftyDayAverage": 3.41,
       "twoHundredDayAverage": 2.79,
       "volume": "26,343,987",
-      "averageVolume": 34033064,
+      "averageVolume": 34374213,
       "averageVolume10days": 27381601,
       "marketCap": 1850729984,
       "enterpriseValue": 2016631040,
@@ -35742,7 +35742,7 @@
       "fiftyTwoWeekHigh": 105.0,
       "fiftyDayAverage": 76.42,
       "twoHundredDayAverage": 77.1,
-      "volume": "1,512,211",
+      "volume": "1,512,649",
       "averageVolume": 3970214,
       "averageVolume10days": 3070239,
       "marketCap": 5412825088,
@@ -35909,7 +35909,7 @@
         },
         {
           "Close": 69.5999984741211,
-          "Volume": 1512211
+          "Volume": 1512649
         }
       ],
       "heldPercentInsiders": 0.78833,
@@ -40846,7 +40846,7 @@
       "fiftyDayAverage": 19.11,
       "twoHundredDayAverage": 17.03,
       "volume": "4,891,269",
-      "averageVolume": 6602556,
+      "averageVolume": 6632800,
       "averageVolume10days": 4924455,
       "marketCap": 7270720000,
       "enterpriseValue": 7888575488,
@@ -45610,10 +45610,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 75.09368,
-      "targetLowPrice": 60.2561,
-      "targetMeanPrice": 67.67489,
-      "targetMedianPrice": 67.67489,
+      "targetHighPrice": 75.08045,
+      "targetLowPrice": 60.245483,
+      "targetMeanPrice": 67.66297,
+      "targetMedianPrice": 67.66297,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 2,
@@ -49528,10 +49528,10 @@
       "symbol": "IPEKE.IS",
       "name": "Ipek Dogal Enerji Kaynaklari Arastirma ve Üretim A.S.",
       "shortName": "TR DOGAL ENERJI",
-      "price": 99.55,
-      "change": 0.55,
-      "changeRate": 0.56,
-      "previousClose": 99.0,
+      "price": 99.9,
+      "change": 0.35,
+      "changeRate": 0.35,
+      "previousClose": 99.55,
       "open": 84.55,
       "dayLow": 80.5,
       "dayHigh": 87.55,
@@ -49539,7 +49539,7 @@
       "fiftyTwoWeekHigh": 87.75,
       "fiftyDayAverage": 74.72,
       "twoHundredDayAverage": 64.45,
-      "volume": "3,963,746",
+      "volume": "4,439,177",
       "averageVolume": 4942246,
       "averageVolume10days": 4338407,
       "marketCap": 21211492352,
@@ -49588,10 +49588,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.563,
       "historicalData": [
-        {
-          "Close": 74.1500015258789,
-          "Volume": 2926103
-        },
         {
           "Close": 75.55000305175781,
           "Volume": 2579527
@@ -49707,6 +49703,10 @@
         {
           "Close": 99.55000305175781,
           "Volume": 3963746
+        },
+        {
+          "Close": 99.9000015258789,
+          "Volume": 4439177
         }
       ],
       "heldPercentInsiders": 0.71186996,
@@ -89810,7 +89810,7 @@
       "country": "Turkey",
       "phone": "90 533 895 99 60",
       "description": "UFUK Yatirim Yonetim ve Gayrimenkul A.S. engages in financial leasing business in Turkey. It land and building. It also offers business management and consultancy services. The company was formerly known as Fon Sinai Yatirimlar A.S. and changed its name to UFUK Yatirim Yonetim ve Gayrimenkul A.S. in May 2016. UFUK Yatirim Yonetim ve Gayrimenkul A.S. was founded in 1995 and is headquartered in Istanbul, Turkey. UFUK Yatirim Yonetim ve Gayrimenkul A.S. operates as a subsidiary of Yildiz Holding A.S.",
-      "pe": 3292.157,
+      "pe": 3358.0,
       "forwardPE": null,
       "priceToBook": 34.777027,
       "pegRatio": null,
@@ -89829,7 +89829,7 @@
       "debtToEquity": 0.04,
       "currentRatio": 78.56,
       "quickRatio": 52.454,
-      "eps": 0.51,
+      "eps": 0.5,
       "forwardEps": null,
       "bookValue": 48.279,
       "dividendRate": null,
@@ -91530,7 +91530,7 @@
       "debtToEquity": null,
       "currentRatio": 1.666,
       "quickRatio": 1.578,
-      "eps": -0.68,
+      "eps": -0.69,
       "forwardEps": null,
       "bookValue": 9.204,
       "dividendRate": null,
@@ -93802,7 +93802,7 @@
       "forwardEps": null,
       "bookValue": 79.058,
       "dividendRate": 7.0,
-      "dividendYield": 5.38,
+      "dividendYield": 5.47,
       "exDividendDate": 1744675200,
       "payoutRatio": 0.109799996,
       "targetHighPrice": null,
@@ -94369,7 +94369,7 @@
       "forwardEps": null,
       "bookValue": 9.507,
       "dividendRate": 0.04,
-      "dividendYield": 0.49,
+      "dividendYield": 0.47,
       "exDividendDate": 1745798400,
       "payoutRatio": 0.0548,
       "targetHighPrice": null,
