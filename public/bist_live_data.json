@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-14T20:31:06.384761",
+  "last_update": "2026-01-14T20:51:51.169780",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 505,
   "successful": 505,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 40.449448,
-      "targetLowPrice": 29.35499,
-      "targetMeanPrice": 34.830128,
-      "targetMedianPrice": 35.118065,
+      "targetHighPrice": 40.45637,
+      "targetLowPrice": 29.360014,
+      "targetMeanPrice": 34.836086,
+      "targetMedianPrice": 35.124073,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 6,
@@ -5542,10 +5542,10 @@
       "dividendYield": null,
       "exDividendDate": 1585094400,
       "payoutRatio": 0.0,
-      "targetHighPrice": 573.40283,
-      "targetLowPrice": 340.81308,
-      "targetMeanPrice": 434.36847,
-      "targetMedianPrice": 431.00763,
+      "targetHighPrice": 573.4651,
+      "targetLowPrice": 340.8501,
+      "targetMeanPrice": 434.41565,
+      "targetMedianPrice": 431.05444,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -32519,9 +32519,9 @@
       "name": "E-Data Teknoloji Pazarlama Anonim Sirketi",
       "shortName": "E-DATA TEKNOLOJI",
       "price": 7.86,
-      "change": NaN,
-      "changeRate": 0,
-      "previousClose": NaN,
+      "change": -0.54,
+      "changeRate": -6.43,
+      "previousClose": 8.4,
       "open": 8.5,
       "dayLow": 7.83,
       "dayHigh": 8.55,
@@ -32577,7 +32577,128 @@
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
       "beta": 0.724,
-      "historicalData": [],
+      "historicalData": [
+        {
+          "Close": 5.289999961853027,
+          "Volume": 2580998
+        },
+        {
+          "Close": 5.289999961853027,
+          "Volume": 2509356
+        },
+        {
+          "Close": 5.320000171661377,
+          "Volume": 2954128
+        },
+        {
+          "Close": 5.599999904632568,
+          "Volume": 14947534
+        },
+        {
+          "Close": 5.599999904632568,
+          "Volume": 11516294
+        },
+        {
+          "Close": 5.5,
+          "Volume": 9162137
+        },
+        {
+          "Close": 5.329999923706055,
+          "Volume": 5968960
+        },
+        {
+          "Close": 5.28000020980835,
+          "Volume": 4618030
+        },
+        {
+          "Close": 5.260000228881836,
+          "Volume": 3541554
+        },
+        {
+          "Close": 5.489999771118164,
+          "Volume": 14465858
+        },
+        {
+          "Close": 5.300000190734863,
+          "Volume": 10359594
+        },
+        {
+          "Close": 5.260000228881836,
+          "Volume": 2818817
+        },
+        {
+          "Close": 5.210000038146973,
+          "Volume": 3058415
+        },
+        {
+          "Close": 5.159999847412109,
+          "Volume": 8166194
+        },
+        {
+          "Close": 5.170000076293945,
+          "Volume": 3623743
+        },
+        {
+          "Close": 5.179999828338623,
+          "Volume": 4847927
+        },
+        {
+          "Close": 5.159999847412109,
+          "Volume": 2751907
+        },
+        {
+          "Close": 5.670000076293945,
+          "Volume": 52124181
+        },
+        {
+          "Close": 6.230000019073486,
+          "Volume": 21302927
+        },
+        {
+          "Close": 6.059999942779541,
+          "Volume": 63451244
+        },
+        {
+          "Close": 6.059999942779541,
+          "Volume": 18435469
+        },
+        {
+          "Close": 6.659999847412109,
+          "Volume": 37409163
+        },
+        {
+          "Close": 6.840000152587891,
+          "Volume": 50490403
+        },
+        {
+          "Close": 7.519999980926514,
+          "Volume": 57828145
+        },
+        {
+          "Close": 7.75,
+          "Volume": 32923688
+        },
+        {
+          "Close": 8.40999984741211,
+          "Volume": 67177505
+        },
+        {
+          "Close": 9.210000038146973,
+          "Volume": 38369398
+        },
+        {
+          "Close": 8.319999694824219,
+          "Volume": 55335145
+        },
+        {
+          "Close": 8.399999618530273,
+          "Volume": 44919311
+        },
+        {
+          "Close": 7.860000133514404,
+          "Volume": 27433268
+        }
+      ],
       "heldPercentInsiders": 0.63853,
       "heldPercentInstitutions": 0.00037999998
     },
@@ -45489,10 +45610,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.025055,
-      "targetLowPrice": 60.316143,
-      "targetMeanPrice": 68.6706,
-      "targetMedianPrice": 68.6706,
+      "targetHighPrice": 77.02367,
+      "targetLowPrice": 60.315056,
+      "targetMeanPrice": 68.669365,
+      "targetMedianPrice": 68.669365,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 2,
