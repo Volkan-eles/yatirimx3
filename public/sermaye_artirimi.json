@@ -1,14 +1,5 @@
 [
   {
-    "code": "LIDFA",
-    "company": "LIDFA Lider Faktoring A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%90",
-    "date": "14.01.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 14.01.2026 | Tutar: 502.524.000 TL"
-  },
-  {
     "code": "ALGYO",
     "company": "ALGYO Alarko Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
@@ -34,6 +25,15 @@
     "date": "08.01.2026",
     "status": "SPK Onay",
     "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "LIDFA",
+    "company": "LIDFA Lider Faktoring A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%90",
+    "date": "14.01.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 14.01.2026 | Tutar: 502.524.000 TL"
   },
   {
     "code": "SMRVA",
