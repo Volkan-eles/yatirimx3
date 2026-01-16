@@ -1,19 +1,19 @@
 [
   {
-    "code": "ALGYO",
-    "company": "ALGYO Alarko Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "code": "ALVES",
+    "company": "ALVES Alves Kablo San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%600",
+    "rate": "%900",
     "date": "15.01.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 15.01.2026"
+    "status": "SPK Onay",
+    "description": "SPK Onayı Alındı"
   },
   {
-    "code": "QNBTR",
-    "company": "QNBTR Qnb Bank A.Ş.",
+    "code": "SODSN",
+    "company": "SODSN Sodaş Sodyum Sanayi A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%64.17",
-    "date": "08.01.2026",
+    "rate": "%700",
+    "date": "15.01.2026",
     "status": "SPK Onay",
     "description": "SPK Onayı Alındı"
   },
@@ -22,6 +22,15 @@
     "company": "GMTAS Gimat Mağazacılık San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%101.07",
+    "date": "16.01.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 16.01.2026"
+  },
+  {
+    "code": "QNBTR",
+    "company": "QNBTR Qnb Bank A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%64.17",
     "date": "08.01.2026",
     "status": "SPK Onay",
     "description": "SPK Onayı Alındı"
@@ -34,6 +43,15 @@
     "date": "14.01.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 14.01.2026 | Tutar: 502.524.000 TL"
+  },
+  {
+    "code": "ALGYO",
+    "company": "ALGYO Alarko Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%600",
+    "date": "15.01.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 15.01.2026"
   },
   {
     "code": "SMRVA",
@@ -180,29 +198,11 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 870.004.835 TL"
   },
   {
-    "code": "ALVES",
-    "company": "ALVES Alves Kablo San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%900",
-    "date": "15.08.2025",
-    "status": "YKK Kararı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "GENIL",
     "company": "GENIL Gen İlaç ve Sağlık Ürünleri San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%1400",
     "date": "14.07.2025",
-    "status": "YKK Kararı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "SODSN",
-    "company": "SODSN Sodaş Sodyum Sanayi A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%700",
-    "date": "20.06.2025",
     "status": "YKK Kararı",
     "description": "Yönetim Kurulu Kararı"
   },

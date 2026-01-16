@@ -1,5 +1,434 @@
 [
   {
+    "bistkodu": "TRGYO",
+    "sirket": "Torunlar Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "link": "https://halkarz.com/torunlar-gayrimenkul-yatirim-ortakligi-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "95,50"
+  },
+  {
+    "bistkodu": "TRALT",
+    "sirket": "Türk Altın İşletmeleri A.Ş.",
+    "link": "https://halkarz.com/turk-altin-isletmeleri-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "60,62"
+  },
+  {
+    "bistkodu": "BIMAS",
+    "sirket": "Bim Birleşik Mağazalar A.Ş.",
+    "link": "https://halkarz.com/bim-birlesik-magazalar-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "828,80"
+  },
+  {
+    "bistkodu": "TTRAK",
+    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
+    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "693,00"
+  },
+  {
+    "bistkodu": "TTKOM",
+    "sirket": "Türk Telekomünikasyon A.Ş.",
+    "link": "https://halkarz.com/turk-telekomunikasyon-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "88,90"
+  },
+  {
+    "bistkodu": "THYAO",
+    "sirket": "Türk Hava Yolları A.O.",
+    "link": "https://halkarz.com/turk-hava-yollari-a-o/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "435,00"
+  },
+  {
+    "bistkodu": "TCELL",
+    "sirket": "Turkcell İletişim Hizmetleri A.Ş.",
+    "link": "https://halkarz.com/turkcell-iletisim-hizmetleri-a-s-ord/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "162,00"
+  },
+  {
+    "bistkodu": "SOKM",
+    "sirket": "Şok Marketler Ticaret A.Ş.",
+    "link": "https://halkarz.com/sok-marketler-ticaret-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "72,60"
+  },
+  {
+    "bistkodu": "SISE",
+    "sirket": "Türkiye Şişe ve Cam Fabrikaları A.Ş.",
+    "link": "https://halkarz.com/turkiye-sise-ve-cam-fabrikalari-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "58,35"
+  },
+  {
+    "bistkodu": "OTKAR",
+    "sirket": "Otokar Otomotiv ve Savunma Sanayi A.Ş.",
+    "link": "https://halkarz.com/otokar-otomotiv-ve-savunma-sanayi-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "626,40"
+  },
+  {
+    "bistkodu": "MGROS",
+    "sirket": "Migros T.A.Ş.",
+    "link": "https://halkarz.com/migros-t-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "855,00"
+  },
+  {
+    "bistkodu": "MAVI",
+    "sirket": "Mavi Giyim San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/mavi-giyim-san-ve-tic-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "63,40"
+  },
+  {
+    "bistkodu": "LOGO",
+    "sirket": "Logo Yazılım San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/logo-yazilim-san-ve-tic-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "241,50"
+  },
+  {
+    "bistkodu": "EREGL",
+    "sirket": "Ereğli Demir ve Çelik Fabrikaları T.A.Ş.",
+    "link": "https://halkarz.com/eregli-demir-ve-celik-fabrikalari-t-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "31,74"
+  },
+  {
+    "bistkodu": "KRDMD",
+    "sirket": "Kardemir Karabük Demir Çelik San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/kardemir-karabuk-demir-celik-san-ve-tic-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "34,24"
+  },
+  {
+    "bistkodu": "INDES",
+    "sirket": "İndeks Bilgisayar Sistemleri Mühendislik San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/indeks-bilgisayar-sistemleri-muhendislik-san-ve-tic-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "9,35"
+  },
+  {
+    "bistkodu": "FROTO",
+    "sirket": "Ford Otomotiv Sanayi A.Ş.",
+    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "140,00"
+  },
+  {
+    "bistkodu": "ENJSA",
+    "sirket": "Enerjisa Enerji A.Ş.",
+    "link": "https://halkarz.com/enerjisa-enerji-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "125,40"
+  },
+  {
+    "bistkodu": "EKGYO",
+    "sirket": "Emlak Konut Gayrimenkul Yatırım A.Ş.",
+    "link": "https://halkarz.com/emlak-konut-gayrimenkul-yatirim-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "32,55"
+  },
+  {
+    "bistkodu": "CIMSA",
+    "sirket": "Çimsa Çimento San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/cimsa-cimento-san-ve-tic-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "68,50"
+  },
+  {
+    "bistkodu": "BIOEN",
+    "sirket": "Biotrend Çevre ve Enerji Yatırımları A.Ş.",
+    "link": "https://halkarz.com/biotrend-cevre-ve-enerji-yatirimlari-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "23,80"
+  },
+  {
+    "bistkodu": "AKCNS",
+    "sirket": "Akçansa Çimento Sanayi ve Ticaret A.Ş.",
+    "link": "https://halkarz.com/akcansa-cimento-san-ve-tic-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "232,40"
+  },
+  {
+    "bistkodu": "ASELS",
+    "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "400,00"
+  },
+  {
+    "bistkodu": "RGYAS",
+    "sirket": "Rönesans Gayrimenkul Yatırım A.Ş.",
+    "link": "https://halkarz.com/ronesans-gayrimenkul-yatirim-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "220,16"
+  },
+  {
+    "bistkodu": "ASELS",
+    "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "246,77"
+  },
+  {
+    "bistkodu": "TUPRS",
+    "sirket": "Tüpraş Türkiye Petrol Rafinerileri A.Ş.",
+    "link": "https://halkarz.com/turkiye-petrol-rafinerileri-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "260,00"
+  },
+  {
+    "bistkodu": "TRALT",
+    "sirket": "Türk Altın İşletmeleri A.Ş.",
+    "link": "https://halkarz.com/turk-altin-isletmeleri-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "31,00"
+  },
+  {
+    "bistkodu": "TKNSA",
+    "sirket": "Teknosa İç ve Dış Ticaret A.Ş.",
+    "link": "https://halkarz.com/teknosa-ic-ve-dis-ticaret-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "36,78"
+  },
+  {
+    "bistkodu": "ENKAI",
+    "sirket": "Enka İnşaat ve Sanayi A.Ş.",
+    "link": "https://halkarz.com/enka-insaat-ve-sanayi-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "101,17"
+  },
+  {
+    "bistkodu": "TCELL",
+    "sirket": "Turkcell İletişim Hizmetleri A.Ş.",
+    "link": "https://halkarz.com/turkcell-iletisim-hizmetleri-a-s-ord/",
+    "analist": "İş Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "143,07"
+  },
+  {
+    "bistkodu": "FROTO",
+    "sirket": "Ford Otomotiv Sanayi A.Ş.",
+    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "147,75"
+  },
+  {
+    "bistkodu": "TUPRS",
+    "sirket": "Tüpraş Türkiye Petrol Rafinerileri A.Ş.",
+    "link": "https://halkarz.com/turkiye-petrol-rafinerileri-a-s/",
+    "analist": "Global Menkul",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "285,00"
+  },
+  {
+    "bistkodu": "MGROS",
+    "sirket": "Migros T.A.Ş.",
+    "link": "https://halkarz.com/migros-t-a-s/",
+    "analist": "Global Menkul",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "885,70"
+  },
+  {
+    "bistkodu": "KCHOL",
+    "sirket": "Koç Holding A.Ş.",
+    "link": "https://halkarz.com/koc-holding-a-s/",
+    "analist": "Global Menkul",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "286,00"
+  },
+  {
+    "bistkodu": "EKGYO",
+    "sirket": "Emlak Konut Gayrimenkul Yatırım A.Ş.",
+    "link": "https://halkarz.com/emlak-konut-gayrimenkul-yatirim-a-s/",
+    "analist": "Global Menkul",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "34,00"
+  },
+  {
+    "bistkodu": "CIMSA",
+    "sirket": "Çimsa Çimento San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/cimsa-cimento-san-ve-tic-a-s/",
+    "analist": "Global Menkul",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "72,80"
+  },
+  {
+    "bistkodu": "ENKAI",
+    "sirket": "Enka İnşaat ve Sanayi A.Ş.",
+    "link": "https://halkarz.com/enka-insaat-ve-sanayi-a-s/",
+    "analist": "Global Menkul",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "116,70"
+  },
+  {
+    "bistkodu": "ASTOR",
+    "sirket": "Astor Enerji A.Ş.",
+    "link": "https://halkarz.com/astor-enerji-a-s/",
+    "analist": "Global Menkul",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "203,50"
+  },
+  {
+    "bistkodu": "AKBNK",
+    "sirket": "Akbank T.A.Ş.",
+    "link": "https://halkarz.com/akbank-t-a-s/",
+    "analist": "Global Menkul",
+    "tarih": "15.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "104,00"
+  },
+  {
     "bistkodu": "SOKM",
     "sirket": "Şok Marketler Ticaret A.Ş.",
     "link": "https://halkarz.com/sok-marketler-ticaret-a-s/",
@@ -1485,17 +1914,6 @@
     "hf_fiyat": "291,54"
   },
   {
-    "bistkodu": "ENJSA",
-    "sirket": "Enerjisa Enerji A.Ş.",
-    "link": "https://halkarz.com/enerjisa-enerji-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "29.12.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "125,40"
-  },
-  {
     "bistkodu": "TTRAK",
     "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
     "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
@@ -1648,17 +2066,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "29,20"
-  },
-  {
-    "bistkodu": "TKNSA",
-    "sirket": "Teknosa İç ve Dış Ticaret A.Ş.",
-    "link": "https://halkarz.com/teknosa-ic-ve-dis-ticaret-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "24.12.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "36,80"
   },
   {
     "bistkodu": "AKSEN",
@@ -2376,17 +2783,6 @@
     "hf_fiyat": "79,00"
   },
   {
-    "bistkodu": "CIMSA",
-    "sirket": "Çimsa Çimento San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/cimsa-cimento-san-ve-tic-a-s/",
-    "analist": "Global Menkul",
-    "tarih": "13.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "72,80"
-  },
-  {
     "bistkodu": "KRDMD",
     "sirket": "Kardemir Karabük Demir Çelik San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/kardemir-karabuk-demir-celik-san-ve-tic-a-s/",
@@ -2429,17 +2825,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "824,00"
-  },
-  {
-    "bistkodu": "TRALT",
-    "sirket": "Türk Altın İşletmeleri A.Ş.",
-    "link": "https://halkarz.com/turk-altin-isletmeleri-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "12.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "39,30"
   },
   {
     "bistkodu": "ENTRA",
@@ -2530,28 +2915,6 @@
     "hf_fiyat": "30,00"
   },
   {
-    "bistkodu": "TRGYO",
-    "sirket": "Torunlar Gayrimenkul Yatırım Ortaklığı A.Ş.",
-    "link": "https://halkarz.com/torunlar-gayrimenkul-yatirim-ortakligi-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "10.11.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "94,50"
-  },
-  {
-    "bistkodu": "ENKAI",
-    "sirket": "Enka İnşaat ve Sanayi A.Ş.",
-    "link": "https://halkarz.com/enka-insaat-ve-sanayi-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "10.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "102,00"
-  },
-  {
     "bistkodu": "ENKAI",
     "sirket": "Enka İnşaat ve Sanayi A.Ş.",
     "link": "https://halkarz.com/enka-insaat-ve-sanayi-a-s/",
@@ -2596,17 +2959,6 @@
     "hf_fiyat": "831,98"
   },
   {
-    "bistkodu": "THYAO",
-    "sirket": "Türk Hava Yolları A.O.",
-    "link": "https://halkarz.com/turk-hava-yollari-a-o/",
-    "analist": "Halk Yatırım",
-    "tarih": "07.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "467,00"
-  },
-  {
     "bistkodu": "TCELL",
     "sirket": "Turkcell İletişim Hizmetleri A.Ş.",
     "link": "https://halkarz.com/turkcell-iletisim-hizmetleri-a-s-ord/",
@@ -2640,17 +2992,6 @@
     "hf_fiyat": "78,00"
   },
   {
-    "bistkodu": "TCELL",
-    "sirket": "Turkcell İletişim Hizmetleri A.Ş.",
-    "link": "https://halkarz.com/turkcell-iletisim-hizmetleri-a-s-ord/",
-    "analist": "Halk Yatırım",
-    "tarih": "07.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "159,66"
-  },
-  {
     "bistkodu": "VAKBN",
     "sirket": "Türkiye Vakıflar Bankası T.A.O.",
     "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
@@ -2671,17 +3012,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "453,46"
-  },
-  {
-    "bistkodu": "KRDMD",
-    "sirket": "Kardemir Karabük Demir Çelik San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/kardemir-karabuk-demir-celik-san-ve-tic-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "07.11.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "34,24"
   },
   {
     "bistkodu": "SOKM",
@@ -2715,17 +3045,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "56,00"
-  },
-  {
-    "bistkodu": "SOKM",
-    "sirket": "Şok Marketler Ticaret A.Ş.",
-    "link": "https://halkarz.com/sok-marketler-ticaret-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "06.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "66,45"
   },
   {
     "bistkodu": "RGYAS",
@@ -2772,28 +3091,6 @@
     "hf_fiyat": "43,00"
   },
   {
-    "bistkodu": "ASELS",
-    "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "05.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "267,70"
-  },
-  {
-    "bistkodu": "TTKOM",
-    "sirket": "Türk Telekomünikasyon A.Ş.",
-    "link": "https://halkarz.com/turk-telekomunikasyon-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "05.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "88,90"
-  },
-  {
     "bistkodu": "TUPRS",
     "sirket": "Tüpraş Türkiye Petrol Rafinerileri A.Ş.",
     "link": "https://halkarz.com/turkiye-petrol-rafinerileri-a-s/",
@@ -2814,17 +3111,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "402,32"
-  },
-  {
-    "bistkodu": "OTKAR",
-    "sirket": "Otokar Otomotiv ve Savunma Sanayi A.Ş.",
-    "link": "https://halkarz.com/otokar-otomotiv-ve-savunma-sanayi-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "04.11.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "579,80"
   },
   {
     "bistkodu": "TUPRS",
@@ -2959,17 +3245,6 @@
     "hf_fiyat": "14,51"
   },
   {
-    "bistkodu": "TRALT",
-    "sirket": "Türk Altın İşletmeleri A.Ş.",
-    "link": "https://halkarz.com/turk-altin-isletmeleri-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "31.10.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "31,00"
-  },
-  {
     "bistkodu": "ASTOR",
     "sirket": "Astor Enerji A.Ş.",
     "link": "https://halkarz.com/astor-enerji-a-s/",
@@ -2979,17 +3254,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "182,97"
-  },
-  {
-    "bistkodu": "ASELS",
-    "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "31.10.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "247,00"
   },
   {
     "bistkodu": "ULKER",
@@ -3012,17 +3276,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "36,11"
-  },
-  {
-    "bistkodu": "TUPRS",
-    "sirket": "Tüpraş Türkiye Petrol Rafinerileri A.Ş.",
-    "link": "https://halkarz.com/turkiye-petrol-rafinerileri-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "31.10.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "249,00"
   },
   {
     "bistkodu": "DOHOL",
@@ -3078,17 +3331,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "121,69"
-  },
-  {
-    "bistkodu": "RGYAS",
-    "sirket": "Rönesans Gayrimenkul Yatırım A.Ş.",
-    "link": "https://halkarz.com/ronesans-gayrimenkul-yatirim-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "31.10.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "221,80"
   },
   {
     "bistkodu": "ISGYO",
@@ -3201,17 +3443,6 @@
     "hf_fiyat": "485,00"
   },
   {
-    "bistkodu": "FROTO",
-    "sirket": "Ford Otomotiv Sanayi A.Ş.",
-    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "31.10.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "153,80"
-  },
-  {
     "bistkodu": "DOAS",
     "sirket": "Doğuş Otomotiv Servis ve Ticaret A.Ş.",
     "link": "https://halkarz.com/dogus-otomotiv-servis-ve-ticaret-a-s/",
@@ -3287,17 +3518,6 @@
     "hf_desc": "Tut",
     "hf_icon": "fa-wave-square",
     "hf_fiyat": "123,00"
-  },
-  {
-    "bistkodu": "TTRAK",
-    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
-    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "28.10.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "693,00"
   },
   {
     "bistkodu": "AKGRT",
@@ -3512,17 +3732,6 @@
     "bistkodu": "EREGL",
     "sirket": "Ereğli Demir ve Çelik Fabrikaları T.A.Ş.",
     "link": "https://halkarz.com/eregli-demir-ve-celik-fabrikalari-t-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "21.10.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "31,74"
-  },
-  {
-    "bistkodu": "EREGL",
-    "sirket": "Ereğli Demir ve Çelik Fabrikaları T.A.Ş.",
-    "link": "https://halkarz.com/eregli-demir-ve-celik-fabrikalari-t-a-s/",
     "analist": "İş Yatırım",
     "tarih": "21.10.2025",
     "tr_class": "blue",
@@ -3606,17 +3815,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "35,05"
-  },
-  {
-    "bistkodu": "TUPRS",
-    "sirket": "Tüpraş Türkiye Petrol Rafinerileri A.Ş.",
-    "link": "https://halkarz.com/turkiye-petrol-rafinerileri-a-s/",
-    "analist": "Global Menkul",
-    "tarih": "16.10.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "253,00"
   },
   {
     "bistkodu": "TABGD",
@@ -3839,17 +4037,6 @@
     "hf_fiyat": "55,00"
   },
   {
-    "bistkodu": "MAVI",
-    "sirket": "Mavi Giyim San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/mavi-giyim-san-ve-tic-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "18.09.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "61,25"
-  },
-  {
     "bistkodu": "KCHOL",
     "sirket": "Koç Holding A.Ş.",
     "link": "https://halkarz.com/koc-holding-a-s/",
@@ -4048,17 +4235,6 @@
     "hf_fiyat": "25,50"
   },
   {
-    "bistkodu": "EKGYO",
-    "sirket": "Emlak Konut Gayrimenkul Yatırım A.Ş.",
-    "link": "https://halkarz.com/emlak-konut-gayrimenkul-yatirim-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "19.08.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "25,80"
-  },
-  {
     "bistkodu": "LKMNH",
     "sirket": "Lokman Hekim Engürüsağ Sağlık Turizm Eğitim Hizmetleri ve İnşaat Taahhüt A.Ş.",
     "link": "https://halkarz.com/lokman-hekim-engurusag-saglik-turizm-egitim-hizmetleri-ve-insaat-taahhut-a-s/",
@@ -4112,28 +4288,6 @@
     "hf_desc": "Tut",
     "hf_icon": "fa-wave-square",
     "hf_fiyat": "36,80"
-  },
-  {
-    "bistkodu": "SISE",
-    "sirket": "Türkiye Şişe ve Cam Fabrikaları A.Ş.",
-    "link": "https://halkarz.com/turkiye-sise-ve-cam-fabrikalari-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "18.08.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "58,35"
-  },
-  {
-    "bistkodu": "BIOEN",
-    "sirket": "Biotrend Çevre ve Enerji Yatırımları A.Ş.",
-    "link": "https://halkarz.com/biotrend-cevre-ve-enerji-yatirimlari-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "18.08.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "23,80"
   },
   {
     "bistkodu": "TRGYO",
@@ -4224,28 +4378,6 @@
     "hf_fiyat": "375,00"
   },
   {
-    "bistkodu": "LOGO",
-    "sirket": "Logo Yazılım San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/logo-yazilim-san-ve-tic-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "13.08.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "241,50"
-  },
-  {
-    "bistkodu": "MGROS",
-    "sirket": "Migros T.A.Ş.",
-    "link": "https://halkarz.com/migros-t-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "13.08.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "818,80"
-  },
-  {
     "bistkodu": "HALKB",
     "sirket": "Türkiye Halk Bankası A.Ş.",
     "link": "https://halkarz.com/turkiye-halk-bankasi-a-s/",
@@ -4321,17 +4453,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "235,00"
-  },
-  {
-    "bistkodu": "AKCNS",
-    "sirket": "Akçansa Çimento Sanayi ve Ticaret A.Ş.",
-    "link": "https://halkarz.com/akcansa-cimento-san-ve-tic-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "07.08.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "218,40"
   },
   {
     "bistkodu": "EREGL",
@@ -4774,17 +4895,6 @@
     "hf_fiyat": "16,00"
   },
   {
-    "bistkodu": "ENKAI",
-    "sirket": "Enka İnşaat ve Sanayi A.Ş.",
-    "link": "https://halkarz.com/enka-insaat-ve-sanayi-a-s/",
-    "analist": "Global Menkul",
-    "tarih": "14.07.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "92,52"
-  },
-  {
     "bistkodu": "TKNSA",
     "sirket": "Teknosa İç ve Dış Ticaret A.Ş.",
     "link": "https://halkarz.com/teknosa-ic-ve-dis-ticaret-a-s/",
@@ -5093,17 +5203,6 @@
     "hf_fiyat": "723,00"
   },
   {
-    "bistkodu": "INDES",
-    "sirket": "İndeks Bilgisayar Sistemleri Mühendislik San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/indeks-bilgisayar-sistemleri-muhendislik-san-ve-tic-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "13.05.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "9,35"
-  },
-  {
     "bistkodu": "AKSEN",
     "sirket": "Aksa Enerji Üretim A.Ş.",
     "link": "https://halkarz.com/aksa-enerji-uretim-a-s/",
@@ -5179,17 +5278,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "355,00"
-  },
-  {
-    "bistkodu": "BIMAS",
-    "sirket": "Bim Birleşik Mağazalar A.Ş.",
-    "link": "https://halkarz.com/bim-birlesik-magazalar-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "09.05.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "774,80"
   },
   {
     "bistkodu": "AKSA",
@@ -5333,17 +5421,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "19,00"
-  },
-  {
-    "bistkodu": "CIMSA",
-    "sirket": "Çimsa Çimento San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/cimsa-cimento-san-ve-tic-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "30.04.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "67,10"
   },
   {
     "bistkodu": "AKBNK",
@@ -5530,17 +5607,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "736,40"
-  },
-  {
-    "bistkodu": "EKGYO",
-    "sirket": "Emlak Konut Gayrimenkul Yatırım A.Ş.",
-    "link": "https://halkarz.com/emlak-konut-gayrimenkul-yatirim-a-s/",
-    "analist": "Global Menkul",
-    "tarih": "11.04.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "18,80"
   },
   {
     "bistkodu": "ISCTR",
