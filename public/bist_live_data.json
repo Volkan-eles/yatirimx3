@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-17T07:43:21.981651",
+  "last_update": "2026-01-17T08:34:13.103969",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 505,
   "successful": 505,
@@ -570,7 +570,7 @@
         }
       ],
       "heldPercentInsiders": 0.61166,
-      "heldPercentInstitutions": 0.12219
+      "heldPercentInstitutions": 0.12222
     },
     {
       "code": "ISCTR",
@@ -2460,7 +2460,7 @@
         }
       ],
       "heldPercentInsiders": 0.74195,
-      "heldPercentInstitutions": 0.06849
+      "heldPercentInstitutions": 0.06853
     },
     {
       "code": "BIMAS",
@@ -3783,7 +3783,7 @@
         }
       ],
       "heldPercentInsiders": 0.59037,
-      "heldPercentInstitutions": 0.021949999
+      "heldPercentInstitutions": 0.02197
     },
     {
       "code": "VESTL",
@@ -4740,7 +4740,7 @@
       "changeRate": 1.05,
       "previousClose": 284.75,
       "open": 285.0,
-      "dayLow": 281.5,
+      "dayLow": 281.25,
       "dayHigh": 290.75,
       "fiftyTwoWeekLow": 150.1,
       "fiftyTwoWeekHigh": 290.75,
@@ -5111,7 +5111,7 @@
     {
       "code": "KOZAL",
       "symbol": "KOZAL.IS",
-      "name": "Turk Altin Isletmeleri A.S.",
+      "name": "Koza Altin Isletmeleri A.S.",
       "shortName": "TURK ALTIN ISLETMELERI",
       "price": 47.6,
       "change": 2.6,
@@ -5673,7 +5673,7 @@
         }
       ],
       "heldPercentInsiders": 0.51198,
-      "heldPercentInstitutions": 0.14359
+      "heldPercentInstitutions": 0.14341
     },
     {
       "code": "EKGYO",
@@ -6429,7 +6429,7 @@
         }
       ],
       "heldPercentInsiders": 0.78729,
-      "heldPercentInstitutions": 0.01785
+      "heldPercentInstitutions": 0.01653
     },
     {
       "code": "HEKTS",
@@ -7374,7 +7374,7 @@
         }
       ],
       "heldPercentInsiders": 0.67047995,
-      "heldPercentInstitutions": 0.0402
+      "heldPercentInstitutions": 0.04019
     },
     {
       "code": "ULKER",
@@ -8319,7 +8319,7 @@
         }
       ],
       "heldPercentInsiders": 0.27186,
-      "heldPercentInstitutions": 0.17114
+      "heldPercentInstitutions": 0.17277001
     },
     {
       "code": "KARSN",
@@ -9676,7 +9676,7 @@
       "description": "Founded on June 6, 1978, the name of Aletim Alarko Elektrik Tesisat ve Insaat Malzemeleri Anonim Sirketi (Alarko Real Estate Investment Partnership Joint Stock Company) was registered in Istanbul as Alarko Gayrimenkul Yatirim Ortakligi Anonim Sirketi (the \"Company\"), as published in the Turkish Trade Registry Gazette dated August 6, 1996, numbered 4096. On October 31, 1996, the Company applied to the Capital Markets Board (\"CMB\" or the \"Board\") for a document regarding the registration of shares to be issued by joint stock companies for capital increases, and was registered with the Board in accordance with the provisions of the Capital Markets Law with document numbered 1/1552 dated December 13, 1996, and REIT. The Company's primary activity is to engage in the objectives and subjects outlined in the Capital Markets Board (CMB) regulations regarding real estate investment trusts. Within this scope, the Company engages in investments in real estate, real estate projects, and capital market instruments. Accordingly, the Company complies with CMB regulations and relevant legislation regarding its operating principles, portfolio investment policies, and management limitations.",
       "pe": 21.68,
       "forwardPE": null,
-      "priceToBook": 0.62020826,
+      "priceToBook": 0.62013733,
       "pegRatio": null,
       "priceToSales": 24.726519,
       "enterpriseToRevenue": 31.583,
@@ -9695,7 +9695,7 @@
       "quickRatio": 0.24,
       "eps": 0.25,
       "forwardEps": null,
-      "bookValue": 8.739,
+      "bookValue": 8.74,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1717372800,
@@ -9843,7 +9843,7 @@
       "changeRate": 0.08,
       "previousClose": 60.4,
       "open": 60.45,
-      "dayLow": 60.05,
+      "dayLow": 60.0,
       "dayHigh": 61.15,
       "fiftyTwoWeekLow": 50.75,
       "fiftyTwoWeekHigh": 67.25,
@@ -10587,7 +10587,7 @@
         }
       ],
       "heldPercentInsiders": 0.60412997,
-      "heldPercentInstitutions": 0.02261
+      "heldPercentInstitutions": 0.07258
     },
     {
       "code": "BJKAS",
@@ -17025,7 +17025,7 @@
       "changeRate": -0.32,
       "previousClose": 6.2,
       "open": 6.26,
-      "dayLow": 6.11,
+      "dayLow": 6.08,
       "dayHigh": 6.26,
       "fiftyTwoWeekLow": 4.54,
       "fiftyTwoWeekHigh": 7.05,
@@ -19092,7 +19092,7 @@
         }
       ],
       "heldPercentInsiders": 0.91705,
-      "heldPercentInstitutions": 0.00022
+      "heldPercentInstitutions": 0.00021
     },
     {
       "code": "BARMA",
@@ -21738,7 +21738,7 @@
         }
       ],
       "heldPercentInsiders": 0.5023,
-      "heldPercentInstitutions": 0.0
+      "heldPercentInstitutions": 0.00022
     },
     {
       "code": "BNTAS",
@@ -25342,7 +25342,7 @@
       "previousClose": 10.62,
       "open": 10.61,
       "dayLow": 10.44,
-      "dayHigh": 11.37,
+      "dayHigh": 11.4,
       "fiftyTwoWeekLow": 7.11,
       "fiftyTwoWeekHigh": 25.58,
       "fiftyDayAverage": 10.13,
@@ -25707,7 +25707,7 @@
         }
       ],
       "heldPercentInsiders": 0.27402002,
-      "heldPercentInstitutions": 0.00377
+      "heldPercentInstitutions": 0.00466
     },
     {
       "code": "CEOEM",
@@ -28366,7 +28366,7 @@
       "previousClose": 13.69,
       "open": 13.69,
       "dayLow": 13.48,
-      "dayHigh": 14.12,
+      "dayHigh": 14.15,
       "fiftyTwoWeekLow": 12.72,
       "fiftyTwoWeekHigh": 176.8,
       "fiftyDayAverage": 13.92,
@@ -30067,7 +30067,7 @@
       "previousClose": 41.14,
       "open": 41.26,
       "dayLow": 41.0,
-      "dayHigh": 45.2,
+      "dayHigh": 45.22,
       "fiftyTwoWeekLow": 11.04,
       "fiftyTwoWeekHigh": 51.6,
       "fiftyDayAverage": 38.03,
@@ -30256,7 +30256,7 @@
       "previousClose": 9.17,
       "open": 9.1,
       "dayLow": 9.1,
-      "dayHigh": 9.28,
+      "dayHigh": 9.29,
       "fiftyTwoWeekLow": 6.55,
       "fiftyTwoWeekHigh": 14.9,
       "fiftyDayAverage": 10.67,
@@ -32532,7 +32532,7 @@
       "volume": "31,790,335",
       "averageVolume": 14525827,
       "averageVolume10days": 44023276,
-      "marketCap": 3599382784,
+      "marketCap": 3358119424,
       "enterpriseValue": 3302906624,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32547,7 +32547,7 @@
       "forwardPE": null,
       "priceToBook": 3.8657408,
       "pegRatio": null,
-      "priceToSales": 2.0096996,
+      "priceToSales": 1.8749913,
       "enterpriseToRevenue": 1.844,
       "enterpriseToEbitda": 46.414,
       "profitMargins": -0.01041,
@@ -35547,7 +35547,7 @@
       "changeRate": -1.49,
       "previousClose": 202.0,
       "open": 204.3,
-      "dayLow": 197.0,
+      "dayLow": 195.0,
       "dayHigh": 204.3,
       "fiftyTwoWeekLow": 135.3,
       "fiftyTwoWeekHigh": 212.2,
@@ -35736,7 +35736,7 @@
       "changeRate": -2.53,
       "previousClose": 73.0,
       "open": 72.9,
-      "dayLow": 71.05,
+      "dayLow": 71.0,
       "dayHigh": 73.0,
       "fiftyTwoWeekLow": 62.85,
       "fiftyTwoWeekHigh": 105.0,
@@ -36115,7 +36115,7 @@
       "previousClose": 28.1,
       "open": 28.1,
       "dayLow": 27.16,
-      "dayHigh": 28.66,
+      "dayHigh": 28.68,
       "fiftyTwoWeekLow": 18.46,
       "fiftyTwoWeekHigh": 78.5,
       "fiftyDayAverage": 22.15,
@@ -42184,7 +42184,7 @@
       "description": "",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.1984643,
+      "priceToBook": 2.4098003,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": null,
@@ -42203,7 +42203,7 @@
       "quickRatio": null,
       "eps": null,
       "forwardEps": null,
-      "bookValue": 23.964,
+      "bookValue": 11.918,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -43095,7 +43095,7 @@
         }
       ],
       "heldPercentInsiders": 0.6795,
-      "heldPercentInstitutions": 0.056810003
+      "heldPercentInstitutions": 0.056110002
     },
     {
       "code": "GRNYO",
@@ -43108,7 +43108,7 @@
       "previousClose": 16.66,
       "open": 17.65,
       "dayLow": 17.0,
-      "dayHigh": 18.31,
+      "dayHigh": 18.32,
       "fiftyTwoWeekLow": 7.54,
       "fiftyTwoWeekHigh": 18.5,
       "fiftyDayAverage": 14.5,
@@ -43851,7 +43851,7 @@
         }
       ],
       "heldPercentInsiders": 0.4284,
-      "heldPercentInstitutions": 0.01793
+      "heldPercentInstitutions": 0.017819999
     },
     {
       "code": "GSRAY",
@@ -44242,7 +44242,7 @@
       "previousClose": 45.16,
       "open": 45.5,
       "dayLow": 43.78,
-      "dayHigh": 49.26,
+      "dayHigh": 49.28,
       "fiftyTwoWeekLow": 41.56,
       "fiftyTwoWeekHigh": 330.25,
       "fiftyDayAverage": 94.62,
@@ -46320,7 +46320,7 @@
       "changeRate": -1.2,
       "previousClose": 14.21,
       "open": 14.11,
-      "dayLow": 13.97,
+      "dayLow": 13.96,
       "dayHigh": 14.22,
       "fiftyTwoWeekLow": 11.55,
       "fiftyTwoWeekHigh": 18.86,
@@ -48387,7 +48387,7 @@
         }
       ],
       "heldPercentInsiders": 0.32665002,
-      "heldPercentInstitutions": 0.02313
+      "heldPercentInstitutions": 0.02337
     },
     {
       "code": "INDES",
@@ -51033,7 +51033,7 @@
         }
       ],
       "heldPercentInsiders": 0.52505,
-      "heldPercentInstitutions": 0.102299996
+      "heldPercentInstitutions": 0.10226
     },
     {
       "code": "ISKPL",
@@ -51222,7 +51222,7 @@
         }
       ],
       "heldPercentInsiders": 0.69561,
-      "heldPercentInstitutions": 0.02685
+      "heldPercentInstitutions": 0.02691
     },
     {
       "code": "ISKUR",
@@ -52179,7 +52179,7 @@
       "changeRate": -0.9,
       "previousClose": 66.4,
       "open": 67.4,
-      "dayLow": 64.4,
+      "dayLow": 64.05,
       "dayHigh": 67.45,
       "fiftyTwoWeekLow": 33.7,
       "fiftyTwoWeekHigh": 93.3,
@@ -58971,7 +58971,7 @@
         }
       ],
       "heldPercentInsiders": 0.15353,
-      "heldPercentInstitutions": 0.04197
+      "heldPercentInstitutions": 0.046490002
     },
     {
       "code": "KRTEK",
@@ -59349,7 +59349,7 @@
         }
       ],
       "heldPercentInsiders": 0.60855997,
-      "heldPercentInstitutions": 0.02261
+      "heldPercentInstitutions": 0.02271
     },
     {
       "code": "KSTUR",
@@ -59739,7 +59739,7 @@
       "changeRate": -1.32,
       "previousClose": 71.9,
       "open": 72.65,
-      "dayLow": 70.35,
+      "dayLow": 69.45,
       "dayHigh": 72.7,
       "fiftyTwoWeekLow": 54.5,
       "fiftyTwoWeekHigh": 99.6,
@@ -60483,7 +60483,7 @@
         }
       ],
       "heldPercentInsiders": 0.19414,
-      "heldPercentInstitutions": 0.04346
+      "heldPercentInstitutions": 0.04341
     },
     {
       "code": "KZBGY",
@@ -62008,7 +62008,7 @@
       "previousClose": 26.12,
       "open": 26.1,
       "dayLow": 25.74,
-      "dayHigh": 27.02,
+      "dayHigh": 27.04,
       "fiftyTwoWeekLow": 23.25,
       "fiftyTwoWeekHigh": 48.1,
       "fiftyDayAverage": 36.95,
@@ -62385,7 +62385,7 @@
       "changeRate": -0.78,
       "previousClose": 15.37,
       "open": 15.37,
-      "dayLow": 15.18,
+      "dayLow": 15.17,
       "dayHigh": 15.47,
       "fiftyTwoWeekLow": 14.64,
       "fiftyTwoWeekHigh": 23.7,
@@ -63519,7 +63519,7 @@
       "changeRate": 2.04,
       "previousClose": 31.4,
       "open": 32.08,
-      "dayLow": 31.46,
+      "dayLow": 31.4,
       "dayHigh": 32.82,
       "fiftyTwoWeekLow": 25.52,
       "fiftyTwoWeekHigh": 47.2,
@@ -64275,7 +64275,7 @@
       "changeRate": -2.18,
       "previousClose": 19.25,
       "open": 19.25,
-      "dayLow": 18.34,
+      "dayLow": 18.3,
       "dayHigh": 19.48,
       "fiftyTwoWeekLow": 7.3,
       "fiftyTwoWeekHigh": 20.48,
@@ -66531,7 +66531,7 @@
         }
       ],
       "heldPercentInsiders": 0.89388,
-      "heldPercentInstitutions": 0.0018600001
+      "heldPercentInstitutions": 0.0019400001
     },
     {
       "code": "MPARK",
@@ -69568,9 +69568,9 @@
       "previousClose": 302.25,
       "open": 306.75,
       "dayLow": 297.25,
-      "dayHigh": 320.5,
+      "dayHigh": 320.75,
       "fiftyTwoWeekLow": 76.0,
-      "fiftyTwoWeekHigh": 320.5,
+      "fiftyTwoWeekHigh": 320.75,
       "fiftyDayAverage": 258.6,
       "twoHundredDayAverage": 147.68,
       "volume": "1,150,960",
@@ -74293,7 +74293,7 @@
       "previousClose": 11.61,
       "open": 11.7,
       "dayLow": 11.65,
-      "dayHigh": 12.16,
+      "dayHigh": 12.18,
       "fiftyTwoWeekLow": 7.52,
       "fiftyTwoWeekHigh": 14.31,
       "fiftyDayAverage": 11.34,
@@ -75048,7 +75048,7 @@
       "changeRate": 0.28,
       "previousClose": 21.16,
       "open": 21.2,
-      "dayLow": 20.74,
+      "dayLow": 20.72,
       "dayHigh": 21.66,
       "fiftyTwoWeekLow": 19.84,
       "fiftyTwoWeekHigh": 34.78,
@@ -77884,7 +77884,7 @@
       "previousClose": 149.7,
       "open": 149.7,
       "dayLow": 149.2,
-      "dayHigh": 151.4,
+      "dayHigh": 151.5,
       "fiftyTwoWeekLow": 93.75,
       "fiftyTwoWeekHigh": 168.7,
       "fiftyDayAverage": 145.83,
@@ -78829,9 +78829,9 @@
       "previousClose": 31.0,
       "open": 31.02,
       "dayLow": 30.6,
-      "dayHigh": 34.08,
+      "dayHigh": 34.1,
       "fiftyTwoWeekLow": 17.65,
-      "fiftyTwoWeekHigh": 34.08,
+      "fiftyTwoWeekHigh": 34.1,
       "fiftyDayAverage": 21.47,
       "twoHundredDayAverage": 21.38,
       "volume": "15,572,591",
@@ -79962,7 +79962,7 @@
       "changeRate": -1.12,
       "previousClose": 7.13,
       "open": 7.07,
-      "dayLow": 7.02,
+      "dayLow": 7.01,
       "dayHigh": 7.15,
       "fiftyTwoWeekLow": 4.9,
       "fiftyTwoWeekHigh": 22.48,
@@ -82987,7 +82987,7 @@
       "previousClose": 22.8,
       "open": 22.98,
       "dayLow": 22.6,
-      "dayHigh": 23.88,
+      "dayHigh": 24.0,
       "fiftyTwoWeekLow": 21.46,
       "fiftyTwoWeekHigh": 37.4,
       "fiftyDayAverage": 23.2,
@@ -84877,7 +84877,7 @@
       "previousClose": 40.58,
       "open": 40.0,
       "dayLow": 39.0,
-      "dayHigh": 40.94,
+      "dayHigh": 41.0,
       "fiftyTwoWeekLow": 26.9,
       "fiftyTwoWeekHigh": 61.45,
       "fiftyDayAverage": 43.73,
@@ -86578,7 +86578,7 @@
       "previousClose": 12.04,
       "open": 12.17,
       "dayLow": 12.09,
-      "dayHigh": 12.38,
+      "dayHigh": 12.39,
       "fiftyTwoWeekLow": 11.58,
       "fiftyTwoWeekHigh": 21.86,
       "fiftyDayAverage": 12.18,
@@ -89224,7 +89224,7 @@
       "previousClose": 7.23,
       "open": 7.23,
       "dayLow": 7.13,
-      "dayHigh": 7.38,
+      "dayHigh": 7.39,
       "fiftyTwoWeekLow": 6.89,
       "fiftyTwoWeekHigh": 50.95,
       "fiftyDayAverage": 7.64,
@@ -91680,7 +91680,7 @@
       "changeRate": -2.14,
       "previousClose": 16.33,
       "open": 16.53,
-      "dayLow": 15.81,
+      "dayLow": 15.8,
       "dayHigh": 16.55,
       "fiftyTwoWeekLow": 15.02,
       "fiftyTwoWeekHigh": 26.58,
@@ -91869,7 +91869,7 @@
       "changeRate": -0.99,
       "previousClose": 40.28,
       "open": 40.28,
-      "dayLow": 38.6,
+      "dayLow": 38.54,
       "dayHigh": 40.44,
       "fiftyTwoWeekLow": 28.52,
       "fiftyTwoWeekHigh": 64.05,
@@ -92625,7 +92625,7 @@
       "changeRate": -4.07,
       "previousClose": 32.94,
       "open": 32.94,
-      "dayLow": 30.88,
+      "dayLow": 30.84,
       "dayHigh": 33.0,
       "fiftyTwoWeekLow": 23.5,
       "fiftyTwoWeekHigh": 48.78,
@@ -93180,7 +93180,7 @@
         }
       ],
       "heldPercentInsiders": 0.71831,
-      "heldPercentInstitutions": 0.00016000001
+      "heldPercentInstitutions": 0.00014999999
     },
     {
       "code": "YATAS",
@@ -93936,7 +93936,7 @@
         }
       ],
       "heldPercentInsiders": 0.2,
-      "heldPercentInstitutions": 0.03597
+      "heldPercentInstitutions": 0.03593
     },
     {
       "code": "YGYO",
@@ -95327,7 +95327,7 @@
         }
       ],
       "heldPercentInsiders": 0.81058997,
-      "heldPercentInstitutions": 0.17135
+      "heldPercentInstitutions": 0.17134
     }
   ]
 }
