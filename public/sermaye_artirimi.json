@@ -18,15 +18,6 @@
     "description": "SPK Onayı Alındı"
   },
   {
-    "code": "GMTAS",
-    "company": "GMTAS Gimat Mağazacılık San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%101.07",
-    "date": "16.01.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 16.01.2026"
-  },
-  {
     "code": "QNBTR",
     "company": "QNBTR Qnb Bank A.Ş.",
     "type": "Bedelsiz",
@@ -52,6 +43,15 @@
     "date": "15.01.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 15.01.2026"
+  },
+  {
+    "code": "GMTAS",
+    "company": "GMTAS Gimat Mağazacılık San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%101.07",
+    "date": "16.01.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 16.01.2026"
   },
   {
     "code": "SMRVA",
@@ -243,15 +243,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "DITAS",
-    "company": "DITAS Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş.",
-    "type": "Bedelli",
-    "rate": "%100",
-    "date": "02.01.2026 Bitiş: 16.01.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 02.01.2026 Bitiş: 16.01.2026 | Tutar: 1 TL"
-  },
-  {
     "code": "FENER",
     "company": "FENER Fenerbahçe Fulbol A.Ş.",
     "type": "Bedelli",
@@ -268,6 +259,15 @@
     "date": "29.12.2025 Bitiş: 12.01.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 29.12.2025 Bitiş: 12.01.2026 | Tutar: 44.627.021 TL"
+  },
+  {
+    "code": "DITAS",
+    "company": "DITAS Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "02.01.2026 Bitiş: 16.01.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 02.01.2026 Bitiş: 16.01.2026 | Tutar: 1 TL"
   },
   {
     "code": "IDGYO",
