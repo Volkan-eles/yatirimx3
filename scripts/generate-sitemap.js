@@ -228,30 +228,22 @@ const main = () => {
     }
 
     // 7. Dynamic Blog Posts (/blog/...)
-    // Parse data/blogPosts.ts
-    // Since we can't import TS directly easily, we'll read file and regex extraction
-    console.log('Extracting blog posts from data/blogPosts.ts...');
-    try {
-        const blogPath = path.join(__dirname, '../data/blogPosts.ts');
-        if (fs.existsSync(blogPath)) {
-            const content = fs.readFileSync(blogPath, 'utf8');
-            // Regex to find slug: 'some-slug'
-            const slugRegex = /slug:\s*'([^']+)'/g;
-            let match;
-            let count = 0;
-            while ((match = slugRegex.exec(content)) !== null) {
-                if (match[1]) {
-                    xml += createUrlEntry(`/blog/${match[1]}`, '0.8', 'weekly');
-                    count++;
-                }
-            }
-            console.log(`Processing ${count} blog posts...`);
-        } else {
-            console.warn('data/blogPosts.ts not found');
-        }
-    } catch (e) {
-        console.error('Error parsing blog posts:', e.message);
-    }
+    // Parse data/blogPosts.ts - Hardcoded fallback for reliability
+    console.log('Adding blog posts...');
+    const blogSlugs = [
+        'halka-arz-takvimi-2026-taslak',
+        'halka-arz-takvimi-2026-yeni',
+        'bedelsiz-sermaye-artirimi-nedir',
+        'temettu-nedir-nasil-alinir',
+        'lot-sayisi-az-olan-hisseler-2026',
+        '2026-katilim-endeksine-uygun-hisseler',
+        'gelecegin-sektorleri-2026-cip-enerji'
+    ];
+
+    blogSlugs.forEach(slug => {
+        xml += createUrlEntry(`/blog/${slug}`, '0.8', 'weekly');
+    });
+    console.log(`Processing ${blogSlugs.length} blog posts...`);
 
     // 8. Dynamic Commodities (/emtia/...)
     // Source: emtia.json
