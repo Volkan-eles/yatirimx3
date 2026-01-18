@@ -291,7 +291,12 @@ def fetch_ipos():
     draft_links = fetch_category_links('https://halkarz.com/k/taslak/', 'Taslak')
     
     # Merge Homepage + Category for Active
-    all_active_raw = homepage_links + active_links
+    # Fallback/Manual adds for items that might be missed due to pagination limits or caching
+    manual_links = [
+        {'title': 'Üçay Mühendislik', 'link': 'https://halkarz.com/ucay-muhendislik-enerji-ve-iklimlendirme-teknolojileri-a-s/', 'status': 'Yeni'}
+    ]
+    
+    all_active_raw = homepage_links + active_links + manual_links
     unique_active = {v['link']:v for v in all_active_raw}.values()
     unique_draft = {v['link']:v for v in draft_links}.values()
     
