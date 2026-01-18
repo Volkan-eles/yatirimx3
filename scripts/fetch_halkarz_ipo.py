@@ -16,6 +16,32 @@ HEADERS = {
 def clean_text(text):
     return ' '.join(text.split())
 
+# Helper for robust fetching
+def fetch_with_retry(url, retries=3):
+    browsers = ["chrome120", "safari15_5", "firefox109"]
+    
+    for attempt in range(retries):
+        # Rotate browser based on attempt number
+        browser = browsers[attempt % len(browsers)]
+        try:
+            # print(f"  Attempt {attempt+1}/{retries} for {url} using {browser}...")
+            response = requests.get(url, headers=HEADERS, impersonate=browser, timeout=30)
+            
+            if response.status_code == 200:
+                return response
+            elif response.status_code == 404:
+                return response # Return 404 so caller knows it's missing/end
+            else:
+                pass # Try next
+                
+        except Exception as e:
+            pass
+            # print(f"    Error with {browser}: {e}")
+            
+        time.sleep(1 + attempt)  # Backoff
+        
+    return None
+
 def fetch_details_for_item(item):
     """
     Fetches details for a given item dict {title, link, status}.
@@ -24,20 +50,10 @@ def fetch_details_for_item(item):
     link = item['link']
     title = item['title']
     
-    retries = 3
-    for attempt in range(retries):
-        try:
-            response = requests.get(link, headers=HEADERS, impersonate="chrome120", timeout=30)
-            if response.status_code == 200:
-                break
-            time.sleep(1)
-        except Exception:
-            if attempt == retries - 1:
-                print(f"FAILED to fetch {title} after {retries} attempts.")
-                return None
-            time.sleep(1)
+    response = fetch_with_retry(link)
     
-    if response.status_code != 200:
+    if not response or response.status_code != 200:
+        print(f"FAILED to fetch details for {title} (Link: {link})")
         return None
 
     try:
@@ -175,9 +191,22 @@ def fetch_category_links(base_url, status_label):
     print(f"Starting scan for {status_label} at {base_url}...")
     
     while page <= max_pages:
-        url = f"{base_url}page/{page}/" if page > 1 else base_url
+        # url = f"{base_url}page/{page}/" if page > 1 else base_url
+        url = base_url if page == 1 else f"{base_url}page/{page}/"
+
         try:
-            response = requests.get(url, headers=HEADERS, impersonate="chrome120", timeout=20)
+            # Upsert wrapper
+            response = fetch_with_retry(url, retries=4)
+            
+            if not response:
+                print(f"Failed to fetch page {page} {url} after retries.")
+                # Don't break immediately, maybe just skip? But usually blocking is persistent.
+                # Let's try to continue to next page in case just this one failed?
+                # But typically 403 means IP/Session block.
+                # We'll break if it's consecutive failures, but for now just skip.
+                page += 1
+                continue
+
             if response.status_code == 404:
                 # End of pages
                 break
@@ -236,8 +265,8 @@ def fetch_ipos():
     homepage_links = []
     try:
         print(f"Scanning Homepage (https://halkarz.com/)...")
-        r_home = requests.get('https://halkarz.com/', headers=HEADERS, impersonate="chrome120", timeout=20)
-        if r_home.status_code == 200:
+        r_home = fetch_with_retry('https://halkarz.com/')
+        if r_home and r_home.status_code == 200:
             soup_home = BeautifulSoup(r_home.content, 'html.parser')
             # Homepage might have slider or different structure, but usually articles are there
             for article in soup_home.select('article, .post-item, .slider-caption'):
