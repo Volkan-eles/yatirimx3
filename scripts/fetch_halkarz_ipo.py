@@ -261,32 +261,9 @@ def fetch_ipos():
     # 1. Fetch All Links
     print("--- Phase 1: Gathering Links ---")
     
-    # scan for homepage items too, as some might be pinned there
-    homepage_links = []
-    try:
-        print(f"Scanning Homepage (https://halkarz.com/)...")
-        r_home = fetch_with_retry('https://halkarz.com/')
-        if r_home and r_home.status_code == 200:
-            soup_home = BeautifulSoup(r_home.content, 'html.parser')
-            # Homepage might have slider or different structure, but usually articles are there
-            for article in soup_home.select('article, .post-item, .slider-caption'):
-                a_tag = article.find('a')
-                if not a_tag: 
-                    # check parent if a_tag is not direct child (common in sliders)
-                    a_tag = article.find_parent('a')
-                
-                if not a_tag: continue
-                
-                link = a_tag.get('href', '')
-                title_tag = article.find(['h2', 'h3', 'h4', 'span'])
-                title = title_tag.get_text(strip=True) if title_tag else ''
-                
-                if link and 'halkarz.com' in link and 'Taslak' not in title and ('A.Ş.' in title or 'Holding' in title):
-                     homepage_links.append({'title': title, 'link': link, 'status': 'Yeni'})
-        print(f"  Homepage: Found {len(homepage_links)} potential items.")
-    except Exception as e:
-        print(f"  Homepage scan failed: {e}")
-
+    # We skip homepage scan to avoid duplicates and disorder. 
+    # Relying on /k/halka-arz/ gives a chronological list.
+    
     active_links = fetch_category_links('https://halkarz.com/k/halka-arz/', 'Yeni')
     draft_links = fetch_category_links('https://halkarz.com/k/taslak/', 'Taslak')
     
@@ -296,8 +273,19 @@ def fetch_ipos():
         {'title': 'Üçay Mühendislik', 'link': 'https://halkarz.com/ucay-muhendislik-enerji-ve-iklimlendirme-teknolojileri-a-s/', 'status': 'Yeni'}
     ]
     
-    all_active_raw = homepage_links + active_links + manual_links
-    unique_active = {v['link']:v for v in all_active_raw}.values()
+    # Prepend manual links to ensure they appear? Or append? 
+    # If we want "halkarz.com order", manual links are risky.
+    # But if it's missing, we must add it.
+    # Let's add it to the list, we can deduplicate by link.
+    
+    all_active_raw = active_links + manual_links
+    # Deduplicate preserving order
+    unique_active_dict = {}
+    for item in all_active_raw:
+        if item['link'] not in unique_active_dict:
+            unique_active_dict[item['link']] = item
+            
+    unique_active = list(unique_active_dict.values())
     unique_draft = {v['link']:v for v in draft_links}.values()
     
     print(f"Total Unique Active/Completed: {len(unique_active)}")
@@ -310,7 +298,6 @@ def fetch_ipos():
     all_draft_data = []
     
     # Use ThreadPoolExecutor
-    # Adjust max_workers based on performance/server tolerance. 
     max_workers = 5
     
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -352,18 +339,8 @@ def fetch_ipos():
                 print(f"  Draft Progress: {i + 1}/{len(unique_draft)}", end='\r')
         print(f"  Draft Progress: {len(unique_draft)}/{len(unique_draft)} Done.")
 
-    # Sort Active Data to prioritize New/Approved
-    print("\nSorting data by status priority...")
-    def sort_key(item):
-        status = item.get('status', '')
-        # Priority: Onaylı (0) > Talep Toplanıyor (1) > Others (2)
-        if status == 'Onaylı':
-            return 0
-        if status == 'Talep Toplanıyor':
-            return 1
-        return 2
-
-    all_active_data.sort(key=sort_key)
+    # 3. Save
+    # No sorting applied to active_data to preserve source order (chronological/page order)
 
     # 3. Save
     print("--- Phase 3: Saving Data ---")
