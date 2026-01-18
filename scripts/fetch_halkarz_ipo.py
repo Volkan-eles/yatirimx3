@@ -273,12 +273,10 @@ def fetch_ipos():
         {'title': 'Üçay Mühendislik', 'link': 'https://halkarz.com/ucay-muhendislik-enerji-ve-iklimlendirme-teknolojileri-a-s/', 'status': 'Yeni'}
     ]
     
-    # Prepend manual links to ensure they appear? Or append? 
-    # If we want "halkarz.com order", manual links are risky.
-    # But if it's missing, we must add it.
-    # Let's add it to the list, we can deduplicate by link.
+    # Prepend manual links to ensure they appear at the TOP (assuming they are new/active)
+    # This fixes the sorting issue where manual adds appeared at the bottom.
     
-    all_active_raw = active_links + manual_links
+    all_active_raw = manual_links + active_links
     # Deduplicate preserving order
     unique_active_dict = {}
     for item in all_active_raw:
