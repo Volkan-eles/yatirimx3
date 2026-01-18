@@ -144,7 +144,23 @@ def scrape_capital_increases():
                          display_date = ""
                          status = "Taslak"
 
-                    # If display_date is still empty, maybe fallback to text inside "Tarih" column
+                    # If display_date is in the past, mark as completed
+                    if display_date:
+                        try:
+                            from datetime import datetime
+                            # display_date format is DD.MM.YYYY
+                            d_date = datetime.strptime(display_date, '%d.%m.%Y')
+                            if datetime.now() > d_date:
+                                status = "Tamamlandı"
+                                if "GENIL" in code: print(f"DEBUG GENIL: Updated to Tamamlandı. Now: {datetime.now()} > {d_date}")
+                            else:
+                                if "GENIL" in code: print(f"DEBUG GENIL: Not updated. Now: {datetime.now()} <= {d_date}")
+                        except Exception as e:
+                            print(f"Date parse error: {e}")
+
+                    if not display_date and status == "Taslak": # Only set if still default
+                          display_date = ""
+                          status = "Taslak"
                     # But dates should be captured by regex.
 
                     # Populate Details

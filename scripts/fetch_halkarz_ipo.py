@@ -93,11 +93,64 @@ def fetch_details_for_item(item):
 
         # Refining Status Logic
         final_status = item['status']
-        if final_status == 'Yeni':
+        if final_status in ['Yeni', 'Talep Toplanıyor']:
             if 'Tarih Bekleniyor' in dates:
                 final_status = 'Onaylı' # Approved but dates pending
-            elif re.search(r'\d', dates):
-                final_status = 'Talep Toplanıyor' # Has numeric dates
+            
+            # Check if date is past
+            try:
+                import datetime
+                current_year = datetime.datetime.now().year
+                
+                # Extract days and month from date string like "7-8-9 Ocak 2026" or "5 Ocak 2026"
+                # Simple month mapping
+                tr_months = {
+                    'Ocak': 1, 'Şubat': 2, 'Mart': 3, 'Nisan': 4, 'Mayıs': 5, 'Haziran': 6,
+                    'Temmuz': 7, 'Ağustos': 8, 'Eylül': 9, 'Ekim': 10, 'Kasım': 11, 'Aralık': 12
+                }
+                
+                # Find month and its position
+                month_val = 0
+                month_name_found = ""
+                for m_name, m_val in tr_months.items():
+                    if m_name in dates:
+                        month_val = m_val
+                        month_name_found = m_name
+                        break
+                
+                # Find last day number in the text BEFORE the month name
+                if month_val > 0:
+                    # Split string by month name, take first part
+                    parts = dates.split(month_name_found)
+                    pre_month_text = parts[0]
+                    day_matches = re.findall(r'\d+', pre_month_text)
+                    
+                    if day_matches:
+                        # The last number before the month is likely the end day
+                        last_day = int(day_matches[-1])
+                        
+                        # Construct date object
+                        year_match = re.search(r'20\d{2}', dates)
+                        year_val = int(year_match.group(0)) if year_match else current_year
+
+                        ipo_end_date = datetime.datetime(year_val, month_val, last_day)
+                        
+                        # If today is after ipo_end_date, it's completed/trading
+                        # Add 1 day buffer
+                        if datetime.datetime.now() > ipo_end_date + datetime.timedelta(days=1): 
+                             final_status = 'İşlem Görüyor'
+                             if 'MEYSU' in title:
+                                print(f"DEBUG MEYSU: now={datetime.datetime.now()}, end={ipo_end_date}, status=CHANGED")
+                        elif 'MEYSU' in title:
+                                print(f"DEBUG MEYSU: now={datetime.datetime.now()}, end={ipo_end_date}, status=KEPT {final_status}")
+                        elif re.search(r'\d', dates):
+                             final_status = 'Talep Toplanıyor'
+
+            except Exception as e:
+                # Fallback if date parsing fails
+                print(f"Date parsing error for {dates}: {e}")
+                if re.search(r'\d', dates):
+                    final_status = 'Talep Toplanıyor'
 
         return {
             'company': title,
