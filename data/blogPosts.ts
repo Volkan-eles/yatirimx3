@@ -138,11 +138,15 @@ export const BLOG_POSTS = [
       '2026 temettü verecek hisseler',
       '2026 temettü takvimi',
       'temettü veren hisseler 2026',
-      'Borsa İstanbul temettü listesi',
-      'en yüksek temettü veren hisseler 2026',
-      'BIST temettü hisseleri',
-      'hisse başı temettü',
-      'nakit temettü 2026'
+      'tüpraş temettü 2026',
+      'doas temettü 2026',
+      'ereğli temettü 2026',
+      'thy temettü 2026',
+      'ford temettü 2026',
+      'sasa temettü 2026',
+      'vesbe temettü 2026',
+      'temettü verimi en yüksek hisseler 2026',
+      'temettü emekliliği'
     ],
     category: 'Temettü',
     author: 'Volkan Eles',
@@ -273,11 +277,13 @@ export const BLOG_POSTS = [
     ],
     seoKeywords: [
       'lot sayısı az olan hisseler 2026',
-      'küçük sermayeli hisseler',
-      'dolaşımdaki lot sayısı en az olan hisseler',
-      'az lotlu hisseler',
-      'borsa istanbul küçük sermayeli şirketler',
-      'ödenmiş sermayesi düşük hisseler'
+      'dolaşımdaki lot sayısı az olan hisseler',
+      'en az lotu olan hisseler',
+      '1 milyondan az lotu olan hisseler',
+      'sığ hisseler',
+      'lotu az hisseler',
+      'sermayesi az hisseler',
+      'borsa istanbul lot sayısı az olan hisseler'
     ],
     category: 'Hisse Analiz',
     author: 'Volkan Eles',
@@ -348,4 +354,122 @@ export const BLOG_POSTS = [
     image: 'https://images.unsplash.com/photo-1611974765270-ca12586343bb?q=80&w=2070&auto=format&fit=crop',
     readTime: '5 dk'
   }
+  },
+{
+  id: 6,
+    slug: '2026-katilim-endeksine-uygun-hisseler',
+      title: '2026 Katılım Endeksine Uygun Hisseler (Helal/Caiz Hisseler Listesi)',
+        excerpt: '2026 yılında İslami finans ilkelerine uygun olarak Borsa İstanbul Katılım Endeksi’nde yer alan hisseler, helal yatırım kriterleri ve arındırma oranları.',
+          content: `
+      <p>Borsa İstanbul'da İslami hassasiyetlere sahip yatırımcıların en çok merak ettiği konuların başında <strong>Katılım Endeksi</strong> gelmektedir. "Helal hisse" veya "caiz hisse" olarak da aranan bu hisseler, belirli finansal kriterleri sağlayan ve ana faaliyet alanı İslami kurallara aykırı olmayan şirketlerden oluşur.</p>
+
+      <h2>Katılım Endeksi Kriterleri Nelerdir? (2026)</h2>
+      <p>Bir şirketin katılım endeksine dahil olabilmesi için aşağıdaki şartları sağlaması gerekir:</p>
+      <ul>
+        <li><strong>Faaliyet Alanı:</strong> Alkol, kumar, domuz ürünleri, faizli bankacılık gibi alanlarda faaliyet göstermemelidir.</li>
+        <li><strong>Finansal Oranlar:</strong>
+          <ul class="list-disc pl-6 mt-2">
+            <li>Toplam faizli kredilerin piyasa değerine oranı %33'ü geçmemelidir.</li>
+            <li>Faiz getirili nakit ve menkul kıymetlerin piyasa değerine oranı %33'ü geçmemelidir.</li>
+            <li>Uygun olmayan faaliyetlerden elde edilen gelir, toplam gelirin %5'ini aşmamalıdır.</li>
+          </ul>
+        </li>
+      </ul>
+
+      <h2>2026 Katılım Endeksine Uygun Popüler Hisseler</h2>
+      <p>Yatırımcıların en çok takip ettiği ve genellikle katılım kriterlerini sağlayan bazı büyük şirketler şunlardır (Lütfen güncel KAP listesini kontrol ediniz):</p>
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
+        <div class="bg-zinc-800 p-4 rounded-lg border border-zinc-700">
+          <h3 class="text-emerald-400 font-bold mb-2">Sanayi & Enerji</h3>
+          <ul class="text-sm text-zinc-300 space-y-1">
+            <li>• Çimsa (CIMSA)</li>
+            <li>• Astor Enerji (ASTOR)</li>
+            <li>• Yeo Teknoloji (YEOTK)</li>
+            <li>• Gesan (GESAN)</li>
+            <li>• Girişim Elektrik (EUPWR)</li>
+             <li>• BİM Mağazalar (BIMAS)</li>
+          </ul>
+        </div>
+        <div class="bg-zinc-800 p-4 rounded-lg border border-zinc-700">
+          <h3 class="text-blue-400 font-bold mb-2">Teknoloji & Yazılım</h3>
+          <ul class="text-sm text-zinc-300 space-y-1">
+            <li>• Mia Teknoloji (MIATK)</li>
+            <li>• Fonet Bilgi Teknolojileri (FONET)</li>
+            <li>• SDT Uzay ve Savunma (SDTTR)</li>
+            <li>• Aselsan (ASELS)</li>
+            <li>• Reeder Teknoloji (REEDR)</li>
+          </ul>
+        </div>
+      </div>
+
+      <h2>Sıkça Sorulan Sorular</h2>
+      <h3>Sasa Katılım Endeksine Uygun mu?</h3>
+      <p>Sasa Polyester, dönem dönem finansal borçluluk oranlarına bağlı olarak endekse girip çıkabilmektedir. Güncel durumu KAP üzerinden "Katılım Tüm Endeksi" listesinden kontrol edilmelidir.</p>
+
+      <h3>Tüpraş Katılım Endeksine Uygun mu?</h3>
+      <p>Tüpraş genellikle ticari faaliyetleri uygun olsa da, finansal oranları (kredi/piyasa değeri) nedeniyle bazen endeks dışı kalabilmektedir.</p>
+
+      <h3>Hisselerin Helal Olduğu Nasıl Anlaşılır?</h3>
+      <p>En güvenilir kaynak, Borsa İstanbul tarafından 3 ayda bir güncellenen resmi "Katılım Endeksi" listesidir. Aracı kurumunuzun uygulamasında hisse detayında "Katılım Endeksi: Evet/Hayır" ibaresi yer alır.</p>
+    `,
+            category: 'Katılım Endeksi',
+              author: 'Volkan Eles',
+                date: '15 Ocak 2026',
+                  image: 'https://images.unsplash.com/photo-1596464716127-f2a82984de30?q=80&w=2070&auto=format&fit=crop',
+                    readTime: '7 dk',
+                      seoKeywords: [
+                        'katılım endeksine uygun hisseler 2026',
+                        'helal hisseler 2026',
+                        'caiz hisseler 2026',
+                        'hangi hisseler katılım endeksine uygun',
+                        'sasa katılım endeksine uygun mu',
+                        'bim katılım endeksine uygun mu',
+                        'katılım endeksi hisseleri'
+                      ]
+},
+{
+  id: 7,
+    slug: 'gelecegin-sektorleri-2026-cip-enerji',
+      title: 'Geleceğin Sektörleri 2026: Borsada Çip ve Enerji Üreten Firmalar',
+        excerpt: 'Borsa İstanbul’da teknoloji devrimi: Çip (yarı iletken) üreten firmalar, batarya teknolojileri ve yenilenebilir enerji sektörünün 2026 beklentileri.',
+          content: `
+      <p>Teknolojinin hızla gelişmesiyle birlikte Borsa İstanbul’da klasik sanayi şirketlerinin yerini yavaş yavaş yüksek teknoloji, enerji depolama ve yarı iletken (çip) şirketleri almaya başladı. 2026 yılı, bu sektörler için kritik bir büyüme yılı olabilir.</p>
+
+      <h2>Borsada Çip Üreten ve Tasarlayan Firmalar</h2>
+      <p>Türkiye'de doğrudan "mikroçip fabrikası" (foundry) sayısı az olsa da, çip tasarımı, yarı iletken paketleme ve ilgili teknolojileri üreten şirketler mevcuttur. Yatırımcıların "çip hisseleri" olarak takip ettiği başlıca şirketler:</p>
+      
+      <ul class="list-disc pl-6 space-y-2 mb-6">
+        <li><strong>Aselsan (ASELS):</strong> Türkiye'nin ilk çip üretim tesisine sahip olan şirket, savunma sanayii odaklı galyum nitrat çipleri üretmektedir.</li>
+        <li><strong>Reeder Teknoloji (REEDR):</strong> Tüketici elektroniği alanında büyüyen şirket, kendi teknolojilerini geliştirme yolunda adımlar atmaktadır.</li>
+        <li><strong>Karel Elektronik (KAREL):</strong> Elektronik devre kartı üretimi ve Ar-Ge yetenekleri ile sektörün önemli oyuncusudur.</li>
+        <li><strong>Agrotech (AGROT):</strong> Teknoloji yatırımları ile dikkat çekmektedir.</li>
+      </ul>
+
+      <h2>Batarya ve Enerji Depolama Hisseleri</h2>
+      <p>Elektrikli araçların (EV) yaygınlaşmasıyla batarya teknolojileri stratejik öneme sahip olmuştur.</p>
+      <ul class="list-disc pl-6 space-y-2 mb-6">
+        <li><strong>Kontrolmatik (KONTR):</strong> Pomega Enerji Depolama fabrikası ile Türkiye'nin en büyük lityum-iyon pil üreticilerinden biridir.</li>
+        <li><strong>Aspilsan (Halka açık değil):</strong> Ancak Aselsan ve TSKGV iştiraki olarak sektörün öncüsüdür.</li>
+        <li><strong>Ford Otosan (FROTO) & Tofaş (TOASO):</strong> Kendi batarya montaj ve üretim tesislerini kurmaktadırlar.</li>
+      </ul>
+
+      <h2>Uyarı</h2>
+      <p>Bu sektörler yüksek büyüme potansiyeli taşısa da, teknolojik değişim hızı yüksek olduğu için riskleri de yüksektir. Yatırım yaparken şirketin Ar-Ge harcamaları ve patent portföyü incelenmelidir.</p>
+    `,
+            category: 'Sektör Analizi',
+              author: 'Volkan Eles',
+                date: '18 Ocak 2026',
+                  image: 'https://images.unsplash.com/photo-1555664424-778a69022365?q=80&w=2070&auto=format&fit=crop',
+                    readTime: '6 dk',
+                      seoKeywords: [
+                        'borsada çip üreten firmalar',
+                        'batarya üreten hisseler',
+                        'teknoloji hisseleri 2026',
+                        'yenilenebilir enerji hisseleri',
+                        'aselsan çip üretimi',
+                        'kontrolmatik batarya',
+                        'geleceğin hisseleri 2026'
+                      ]
+}
 ];
