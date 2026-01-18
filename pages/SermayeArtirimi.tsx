@@ -70,7 +70,7 @@ const SermayeArtirimi: React.FC = () => {
         title="2026 Bedelsiz Sermaye Artırımları ve Bölünecek Hisseler | YatirimX"
         description="2026 bedelsiz verecek hisseler, bedelsiz potansiyeli olan hisseler ve tarihleri. BIST şirketlerinin sermaye artırımı duyuruları ve detaylı analizler."
         canonicalUrl="https://yatirimx.com/sermaye-artirimi/"
-        keywords="2026 bedelsiz verecek hisseler, 2026 bölünecek hisseler, bedelsiz potansiyeli olan hisseler, sermaye artırımı, bedelsiz hisse, bedelli hisse, tahsisli artırım"
+        keywords="2026 bedelsiz verecek hisseler, 2026 bölünecek hisseler, bedelsiz potansiyeli olan hisseler 2026, sasa bedelsiz 2026, tüpraş bedelsiz 2026, doas bedelsiz 2026, thy bedelsiz 2026, astor bedelsiz 2026, sasa ne zaman bölünecek, tüpraş ne zaman bölünecek, froto bedelsiz ne zaman, egeen bedelsiz, konya bedelsiz, bfren bedelsiz, sermaye artırımı takvimi 2026"
       />
 
       {/* Header */}
