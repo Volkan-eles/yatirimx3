@@ -353,14 +353,13 @@ export const BLOG_POSTS = [
     date: '3 Ocak 2026',
     image: 'https://images.unsplash.com/photo-1611974765270-ca12586343bb?q=80&w=2070&auto=format&fit=crop',
     readTime: '5 dk'
-  }
   },
-{
-  id: 6,
+  {
+    id: 6,
     slug: '2026-katilim-endeksine-uygun-hisseler',
-      title: '2026 Katılım Endeksine Uygun Hisseler (Helal/Caiz Hisseler Listesi)',
-        excerpt: '2026 yılında İslami finans ilkelerine uygun olarak Borsa İstanbul Katılım Endeksi’nde yer alan hisseler, helal yatırım kriterleri ve arındırma oranları.',
-          content: `
+    title: '2026 Katılım Endeksine Uygun Hisseler (Helal/Caiz Hisseler Listesi)',
+    excerpt: '2026 yılında İslami finans ilkelerine uygun olarak Borsa İstanbul Katılım Endeksi’nde yer alan hisseler, helal yatırım kriterleri ve arındırma oranları.',
+    content: `
       <p>Borsa İstanbul'da İslami hassasiyetlere sahip yatırımcıların en çok merak ettiği konuların başında <strong>Katılım Endeksi</strong> gelmektedir. "Helal hisse" veya "caiz hisse" olarak da aranan bu hisseler, belirli finansal kriterleri sağlayan ve ana faaliyet alanı İslami kurallara aykırı olmayan şirketlerden oluşur.</p>
 
       <h2>Katılım Endeksi Kriterleri Nelerdir? (2026)</h2>
@@ -413,27 +412,27 @@ export const BLOG_POSTS = [
       <h3>Hisselerin Helal Olduğu Nasıl Anlaşılır?</h3>
       <p>En güvenilir kaynak, Borsa İstanbul tarafından 3 ayda bir güncellenen resmi "Katılım Endeksi" listesidir. Aracı kurumunuzun uygulamasında hisse detayında "Katılım Endeksi: Evet/Hayır" ibaresi yer alır.</p>
     `,
-            category: 'Katılım Endeksi',
-              author: 'Volkan Eles',
-                date: '15 Ocak 2026',
-                  image: 'https://images.unsplash.com/photo-1596464716127-f2a82984de30?q=80&w=2070&auto=format&fit=crop',
-                    readTime: '7 dk',
-                      seoKeywords: [
-                        'katılım endeksine uygun hisseler 2026',
-                        'helal hisseler 2026',
-                        'caiz hisseler 2026',
-                        'hangi hisseler katılım endeksine uygun',
-                        'sasa katılım endeksine uygun mu',
-                        'bim katılım endeksine uygun mu',
-                        'katılım endeksi hisseleri'
-                      ]
-},
-{
-  id: 7,
+    category: 'Katılım Endeksi',
+    author: 'Volkan Eles',
+    date: '15 Ocak 2026',
+    image: 'https://images.unsplash.com/photo-1596464716127-f2a82984de30?q=80&w=2070&auto=format&fit=crop',
+    readTime: '7 dk',
+    seoKeywords: [
+      'katılım endeksine uygun hisseler 2026',
+      'helal hisseler 2026',
+      'caiz hisseler 2026',
+      'hangi hisseler katılım endeksine uygun',
+      'sasa katılım endeksine uygun mu',
+      'bim katılım endeksine uygun mu',
+      'katılım endeksi hisseleri'
+    ]
+  },
+  {
+    id: 7,
     slug: 'gelecegin-sektorleri-2026-cip-enerji',
-      title: 'Geleceğin Sektörleri 2026: Borsada Çip ve Enerji Üreten Firmalar',
-        excerpt: 'Borsa İstanbul’da teknoloji devrimi: Çip (yarı iletken) üreten firmalar, batarya teknolojileri ve yenilenebilir enerji sektörünün 2026 beklentileri.',
-          content: `
+    title: 'Geleceğin Sektörleri 2026: Borsada Çip ve Enerji Üreten Firmalar',
+    excerpt: 'Borsa İstanbul’da teknoloji devrimi: Çip (yarı iletken) üreten firmalar, batarya teknolojileri ve yenilenebilir enerji sektörünün 2026 beklentileri.',
+    content: `
       <p>Teknolojinin hızla gelişmesiyle birlikte Borsa İstanbul’da klasik sanayi şirketlerinin yerini yavaş yavaş yüksek teknoloji, enerji depolama ve yarı iletken (çip) şirketleri almaya başladı. 2026 yılı, bu sektörler için kritik bir büyüme yılı olabilir.</p>
 
       <h2>Borsada Çip Üreten ve Tasarlayan Firmalar</h2>
@@ -457,19 +456,19 @@ export const BLOG_POSTS = [
       <h2>Uyarı</h2>
       <p>Bu sektörler yüksek büyüme potansiyeli taşısa da, teknolojik değişim hızı yüksek olduğu için riskleri de yüksektir. Yatırım yaparken şirketin Ar-Ge harcamaları ve patent portföyü incelenmelidir.</p>
     `,
-            category: 'Sektör Analizi',
-              author: 'Volkan Eles',
-                date: '18 Ocak 2026',
-                  image: 'https://images.unsplash.com/photo-1555664424-778a69022365?q=80&w=2070&auto=format&fit=crop',
-                    readTime: '6 dk',
-                      seoKeywords: [
-                        'borsada çip üreten firmalar',
-                        'batarya üreten hisseler',
-                        'teknoloji hisseleri 2026',
-                        'yenilenebilir enerji hisseleri',
-                        'aselsan çip üretimi',
-                        'kontrolmatik batarya',
-                        'geleceğin hisseleri 2026'
-                      ]
-}
+    category: 'Sektör Analizi',
+    author: 'Volkan Eles',
+    date: '18 Ocak 2026',
+    image: 'https://images.unsplash.com/photo-1555664424-778a69022365?q=80&w=2070&auto=format&fit=crop',
+    readTime: '6 dk',
+    seoKeywords: [
+      'borsada çip üreten firmalar',
+      'batarya üreten hisseler',
+      'teknoloji hisseleri 2026',
+      'yenilenebilir enerji hisseleri',
+      'aselsan çip üretimi',
+      'kontrolmatik batarya',
+      'geleceğin hisseleri 2026'
+    ]
+  }
 ];
