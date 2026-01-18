@@ -3,9 +3,13 @@ name: Daily Content Update
 on:
   schedule:
     # 06:00 UTC = 09:00 TRT (Türkiye Saati)
-    - cron: '0 6 * * *'
-  
-  workflow_dispatch:  # Manuel çalıştırma için
+    - cron: "0 6 * * *"
+
+  push:
+    branches:
+      - main
+
+  workflow_dispatch: # Manuel çalıştırma için
 
 permissions:
   contents: write
@@ -13,34 +17,34 @@ permissions:
 jobs:
   update-daily-content:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      
+          python-version: "3.11"
+
       - name: Install dependencies
         run: |
           pip install yfinance beautifulsoup4 requests lxml curl_cffi
-      
+
       - name: Run Scrapers
         run: |
           echo "Fetching IPO Data..."
           python scripts/fetch_halkarz_ipo.py
-          
+
           echo "Fetching Capital Increases..."
           python scrape_capital.py
-          
+
           echo "Fetching Dividends..."
           python scrape_dividends.py
-          
+
           echo "Fetching Target Prices..."
           python scrape_halkarz_target.py
-      
+
       - name: Commit and push changes
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
