@@ -227,7 +227,7 @@ const HedefFiyat: React.FC = () => {
                 title="Boğa Sezonu Hedef Fiyatlar 2026 - 2030 | YatirimX"
                 description="SASA, THYAO gibi hisselerin 2026, 2028 ve 2030 hedef fiyat tahminleri. BIST hisse senetleri için güncel hedef fiyat tahminleri ve aracı kurum raporları."
                 canonicalUrl="https://yatirimx.com/hedef-fiyat/"
-                keywords="hedef fiyatlar, sasa 2030 hedef fiyat, sasa 2028 hedef fiyat, adel hisse hedef fiyat 2026, brsan hisse hedef fiyat 2026, sasa hedef fiyat 2023, hisse hedef fiyat 2026"
+                keywords="hedef fiyatlar, hisse hedef fiyat 2026, sasa 2030 hedef fiyat, sasa 2026 hedef fiyat, tüpraş 2030 hedef fiyat, thy 2030 hedef fiyat, aselsan 2030 hedef fiyat, miatk hedef fiyat 2026, astor hedef fiyat 2026, kontrolmatik hedef fiyat 2026, ereğli hedef fiyat 2026, doas hedef fiyat 2026, froto hedef fiyat 2026, reeder hedef fiyat 2026, gesan hedef fiyat 2026, yeotk hedef fiyat 2026, hektaş 2030 hedef fiyat, isctr hedef fiyat 2030, aksa hedef fiyat 2026, brsan hedef fiyat 2026, sdttr hedef fiyat 2026, europower hedef fiyat 2026, alfas hedef fiyat 2026, cante hedef fiyat 2026, zoren hedef fiyat 2030, oyakc hedef fiyat 2026, sasa uzun vadede ne olur, thy uzun vadede ne olur, tüpraş uzun vadede ne olur, borsa hedef fiyatlar"
                 schema={faqSchema}
             />
 
