@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-01-19T16:40:46.678407",
+  "last_update": "2026-01-19T17:30:05.993687",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 505,
-  "successful": 505,
-  "failed": 26,
+  "total_stocks": 504,
+  "successful": 504,
+  "failed": 27,
   "stocks": [
     {
       "code": "GARAN",
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 40.5279,
-      "targetLowPrice": 29.411924,
-      "targetMeanPrice": 34.897682,
-      "targetMedianPrice": 35.186176,
+      "targetHighPrice": 40.520752,
+      "targetLowPrice": 29.406736,
+      "targetMeanPrice": 34.891525,
+      "targetMedianPrice": 35.17997,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 6,
@@ -5542,10 +5542,10 @@
       "dividendYield": null,
       "exDividendDate": 1585094400,
       "payoutRatio": 0.0,
-      "targetHighPrice": 555.02826,
-      "targetLowPrice": 341.48218,
-      "targetMeanPrice": 436.63663,
-      "targetMedianPrice": 431.85382,
+      "targetHighPrice": 554.95996,
+      "targetLowPrice": 341.44016,
+      "targetMeanPrice": 436.5829,
+      "targetMedianPrice": 431.80066,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -45610,10 +45610,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.15929,
-      "targetLowPrice": 60.421257,
-      "targetMeanPrice": 68.79027,
-      "targetMedianPrice": 68.79027,
+      "targetHighPrice": 77.14944,
+      "targetLowPrice": 60.413544,
+      "targetMeanPrice": 68.781494,
+      "targetMedianPrice": 68.781494,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 2,
@@ -68422,195 +68422,6 @@
       ],
       "heldPercentInsiders": 0.6,
       "heldPercentInstitutions": 0.05345
-    },
-    {
-      "code": "NTHOL",
-      "symbol": "NTHOL.IS",
-      "name": "Net Holding A.S.",
-      "shortName": "NET HOLDING",
-      "price": 46.54,
-      "change": -0.28,
-      "changeRate": -0.6,
-      "previousClose": 46.82,
-      "open": 46.82,
-      "dayLow": 46.3,
-      "dayHigh": 47.2,
-      "fiftyTwoWeekLow": 34.18,
-      "fiftyTwoWeekHigh": 53.95,
-      "fiftyDayAverage": 48.2,
-      "twoHundredDayAverage": 45.53,
-      "volume": "1,768,194",
-      "averageVolume": 1696125,
-      "averageVolume10days": 1439931,
-      "marketCap": 21741993984,
-      "enterpriseValue": 32837013504,
-      "sharesOutstanding": 467167919,
-      "sector": "Consumer Cyclical",
-      "industry": "Travel Services",
-      "website": "https://www.netholding.com",
-      "address": "Etiler MAH. BADE SOK.",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 358 04 44",
-      "description": "Net Holding A.S. engages in tourism, publication, holding and other activities in Turkey, Croatia, Bulgaria, Montenegro, and the Turkish Republic of Northern Cyprus. It is involved in hotel and accommodation, gaming and lottery management, touristic shopping, and car rental; casino gaming hall management; real estate development; and tourist, and book publishing businesses. The company was founded in 1974 and is based in Istanbul, Turkey.",
-      "pe": 10.073593,
-      "forwardPE": null,
-      "priceToBook": 0.34735233,
-      "pegRatio": null,
-      "priceToSales": 1.05274,
-      "enterpriseToRevenue": 1.59,
-      "enterpriseToEbitda": 5.035,
-      "profitMargins": 0.11481,
-      "grossMargins": 0.33875,
-      "operatingMargins": 0.2568,
-      "returnOnAssets": 0.02163,
-      "returnOnEquity": 0.04336,
-      "totalRevenue": 20652767232,
-      "revenuePerShare": 40.704,
-      "totalCash": 3492617984,
-      "totalDebt": 8622826496,
-      "debtToEquity": 12.096,
-      "currentRatio": 0.619,
-      "quickRatio": 0.484,
-      "eps": 4.62,
-      "forwardEps": null,
-      "bookValue": 133.985,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1371686400,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.094,
-      "historicalData": [
-        {
-          "Close": 47.79999923706055,
-          "Volume": 2155429
-        },
-        {
-          "Close": 48.29999923706055,
-          "Volume": 1133350
-        },
-        {
-          "Close": 47.779998779296875,
-          "Volume": 581376
-        },
-        {
-          "Close": 47.58000183105469,
-          "Volume": 456849
-        },
-        {
-          "Close": 47.5,
-          "Volume": 1420494
-        },
-        {
-          "Close": 47.47999954223633,
-          "Volume": 1155657
-        },
-        {
-          "Close": 47.13999938964844,
-          "Volume": 683112
-        },
-        {
-          "Close": 47.5,
-          "Volume": 1090105
-        },
-        {
-          "Close": 47.15999984741211,
-          "Volume": 2300906
-        },
-        {
-          "Close": 47.18000030517578,
-          "Volume": 2050751
-        },
-        {
-          "Close": 49.0,
-          "Volume": 2466509
-        },
-        {
-          "Close": 49.099998474121094,
-          "Volume": 1279232
-        },
-        {
-          "Close": 49.18000030517578,
-          "Volume": 1705021
-        },
-        {
-          "Close": 48.65999984741211,
-          "Volume": 770890
-        },
-        {
-          "Close": 47.959999084472656,
-          "Volume": 2157970
-        },
-        {
-          "Close": 47.20000076293945,
-          "Volume": 1569318
-        },
-        {
-          "Close": 47.599998474121094,
-          "Volume": 1143183
-        },
-        {
-          "Close": 48.459999084472656,
-          "Volume": 1033691
-        },
-        {
-          "Close": 49.099998474121094,
-          "Volume": 1738829
-        },
-        {
-          "Close": 48.29999923706055,
-          "Volume": 965947
-        },
-        {
-          "Close": 48.560001373291016,
-          "Volume": 2482659
-        },
-        {
-          "Close": 47.41999816894531,
-          "Volume": 1336652
-        },
-        {
-          "Close": 47.380001068115234,
-          "Volume": 2020080
-        },
-        {
-          "Close": 46.619998931884766,
-          "Volume": 1497299
-        },
-        {
-          "Close": 46.70000076293945,
-          "Volume": 1082224
-        },
-        {
-          "Close": 46.099998474121094,
-          "Volume": 2063245
-        },
-        {
-          "Close": 45.880001068115234,
-          "Volume": 1119891
-        },
-        {
-          "Close": 46.720001220703125,
-          "Volume": 664012
-        },
-        {
-          "Close": 46.81999969482422,
-          "Volume": 1167307
-        },
-        {
-          "Close": 46.540000915527344,
-          "Volume": 1768194
-        }
-      ],
-      "heldPercentInsiders": 0.68758005,
-      "heldPercentInstitutions": 0.02112
     },
     {
       "code": "NUGYO",
