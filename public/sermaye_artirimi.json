@@ -1,14 +1,5 @@
 [
   {
-    "code": "ALVES",
-    "company": "ALVES Alves Kablo San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%900",
-    "date": "20.01.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 20.01.2026"
-  },
-  {
     "code": "SODSN",
     "company": "SODSN Sodaş Sodyum Sanayi A.Ş.",
     "type": "Bedelsiz",
@@ -25,6 +16,15 @@
     "date": "08.01.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "ALVES",
+    "company": "ALVES Alves Kablo San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%900",
+    "date": "20.01.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 20.01.2026"
   },
   {
     "code": "SMRVA",
@@ -354,7 +354,7 @@
     "code": "USAK",
     "company": "USAK Uşak Seramik Sanayii A.Ş.",
     "type": "Bedelli",
-    "rate": "%200",
+    "rate": "%100",
     "date": "23.09.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
@@ -374,15 +374,6 @@
     "type": "Bedelli",
     "rate": "%42.85",
     "date": "21.08.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "KTLEV",
-    "company": "KTLEV Katılımevim Tasarruf Finansman A.Ş.",
-    "type": "Bedelli",
-    "rate": "%262",
-    "date": "30.09.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
