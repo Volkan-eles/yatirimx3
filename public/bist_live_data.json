@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-21T05:36:10.799529",
+  "last_update": "2026-01-21T06:46:45.767660",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 505,
   "successful": 505,
@@ -58,7 +58,7 @@
       "forwardEps": 33.84,
       "bookValue": 97.673,
       "dividendRate": 4.39,
-      "dividendYield": 2.96,
+      "dividendYield": 2.99,
       "exDividendDate": 1743120000,
       "payoutRatio": 0.1701,
       "targetHighPrice": 207.14,
@@ -1948,7 +1948,7 @@
       "forwardEps": 6.16,
       "bookValue": 39.956,
       "dividendRate": 0.25,
-      "dividendYield": 0.94,
+      "dividendYield": 0.97,
       "exDividendDate": 1751414400,
       "payoutRatio": 0.3379,
       "targetHighPrice": 36.5,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 40.557484,
-      "targetLowPrice": 29.433393,
-      "targetMeanPrice": 34.923153,
-      "targetMedianPrice": 35.21186,
+      "targetHighPrice": 40.559074,
+      "targetLowPrice": 29.434547,
+      "targetMeanPrice": 34.924522,
+      "targetMedianPrice": 35.21324,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 6,
@@ -2492,7 +2492,7 @@
       "country": "Turkey",
       "phone": "90 216 564 03 03",
       "description": "BIM Birlesik Magazalar A.S., together with its subsidiaries, operates retail stores in Turkey, Morocco, and Egypt. The company's stores sell meat, breakfast and dairy, legumes and bakery, and cosmetics and paper products, as well as beverages, snacks and sweets, fruits and vegetables, frozen foods, oils, and cleaning supplies. The company was incorporated in 1995 and is headquartered in Istanbul, Turkey.",
-      "pe": 32.423923,
+      "pe": 32.475037,
       "forwardPE": 11.62091,
       "priceToBook": 2.4305542,
       "pegRatio": null,
@@ -2511,11 +2511,11 @@
       "debtToEquity": 31.82,
       "currentRatio": 1.007,
       "quickRatio": 0.49,
-      "eps": 19.06,
+      "eps": 19.03,
       "forwardEps": 53.18,
       "bookValue": 254.263,
       "dividendRate": 17.0,
-      "dividendYield": 2.74,
+      "dividendYield": 2.75,
       "exDividendDate": 1765929600,
       "payoutRatio": 0.6303,
       "targetHighPrice": 929.0,
@@ -4179,7 +4179,7 @@
       "fiftyTwoWeekHigh": 197.6,
       "fiftyDayAverage": 174.39,
       "twoHundredDayAverage": 165.17,
-      "volume": "34,598,936",
+      "volume": "34,478,936",
       "averageVolume": 31563579,
       "averageVolume10days": 38981302,
       "marketCap": 489256452096,
@@ -4216,7 +4216,7 @@
       "forwardEps": 29.89,
       "bookValue": 254.235,
       "dividendRate": 6.88,
-      "dividendYield": 3.53,
+      "dividendYield": 3.56,
       "exDividendDate": 1744243200,
       "payoutRatio": 2.7465,
       "targetHighPrice": 333.0,
@@ -4346,7 +4346,7 @@
         },
         {
           "Close": 193.0,
-          "Volume": 34598936
+          "Volume": 34478936
         }
       ],
       "heldPercentInsiders": 0.57186,
@@ -4594,7 +4594,7 @@
       "forwardEps": 183.63,
       "bookValue": 45.246,
       "dividendRate": 7.76,
-      "dividendYield": 7.48,
+      "dividendYield": 7.53,
       "exDividendDate": 1764720000,
       "payoutRatio": 0.4074,
       "targetHighPrice": 227.0,
@@ -5542,10 +5542,10 @@
       "dividendYield": null,
       "exDividendDate": 1585094400,
       "payoutRatio": 0.0,
-      "targetHighPrice": 559.01227,
-      "targetLowPrice": 343.93338,
-      "targetMeanPrice": 439.77084,
-      "targetMedianPrice": 434.95367,
+      "targetHighPrice": 558.8361,
+      "targetLowPrice": 343.82498,
+      "targetMeanPrice": 439.63226,
+      "targetMedianPrice": 434.81662,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -6069,7 +6069,7 @@
       "fiftyTwoWeekHigh": 5.66,
       "fiftyDayAverage": 2.81,
       "twoHundredDayAverage": 3.38,
-      "volume": "385,168,790",
+      "volume": "1,458,910,614",
       "averageVolume": 566249439,
       "averageVolume10days": 368959990,
       "marketCap": 104281169920,
@@ -6236,7 +6236,7 @@
         },
         {
           "Close": 2.380000114440918,
-          "Volume": 385168790
+          "Volume": 1458910614
         }
       ],
       "heldPercentInsiders": 0.69254,
@@ -12306,7 +12306,7 @@
       "fiftyTwoWeekHigh": 229.3,
       "fiftyDayAverage": 214.58,
       "twoHundredDayAverage": 174.89,
-      "volume": "411,196",
+      "volume": "361,196",
       "averageVolume": 388241,
       "averageVolume10days": 629490,
       "marketCap": 40841998336,
@@ -12473,7 +12473,7 @@
         },
         {
           "Close": 226.89999389648438,
-          "Volume": 411196
+          "Volume": 361196
         }
       ],
       "heldPercentInsiders": 0.8,
@@ -22134,7 +22134,7 @@
       "fiftyTwoWeekHigh": 33.16,
       "fiftyDayAverage": 5.93,
       "twoHundredDayAverage": 18.13,
-      "volume": "27,612,690",
+      "volume": "27,612,695",
       "averageVolume": 61888859,
       "averageVolume10days": 77795062,
       "marketCap": 1988000000,
@@ -22301,7 +22301,7 @@
         },
         {
           "Close": 2.8399999141693115,
-          "Volume": 27612690
+          "Volume": 27612695
         }
       ],
       "heldPercentInsiders": 0.56497,
@@ -22323,7 +22323,7 @@
       "fiftyTwoWeekHigh": 7.17,
       "fiftyDayAverage": 6.03,
       "twoHundredDayAverage": 5.7,
-      "volume": "44,163,430",
+      "volume": "44,163,438",
       "averageVolume": 13793834,
       "averageVolume10days": 14703946,
       "marketCap": 6432000000,
@@ -22490,7 +22490,7 @@
         },
         {
           "Close": 6.699999809265137,
-          "Volume": 44163430
+          "Volume": 44163438
         }
       ],
       "heldPercentInsiders": 0.70833,
@@ -27426,7 +27426,7 @@
       "fiftyTwoWeekHigh": 31.96,
       "fiftyDayAverage": 27.46,
       "twoHundredDayAverage": 19.8,
-      "volume": "35,051,310",
+      "volume": "35,051,311",
       "averageVolume": 26980360,
       "averageVolume10days": 23672170,
       "marketCap": 31358973952,
@@ -27593,7 +27593,7 @@
         },
         {
           "Close": 30.15999984741211,
-          "Volume": 35051310
+          "Volume": 35051311
         }
       ],
       "heldPercentInsiders": 0.60861,
@@ -30676,7 +30676,7 @@
       "forwardEps": 108.59,
       "bookValue": 305.023,
       "dividendRate": 37.27,
-      "dividendYield": 16.41,
+      "dividendYield": 16.81,
       "exDividendDate": 1747699200,
       "payoutRatio": 1.2839999,
       "targetHighPrice": 309.3,
@@ -34041,7 +34041,7 @@
       "fiftyTwoWeekHigh": 7.42,
       "fiftyDayAverage": 6.45,
       "twoHundredDayAverage": 6.1,
-      "volume": "11,049,760",
+      "volume": "11,049,766",
       "averageVolume": 17660191,
       "averageVolume10days": 17194660,
       "marketCap": 6742400000,
@@ -34208,7 +34208,7 @@
         },
         {
           "Close": 6.019999980926514,
-          "Volume": 11049760
+          "Volume": 11049766
         }
       ],
       "heldPercentInsiders": 0.72571,
@@ -34986,7 +34986,7 @@
       "fiftyTwoWeekHigh": 11.93,
       "fiftyDayAverage": 9.84,
       "twoHundredDayAverage": 8.31,
-      "volume": "15,846,040",
+      "volume": "15,846,048",
       "averageVolume": 23186983,
       "averageVolume10days": 13690364,
       "marketCap": 82529992704,
@@ -35153,7 +35153,7 @@
         },
         {
           "Close": 9.170000076293945,
-          "Volume": 15846040
+          "Volume": 15846048
         }
       ],
       "heldPercentInsiders": 0.72905,
@@ -37443,7 +37443,7 @@
       "fiftyTwoWeekHigh": 42.76,
       "fiftyDayAverage": 32.02,
       "twoHundredDayAverage": 29.15,
-      "volume": "15,160,970",
+      "volume": "15,160,978",
       "averageVolume": 10063211,
       "averageVolume10days": 17412901,
       "marketCap": 26215200768,
@@ -37610,7 +37610,7 @@
         },
         {
           "Close": 39.720001220703125,
-          "Volume": 15160970
+          "Volume": 15160978
         }
       ],
       "heldPercentInsiders": 0.60358,
@@ -38010,7 +38010,7 @@
       "fiftyTwoWeekHigh": 5.59,
       "fiftyDayAverage": 3.98,
       "twoHundredDayAverage": 3.46,
-      "volume": "11,274,300",
+      "volume": "11,274,309",
       "averageVolume": 13322794,
       "averageVolume10days": 8407631,
       "marketCap": 2828000000,
@@ -38177,7 +38177,7 @@
         },
         {
           "Close": 4.039999961853027,
-          "Volume": 11274300
+          "Volume": 11274309
         }
       ],
       "heldPercentInsiders": 0.64492995,
@@ -39711,7 +39711,7 @@
       "fiftyTwoWeekHigh": 17.44,
       "fiftyDayAverage": 12.96,
       "twoHundredDayAverage": 11.55,
-      "volume": "18,627,730",
+      "volume": "18,627,733",
       "averageVolume": 11325526,
       "averageVolume10days": 19083685,
       "marketCap": 17387499520,
@@ -39878,7 +39878,7 @@
         },
         {
           "Close": 13.90999984741211,
-          "Volume": 18627730
+          "Volume": 18627733
         }
       ],
       "heldPercentInsiders": 0.72950995,
@@ -45610,10 +45610,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.22329,
-      "targetLowPrice": 60.471375,
-      "targetMeanPrice": 68.847336,
-      "targetMedianPrice": 68.847336,
+      "targetHighPrice": 77.22543,
+      "targetLowPrice": 60.473053,
+      "targetMeanPrice": 68.84924,
+      "targetMedianPrice": 68.84924,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 2,
@@ -51807,7 +51807,7 @@
       "fiftyTwoWeekHigh": 11.94,
       "fiftyDayAverage": 9.88,
       "twoHundredDayAverage": 8.27,
-      "volume": "19,007,470",
+      "volume": "19,007,471",
       "averageVolume": 33699001,
       "averageVolume10days": 24952251,
       "marketCap": 21040685056,
@@ -51974,7 +51974,7 @@
         },
         {
           "Close": 8.609999656677246,
-          "Volume": 19007470
+          "Volume": 19007471
         }
       ],
       "heldPercentInsiders": 0.60797,
@@ -53508,7 +53508,7 @@
       "fiftyTwoWeekHigh": 5.41,
       "fiftyDayAverage": 4.36,
       "twoHundredDayAverage": 4.45,
-      "volume": "21,791,940",
+      "volume": "21,791,943",
       "averageVolume": 16047032,
       "averageVolume10days": 25225582,
       "marketCap": 15510000640,
@@ -53675,7 +53675,7 @@
         },
         {
           "Close": 5.170000076293945,
-          "Volume": 21791940
+          "Volume": 21791943
         }
       ],
       "heldPercentInsiders": 2.51624,
@@ -53697,7 +53697,7 @@
       "fiftyTwoWeekHigh": 17.18,
       "fiftyDayAverage": 14.64,
       "twoHundredDayAverage": 13.48,
-      "volume": "16,824,920",
+      "volume": "16,824,929",
       "averageVolume": 8341746,
       "averageVolume10days": 10136301,
       "marketCap": 9612000256,
@@ -53864,7 +53864,7 @@
         },
         {
           "Close": 16.020000457763672,
-          "Volume": 16824920
+          "Volume": 16824929
         }
       ],
       "heldPercentInsiders": 0.76,
@@ -56721,7 +56721,7 @@
       "fiftyTwoWeekHigh": 3.29,
       "fiftyDayAverage": 2.75,
       "twoHundredDayAverage": 2.62,
-      "volume": "37,134,010",
+      "volume": "37,134,019",
       "averageVolume": 33554146,
       "averageVolume10days": 28925202,
       "marketCap": 6919595520,
@@ -56888,7 +56888,7 @@
         },
         {
           "Close": 2.7699999809265137,
-          "Volume": 37134010
+          "Volume": 37134019
         }
       ],
       "heldPercentInsiders": 0.76426005,
@@ -59556,7 +59556,7 @@
       "fiftyTwoWeekHigh": 35.0,
       "fiftyDayAverage": 20.02,
       "twoHundredDayAverage": 12.31,
-      "volume": "131,693,000",
+      "volume": "131,693,072",
       "averageVolume": 62456883,
       "averageVolume10days": 113078610,
       "marketCap": 70090203136,
@@ -59723,7 +59723,7 @@
         },
         {
           "Close": 33.86000061035156,
-          "Volume": 131693000
+          "Volume": 131693072
         }
       ],
       "heldPercentInsiders": 0.37754002,
@@ -61446,7 +61446,7 @@
       "fiftyTwoWeekHigh": 7.8,
       "fiftyDayAverage": 4.93,
       "twoHundredDayAverage": 5.02,
-      "volume": "15,870,780",
+      "volume": "15,870,781",
       "averageVolume": 37245542,
       "averageVolume10days": 30332068,
       "marketCap": 3400660736,
@@ -61613,7 +61613,7 @@
         },
         {
           "Close": 4.449999809265137,
-          "Volume": 15870780
+          "Volume": 15870781
         }
       ],
       "heldPercentInsiders": 0.15627,
@@ -64092,7 +64092,7 @@
       "fiftyTwoWeekHigh": 6.07,
       "fiftyDayAverage": 4.01,
       "twoHundredDayAverage": 4.03,
-      "volume": "41,686,120",
+      "volume": "41,686,125",
       "averageVolume": 12068609,
       "averageVolume10days": 19004776,
       "marketCap": 3464000000,
@@ -64259,7 +64259,7 @@
         },
         {
           "Close": 4.329999923706055,
-          "Volume": 41686120
+          "Volume": 41686125
         }
       ],
       "heldPercentInsiders": 0.5696,
@@ -73353,7 +73353,7 @@
       "fiftyTwoWeekHigh": 36.94,
       "fiftyDayAverage": 24.93,
       "twoHundredDayAverage": 24.24,
-      "volume": "13,921,740",
+      "volume": "13,921,747",
       "averageVolume": 27023391,
       "averageVolume10days": 24854536,
       "marketCap": 13836154880,
@@ -73520,7 +73520,7 @@
         },
         {
           "Close": 20.5,
-          "Volume": 13921740
+          "Volume": 13921747
         }
       ],
       "heldPercentInsiders": 0.51153,
@@ -77700,7 +77700,7 @@
       "fiftyTwoWeekHigh": 14.7,
       "fiftyDayAverage": 7.51,
       "twoHundredDayAverage": 9.79,
-      "volume": "16,727,240",
+      "volume": "16,727,247",
       "averageVolume": 37454208,
       "averageVolume10days": 39478386,
       "marketCap": 6735500288,
@@ -77867,7 +77867,7 @@
         },
         {
           "Close": 7.090000152587891,
-          "Volume": 16727240
+          "Volume": 16727247
         }
       ],
       "heldPercentInsiders": 0.397,
@@ -79037,7 +79037,7 @@
       "country": "Turkey",
       "phone": "90 216 564 20 00",
       "description": "Reysas Gayrimenkul Yatirim Ortakligi A.S. is a privately owned real estate investment trust.  It invests in the real estate markets of Turkey. The firm invests in the warehousing market. Reysas Gayrimenkul Yatirim Ortakligi A.S. is based in Istanbul, Turkey.",
-      "pe": 3.165501,
+      "pe": 3.161816,
       "forwardPE": null,
       "priceToBook": 0.8075882,
       "pegRatio": null,
@@ -79056,7 +79056,7 @@
       "debtToEquity": 8.264,
       "currentRatio": 1.334,
       "quickRatio": 1.262,
-      "eps": 8.58,
+      "eps": 8.59,
       "forwardEps": null,
       "bookValue": 33.631,
       "dividendRate": null,
@@ -80913,7 +80913,7 @@
       "fiftyTwoWeekHigh": 35.0,
       "fiftyDayAverage": 19.81,
       "twoHundredDayAverage": 22.46,
-      "volume": "11,598,670",
+      "volume": "11,598,675",
       "averageVolume": 2738206,
       "averageVolume10days": 6999494,
       "marketCap": 6264999936,
@@ -81080,7 +81080,7 @@
         },
         {
           "Close": 35.0,
-          "Volume": 11598670
+          "Volume": 11598675
         }
       ],
       "heldPercentInsiders": 0.48035,
