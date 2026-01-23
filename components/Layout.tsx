@@ -317,7 +317,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
               </NavLink>
             </nav>
 
-            {/* Actions */}
+            {/* Actions - Review Fix */}
             <div className="flex items-center gap-2">
               <div className="hidden md:flex items-center bg-zinc-900/50 border border-white/10 rounded-lg px-2.5 py-1.5 focus-within:border-blue-500/50 focus-within:ring-2 focus-within:ring-blue-500/20 transition-all w-40 lg:w-48 group cursor-text relative" onClick={() => searchInputRef.current?.focus()}>
                 <Search className="w-3.5 h-3.5 text-zinc-500 group-focus-within:text-blue-400 transition-colors" />
