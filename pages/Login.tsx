@@ -1,14 +1,15 @@
 
 import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom'; // Added Link via replacement below eventually or just use it here
 import { supabase } from '../utils/supabase';
 import { toast, Toaster } from 'react-hot-toast';
-import { LogIn, UserPlus, Mail, Lock, Loader2 } from 'lucide-react';
+import { LogIn, UserPlus, Mail, Lock, Loader2, ArrowLeft, Send } from 'lucide-react';
 
 const Login = () => {
     const navigate = useNavigate();
     const [loading, setLoading] = useState(false);
-    const [isSignUp, setIsSignUp] = useState(false);
+    const [view, setView] = useState<'login' | 'register' | 'forgot'>('login');
+
     const [formData, setFormData] = useState({
         email: '',
         password: ''
@@ -19,23 +20,44 @@ const Login = () => {
         setLoading(true);
 
         try {
-            if (isSignUp) {
-                const { error } = await supabase.auth.signUp({
+            if (view === 'register') {
+                const { error, data } = await supabase.auth.signUp({
                     email: formData.email,
                     password: formData.password,
+                    options: {
+                        emailRedirectTo: `${window.location.origin}/giris` // Redirect back to login after confirmation
+                    }
                 });
                 if (error) throw error;
-                toast.success('Kayıt başarılı! Giriş yapabilirsiniz.');
-                setIsSignUp(false);
-            } else {
+
+                // Check if session exists immediately (meaning auto-confirm is on) or user needs to verify
+                if (data.session) {
+                    toast.success('Kayıt başarılı! Giriş yapılıyor...');
+                    navigate(-1);
+                } else {
+                    // Email confirmation required
+                    toast.success('Kayıt başarılı! Lütfen mail kutunuzu (spam dahil) kontrol edin ve gelen linke tıklayarak hesabınızı onaylayın.', { duration: 6000 });
+                    setView('login');
+                }
+
+            } else if (view === 'login') {
                 const { error } = await supabase.auth.signInWithPassword({
                     email: formData.email,
                     password: formData.password,
                 });
                 if (error) throw error;
                 toast.success('Giriş başarılı!');
-                navigate(-1); // Go back to where they came from
+                navigate(-1);
+
+            } else if (view === 'forgot') {
+                const { error } = await supabase.auth.resetPasswordForEmail(formData.email, {
+                    redirectTo: `${window.location.origin}/reset-sifre`,
+                });
+                if (error) throw error;
+                toast.success('Şifre sıfırlama bağlantısı e-posta adresinize gönderildi. Lütfen kontrol edin.');
+                setView('login');
             }
+
         } catch (error: any) {
             toast.error(error.message);
         } finally {
@@ -44,16 +66,27 @@ const Login = () => {
     };
 
     return (
-        <div className="min-h-screen flex items-center justify-center px-4 py-12">
+        <div className="min-h-screen flex items-center justify-center px-4 py-12 relative">
+
+            {/* Back Button */}
+            <button
+                onClick={() => navigate('/')}
+                className="absolute top-8 left-8 flex items-center gap-2 text-zinc-500 hover:text-white transition-colors text-sm font-bold"
+            >
+                <ArrowLeft className="w-4 h-4" /> Ana Sayfa
+            </button>
+
             <div className="bg-[#18181b] border border-white/5 rounded-2xl p-8 max-w-md w-full shadow-2xl">
                 <div className="text-center mb-8">
                     <h2 className="text-2xl font-black text-white mb-2">
-                        {isSignUp ? 'YatırımX\'e Katıl' : 'Hoşgeldiniz'}
+                        {view === 'register' ? 'YatırımX\'e Katıl' : view === 'forgot' ? 'Şifremi Unuttum' : 'Hoşgeldiniz'}
                     </h2>
                     <p className="text-zinc-500 text-sm">
-                        {isSignUp
+                        {view === 'register'
                             ? 'Yatırımcı topluluğunun bir parçası ol.'
-                            : 'Hesabınıza giriş yaparak tartışmalara katılın.'}
+                            : view === 'forgot'
+                                ? 'Hesabınıza erişmek için şifre sıfırlama bağlantısı gönderelim.'
+                                : 'Hesabınıza giriş yaparak tartışmalara katılın.'}
                     </p>
                 </div>
 
@@ -73,21 +106,35 @@ const Login = () => {
                         </div>
                     </div>
 
-                    <div>
-                        <label className="block text-xs font-bold text-zinc-400 mb-1.5 uppercase">Şifre</label>
-                        <div className="relative">
-                            <Lock className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
-                            <input
-                                type="password"
-                                required
-                                minLength={6}
-                                className="w-full bg-zinc-900/50 border border-white/10 rounded-xl py-3 pl-10 pr-4 text-white text-sm focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all outline-none"
-                                placeholder="••••••••"
-                                value={formData.password}
-                                onChange={e => setFormData({ ...formData, password: e.target.value })}
-                            />
+                    {view !== 'forgot' && (
+                        <div>
+                            <label className="block text-xs font-bold text-zinc-400 mb-1.5 uppercase">Şifre</label>
+                            <div className="relative">
+                                <Lock className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
+                                <input
+                                    type="password"
+                                    required
+                                    minLength={6}
+                                    className="w-full bg-zinc-900/50 border border-white/10 rounded-xl py-3 pl-10 pr-4 text-white text-sm focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all outline-none"
+                                    placeholder="••••••••"
+                                    value={formData.password}
+                                    onChange={e => setFormData({ ...formData, password: e.target.value })}
+                                />
+                            </div>
                         </div>
-                    </div>
+                    )}
+
+                    {view === 'login' && (
+                        <div className="flex justify-end">
+                            <button
+                                type="button"
+                                onClick={() => setView('forgot')}
+                                className="text-xs text-zinc-500 hover:text-blue-400 transition-colors"
+                            >
+                                Şifremi Unuttum
+                            </button>
+                        </div>
+                    )}
 
                     <button
                         type="submit"
@@ -96,9 +143,13 @@ const Login = () => {
                     >
                         {loading ? (
                             <Loader2 className="w-5 h-5 animate-spin" />
-                        ) : isSignUp ? (
+                        ) : view === 'register' ? (
                             <>
                                 <UserPlus className="w-4 h-4" /> Kayıt Ol
+                            </>
+                        ) : view === 'forgot' ? (
+                            <>
+                                <Send className="w-4 h-4" /> Bağlantı Gönder
                             </>
                         ) : (
                             <>
@@ -108,15 +159,24 @@ const Login = () => {
                     </button>
                 </form>
 
-                <div className="mt-6 text-center">
-                    <button
-                        onClick={() => setIsSignUp(!isSignUp)}
-                        className="text-sm text-zinc-400 hover:text-white transition-colors"
-                    >
-                        {isSignUp
-                            ? 'Zaten hesabınız var mı? Giriş yapın'
-                            : 'Hesabınız yok mu? Hemen kayıt olun'}
-                    </button>
+                <div className="mt-6 text-center space-y-2">
+                    {view === 'forgot' ? (
+                        <button
+                            onClick={() => setView('login')}
+                            className="text-sm text-zinc-400 hover:text-white transition-colors"
+                        >
+                            Giriş ekranına dön
+                        </button>
+                    ) : (
+                        <button
+                            onClick={() => setView(view === 'login' ? 'register' : 'login')}
+                            className="text-sm text-zinc-400 hover:text-white transition-colors"
+                        >
+                            {view === 'login'
+                                ? 'Hesabınız yok mu? Hemen kayıt olun'
+                                : 'Zaten hesabınız var mı? Giriş yapın'}
+                        </button>
+                    )}
                 </div>
             </div>
             <Toaster position="bottom-center" theme="dark" />
