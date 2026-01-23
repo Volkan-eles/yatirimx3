@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen, Star, Coins } from 'lucide-react';
+import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen, Star, Coins, MessageSquare } from 'lucide-react';
 import Footer from './Footer';
 import { slugify } from '../utils/slugify';
 
@@ -230,6 +230,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
       title: 'Diğer',
       items: [
         { name: 'Blog', path: '/blog', icon: BookOpen },
+        { name: 'Forum', path: '/forum', icon: MessageSquare },
         { name: 'Favorilerim', path: '/izleme-listesi', icon: Star },
       ]
     }
@@ -324,7 +325,9 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
                   onFocus={() => setShowResults(true)}
-                />
+               <NavLink to="/forum" icon={MessageSquare} active={location.pathname.startsWith('/forum')}>
+                  Forum
+                </NavLink>
                 <div className="hidden md:flex group-focus-within:hidden items-center gap-1 border border-white/10 rounded px-1.5 py-0.5 bg-white/5">
                   <span className="text-[9px] text-zinc-500 font-bold font-mono">/</span>
                 </div>
