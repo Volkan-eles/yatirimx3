@@ -888,7 +888,7 @@ const StockDetail: React.FC = () => {
             </h3>
             <div className="space-y-4">
               {BLOG_POSTS.slice(0, 3).map((post) => (
-                <Link key={post.id} to={`/blog/${post.slug}`} className="group flex gap-4 items-start p-4 rounded-xl hover:bg-white/5 transition-colors border border-transparent hover:border-white/5">
+                <Link key={post.id} to={`/blog/${post.slug}/`} className="group flex gap-4 items-start p-4 rounded-xl hover:bg-white/5 transition-colors border border-transparent hover:border-white/5">
                   <div className="w-20 h-20 rounded-lg overflow-hidden shrink-0">
                     <img src={post.image} alt={post.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" />
                   </div>

@@ -241,7 +241,7 @@ const main = () => {
     ];
 
     blogSlugs.forEach(slug => {
-        xml += createUrlEntry(`/blog/${slug}`, '0.8', 'weekly');
+        xml += createUrlEntry(`/blog/${slug}/`, '0.8', 'weekly');
     });
     console.log(`Processing ${blogSlugs.length} blog posts...`);
 

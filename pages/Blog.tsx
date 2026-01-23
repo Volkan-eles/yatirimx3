@@ -65,7 +65,7 @@ const Blog: React.FC = () => {
             {/* Featured Post (First of filtered results if available, else first overall) */}
             {filteredPosts.length > 0 && (
                 <div className="mb-16">
-                    <Link to={`/blog/${filteredPosts[0].slug}`} className="group relative block overflow-hidden rounded-[2.5rem] border border-white/5">
+                    <Link to={`/blog/${filteredPosts[0].slug}/`} className="group relative block overflow-hidden rounded-[2.5rem] border border-white/5">
                         <div className="absolute inset-0">
                             <img
                                 src={filteredPosts[0].image}
@@ -114,7 +114,7 @@ const Blog: React.FC = () => {
                     <h3 className="text-2xl font-bold text-white mb-6">Diğer Yazılar</h3>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                         {filteredPosts.slice(1).map((post) => (
-                            <Link key={post.id} to={`/blog/${post.slug}`} className="group flex flex-col glass-panel rounded-3xl border border-white/5 overflow-hidden hover:border-blue-500/30 transition-all duration-300 hover:-translate-y-1">
+                            <Link key={post.id} to={`/blog/${post.slug}/`} className="group flex flex-col glass-panel rounded-3xl border border-white/5 overflow-hidden hover:border-blue-500/30 transition-all duration-300 hover:-translate-y-1">
                                 <div className="h-56 relative overflow-hidden">
                                     <img
                                         src={post.image}

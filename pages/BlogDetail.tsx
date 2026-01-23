@@ -64,7 +64,7 @@ const BlogDetail: React.FC = () => {
         );
     }
 
-    const shareUrl = `https://yatirimx.com/blog/${slug}`;
+    const shareUrl = `https://yatirimx.com/blog/${slug}/`;
     const shareText = post.title;
 
     const handleShare = (platform: string) => {
