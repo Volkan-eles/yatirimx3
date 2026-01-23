@@ -26,6 +26,7 @@ import {
   Star
 } from 'lucide-react';
 import StockChart from '../components/StockChart';
+import TradingViewChart from '../components/TradingViewChart';
 import { slugify } from '../utils/slugify';
 import SEO from '../components/SEO';
 import { MOCK_STOCK_DETAIL, MOCK_TARGET_PRICES } from '../constants';
