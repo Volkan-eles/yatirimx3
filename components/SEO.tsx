@@ -42,8 +42,14 @@ const SEO = ({ title, description, image, url, keywords, canonicalUrl, schema }:
         if (image) updateMeta('twitter:image', image);
 
         // Canonical URL
-        const finalCanonical = canonicalUrl || url;
+        let finalCanonical = canonicalUrl || url;
         if (finalCanonical) {
+            // Force trailing slash if not present and not a file
+            const isFile = finalCanonical.split('/').pop()?.includes('.');
+            if (!finalCanonical.endsWith('/') && !isFile) {
+                finalCanonical += '/';
+            }
+
             let link = document.querySelector('link[rel="canonical"]');
             if (!link) {
                 link = document.createElement('link');
