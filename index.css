@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&family=JetBrains+Mono:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -7,8 +7,13 @@
 @layer base {
 
   :root {
+    --font-display: 'Rajdhani', sans-serif;
     --font-sans: 'Inter', system-ui, sans-serif;
     --font-mono: 'JetBrains Mono', monospace;
+
+    --neon-cyan: #00f0ff;
+    --neon-pink: #ff00aa;
+    --neon-blue: #2962ff;
   }
 
   h1,
@@ -17,14 +22,14 @@
   h4,
   h5,
   h6 {
-    @apply font-sans tracking-tight text-white;
+    @apply font-display tracking-wide text-white uppercase;
+    text-shadow: 0 0 10px rgba(0, 240, 255, 0.3);
   }
 
   body {
-    @apply bg-[#09090b] text-zinc-300 font-sans antialiased selection:bg-blue-500/30 selection:text-white overflow-x-hidden;
+    @apply bg-black text-zinc-300 font-sans antialiased selection:bg-[#00f0ff]/30 selection:text-white overflow-x-hidden;
   }
 
-  /* Smooth scrolling */
   html {
     scroll-behavior: smooth;
   }
@@ -32,96 +37,125 @@
 
 @layer components {
 
-  /* Modern Glassmorphism */
+  /* Cyberpunk Panel */
   .glass-panel {
-    @apply bg-[#18181b]/60 backdrop-blur-xl border border-white/[0.08] shadow-2xl transition-all duration-300 relative overflow-hidden;
-    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.05), 0 8px 40px -12px rgba(0, 0, 0, 0.5);
+    @apply bg-black/80 backdrop-blur-xl border border-[#00f0ff]/20 shadow-[0_0_15px_-5px_rgba(0, 240, 255, 0.1)] transition-all duration-300 relative overflow-hidden;
+    clip-path: polygon(0 0,
+        100% 0,
+        100% calc(100% - 10px),
+        calc(100% - 10px) 100%,
+        0 100%);
+    /* Corner cut effect */
   }
 
   .glass-panel::before {
     content: "";
-    @apply absolute inset-0 opacity-[0.02] pointer-events-none mix-blend-overlay;
-    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+    @apply absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-[#00f0ff]/50 to-transparent opacity-50;
   }
 
-  /* Premium Cards */
+  .glass-panel:hover {
+    @apply border-[#00f0ff]/40 shadow-[0_0_20px_-5px_rgba(0, 240, 255, 0.3)];
+  }
+
+  /* Premium Cards (Cyber Style) */
   .premium-card {
-    @apply relative overflow-hidden rounded-2xl bg-gradient-to-b from-[#18181b] to-[#09090b] border border-white/[0.08] transition-all duration-300 group;
+    @apply relative overflow-hidden bg-zinc-900/50 border border-white/10 transition-all duration-300 group;
+    border-radius: 4px;
+    /* Sharper corners */
   }
 
   .premium-card:hover {
-    @apply border-blue-500/30 translate-y-[-2px] shadow-[0_10px_40px_-10px_rgba(59,130,246,0.2)];
+    @apply border-[#00f0ff]/50 -translate-y-1 shadow-[0_0_20px_rgba(0, 240, 255, 0.15)];
   }
 
   .premium-card::after {
     content: '';
-    @apply absolute inset-0 bg-gradient-to-tr from-blue-500/5 via-transparent to-transparent opacity-0 transition-opacity duration-500;
+    @apply absolute inset-0 bg-gradient-to-t from-[#00f0ff]/5 to-transparent opacity-0 transition-opacity duration-300;
   }
 
   .premium-card:hover::after {
     @apply opacity-100;
   }
 
-  /* Buttons */
+  /* Neon Buttons */
   .btn-primary {
-    @apply bg-blue-600 hover:bg-blue-500 text-white font-bold py-3 px-6 rounded-xl transition-all duration-300 hover:shadow-[0_0_20px_rgba(37,99,235,0.4)] hover:scale-[1.02] active:scale-[0.98] flex items-center gap-2 justify-center border border-blue-400/20;
+    @apply bg-[#00f0ff] hover:bg-[#00c0cc] text-black font-bold font-display tracking-wider py-3 px-6 transition-all duration-300 hover:shadow-[0_0_20px_#00f0ff] active:scale-[0.98] flex items-center gap-2 justify-center transform skew-x-[-10deg];
+  }
+
+  .btn-primary>* {
+    @apply transform skew-x-[10deg];
+    /* Unskew text */
   }
 
   .btn-secondary {
-    @apply bg-white/5 hover:bg-white/10 text-white font-bold py-3 px-6 rounded-xl transition-all duration-300 border border-white/10 hover:border-white/20 hover:scale-[1.02] active:scale-[0.98];
+    @apply bg-transparent border border-[#00f0ff]/30 text-[#00f0ff] hover:bg-[#00f0ff]/10 font-bold font-display tracking-wider py-3 px-6 transition-all duration-300 hover:shadow-[0_0_15px_rgba(0, 240, 255, 0.2)] transform skew-x-[-10deg];
+  }
+
+  .btn-secondary>* {
+    @apply transform skew-x-[10deg];
   }
 
   /* Gradient Text */
   .gradient-text {
-    @apply bg-gradient-to-r from-white via-zinc-200 to-zinc-400 bg-clip-text text-transparent;
-  }
-  
-  .gradient-text-blue {
-    @apply bg-gradient-to-r from-blue-400 via-blue-200 to-white bg-clip-text text-transparent;
+    @apply bg-gradient-to-r from-[#00f0ff] via-white to-[#ff00aa] bg-clip-text text-transparent drop-shadow-[0_0_5px_rgba(0, 240, 255, 0.3)];
   }
 
   /* Data Table Typography */
   .tabular-nums {
-    font-variant-numeric: tabular-nums;
     font-family: var(--font-mono);
+    @apply text-[#00f0ff];
   }
 }
 
 @layer utilities {
-  .text-glow {
-    text-shadow: 0 0 20px rgba(59, 130, 246, 0.5);
+  .text-neon {
+    text-shadow: 0 0 10px rgba(0, 240, 255, 0.5);
   }
-  
-  .animate-blob {
-    animation: blob 10s infinite;
+
+  .border-neon {
+    box-shadow: 0 0 10px rgba(0, 240, 255, 0.3);
   }
-  
-  .animation-delay-2000 {
-    animation-delay: 2s;
-  }
-  
-  .animation-delay-4000 {
-    animation-delay: 4s;
+
+  .animate-pulse-fast {
+    animation: pulse-fast 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
   }
 }
 
-@keyframes blob {
-  0% { transform: translate(0px, 0px) scale(1); }
-  33% { transform: translate(30px, -50px) scale(1.1); }
-  66% { transform: translate(-20px, 20px) scale(0.9); }
-  100% { transform: translate(0px, 0px) scale(1); }
+@keyframes pulse-fast {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: .5;
+  }
 }
 
-/* Custom Scrollbar */
+/* Custom Cyber Scrollbar */
 ::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
+  width: 4px;
 }
 
 ::-webkit-scrollbar-track {
-  @apply bg-[#09090b];
+  @apply bg-black;
 }
 
 ::-webkit-scrollbar-thumb {
-  @apply bg-zinc-800 rounded-full hover:bg-zinc-700 transition-colors;
+  @apply bg-[#00f0ff] rounded-none;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-[#ff00aa];
+}
+
+/* Hide scrollbar for specific elements */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
