@@ -136,6 +136,11 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
     setIsProfileMenuOpen(false);
   }, [location.pathname]);
 
+  const handleLogout = async () => {
+    await signOut();
+    setIsProfileMenuOpen(false);
+  };
+
   // Search State
   const [searchQuery, setSearchQuery] = useState('');
   const [searchResults, setSearchResults] = useState<any[]>([]);
