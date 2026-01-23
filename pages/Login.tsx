@@ -1,9 +1,9 @@
 
 import React, { useState } from 'react';
-import { useNavigate, Link } from 'react-router-dom'; // Added Link via replacement below eventually or just use it here
+import { useNavigate } from 'react-router-dom';
 import { supabase } from '../utils/supabase';
 import { toast, Toaster } from 'react-hot-toast';
-import { LogIn, UserPlus, Mail, Lock, Loader2, ArrowLeft, Send } from 'lucide-react';
+import { LogIn, UserPlus, Mail, Lock, Loader2, ArrowLeft, Send, User, BadgeCheck } from 'lucide-react';
 
 const Login = () => {
     const navigate = useNavigate();
@@ -12,7 +12,9 @@ const Login = () => {
 
     const [formData, setFormData] = useState({
         email: '',
-        password: ''
+        password: '',
+        fullName: '',
+        username: ''
     });
 
     const handleAuth = async (e: React.FormEvent) => {
@@ -25,18 +27,20 @@ const Login = () => {
                     email: formData.email,
                     password: formData.password,
                     options: {
-                        emailRedirectTo: `${window.location.origin}/giris` // Redirect back to login after confirmation
+                        emailRedirectTo: `${window.location.origin}/giris`,
+                        data: {
+                            full_name: formData.fullName,
+                            username: formData.username
+                        }
                     }
                 });
                 if (error) throw error;
 
-                // Check if session exists immediately (meaning auto-confirm is on) or user needs to verify
                 if (data.session) {
                     toast.success('Kayıt başarılı! Giriş yapılıyor...');
                     navigate(-1);
                 } else {
-                    // Email confirmation required
-                    toast.success('Kayıt başarılı! Lütfen mail kutunuzu (spam dahil) kontrol edin ve gelen linke tıklayarak hesabınızı onaylayın.', { duration: 6000 });
+                    toast.success('Kayıt başarılı! Lütfen mail kutunuzu kontrol ederek hesabınızı onaylayın.', { duration: 6000 });
                     setView('login');
                 }
 
@@ -54,7 +58,7 @@ const Login = () => {
                     redirectTo: `${window.location.origin}/reset-sifre`,
                 });
                 if (error) throw error;
-                toast.success('Şifre sıfırlama bağlantısı e-posta adresinize gönderildi. Lütfen kontrol edin.');
+                toast.success('Şifre sıfırlama bağlantısı gönderildi.');
                 setView('login');
             }
 
@@ -67,8 +71,6 @@ const Login = () => {
 
     return (
         <div className="min-h-screen flex items-center justify-center px-4 py-12 relative">
-
-            {/* Back Button */}
             <button
                 onClick={() => navigate('/')}
                 className="absolute top-8 left-8 flex items-center gap-2 text-zinc-500 hover:text-white transition-colors text-sm font-bold"
@@ -91,6 +93,42 @@ const Login = () => {
                 </div>
 
                 <form onSubmit={handleAuth} className="space-y-4">
+
+                    {view === 'register' && (
+                        <>
+                            <div>
+                                <label className="block text-xs font-bold text-zinc-400 mb-1.5 uppercase">Ad Soyad</label>
+                                <div className="relative">
+                                    <User className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
+                                    <input
+                                        type="text"
+                                        required
+                                        className="w-full bg-zinc-900/50 border border-white/10 rounded-xl py-3 pl-10 pr-4 text-white text-sm focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all outline-none"
+                                        placeholder="Ad Soyad"
+                                        value={formData.fullName}
+                                        onChange={e => setFormData({ ...formData, fullName: e.target.value })}
+                                    />
+                                </div>
+                            </div>
+
+                            <div>
+                                <label className="block text-xs font-bold text-zinc-400 mb-1.5 uppercase">Kullanıcı Adı (Rumuz)</label>
+                                <div className="relative">
+                                    <BadgeCheck className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-zinc-500" />
+                                    <input
+                                        type="text"
+                                        required
+                                        minLength={3}
+                                        className="w-full bg-zinc-900/50 border border-white/10 rounded-xl py-3 pl-10 pr-4 text-white text-sm focus:border-blue-500 focus:ring-1 focus:ring-blue-500 transition-all outline-none"
+                                        placeholder="kullanici_adi"
+                                        value={formData.username}
+                                        onChange={e => setFormData({ ...formData, username: e.target.value })}
+                                    />
+                                </div>
+                            </div>
+                        </>
+                    )}
+
                     <div>
                         <label className="block text-xs font-bold text-zinc-400 mb-1.5 uppercase">E-posta</label>
                         <div className="relative">
