@@ -93,8 +93,8 @@ const HedefFiyatDetail: React.FC = () => {
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-500 space-y-8 max-w-6xl mx-auto pb-20">
             {reports.length > 0 && (
                 <SEO
-                    title={`${fixTurkishChars(stockName)} (${reports[0].bistkodu}) Hedef Fiyat 2026`}
-                    description={`${fixTurkishChars(stockName)} (${reports[0].bistkodu}) Hedef Fiyat 2026`}
+                    title={`${fixTurkishChars(stockName)} (${reports[0].bistkodu}) Hedef Fiyat 2026 | YatırımX`}
+                    description={`${fixTurkishChars(stockName)} (${reports[0].bistkodu}) hedef fiyat 2026 tahminleri ve aracı kurum raporları. En güncel ${reports[0].bistkodu} hedef fiyat analizleri, uzman yorumları ve potansiyel getiri tabloları YatırımX'te.`}
                     canonicalUrl={`https://yatirimx.com/hedef-fiyat/${slugify(`${reports[0].bistkodu} Hedef Fiyat 2026`)}/`}
                     keywords={`${reports[0].bistkodu}, ${stockName}, ${reports[0].bistkodu} hedef fiyat, ${reports[0].bistkodu} hisse analizi, 2026 borsa tahminleri`}
                 />
