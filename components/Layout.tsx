@@ -1,8 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen, Star, Coins, MessageSquare, User } from 'lucide-react';
+import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen, Star, Coins, MessageSquare, User, LogOut } from 'lucide-react';
 import Footer from './Footer';
 import { slugify } from '../utils/slugify';
+import { useAuth } from '../contexts/AuthContext';
 
 // Market Status Helper
 const getMarketStatus = () => {
@@ -367,9 +368,46 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
               <div className="h-6 w-px bg-white/10 hidden md:block mx-1"></div>
 
               {/* Mobile Menu Button - Show on LG screens and below now */}
-              <Link to="/giris" className="hidden md:flex p-2 text-zinc-400 hover:text-white relative z-50 hover:bg-white/5 rounded-xl transition-colors">
-                <User className="w-5 h-5" />
-              </Link>
+              {/* Auth Menu - Desktop */}
+              {!user ? (
+                <Link
+                  to="/giris"
+                  className="hidden md:flex items-center gap-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold rounded-xl transition-all shadow-lg shadow-blue-900/20"
+                >
+                  <User className="w-4 h-4" /> Giriş Yap
+                </Link>
+              ) : (
+                <div className="relative hidden md:block">
+                  <button
+                    onClick={() => setIsProfileMenuOpen(!isProfileMenuOpen)}
+                    className="flex items-center gap-2 pl-2 pr-3 py-1.5 bg-zinc-900 border border-white/10 hover:border-white/20 rounded-xl transition-all"
+                  >
+                    <div className="w-6 h-6 bg-blue-500/20 rounded-lg flex items-center justify-center text-blue-400 font-bold text-xs">
+                      {profile?.username ? profile.username.charAt(0).toUpperCase() : 'U'}
+                    </div>
+                    <span className="text-xs font-bold text-zinc-300 max-w-[80px] truncate">
+                      {profile?.username || 'Kullanıcı'}
+                    </span>
+                  </button>
+
+                  {isProfileMenuOpen && (
+                    <div className="absolute top-full right-0 mt-2 w-48 bg-[#18181b] border border-white/10 rounded-xl shadow-2xl p-1 overflow-hidden animate-in fade-in zoom-in-95">
+                      <Link to="/portfoy" className="flex items-center gap-2 px-3 py-2 text-sm text-zinc-300 hover:text-white hover:bg-white/5 rounded-lg transition-colors">
+                        <Briefcase className="w-4 h-4" /> Portföyüm
+                      </Link>
+                      <Link to="/profil" className="flex items-center gap-2 px-3 py-2 text-sm text-zinc-300 hover:text-white hover:bg-white/5 rounded-lg transition-colors">
+                        <Settings className="w-4 h-4" /> Profil Ayarları
+                      </Link>
+                      <button
+                        onClick={handleLogout}
+                        className="w-full flex items-center gap-2 px-3 py-2 text-sm text-rose-400 hover:text-rose-300 hover:bg-rose-500/10 rounded-lg transition-colors text-left"
+                      >
+                        <LogOut className="w-4 h-4" /> Çıkış Yap
+                      </button>
+                    </div>
+                  )}
+                </div>
+              )}
               <button
                 className="xl:hidden p-2 text-zinc-400 hover:text-white relative z-50 hover:bg-white/5 rounded-xl transition-colors"
                 onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
