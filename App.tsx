@@ -30,6 +30,7 @@ const Login = lazy(() => import('./pages/Login'));
 const ResetPassword = lazy(() => import('./pages/ResetPassword'));
 const Profile = lazy(() => import('./pages/Profile'));
 const Portfolio = lazy(() => import('./pages/Portfolio'));
+const Comparison = lazy(() => import('./pages/Comparison'));
 
 // Legal and Corporate Pages - Lazy Loaded
 const Hakkimizda = lazy(() => import('./pages/Hakkimizda'));
@@ -72,6 +73,7 @@ function App() {
             <Route path="/reset-sifre" element={<ResetPassword />} />
             <Route path="/profil" element={<Profile />} />
             <Route path="/portfoy" element={<Portfolio />} />
+            <Route path="/karsilastir" element={<Comparison />} />
 
             {/* Forum Routes Removed - Replaced by Stock Specific Discussions */}
 

@@ -124,9 +124,17 @@ const NavDropdown: React.FC<NavDropdownProps> = ({ title, icon: Icon, active, it
 };
 
 export default function Layout({ children }: { children?: React.ReactNode }) {
+  const { user, profile, signOut } = useAuth();
+  const [isProfileMenuOpen, setIsProfileMenuOpen] = useState(false);
+
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const location = useLocation();
   const searchInputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    setIsMobileMenuOpen(false);
+    setIsProfileMenuOpen(false);
+  }, [location.pathname]);
 
   // Search State
   const [searchQuery, setSearchQuery] = useState('');

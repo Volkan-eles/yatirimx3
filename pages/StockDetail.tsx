@@ -729,14 +729,29 @@ const StockDetail: React.FC = () => {
                 )}
               </div>
             </div>
-            <div className="h-[400px]">
-              <StockChart
-                color={isPositive ? "#10b981" : "#f43f5e"}
-                data={stock.historicalData || []}
-              />
+            <div className="h-[400px] w-full">
+              {stock.historicalData && stock.historicalData.length > 0 ? (
+                <TradingViewChart
+                  data={stock.historicalData.map((d: any) => ({
+                    time: d.date, // Ensure API returns 'date' YYYY-MM-DD
+                    value: d.price // Line chart fallback
+                    // open: d.open, high: d.high, low: d.low, close: d.close // If available
+                  }))}
+                  colors={{
+                    lineColor: isPositive ? '#10b981' : '#f43f5e',
+                    areaTopColor: isPositive ? 'rgba(16, 185, 129, 0.4)' : 'rgba(244, 63, 94, 0.4)',
+                    areaBottomColor: 'rgba(0,0,0,0)',
+                    textColor: '#71717a'
+                  }}
+                />
+              ) : (
+                <div className="h-full flex items-center justify-center text-zinc-500 text-sm">
+                  Grafik verisi yükleniyor...
+                </div>
+              )}
             </div>
             <div className="mt-4 text-[10px] text-zinc-700 text-center italic">
-              * Yahoo Finance'den alınan gerçek tarihsel veriler gösterilmektedir.
+              * TradingView altyapısı ile güçlendirilmiş interaktif grafik.
             </div>
           </div>
 
