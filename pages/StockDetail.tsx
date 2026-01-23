@@ -32,6 +32,7 @@ import { MOCK_STOCK_DETAIL, MOCK_TARGET_PRICES } from '../constants';
 import { BLOG_POSTS } from '../data/blogPosts';
 import { useWatchlist } from '../hooks/useWatchlist';
 import { Skeleton } from '../components/Skeleton';
+import StockDiscussion from '../components/StockDiscussion';
 
 const SidebarSection = ({ title, icon: Icon, children }: any) => (
   <div className="glass-panel p-5 rounded-2xl border border-white/5 mb-4 last:mb-0">
