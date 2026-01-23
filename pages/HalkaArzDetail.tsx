@@ -46,7 +46,8 @@ const HalkaArzDetail: React.FC = () => {
                         market: "Ana Pazar",
                         floatingRate: "%20,01",
                         totalSize: "1,1 Milyar TL",
-                        slug: "akhan-un-fabrikasi-ve-tarim-urunleri-gida-sanayi-tic-a-s"
+                        slug: "akhan-un-fabrikasi-ve-tarim-urunleri-gida-sanayi-tic-a-s",
+                        seoDescription: "Akhan Un Fabrikası halka arz ne zaman? 2026 Akhan Un halka arz fiyatı, borsa kodu, talep toplama tarihleri, izahname detayları ve katılım endeksi durumu YatirimX'te. Akhan Un hisse yorum ve analizleri."
                     },
                     {
                         code: "KOD_YOK",
@@ -60,7 +61,8 @@ const HalkaArzDetail: React.FC = () => {
                         distributionType: "Eşit Dağıtım",
                         market: "Ana Pazar",
                         floatingRate: "%27,61",
-                        slug: "netcad-yazilim-a-s"
+                        slug: "netcad-yazilim-a-s",
+                        seoDescription: "Netcad Yazılım halka arz tarihleri ve fiyatı. Netcad halka arz ne zaman işlem görecek? Netcad borsa kodu, hisse fiyatı, eşit dağıtım mı oransal mı? 2026 Netcad Yazılım halka arz detayları."
                     }
                 ];
 
@@ -133,7 +135,7 @@ const HalkaArzDetail: React.FC = () => {
             {ipo && (
                 <SEO
                     title={`${ipo.company} Halka Arzı Hakkında Bilmeniz Gerekenler – 2026`}
-                    description={`${ipo.company} (${ipo.code || 'KOD_YOK'}) halka arz fiyatı ${ipo.price > 0 ? ipo.price.toFixed(2) + ' TL' : 'belirlenmedi'}, halka arz tarihi ${ipo.dates} ve detaylı şirket analizi. Katılım endeksine uygunluk, dağıtım şekli ve uzman yorumları.`}
+                    description={ipo.seoDescription || `${ipo.company} (${ipo.code || 'KOD_YOK'}) halka arz fiyatı ${ipo.price > 0 ? ipo.price.toFixed(2) + ' TL' : 'belirlenmedi'}, halka arz tarihi ${ipo.dates} ve detaylı şirket analizi. Katılım endeksine uygunluk, dağıtım şekli ve uzman yorumları.`}
                     canonicalUrl={`https://yatirimx.com/${canonicalPath}/`}
                     keywords={`${ipo.code || ''}, ${ipo.company}, ${ipo.company} halka arz, ${ipo.company} yorum, ${ipo.company} ne zaman işlem görecek, halka arz takvimi`}
                 />
