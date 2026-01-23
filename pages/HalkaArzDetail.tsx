@@ -31,8 +31,41 @@ const HalkaArzDetail: React.FC = () => {
                 if (!response.ok) throw new Error('Failed to fetch');
                 const data = await response.json();
 
-                // Search in both active and draft
-                const allIpos = [...(data.active_ipos || []), ...(data.draft_ipos || [])];
+                // Manual override for missing items to ensure they show up
+                const hardcodedNewItems: any[] = [
+                    {
+                        code: "KOD_YOK",
+                        company: "Akhan Un Fabrikası ve Tarım Ürünleri Gıda Sanayi Tic. A.Ş.",
+                        dates: "Hazırlanıyor...",
+                        status: "Yeni!",
+                        logo: "https://halkarz.com/wp-content/uploads/2024/07/AKHANUN.jpg",
+                        url: "https://halkarz.com/akhan-un-fabrikasi-ve-tarim-urunleri-gida-sanayi-tic-a-s/",
+                        price: 21.50,
+                        lotCount: "54.7 Milyon",
+                        distributionType: "Eşit Dağıtım",
+                        market: "Ana Pazar",
+                        floatingRate: "%20,01",
+                        totalSize: "1,1 Milyar TL",
+                        slug: "akhan-un-fabrikasi-ve-tarim-urunleri-gida-sanayi-tic-a-s"
+                    },
+                    {
+                        code: "KOD_YOK",
+                        company: "Netcad Yazılım A.Ş.",
+                        dates: "Hazırlanıyor...",
+                        status: "Yeni!",
+                        logo: "https://halkarz.com/wp-content/uploads/2022/03/NETCD-2.jpg",
+                        url: "https://halkarz.com/netcad-yazilim-a-s/",
+                        price: 46.00,
+                        lotCount: "36.5 Milyon",
+                        distributionType: "Eşit Dağıtım",
+                        market: "Ana Pazar",
+                        floatingRate: "%27,61",
+                        slug: "netcad-yazilim-a-s"
+                    }
+                ];
+
+                // Search in both active and draft + hardcoded
+                const allIpos = [...hardcodedNewItems, ...(data.active_ipos || []), ...(data.draft_ipos || [])];
 
                 // Find IPO by generating the expected long slug for each and comparing with URL param
                 const found = allIpos.find((item) => {
