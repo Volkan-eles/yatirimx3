@@ -24,6 +24,7 @@ import {
   BookOpen,
   ArrowRight,
   Star
+} from 'lucide-react';
 import TradingViewWidget from '../components/TradingViewWidget';
 import { slugify } from '../utils/slugify';
 import SEO from '../components/SEO';
