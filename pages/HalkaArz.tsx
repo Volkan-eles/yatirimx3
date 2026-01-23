@@ -149,17 +149,7 @@ const HalkaArz: React.FC = () => {
                 const data = await response.json();
                 console.log("Fetched data:", data);
 
-                // Sort active IPOs: 'Yeni' and 'Talep Toplanıyor' come first
-                const sortedActive = (data.active_ipos || []).sort((a: IPOItem, b: IPOItem) => {
-                    const getPriority = (status: string) => {
-                        if (status.includes('Yeni') || status.includes('Talep Toplanıyor')) return 3;
-                        if (status.includes('Onaylı')) return 2;
-                        return 1;
-                    };
-                    return getPriority(b.status) - getPriority(a.status);
-                });
-
-                setIpos(sortedActive);
+                setIpos(data.active_ipos || []);
                 setDraftIpos(data.draft_ipos || []);
             } catch (error) {
                 console.error("Failed to fetch IPO data", error);
