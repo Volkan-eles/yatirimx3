@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen, Star, Coins, MessageSquare } from 'lucide-react';
+import { Search, TrendingUp, Menu, X, BarChart3, PieChart, Calendar, Briefcase, ChevronRight, Layers, Settings, Command, Home as HomeIcon, LineChart, Building2, BookOpen, Star, Coins, MessageSquare, User } from 'lucide-react';
 import Footer from './Footer';
 import { slugify } from '../utils/slugify';
 
@@ -230,7 +230,6 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
       title: 'Diğer',
       items: [
         { name: 'Blog', path: '/blog', icon: BookOpen },
-        { name: 'Forum', path: '/forum', icon: MessageSquare },
         { name: 'Favorilerim', path: '/izleme-listesi', icon: Star },
       ]
     }
@@ -327,8 +326,6 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
                   placeholder="Hisse Ara..."
                   className="bg-transparent border-none outline-none text-xs text-zinc-200 placeholder-zinc-600 w-full ml-2 font-medium"
                   value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
-                  onFocus={() => setShowResults(true)}
                 />
                 <div className="hidden md:flex group-focus-within:hidden items-center gap-1 border border-white/10 rounded px-1.5 py-0.5 bg-white/5">
                   <span className="text-[9px] text-zinc-500 font-bold font-mono">/</span>
@@ -370,6 +367,9 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
               <div className="h-6 w-px bg-white/10 hidden md:block mx-1"></div>
 
               {/* Mobile Menu Button - Show on LG screens and below now */}
+              <Link to="/giris" className="hidden md:flex p-2 text-zinc-400 hover:text-white relative z-50 hover:bg-white/5 rounded-xl transition-colors">
+                <User className="w-5 h-5" />
+              </Link>
               <button
                 className="xl:hidden p-2 text-zinc-400 hover:text-white relative z-50 hover:bg-white/5 rounded-xl transition-colors"
                 onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
