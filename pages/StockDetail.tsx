@@ -739,9 +739,10 @@ const StockDetail: React.FC = () => {
                     // open: d.open, high: d.high, low: d.low, close: d.close // If available
                   }))}
                   colors={{
+                    backgroundColor: '#18181b', // Match card background
                     lineColor: isPositive ? '#10b981' : '#f43f5e',
                     areaTopColor: isPositive ? 'rgba(16, 185, 129, 0.4)' : 'rgba(244, 63, 94, 0.4)',
-                    areaBottomColor: 'rgba(0,0,0,0)',
+                    areaBottomColor: 'rgba(24, 24, 27, 0.0)', // Fade to bg color
                     textColor: '#71717a'
                   }}
                 />
