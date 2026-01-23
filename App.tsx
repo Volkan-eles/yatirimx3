@@ -3,39 +3,41 @@ import { BrowserRouter as Router, Routes, Route, useLocation, Navigate } from 'r
 import { Toaster } from 'react-hot-toast';
 import Layout from './components/Layout';
 
+import { lazyWithRetry } from './utils/lazyWithRetry';
+
 // Lazy Load Pages for Performance
-const Home = lazy(() => import('./pages/Home'));
-const Borsa = lazy(() => import('./pages/Borsa'));
-const NotFound = React.lazy(() => import('./pages/NotFound'));
-const StockDetail = lazy(() => import('./pages/StockDetail'));
-const HedefFiyat = lazy(() => import('./pages/HedefFiyat'));
-const HedefFiyatDetail = lazy(() => import('./pages/HedefFiyatDetail'));
-const Temettu = lazy(() => import('./pages/Temettu'));
-const TemettuDetail = lazy(() => import('./pages/TemettuDetail'));
-const HalkaArz = lazy(() => import('./pages/HalkaArz'));
-const HalkaArzDetail = lazy(() => import('./pages/HalkaArzDetail'));
-const AraciKurumlar = lazy(() => import('./pages/AraciKurumlar'));
-const BrokerDetail = lazy(() => import('./pages/BrokerDetail'));
-const SermayeArtirimi = lazy(() => import('./pages/SermayeArtirimi'));
-const Blog = lazy(() => import('./pages/Blog'));
-const BlogDetail = lazy(() => import('./pages/BlogDetail'));
-const Watchlist = lazy(() => import('./pages/Watchlist'));
-const MarketHeatmapPage = lazy(() => import('./pages/MarketHeatmapPage'));
-const Emtia = lazy(() => import('./pages/Emtia'));
-const EmtiaDetail = lazy(() => import('./pages/EmtiaDetail'));
+const Home = lazyWithRetry(() => import('./pages/Home'));
+const Borsa = lazyWithRetry(() => import('./pages/Borsa'));
+const NotFound = lazyWithRetry(() => import('./pages/NotFound'));
+const StockDetail = lazyWithRetry(() => import('./pages/StockDetail'));
+const HedefFiyat = lazyWithRetry(() => import('./pages/HedefFiyat'));
+const HedefFiyatDetail = lazyWithRetry(() => import('./pages/HedefFiyatDetail'));
+const Temettu = lazyWithRetry(() => import('./pages/Temettu'));
+const TemettuDetail = lazyWithRetry(() => import('./pages/TemettuDetail'));
+const HalkaArz = lazyWithRetry(() => import('./pages/HalkaArz'));
+const HalkaArzDetail = lazyWithRetry(() => import('./pages/HalkaArzDetail'));
+const AraciKurumlar = lazyWithRetry(() => import('./pages/AraciKurumlar'));
+const BrokerDetail = lazyWithRetry(() => import('./pages/BrokerDetail'));
+const SermayeArtirimi = lazyWithRetry(() => import('./pages/SermayeArtirimi'));
+const Blog = lazyWithRetry(() => import('./pages/Blog'));
+const BlogDetail = lazyWithRetry(() => import('./pages/BlogDetail'));
+const Watchlist = lazyWithRetry(() => import('./pages/Watchlist'));
+const MarketHeatmapPage = lazyWithRetry(() => import('./pages/MarketHeatmapPage'));
+const Emtia = lazyWithRetry(() => import('./pages/Emtia'));
+const EmtiaDetail = lazyWithRetry(() => import('./pages/EmtiaDetail'));
 
 // Auth
-const Login = lazy(() => import('./pages/Login'));
-const ResetPassword = lazy(() => import('./pages/ResetPassword'));
-const Profile = lazy(() => import('./pages/Profile'));
-const Portfolio = lazy(() => import('./pages/Portfolio'));
-const Comparison = lazy(() => import('./pages/Comparison'));
+const Login = lazyWithRetry(() => import('./pages/Login'));
+const ResetPassword = lazyWithRetry(() => import('./pages/ResetPassword'));
+const Profile = lazyWithRetry(() => import('./pages/Profile'));
+const Portfolio = lazyWithRetry(() => import('./pages/Portfolio'));
+const Comparison = lazyWithRetry(() => import('./pages/Comparison'));
 
 // Legal and Corporate Pages - Lazy Loaded
-const Hakkimizda = lazy(() => import('./pages/Hakkimizda'));
-const Iletisim = lazy(() => import('./pages/Iletisim'));
-const GizlilikPolitikasi = lazy(() => import('./pages/GizlilikPolitikasi'));
-const KullanimKosullari = lazy(() => import('./pages/KullanimKosullari'));
+const Hakkimizda = lazyWithRetry(() => import('./pages/Hakkimizda'));
+const Iletisim = lazyWithRetry(() => import('./pages/Iletisim'));
+const GizlilikPolitikasi = lazyWithRetry(() => import('./pages/GizlilikPolitikasi'));
+const KullanimKosullari = lazyWithRetry(() => import('./pages/KullanimKosullari'));
 
 const ScrollToTop = () => {
   const { pathname } = useLocation();
