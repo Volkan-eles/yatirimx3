@@ -887,6 +887,8 @@ const StockDetail: React.FC = () => {
               </Link>
             </div>
           </div>
+
+          <StockDiscussion symbol={stock.code || code || ''} />
         </div>
 
         {/* Sidebar Panel */}
