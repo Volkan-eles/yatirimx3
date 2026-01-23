@@ -308,6 +308,10 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
                 ]}
               />
 
+              <NavLink to="/forum" icon={MessageSquare} active={location.pathname.startsWith('/forum')}>
+                Forum
+              </NavLink>
+
               <NavLink to="/izleme-listesi" icon={Star} active={location.pathname === '/izleme-listesi'}>
                 İzleme Listesi
               </NavLink>
