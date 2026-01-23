@@ -1,5 +1,14 @@
 [
   {
+    "code": "SMRTG",
+    "company": "SMRTG Smart Güneş Enerjisi Teknolojileri Ar-Ge Üretim San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "23.01.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 1.211.760.000 TL"
+  },
+  {
     "code": "SODSN",
     "company": "SODSN Sodaş Sodyum Sanayi A.Ş.",
     "type": "Bedelsiz",
@@ -52,15 +61,6 @@
     "date": "09.12.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "SMRTG",
-    "company": "SMRTG Smart Güneş Enerjisi Teknolojileri Ar-Ge Üretim San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "09.12.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1.211.760.000 TL"
   },
   {
     "code": "YAPRK",
@@ -214,6 +214,24 @@
     "date": "22.09.2023",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "MANAS",
+    "company": "MANAS Manas Enerji Yönetimi San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%200",
+    "date": "23.01.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 331.056.000 TL"
+  },
+  {
+    "code": "FRIGO",
+    "company": "FRIGO Frigo-Pak Gida Maddeleri San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%239.89",
+    "date": "23.01.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 352.897.525 TL"
   },
   {
     "code": "FENER",
@@ -387,15 +405,6 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
-    "code": "FRIGO",
-    "company": "FRIGO Frigo-Pak Gida Maddeleri San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%239.89",
-    "date": "30.07.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 352.897.525 TL"
-  },
-  {
     "code": "KRTEK",
     "company": "KRTEK Karsu Tekstil San. ve Tic. A.Ş.",
     "type": "Bedelli",
@@ -403,15 +412,6 @@
     "date": "07.07.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 105.301.495 TL"
-  },
-  {
-    "code": "MANAS",
-    "company": "MANAS Manas Enerji Yönetimi San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%200",
-    "date": "25.06.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 331.056.000 TL"
   },
   {
     "code": "MRGYO",
