@@ -65,6 +65,12 @@ const IPOCard: React.FC<{ ipo: IPOItem; isDraft?: boolean }> = ({ ipo, isDraft }
                 </div>
             )}
 
+            {!isDraft && ipo.status === 'Yeni' && !/\d/.test(ipo.dates) && (
+                <div className="absolute top-0 right-0 bg-blue-600 text-white text-[10px] font-bold px-3 py-1 rounded-bl-xl shadow-lg animate-pulse">
+                    YENİ
+                </div>
+            )}
+
             {!isDraft && ipo.status === 'Onaylı' && (
                 <div className="absolute top-0 right-0 bg-amber-600 text-white text-[10px] font-bold px-3 py-1 rounded-bl-xl shadow-lg">
                     ONAYLANDI - TARİH BEKLENİYOR
@@ -142,7 +148,18 @@ const HalkaArz: React.FC = () => {
                 if (!response.ok) throw new Error('Data fetch failed');
                 const data = await response.json();
                 console.log("Fetched data:", data);
-                setIpos(data.active_ipos || []);
+
+                // Sort active IPOs: 'Yeni' and 'Talep Toplanıyor' come first
+                const sortedActive = (data.active_ipos || []).sort((a: IPOItem, b: IPOItem) => {
+                    const getPriority = (status: string) => {
+                        if (status.includes('Yeni') || status.includes('Talep Toplanıyor')) return 3;
+                        if (status.includes('Onaylı')) return 2;
+                        return 1;
+                    };
+                    return getPriority(b.status) - getPriority(a.status);
+                });
+
+                setIpos(sortedActive);
                 setDraftIpos(data.draft_ipos || []);
             } catch (error) {
                 console.error("Failed to fetch IPO data", error);
