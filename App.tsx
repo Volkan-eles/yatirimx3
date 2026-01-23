@@ -6,7 +6,6 @@ import Layout from './components/Layout';
 // Lazy Load Pages for Performance
 const Home = lazy(() => import('./pages/Home'));
 const Borsa = lazy(() => import('./pages/Borsa'));
-const ComparePage = React.lazy(() => import('./pages/ComparePage'));
 const NotFound = React.lazy(() => import('./pages/NotFound'));
 const StockDetail = lazy(() => import('./pages/StockDetail'));
 const HedefFiyat = lazy(() => import('./pages/HedefFiyat'));
@@ -82,8 +81,8 @@ function App() {
             {/* Redirect old route */}
             <Route path="/temettu" element={<Navigate to="/temettu-takvimi-2026" replace />} />
 
-            {/* Watchlist route already defined at line 55 */}
-            <Route path="/karsilastir" element={<ComparePage />} />
+            {/* Watchlist route already defined at line 65 */}
+            {/* Removed duplicate Reference */}
             <Route path="/piyasa-haritasi" element={<MarketHeatmapPage />} />
             <Route path="/emtia" element={<Emtia />} />
             <Route path="/emtia/:slug" element={<EmtiaDetail />} />
