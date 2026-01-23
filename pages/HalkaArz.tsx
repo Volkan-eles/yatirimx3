@@ -144,7 +144,7 @@ const HalkaArz: React.FC = () => {
         const fetchData = async () => {
             try {
                 console.log("Fetching IPO data...");
-                const response = await fetch('/halkarz_ipos.json');
+                const response = await fetch(`/halkarz_ipos.json?v=${new Date().getTime()}`);
                 if (!response.ok) throw new Error('Data fetch failed');
                 const data = await response.json();
                 console.log("Fetched data:", data);
