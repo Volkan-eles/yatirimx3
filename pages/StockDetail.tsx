@@ -25,7 +25,7 @@ import {
   ArrowRight,
   Star
 } from 'lucide-react';
-import TradingViewWidget from '../components/TradingViewWidget';
+import TradingViewChart from '../components/TradingViewChart';
 import { slugify } from '../utils/slugify';
 import SEO from '../components/SEO';
 import { MOCK_STOCK_DETAIL, MOCK_TARGET_PRICES } from '../constants';
