@@ -563,7 +563,7 @@ const StockDetail: React.FC = () => {
       <nav className="flex items-center gap-2 text-[11px] font-bold uppercase tracking-widest text-zinc-600 mb-8">
         <Link to="/" className="hover:text-white transition-colors">Ana Sayfa</Link>
         <span>/</span>
-        <Link to="/piyasa" className="hover:text-white transition-colors">Borsa</Link>
+        <Link to="/piyasa/" className="hover:text-white transition-colors">Borsa</Link>
         <span>/</span>
         <span className="text-zinc-400">{stock.code}</span>
         <div className="ml-auto">
@@ -902,7 +902,7 @@ const StockDetail: React.FC = () => {
               ))}
             </div>
             <div className="mt-4 pt-4 border-t border-white/5 text-center">
-              <Link to="/blog" className="text-xs font-bold text-blue-500 hover:text-blue-400 flex items-center justify-center gap-1">
+              <Link to="/blog/" className="text-xs font-bold text-blue-500 hover:text-blue-400 flex items-center justify-center gap-1">
                 Tüm Analizleri Gör <ArrowRight className="w-3 h-3" />
               </Link>
             </div>
@@ -934,7 +934,7 @@ const StockDetail: React.FC = () => {
                 <div className="text-[10px] text-emerald-500/60 font-bold uppercase mt-1">Verim: %{dividendInfo.t_yuzde}</div>
               </div>
               <SidebarItem label="Ödeme Tarihi" value={dividendInfo.t_tarih} />
-              <Link to="/temettu" className="block w-full py-2 bg-zinc-800 hover:bg-zinc-700 text-center rounded-lg text-xs font-bold text-white transition-colors mt-2">
+              <Link to="/temettu-takvimi-2026/" className="block w-full py-2 bg-zinc-800 hover:bg-zinc-700 text-center rounded-lg text-xs font-bold text-white transition-colors mt-2">
                 Temettü Takvimine Git
               </Link>
             </SidebarSection>

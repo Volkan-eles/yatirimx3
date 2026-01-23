@@ -161,7 +161,7 @@ const Comparison = () => {
 
             {/* Call to Action */}
             <div className="mt-12 text-center">
-                <Link to="/piyasa" className="text-sm font-bold text-blue-500 hover:text-blue-400 flex items-center justify-center gap-2">
+                <Link to="/piyasa/" className="text-sm font-bold text-blue-500 hover:text-blue-400 flex items-center justify-center gap-2">
                     Tüm Hisseleri İncele <ArrowRight className="w-4 h-4" />
                 </Link>
             </div>

@@ -81,7 +81,7 @@ const BrokerDetail: React.FC = () => {
                     <Info className="w-12 h-12 text-zinc-700" />
                 </div>
                 <h2 className="text-xl font-bold text-white mb-2">Kurum Kaydı Bulunamadı</h2>
-                <Link to="/araci-kurumlar" className="text-blue-400 hover:underline">Kurumlar Listesine Dön</Link>
+                <Link to="/araci-kurumlar/" className="text-blue-400 hover:underline">Kurumlar Listesine Dön</Link>
             </div>
         );
     }
@@ -108,7 +108,7 @@ const BrokerDetail: React.FC = () => {
             {/* Header */}
             <div className="flex flex-col md:flex-row items-start md:items-end justify-between gap-6 pb-8 border-b border-white/5">
                 <div className="flex items-center gap-6">
-                    <Link to="/araci-kurumlar" className="p-3 bg-zinc-900 border border-white/10 rounded-2xl text-zinc-500 hover:text-white transition-all shadow-lg">
+                    <Link to="/araci-kurumlar/" className="p-3 bg-zinc-900 border border-white/10 rounded-2xl text-zinc-500 hover:text-white transition-all shadow-lg">
                         <ArrowLeft className="w-6 h-6" />
                     </Link>
                     <div>

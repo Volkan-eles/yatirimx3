@@ -280,7 +280,7 @@ const Home: React.FC = () => {
               <span className="flex items-center gap-1.5"><Briefcase className="w-4 h-4" /> {MOCK_IPOS[0].distributionType}</span>
             </div>
           </div>
-          <Link to="/halka-arz" className="px-6 py-3 bg-white/5 border border-white/10 rounded-xl text-white font-bold text-sm hover:bg-white/10 transition-all flex items-center gap-2">
+          <Link to="/halka-arz/" className="px-6 py-3 bg-white/5 border border-white/10 rounded-xl text-white font-bold text-sm hover:bg-white/10 transition-all flex items-center gap-2">
             İncele <ArrowRight className="w-4 h-4" />
           </Link>
           <div className="absolute top-0 right-0 w-40 h-40 bg-blue-500/5 rounded-full blur-3xl"></div>

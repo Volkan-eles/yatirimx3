@@ -136,7 +136,7 @@ const EmtiaDetail: React.FC = () => {
                     <div className="flex items-center text-xs md:text-sm text-zinc-400 overflow-x-auto whitespace-nowrap">
                         <Link to="/" className="hover:text-white transition-colors">Ana Sayfa</Link>
                         <ChevronRight className="w-4 h-4 mx-1" />
-                        <Link to="/emtia" className="hover:text-white transition-colors">Emtia</Link>
+                        <Link to="/emtia/" className="hover:text-white transition-colors">Emtia</Link>
                         <ChevronRight className="w-4 h-4 mx-1" />
                         <span className="text-zinc-200 font-medium">{commodity.name}</span>
                     </div>

@@ -57,7 +57,7 @@ const BlogDetail: React.FC = () => {
         return (
             <div className="min-h-[60vh] flex flex-col items-center justify-center text-center">
                 <h2 className="text-3xl font-bold text-white mb-4">Yazı Bulunamadı</h2>
-                <Link to="/blog" className="text-blue-500 hover:text-blue-400 font-bold flex items-center gap-2">
+                <Link to="/blog/" className="text-blue-500 hover:text-blue-400 font-bold flex items-center gap-2">
                     <ArrowLeft className="w-4 h-4" /> Bloga Dön
                 </Link>
             </div>
@@ -137,7 +137,7 @@ const BlogDetail: React.FC = () => {
             />
 
             {/* Navigation */}
-            <Link to="/blog" className="inline-flex items-center gap-2 text-zinc-500 hover:text-white transition-colors mb-8 font-medium text-sm">
+            <Link to="/blog/" className="inline-flex items-center gap-2 text-zinc-500 hover:text-white transition-colors mb-8 font-medium text-sm">
                 <ArrowLeft className="w-4 h-4" /> Tüm Yazılar
             </Link>
 
@@ -322,7 +322,7 @@ const BlogDetail: React.FC = () => {
                 <p className="text-zinc-400 mb-8 max-w-xl mx-auto">
                     En güncel analizler ve piyasa verileri için YatırımX'i takipte kalın.
                 </p>
-                <Link to="/piyasa" className="inline-flex items-center gap-2 px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-2xl transition-all hover:scale-105">
+                <Link to="/piyasa/" className="inline-flex items-center gap-2 px-8 py-4 bg-blue-600 hover:bg-blue-700 text-white font-bold rounded-2xl transition-all hover:scale-105">
                     Canlı Borsayı İzle <ArrowRight className="w-5 h-5" />
                 </Link>
             </div>

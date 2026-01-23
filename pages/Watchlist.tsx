@@ -79,7 +79,7 @@ const Watchlist: React.FC = () => {
                                 <Star className="w-4 h-4 fill-yellow-500 text-yellow-500" />
                             </button>
 
-                            <Link to={`/hisse/${slugify(`${stock.code} Hisse Senedi Fiyatı Grafiği ${stock.code} Yorumu 2026`)}`} className="block">
+                            <Link to={`/hisse/${slugify(`${stock.code} Hisse Senedi Fiyatı Grafiği ${stock.code} Yorumu 2026`)}/`} className="block">
                                 <div className="flex justify-between items-start mb-4">
                                     <div>
                                         <div className="font-black text-xl text-white mb-0.5 group-hover:text-blue-400 transition-colors">{stock.code}</div>
