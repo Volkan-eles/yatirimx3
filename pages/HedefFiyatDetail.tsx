@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft, TrendingUp, TrendingDown, Calendar, Target, Award, BarChart3, Clock, DollarSign, Percent, Building2, HelpCircle } from 'lucide-react';
 import SEO from '../components/SEO';
 import { slugify } from '../utils/slugify';
+import { fixTurkishChars } from '../utils/fixEncoding';
 
 // Halkarz data structure
 interface HalkarzTargetPrice {
