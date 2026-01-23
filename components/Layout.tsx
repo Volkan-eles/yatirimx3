@@ -515,5 +515,6 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
         {/* Footer */}
         <Footer />
       </div>
-      );
+    </div>
+  );
 }
