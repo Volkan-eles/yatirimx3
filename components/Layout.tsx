@@ -329,9 +329,7 @@ export default function Layout({ children }: { children?: React.ReactNode }) {
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
                   onFocus={() => setShowResults(true)}
-               <NavLink to="/forum" icon={MessageSquare} active={location.pathname.startsWith('/forum')}>
-                  Forum
-                </NavLink>
+                />
                 <div className="hidden md:flex group-focus-within:hidden items-center gap-1 border border-white/10 rounded px-1.5 py-0.5 bg-white/5">
                   <span className="text-[9px] text-zinc-500 font-bold font-mono">/</span>
                 </div>
