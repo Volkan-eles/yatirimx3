@@ -732,10 +732,15 @@ const StockDetail: React.FC = () => {
             <div className="h-[400px] w-full">
               {stock.historicalData && stock.historicalData.length > 0 ? (
                 <TradingViewChart
-                  data={stock.historicalData.map((d: any) => ({
-                    time: d.date,
-                    value: d.price
-                  }))}
+                  data={stock.historicalData.map((d: any, index: number) => {
+                    // Synthesize data if missing (reverse index)
+                    const date = new Date();
+                    date.setDate(date.getDate() - (stock.historicalData.length - index));
+                    return {
+                      time: d.date || date.toISOString().split('T')[0],
+                      value: d.price || d.Close || d.close || 0
+                    };
+                  })}
                   colors={{
                     backgroundColor: '#18181b',
                     lineColor: isPositive ? '#10b981' : '#f43f5e',
