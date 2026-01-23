@@ -27,6 +27,7 @@ const EmtiaDetail = lazy(() => import('./pages/EmtiaDetail'));
 
 // Auth
 const Login = lazy(() => import('./pages/Login'));
+const ResetPassword = lazy(() => import('./pages/ResetPassword'));
 
 // Legal and Corporate Pages - Lazy Loaded
 const Hakkimizda = lazy(() => import('./pages/Hakkimizda'));
@@ -66,6 +67,7 @@ function App() {
 
             {/* Auth Routes */}
             <Route path="/giris" element={<Login />} />
+            <Route path="/reset-sifre" element={<ResetPassword />} />
 
             {/* Forum Routes Removed - Replaced by Stock Specific Discussions */}
 
