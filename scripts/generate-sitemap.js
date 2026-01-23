@@ -31,18 +31,18 @@ const TODAY = new Date().toISOString().split('T')[0];
 
 const createUrlEntry = (urlPath, priority = '0.8', changefreq = 'daily') => {
     // Ensure path starts with / and clean duplicate slashes
-    const cleanPath = ('/' + urlPath).replace(/\/\//g, '/');
+    let cleanPath = ('/' + urlPath).replace(/\/\//g, '/');
 
-    let url = `${BASE_URL}${cleanPath}`;
+    // Default: Add trailing slash if it's not a file
+    // We assume anything with a dot in the last segment is a file (e.g., sitemap.xml, robot.txt)
+    const lastSegment = cleanPath.split('/').pop();
+    const isFile = lastSegment.includes('.') && lastSegment.length > 1; // Basic file check
 
-    // Logic to add trailing slash:
-    // Add if it doesn't end with slash AND doesn't look like a file (has extension at the end)
-    // We check the path part only for the dot to avoid matching the domain's dot.
-    const isFile = cleanPath.split('/').pop().includes('.'); // Crude check, but works for .xml, .png etc.
-
-    if (!url.endsWith('/') && !isFile) {
-        url += '/';
+    if (!isFile && !cleanPath.endsWith('/')) {
+        cleanPath += '/';
     }
+
+    const url = `${BASE_URL}${cleanPath}`;
 
     return `
   <url>
@@ -78,21 +78,22 @@ const main = () => {
 
     // 1. Static Pages
     const staticPages = [
-        { url: '', priority: '1.0', changefreq: 'daily' },
-        { url: 'piyasa', priority: '0.9', changefreq: 'hourly' },
-        { url: 'piyasa-haritasi', priority: '0.9', changefreq: 'hourly' },
-        { url: 'izleme-listesi', priority: '0.8', changefreq: 'daily' },
-        { url: 'karsilastir', priority: '0.8', changefreq: 'daily' },
-        { url: 'temettu-takvimi-2026', priority: '0.9', changefreq: 'daily' },
-        { url: 'halka-arz', priority: '0.8', changefreq: 'daily' },
-        { url: 'hedef-fiyat', priority: '0.8', changefreq: 'daily' },
-        { url: 'sermaye-artirimi', priority: '0.7', changefreq: 'weekly' },
-        { url: 'araci-kurumlar', priority: '0.7', changefreq: 'weekly' },
-        { url: 'blog', priority: '0.7', changefreq: 'weekly' },
-        { url: 'hakkimizda', priority: '0.5', changefreq: 'monthly' },
-        { url: 'iletisim', priority: '0.5', changefreq: 'monthly' },
-        { url: 'gizlilik-politikasi', priority: '0.3', changefreq: 'yearly' },
-        { url: 'kullanim-kosullari', priority: '0.3', changefreq: 'yearly' },
+        { url: '/', priority: '1.0', changefreq: 'daily' },
+        { url: '/piyasa/', priority: '0.9', changefreq: 'hourly' },
+        { url: '/piyasa-haritasi/', priority: '0.9', changefreq: 'hourly' },
+        { url: '/izleme-listesi/', priority: '0.8', changefreq: 'daily' },
+        { url: '/karsilastir/', priority: '0.8', changefreq: 'daily' },
+        { url: '/temettu-takvimi-2026/', priority: '0.9', changefreq: 'daily' },
+        { url: '/halka-arz/', priority: '0.8', changefreq: 'daily' },
+        { url: '/hedef-fiyat/', priority: '0.8', changefreq: 'daily' },
+        { url: '/sermaye-artirimi/', priority: '0.7', changefreq: 'weekly' },
+        { url: '/araci-kurumlar/', priority: '0.7', changefreq: 'weekly' },
+        { url: '/blog/', priority: '0.7', changefreq: 'weekly' },
+        { url: '/hakkimizda/', priority: '0.5', changefreq: 'monthly' },
+        { url: '/iletisim/', priority: '0.5', changefreq: 'monthly' },
+        { url: '/gizlilik-politikasi/', priority: '0.3', changefreq: 'yearly' },
+        { url: '/kullanim-kosullari/', priority: '0.3', changefreq: 'yearly' },
+        { url: '/cerez-politikasi/', priority: '0.3', changefreq: 'yearly' },
     ];
 
     staticPages.forEach(page => {
@@ -109,7 +110,7 @@ const main = () => {
         bistData.stocks.forEach(stock => {
             // Format: /hisse/[CODE] Hisse Senedi Fiyatı Grafiği [CODE] Yorumu 2026/
             const longSlug = slugify(`${stock.code} Hisse Senedi Fiyatı Grafiği ${stock.code} Yorumu 2026`);
-            xml += createUrlEntry(`/hisse/${longSlug}`, '0.9', 'hourly');
+            xml += createUrlEntry(`/hisse/${longSlug}/`, '0.9', 'hourly');
             processedStocks.add(stock.code);
         });
     }
@@ -122,7 +123,7 @@ const main = () => {
             if (item.code && !processedStocks.has(item.code)) {
                 // Same URL format
                 const longSlug = slugify(`${item.code} Hisse Senedi Fiyatı Grafiği ${item.code} Yorumu 2026`);
-                xml += createUrlEntry(`/hisse/${longSlug}`, '0.8', 'weekly');
+                xml += createUrlEntry(`/hisse/${longSlug}/`, '0.8', 'weekly');
                 processedStocks.add(item.code);
                 addedCount++;
             }
@@ -131,26 +132,20 @@ const main = () => {
     }
 
     // 3. Dynamic IPOs (/halka-arz/...)
-    // Source: halkarz_ipos.json
     const ipoData = loadJson('halkarz_ipos.json');
-    // ipoData is an object { active_ipos: [...], draft_ipos: [...] }
     const allIpos = [];
     if (ipoData) {
         if (Array.isArray(ipoData.active_ipos)) allIpos.push(...ipoData.active_ipos);
         if (Array.isArray(ipoData.draft_ipos)) allIpos.push(...ipoData.draft_ipos);
-        // Fallback if it is just an array
         if (Array.isArray(ipoData)) allIpos.push(...ipoData);
     }
 
     if (allIpos.length > 0) {
         console.log(`Processing ${allIpos.length} IPOs...`);
         allIpos.forEach(ipo => {
-            // Format: /halka-arz/[slug]/
-            // If explicit slug exists, use it. Otherwise try to extract from link or slugify company name.
             let slug = ipo.slug;
 
             if (!slug && ipo.link) {
-                // Extract from https://halkarz.com/slug-name/
                 const matches = ipo.link.match(/halkarz\.com\/([^\/]+)\/?$/);
                 if (matches && matches[1]) {
                     slug = matches[1];
@@ -162,41 +157,33 @@ const main = () => {
             }
 
             if (slug) {
-                // Ensure we use the full company name based slug if possible for better SEO, 
-                // but if we extracted a slug from the link, that's usually good too.
-                // We append the requested suffix.
                 let baseSlug = slug;
                 const suffix = '-halka-arzi-hakkinda-bilmeniz-gerekenler-2026';
 
-                // Avoid double suffixing if run multiple times or if slug already has it
                 if (!baseSlug.endsWith(suffix)) {
-                    xml += createUrlEntry(`/halka-arz/${baseSlug}${suffix}`, '0.8', 'weekly');
+                    xml += createUrlEntry(`/halka-arz/${baseSlug}${suffix}/`, '0.8', 'weekly');
                 } else {
-                    xml += createUrlEntry(`/halka-arz/${baseSlug}`, '0.8', 'weekly');
+                    xml += createUrlEntry(`/halka-arz/${baseSlug}/`, '0.8', 'weekly');
                 }
             }
         });
     }
 
     // 4. Dynamic Dividends (/temettu/...)
-    // Source: temettu.json
     const dividendData = loadJson('temettu.json');
     if (dividendData && Array.isArray(dividendData)) {
         console.log(`Processing ${dividendData.length} dividends...`);
         dividendData.forEach(item => {
-            // Format: /temettu/[Code] Temettü Tarihi 2026 Ne Kadar Verecek/
             if (item.t_bistkod) {
                 const longSlug = slugify(`${item.t_bistkod} Temettü Tarihi 2026 Ne Kadar Verecek`);
-                xml += createUrlEntry(`/temettu/${longSlug}`, '0.8', 'weekly');
+                xml += createUrlEntry(`/temettu/${longSlug}/`, '0.8', 'weekly');
             }
         });
     }
 
     // 5. Dynamic Target Prices (/hedef-fiyat/...)
-    // Source: halkarz_target_prices.json
     const targetData = loadJson('halkarz_target_prices.json');
     if (targetData && Array.isArray(targetData)) {
-        // Group by stock code since detail page is per stock
         const stocksWithTargets = new Set();
         targetData.forEach(item => {
             if (item.code) stocksWithTargets.add(item.code);
@@ -205,30 +192,25 @@ const main = () => {
         console.log(`Processing ${stocksWithTargets.size} target prices...`);
 
         stocksWithTargets.forEach(code => {
-            // Format: /hedef-fiyat/[Code] Hedef Fiyat 2026/
             const longSlug = slugify(`${code} Hedef Fiyat 2026`);
-            xml += createUrlEntry(`/hedef-fiyat/${longSlug}`, '0.8', 'daily');
+            xml += createUrlEntry(`/hedef-fiyat/${longSlug}/`, '0.8', 'daily');
         });
     }
 
     // 6. Dynamic Brokers (/araci-kurumlar/...)
-    // Source: brokers_tefas.json
     const brokerData = loadJson('brokers_tefas.json');
     if (brokerData && Array.isArray(brokerData)) {
         console.log(`Processing ${brokerData.length} brokers...`);
         brokerData.forEach(broker => {
-            // Broker names might need slugification
-            // Checking if broker has a name property
             const name = broker.name || broker.title || broker.kurum;
             if (name) {
                 const longSlug = slugify(name);
-                xml += createUrlEntry(`/araci-kurumlar/${longSlug}`, '0.7', 'weekly');
+                xml += createUrlEntry(`/araci-kurumlar/${longSlug}/`, '0.7', 'weekly');
             }
         });
     }
 
     // 7. Dynamic Blog Posts (/blog/...)
-    // Parse data/blogPosts.ts - Hardcoded fallback for reliability
     console.log('Adding blog posts...');
     const blogSlugs = [
         'halka-arz-takvimi-2026-taslak',
@@ -243,20 +225,15 @@ const main = () => {
     blogSlugs.forEach(slug => {
         xml += createUrlEntry(`/blog/${slug}/`, '0.8', 'weekly');
     });
-    console.log(`Processing ${blogSlugs.length} blog posts...`);
 
     // 8. Dynamic Commodities (/emtia/...)
-    // Source: emtia.json
     const emtiaData = loadJson('emtia.json');
     if (emtiaData && Array.isArray(emtiaData)) {
         console.log(`Processing ${emtiaData.length} commodities...`);
         emtiaData.forEach(item => {
-            // Format: /emtia/[slug]
             if (item.name) {
-                // Use the same slugify logic as frontend but tailored for our sitemap helper if needed.
-                // Or just use the local sitemap slugify helper which mimics it.
                 const slug = slugify(item.name);
-                xml += createUrlEntry(`/emtia/${slug}`, '0.9', 'hourly');
+                xml += createUrlEntry(`/emtia/${slug}/`, '0.9', 'hourly');
             }
         });
     }
