@@ -25,10 +25,8 @@ const MarketHeatmapPage = lazy(() => import('./pages/MarketHeatmapPage'));
 const Emtia = lazy(() => import('./pages/Emtia'));
 const EmtiaDetail = lazy(() => import('./pages/EmtiaDetail'));
 
-// Forum
-const Forum = lazy(() => import('./pages/Forum'));
-const ForumDetail = lazy(() => import('./pages/ForumDetail'));
-const CreateTopic = lazy(() => import('./pages/CreateTopic'));
+// Auth
+const Login = lazy(() => import('./pages/Login'));
 
 // Legal and Corporate Pages - Lazy Loaded
 const Hakkimizda = lazy(() => import('./pages/Hakkimizda'));
@@ -66,11 +64,10 @@ function App() {
             <Route path="/hedef-fiyat/:code" element={<HedefFiyatDetail />} />
             <Route path="/sermaye-artirimi" element={<SermayeArtirimi />} />
 
-            {/* Forum Routes */}
-            <Route path="/forum" element={<Forum />} />
-            <Route path="/forum/yeni" element={<CreateTopic />} />
-            <Route path="/forum/:id" element={<ForumDetail />} />
+            {/* Auth Routes */}
+            <Route path="/giris" element={<Login />} />
 
+            {/* Forum Routes Removed - Replaced by Stock Specific Discussions */}
 
             <Route path="/temettu-takvimi-2026" element={<Temettu />} />
             <Route path="/temettu/:code" element={<TemettuDetail />} />
