@@ -1,6 +1,6 @@
 
 import React, { useEffect, useRef } from 'react';
-import { createChart, ColorType, CrosshairMode } from 'lightweight-charts';
+import { createChart, ColorType, CrosshairMode, AreaSeries, CandlestickSeries } from 'lightweight-charts';
 
 interface ChartProps {
     data: {
@@ -38,7 +38,9 @@ const TradingViewChart: React.FC<ChartProps> = ({
         if (!chartContainerRef.current) return;
 
         const handleResize = () => {
-            chart.applyOptions({ width: chartContainerRef.current!.clientWidth });
+            if (chartContainerRef.current) {
+                chart.applyOptions({ width: chartContainerRef.current.clientWidth });
+            }
         };
 
         const chart = createChart(chartContainerRef.current, {
@@ -65,30 +67,40 @@ const TradingViewChart: React.FC<ChartProps> = ({
         });
 
         // Determine chart type based on data
-        // If data has open/high/low/close, use Candlestick
-        // Otherwise use Area (Line)
         const isCandle = data.length > 0 && 'open' in data[0];
 
-        if (isCandle) {
-            const candlestickSeries = chart.addCandlestickSeries({
-                upColor: '#26a69a',
-                downColor: '#ef5350',
-                borderVisible: false,
-                wickUpColor: '#26a69a',
-                wickDownColor: '#ef5350',
-            });
-            candlestickSeries.setData(data as any);
-        } else {
-            const areaSeries = chart.addAreaSeries({
-                lineColor: colors.lineColor,
-                topColor: colors.areaTopColor,
-                bottomColor: colors.areaBottomColor,
-            });
-            // Ensure data is sorted
-            const sortedData = [...data].sort((a, b) => new Date(a.time).getTime() - new Date(b.time).getTime())
-                .map(d => ({ time: d.time, value: d.value ?? d.close ?? 0 as number })); // Map correct value
+        try {
+            if (isCandle) {
+                const candlestickSeries = chart.addSeries(CandlestickSeries, {
+                    upColor: '#26a69a',
+                    downColor: '#ef5350',
+                    borderVisible: false,
+                    wickUpColor: '#26a69a',
+                    wickDownColor: '#ef5350',
+                });
+                candlestickSeries.setData(data as any);
+            } else {
+                const areaSeries = chart.addSeries(AreaSeries, {
+                    lineColor: colors.lineColor,
+                    topColor: colors.areaTopColor,
+                    bottomColor: colors.areaBottomColor,
+                });
 
-            areaSeries.setData(sortedData as any);
+                // Ensure data is sorted and valid
+                const sortedData = [...data]
+                    .filter(d => d.time)
+                    .sort((a, b) => new Date(a.time).getTime() - new Date(b.time).getTime())
+                    .map(d => ({
+                        time: d.time,
+                        value: d.value !== undefined ? d.value : (d.close || 0)
+                    }));
+
+                if (sortedData.length > 0) {
+                    areaSeries.setData(sortedData as any);
+                }
+            }
+        } catch (err) {
+            console.error("Layer series error", err);
         }
 
         window.addEventListener('resize', handleResize);
