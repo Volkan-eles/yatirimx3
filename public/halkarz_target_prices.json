@@ -1,5 +1,203 @@
 [
   {
+    "bistkodu": "VAKBN",
+    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
+    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
+    "analist": "Ak Yatırım",
+    "tarih": "23.01.2026",
+    "tr_class": "notr",
+    "hf_desc": "Nötr",
+    "hf_icon": "fa-arrow-right-arrow-left",
+    "hf_fiyat": "36,50"
+  },
+  {
+    "bistkodu": "HALKB",
+    "sirket": "Türkiye Halk Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-halk-bankasi-a-s/",
+    "analist": "Ak Yatırım",
+    "tarih": "23.01.2026",
+    "tr_class": "red",
+    "hf_desc": "Endeks Altı Getiri",
+    "hf_icon": "fa-arrow-trend-down",
+    "hf_fiyat": "30,50"
+  },
+  {
+    "bistkodu": "TSKB",
+    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
+    "analist": "Ak Yatırım",
+    "tarih": "23.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "18,70"
+  },
+  {
+    "bistkodu": "ISCTR",
+    "sirket": "Türkiye İş Bankası A.Ş. (C)",
+    "link": "https://halkarz.com/turkiye-is-bankasi-a-s-c/",
+    "analist": "Ak Yatırım",
+    "tarih": "23.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "21,00"
+  },
+  {
+    "bistkodu": "GARAN",
+    "sirket": "T. Garanti Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
+    "analist": "Ak Yatırım",
+    "tarih": "23.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "196,00"
+  },
+  {
+    "bistkodu": "ASTOR",
+    "sirket": "Astor Enerji A.Ş.",
+    "link": "https://halkarz.com/astor-enerji-a-s/",
+    "analist": "Bulls Yatırım",
+    "tarih": "23.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "324,90"
+  },
+  {
+    "bistkodu": "EKGYO",
+    "sirket": "Emlak Konut Gayrimenkul Yatırım A.Ş.",
+    "link": "https://halkarz.com/emlak-konut-gayrimenkul-yatirim-a-s/",
+    "analist": "Garanti BBVA Yatırım",
+    "tarih": "22.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "41,00"
+  },
+  {
+    "bistkodu": "DOCO",
+    "sirket": "DO&CO Restaurants & Catering AG",
+    "link": "https://halkarz.com/doco-restaurants-catering-ag/",
+    "analist": "Hsbc",
+    "tarih": "22.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "12500,00"
+  },
+  {
+    "bistkodu": "ULKER",
+    "sirket": "Ülker Biskuvi Sanayi A.Ş.",
+    "link": "https://halkarz.com/ulker-biskuvi-sanayi-a-s/",
+    "analist": "Hsbc",
+    "tarih": "22.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "180,00"
+  },
+  {
+    "bistkodu": "SOKM",
+    "sirket": "Şok Marketler Ticaret A.Ş.",
+    "link": "https://halkarz.com/sok-marketler-ticaret-a-s/",
+    "analist": "Hsbc",
+    "tarih": "22.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "80,00"
+  },
+  {
+    "bistkodu": "MGROS",
+    "sirket": "Migros T.A.Ş.",
+    "link": "https://halkarz.com/migros-t-a-s/",
+    "analist": "Hsbc",
+    "tarih": "22.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "750,00"
+  },
+  {
+    "bistkodu": "MAVI",
+    "sirket": "Mavi Giyim San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/mavi-giyim-san-ve-tic-a-s/",
+    "analist": "Hsbc",
+    "tarih": "22.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "64,00"
+  },
+  {
+    "bistkodu": "CCOLA",
+    "sirket": "Coca-Cola İçecek A.Ş.",
+    "link": "https://halkarz.com/coca-cola-icecek-a-s/",
+    "analist": "Hsbc",
+    "tarih": "22.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "85,00"
+  },
+  {
+    "bistkodu": "BIMAS",
+    "sirket": "Bim Birleşik Mağazalar A.Ş.",
+    "link": "https://halkarz.com/bim-birlesik-magazalar-a-s/",
+    "analist": "Hsbc",
+    "tarih": "22.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "850,00"
+  },
+  {
+    "bistkodu": "AEFES",
+    "sirket": "Anadolu Efes Biracılık ve Malt Sanayii A.Ş.",
+    "link": "https://halkarz.com/anadolu-efes-biracilik-ve-malt-sanayii-a-s/",
+    "analist": "Hsbc",
+    "tarih": "22.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "20,00"
+  },
+  {
+    "bistkodu": "TAVHL",
+    "sirket": "Tav Havalimanları Holding A.Ş.",
+    "link": "https://halkarz.com/tav-havalimanlari-holding-a-s/",
+    "analist": "Citigroup",
+    "tarih": "21.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "400,00"
+  },
+  {
+    "bistkodu": "OYAKC",
+    "sirket": "Oyak Çimento Fabrikaları A.Ş.",
+    "link": "https://halkarz.com/oyak-cimento-fabrikalari-a-s/",
+    "analist": "Tera Yatırım",
+    "tarih": "21.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "36,50"
+  },
+  {
+    "bistkodu": "TABGD",
+    "sirket": "Tab Gıda San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/tab-gida-san-ve-tic-a-s/",
+    "analist": "Tera Yatırım",
+    "tarih": "21.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "363,30"
+  },
+  {
     "bistkodu": "TABGD",
     "sirket": "Tab Gıda San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/tab-gida-san-ve-tic-a-s/",
@@ -119,17 +317,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "920,00"
-  },
-  {
-    "bistkodu": "TUPRS",
-    "sirket": "Tüpraş Türkiye Petrol Rafinerileri A.Ş.",
-    "link": "https://halkarz.com/turkiye-petrol-rafinerileri-a-s/",
-    "analist": "Yapı Kredi Yatırım",
-    "tarih": "16.01.2026",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "261,00"
   },
   {
     "bistkodu": "AEFES",
@@ -1430,17 +1617,6 @@
     "hf_fiyat": "111,00"
   },
   {
-    "bistkodu": "EKGYO",
-    "sirket": "Emlak Konut Gayrimenkul Yatırım A.Ş.",
-    "link": "https://halkarz.com/emlak-konut-gayrimenkul-yatirim-a-s/",
-    "analist": "Garanti BBVA Yatırım",
-    "tarih": "08.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "36,00"
-  },
-  {
     "bistkodu": "VESTL",
     "sirket": "Vestel Elektronik San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/vestel-elektronik-san-ve-tic-a-s/",
@@ -2607,17 +2783,6 @@
     "hf_fiyat": "436,60"
   },
   {
-    "bistkodu": "ASTOR",
-    "sirket": "Astor Enerji A.Ş.",
-    "link": "https://halkarz.com/astor-enerji-a-s/",
-    "analist": "Bulls Yatırım",
-    "tarih": "01.12.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "217,45"
-  },
-  {
     "bistkodu": "BIMAS",
     "sirket": "Bim Birleşik Mağazalar A.Ş.",
     "link": "https://halkarz.com/bim-birlesik-magazalar-a-s/",
@@ -2671,28 +2836,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "675,00"
-  },
-  {
-    "bistkodu": "SOKM",
-    "sirket": "Şok Marketler Ticaret A.Ş.",
-    "link": "https://halkarz.com/sok-marketler-ticaret-a-s/",
-    "analist": "Hsbc",
-    "tarih": "28.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "65,00"
-  },
-  {
-    "bistkodu": "BIMAS",
-    "sirket": "Bim Birleşik Mağazalar A.Ş.",
-    "link": "https://halkarz.com/bim-birlesik-magazalar-a-s/",
-    "analist": "Hsbc",
-    "tarih": "28.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "700,00"
   },
   {
     "bistkodu": "ENKAI",
@@ -3144,17 +3287,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "753,40"
-  },
-  {
-    "bistkodu": "CCOLA",
-    "sirket": "Coca-Cola İçecek A.Ş.",
-    "link": "https://halkarz.com/coca-cola-icecek-a-s/",
-    "analist": "Hsbc",
-    "tarih": "07.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "78,00"
   },
   {
     "bistkodu": "VAKBN",
@@ -4915,50 +5047,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "11,97"
-  },
-  {
-    "bistkodu": "ULKER",
-    "sirket": "Ülker Biskuvi Sanayi A.Ş.",
-    "link": "https://halkarz.com/ulker-biskuvi-sanayi-a-s/",
-    "analist": "Hsbc",
-    "tarih": "16.07.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "180,00"
-  },
-  {
-    "bistkodu": "MAVI",
-    "sirket": "Mavi Giyim San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/mavi-giyim-san-ve-tic-a-s/",
-    "analist": "Hsbc",
-    "tarih": "16.07.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "55,00"
-  },
-  {
-    "bistkodu": "DOCO",
-    "sirket": "DO&CO Restaurants & Catering AG",
-    "link": "https://halkarz.com/doco-restaurants-catering-ag/",
-    "analist": "Hsbc",
-    "tarih": "16.07.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "11000,00"
-  },
-  {
-    "bistkodu": "AEFES",
-    "sirket": "Anadolu Efes Biracılık ve Malt Sanayii A.Ş.",
-    "link": "https://halkarz.com/anadolu-efes-biracilik-ve-malt-sanayii-a-s/",
-    "analist": "Hsbc",
-    "tarih": "16.07.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "16,00"
   },
   {
     "bistkodu": "TKNSA",
