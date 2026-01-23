@@ -90,26 +90,14 @@ const HedefFiyatDetail: React.FC = () => {
 
     return (
         <div className="animate-in fade-in slide-in-from-bottom-4 duration-500 space-y-8 max-w-6xl mx-auto pb-20">
-            {code && (
+            {reports.length > 0 && (
                 <SEO
-                    title={`${reports[0].bistkodu} Hedef Fiyat 2026`}
-                    description={`${stockName} (${reports[0].bistkodu}) 2026 hedef fiyat tahminleri, aracı kurum raporları, al / sat / tut tavsiyeleri ve ortalama hedef fiyat beklentisi.`}
+                    title={`${fixTurkishChars(stockName)} (${reports[0].bistkodu}) Hedef Fiyat 2026`}
+                    description={`${fixTurkishChars(stockName)} (${reports[0].bistkodu}) Hedef Fiyat 2026`}
                     canonicalUrl={`https://yatirimx.com/hedef-fiyat/${slugify(`${reports[0].bistkodu} Hedef Fiyat 2026`)}/`}
                     keywords={`${reports[0].bistkodu}, ${stockName}, ${reports[0].bistkodu} hedef fiyat, ${reports[0].bistkodu} hisse analizi, 2026 borsa tahminleri`}
                 />
             )}
-            <SEO // Fallback if code missing, though should be covered
-                title="Hisse Hedef Fiyatları ve Analizler | YatirimX"
-                description="Borsa İstanbul hisse senetleri için güncel hedef fiyatlar ve uzman analizleri."
-                canonicalUrl="https://yatirimx.com/hedef-fiyat/"
-                keywords="hedef fiyat, borsa analiz, hisse önerileri"
-            />
-            {/* The second SEO component is redundant/risky if code is present. 
-               Better to just use one conditional block or rely on the main one. 
-               Let's stick to the conditional one which will be the primary one. 
-               However, TSX needs a single parent or fragment usually, but here inside div is fine.
-               Actually, I will just add the dynamic one.
-            */}
 
             {/* Navigation & Header */}
             <div className="flex flex-col gap-6">
