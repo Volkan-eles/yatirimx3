@@ -24,9 +24,7 @@ import {
   BookOpen,
   ArrowRight,
   Star
-} from 'lucide-react';
-import StockChart from '../components/StockChart';
-import TradingViewChart from '../components/TradingViewChart';
+import TradingViewWidget from '../components/TradingViewWidget';
 import { slugify } from '../utils/slugify';
 import SEO from '../components/SEO';
 import { MOCK_STOCK_DETAIL, MOCK_TARGET_PRICES } from '../constants';
@@ -730,30 +728,11 @@ const StockDetail: React.FC = () => {
                 )}
               </div>
             </div>
-            <div className="h-[400px] w-full">
-              {stock.historicalData && stock.historicalData.length > 0 ? (
-                <TradingViewChart
-                  data={stock.historicalData.map((d: any) => ({
-                    time: d.date, // Ensure API returns 'date' YYYY-MM-DD
-                    value: d.price // Line chart fallback
-                    // open: d.open, high: d.high, low: d.low, close: d.close // If available
-                  }))}
-                  colors={{
-                    backgroundColor: '#18181b', // Match card background
-                    lineColor: isPositive ? '#10b981' : '#f43f5e',
-                    areaTopColor: isPositive ? 'rgba(16, 185, 129, 0.4)' : 'rgba(244, 63, 94, 0.4)',
-                    areaBottomColor: 'rgba(24, 24, 27, 0.0)', // Fade to bg color
-                    textColor: '#71717a'
-                  }}
-                />
-              ) : (
-                <div className="h-full flex items-center justify-center text-zinc-500 text-sm">
-                  Grafik verisi yükleniyor...
-                </div>
-              )}
+            <div className="h-[500px] w-full bg-[#18181b] rounded-2xl overflow-hidden">
+              <TradingViewWidget symbol={stock.code} theme="dark" />
             </div>
             <div className="mt-4 text-[10px] text-zinc-700 text-center italic">
-              * TradingView altyapısı ile güçlendirilmiş interaktif grafik.
+              * Veriler TradingView tarafından sağlanmaktadır.
             </div>
           </div>
 
