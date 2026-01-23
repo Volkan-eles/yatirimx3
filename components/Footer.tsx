@@ -60,10 +60,10 @@ const Footer: React.FC = () => {
                                 <Activity className="w-4 h-4 text-blue-500" /> Platform
                             </h3>
                             <ul className="space-y-3">
-                                <li><Link to="/hedef-fiyat" className="text-zinc-400 hover:text-white text-sm transition-colors">Hedef Fiyatlar</Link></li>
-                                <li><Link to="/temettu-takvimi-2026" className="text-zinc-400 hover:text-white text-sm transition-colors">Temettü Takvimi</Link></li>
-                                <li><Link to="/halka-arz" className="text-zinc-400 hover:text-white text-sm transition-colors">Halka Arzlar</Link></li>
-                                <li><Link to="/araci-kurumlar" className="text-zinc-400 hover:text-white text-sm transition-colors">Aracı Kurumlar</Link></li>
+                                <li><Link to="/hedef-fiyat/" className="text-zinc-400 hover:text-white text-sm transition-colors">Hedef Fiyatlar</Link></li>
+                                <li><Link to="/temettu-takvimi-2026/" className="text-zinc-400 hover:text-white text-sm transition-colors">Temettü Takvimi</Link></li>
+                                <li><Link to="/halka-arz/" className="text-zinc-400 hover:text-white text-sm transition-colors">Halka Arzlar</Link></li>
+                                <li><Link to="/araci-kurumlar/" className="text-zinc-400 hover:text-white text-sm transition-colors">Aracı Kurumlar</Link></li>
                             </ul>
                         </div>
 
@@ -73,9 +73,9 @@ const Footer: React.FC = () => {
                                 <Globe className="w-4 h-4 text-purple-500" /> Kurumsal
                             </h3>
                             <ul className="space-y-3">
-                                <li><Link to="/hakkimizda" className="text-zinc-400 hover:text-white text-sm transition-colors">Hakkımızda</Link></li>
-                                <li><Link to="/blog" className="text-zinc-400 hover:text-white text-sm transition-colors">Blog & Analiz</Link></li>
-                                <li><Link to="/iletisim" className="text-zinc-400 hover:text-white text-sm transition-colors">İletişim</Link></li>
+                                <li><Link to="/hakkimizda/" className="text-zinc-400 hover:text-white text-sm transition-colors">Hakkımızda</Link></li>
+                                <li><Link to="/blog/" className="text-zinc-400 hover:text-white text-sm transition-colors">Blog & Analiz</Link></li>
+                                <li><Link to="/iletisim/" className="text-zinc-400 hover:text-white text-sm transition-colors">İletişim</Link></li>
                                 <li><a href="#" className="text-zinc-400 hover:text-white text-sm transition-colors">Kariyer</a></li>
                             </ul>
                         </div>
@@ -86,9 +86,9 @@ const Footer: React.FC = () => {
                                 <Shield className="w-4 h-4 text-emerald-500" /> Yasal
                             </h3>
                             <ul className="space-y-3">
-                                <li><Link to="/kullanim-kosullari" className="text-zinc-400 hover:text-white text-sm transition-colors">Kullanım Koşulları</Link></li>
-                                <li><Link to="/gizlilik-politikasi" className="text-zinc-400 hover:text-white text-sm transition-colors">Gizlilik Politikası</Link></li>
-                                <li><Link to="/cerez-politikasi" className="text-zinc-400 hover:text-white text-sm transition-colors">Çerez Politikası</Link></li>
+                                <li><Link to="/kullanim-kosullari/" className="text-zinc-400 hover:text-white text-sm transition-colors">Kullanım Koşulları</Link></li>
+                                <li><Link to="/gizlilik-politikasi/" className="text-zinc-400 hover:text-white text-sm transition-colors">Gizlilik Politikası</Link></li>
+                                <li><Link to="/cerez-politikasi/" className="text-zinc-400 hover:text-white text-sm transition-colors">Çerez Politikası</Link></li>
                             </ul>
                         </div>
                     </div>
