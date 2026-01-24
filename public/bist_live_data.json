@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-01-24T07:26:34.281575",
+  "last_update": "2026-01-24T07:43:33.262610",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 502,
-  "successful": 502,
-  "failed": 29,
+  "total_stocks": 505,
+  "successful": 505,
+  "failed": 26,
   "stocks": [
     {
       "code": "GARAN",
@@ -583,7 +583,7 @@
       "previousClose": 14.67,
       "open": 14.73,
       "dayLow": 14.72,
-      "dayHigh": 15.21,
+      "dayHigh": 15.22,
       "fiftyTwoWeekLow": 10.07,
       "fiftyTwoWeekHigh": 16.6,
       "fiftyDayAverage": 13.81,
@@ -5109,6 +5109,384 @@
       "heldPercentInstitutions": 0.01456
     },
     {
+      "code": "KOZAL",
+      "symbol": "KOZAL.IS",
+      "name": "Koza Altin Isletmeleri A.S.",
+      "shortName": "TURK ALTIN ISLETMELERI",
+      "price": 50.8,
+      "change": 1.5,
+      "changeRate": 3.04,
+      "previousClose": 49.3,
+      "open": 39.88,
+      "dayLow": 39.02,
+      "dayHigh": 40.36,
+      "fiftyTwoWeekLow": 21.24,
+      "fiftyTwoWeekHigh": 40.82,
+      "fiftyDayAverage": 29.65,
+      "twoHundredDayAverage": 26.08,
+      "volume": "119,866,300",
+      "averageVolume": 116719804,
+      "averageVolume10days": 119294268,
+      "marketCap": 128100007936,
+      "enterpriseValue": 102951256064,
+      "sharesOutstanding": 3202500000,
+      "sector": "Basic Materials",
+      "industry": "Gold",
+      "website": "https://www.kozaaltin.com.tr",
+      "address": "Ugur Mumcu Mahallesi",
+      "city": "Ankara",
+      "country": "Turkey",
+      "phone": "90 312 587 10 00",
+      "description": "Turk Altin Isletmeleri A.S. engages in the operation of mines in Turkey. It owns and operates seven mines in the regions of Ovacik-Bergama-Izmir, Çukuralan-Izmir, Kaymaz-Eskisehir, Mastra-Gümüshane, and Himmetdede-Kayseri. The company was formerly known as Koza Altin Isletmeleri A.S. and changed its name to Turk Altin Isletmeleri A.S. in November 2025. The company was incorporated in 1989 and is headquartered in Ankara, Turkey.",
+      "pe": 28.571428,
+      "forwardPE": 31.746033,
+      "priceToBook": 3.075267,
+      "pegRatio": null,
+      "priceToSales": 10.697681,
+      "enterpriseToRevenue": 8.597,
+      "enterpriseToEbitda": 38.82,
+      "profitMargins": 0.37418997,
+      "grossMargins": 0.40473998,
+      "operatingMargins": 0.32664,
+      "returnOnAssets": 0.03395,
+      "returnOnEquity": 0.12899,
+      "totalRevenue": 11974557696,
+      "revenuePerShare": 3.74,
+      "totalCash": 18332573696,
+      "totalDebt": 1537000,
+      "debtToEquity": 0.004,
+      "currentRatio": 6.83,
+      "quickRatio": 5.958,
+      "eps": 1.4,
+      "forwardEps": 2.04,
+      "bookValue": 13.007,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": 1689292800,
+      "payoutRatio": 0.0,
+      "targetHighPrice": 40.0,
+      "targetLowPrice": 28.8,
+      "targetMeanPrice": 32.6,
+      "targetMedianPrice": 31.0,
+      "recommendationMean": 2.2,
+      "recommendationKey": "buy",
+      "numberOfAnalystOpinions": 5,
+      "beta": 1.138,
+      "historicalData": [
+        {
+          "Close": 37.47999954223633,
+          "Volume": 135733899
+        },
+        {
+          "Close": 35.939998626708984,
+          "Volume": 190332603
+        },
+        {
+          "Close": 37.5,
+          "Volume": 193366754
+        },
+        {
+          "Close": 39.119998931884766,
+          "Volume": 197926779
+        },
+        {
+          "Close": 40.13999938964844,
+          "Volume": 197645637
+        },
+        {
+          "Close": 42.20000076293945,
+          "Volume": 267037989
+        },
+        {
+          "Close": 43.880001068115234,
+          "Volume": 245949862
+        },
+        {
+          "Close": 45.86000061035156,
+          "Volume": 237980648
+        },
+        {
+          "Close": 42.880001068115234,
+          "Volume": 352274438
+        },
+        {
+          "Close": 43.91999816894531,
+          "Volume": 99873824
+        },
+        {
+          "Close": 43.880001068115234,
+          "Volume": 251382621
+        },
+        {
+          "Close": 40.63999938964844,
+          "Volume": 127164009
+        },
+        {
+          "Close": 40.880001068115234,
+          "Volume": 234324956
+        },
+        {
+          "Close": 40.97999954223633,
+          "Volume": 175556239
+        },
+        {
+          "Close": 41.959999084472656,
+          "Volume": 127254425
+        },
+        {
+          "Close": 43.540000915527344,
+          "Volume": 154582256
+        },
+        {
+          "Close": 44.20000076293945,
+          "Volume": 168468073
+        },
+        {
+          "Close": 44.86000061035156,
+          "Volume": 247975872
+        },
+        {
+          "Close": 43.29999923706055,
+          "Volume": 159065955
+        },
+        {
+          "Close": 44.36000061035156,
+          "Volume": 177594573
+        },
+        {
+          "Close": 46.68000030517578,
+          "Volume": 185930971
+        },
+        {
+          "Close": 48.459999084472656,
+          "Volume": 314357392
+        },
+        {
+          "Close": 47.720001220703125,
+          "Volume": 290308395
+        },
+        {
+          "Close": 45.0,
+          "Volume": 147125705
+        },
+        {
+          "Close": 47.599998474121094,
+          "Volume": 202956996
+        },
+        {
+          "Close": 49.70000076293945,
+          "Volume": 143676394
+        },
+        {
+          "Close": 48.779998779296875,
+          "Volume": 200012712
+        },
+        {
+          "Close": 48.900001525878906,
+          "Volume": 137045644
+        },
+        {
+          "Close": 49.29999923706055,
+          "Volume": 117386878
+        },
+        {
+          "Close": 50.79999923706055,
+          "Volume": 119866300
+        }
+      ],
+      "heldPercentInsiders": 0.77662003,
+      "heldPercentInstitutions": 0.04265
+    },
+    {
+      "code": "KOZAA",
+      "symbol": "KOZAA.IS",
+      "name": "TR Anadolu Metal Madencilik Isletmeleri A.S.",
+      "shortName": "TR ANADOLU METAL MADENCILIK",
+      "price": 136.1,
+      "change": 2.9,
+      "changeRate": 2.18,
+      "previousClose": 133.2,
+      "open": 102.5,
+      "dayLow": 99.05,
+      "dayHigh": 107.4,
+      "fiftyTwoWeekLow": 63.7,
+      "fiftyTwoWeekHigh": 107.4,
+      "fiftyDayAverage": 91.89,
+      "twoHundredDayAverage": 83.95,
+      "volume": "6,023,126",
+      "averageVolume": 8316665,
+      "averageVolume10days": 7596280,
+      "marketCap": 39778201600,
+      "enterpriseValue": 40904404992,
+      "sharesOutstanding": 388080000,
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "website": "https://www.kozaanadolumetal.com.tr",
+      "address": "Ugur Mumcu Mahallesi",
+      "city": "Ankara",
+      "country": "Turkey",
+      "phone": "90 312 587 10 00",
+      "description": "TR Anadolu Metal Madencilik Isletmeleri A.S., together with its subsidiaries, engages in the mining activities in Turkey. It explores, develops, and produces copper, lead-zinc, iron, and other mineral deposits. The company holds interests in the Balikesir Sagirlar project located in the Province of Balikesir; Nigde-Ciftehan project located in the Province of Nigde; Nigde Elmali project located in Ulukisla District; Giresun Konak project located in Northeast of Turkey; and Batman Sason project located in the Province of Batman. In addition, it provides air transportation, tourism and hotel management, and food and livestock services. The company was founded in 1985 and is headquartered in Ankara, Turkey. The company was formerly known as Koza Anadolu Metal Madencilik Isletmeleri A.S. and change its name to TR Anadolu Metal Madencilik Isletmeleri A.S. in November 2025. TR Anadolu Metal Madencilik Isletmeleri A.S. is a subsidiary of Ipek Dogal Enerji Kaynaklari Arastirma ve Uretim A.S.",
+      "pe": null,
+      "forwardPE": 14.137931,
+      "priceToBook": 1.8903766,
+      "pegRatio": null,
+      "priceToSales": 4.103127,
+      "enterpriseToRevenue": 4.219,
+      "enterpriseToEbitda": 32.479,
+      "profitMargins": -0.05257,
+      "grossMargins": 0.36297,
+      "operatingMargins": 0.2297,
+      "returnOnAssets": 0.01092,
+      "returnOnEquity": 0.02305,
+      "totalRevenue": 9694606336,
+      "revenuePerShare": 24.989,
+      "totalCash": 14847446016,
+      "totalDebt": 22812000,
+      "debtToEquity": 0.058,
+      "currentRatio": 7.258,
+      "quickRatio": 5.911,
+      "eps": -1.32,
+      "forwardEps": 7.25,
+      "bookValue": 54.222,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": 0.0,
+      "targetHighPrice": 110.0,
+      "targetLowPrice": 96.1,
+      "targetMeanPrice": 103.05,
+      "targetMedianPrice": 103.05,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 2,
+      "beta": 0.699,
+      "historicalData": [
+        {
+          "Close": 98.9000015258789,
+          "Volume": 13037023
+        },
+        {
+          "Close": 100.0,
+          "Volume": 7144590
+        },
+        {
+          "Close": 99.5,
+          "Volume": 6348794
+        },
+        {
+          "Close": 101.19999694824219,
+          "Volume": 8440169
+        },
+        {
+          "Close": 101.0999984741211,
+          "Volume": 6551812
+        },
+        {
+          "Close": 103.69999694824219,
+          "Volume": 10070107
+        },
+        {
+          "Close": 105.30000305175781,
+          "Volume": 7155421
+        },
+        {
+          "Close": 109.19999694824219,
+          "Volume": 9968551
+        },
+        {
+          "Close": 108.30000305175781,
+          "Volume": 15720801
+        },
+        {
+          "Close": 107.69999694824219,
+          "Volume": 4234900
+        },
+        {
+          "Close": 107.5999984741211,
+          "Volume": 7641783
+        },
+        {
+          "Close": 103.5999984741211,
+          "Volume": 5716422
+        },
+        {
+          "Close": 103.9000015258789,
+          "Volume": 5971558
+        },
+        {
+          "Close": 104.4000015258789,
+          "Volume": 5352419
+        },
+        {
+          "Close": 108.0,
+          "Volume": 5709330
+        },
+        {
+          "Close": 109.80000305175781,
+          "Volume": 8163400
+        },
+        {
+          "Close": 114.0,
+          "Volume": 9146392
+        },
+        {
+          "Close": 115.80000305175781,
+          "Volume": 8546093
+        },
+        {
+          "Close": 116.4000015258789,
+          "Volume": 7942465
+        },
+        {
+          "Close": 119.0999984741211,
+          "Volume": 5913048
+        },
+        {
+          "Close": 117.5,
+          "Volume": 12078470
+        },
+        {
+          "Close": 118.9000015258789,
+          "Volume": 8427540
+        },
+        {
+          "Close": 118.5999984741211,
+          "Volume": 6639801
+        },
+        {
+          "Close": 119.5,
+          "Volume": 8655534
+        },
+        {
+          "Close": 124.30000305175781,
+          "Volume": 10396481
+        },
+        {
+          "Close": 127.69999694824219,
+          "Volume": 11172665
+        },
+        {
+          "Close": 127.5999984741211,
+          "Volume": 10454193
+        },
+        {
+          "Close": 128.8000030517578,
+          "Volume": 8238143
+        },
+        {
+          "Close": 133.1999969482422,
+          "Volume": 7370591
+        },
+        {
+          "Close": 136.10000610351562,
+          "Volume": 6023126
+        }
+      ],
+      "heldPercentInsiders": 0.5225,
+      "heldPercentInstitutions": 0.056900002
+    },
+    {
       "code": "TAVHL",
       "symbol": "TAVHL.IS",
       "name": "TAV Havalimanlari Holding A.S.",
@@ -6441,7 +6819,7 @@
       "changeRate": -0.35,
       "previousClose": 171.7,
       "open": 171.7,
-      "dayLow": 168.3,
+      "dayLow": 168.1,
       "dayHigh": 172.0,
       "fiftyTwoWeekLow": 103.4,
       "fiftyTwoWeekHigh": 194.9,
@@ -14757,7 +15135,7 @@
       "changeRate": -1.12,
       "previousClose": 42.8,
       "open": 42.8,
-      "dayLow": 42.36,
+      "dayLow": 42.3,
       "dayHigh": 44.0,
       "fiftyTwoWeekLow": 23.88,
       "fiftyTwoWeekHigh": 44.0,
@@ -20238,7 +20616,7 @@
       "changeRate": 0.0,
       "previousClose": 46.7,
       "open": 46.4,
-      "dayLow": 45.6,
+      "dayLow": 45.24,
       "dayHigh": 48.2,
       "fiftyTwoWeekLow": 23.26,
       "fiftyTwoWeekHigh": 75.0,
@@ -20805,7 +21183,7 @@
       "changeRate": -1.12,
       "previousClose": 35.58,
       "open": 35.58,
-      "dayLow": 34.66,
+      "dayLow": 34.6,
       "dayHigh": 35.76,
       "fiftyTwoWeekLow": 13.52,
       "fiftyTwoWeekHigh": 42.58,
@@ -23640,7 +24018,7 @@
       "changeRate": -8.0,
       "previousClose": 550.0,
       "open": 520.5,
-      "dayLow": 506.0,
+      "dayLow": 505.5,
       "dayHigh": 547.5,
       "fiftyTwoWeekLow": 89.5,
       "fiftyTwoWeekHigh": 785.5,
@@ -24586,7 +24964,7 @@
       "previousClose": 37.6,
       "open": 37.64,
       "dayLow": 37.2,
-      "dayHigh": 41.34,
+      "dayHigh": 41.36,
       "fiftyTwoWeekLow": 25.68,
       "fiftyTwoWeekHigh": 41.36,
       "fiftyDayAverage": 34.68,
@@ -26475,7 +26853,7 @@
       "changeRate": -0.9,
       "previousClose": 133.7,
       "open": 135.0,
-      "dayLow": 131.4,
+      "dayLow": 131.3,
       "dayHigh": 135.0,
       "fiftyTwoWeekLow": 71.45,
       "fiftyTwoWeekHigh": 138.8,
@@ -28177,7 +28555,7 @@
       "previousClose": 37.0,
       "open": 36.74,
       "dayLow": 36.1,
-      "dayHigh": 40.68,
+      "dayHigh": 40.7,
       "fiftyTwoWeekLow": 27.3,
       "fiftyTwoWeekHigh": 46.5,
       "fiftyDayAverage": 35.49,
@@ -28554,7 +28932,7 @@
       "changeRate": -0.41,
       "previousClose": 49.1,
       "open": 49.12,
-      "dayLow": 48.38,
+      "dayLow": 48.32,
       "dayHigh": 50.1,
       "fiftyTwoWeekLow": 39.88,
       "fiftyTwoWeekHigh": 69.0,
@@ -29121,7 +29499,7 @@
       "changeRate": -1.57,
       "previousClose": 33.04,
       "open": 32.88,
-      "dayLow": 31.9,
+      "dayLow": 31.88,
       "dayHigh": 32.88,
       "fiftyTwoWeekLow": 28.26,
       "fiftyTwoWeekHigh": 44.36,
@@ -30255,7 +30633,7 @@
       "changeRate": -0.13,
       "previousClose": 234.0,
       "open": 235.5,
-      "dayLow": 232.2,
+      "dayLow": 232.1,
       "dayHigh": 237.2,
       "fiftyTwoWeekLow": 164.0,
       "fiftyTwoWeekHigh": 250.25,
@@ -32154,7 +32532,7 @@
       "volume": "24,806,829",
       "averageVolume": 16642559,
       "averageVolume10days": 37770805,
-      "marketCap": 3836467456,
+      "marketCap": 3579312640,
       "enterpriseValue": 3524100096,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +32547,7 @@
       "forwardPE": null,
       "priceToBook": 4.12037,
       "pegRatio": null,
-      "priceToSales": 2.1420748,
+      "priceToSales": 1.9984936,
       "enterpriseToRevenue": 1.968,
       "enterpriseToEbitda": 49.522,
       "profitMargins": -0.01041,
@@ -33090,7 +33468,7 @@
       "changeRate": -1.78,
       "previousClose": 27.02,
       "open": 27.2,
-      "dayLow": 26.06,
+      "dayLow": 26.02,
       "dayHigh": 27.4,
       "fiftyTwoWeekLow": 17.2,
       "fiftyTwoWeekHigh": 32.02,
@@ -36492,7 +36870,7 @@
       "changeRate": -5.85,
       "previousClose": 25.62,
       "open": 25.8,
-      "dayLow": 24.04,
+      "dayLow": 24.0,
       "dayHigh": 25.8,
       "fiftyTwoWeekLow": 8.7,
       "fiftyTwoWeekHigh": 29.94,
@@ -39327,7 +39705,7 @@
       "changeRate": -5.39,
       "previousClose": 13.91,
       "open": 13.95,
-      "dayLow": 13.01,
+      "dayLow": 13.0,
       "dayHigh": 14.0,
       "fiftyTwoWeekLow": 6.97,
       "fiftyTwoWeekHigh": 17.44,
@@ -39517,7 +39895,7 @@
       "previousClose": 29.14,
       "open": 29.14,
       "dayLow": 28.9,
-      "dayHigh": 29.98,
+      "dayHigh": 30.0,
       "fiftyTwoWeekLow": 14.83,
       "fiftyTwoWeekHigh": 37.72,
       "fiftyDayAverage": 26.33,
@@ -49146,6 +49524,195 @@
       "heldPercentInstitutions": 0.0043099998
     },
     {
+      "code": "IPEKE",
+      "symbol": "IPEKE.IS",
+      "name": "Ipek Dogal Enerji Kaynaklari Arastirma ve Üretim A.S.",
+      "shortName": "TR DOGAL ENERJI",
+      "price": 115.1,
+      "change": -0.7,
+      "changeRate": -0.6,
+      "previousClose": 115.8,
+      "open": 84.55,
+      "dayLow": 80.5,
+      "dayHigh": 87.55,
+      "fiftyTwoWeekLow": 47.92,
+      "fiftyTwoWeekHigh": 87.75,
+      "fiftyDayAverage": 74.72,
+      "twoHundredDayAverage": 64.45,
+      "volume": "4,060,996",
+      "averageVolume": 4942246,
+      "averageVolume10days": 4338407,
+      "marketCap": 21211492352,
+      "enterpriseValue": 34134585344,
+      "sharesOutstanding": 259785561,
+      "sector": "Basic Materials",
+      "industry": "Gold",
+      "website": "https://ipekenerji.com.tr",
+      "address": "Ugur Mumcu Mahallesi",
+      "city": "Ankara",
+      "country": "Turkey",
+      "phone": "90 312 587 10 00",
+      "description": "Ipek Dogal Enerji Kaynaklari Arastirma ve Üretim A.S., together with its subsidiaries, engages in the research, development, and production of oil, natural gas, and energy and energy resources in Turkey. It is involved in the construction; air transportation; tourism and hotel management; and food and livestock businesses. The company was incorporated in 1968 and is based in Ankara, Turkey. Ipek Dogal Enerji Kaynaklari Arastirma ve Üretim A.S. is a subsidiary of Koza Ipek Holding A.S.",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": 2.0888228,
+      "pegRatio": null,
+      "priceToSales": 2.1833067,
+      "enterpriseToRevenue": 3.513,
+      "enterpriseToEbitda": 30.561,
+      "profitMargins": -0.10047,
+      "grossMargins": 0.36301997,
+      "operatingMargins": 0.17005,
+      "returnOnAssets": 0.00811,
+      "returnOnEquity": 0.04456,
+      "totalRevenue": 9715305472,
+      "revenuePerShare": 37.411,
+      "totalCash": 14062875648,
+      "totalDebt": 21919000,
+      "debtToEquity": 0.056,
+      "currentRatio": 6.996,
+      "quickRatio": 5.585,
+      "eps": -3.75,
+      "forwardEps": null,
+      "bookValue": 39.089,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": 0.563,
+      "historicalData": [
+        {
+          "Close": 83.19999694824219,
+          "Volume": 6848384
+        },
+        {
+          "Close": 85.5,
+          "Volume": 4664796
+        },
+        {
+          "Close": 84.19999694824219,
+          "Volume": 3377659
+        },
+        {
+          "Close": 84.4000015258789,
+          "Volume": 4035997
+        },
+        {
+          "Close": 85.4000015258789,
+          "Volume": 4865967
+        },
+        {
+          "Close": 85.5999984741211,
+          "Volume": 6381847
+        },
+        {
+          "Close": 86.1500015258789,
+          "Volume": 5858871
+        },
+        {
+          "Close": 89.1500015258789,
+          "Volume": 6227279
+        },
+        {
+          "Close": 94.5,
+          "Volume": 7764037
+        },
+        {
+          "Close": 96.5999984741211,
+          "Volume": 4090254
+        },
+        {
+          "Close": 94.0,
+          "Volume": 3907568
+        },
+        {
+          "Close": 93.4000015258789,
+          "Volume": 4356780
+        },
+        {
+          "Close": 93.69999694824219,
+          "Volume": 4666012
+        },
+        {
+          "Close": 93.05000305175781,
+          "Volume": 1826037
+        },
+        {
+          "Close": 95.55000305175781,
+          "Volume": 2564292
+        },
+        {
+          "Close": 96.5999984741211,
+          "Volume": 3700614
+        },
+        {
+          "Close": 97.6500015258789,
+          "Volume": 4073385
+        },
+        {
+          "Close": 97.55000305175781,
+          "Volume": 7615798
+        },
+        {
+          "Close": 97.6500015258789,
+          "Volume": 3868766
+        },
+        {
+          "Close": 99.0,
+          "Volume": 3349286
+        },
+        {
+          "Close": 99.55000305175781,
+          "Volume": 3963746
+        },
+        {
+          "Close": 99.9000015258789,
+          "Volume": 4439177
+        },
+        {
+          "Close": 97.75,
+          "Volume": 3558905
+        },
+        {
+          "Close": 99.80000305175781,
+          "Volume": 3637478
+        },
+        {
+          "Close": 101.69999694824219,
+          "Volume": 4033942
+        },
+        {
+          "Close": 106.69999694824219,
+          "Volume": 3582552
+        },
+        {
+          "Close": 114.19999694824219,
+          "Volume": 5372674
+        },
+        {
+          "Close": 118.0999984741211,
+          "Volume": 4860475
+        },
+        {
+          "Close": 115.80000305175781,
+          "Volume": 3300774
+        },
+        {
+          "Close": 115.0999984741211,
+          "Volume": 4060996
+        }
+      ],
+      "heldPercentInsiders": 0.71186996,
+      "heldPercentInstitutions": 0.013890001
+    },
+    {
       "code": "ISATR",
       "symbol": "ISATR.IS",
       "name": "Türkiye Is Bankasi A.S.",
@@ -49723,7 +50290,7 @@
       "previousClose": 38.86,
       "open": 39.0,
       "dayLow": 38.8,
-      "dayHigh": 39.78,
+      "dayHigh": 40.04,
       "fiftyTwoWeekLow": 33.26,
       "fiftyTwoWeekHigh": 41.42,
       "fiftyDayAverage": 36.14,
@@ -50290,7 +50857,7 @@
       "previousClose": 23.08,
       "open": 23.18,
       "dayLow": 23.02,
-      "dayHigh": 23.48,
+      "dayHigh": 23.6,
       "fiftyTwoWeekLow": 14.26,
       "fiftyTwoWeekHigh": 24.5,
       "fiftyDayAverage": 20.8,
@@ -52180,7 +52747,7 @@
       "previousClose": 395.0,
       "open": 409.75,
       "dayLow": 387.5,
-      "dayHigh": 429.0,
+      "dayHigh": 430.0,
       "fiftyTwoWeekLow": 162.9,
       "fiftyTwoWeekHigh": 595.0,
       "fiftyDayAverage": 325.95,
@@ -57472,7 +58039,7 @@
       "previousClose": 29.5,
       "open": 29.5,
       "dayLow": 29.2,
-      "dayHigh": 29.62,
+      "dayHigh": 29.7,
       "fiftyTwoWeekLow": 21.0,
       "fiftyTwoWeekHigh": 30.34,
       "fiftyDayAverage": 23.82,
@@ -61251,7 +61818,7 @@
       "changeRate": -0.69,
       "previousClose": 946.5,
       "open": 949.0,
-      "dayLow": 930.0,
+      "dayLow": 902.5,
       "dayHigh": 949.0,
       "fiftyTwoWeekLow": 616.0,
       "fiftyTwoWeekHigh": 1373.0,
@@ -62386,7 +62953,7 @@
       "previousClose": 13.45,
       "open": 13.46,
       "dayLow": 13.32,
-      "dayHigh": 14.12,
+      "dayHigh": 14.14,
       "fiftyTwoWeekLow": 10.0,
       "fiftyTwoWeekHigh": 18.6,
       "fiftyDayAverage": 12.88,
@@ -62574,7 +63141,7 @@
       "changeRate": -1.33,
       "previousClose": 36.0,
       "open": 36.1,
-      "dayLow": 35.06,
+      "dayLow": 35.04,
       "dayHigh": 36.26,
       "fiftyTwoWeekLow": 33.52,
       "fiftyTwoWeekHigh": 72.8,
@@ -66733,7 +67300,7 @@
       "previousClose": 23.68,
       "open": 23.68,
       "dayLow": 23.38,
-      "dayHigh": 24.82,
+      "dayHigh": 24.84,
       "fiftyTwoWeekLow": 17.13,
       "fiftyTwoWeekHigh": 30.8,
       "fiftyDayAverage": 23.48,
@@ -67866,7 +68433,7 @@
       "changeRate": 0.8,
       "previousClose": 47.56,
       "open": 48.5,
-      "dayLow": 47.64,
+      "dayLow": 47.56,
       "dayHigh": 48.5,
       "fiftyTwoWeekLow": 34.18,
       "fiftyTwoWeekHigh": 53.95,
@@ -74103,7 +74670,7 @@
       "changeRate": -1.96,
       "previousClose": 74.1,
       "open": 74.35,
-      "dayLow": 72.4,
+      "dayLow": 72.0,
       "dayHigh": 74.35,
       "fiftyTwoWeekLow": 53.55,
       "fiftyTwoWeekHigh": 96.8,
@@ -74293,7 +74860,7 @@
       "previousClose": 145.7,
       "open": 146.2,
       "dayLow": 144.9,
-      "dayHigh": 147.8,
+      "dayHigh": 147.9,
       "fiftyTwoWeekLow": 141.9,
       "fiftyTwoWeekHigh": 324.75,
       "fiftyDayAverage": 190.94,
@@ -75615,7 +76182,7 @@
       "changeRate": -0.16,
       "previousClose": 37.94,
       "open": 38.12,
-      "dayLow": 37.08,
+      "dayLow": 37.04,
       "dayHigh": 38.44,
       "fiftyTwoWeekLow": 24.5,
       "fiftyTwoWeekHigh": 47.5,
@@ -76182,7 +76749,7 @@
       "changeRate": -3.62,
       "previousClose": 138.0,
       "open": 137.3,
-      "dayLow": 130.6,
+      "dayLow": 130.5,
       "dayHigh": 138.0,
       "fiftyTwoWeekLow": 68.0,
       "fiftyTwoWeekHigh": 196.8,
@@ -79017,7 +79584,7 @@
       "changeRate": -0.17,
       "previousClose": 5.88,
       "open": 5.89,
-      "dayLow": 5.82,
+      "dayLow": 5.8,
       "dayHigh": 5.9,
       "fiftyTwoWeekLow": 4.76,
       "fiftyTwoWeekHigh": 9.15,
@@ -80152,7 +80719,7 @@
       "previousClose": 196.7,
       "open": 197.6,
       "dayLow": 194.9,
-      "dayHigh": 205.8,
+      "dayHigh": 206.0,
       "fiftyTwoWeekLow": 166.4,
       "fiftyTwoWeekHigh": 283.75,
       "fiftyDayAverage": 185.6,
@@ -83742,7 +84309,7 @@
       "changeRate": -0.17,
       "previousClose": 173.9,
       "open": 173.0,
-      "dayLow": 170.2,
+      "dayLow": 170.1,
       "dayHigh": 173.8,
       "fiftyTwoWeekLow": 77.9,
       "fiftyTwoWeekHigh": 200.0,
@@ -86956,7 +87523,7 @@
       "previousClose": 380.0,
       "open": 380.75,
       "dayLow": 372.0,
-      "dayHigh": 384.0,
+      "dayHigh": 385.0,
       "fiftyTwoWeekLow": 65.25,
       "fiftyTwoWeekHigh": 432.5,
       "fiftyDayAverage": 339.81,
@@ -91870,7 +92437,7 @@
       "previousClose": 53.5,
       "open": 53.4,
       "dayLow": 48.32,
-      "dayHigh": 54.1,
+      "dayHigh": 54.9,
       "fiftyTwoWeekLow": 15.62,
       "fiftyTwoWeekHigh": 60.85,
       "fiftyDayAverage": 35.34,
