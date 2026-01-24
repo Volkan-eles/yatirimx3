@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-01-24T14:47:25.445471",
+  "last_update": "2026-01-24T15:29:44.867620",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 502,
-  "successful": 502,
-  "failed": 29,
+  "total_stocks": 505,
+  "successful": 505,
+  "failed": 26,
   "stocks": [
     {
       "code": "GARAN",
@@ -5107,6 +5107,384 @@
       ],
       "heldPercentInsiders": 0.71305,
       "heldPercentInstitutions": 0.01456
+    },
+    {
+      "code": "KOZAL",
+      "symbol": "KOZAL.IS",
+      "name": "KOZAL",
+      "shortName": "KOZAL",
+      "price": 50.8,
+      "change": 1.5,
+      "changeRate": 3.04,
+      "previousClose": 49.3,
+      "open": 50.8,
+      "dayLow": 49.78,
+      "dayHigh": 51.82,
+      "fiftyTwoWeekLow": 35.56,
+      "fiftyTwoWeekHigh": 76.2,
+      "fiftyDayAverage": 50.8,
+      "twoHundredDayAverage": 50.8,
+      "volume": "119,866,300",
+      "averageVolume": 119866300,
+      "averageVolume10days": 119866300,
+      "marketCap": 0,
+      "enterpriseValue": 0,
+      "sharesOutstanding": 0,
+      "sector": "Diğer",
+      "industry": "",
+      "website": "",
+      "address": "",
+      "city": "",
+      "country": "Turkey",
+      "phone": "",
+      "description": "",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": null,
+      "pegRatio": null,
+      "priceToSales": null,
+      "enterpriseToRevenue": null,
+      "enterpriseToEbitda": null,
+      "profitMargins": null,
+      "grossMargins": null,
+      "operatingMargins": null,
+      "returnOnAssets": null,
+      "returnOnEquity": null,
+      "totalRevenue": null,
+      "revenuePerShare": null,
+      "totalCash": null,
+      "totalDebt": null,
+      "debtToEquity": null,
+      "currentRatio": null,
+      "quickRatio": null,
+      "eps": null,
+      "forwardEps": null,
+      "bookValue": null,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "",
+      "numberOfAnalystOpinions": 0,
+      "beta": null,
+      "historicalData": [
+        {
+          "Close": 37.47999954223633,
+          "Volume": 135733899
+        },
+        {
+          "Close": 35.939998626708984,
+          "Volume": 190332603
+        },
+        {
+          "Close": 37.5,
+          "Volume": 193366754
+        },
+        {
+          "Close": 39.119998931884766,
+          "Volume": 197926779
+        },
+        {
+          "Close": 40.13999938964844,
+          "Volume": 197645637
+        },
+        {
+          "Close": 42.20000076293945,
+          "Volume": 267037989
+        },
+        {
+          "Close": 43.880001068115234,
+          "Volume": 245949862
+        },
+        {
+          "Close": 45.86000061035156,
+          "Volume": 237980648
+        },
+        {
+          "Close": 42.880001068115234,
+          "Volume": 352274438
+        },
+        {
+          "Close": 43.91999816894531,
+          "Volume": 99873824
+        },
+        {
+          "Close": 43.880001068115234,
+          "Volume": 251382621
+        },
+        {
+          "Close": 40.63999938964844,
+          "Volume": 127164009
+        },
+        {
+          "Close": 40.880001068115234,
+          "Volume": 234324956
+        },
+        {
+          "Close": 40.97999954223633,
+          "Volume": 175556239
+        },
+        {
+          "Close": 41.959999084472656,
+          "Volume": 127254425
+        },
+        {
+          "Close": 43.540000915527344,
+          "Volume": 154582256
+        },
+        {
+          "Close": 44.20000076293945,
+          "Volume": 168468073
+        },
+        {
+          "Close": 44.86000061035156,
+          "Volume": 247975872
+        },
+        {
+          "Close": 43.29999923706055,
+          "Volume": 159065955
+        },
+        {
+          "Close": 44.36000061035156,
+          "Volume": 177594573
+        },
+        {
+          "Close": 46.68000030517578,
+          "Volume": 185930971
+        },
+        {
+          "Close": 48.459999084472656,
+          "Volume": 314357392
+        },
+        {
+          "Close": 47.720001220703125,
+          "Volume": 290308395
+        },
+        {
+          "Close": 45.0,
+          "Volume": 147125705
+        },
+        {
+          "Close": 47.599998474121094,
+          "Volume": 202956996
+        },
+        {
+          "Close": 49.70000076293945,
+          "Volume": 143676394
+        },
+        {
+          "Close": 48.779998779296875,
+          "Volume": 200012712
+        },
+        {
+          "Close": 48.900001525878906,
+          "Volume": 137045644
+        },
+        {
+          "Close": 49.29999923706055,
+          "Volume": 117386878
+        },
+        {
+          "Close": 50.79999923706055,
+          "Volume": 119866300
+        }
+      ],
+      "heldPercentInsiders": null,
+      "heldPercentInstitutions": null
+    },
+    {
+      "code": "KOZAA",
+      "symbol": "KOZAA.IS",
+      "name": "KOZAA",
+      "shortName": "KOZAA",
+      "price": 136.1,
+      "change": 2.9,
+      "changeRate": 2.18,
+      "previousClose": 133.2,
+      "open": 136.1,
+      "dayLow": 133.38,
+      "dayHigh": 138.82,
+      "fiftyTwoWeekLow": 95.27,
+      "fiftyTwoWeekHigh": 204.15,
+      "fiftyDayAverage": 136.1,
+      "twoHundredDayAverage": 136.1,
+      "volume": "6,023,126",
+      "averageVolume": 6023126,
+      "averageVolume10days": 6023126,
+      "marketCap": 0,
+      "enterpriseValue": 0,
+      "sharesOutstanding": 0,
+      "sector": "Diğer",
+      "industry": "",
+      "website": "",
+      "address": "",
+      "city": "",
+      "country": "Turkey",
+      "phone": "",
+      "description": "",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": null,
+      "pegRatio": null,
+      "priceToSales": null,
+      "enterpriseToRevenue": null,
+      "enterpriseToEbitda": null,
+      "profitMargins": null,
+      "grossMargins": null,
+      "operatingMargins": null,
+      "returnOnAssets": null,
+      "returnOnEquity": null,
+      "totalRevenue": null,
+      "revenuePerShare": null,
+      "totalCash": null,
+      "totalDebt": null,
+      "debtToEquity": null,
+      "currentRatio": null,
+      "quickRatio": null,
+      "eps": null,
+      "forwardEps": null,
+      "bookValue": null,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "",
+      "numberOfAnalystOpinions": 0,
+      "beta": null,
+      "historicalData": [
+        {
+          "Close": 98.9000015258789,
+          "Volume": 13037023
+        },
+        {
+          "Close": 100.0,
+          "Volume": 7144590
+        },
+        {
+          "Close": 99.5,
+          "Volume": 6348794
+        },
+        {
+          "Close": 101.19999694824219,
+          "Volume": 8440169
+        },
+        {
+          "Close": 101.0999984741211,
+          "Volume": 6551812
+        },
+        {
+          "Close": 103.69999694824219,
+          "Volume": 10070107
+        },
+        {
+          "Close": 105.30000305175781,
+          "Volume": 7155421
+        },
+        {
+          "Close": 109.19999694824219,
+          "Volume": 9968551
+        },
+        {
+          "Close": 108.30000305175781,
+          "Volume": 15720801
+        },
+        {
+          "Close": 107.69999694824219,
+          "Volume": 4234900
+        },
+        {
+          "Close": 107.5999984741211,
+          "Volume": 7641783
+        },
+        {
+          "Close": 103.5999984741211,
+          "Volume": 5716422
+        },
+        {
+          "Close": 103.9000015258789,
+          "Volume": 5971558
+        },
+        {
+          "Close": 104.4000015258789,
+          "Volume": 5352419
+        },
+        {
+          "Close": 108.0,
+          "Volume": 5709330
+        },
+        {
+          "Close": 109.80000305175781,
+          "Volume": 8163400
+        },
+        {
+          "Close": 114.0,
+          "Volume": 9146392
+        },
+        {
+          "Close": 115.80000305175781,
+          "Volume": 8546093
+        },
+        {
+          "Close": 116.4000015258789,
+          "Volume": 7942465
+        },
+        {
+          "Close": 119.0999984741211,
+          "Volume": 5913048
+        },
+        {
+          "Close": 117.5,
+          "Volume": 12078470
+        },
+        {
+          "Close": 118.9000015258789,
+          "Volume": 8427540
+        },
+        {
+          "Close": 118.5999984741211,
+          "Volume": 6639801
+        },
+        {
+          "Close": 119.5,
+          "Volume": 8655534
+        },
+        {
+          "Close": 124.30000305175781,
+          "Volume": 10396481
+        },
+        {
+          "Close": 127.69999694824219,
+          "Volume": 11172665
+        },
+        {
+          "Close": 127.5999984741211,
+          "Volume": 10454193
+        },
+        {
+          "Close": 128.8000030517578,
+          "Volume": 8238143
+        },
+        {
+          "Close": 133.1999969482422,
+          "Volume": 7370591
+        },
+        {
+          "Close": 136.10000610351562,
+          "Volume": 6023126
+        }
+      ],
+      "heldPercentInsiders": null,
+      "heldPercentInstitutions": null
     },
     {
       "code": "TAVHL",
@@ -49144,6 +49522,195 @@
       ],
       "heldPercentInsiders": 0.89989996,
       "heldPercentInstitutions": 0.0043099998
+    },
+    {
+      "code": "IPEKE",
+      "symbol": "IPEKE.IS",
+      "name": "IPEKE",
+      "shortName": "IPEKE",
+      "price": 115.1,
+      "change": -0.7,
+      "changeRate": -0.6,
+      "previousClose": 115.8,
+      "open": 115.1,
+      "dayLow": 112.8,
+      "dayHigh": 117.4,
+      "fiftyTwoWeekLow": 80.57,
+      "fiftyTwoWeekHigh": 172.65,
+      "fiftyDayAverage": 115.1,
+      "twoHundredDayAverage": 115.1,
+      "volume": "4,060,996",
+      "averageVolume": 4060996,
+      "averageVolume10days": 4060996,
+      "marketCap": 0,
+      "enterpriseValue": 0,
+      "sharesOutstanding": 0,
+      "sector": "Diğer",
+      "industry": "",
+      "website": "",
+      "address": "",
+      "city": "",
+      "country": "Turkey",
+      "phone": "",
+      "description": "",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": null,
+      "pegRatio": null,
+      "priceToSales": null,
+      "enterpriseToRevenue": null,
+      "enterpriseToEbitda": null,
+      "profitMargins": null,
+      "grossMargins": null,
+      "operatingMargins": null,
+      "returnOnAssets": null,
+      "returnOnEquity": null,
+      "totalRevenue": null,
+      "revenuePerShare": null,
+      "totalCash": null,
+      "totalDebt": null,
+      "debtToEquity": null,
+      "currentRatio": null,
+      "quickRatio": null,
+      "eps": null,
+      "forwardEps": null,
+      "bookValue": null,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "",
+      "numberOfAnalystOpinions": 0,
+      "beta": null,
+      "historicalData": [
+        {
+          "Close": 83.19999694824219,
+          "Volume": 6848384
+        },
+        {
+          "Close": 85.5,
+          "Volume": 4664796
+        },
+        {
+          "Close": 84.19999694824219,
+          "Volume": 3377659
+        },
+        {
+          "Close": 84.4000015258789,
+          "Volume": 4035997
+        },
+        {
+          "Close": 85.4000015258789,
+          "Volume": 4865967
+        },
+        {
+          "Close": 85.5999984741211,
+          "Volume": 6381847
+        },
+        {
+          "Close": 86.1500015258789,
+          "Volume": 5858871
+        },
+        {
+          "Close": 89.1500015258789,
+          "Volume": 6227279
+        },
+        {
+          "Close": 94.5,
+          "Volume": 7764037
+        },
+        {
+          "Close": 96.5999984741211,
+          "Volume": 4090254
+        },
+        {
+          "Close": 94.0,
+          "Volume": 3907568
+        },
+        {
+          "Close": 93.4000015258789,
+          "Volume": 4356780
+        },
+        {
+          "Close": 93.69999694824219,
+          "Volume": 4666012
+        },
+        {
+          "Close": 93.05000305175781,
+          "Volume": 1826037
+        },
+        {
+          "Close": 95.55000305175781,
+          "Volume": 2564292
+        },
+        {
+          "Close": 96.5999984741211,
+          "Volume": 3700614
+        },
+        {
+          "Close": 97.6500015258789,
+          "Volume": 4073385
+        },
+        {
+          "Close": 97.55000305175781,
+          "Volume": 7615798
+        },
+        {
+          "Close": 97.6500015258789,
+          "Volume": 3868766
+        },
+        {
+          "Close": 99.0,
+          "Volume": 3349286
+        },
+        {
+          "Close": 99.55000305175781,
+          "Volume": 3963746
+        },
+        {
+          "Close": 99.9000015258789,
+          "Volume": 4439177
+        },
+        {
+          "Close": 97.75,
+          "Volume": 3558905
+        },
+        {
+          "Close": 99.80000305175781,
+          "Volume": 3637478
+        },
+        {
+          "Close": 101.69999694824219,
+          "Volume": 4033942
+        },
+        {
+          "Close": 106.69999694824219,
+          "Volume": 3582552
+        },
+        {
+          "Close": 114.19999694824219,
+          "Volume": 5372674
+        },
+        {
+          "Close": 118.0999984741211,
+          "Volume": 4860475
+        },
+        {
+          "Close": 115.80000305175781,
+          "Volume": 3300774
+        },
+        {
+          "Close": 115.0999984741211,
+          "Volume": 4060996
+        }
+      ],
+      "heldPercentInsiders": null,
+      "heldPercentInstitutions": null
     },
     {
       "code": "ISATR",
