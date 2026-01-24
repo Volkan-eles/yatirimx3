@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-01-24T09:30:11.409235",
+  "last_update": "2026-01-24T09:48:55.186283",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 503,
-  "successful": 503,
-  "failed": 28,
+  "total_stocks": 502,
+  "successful": 502,
+  "failed": 29,
   "stocks": [
     {
       "code": "GARAN",
@@ -3616,7 +3616,7 @@
       "averageVolume": 3289558,
       "averageVolume10days": 4360294,
       "marketCap": 69573074944,
-      "enterpriseValue": 225182384128,
+      "enterpriseValue": 227314089984,
       "sharesOutstanding": 608156205,
       "sector": "Consumer Cyclical",
       "industry": "Furnishings, Fixtures & Appliances",
@@ -3631,18 +3631,18 @@
       "priceToBook": 1.0199078,
       "pegRatio": null,
       "priceToSales": 0.1713119,
-      "enterpriseToRevenue": 0.554,
-      "enterpriseToEbitda": 19.784,
+      "enterpriseToRevenue": 0.56,
+      "enterpriseToEbitda": 21.526,
       "profitMargins": -0.05847,
       "grossMargins": 0.28395,
-      "operatingMargins": 0.026870001,
-      "returnOnAssets": 0.0010800001,
+      "operatingMargins": 0.01785,
+      "returnOnAssets": -3.0000001e-05,
       "returnOnEquity": -0.33453998,
       "totalRevenue": 406119350272,
       "revenuePerShare": 668.844,
       "totalCash": 71918403584,
-      "totalDebt": 221673111552,
-      "debtToEquity": 299.27,
+      "totalDebt": 223804833792,
+      "debtToEquity": 302.148,
       "currentRatio": 0.953,
       "quickRatio": 0.621,
       "eps": -39.12,
@@ -49144,195 +49144,6 @@
       ],
       "heldPercentInsiders": 0.89989996,
       "heldPercentInstitutions": 0.0043099998
-    },
-    {
-      "code": "IPEKE",
-      "symbol": "IPEKE.IS",
-      "name": "Ipek Dogal Enerji Kaynaklari Arastirma ve Üretim A.S.",
-      "shortName": "TR DOGAL ENERJI",
-      "price": 115.1,
-      "change": -0.7,
-      "changeRate": -0.6,
-      "previousClose": 115.8,
-      "open": 84.55,
-      "dayLow": 80.5,
-      "dayHigh": 87.55,
-      "fiftyTwoWeekLow": 47.92,
-      "fiftyTwoWeekHigh": 87.75,
-      "fiftyDayAverage": 74.72,
-      "twoHundredDayAverage": 64.45,
-      "volume": "4,060,996",
-      "averageVolume": 4942246,
-      "averageVolume10days": 4338407,
-      "marketCap": 21211492352,
-      "enterpriseValue": 34134585344,
-      "sharesOutstanding": 259785561,
-      "sector": "Basic Materials",
-      "industry": "Gold",
-      "website": "https://ipekenerji.com.tr",
-      "address": "Ugur Mumcu Mahallesi",
-      "city": "Ankara",
-      "country": "Turkey",
-      "phone": "90 312 587 10 00",
-      "description": "Ipek Dogal Enerji Kaynaklari Arastirma ve Üretim A.S., together with its subsidiaries, engages in the research, development, and production of oil, natural gas, and energy and energy resources in Turkey. It is involved in the construction; air transportation; tourism and hotel management; and food and livestock businesses. The company was incorporated in 1968 and is based in Ankara, Turkey. Ipek Dogal Enerji Kaynaklari Arastirma ve Üretim A.S. is a subsidiary of Koza Ipek Holding A.S.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 2.0888228,
-      "pegRatio": null,
-      "priceToSales": 2.1833067,
-      "enterpriseToRevenue": 3.513,
-      "enterpriseToEbitda": 30.561,
-      "profitMargins": -0.10047,
-      "grossMargins": 0.36301997,
-      "operatingMargins": 0.17005,
-      "returnOnAssets": 0.00811,
-      "returnOnEquity": 0.04456,
-      "totalRevenue": 9715305472,
-      "revenuePerShare": 37.411,
-      "totalCash": 14062875648,
-      "totalDebt": 21919000,
-      "debtToEquity": 0.056,
-      "currentRatio": 6.996,
-      "quickRatio": 5.585,
-      "eps": -3.75,
-      "forwardEps": null,
-      "bookValue": 39.089,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.563,
-      "historicalData": [
-        {
-          "Close": 83.19999694824219,
-          "Volume": 6848384
-        },
-        {
-          "Close": 85.5,
-          "Volume": 4664796
-        },
-        {
-          "Close": 84.19999694824219,
-          "Volume": 3377659
-        },
-        {
-          "Close": 84.4000015258789,
-          "Volume": 4035997
-        },
-        {
-          "Close": 85.4000015258789,
-          "Volume": 4865967
-        },
-        {
-          "Close": 85.5999984741211,
-          "Volume": 6381847
-        },
-        {
-          "Close": 86.1500015258789,
-          "Volume": 5858871
-        },
-        {
-          "Close": 89.1500015258789,
-          "Volume": 6227279
-        },
-        {
-          "Close": 94.5,
-          "Volume": 7764037
-        },
-        {
-          "Close": 96.5999984741211,
-          "Volume": 4090254
-        },
-        {
-          "Close": 94.0,
-          "Volume": 3907568
-        },
-        {
-          "Close": 93.4000015258789,
-          "Volume": 4356780
-        },
-        {
-          "Close": 93.69999694824219,
-          "Volume": 4666012
-        },
-        {
-          "Close": 93.05000305175781,
-          "Volume": 1826037
-        },
-        {
-          "Close": 95.55000305175781,
-          "Volume": 2564292
-        },
-        {
-          "Close": 96.5999984741211,
-          "Volume": 3700614
-        },
-        {
-          "Close": 97.6500015258789,
-          "Volume": 4073385
-        },
-        {
-          "Close": 97.55000305175781,
-          "Volume": 7615798
-        },
-        {
-          "Close": 97.6500015258789,
-          "Volume": 3868766
-        },
-        {
-          "Close": 99.0,
-          "Volume": 3349286
-        },
-        {
-          "Close": 99.55000305175781,
-          "Volume": 3963746
-        },
-        {
-          "Close": 99.9000015258789,
-          "Volume": 4439177
-        },
-        {
-          "Close": 97.75,
-          "Volume": 3558905
-        },
-        {
-          "Close": 99.80000305175781,
-          "Volume": 3637478
-        },
-        {
-          "Close": 101.69999694824219,
-          "Volume": 4033942
-        },
-        {
-          "Close": 106.69999694824219,
-          "Volume": 3582552
-        },
-        {
-          "Close": 114.19999694824219,
-          "Volume": 5372674
-        },
-        {
-          "Close": 118.0999984741211,
-          "Volume": 4860475
-        },
-        {
-          "Close": 115.80000305175781,
-          "Volume": 3300774
-        },
-        {
-          "Close": 115.0999984741211,
-          "Volume": 4060996
-        }
-      ],
-      "heldPercentInsiders": 0.71186996,
-      "heldPercentInstitutions": 0.013890001
     },
     {
       "code": "ISATR",
