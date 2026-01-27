@@ -1,5 +1,14 @@
 [
   {
+    "code": "QNBTR",
+    "company": "QNBTR Qnb Bank A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%64.17",
+    "date": "27.01.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 27.01.2026"
+  },
+  {
     "code": "SMRTG",
     "company": "SMRTG Smart Güneş Enerjisi Teknolojileri Ar-Ge Üretim San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -18,22 +27,22 @@
     "description": "SPK Onayı Alındı"
   },
   {
-    "code": "QNBTR",
-    "company": "QNBTR Qnb Bank A.Ş.",
+    "code": "BUCIM",
+    "company": "BUCIM Bursa Çimento Fabrikası A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%64.17",
-    "date": "08.01.2026",
+    "rate": "%166.66",
+    "date": "26.01.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "ALVES",
-    "company": "ALVES Alves Kablo San. ve Tic. A.Ş.",
+    "code": "PRZMA",
+    "company": "PRZMA Prizma Press Matbaacılık Yayıncılık San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%900",
-    "date": "20.01.2026",
+    "rate": "%200",
+    "date": "26.01.2026",
     "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 20.01.2026"
+    "description": "Yönetim Kurulu Kararı | Tutar: 154.899.182 TL"
   },
   {
     "code": "SMRVA",
@@ -219,28 +228,28 @@
     "code": "MANAS",
     "company": "MANAS Manas Enerji Yönetimi San. ve Tic. A.Ş.",
     "type": "Bedelli",
-    "rate": "%200",
+    "rate": "%100",
     "date": "23.01.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 331.056.000 TL"
+    "description": "SPK Onayı Alındı | Tutar: 165.528.000 TL"
   },
   {
     "code": "FRIGO",
     "company": "FRIGO Frigo-Pak Gida Maddeleri San. ve Tic. A.Ş.",
     "type": "Bedelli",
-    "rate": "%239.89",
+    "rate": "%100",
     "date": "23.01.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 352.897.525 TL"
+    "description": "SPK Onayı Alındı | Tutar: 147.102.475 TL"
   },
   {
-    "code": "FENER",
-    "company": "FENER Fenerbahçe Fulbol A.Ş.",
+    "code": "BUCIM",
+    "company": "BUCIM Bursa Çimento Fabrikası A.Ş.",
     "type": "Bedelli",
-    "rate": "%400",
-    "date": "05.01.2026 Bitiş: 19.01.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 05.01.2026 Bitiş: 19.01.2026 | Tutar: 2 TL"
+    "rate": "%166.66",
+    "date": "26.01.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "IDGYO",
