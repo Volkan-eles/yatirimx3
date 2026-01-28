@@ -1,5 +1,23 @@
 [
   {
+    "code": "SODSN",
+    "company": "SODSN Sodaş Sodyum Sanayi A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%700",
+    "date": "29.01.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 29.01.2026"
+  },
+  {
+    "code": "SMRTG",
+    "company": "SMRTG Smart Güneş Enerjisi Teknolojileri Ar-Ge Üretim San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "29.01.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 29.01.2026 | Tutar: 1.211.760.000 TL"
+  },
+  {
     "code": "QNBTR",
     "company": "QNBTR Qnb Bank A.Ş.",
     "type": "Bedelsiz",
@@ -7,24 +25,6 @@
     "date": "27.01.2026",
     "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 27.01.2026"
-  },
-  {
-    "code": "SMRTG",
-    "company": "SMRTG Smart Güneş Enerjisi Teknolojileri Ar-Ge Üretim San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "23.01.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 1.211.760.000 TL"
-  },
-  {
-    "code": "SODSN",
-    "company": "SODSN Sodaş Sodyum Sanayi A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%700",
-    "date": "15.01.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
   },
   {
     "code": "BUCIM",
@@ -225,22 +225,22 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "MANAS",
-    "company": "MANAS Manas Enerji Yönetimi San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%100",
-    "date": "23.01.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 165.528.000 TL"
-  },
-  {
     "code": "FRIGO",
     "company": "FRIGO Frigo-Pak Gida Maddeleri San. ve Tic. A.Ş.",
     "type": "Bedelli",
     "rate": "%100",
-    "date": "23.01.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 147.102.475 TL"
+    "date": "28.01.2026 Bitiş: 11.02.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 28.01.2026 Bitiş: 11.02.2026 | Tutar: 147.102.475 TL"
+  },
+  {
+    "code": "MANAS",
+    "company": "MANAS Manas Enerji Yönetimi San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "29.01.2026 Bitiş: 12.02.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 29.01.2026 Bitiş: 12.02.2026 | Tutar: 165.528.000 TL"
   },
   {
     "code": "BUCIM",

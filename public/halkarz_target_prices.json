@@ -1,5 +1,60 @@
 [
   {
+    "bistkodu": "TURSG",
+    "sirket": "Türkiye Sigorta A.Ş.",
+    "link": "https://halkarz.com/turkiye-sigorta-a-s/",
+    "analist": "PhillipCapital Menkul",
+    "tarih": "27.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "17,00"
+  },
+  {
+    "bistkodu": "TTRAK",
+    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
+    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
+    "analist": "Hsbc",
+    "tarih": "27.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "625,00"
+  },
+  {
+    "bistkodu": "TOASO",
+    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
+    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
+    "analist": "Hsbc",
+    "tarih": "27.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "435,00"
+  },
+  {
+    "bistkodu": "FROTO",
+    "sirket": "Ford Otomotiv Sanayi A.Ş.",
+    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
+    "analist": "Hsbc",
+    "tarih": "27.01.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "130,00"
+  },
+  {
+    "bistkodu": "DOAS",
+    "sirket": "Doğuş Otomotiv Servis ve Ticaret A.Ş.",
+    "link": "https://halkarz.com/dogus-otomotiv-servis-ve-ticaret-a-s/",
+    "analist": "Hsbc",
+    "tarih": "27.01.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "260,00"
+  },
+  {
     "bistkodu": "YATAS",
     "sirket": "Yataş Yatak ve Yorgan San. Tic. A.Ş.",
     "link": "https://halkarz.com/yatas-yatak-ve-yorgan-san-tic-a-s/",
@@ -3806,17 +3861,6 @@
     "hf_fiyat": "21,10"
   },
   {
-    "bistkodu": "TTRAK",
-    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
-    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
-    "analist": "Hsbc",
-    "tarih": "03.11.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "600,00"
-  },
-  {
     "bistkodu": "AGESA",
     "sirket": "Agesa Hayat ve Emeklilik A.Ş.",
     "link": "https://halkarz.com/agesa-hayat-ve-emeklilik-a-s/",
@@ -4631,17 +4675,6 @@
     "hf_fiyat": "268,30"
   },
   {
-    "bistkodu": "TURSG",
-    "sirket": "Türkiye Sigorta A.Ş.",
-    "link": "https://halkarz.com/turkiye-sigorta-a-s/",
-    "analist": "PhillipCapital Menkul",
-    "tarih": "04.09.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "15,00"
-  },
-  {
     "bistkodu": "GLCVY",
     "sirket": "Gelecek Varlık Yönetimi A.Ş.",
     "link": "https://halkarz.com/gelecek-varlik-yonetimi-a-s/",
@@ -5390,28 +5423,6 @@
     "hf_fiyat": "192,21"
   },
   {
-    "bistkodu": "FROTO",
-    "sirket": "Ford Otomotiv Sanayi A.Ş.",
-    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
-    "analist": "Hsbc",
-    "tarih": "25.06.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "120,00"
-  },
-  {
-    "bistkodu": "DOAS",
-    "sirket": "Doğuş Otomotiv Servis ve Ticaret A.Ş.",
-    "link": "https://halkarz.com/dogus-otomotiv-servis-ve-ticaret-a-s/",
-    "analist": "Hsbc",
-    "tarih": "25.06.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "200,00"
-  },
-  {
     "bistkodu": "RGYAS",
     "sirket": "Rönesans Gayrimenkul Yatırım A.Ş.",
     "link": "https://halkarz.com/ronesans-gayrimenkul-yatirim-a-s/",
@@ -5696,17 +5707,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "75,40"
-  },
-  {
-    "bistkodu": "TOASO",
-    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
-    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
-    "analist": "Hsbc",
-    "tarih": "02.05.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "300,00"
   },
   {
     "bistkodu": "AYGAZ",
