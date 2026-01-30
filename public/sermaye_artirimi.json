@@ -1,5 +1,14 @@
 [
   {
+    "code": "GENIL",
+    "company": "GENIL Gen İlaç ve Sağlık Ürünleri San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1400",
+    "date": "29.01.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "SODSN",
     "company": "SODSN Sodaş Sodyum Sanayi A.Ş.",
     "type": "Bedelsiz",
@@ -16,15 +25,6 @@
     "date": "29.01.2026",
     "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 29.01.2026 | Tutar: 1.211.760.000 TL"
-  },
-  {
-    "code": "QNBTR",
-    "company": "QNBTR Qnb Bank A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%64.17",
-    "date": "27.01.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 27.01.2026"
   },
   {
     "code": "BUCIM",
@@ -189,15 +189,6 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 870.004.835 TL"
   },
   {
-    "code": "GENIL",
-    "company": "GENIL Gen İlaç ve Sağlık Ürünleri San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1400",
-    "date": "14.07.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "REEDR",
     "company": "REEDR Reeder Teknoloji San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -232,6 +223,33 @@
     "date": "22.09.2023",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "CANTE",
+    "company": "CANTE Çan2 Termik A.Ş.",
+    "type": "Bedelli",
+    "rate": "%42.85",
+    "date": "29.01.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 1 TL"
+  },
+  {
+    "code": "USAK",
+    "company": "USAK Uşak Seramik Sanayii A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "29.01.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 1 TL"
+  },
+  {
+    "code": "KENT",
+    "company": "KENT Kent Gıda Maddeleri San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%50",
+    "date": "29.01.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 1 TL"
   },
   {
     "code": "FRIGO",
@@ -396,15 +414,6 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
-    "code": "USAK",
-    "company": "USAK Uşak Seramik Sanayii A.Ş.",
-    "type": "Bedelli",
-    "rate": "%100",
-    "date": "23.09.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
     "code": "KORDS",
     "company": "KORDS Kordsa Teknik Tekstil A.Ş.",
     "type": "Bedelli",
@@ -412,24 +421,6 @@
     "date": "12.09.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 289.776.399 TL"
-  },
-  {
-    "code": "CANTE",
-    "company": "CANTE Çan2 Termik A.Ş.",
-    "type": "Bedelli",
-    "rate": "%42.85",
-    "date": "21.08.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "KENT",
-    "company": "KENT Kent Gıda Maddeleri San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%50",
-    "date": "15.08.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "KRTEK",
