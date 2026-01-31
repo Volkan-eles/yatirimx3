@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-31T10:34:59.813527",
+  "last_update": "2026-01-31T11:27:37.121032",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 502,
   "successful": 502,
@@ -192,7 +192,7 @@
         }
       ],
       "heldPercentInsiders": 0.85974,
-      "heldPercentInstitutions": 0.02103
+      "heldPercentInstitutions": 0.02104
     },
     {
       "code": "AKBNK",
@@ -1326,7 +1326,7 @@
         }
       ],
       "heldPercentInsiders": 0.49122003,
-      "heldPercentInstitutions": 0.08172
+      "heldPercentInstitutions": 0.08135
     },
     {
       "code": "PGSUS",
@@ -2082,7 +2082,7 @@
         }
       ],
       "heldPercentInsiders": 0.49542,
-      "heldPercentInstitutions": 0.0692
+      "heldPercentInstitutions": 0.06904
     },
     {
       "code": "KRDMD",
@@ -2460,7 +2460,7 @@
         }
       ],
       "heldPercentInsiders": 0.74195,
-      "heldPercentInstitutions": 0.06866
+      "heldPercentInstitutions": 0.06968
     },
     {
       "code": "BIMAS",
@@ -3216,7 +3216,7 @@
         }
       ],
       "heldPercentInsiders": 0.8668,
-      "heldPercentInstitutions": 0.01739
+      "heldPercentInstitutions": 0.01808
     },
     {
       "code": "TCELL",
@@ -3405,7 +3405,7 @@
         }
       ],
       "heldPercentInsiders": 0.46,
-      "heldPercentInstitutions": 0.11687
+      "heldPercentInstitutions": 0.11955
     },
     {
       "code": "SISE",
@@ -3783,7 +3783,7 @@
         }
       ],
       "heldPercentInsiders": 0.59037,
-      "heldPercentInstitutions": 0.02178
+      "heldPercentInstitutions": 0.02248
     },
     {
       "code": "VESTL",
@@ -4161,7 +4161,7 @@
         }
       ],
       "heldPercentInsiders": 0.34595,
-      "heldPercentInstitutions": 0.11928
+      "heldPercentInstitutions": 0.12027001
     },
     {
       "code": "KCHOL",
@@ -4728,7 +4728,7 @@
         }
       ],
       "heldPercentInsiders": 0.79687,
-      "heldPercentInstitutions": 0.043709997
+      "heldPercentInstitutions": 0.04344
     },
     {
       "code": "TOASO",
@@ -5295,7 +5295,7 @@
         }
       ],
       "heldPercentInsiders": 0.51198,
-      "heldPercentInstitutions": 0.14631
+      "heldPercentInstitutions": 0.14622
     },
     {
       "code": "EKGYO",
@@ -5862,7 +5862,7 @@
         }
       ],
       "heldPercentInsiders": 0.69254,
-      "heldPercentInstitutions": 0.01311
+      "heldPercentInstitutions": 0.01338
     },
     {
       "code": "GUBRF",
@@ -6996,7 +6996,7 @@
         }
       ],
       "heldPercentInsiders": 0.67047995,
-      "heldPercentInstitutions": 0.0401
+      "heldPercentInstitutions": 0.04009
     },
     {
       "code": "ULKER",
@@ -7185,7 +7185,7 @@
         }
       ],
       "heldPercentInsiders": 0.47233,
-      "heldPercentInstitutions": 0.08733
+      "heldPercentInstitutions": 0.08759
     },
     {
       "code": "TTRAK",
@@ -9642,7 +9642,7 @@
         }
       ],
       "heldPercentInsiders": 0.81856,
-      "heldPercentInstitutions": 0.00737
+      "heldPercentInstitutions": 0.00715
     },
     {
       "code": "AYDEM",
@@ -9831,7 +9831,7 @@
         }
       ],
       "heldPercentInsiders": 0.81557,
-      "heldPercentInstitutions": 0.01002
+      "heldPercentInstitutions": 0.00956
     },
     {
       "code": "BAGFS",
@@ -10020,7 +10020,7 @@
         }
       ],
       "heldPercentInsiders": 0.43887,
-      "heldPercentInstitutions": 0.020480001
+      "heldPercentInstitutions": 0.02085
     },
     {
       "code": "BIOEN",
@@ -10965,7 +10965,7 @@
         }
       ],
       "heldPercentInsiders": 0.54457,
-      "heldPercentInstitutions": 0.02619
+      "heldPercentInstitutions": 0.02476
     },
     {
       "code": "CEMTS",
@@ -14200,7 +14200,7 @@
       "averageVolume": 1426119,
       "averageVolume10days": 1993957,
       "marketCap": 53233999872,
-      "enterpriseValue": 36765011968,
+      "enterpriseValue": 0,
       "sharesOutstanding": 430000000,
       "sector": "Financial Services",
       "industry": "Insurance - Life",
@@ -14214,21 +14214,21 @@
       "forwardPE": 7.3822303,
       "priceToBook": 4.5447874,
       "pegRatio": null,
-      "priceToSales": 1.5771974,
-      "enterpriseToRevenue": 1.089,
-      "enterpriseToEbitda": 5.562,
-      "profitMargins": 0.15945,
-      "grossMargins": 0.48630002,
-      "operatingMargins": 0.19058001,
-      "returnOnAssets": 0.01339,
-      "returnOnEquity": 0.52926,
-      "totalRevenue": 33752272896,
-      "revenuePerShare": 78.494,
-      "totalCash": 16764967936,
-      "totalDebt": 295981248,
-      "debtToEquity": 2.527,
-      "currentRatio": 6.845,
-      "quickRatio": 6.749,
+      "priceToSales": 1.4025716,
+      "enterpriseToRevenue": null,
+      "enterpriseToEbitda": null,
+      "profitMargins": 0.15793,
+      "grossMargins": 0.48738998,
+      "operatingMargins": 0.26799,
+      "returnOnAssets": 0.013839999,
+      "returnOnEquity": 0.50523,
+      "totalRevenue": 37954568192,
+      "revenuePerShare": null,
+      "totalCash": 21633243136,
+      "totalDebt": 305595424,
+      "debtToEquity": 2.238,
+      "currentRatio": 7.181,
+      "quickRatio": 7.13,
       "eps": 12.51,
       "forwardEps": 16.77,
       "bookValue": 27.24,
@@ -14243,7 +14243,7 @@
       "recommendationMean": 1.25,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 4,
-      "beta": 0.327,
+      "beta": null,
       "historicalData": [
         {
           "Close": 106.5,
@@ -14367,7 +14367,7 @@
         }
       ],
       "heldPercentInsiders": 0.83917,
-      "heldPercentInstitutions": 0.01678
+      "heldPercentInstitutions": 0.01676
     },
     {
       "code": "ANSGR",
@@ -14556,7 +14556,7 @@
         }
       ],
       "heldPercentInsiders": 0.64313006,
-      "heldPercentInstitutions": 0.04449
+      "heldPercentInstitutions": 0.04445
     },
     {
       "code": "ARASE",
@@ -14745,7 +14745,7 @@
         }
       ],
       "heldPercentInsiders": 0.82731,
-      "heldPercentInstitutions": 0.0014
+      "heldPercentInstitutions": 0.00156
     },
     {
       "code": "ARDYZ",
@@ -19281,7 +19281,7 @@
         }
       ],
       "heldPercentInsiders": 0.84713995,
-      "heldPercentInstitutions": 0.00596
+      "heldPercentInstitutions": 0.00604
     },
     {
       "code": "BAYRK",
@@ -19848,7 +19848,7 @@
         }
       ],
       "heldPercentInsiders": 0.083579995,
-      "heldPercentInstitutions": 0.06306
+      "heldPercentInstitutions": 0.06255
     },
     {
       "code": "BEYAZ",
@@ -20226,7 +20226,7 @@
         }
       ],
       "heldPercentInsiders": 0.84498,
-      "heldPercentInstitutions": 0.00217
+      "heldPercentInstitutions": 0.00227
     },
     {
       "code": "BIGCH",
@@ -20415,7 +20415,7 @@
         }
       ],
       "heldPercentInsiders": 0.61061,
-      "heldPercentInstitutions": 0.00052
+      "heldPercentInstitutions": 0.00063
     },
     {
       "code": "BINHO",
@@ -23061,7 +23061,7 @@
         }
       ],
       "heldPercentInsiders": 0.85553,
-      "heldPercentInstitutions": 0.01594
+      "heldPercentInstitutions": 0.01601
     },
     {
       "code": "BSOKE",
@@ -24384,7 +24384,7 @@
         }
       ],
       "heldPercentInsiders": 0.29285,
-      "heldPercentInstitutions": 0.0291
+      "heldPercentInstitutions": 0.03244
     },
     {
       "code": "CASA",
@@ -30621,7 +30621,7 @@
         }
       ],
       "heldPercentInsiders": 0.30118,
-      "heldPercentInstitutions": 0.38307998
+      "heldPercentInstitutions": 0.38303003
     },
     {
       "code": "DOFER",
@@ -76926,7 +76926,7 @@
         }
       ],
       "heldPercentInsiders": 0.59411997,
-      "heldPercentInstitutions": 0.02479
+      "heldPercentInstitutions": 0.024920002
     },
     {
       "code": "RAYSG",
@@ -80139,7 +80139,7 @@
         }
       ],
       "heldPercentInsiders": 0.42608002,
-      "heldPercentInstitutions": 0.00141
+      "heldPercentInstitutions": 0.00162
     },
     {
       "code": "SDTTR",
@@ -80328,7 +80328,7 @@
         }
       ],
       "heldPercentInsiders": 0.63108003,
-      "heldPercentInstitutions": 0.07447
+      "heldPercentInstitutions": 0.0746
     },
     {
       "code": "SEGMN",
@@ -81273,7 +81273,7 @@
         }
       ],
       "heldPercentInsiders": 0.82422996,
-      "heldPercentInstitutions": 0.01492
+      "heldPercentInstitutions": 0.01481
     },
     {
       "code": "SELVA",
@@ -86565,7 +86565,7 @@
         }
       ],
       "heldPercentInsiders": 0.68908995,
-      "heldPercentInstitutions": 0.045440003
+      "heldPercentInstitutions": 0.04539
     },
     {
       "code": "TKNSA",
