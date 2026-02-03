@@ -9,24 +9,6 @@
     "description": "SPK Onayı Alındı"
   },
   {
-    "code": "SODSN",
-    "company": "SODSN Sodaş Sodyum Sanayi A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%700",
-    "date": "29.01.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 29.01.2026"
-  },
-  {
-    "code": "SMRTG",
-    "company": "SMRTG Smart Güneş Enerjisi Teknolojileri Ar-Ge Üretim San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "29.01.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 29.01.2026 | Tutar: 1.211.760.000 TL"
-  },
-  {
     "code": "BUCIM",
     "company": "BUCIM Bursa Çimento Fabrikası A.Ş.",
     "type": "Bedelsiz",
@@ -229,27 +211,27 @@
     "company": "CANTE Çan2 Termik A.Ş.",
     "type": "Bedelli",
     "rate": "%42.85",
-    "date": "29.01.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 1 TL"
+    "date": "03.02.2026 Bitiş: 17.02.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 03.02.2026 Bitiş: 17.02.2026 | Tutar: 1 TL"
   },
   {
     "code": "USAK",
     "company": "USAK Uşak Seramik Sanayii A.Ş.",
     "type": "Bedelli",
     "rate": "%100",
-    "date": "29.01.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 1 TL"
+    "date": "03.02.2026 Bitiş: 17.02.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 03.02.2026 Bitiş: 17.02.2026 | Tutar: 1 TL"
   },
   {
     "code": "KENT",
     "company": "KENT Kent Gıda Maddeleri San. ve Tic. A.Ş.",
     "type": "Bedelli",
     "rate": "%50",
-    "date": "29.01.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 1 TL"
+    "date": "05.02.2026 Bitiş: 19.02.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 05.02.2026 Bitiş: 19.02.2026 | Tutar: 1 TL"
   },
   {
     "code": "FRIGO",
