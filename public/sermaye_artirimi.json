@@ -207,6 +207,24 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
+    "code": "FRIGO",
+    "company": "FRIGO Frigo-Pak Gida Maddeleri San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "28.01.2026 Bitiş: 11.02.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 28.01.2026 Bitiş: 11.02.2026 | Tutar: 147.102.475 TL"
+  },
+  {
+    "code": "MANAS",
+    "company": "MANAS Manas Enerji Yönetimi San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "29.01.2026 Bitiş: 12.02.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 29.01.2026 Bitiş: 12.02.2026 | Tutar: 165.528.000 TL"
+  },
+  {
     "code": "CANTE",
     "company": "CANTE Çan2 Termik A.Ş.",
     "type": "Bedelli",
@@ -232,24 +250,6 @@
     "date": "05.02.2026 Bitiş: 19.02.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 05.02.2026 Bitiş: 19.02.2026 | Tutar: 1 TL"
-  },
-  {
-    "code": "FRIGO",
-    "company": "FRIGO Frigo-Pak Gida Maddeleri San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%100",
-    "date": "28.01.2026 Bitiş: 11.02.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 28.01.2026 Bitiş: 11.02.2026 | Tutar: 147.102.475 TL"
-  },
-  {
-    "code": "MANAS",
-    "company": "MANAS Manas Enerji Yönetimi San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%100",
-    "date": "29.01.2026 Bitiş: 12.02.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 29.01.2026 Bitiş: 12.02.2026 | Tutar: 165.528.000 TL"
   },
   {
     "code": "BUCIM",
