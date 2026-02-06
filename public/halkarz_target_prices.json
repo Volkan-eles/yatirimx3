@@ -1,5 +1,247 @@
 [
   {
+    "bistkodu": "GARAN",
+    "sirket": "T. Garanti Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
+    "analist": "Ak Yatırım",
+    "tarih": "05.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "205,00"
+  },
+  {
+    "bistkodu": "YKBNK",
+    "sirket": "Yapı ve Kredi Bankası A.Ş.",
+    "link": "https://halkarz.com/yapi-ve-kredi-bankasi-a-s/",
+    "analist": "Alnus Yatırım",
+    "tarih": "05.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "49,43"
+  },
+  {
+    "bistkodu": "GARAN",
+    "sirket": "T. Garanti Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
+    "analist": "Tera Yatırım",
+    "tarih": "05.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "200,41"
+  },
+  {
+    "bistkodu": "GARAN",
+    "sirket": "T. Garanti Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
+    "analist": "Deniz Yatırım",
+    "tarih": "05.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "211,00"
+  },
+  {
+    "bistkodu": "GARAN",
+    "sirket": "T. Garanti Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
+    "analist": "Yapı Kredi Yatırım",
+    "tarih": "05.02.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "180,00"
+  },
+  {
+    "bistkodu": "YKBNK",
+    "sirket": "Yapı ve Kredi Bankası A.Ş.",
+    "link": "https://halkarz.com/yapi-ve-kredi-bankasi-a-s/",
+    "analist": "Pusula Yatırım",
+    "tarih": "05.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "57,10"
+  },
+  {
+    "bistkodu": "GARAN",
+    "sirket": "T. Garanti Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
+    "analist": "Pusula Yatırım",
+    "tarih": "05.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "199,00"
+  },
+  {
+    "bistkodu": "GARAN",
+    "sirket": "T. Garanti Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "05.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "205,00"
+  },
+  {
+    "bistkodu": "GARAN",
+    "sirket": "Türkiye Garanti Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
+    "analist": "Alnus Yatırım",
+    "tarih": "05.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "221,76"
+  },
+  {
+    "bistkodu": "GARAN",
+    "sirket": "T. Garanti Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
+    "analist": "Şeker Yatırım",
+    "tarih": "05.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "225,90"
+  },
+  {
+    "bistkodu": "ALARK",
+    "sirket": "Alarko Holding A.Ş.",
+    "link": "https://halkarz.com/alarko-holding-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "05.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "184,89"
+  },
+  {
+    "bistkodu": "AKBNK",
+    "sirket": "Akbank T.A.Ş.",
+    "link": "https://halkarz.com/akbank-t-a-s/",
+    "analist": "Ziraat Yatırım",
+    "tarih": "04.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "133,50"
+  },
+  {
+    "bistkodu": "TSKB",
+    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
+    "analist": "Icbc Yatırım",
+    "tarih": "04.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "19,00"
+  },
+  {
+    "bistkodu": "TSKB",
+    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
+    "analist": "Tera Yatırım",
+    "tarih": "04.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "19,06"
+  },
+  {
+    "bistkodu": "TSKB",
+    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
+    "analist": "Yapı Kredi Yatırım",
+    "tarih": "04.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "19,00"
+  },
+  {
+    "bistkodu": "TSKB",
+    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
+    "analist": "Deniz Yatırım",
+    "tarih": "04.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "19,20"
+  },
+  {
+    "bistkodu": "TSKB",
+    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
+    "analist": "PhillipCapital Menkul",
+    "tarih": "04.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "20,10"
+  },
+  {
+    "bistkodu": "TSKB",
+    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "04.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "22,00"
+  },
+  {
+    "bistkodu": "TSKB",
+    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
+    "analist": "Şeker Yatırım",
+    "tarih": "04.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "20,06"
+  },
+  {
+    "bistkodu": "TSKB",
+    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
+    "analist": "Ak Yatırım",
+    "tarih": "04.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "18,70"
+  },
+  {
+    "bistkodu": "TSKB",
+    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
+    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
+    "analist": "Pusula Yatırım",
+    "tarih": "04.02.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "16,64"
+  },
+  {
+    "bistkodu": "AKBNK",
+    "sirket": "Akbank T.A.Ş.",
+    "link": "https://halkarz.com/akbank-t-a-s/",
+    "analist": "Icbc Yatırım",
+    "tarih": "03.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "108,00"
+  },
+  {
     "bistkodu": "AKBNK",
     "sirket": "Akbank T.A.Ş.",
     "link": "https://halkarz.com/akbank-t-a-s/",
@@ -649,17 +891,6 @@
     "hf_fiyat": "100,00"
   },
   {
-    "bistkodu": "AKBNK",
-    "sirket": "Akbank T.A.Ş.",
-    "link": "https://halkarz.com/akbank-t-a-s/",
-    "analist": "Pusula Yatırım",
-    "tarih": "26.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "96,53"
-  },
-  {
     "bistkodu": "VAKBN",
     "sirket": "Türkiye Vakıflar Bankası T.A.O.",
     "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
@@ -691,28 +922,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "70,01"
-  },
-  {
-    "bistkodu": "GARAN",
-    "sirket": "T. Garanti Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
-    "analist": "Pusula Yatırım",
-    "tarih": "26.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "198,24"
-  },
-  {
-    "bistkodu": "YKBNK",
-    "sirket": "Yapı ve Kredi Bankası A.Ş.",
-    "link": "https://halkarz.com/yapi-ve-kredi-bankasi-a-s/",
-    "analist": "Pusula Yatırım",
-    "tarih": "26.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "57,10"
   },
   {
     "bistkodu": "MGROS",
@@ -781,17 +990,6 @@
     "hf_fiyat": "45,00"
   },
   {
-    "bistkodu": "TSKB",
-    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
-    "analist": "Icbc Yatırım",
-    "tarih": "23.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "19,00"
-  },
-  {
     "bistkodu": "ISCTR",
     "sirket": "Türkiye İş Bankası A.Ş. Class C",
     "link": "https://halkarz.com/turkiye-is-bankasi-a-s-class-c/",
@@ -812,17 +1010,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "207,00"
-  },
-  {
-    "bistkodu": "AKBNK",
-    "sirket": "Akbank T.A.Ş.",
-    "link": "https://halkarz.com/akbank-t-a-s/",
-    "analist": "Icbc Yatırım",
-    "tarih": "23.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "108,00"
   },
   {
     "bistkodu": "TRGYO",
@@ -1034,17 +1221,6 @@
     "hf_fiyat": "30,50"
   },
   {
-    "bistkodu": "TSKB",
-    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
-    "analist": "Ak Yatırım",
-    "tarih": "23.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "18,70"
-  },
-  {
     "bistkodu": "ISCTR",
     "sirket": "Türkiye İş Bankası A.Ş. (C)",
     "link": "https://halkarz.com/turkiye-is-bankasi-a-s-c/",
@@ -1054,17 +1230,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "21,00"
-  },
-  {
-    "bistkodu": "GARAN",
-    "sirket": "T. Garanti Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
-    "analist": "Ak Yatırım",
-    "tarih": "23.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "196,00"
   },
   {
     "bistkodu": "ASTOR",
@@ -1936,17 +2101,6 @@
     "hf_fiyat": "272,00"
   },
   {
-    "bistkodu": "GARAN",
-    "sirket": "T. Garanti Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
-    "analist": "Tera Yatırım",
-    "tarih": "12.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "200,41"
-  },
-  {
     "bistkodu": "MPARK",
     "sirket": "MLP Sağlık Hizmetleri A.Ş.",
     "link": "https://halkarz.com/mlp-saglik-hizmetleri-a-s/",
@@ -1989,17 +2143,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "191,00"
-  },
-  {
-    "bistkodu": "TSKB",
-    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
-    "analist": "Tera Yatırım",
-    "tarih": "12.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "19,06"
   },
   {
     "bistkodu": "FROTO",
@@ -2332,17 +2475,6 @@
     "hf_fiyat": "52,28"
   },
   {
-    "bistkodu": "TSKB",
-    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
-    "analist": "Şeker Yatırım",
-    "tarih": "09.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "20,06"
-  },
-  {
     "bistkodu": "ISCTR",
     "sirket": "Türkiye İş Bankası A.Ş. Class C",
     "link": "https://halkarz.com/turkiye-is-bankasi-a-s-class-c/",
@@ -2352,17 +2484,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "26,25"
-  },
-  {
-    "bistkodu": "GARAN",
-    "sirket": "T. Garanti Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
-    "analist": "Şeker Yatırım",
-    "tarih": "09.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "203,65"
   },
   {
     "bistkodu": "THYAO",
@@ -2585,17 +2706,6 @@
     "hf_fiyat": "83,00"
   },
   {
-    "bistkodu": "TSKB",
-    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
-    "analist": "Deniz Yatırım",
-    "tarih": "05.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "18,90"
-  },
-  {
     "bistkodu": "TOASO",
     "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
     "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
@@ -2748,17 +2858,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "121,30"
-  },
-  {
-    "bistkodu": "GARAN",
-    "sirket": "T. Garanti Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
-    "analist": "Deniz Yatırım",
-    "tarih": "05.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "202,10"
   },
   {
     "bistkodu": "FROTO",
@@ -4422,17 +4521,6 @@
     "hf_fiyat": "294,77"
   },
   {
-    "bistkodu": "ALARK",
-    "sirket": "Alarko Holding A.Ş.",
-    "link": "https://halkarz.com/alarko-holding-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "31.10.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "158,57"
-  },
-  {
     "bistkodu": "TTRAK",
     "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
     "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
@@ -4477,17 +4565,6 @@
     "hf_fiyat": "300,00"
   },
   {
-    "bistkodu": "YKBNK",
-    "sirket": "Yapı ve Kredi Bankası A.Ş.",
-    "link": "https://halkarz.com/yapi-ve-kredi-bankasi-a-s/",
-    "analist": "Alnus Yatırım",
-    "tarih": "31.10.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "53,00"
-  },
-  {
     "bistkodu": "BIGCH",
     "sirket": "(BigChefs) Büyük Şefler Gıda Turizm Tekstil Danışmanlık Organizasyon Eğitim San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/big-chefs-buyuk-sefler-gida-turizm-tekstil-danismanlik-organizasyon-egitim-san-ve-tic-a-s/",
@@ -4530,17 +4607,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "16,16"
-  },
-  {
-    "bistkodu": "TSKB",
-    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
-    "analist": "PhillipCapital Menkul",
-    "tarih": "28.10.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "16,26"
   },
   {
     "bistkodu": "AKGRT",
@@ -5148,17 +5214,6 @@
     "hf_fiyat": "100,08"
   },
   {
-    "bistkodu": "GARAN",
-    "sirket": "T. Garanti Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
-    "analist": "Yapı Kredi Yatırım",
-    "tarih": "15.08.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "182,00"
-  },
-  {
     "bistkodu": "TABGD",
     "sirket": "Tab Gıda San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/tab-gida-san-ve-tic-a-s/",
@@ -5291,17 +5346,6 @@
     "hf_fiyat": "498,00"
   },
   {
-    "bistkodu": "GARAN",
-    "sirket": "Türkiye Garanti Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
-    "analist": "Alnus Yatırım",
-    "tarih": "05.08.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "212,60"
-  },
-  {
     "bistkodu": "EUREN",
     "sirket": "Europen Endüstri İnşaat San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/europen-endustri-insaat-san-ve-tic-a-s/",
@@ -5366,28 +5410,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "143,00"
-  },
-  {
-    "bistkodu": "TSKB",
-    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "31.07.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "22,00"
-  },
-  {
-    "bistkodu": "GARAN",
-    "sirket": "T. Garanti Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-garanti-bankasi-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "31.07.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "205,00"
   },
   {
     "bistkodu": "OTKAR",
@@ -5938,28 +5960,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "508,20"
-  },
-  {
-    "bistkodu": "TSKB",
-    "sirket": "Türkiye Sınai Kalkınma Bankası A.Ş.",
-    "link": "https://halkarz.com/turkiye-sinai-kalkinma-bankasi-a-s/",
-    "analist": "Yapı Kredi Yatırım",
-    "tarih": "30.04.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "19,00"
-  },
-  {
-    "bistkodu": "AKBNK",
-    "sirket": "Akbank T.A.Ş.",
-    "link": "https://halkarz.com/akbank-t-a-s/",
-    "analist": "Ziraat Yatırım",
-    "tarih": "29.04.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "92,70"
   },
   {
     "bistkodu": "YKBNK",
