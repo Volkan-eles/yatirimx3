@@ -1,12 +1,21 @@
 [
   {
+    "code": "GENIL",
+    "company": "GENIL Gen İlaç ve Sağlık Ürünleri San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1400",
+    "date": "10.02.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 10.02.2026"
+  },
+  {
     "code": "BIGCH",
     "company": "BIGCH (BigChefs) Büyük Şefler Gıda Turizm Tekstil Danışmanlık Organizasyon Eğitim San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%400",
-    "date": "05.02.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
+    "date": "11.02.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 11.02.2026"
   },
   {
     "code": "KZBGY",
@@ -14,15 +23,6 @@
     "type": "Bedelsiz",
     "rate": "%233.33",
     "date": "05.02.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "GENIL",
-    "company": "GENIL Gen İlaç ve Sağlık Ürünleri San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1400",
-    "date": "29.01.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı"
   },
