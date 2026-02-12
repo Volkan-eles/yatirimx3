@@ -1,5 +1,390 @@
 [
   {
+    "bistkodu": "TTRAK",
+    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
+    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
+    "analist": "Deniz Yatırım",
+    "tarih": "11.02.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "702,00"
+  },
+  {
+    "bistkodu": "TTRAK",
+    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
+    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
+    "analist": "Alnus Yatırım",
+    "tarih": "11.02.2026",
+    "tr_class": "notr",
+    "hf_desc": "Nötr",
+    "hf_icon": "fa-arrow-right-arrow-left",
+    "hf_fiyat": "641,10"
+  },
+  {
+    "bistkodu": "OTKAR",
+    "sirket": "Otokar Otomotiv ve Savunma Sanayi A.Ş.",
+    "link": "https://halkarz.com/otokar-otomotiv-ve-savunma-sanayi-a-s/",
+    "analist": "Vakıf Yatırım",
+    "tarih": "11.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "665,00"
+  },
+  {
+    "bistkodu": "ISGYO",
+    "sirket": "İş Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "link": "https://halkarz.com/is-gayrimenkul-yatirim-ortakligi-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "11.02.2026",
+    "tr_class": "notr",
+    "hf_desc": "Endekse Paralel Getiri",
+    "hf_icon": "fa-arrow-right-arrow-left",
+    "hf_fiyat": "22,40"
+  },
+  {
+    "bistkodu": "FROTO",
+    "sirket": "Ford Otomotiv Sanayi A.Ş.",
+    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
+    "analist": "Ak Yatırım",
+    "tarih": "11.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "170,00"
+  },
+  {
+    "bistkodu": "LILAK",
+    "sirket": "Lila Kağıt San. ve Tic. A.Ş.",
+    "link": "https://halkarz.com/lila-kagit-san-ve-tic-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "11.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "48,00"
+  },
+  {
+    "bistkodu": "TOASO",
+    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
+    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
+    "analist": "Ak Yatırım",
+    "tarih": "11.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "500,00"
+  },
+  {
+    "bistkodu": "FROTO",
+    "sirket": "Ford Otomotiv Sanayi A.Ş.",
+    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
+    "analist": "Alnus Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "160,00"
+  },
+  {
+    "bistkodu": "FROTO",
+    "sirket": "Ford Otomotiv Sanayi A.Ş.",
+    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "150,40"
+  },
+  {
+    "bistkodu": "AYGAZ",
+    "sirket": "Aygaz A.Ş.",
+    "link": "https://halkarz.com/aygaz-a-s/",
+    "analist": "Ziraat Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "290,00"
+  },
+  {
+    "bistkodu": "TOASO",
+    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
+    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
+    "analist": "Şeker Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "402,00"
+  },
+  {
+    "bistkodu": "TUPRS",
+    "sirket": "Tüpraş Türkiye Petrol Rafinerileri A.Ş.",
+    "link": "https://halkarz.com/turkiye-petrol-rafinerileri-a-s/",
+    "analist": "Ziraat Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "280,50"
+  },
+  {
+    "bistkodu": "ISCTR",
+    "sirket": "Türkiye İş Bankası A.Ş. (C)",
+    "link": "https://halkarz.com/turkiye-is-bankasi-a-s-c/",
+    "analist": "Ziraat Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "27,70"
+  },
+  {
+    "bistkodu": "TOASO",
+    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
+    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
+    "analist": "Alnus Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "411,50"
+  },
+  {
+    "bistkodu": "TOASO",
+    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
+    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
+    "analist": "Oyak Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "415,00"
+  },
+  {
+    "bistkodu": "VAKBN",
+    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
+    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
+    "analist": "Alnus Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "57,00"
+  },
+  {
+    "bistkodu": "TTRAK",
+    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
+    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "693,00"
+  },
+  {
+    "bistkodu": "FROTO",
+    "sirket": "Ford Otomotiv Sanayi A.Ş.",
+    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
+    "analist": "Şeker Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "149,30"
+  },
+  {
+    "bistkodu": "OTKAR",
+    "sirket": "Otokar Otomotiv ve Savunma Sanayi A.Ş.",
+    "link": "https://halkarz.com/otokar-otomotiv-ve-savunma-sanayi-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "555,50"
+  },
+  {
+    "bistkodu": "TOASO",
+    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
+    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
+    "analist": "Garanti BBVA Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "notr",
+    "hf_desc": "Endekse Paralel Getiri",
+    "hf_icon": "fa-arrow-right-arrow-left",
+    "hf_fiyat": "345,00"
+  },
+  {
+    "bistkodu": "VAKBN",
+    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
+    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
+    "analist": "Ak Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "notr",
+    "hf_desc": "Nötr",
+    "hf_icon": "fa-arrow-right-arrow-left",
+    "hf_fiyat": "42,50"
+  },
+  {
+    "bistkodu": "TOASO",
+    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
+    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
+    "analist": "Yapı Kredi Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "489,00"
+  },
+  {
+    "bistkodu": "TOASO",
+    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
+    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
+    "analist": "Deniz Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "388,00"
+  },
+  {
+    "bistkodu": "OTKAR",
+    "sirket": "Otokar Otomotiv ve Savunma Sanayi A.Ş.",
+    "link": "https://halkarz.com/otokar-otomotiv-ve-savunma-sanayi-a-s/",
+    "analist": "Yapı Kredi Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "780,00"
+  },
+  {
+    "bistkodu": "VAKBN",
+    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
+    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
+    "analist": "Yapı Kredi Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "46,00"
+  },
+  {
+    "bistkodu": "FROTO",
+    "sirket": "Ford Otomotiv Sanayi A.Ş.",
+    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
+    "analist": "Ahlatcı Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "161,70"
+  },
+  {
+    "bistkodu": "TTRAK",
+    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
+    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
+    "analist": "Ahlatcı Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "873,00"
+  },
+  {
+    "bistkodu": "VAKBN",
+    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
+    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
+    "analist": "Pusula Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "50,00"
+  },
+  {
+    "bistkodu": "OTKAR",
+    "sirket": "Otokar Otomotiv ve Savunma Sanayi A.Ş.",
+    "link": "https://halkarz.com/otokar-otomotiv-ve-savunma-sanayi-a-s/",
+    "analist": "Deniz Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "687,50"
+  },
+  {
+    "bistkodu": "FROTO",
+    "sirket": "Ford Otomotiv Sanayi A.Ş.",
+    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
+    "analist": "Deniz Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "135,80"
+  },
+  {
+    "bistkodu": "VAKBN",
+    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
+    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
+    "analist": "Deniz Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "42,90"
+  },
+  {
+    "bistkodu": "VAKBN",
+    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
+    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
+    "analist": "Garanti BBVA Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "45,50"
+  },
+  {
+    "bistkodu": "VAKBN",
+    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
+    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
+    "analist": "Şeker Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "55,04"
+  },
+  {
+    "bistkodu": "AYGAZ",
+    "sirket": "Aygaz A.Ş.",
+    "link": "https://halkarz.com/aygaz-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "326,00"
+  },
+  {
+    "bistkodu": "AYGAZ",
+    "sirket": "Aygaz A.Ş.",
+    "link": "https://halkarz.com/aygaz-a-s/",
+    "analist": "Deniz Yatırım",
+    "tarih": "10.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "308,00"
+  },
+  {
     "bistkodu": "YKBNK",
     "sirket": "Yapı ve Kredi Bankası A.Ş.",
     "link": "https://halkarz.com/yapi-ve-kredi-bankasi-a-s/",
@@ -1254,17 +1639,6 @@
     "hf_fiyat": "100,00"
   },
   {
-    "bistkodu": "VAKBN",
-    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
-    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
-    "analist": "Pusula Yatırım",
-    "tarih": "26.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "48,78"
-  },
-  {
     "bistkodu": "HALKB",
     "sirket": "Türkiye Halk Bankası A.Ş.",
     "link": "https://halkarz.com/turkiye-halk-bankasi-a-s/",
@@ -1463,17 +1837,6 @@
     "hf_fiyat": "69,00"
   },
   {
-    "bistkodu": "FROTO",
-    "sirket": "Ford Otomotiv Sanayi A.Ş.",
-    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
-    "analist": "Ak Yatırım",
-    "tarih": "23.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "153,50"
-  },
-  {
     "bistkodu": "ENKAI",
     "sirket": "Enka İnşaat ve Sanayi A.Ş.",
     "link": "https://halkarz.com/enka-insaat-ve-sanayi-a-s/",
@@ -1527,17 +1890,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "16,50"
-  },
-  {
-    "bistkodu": "VAKBN",
-    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
-    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
-    "analist": "Ak Yatırım",
-    "tarih": "23.01.2026",
-    "tr_class": "notr",
-    "hf_desc": "Nötr",
-    "hf_icon": "fa-arrow-right-arrow-left",
-    "hf_fiyat": "36,50"
   },
   {
     "bistkodu": "HALKB",
@@ -1848,17 +2200,6 @@
     "hf_fiyat": "310,00"
   },
   {
-    "bistkodu": "VAKBN",
-    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
-    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
-    "analist": "Yapı Kredi Yatırım",
-    "tarih": "16.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "42,50"
-  },
-  {
     "bistkodu": "ALBRK",
     "sirket": "Albaraka Türk Katılım Bankası A.Ş.",
     "link": "https://halkarz.com/albaraka-turk-katilim-bankasi-a-s/",
@@ -1890,17 +2231,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "828,80"
-  },
-  {
-    "bistkodu": "TTRAK",
-    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
-    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "15.01.2026",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "693,00"
   },
   {
     "bistkodu": "TTKOM",
@@ -1956,17 +2286,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "58,35"
-  },
-  {
-    "bistkodu": "OTKAR",
-    "sirket": "Otokar Otomotiv ve Savunma Sanayi A.Ş.",
-    "link": "https://halkarz.com/otokar-otomotiv-ve-savunma-sanayi-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "15.01.2026",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "626,40"
   },
   {
     "bistkodu": "MGROS",
@@ -2033,17 +2352,6 @@
     "hf_desc": "Tut",
     "hf_icon": "fa-wave-square",
     "hf_fiyat": "9,35"
-  },
-  {
-    "bistkodu": "FROTO",
-    "sirket": "Ford Otomotiv Sanayi A.Ş.",
-    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "15.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "140,00"
   },
   {
     "bistkodu": "ENJSA",
@@ -2651,17 +2959,6 @@
     "hf_fiyat": "140,00"
   },
   {
-    "bistkodu": "TOASO",
-    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
-    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
-    "analist": "Şeker Yatırım",
-    "tarih": "09.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "338,50"
-  },
-  {
     "bistkodu": "MGROS",
     "sirket": "Migros T.A.Ş.",
     "link": "https://halkarz.com/migros-t-a-s/",
@@ -2706,17 +3003,6 @@
     "hf_fiyat": "345,30"
   },
   {
-    "bistkodu": "VAKBN",
-    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
-    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
-    "analist": "Şeker Yatırım",
-    "tarih": "09.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "52,28"
-  },
-  {
     "bistkodu": "THYAO",
     "sirket": "Türk Hava Yolları A.O.",
     "link": "https://halkarz.com/turk-hava-yollari-a-o/",
@@ -2748,17 +3034,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "154,00"
-  },
-  {
-    "bistkodu": "TOASO",
-    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
-    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
-    "analist": "Garanti BBVA Yatırım",
-    "tarih": "08.01.2026",
-    "tr_class": "notr",
-    "hf_desc": "Endekse Paralel Getiri",
-    "hf_icon": "fa-arrow-right-arrow-left",
-    "hf_fiyat": "345,00"
   },
   {
     "bistkodu": "TKNSA",
@@ -2904,17 +3179,6 @@
     "hf_fiyat": "273,00"
   },
   {
-    "bistkodu": "VAKBN",
-    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
-    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
-    "analist": "Deniz Yatırım",
-    "tarih": "05.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "42,90"
-  },
-  {
     "bistkodu": "TTKOM",
     "sirket": "Türk Telekomünikasyon A.Ş.",
     "link": "https://halkarz.com/turk-telekomunikasyon-a-s/",
@@ -2924,17 +3188,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "83,00"
-  },
-  {
-    "bistkodu": "TOASO",
-    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
-    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
-    "analist": "Deniz Yatırım",
-    "tarih": "05.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "388,00"
   },
   {
     "bistkodu": "SAHOL",
@@ -2957,17 +3210,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "246,00"
-  },
-  {
-    "bistkodu": "OTKAR",
-    "sirket": "Otokar Otomotiv ve Savunma Sanayi A.Ş.",
-    "link": "https://halkarz.com/otokar-otomotiv-ve-savunma-sanayi-a-s/",
-    "analist": "Deniz Yatırım",
-    "tarih": "05.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "687,50"
   },
   {
     "bistkodu": "MGROS",
@@ -3080,17 +3322,6 @@
     "hf_fiyat": "121,30"
   },
   {
-    "bistkodu": "FROTO",
-    "sirket": "Ford Otomotiv Sanayi A.Ş.",
-    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
-    "analist": "Deniz Yatırım",
-    "tarih": "05.01.2026",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "135,80"
-  },
-  {
     "bistkodu": "EREGL",
     "sirket": "Ereğli Demir ve Çelik Fabrikaları T.A.Ş.",
     "link": "https://halkarz.com/eregli-demir-ve-celik-fabrikalari-t-a-s/",
@@ -3166,17 +3397,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "818,00"
-  },
-  {
-    "bistkodu": "AYGAZ",
-    "sirket": "Aygaz A.Ş.",
-    "link": "https://halkarz.com/aygaz-a-s/",
-    "analist": "Deniz Yatırım",
-    "tarih": "05.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "286,00"
   },
   {
     "bistkodu": "ALKIM",
@@ -3410,17 +3630,6 @@
     "hf_fiyat": "291,54"
   },
   {
-    "bistkodu": "TTRAK",
-    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
-    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
-    "analist": "Tacirler Yatırım",
-    "tarih": "26.12.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "680,00"
-  },
-  {
     "bistkodu": "THYAO",
     "sirket": "Türk Hava Yolları A.O.",
     "link": "https://halkarz.com/turk-hava-yollari-a-o/",
@@ -3606,17 +3815,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "404,90"
-  },
-  {
-    "bistkodu": "LILAK",
-    "sirket": "Lila Kağıt San. ve Tic. A.Ş.",
-    "link": "https://halkarz.com/lila-kagit-san-ve-tic-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "15.12.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "48,00"
   },
   {
     "bistkodu": "LKMNH",
@@ -4345,17 +4543,6 @@
     "hf_fiyat": "831,98"
   },
   {
-    "bistkodu": "VAKBN",
-    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
-    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
-    "analist": "Alnus Yatırım",
-    "tarih": "07.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "36,00"
-  },
-  {
     "bistkodu": "THYAO",
     "sirket": "Türk Hava Yolları A.O.",
     "link": "https://halkarz.com/turk-hava-yollari-a-o/",
@@ -4378,17 +4565,6 @@
     "hf_fiyat": "64,00"
   },
   {
-    "bistkodu": "FROTO",
-    "sirket": "Ford Otomotiv Sanayi A.Ş.",
-    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
-    "analist": "Alnus Yatırım",
-    "tarih": "06.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "152,90"
-  },
-  {
     "bistkodu": "RGYAS",
     "sirket": "Rönesans Gayrimenkul Yatırım A.Ş.",
     "link": "https://halkarz.com/ronesans-gayrimenkul-yatirim-a-s/",
@@ -4398,17 +4574,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "226,45"
-  },
-  {
-    "bistkodu": "AYGAZ",
-    "sirket": "Aygaz A.Ş.",
-    "link": "https://halkarz.com/aygaz-a-s/",
-    "analist": "Ziraat Yatırım",
-    "tarih": "05.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "290,00"
   },
   {
     "bistkodu": "TTKOM",
@@ -4431,17 +4596,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "43,00"
-  },
-  {
-    "bistkodu": "TOASO",
-    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
-    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
-    "analist": "Alnus Yatırım",
-    "tarih": "04.11.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "402,32"
   },
   {
     "bistkodu": "CIMSA",
@@ -4728,17 +4882,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "120,01"
-  },
-  {
-    "bistkodu": "TTRAK",
-    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
-    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
-    "analist": "Alnus Yatırım",
-    "tarih": "30.10.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "648,14"
   },
   {
     "bistkodu": "AKGRT",
@@ -5467,17 +5610,6 @@
     "hf_fiyat": "14,72"
   },
   {
-    "bistkodu": "TUPRS",
-    "sirket": "Tüpraş Türkiye Petrol Rafinerileri A.Ş.",
-    "link": "https://halkarz.com/turkiye-petrol-rafinerileri-a-s/",
-    "analist": "Ziraat Yatırım",
-    "tarih": "31.07.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "230,00"
-  },
-  {
     "bistkodu": "YKBNK",
     "sirket": "Yapı ve Kredi Bankası A.Ş.",
     "link": "https://halkarz.com/yapi-ve-kredi-bankasi-a-s/",
@@ -5498,28 +5630,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "148,50"
-  },
-  {
-    "bistkodu": "FROTO",
-    "sirket": "Ford Otomotiv Sanayi A.Ş.",
-    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
-    "analist": "Şeker Yatırım",
-    "tarih": "31.07.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "143,00"
-  },
-  {
-    "bistkodu": "OTKAR",
-    "sirket": "Otokar Otomotiv ve Savunma Sanayi A.Ş.",
-    "link": "https://halkarz.com/otokar-otomotiv-ve-savunma-sanayi-a-s/",
-    "analist": "Yapı Kredi Yatırım",
-    "tarih": "29.07.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "780,00"
   },
   {
     "bistkodu": "TABGD",

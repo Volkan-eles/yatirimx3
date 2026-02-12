@@ -1,14 +1,5 @@
 [
   {
-    "code": "BIGCH",
-    "company": "BIGCH (BigChefs) Büyük Şefler Gıda Turizm Tekstil Danışmanlık Organizasyon Eğitim San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%400",
-    "date": "11.02.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 11.02.2026"
-  },
-  {
     "code": "KZBGY",
     "company": "KZBGY Kızılbük Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
@@ -25,6 +16,15 @@
     "date": "10.02.2026",
     "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 10.02.2026"
+  },
+  {
+    "code": "BIGCH",
+    "company": "BIGCH (BigChefs) Büyük Şefler Gıda Turizm Tekstil Danışmanlık Organizasyon Eğitim San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%400",
+    "date": "11.02.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 11.02.2026"
   },
   {
     "code": "BUCIM",
