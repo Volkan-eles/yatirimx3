@@ -1,275 +1,156 @@
 [
   {
-    "name": "ALTIN/GR (TL)",
-    "buy_price": "ALTIN/GR (TL)",
-    "sell_price": "7.026,81₺",
-    "change_rate": "1,86%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "GÜMÜŞ/ONS (TL)",
-    "buy_price": "GÜMÜŞ/ONS (TL)",
-    "sell_price": "3.422,35₺",
-    "change_rate": "4,81%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "HAM PETROL",
-    "buy_price": "HAM PETROL",
-    "sell_price": "62,77$",
-    "change_rate": "-0,08%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "PALADYUM",
-    "buy_price": "PALADYUM",
-    "sell_price": "1.675,50$",
-    "change_rate": "1,39%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "BAKIR",
-    "buy_price": "BAKIR",
-    "sell_price": "5,76$",
-    "change_rate": "-0,45%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "BENZİN",
-    "buy_price": "BENZİN",
-    "sell_price": "1,91$",
-    "change_rate": "-0,32%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "BRENT PETROL",
-    "buy_price": "BRENT PETROL",
-    "sell_price": "67,57$",
-    "change_rate": "0,10%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "BUĞDAY",
-    "buy_price": "BUĞDAY",
-    "sell_price": "547,00$",
-    "change_rate": "-0,54%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "DOĞAL GAZ",
-    "buy_price": "DOĞAL GAZ",
-    "sell_price": "3,17$",
-    "change_rate": "-1,40%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "KALORİFER YAKITI",
-    "buy_price": "KALORİFER YAKITI",
-    "sell_price": "2,39$",
-    "change_rate": "0,12%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "MISIR",
-    "buy_price": "MISIR",
-    "sell_price": "430,30$",
-    "change_rate": "0,19%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "PAMUK",
-    "buy_price": "PAMUK",
-    "sell_price": "61,94$",
-    "change_rate": "-0,47%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "PLATİN",
-    "buy_price": "PLATİN",
-    "sell_price": "2.070,60$",
-    "change_rate": "2,57%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "ŞEKER",
-    "buy_price": "ŞEKER",
-    "sell_price": "13,74$",
-    "change_rate": "0,15%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "SOYA FASULYESİ",
-    "buy_price": "SOYA FASULYESİ",
-    "sell_price": "1.126,00$",
-    "change_rate": "-0,81%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "KAKAO",
-    "buy_price": "KAKAO",
-    "sell_price": "3.595,00$",
-    "change_rate": "-0,89%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
-    "name": "KAHVE",
-    "buy_price": "KAHVE",
-    "sell_price": "304,70$",
-    "change_rate": "1,84%",
-    "fetched_at": "2026-02-13 15:10:08"
-  },
-  {
     "name": "ALTIN (GRAM)",
     "buy_price": "ALTIN (GRAM)",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "7.021,96",
+    "change_rate": "1,79%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "ALTIN (ONS)",
     "buy_price": "ALTIN (ONS)",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "218.267,20",
+    "change_rate": "1,72%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Cumhuriyet Altını",
     "buy_price": "Cumhuriyet Altını",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "48.414,00",
+    "change_rate": "-0,47%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Çeyrek Altın",
     "buy_price": "Çeyrek Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "11.673,05",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Yarım Altın",
     "buy_price": "Yarım Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "23.273,15",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Ata Altın",
     "buy_price": "Ata Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "48.151,34",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "TAM ALTIN",
     "buy_price": "TAM ALTIN",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "47.074,00",
+    "change_rate": "2,12%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "14 Ayar Bilezik Gramı",
     "buy_price": "14 Ayar Bilezik Gramı",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "4.158,53",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "22 Ayar Bilezik Gramı",
     "buy_price": "22 Ayar Bilezik Gramı",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "6.653,64",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Altın Sertifikası",
     "buy_price": "Altın Sertifikası",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "83,41",
+    "change_rate": "-1,04%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "22 Ayar Gram Altın",
     "buy_price": "22 Ayar Gram Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "6.653,64",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "18 Ayar Gram Altın",
     "buy_price": "18 Ayar Gram Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "5.325,83",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "14 Ayar Gram Altın",
     "buy_price": "14 Ayar Gram Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "4.158,53",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Gramse Altın",
     "buy_price": "Gramse Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "116.730,53",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Hamit Altın",
     "buy_price": "Hamit Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "46.692,21",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Has Altın",
     "buy_price": "Has Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "6.981,39",
+    "change_rate": "1,71%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Kapalı Çarşı Altın",
     "buy_price": "Kapalı Çarşı Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "7.021,96",
+    "change_rate": "1,79%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Ziynet Altın",
     "buy_price": "Ziynet Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "46.692,21",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Külçe Altın ($)",
     "buy_price": "Külçe Altın ($)",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "166.000,00",
+    "change_rate": "-0,78%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "2.5'luk Altın",
     "buy_price": "2.5'luk Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "116.730,53",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:09"
   },
   {
     "name": "Reşat Altın",
     "buy_price": "Reşat Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "46.692,21",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:10"
   },
   {
     "name": "Beşli Altın",
     "buy_price": "Beşli Altın",
-    "sell_price": "-",
-    "change_rate": "0,00%",
-    "fetched_at": "2026-02-13 15:10:12"
+    "sell_price": "236.379,32",
+    "change_rate": "-0,41%",
+    "fetched_at": "2026-02-13 16:09:10"
   }
 ]
