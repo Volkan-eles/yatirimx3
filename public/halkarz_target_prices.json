@@ -1,5 +1,137 @@
 [
   {
+    "bistkodu": "KCHOL",
+    "sirket": "Koç Holding A.Ş.",
+    "link": "https://halkarz.com/koc-holding-a-s/",
+    "analist": "Garanti BBVA Yatırım",
+    "tarih": "12.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "295,00"
+  },
+  {
+    "bistkodu": "MGROS",
+    "sirket": "Migros T.A.Ş.",
+    "link": "https://halkarz.com/migros-t-a-s/",
+    "analist": "Citigroup",
+    "tarih": "12.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "810,00"
+  },
+  {
+    "bistkodu": "SOKM",
+    "sirket": "Şok Marketler Ticaret A.Ş.",
+    "link": "https://halkarz.com/sok-marketler-ticaret-a-s/",
+    "analist": "Citigroup",
+    "tarih": "12.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "81,00"
+  },
+  {
+    "bistkodu": "BIMAS",
+    "sirket": "Bim Birleşik Mağazalar A.Ş.",
+    "link": "https://halkarz.com/bim-birlesik-magazalar-a-s/",
+    "analist": "Citigroup",
+    "tarih": "12.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "810,00"
+  },
+  {
+    "bistkodu": "FROTO",
+    "sirket": "Ford Otomotiv Sanayi A.Ş.",
+    "link": "https://halkarz.com/ford-otomotiv-sanayi-a-s/",
+    "analist": "Vakıf Yatırım",
+    "tarih": "12.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "162,00"
+  },
+  {
+    "bistkodu": "TOASO",
+    "sirket": "Tofaş Türk Otomobil Fabrikası A.Ş.",
+    "link": "https://halkarz.com/tofas-turk-otomobil-fabrikasi-a-s/",
+    "analist": "Vakıf Yatırım",
+    "tarih": "12.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "430,00"
+  },
+  {
+    "bistkodu": "KCHOL",
+    "sirket": "Koç Holding A.Ş.",
+    "link": "https://halkarz.com/koc-holding-a-s/",
+    "analist": "Vakıf Yatırım",
+    "tarih": "12.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "319,00"
+  },
+  {
+    "bistkodu": "KCHOL",
+    "sirket": "Koç Holding A.Ş.",
+    "link": "https://halkarz.com/koc-holding-a-s/",
+    "analist": "Deniz Yatırım",
+    "tarih": "12.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "296,00"
+  },
+  {
+    "bistkodu": "KCHOL",
+    "sirket": "Koç Holding A.Ş.",
+    "link": "https://halkarz.com/koc-holding-a-s/",
+    "analist": "Ak Yatırım",
+    "tarih": "12.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "334,00"
+  },
+  {
+    "bistkodu": "KCHOL",
+    "sirket": "Koç Holding A.Ş.",
+    "link": "https://halkarz.com/koc-holding-a-s/",
+    "analist": "Gedik Yatırım",
+    "tarih": "12.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Endeks Üstü Getiri",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "292,00"
+  },
+  {
+    "bistkodu": "KCHOL",
+    "sirket": "Koç Holding A.Ş.",
+    "link": "https://halkarz.com/koc-holding-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "12.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "296,00"
+  },
+  {
+    "bistkodu": "VAKBN",
+    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
+    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
+    "analist": "Ziraat Yatırım",
+    "tarih": "11.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "58,50"
+  },
+  {
     "bistkodu": "TTRAK",
     "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
     "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
@@ -3245,17 +3377,6 @@
     "hf_fiyat": "245,40"
   },
   {
-    "bistkodu": "KCHOL",
-    "sirket": "Koç Holding A.Ş.",
-    "link": "https://halkarz.com/koc-holding-a-s/",
-    "analist": "Deniz Yatırım",
-    "tarih": "05.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "296,00"
-  },
-  {
     "bistkodu": "INDES",
     "sirket": "İndeks Bilgisayar Sistemleri Mühendislik San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/indeks-bilgisayar-sistemleri-muhendislik-san-ve-tic-a-s/",
@@ -3617,17 +3738,6 @@
     "hf_desc": "Endeks Üstü Getiri",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "179,57"
-  },
-  {
-    "bistkodu": "KCHOL",
-    "sirket": "Koç Holding A.Ş.",
-    "link": "https://halkarz.com/koc-holding-a-s/",
-    "analist": "Gedik Yatırım",
-    "tarih": "29.12.2025",
-    "tr_class": "green",
-    "hf_desc": "Endeks Üstü Getiri",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "291,54"
   },
   {
     "bistkodu": "THYAO",
@@ -4079,39 +4189,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "436,60"
-  },
-  {
-    "bistkodu": "BIMAS",
-    "sirket": "Bim Birleşik Mağazalar A.Ş.",
-    "link": "https://halkarz.com/bim-birlesik-magazalar-a-s/",
-    "analist": "Citigroup",
-    "tarih": "01.12.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "720,00"
-  },
-  {
-    "bistkodu": "SOKM",
-    "sirket": "Şok Marketler Ticaret A.Ş.",
-    "link": "https://halkarz.com/sok-marketler-ticaret-a-s/",
-    "analist": "Citigroup",
-    "tarih": "01.12.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "70,00"
-  },
-  {
-    "bistkodu": "MGROS",
-    "sirket": "Migros T.A.Ş.",
-    "link": "https://halkarz.com/migros-t-a-s/",
-    "analist": "Citigroup",
-    "tarih": "01.12.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "710,00"
   },
   {
     "bistkodu": "AKCNS",
@@ -5542,17 +5619,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "15,17"
-  },
-  {
-    "bistkodu": "VAKBN",
-    "sirket": "Türkiye Vakıflar Bankası T.A.O.",
-    "link": "https://halkarz.com/turkiye-vakiflar-bankasi-t-a-o/",
-    "analist": "Ziraat Yatırım",
-    "tarih": "08.08.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "42,10"
   },
   {
     "bistkodu": "ASELS",
