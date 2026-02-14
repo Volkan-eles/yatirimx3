@@ -1,19 +1,19 @@
 [
   {
+    "code": "KZBGY",
+    "company": "KZBGY Kızılbük Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%233.33",
+    "date": "17.02.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 17.02.2026"
+  },
+  {
     "code": "YAPRK",
     "company": "YAPRK Yaprak Süt ve Besi Çiftlikleri San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%2000",
     "date": "12.02.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "KZBGY",
-    "company": "KZBGY Kızılbük Gayrimenkul Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%233.33",
-    "date": "05.02.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı"
   },
@@ -34,6 +34,15 @@
     "date": "11.02.2026",
     "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 11.02.2026"
+  },
+  {
+    "code": "SEKFK",
+    "company": "SEKFK Şeker Finansal Kiralama A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "06.02.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "BUCIM",
@@ -376,15 +385,6 @@
     "date": "15.10.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "VANGD",
-    "company": "VANGD Vanet Gıda Sanayi İç ve Dış Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%300",
-    "date": "01.10.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 5 TL"
   },
   {
     "code": "VBTYZ",

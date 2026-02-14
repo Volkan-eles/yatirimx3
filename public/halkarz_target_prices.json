@@ -1,5 +1,60 @@
 [
   {
+    "bistkodu": "AKCNS",
+    "sirket": "Akçansa Çimento Sanayi ve Ticaret A.Ş.",
+    "link": "https://halkarz.com/akcansa-cimento-san-ve-tic-a-s/",
+    "analist": "Şeker Yatırım",
+    "tarih": "13.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "243,80"
+  },
+  {
+    "bistkodu": "AKCNS",
+    "sirket": "Akçansa Çimento Sanayi ve Ticaret A.Ş.",
+    "link": "https://halkarz.com/akcansa-cimento-san-ve-tic-a-s/",
+    "analist": "Halk Yatırım",
+    "tarih": "13.02.2026",
+    "tr_class": "green",
+    "hf_desc": "Al",
+    "hf_icon": "fa-arrow-trend-up",
+    "hf_fiyat": "254,50"
+  },
+  {
+    "bistkodu": "AKCNS",
+    "sirket": "Akçansa Çimento Sanayi ve Ticaret A.Ş.",
+    "link": "https://halkarz.com/akcansa-cimento-san-ve-tic-a-s/",
+    "analist": "Vakıf Yatırım",
+    "tarih": "13.02.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "239,00"
+  },
+  {
+    "bistkodu": "AKCNS",
+    "sirket": "Akçansa Çimento Sanayi ve Ticaret A.Ş.",
+    "link": "https://halkarz.com/akcansa-cimento-san-ve-tic-a-s/",
+    "analist": "Deniz Yatırım",
+    "tarih": "13.02.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "240,00"
+  },
+  {
+    "bistkodu": "TTRAK",
+    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
+    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
+    "analist": "İş Yatırım",
+    "tarih": "13.02.2026",
+    "tr_class": "blue",
+    "hf_desc": "Tut",
+    "hf_icon": "fa-wave-square",
+    "hf_fiyat": "710,00"
+  },
+  {
     "bistkodu": "KCHOL",
     "sirket": "Koç Holding A.Ş.",
     "link": "https://halkarz.com/koc-holding-a-s/",
@@ -2530,17 +2585,6 @@
     "hf_fiyat": "23,80"
   },
   {
-    "bistkodu": "AKCNS",
-    "sirket": "Akçansa Çimento Sanayi ve Ticaret A.Ş.",
-    "link": "https://halkarz.com/akcansa-cimento-san-ve-tic-a-s/",
-    "analist": "Halk Yatırım",
-    "tarih": "15.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "232,40"
-  },
-  {
     "bistkodu": "ASELS",
     "sirket": "Aselsan Elektronik San. ve Tic. A.Ş.",
     "link": "https://halkarz.com/aselsan-elektronik-san-ve-tic-a-s/",
@@ -3023,17 +3067,6 @@
     "hf_desc": "Tut",
     "hf_icon": "fa-wave-square",
     "hf_fiyat": "30,90"
-  },
-  {
-    "bistkodu": "AKCNS",
-    "sirket": "Akçansa Çimento Sanayi ve Ticaret A.Ş.",
-    "link": "https://halkarz.com/akcansa-cimento-san-ve-tic-a-s/",
-    "analist": "Şeker Yatırım",
-    "tarih": "09.01.2026",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "211,00"
   },
   {
     "bistkodu": "AKSEN",
@@ -4191,17 +4224,6 @@
     "hf_fiyat": "436,60"
   },
   {
-    "bistkodu": "AKCNS",
-    "sirket": "Akçansa Çimento Sanayi ve Ticaret A.Ş.",
-    "link": "https://halkarz.com/akcansa-cimento-san-ve-tic-a-s/",
-    "analist": "Deniz Yatırım",
-    "tarih": "28.11.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "188,10"
-  },
-  {
     "bistkodu": "MGROS",
     "sirket": "Migros T.A.Ş.",
     "link": "https://halkarz.com/migros-t-a-s/",
@@ -4818,17 +4840,6 @@
     "hf_fiyat": "121,69"
   },
   {
-    "bistkodu": "ISGYO",
-    "sirket": "İş Gayrimenkul Yatırım Ortaklığı A.Ş.",
-    "link": "https://halkarz.com/is-gayrimenkul-yatirim-ortakligi-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "31.10.2025",
-    "tr_class": "green",
-    "hf_desc": "Al",
-    "hf_icon": "fa-arrow-trend-up",
-    "hf_fiyat": "29,80"
-  },
-  {
     "bistkodu": "AKSGY",
     "sirket": "Akiş Gayrımenkul Yatırım Ortaklığı A.Ş.",
     "link": "https://halkarz.com/akis-gayrimenkul-yatirim-ortakligi-a-s/",
@@ -4893,17 +4904,6 @@
     "hf_desc": "Al",
     "hf_icon": "fa-arrow-trend-up",
     "hf_fiyat": "294,77"
-  },
-  {
-    "bistkodu": "TTRAK",
-    "sirket": "Türk Traktör ve Ziraat Makineleri A.Ş.",
-    "link": "https://halkarz.com/turk-traktor-ve-ziraat-makineleri-a-s/",
-    "analist": "İş Yatırım",
-    "tarih": "31.10.2025",
-    "tr_class": "blue",
-    "hf_desc": "Tut",
-    "hf_icon": "fa-wave-square",
-    "hf_fiyat": "675,00"
   },
   {
     "bistkodu": "TOASO",
