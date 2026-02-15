@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-15T05:00:50.309505",
+  "last_update": "2026-02-15T06:04:45.103476",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 502,
   "successful": 502,
@@ -53363,8 +53363,8 @@
       "targetLowPrice": 15.0,
       "targetMeanPrice": 15.0,
       "targetMedianPrice": 15.0,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 3.0,
+      "recommendationKey": "hold",
       "numberOfAnalystOpinions": 1,
       "beta": 0.479,
       "historicalData": [
