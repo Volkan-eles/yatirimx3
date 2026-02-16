@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-16T02:42:51.739749",
+  "last_update": "2026-02-16T05:07:01.754855",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 502,
   "successful": 502,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 44.22794,
-      "targetLowPrice": 31.33541,
-      "targetMeanPrice": 37.248055,
-      "targetMedianPrice": 38.196857,
+      "targetHighPrice": 44.23735,
+      "targetLowPrice": 31.342077,
+      "targetMeanPrice": 37.25598,
+      "targetMedianPrice": 38.204987,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": null,
       "exDividendDate": 1585094400,
       "payoutRatio": 0.0,
-      "targetHighPrice": 579.1209,
-      "targetLowPrice": 382.98715,
-      "targetMeanPrice": 456.80304,
-      "targetMedianPrice": 444.34702,
+      "targetHighPrice": 579.0606,
+      "targetLowPrice": 382.94724,
+      "targetMeanPrice": 456.75543,
+      "targetMedianPrice": 444.30072,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -19477,10 +19477,10 @@
       "symbol": "BEGYO.IS",
       "name": "BATI EGE GMYO",
       "shortName": "BATI EGE GMYO",
-      "price": 4.9,
+      "price": 4.88,
       "change": 0.07,
       "changeRate": 1.45,
-      "previousClose": 4.83,
+      "previousClose": 4.81,
       "open": 4.84,
       "dayLow": 4.81,
       "dayHigh": 4.94,
@@ -19538,123 +19538,123 @@
       "beta": -3.218,
       "historicalData": [
         {
-          "Close": 4.989999771118164,
+          "Close": 4.968133449554443,
           "Volume": 34654630
         },
         {
-          "Close": 4.900000095367432,
+          "Close": 4.878528118133545,
           "Volume": 21584070
         },
         {
-          "Close": 4.809999942779541,
+          "Close": 4.788922309875488,
           "Volume": 7395458
         },
         {
-          "Close": 4.78000020980835,
+          "Close": 4.759054183959961,
           "Volume": 5709639
         },
         {
-          "Close": 4.840000152587891,
+          "Close": 4.818791389465332,
           "Volume": 12402790
         },
         {
-          "Close": 4.760000228881836,
+          "Close": 4.739141941070557,
           "Volume": 9483317
         },
         {
-          "Close": 4.760000228881836,
+          "Close": 4.739141941070557,
           "Volume": 8092465
         },
         {
-          "Close": 4.710000038146973,
+          "Close": 4.689360618591309,
           "Volume": 6823066
         },
         {
-          "Close": 4.769999980926514,
+          "Close": 4.74909782409668,
           "Volume": 8381312
         },
         {
-          "Close": 4.96999979019165,
+          "Close": 4.948221206665039,
           "Volume": 49538120
         },
         {
-          "Close": 5.019999980926514,
+          "Close": 4.998002052307129,
           "Volume": 16963950
         },
         {
-          "Close": 4.940000057220459,
+          "Close": 4.918353080749512,
           "Volume": 13598640
         },
         {
-          "Close": 4.840000152587891,
+          "Close": 4.818791389465332,
           "Volume": 12635120
         },
         {
-          "Close": 4.849999904632568,
+          "Close": 4.828747272491455,
           "Volume": 15364330
         },
         {
-          "Close": 4.900000095367432,
+          "Close": 4.878528118133545,
           "Volume": 14741390
         },
         {
-          "Close": 4.889999866485596,
+          "Close": 4.868571758270264,
           "Volume": 10355600
         },
         {
-          "Close": 4.809999942779541,
+          "Close": 4.788922309875488,
           "Volume": 15523760
         },
         {
-          "Close": 4.840000152587891,
+          "Close": 4.818791389465332,
           "Volume": 14073510
         },
         {
-          "Close": 4.889999866485596,
+          "Close": 4.868571758270264,
           "Volume": 23650370
         },
         {
-          "Close": 4.78000020980835,
+          "Close": 4.759054183959961,
           "Volume": 12627530
         },
         {
-          "Close": 4.739999771118164,
+          "Close": 4.719229221343994,
           "Volume": 8291970
         },
         {
-          "Close": 4.860000133514404,
+          "Close": 4.838703632354736,
           "Volume": 22040440
         },
         {
-          "Close": 4.829999923706055,
+          "Close": 4.808835029602051,
           "Volume": 9058405
         },
         {
-          "Close": 4.78000020980835,
+          "Close": 4.759054183959961,
           "Volume": 8406152
         },
         {
-          "Close": 4.78000020980835,
+          "Close": 4.759054183959961,
           "Volume": 18400400
         },
         {
-          "Close": 4.789999961853027,
+          "Close": 4.769010066986084,
           "Volume": 15006210
         },
         {
-          "Close": 4.78000020980835,
+          "Close": 4.759054183959961,
           "Volume": 14073190
         },
         {
-          "Close": 4.800000190734863,
+          "Close": 4.778966426849365,
           "Volume": 12790650
         },
         {
-          "Close": 4.829999923706055,
+          "Close": 4.808835029602051,
           "Volume": 21507200
         },
         {
-          "Close": 4.900000095367432,
+          "Close": 4.878528118133545,
           "Volume": 25963410
         }
       ],
@@ -32154,7 +32154,7 @@
       "volume": "16,874,662",
       "averageVolume": 20896196,
       "averageVolume10days": 27015203,
-      "marketCap": 4534791168,
+      "marketCap": 4230828288,
       "enterpriseValue": 4175615488,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +32169,7 @@
       "forwardPE": null,
       "priceToBook": 4.8703704,
       "pegRatio": null,
-      "priceToSales": 2.5319808,
+      "priceToSales": 2.3622644,
       "enterpriseToRevenue": 2.331,
       "enterpriseToEbitda": 58.677,
       "profitMargins": -0.01041,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.95652,
-      "targetLowPrice": 60.739666,
-      "targetMeanPrice": 69.34809,
-      "targetMedianPrice": 69.34809,
+      "targetHighPrice": 77.95884,
+      "targetLowPrice": 60.741467,
+      "targetMeanPrice": 69.35015,
+      "targetMedianPrice": 69.35015,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
