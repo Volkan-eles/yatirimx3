@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-17T23:36:57.836177",
+  "last_update": "2026-02-18T02:41:55.243513",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 502,
   "successful": 502,
@@ -210,7 +210,7 @@
       "fiftyTwoWeekHigh": 93.35,
       "fiftyDayAverage": 76.95,
       "twoHundredDayAverage": 65.67,
-      "volume": "92,533,091",
+      "volume": "93,633,091",
       "averageVolume": 114151012,
       "averageVolume10days": 138155738,
       "marketCap": 462279999488,
@@ -377,7 +377,7 @@
         },
         {
           "Close": 88.9000015258789,
-          "Volume": 92533091
+          "Volume": 93633091
         }
       ],
       "heldPercentInsiders": 0.41277,
@@ -399,7 +399,7 @@
       "fiftyTwoWeekHigh": 43.16,
       "fiftyDayAverage": 37.88,
       "twoHundredDayAverage": 33.0,
-      "volume": "158,225,953",
+      "volume": "158,725,953",
       "averageVolume": 210577680,
       "averageVolume10days": 210712317,
       "marketCap": 352073089024,
@@ -566,7 +566,7 @@
         },
         {
           "Close": 41.68000030517578,
-          "Volume": 158225953
+          "Volume": 158725953
         }
       ],
       "heldPercentInsiders": 0.61166,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 44.244236,
-      "targetLowPrice": 31.346954,
-      "targetMeanPrice": 37.261776,
-      "targetMedianPrice": 38.21093,
+      "targetHighPrice": 44.25341,
+      "targetLowPrice": 31.353455,
+      "targetMeanPrice": 37.269505,
+      "targetMedianPrice": 38.218857,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -3612,7 +3612,7 @@
       "fiftyTwoWeekHigh": 152.4,
       "fiftyDayAverage": 112.63,
       "twoHundredDayAverage": 118.09,
-      "volume": "3,376,239",
+      "volume": "3,561,239",
       "averageVolume": 4010081,
       "averageVolume10days": 5949022,
       "marketCap": 80215801856,
@@ -3779,7 +3779,7 @@
         },
         {
           "Close": 131.89999389648438,
-          "Volume": 3376239
+          "Volume": 3561239
         }
       ],
       "heldPercentInsiders": 0.6614,
@@ -4557,7 +4557,7 @@
       "fiftyTwoWeekHigh": 135.4,
       "fiftyDayAverage": 103.8,
       "twoHundredDayAverage": 98.19,
-      "volume": "23,797,700",
+      "volume": "24,247,700",
       "averageVolume": 18024932,
       "averageVolume10days": 21939053,
       "marketCap": 448462979072,
@@ -4724,7 +4724,7 @@
         },
         {
           "Close": 127.80000305175781,
-          "Volume": 23797700
+          "Volume": 24247700
         }
       ],
       "heldPercentInsiders": 0.79687,
@@ -5164,10 +5164,10 @@
       "dividendYield": null,
       "exDividendDate": 1585094400,
       "payoutRatio": 0.0,
-      "targetHighPrice": 579.08856,
-      "targetLowPrice": 382.96573,
-      "targetMeanPrice": 456.77747,
-      "targetMedianPrice": 444.32217,
+      "targetHighPrice": 578.60486,
+      "targetLowPrice": 382.64587,
+      "targetMeanPrice": 456.39597,
+      "targetMedianPrice": 443.95105,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -5691,7 +5691,7 @@
       "fiftyTwoWeekHigh": 5.66,
       "fiftyDayAverage": 2.65,
       "twoHundredDayAverage": 3.22,
-      "volume": "3,801,310,619",
+      "volume": "0",
       "averageVolume": 447868536,
       "averageVolume10days": 176693787,
       "marketCap": 115673235456,
@@ -5858,7 +5858,7 @@
         },
         {
           "Close": 2.640000104904175,
-          "Volume": 3801310619
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": 0.69254,
@@ -7392,7 +7392,7 @@
       "fiftyTwoWeekHigh": 584.0,
       "fiftyDayAverage": 469.28,
       "twoHundredDayAverage": 470.1,
-      "volume": "1,443,843",
+      "volume": "1,687,843",
       "averageVolume": 889385,
       "averageVolume10days": 1705232,
       "marketCap": 51780001792,
@@ -7559,7 +7559,7 @@
         },
         {
           "Close": 431.5,
-          "Volume": 1443843
+          "Volume": 1687843
         }
       ],
       "heldPercentInsiders": 0.72186995,
@@ -11550,7 +11550,7 @@
       "fiftyTwoWeekHigh": 4.59,
       "fiftyDayAverage": 1.52,
       "twoHundredDayAverage": 2.35,
-      "volume": "1,834,763,608",
+      "volume": "761,021,784",
       "averageVolume": 341085071,
       "averageVolume10days": 366118535,
       "marketCap": 7308000256,
@@ -11717,7 +11717,7 @@
         },
         {
           "Close": 1.4500000476837158,
-          "Volume": 1834763608
+          "Volume": 761021784
         }
       ],
       "heldPercentInsiders": 0.16494,
@@ -16514,10 +16514,6 @@
       "beta": 0.732,
       "historicalData": [
         {
-          "Close": 143.0,
-          "Volume": 227484
-        },
-        {
           "Close": 128.6999969482422,
           "Volume": 22323
         },
@@ -16628,6 +16624,10 @@
         {
           "Close": 108.9000015258789,
           "Volume": 80351
+        },
+        {
+          "Close": 108.9000015258789,
+          "Volume": 0
         },
         {
           "Close": 108.9000015258789,
@@ -30464,9 +30464,9 @@
       "country": "Austria",
       "phone": "43 1 74 000 1001",
       "description": "DO & CO Aktiengesellschaft provides catering services in Austria, Turkey, Great Britain, the United States, Spain, Germany, and internationally. It operates through three divisions: Airline Catering; International Event Catering; and Restaurants, Lounges & Hotel. The company offers airline catering services; and event catering, infrastructure, and planning services. The company also engages in the operation of lounges, retail stores, airport catering, restaurants and Demel café, hotels, and staff restaurants. It operates restaurants and cafes under the DO & CO, Hédiard, HENRY, AIOLI, and Demel brands. The company was founded in 1981 and is headquartered in Vienna, Austria.",
-      "pe": 21.705065,
+      "pe": 21.69182,
       "forwardPE": 25.834503,
-      "priceToBook": 280.62097,
+      "priceToBook": 292.7211,
       "pegRatio": null,
       "priceToSales": 49.343693,
       "enterpriseToRevenue": 48.804,
@@ -30483,9 +30483,9 @@
       "debtToEquity": 66.961,
       "currentRatio": 1.229,
       "quickRatio": 1.004,
-      "eps": 491.36,
+      "eps": 491.66,
       "forwardEps": 412.82,
-      "bookValue": 38.005,
+      "bookValue": 36.434,
       "dividendRate": 93.98,
       "dividendYield": 0.88,
       "exDividendDate": 1752710400,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.99889,
-      "targetLowPrice": 60.77268,
-      "targetMeanPrice": 69.38579,
-      "targetMedianPrice": 69.38579,
+      "targetHighPrice": 78.018875,
+      "targetLowPrice": 60.788246,
+      "targetMeanPrice": 69.40356,
+      "targetMedianPrice": 69.40356,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
@@ -83170,10 +83170,10 @@
       "symbol": "SNKRN.IS",
       "name": "Senkron Siber Güvenlik Yazilim ve Bilisim Cözümleri A.S.",
       "shortName": "GATE GROUP TEKNOLOJI",
-      "price": 355.25,
-      "change": -12.75,
-      "changeRate": -3.46,
-      "previousClose": 368.0,
+      "price": 355.0,
+      "change": -0.25,
+      "changeRate": -0.07,
+      "previousClose": 355.25,
       "open": 372.0,
       "dayLow": 344.75,
       "dayHigh": 372.0,
@@ -83181,7 +83181,7 @@
       "fiftyTwoWeekHigh": 372.0,
       "fiftyDayAverage": 289.2,
       "twoHundredDayAverage": 245.52,
-      "volume": "6,966",
+      "volume": "27,000",
       "averageVolume": 27716,
       "averageVolume10days": 57246,
       "marketCap": 3902687488,
@@ -83230,10 +83230,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.598,
       "historicalData": [
-        {
-          "Close": 284.0,
-          "Volume": 10758
-        },
         {
           "Close": 278.25,
           "Volume": 7741
@@ -83349,6 +83345,10 @@
         {
           "Close": 355.25,
           "Volume": 6966
+        },
+        {
+          "Close": 355.0,
+          "Volume": 27000
         }
       ],
       "heldPercentInsiders": 0.10778,
@@ -93437,10 +93437,6 @@
       "beta": 1.487,
       "historicalData": [
         {
-          "Close": 1.2899999618530273,
-          "Volume": 2403078
-        },
-        {
           "Close": 1.2699999809265137,
           "Volume": 3186360
         },
@@ -93511,6 +93507,10 @@
         {
           "Close": 1.7999999523162842,
           "Volume": 6278318
+        },
+        {
+          "Close": 1.7999999523162842,
+          "Volume": 0
         },
         {
           "Close": 1.7999999523162842,
