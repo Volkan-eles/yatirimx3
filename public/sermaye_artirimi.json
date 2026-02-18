@@ -1,5 +1,14 @@
 [
   {
+    "code": "YAPRK",
+    "company": "YAPRK Yaprak Süt ve Besi Çiftlikleri San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%2000",
+    "date": "12.02.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "KZBGY",
     "company": "KZBGY Kızılbük Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
@@ -9,13 +18,13 @@
     "description": "Bölünme Tarihi: 17.02.2026"
   },
   {
-    "code": "YAPRK",
-    "company": "YAPRK Yaprak Süt ve Besi Çiftlikleri San. ve Tic. A.Ş.",
+    "code": "DSTKF",
+    "company": "DSTKF Destek Finans Faktoring A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%2000",
-    "date": "12.02.2026",
+    "rate": "%1700",
+    "date": "16.02.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
+    "description": "Yönetim Kurulu Kararı | Tutar: 5.666.666.667 TL"
   },
   {
     "code": "BUCIM",
@@ -198,6 +207,15 @@
     "description": "SPK Onayı Alındı | Tutar: 1.309.176.000 TL"
   },
   {
+    "code": "KENT",
+    "company": "KENT Kent Gıda Maddeleri San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%50",
+    "date": "05.02.2026 Bitiş: 19.02.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 05.02.2026 Bitiş: 19.02.2026 | Tutar: 1 TL"
+  },
+  {
     "code": "CANTE",
     "company": "CANTE Çan2 Termik A.Ş.",
     "type": "Bedelli",
@@ -214,15 +232,6 @@
     "date": "03.02.2026 Bitiş: 17.02.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 03.02.2026 Bitiş: 17.02.2026 | Tutar: 1 TL"
-  },
-  {
-    "code": "KENT",
-    "company": "KENT Kent Gıda Maddeleri San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%50",
-    "date": "05.02.2026 Bitiş: 19.02.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 05.02.2026 Bitiş: 19.02.2026 | Tutar: 1 TL"
   },
   {
     "code": "SEKFK",
