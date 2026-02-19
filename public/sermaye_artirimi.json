@@ -1,5 +1,14 @@
 [
   {
+    "code": "RNPOL",
+    "company": "RNPOL Rainbow Polikarbonat San. Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1900",
+    "date": "18.02.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "YAPRK",
     "company": "YAPRK Yaprak Süt ve Besi Çiftlikleri San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -7,15 +16,6 @@
     "date": "12.02.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "KZBGY",
-    "company": "KZBGY Kızılbük Gayrimenkul Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%233.33",
-    "date": "17.02.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 17.02.2026"
   },
   {
     "code": "DSTKF",
@@ -68,15 +68,6 @@
     "type": "Bedelsiz",
     "rate": "%2023.80",
     "date": "16.12.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "RNPOL",
-    "company": "RNPOL Rainbow Polikarbonat San. Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1900",
-    "date": "25.11.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
   },
@@ -198,13 +189,13 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "MRGYO",
-    "company": "MRGYO Martı Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "code": "MARTI",
+    "company": "MARTI Martı Otel İşletmeleri A.Ş.",
     "type": "Bedelli",
-    "rate": "%120",
-    "date": "12.02.2026",
+    "rate": "%150",
+    "date": "18.02.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 1.309.176.000 TL"
+    "description": "SPK Onayı Alındı | Tutar: 1 TL"
   },
   {
     "code": "KENT",
@@ -216,22 +207,22 @@
     "description": "Bölünme Tarihi: 05.02.2026 Bitiş: 19.02.2026 | Tutar: 1 TL"
   },
   {
-    "code": "CANTE",
-    "company": "CANTE Çan2 Termik A.Ş.",
+    "code": "MRGYO",
+    "company": "MRGYO Martı Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelli",
-    "rate": "%42.85",
-    "date": "03.02.2026 Bitiş: 17.02.2026",
+    "rate": "%120",
+    "date": "19.02.2026 Bitiş: 05.03.2026",
     "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 03.02.2026 Bitiş: 17.02.2026 | Tutar: 1 TL"
+    "description": "Bölünme Tarihi: 19.02.2026 Bitiş: 05.03.2026 | Tutar: 1.309.176.000 TL"
   },
   {
-    "code": "USAK",
-    "company": "USAK Uşak Seramik Sanayii A.Ş.",
+    "code": "TDGYO",
+    "company": "TDGYO Trend Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelli",
-    "rate": "%100",
-    "date": "03.02.2026 Bitiş: 17.02.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 03.02.2026 Bitiş: 17.02.2026 | Tutar: 1 TL"
+    "rate": "%200",
+    "date": "18.02.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "SEKFK",

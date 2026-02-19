@@ -1818,7 +1818,7 @@
       "price": "15,80 TL",
       "dates": "12 Ağustos 2021",
       "distributionType": "Oransal Dağıtım",
-      "lotCount": "%34.78"
+      "lotCount": "%15.88"
     },
     {
       "company": "GENIL",
@@ -2018,7 +2018,7 @@
       "price": "3,90 TL",
       "dates": "30 Nisan 2021",
       "distributionType": "Eşit Dağıtım",
-      "lotCount": "%51.41"
+      "lotCount": "%70.50"
     },
     {
       "company": "AYDEM",
@@ -5398,7 +5398,7 @@
       "price": "5.000 TL *YTL Öncesi",
       "dates": "28 Kasım 1990",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%75.54"
+      "lotCount": "%77.50"
     },
     {
       "company": "MRSHL",
@@ -6031,56 +6031,5 @@
       "lotCount": "%28.17"
     }
   ],
-  "draft_ipos": [
-    {
-      "company": "OTOSR",
-      "link": "https://halkarz.com/otosor-otomotiv-a-s/",
-      "status": "Taslak",
-      "code": "OTOSR",
-      "price": "Hazırlanıyor...",
-      "dates": "Tarih Bekleniyor",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "70.000.000 Lot"
-    },
-    {
-      "company": "TIMUR",
-      "link": "https://halkarz.com/timur-gayrimenkul-gelistirme-yapi-ve-yatirim-a-s/",
-      "status": "Taslak",
-      "code": "TIMUR",
-      "price": "Hazırlanıyor...",
-      "dates": "Tarih Bekleniyor",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "116.545.019 Lot"
-    },
-    {
-      "company": "GLMND",
-      "link": "https://halkarz.com/gulluk-mandalya-turizm-liman-isletmeleri-a-s/",
-      "status": "Taslak",
-      "code": "GLMND",
-      "price": "Hazırlanıyor...",
-      "dates": "Tarih Bekleniyor",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "25.650.000 Lot"
-    },
-    {
-      "company": "TV8TV",
-      "link": "https://halkarz.com/tv8-tv-yayincilik-a-s/",
-      "status": "Taslak",
-      "code": "TV8TV",
-      "price": "Hazırlanıyor...",
-      "dates": "Tarih Bekleniyor",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "35.000.000 Lot"
-    },
-    {
-      "company": "QYHOL",
-      "link": "https://halkarz.com/q-yatirim-holding-a-s/",
-      "status": "Taslak",
-      "code": "QYHOL",
-      "price": "Hazırlanıyor...",
-      "dates": "Tarih Bekleniyor",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "500.000.000 Lot"
-    }
-  ]
+  "draft_ipos": []
 }
