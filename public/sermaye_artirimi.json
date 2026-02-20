@@ -216,6 +216,15 @@
     "description": "Bölünme Tarihi: 19.02.2026 Bitiş: 05.03.2026 | Tutar: 1.309.176.000 TL"
   },
   {
+    "code": "ARZUM",
+    "company": "ARZUM Arzum Elektrikli Ev Aletleri San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "19.02.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
+  },
+  {
     "code": "TDGYO",
     "company": "TDGYO Trend Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelli",
@@ -239,15 +248,6 @@
     "type": "Bedelli",
     "rate": "%166.66",
     "date": "26.01.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "ARZUM",
-    "company": "ARZUM Arzum Elektrikli Ev Aletleri San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%200",
-    "date": "30.12.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
