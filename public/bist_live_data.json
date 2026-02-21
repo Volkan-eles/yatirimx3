@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-21T07:54:46.762505",
+  "last_update": "2026-02-21T08:39:39.154615",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 502,
   "successful": 502,
@@ -1915,7 +1915,7 @@
       "averageVolume": 176188267,
       "averageVolume10days": 186849084,
       "marketCap": 202059595776,
-      "enterpriseValue": 0,
+      "enterpriseValue": 80244979531776,
       "sharesOutstanding": 6721875999,
       "sector": "Basic Materials",
       "industry": "Steel",
@@ -1927,26 +1927,26 @@
       "description": "Eregli Demir ve Çelik Fabrikalari T.A.S., together with its subsidiaries, produces and sells iron and steel rolled products, alloyed and non-alloyed iron, cast and pressed steel, coke, and by-products in Turkey and internationally. The company offers flat steel products, including hot and cold rolled flat steel, plate, tin, chrome, and galvanized coated sheets. It also engages in the production of integrated and electrical steel; renewable energy generation; industrial gas production and sale; pellets; iron and magnesite ores; refractory; trading; recycling; and special purpose business. In addition, the company offers after-sales, laboratory and calibration, steel service center, and port services; and management and consulting services. Further, it exports its products. The company serves the automotive, white goods, tube mills, rolling mills, general manufacturing, electric&electronics, machinery, energy, heating equipment, shipbuilding, defense, packaging, and renewable energy industries. Eregli Demir ve Çelik Fabrikalari T.A.S. was founded in 1960 and is headquartered in Istanbul, Turkey.",
       "pe": 40.62162,
       "forwardPE": 4.87987,
-      "priceToBook": 0.7523275,
+      "priceToBook": 278.3333,
       "pegRatio": null,
       "priceToSales": 0.9672092,
-      "enterpriseToRevenue": null,
-      "enterpriseToEbitda": null,
+      "enterpriseToRevenue": 384.113,
+      "enterpriseToEbitda": 4129.54,
       "profitMargins": 0.00245,
       "grossMargins": 0.08886,
-      "operatingMargins": 0.09611,
-      "returnOnAssets": 0.013940001,
+      "operatingMargins": 0.0554,
+      "returnOnAssets": 0.01079,
       "returnOnEquity": 0.0025600002,
       "totalRevenue": 208909910016,
-      "revenuePerShare": null,
-      "totalCash": null,
-      "totalDebt": 0,
-      "debtToEquity": null,
+      "revenuePerShare": 0.311,
+      "totalCash": 115476725760,
+      "totalDebt": 158340890624,
+      "debtToEquity": 53.263,
       "currentRatio": 2.144,
-      "quickRatio": null,
+      "quickRatio": 1.327,
       "eps": 0.74,
       "forwardEps": 6.16,
-      "bookValue": 39.956,
+      "bookValue": 0.108,
       "dividendRate": 0.25,
       "dividendYield": 0.83,
       "exDividendDate": 1751414400,
@@ -1958,7 +1958,7 @@
       "recommendationMean": 2.76923,
       "recommendationKey": "hold",
       "numberOfAnalystOpinions": 13,
-      "beta": null,
+      "beta": 0.823,
       "historicalData": [
         {
           "Close": 24.8799991607666,
@@ -4161,7 +4161,7 @@
         }
       ],
       "heldPercentInsiders": 0.34595,
-      "heldPercentInstitutions": 0.1237
+      "heldPercentInstitutions": 0.12369
     },
     {
       "code": "KCHOL",
@@ -5484,7 +5484,7 @@
         }
       ],
       "heldPercentInsiders": 0.49338,
-      "heldPercentInstitutions": 0.072270006
+      "heldPercentInstitutions": 0.07226
     },
     {
       "code": "ENJSA",
@@ -9453,7 +9453,7 @@
         }
       ],
       "heldPercentInsiders": 0.56214,
-      "heldPercentInstitutions": 0.00567
+      "heldPercentInstitutions": 0.00566
     },
     {
       "code": "ASUZU",
@@ -12855,7 +12855,7 @@
         }
       ],
       "heldPercentInsiders": 0.52424,
-      "heldPercentInstitutions": 0.02466
+      "heldPercentInstitutions": 0.0247
     },
     {
       "code": "AKSUE",
@@ -71634,7 +71634,7 @@
         }
       ],
       "heldPercentInsiders": 0.73188,
-      "heldPercentInstitutions": 0.0134000005
+      "heldPercentInstitutions": 0.01339
     },
     {
       "code": "OZRDN",
@@ -78627,7 +78627,7 @@
         }
       ],
       "heldPercentInsiders": 0.70875,
-      "heldPercentInstitutions": 0.020550001
+      "heldPercentInstitutions": 0.020539999
     },
     {
       "code": "RYSAS",
@@ -91879,7 +91879,7 @@
       "averageVolume": 671973,
       "averageVolume10days": 506477,
       "marketCap": 1206000000,
-      "enterpriseValue": 0,
+      "enterpriseValue": 1153374208,
       "sharesOutstanding": 30000000,
       "sector": "Financial Services",
       "industry": "Asset Management",
@@ -91894,15 +91894,15 @@
       "priceToBook": 21.800434,
       "pegRatio": null,
       "priceToSales": 7.89736,
-      "enterpriseToRevenue": null,
-      "enterpriseToEbitda": null,
+      "enterpriseToRevenue": 7.553,
+      "enterpriseToEbitda": -85.887,
       "profitMargins": -0.12281,
-      "grossMargins": 0.03897,
+      "grossMargins": 0.03723,
       "operatingMargins": -0.02342,
-      "returnOnAssets": -0.12041,
-      "returnOnEquity": -0.33604,
+      "returnOnAssets": -0.10659,
+      "returnOnEquity": -0.29075,
       "totalRevenue": 152709264,
-      "revenuePerShare": null,
+      "revenuePerShare": 5.09,
       "totalCash": 53255712,
       "totalDebt": 629926,
       "debtToEquity": 1.138,
@@ -91922,7 +91922,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.951,
       "historicalData": [
         {
           "Close": 42.040000915527344,
