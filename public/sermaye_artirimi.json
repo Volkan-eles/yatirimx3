@@ -18,6 +18,33 @@
     "description": "SPK Onayı Alındı"
   },
   {
+    "code": "BIMAS",
+    "company": "BIMAS Bim Birleşik Mağazalar A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "20.02.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "OZYSR",
+    "company": "OZYSR Özyaşar Tel ve Galvanizleme San. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%310",
+    "date": "20.02.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 319.920.000 TL"
+  },
+  {
+    "code": "MERKO",
+    "company": "MERKO Merko Gıda San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%638",
+    "date": "18.02.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 734.876.627 TL"
+  },
+  {
     "code": "DSTKF",
     "company": "DSTKF Destek Finans Faktoring A.Ş.",
     "type": "Bedelsiz",
@@ -198,15 +225,6 @@
     "description": "SPK Onayı Alındı | Tutar: 1 TL"
   },
   {
-    "code": "KENT",
-    "company": "KENT Kent Gıda Maddeleri San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%50",
-    "date": "05.02.2026 Bitiş: 19.02.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 05.02.2026 Bitiş: 19.02.2026 | Tutar: 1 TL"
-  },
-  {
     "code": "MRGYO",
     "company": "MRGYO Martı Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelli",
@@ -214,6 +232,15 @@
     "date": "19.02.2026 Bitiş: 05.03.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 19.02.2026 Bitiş: 05.03.2026 | Tutar: 1.309.176.000 TL"
+  },
+  {
+    "code": "KENT",
+    "company": "KENT Kent Gıda Maddeleri San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%50",
+    "date": "05.02.2026 Bitiş: 19.02.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 05.02.2026 Bitiş: 19.02.2026 | Tutar: 1 TL"
   },
   {
     "code": "ARZUM",
@@ -347,15 +374,6 @@
     "type": "Bedelli",
     "rate": "%25",
     "date": "15.10.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "VBTYZ",
-    "company": "VBTYZ Vbt Yazılım A.Ş.",
-    "type": "Bedelli",
-    "rate": "%300",
-    "date": "24.09.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
