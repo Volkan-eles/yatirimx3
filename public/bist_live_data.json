@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-02-23T05:05:26.561164",
+  "last_update": "2026-02-23T06:46:13.250343",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 502,
-  "successful": 502,
-  "failed": 29,
+  "total_stocks": 491,
+  "successful": 491,
+  "failed": 40,
   "stocks": [
     {
       "code": "GARAN",
@@ -1013,7 +1013,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 6,
-      "beta": null,
+      "beta": 0.56,
       "historicalData": [
         {
           "Close": 41.040000915527344,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 44.353935,
-      "targetLowPrice": 31.424675,
-      "targetMeanPrice": 37.354164,
-      "targetMedianPrice": 38.30567,
+      "targetHighPrice": 44.356567,
+      "targetLowPrice": 31.42654,
+      "targetMeanPrice": 37.35638,
+      "targetMedianPrice": 38.307945,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -2289,7 +2289,7 @@
       "fiftyTwoWeekHigh": 339.25,
       "fiftyDayAverage": 272.78,
       "twoHundredDayAverage": 200.74,
-      "volume": "42,689,070",
+      "volume": "42,539,070",
       "averageVolume": 40879948,
       "averageVolume10days": 45196035,
       "marketCap": 1428420034560,
@@ -2456,7 +2456,7 @@
         },
         {
           "Close": 313.25,
-          "Volume": 42689070
+          "Volume": 42539070
         }
       ],
       "heldPercentInsiders": 0.74195,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.1,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 581.0047,
-      "targetLowPrice": 409.1947,
-      "targetMeanPrice": 469.34372,
-      "targetMedianPrice": 461.1728,
+      "targetHighPrice": 581.378,
+      "targetLowPrice": 409.4576,
+      "targetMeanPrice": 469.6453,
+      "targetMedianPrice": 461.4691,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -5691,7 +5691,7 @@
       "fiftyTwoWeekHigh": 5.66,
       "fiftyDayAverage": 2.62,
       "twoHundredDayAverage": 3.2,
-      "volume": "0",
+      "volume": "4,177,075,598",
       "averageVolume": 430617982,
       "averageVolume10days": 71466378,
       "marketCap": 106033799168,
@@ -5858,7 +5858,7 @@
         },
         {
           "Close": 2.4200000762939453,
-          "Volume": 0
+          "Volume": 4177075598
         }
       ],
       "heldPercentInsiders": 0.69254,
@@ -6825,7 +6825,7 @@
       "fiftyTwoWeekHigh": 23.28,
       "fiftyDayAverage": 17.98,
       "twoHundredDayAverage": 15.84,
-      "volume": "54,958,924",
+      "volume": "53,958,924",
       "averageVolume": 76648044,
       "averageVolume10days": 70721559,
       "marketCap": 118539476992,
@@ -6992,7 +6992,7 @@
         },
         {
           "Close": 20.020000457763672,
-          "Volume": 54958924
+          "Volume": 53958924
         }
       ],
       "heldPercentInsiders": 0.67047995,
@@ -11172,7 +11172,7 @@
       "fiftyTwoWeekHigh": 57.5,
       "fiftyDayAverage": 48.66,
       "twoHundredDayAverage": 47.76,
-      "volume": "10,553,171",
+      "volume": "10,280,171",
       "averageVolume": 12223807,
       "averageVolume10days": 15041672,
       "marketCap": 50920079360,
@@ -11339,7 +11339,7 @@
         },
         {
           "Close": 53.849998474121094,
-          "Volume": 10553171
+          "Volume": 10280171
         }
       ],
       "heldPercentInsiders": 0.63519,
@@ -11550,7 +11550,7 @@
       "fiftyTwoWeekHigh": 4.59,
       "fiftyDayAverage": 1.49,
       "twoHundredDayAverage": 2.37,
-      "volume": "257,090,965",
+      "volume": "1,330,832,789",
       "averageVolume": 335371307,
       "averageVolume10days": 449994169,
       "marketCap": 5795999744,
@@ -11717,7 +11717,7 @@
         },
         {
           "Close": 1.149999976158142,
-          "Volume": 257090965
+          "Volume": 1330832789
         }
       ],
       "heldPercentInsiders": 0.16494,
@@ -12322,7 +12322,7 @@
       "description": "Akfen Real Estate Investment Trust Inc. (the \"Company\" or \"Akfen GYO\") was formed through the rebranding, transformation, and restructuring of Aksel Tourism Investments and Management Inc. (\"Aksel\") into a real estate investment trust. Aksel was initially established on June 25, 1997, as a partnership between Hamdi Akin and Yüksel Construction Inc. to invest in the domestic tourism sector. Subsequently, Yüksel Construction Inc.'s shares were acquired by Akfen Holding Inc. (\"Akfen Holding\") in 2006, and the Company became a subsidiary of Akfen Holding. The restructuring was finalized with the Company's conversion into a \"Real Estate Investment Trust\" on August 25, 2006, by the Capital Markets Board (\"CMB\"), with its decision numbered 31/894, dated July 14, 2006, following the Board of Directors' decision dated April 25, 2006. The adoption of the Real Estate Investment Trust title and the change in its field of activity were published in the Trade Registry Gazette on August 31, 2006. On August 6, 2018, 1,000 Group A and 1,000 Group D preferred shares of Akfen GYO owned by Akfen Holding were transferred to Hamdi Akin, who is the indirect ultimate owner of the management control of these shares. The Company's main field of activity is to invest in real estate-based capital market instruments, to create and develop a real estate portfolio, and to engage in the written objectives and subjects described in Articles 5, 23, and 25 of the CMB's Communiqué on Principles Regarding Real Estate Investment Trusts (Series III, No: 48.1). In 2005, the Company signed a framework agreement with ACCOR SA, one of the world's leading hotel chains, to develop hotel projects in Türkiye under the Novotel and Ibis Hotel brands. The Company primarily develops hotel projects under the Novotel and Ibis Hotel brands and operates under the auspices of Tamaris Turizm A.S., a 100% subsidiary of ACCOR SA in Türkiye. (Tamaris). The Company was listed on Borsa Istanbul (BIST) on 11 May 2011.",
       "pe": 10.925925,
       "forwardPE": null,
-      "priceToBook": 0.38030168,
+      "priceToBook": 0.34767237,
       "pegRatio": null,
       "priceToSales": 9.520762,
       "enterpriseToRevenue": 12.038,
@@ -12341,7 +12341,7 @@
       "quickRatio": 1.3,
       "eps": 0.27,
       "forwardEps": null,
-      "bookValue": 7.757,
+      "bookValue": 8.485,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -19488,7 +19488,7 @@
       "fiftyTwoWeekHigh": 20.22,
       "fiftyDayAverage": 4.89,
       "twoHundredDayAverage": 7.72,
-      "volume": "10,482,680",
+      "volume": "10,482,683",
       "averageVolume": 15881943,
       "averageVolume10days": 18244111,
       "marketCap": 3806050048,
@@ -19655,7 +19655,7 @@
         },
         {
           "Close": 4.670000076293945,
-          "Volume": 10482680
+          "Volume": 10482683
         }
       ],
       "heldPercentInsiders": 0.64742,
@@ -20433,7 +20433,7 @@
       "fiftyTwoWeekHigh": 14.01,
       "fiftyDayAverage": 9.4,
       "twoHundredDayAverage": 9.71,
-      "volume": "30,136,650",
+      "volume": "30,136,652",
       "averageVolume": 45691942,
       "averageVolume10days": 124102563,
       "marketCap": 12088705024,
@@ -20600,7 +20600,7 @@
         },
         {
           "Close": 9.369999885559082,
-          "Volume": 30136650
+          "Volume": 30136652
         }
       ],
       "heldPercentInsiders": 0.62106,
@@ -21756,7 +21756,7 @@
       "fiftyTwoWeekHigh": 33.16,
       "fiftyDayAverage": 3.42,
       "twoHundredDayAverage": 15.83,
-      "volume": "16,326,970",
+      "volume": "16,326,975",
       "averageVolume": 61267705,
       "averageVolume10days": 43874843,
       "marketCap": 1904000000,
@@ -21923,7 +21923,7 @@
         },
         {
           "Close": 2.7200000286102295,
-          "Volume": 16326970
+          "Volume": 16326975
         }
       ],
       "heldPercentInsiders": 0.56497,
@@ -24780,7 +24780,7 @@
       "fiftyTwoWeekHigh": 80.4,
       "fiftyDayAverage": 67.74,
       "twoHundredDayAverage": 54.7,
-      "volume": "13,365,275",
+      "volume": "6,877,730",
       "averageVolume": 7247716,
       "averageVolume10days": 6831595,
       "marketCap": 206078509056,
@@ -24947,7 +24947,7 @@
         },
         {
           "Close": 73.6500015258789,
-          "Volume": 13365275
+          "Volume": 6877730
         }
       ],
       "heldPercentInsiders": 0.70895,
@@ -26863,7 +26863,7 @@
       "averageVolume": 35282239,
       "averageVolume10days": 53308152,
       "marketCap": 48187998208,
-      "enterpriseValue": 50122309632,
+      "enterpriseValue": 49627607040,
       "sharesOutstanding": 1400000000,
       "sector": "Basic Materials",
       "industry": "Other Industrial Metals & Mining",
@@ -26875,26 +26875,26 @@
       "description": "CVK Maden Isletmeleri Sanayi ve Ticaret Anonim Sirketi engages in production, marketing and sale of chrome, marble, lead, zinc, copper, silver, gold, and magnesite ores. The company was incorporated in 2006 and is based in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 5.5614796,
+      "priceToBook": 5.4179125,
       "pegRatio": null,
-      "priceToSales": 19.135853,
-      "enterpriseToRevenue": 19.904,
-      "enterpriseToEbitda": 66.344,
-      "profitMargins": 0.35397997,
-      "grossMargins": 0.26707,
-      "operatingMargins": 0.14832,
-      "returnOnAssets": 0.01871,
-      "returnOnEquity": 0.12493,
-      "totalRevenue": 2518204928,
-      "revenuePerShare": 2.066,
-      "totalCash": 1300454784,
-      "totalDebt": 2726814720,
-      "debtToEquity": 29.727,
-      "currentRatio": 0.382,
-      "quickRatio": 0.232,
+      "priceToSales": 14.703236,
+      "enterpriseToRevenue": 15.142,
+      "enterpriseToEbitda": 50.777,
+      "profitMargins": 0.04315,
+      "grossMargins": 0.27305,
+      "operatingMargins": 0.09369001,
+      "returnOnAssets": 0.01875,
+      "returnOnEquity": 0.01197,
+      "totalRevenue": 3277373696,
+      "revenuePerShare": 2.708,
+      "totalCash": 1242392320,
+      "totalDebt": 2251751936,
+      "debtToEquity": 24.15,
+      "currentRatio": 0.36,
+      "quickRatio": 0.193,
       "eps": -9.81,
       "forwardEps": null,
-      "bookValue": 6.189,
+      "bookValue": 6.353,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -27048,7 +27048,7 @@
       "fiftyTwoWeekHigh": 36.02,
       "fiftyDayAverage": 30.33,
       "twoHundredDayAverage": 21.74,
-      "volume": "10,931,070",
+      "volume": "10,931,079",
       "averageVolume": 34727304,
       "averageVolume10days": 39728435,
       "marketCap": 34289623040,
@@ -27215,7 +27215,7 @@
         },
         {
           "Close": 31.799999237060547,
-          "Volume": 10931070
+          "Volume": 10931079
         }
       ],
       "heldPercentInsiders": 0.60861,
@@ -33663,7 +33663,7 @@
       "fiftyTwoWeekHigh": 7.42,
       "fiftyDayAverage": 6.14,
       "twoHundredDayAverage": 6.15,
-      "volume": "41,428,140",
+      "volume": "41,428,146",
       "averageVolume": 16526332,
       "averageVolume10days": 24474893,
       "marketCap": 7448000000,
@@ -33830,7 +33830,7 @@
         },
         {
           "Close": 6.650000095367432,
-          "Volume": 41428140
+          "Volume": 41428146
         }
       ],
       "heldPercentInsiders": 0.72571,
@@ -34608,7 +34608,7 @@
       "fiftyTwoWeekHigh": 11.93,
       "fiftyDayAverage": 9.61,
       "twoHundredDayAverage": 8.96,
-      "volume": "30,393,020",
+      "volume": "30,393,029",
       "averageVolume": 22676755,
       "averageVolume10days": 37972595,
       "marketCap": 90089996288,
@@ -34775,7 +34775,7 @@
         },
         {
           "Close": 10.010000228881836,
-          "Volume": 30393020
+          "Volume": 30393029
         }
       ],
       "heldPercentInsiders": 0.72905,
@@ -39333,7 +39333,7 @@
       "fiftyTwoWeekHigh": 17.44,
       "fiftyDayAverage": 13.11,
       "twoHundredDayAverage": 12.01,
-      "volume": "10,258,680",
+      "volume": "10,258,687",
       "averageVolume": 9684047,
       "averageVolume10days": 9813086,
       "marketCap": 15562500096,
@@ -39500,7 +39500,7 @@
         },
         {
           "Close": 12.449999809265137,
-          "Volume": 10258680
+          "Volume": 10258687
         }
       ],
       "heldPercentInsiders": 0.72950995,
@@ -40703,7 +40703,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.365,
       "historicalData": [
         {
           "Close": 49.880001068115234,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 78.191475,
-      "targetLowPrice": 60.922726,
-      "targetMeanPrice": 69.5571,
-      "targetMedianPrice": 69.5571,
+      "targetHighPrice": 78.069626,
+      "targetLowPrice": 60.827793,
+      "targetMeanPrice": 69.44871,
+      "targetMedianPrice": 69.44871,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
@@ -51240,7 +51240,7 @@
       "fiftyTwoWeekHigh": 11.94,
       "fiftyDayAverage": 9.79,
       "twoHundredDayAverage": 8.65,
-      "volume": "47,235,880",
+      "volume": "47,235,889",
       "averageVolume": 37275864,
       "averageVolume10days": 29159556,
       "marketCap": 23704373248,
@@ -51407,7 +51407,7 @@
         },
         {
           "Close": 9.699999809265137,
-          "Volume": 47235880
+          "Volume": 47235889
         }
       ],
       "heldPercentInsiders": 0.60797,
@@ -52941,7 +52941,7 @@
       "fiftyTwoWeekHigh": 6.39,
       "fiftyDayAverage": 4.86,
       "twoHundredDayAverage": 4.57,
-      "volume": "69,822,350",
+      "volume": "69,822,357",
       "averageVolume": 26316913,
       "averageVolume10days": 75427846,
       "marketCap": 18389999616,
@@ -53108,7 +53108,7 @@
         },
         {
           "Close": 6.130000114440918,
-          "Volume": 69822350
+          "Volume": 69822357
         }
       ],
       "heldPercentInsiders": 0.59215,
@@ -53130,7 +53130,7 @@
       "fiftyTwoWeekHigh": 21.54,
       "fiftyDayAverage": 16.22,
       "twoHundredDayAverage": 14.28,
-      "volume": "12,054,000",
+      "volume": "12,054,001",
       "averageVolume": 11514413,
       "averageVolume10days": 21264498,
       "marketCap": 12264000512,
@@ -53297,7 +53297,7 @@
         },
         {
           "Close": 20.440000534057617,
-          "Volume": 12054000
+          "Volume": 12054001
         }
       ],
       "heldPercentInsiders": 0.76,
@@ -56154,7 +56154,7 @@
       "fiftyTwoWeekHigh": 3.29,
       "fiftyDayAverage": 2.7,
       "twoHundredDayAverage": 2.68,
-      "volume": "30,799,280",
+      "volume": "30,799,282",
       "averageVolume": 33826158,
       "averageVolume10days": 42194403,
       "marketCap": 6894615040,
@@ -56321,7 +56321,7 @@
         },
         {
           "Close": 2.759999990463257,
-          "Volume": 30799280
+          "Volume": 30799282
         }
       ],
       "heldPercentInsiders": 0.76426005,
@@ -58989,7 +58989,7 @@
       "fiftyTwoWeekHigh": 42.6,
       "fiftyDayAverage": 29.8,
       "twoHundredDayAverage": 15.87,
-      "volume": "60,953,890",
+      "volume": "60,953,891",
       "averageVolume": 65984499,
       "averageVolume10days": 62346676,
       "marketCap": 73898999808,
@@ -59156,7 +59156,7 @@
         },
         {
           "Close": 35.70000076293945,
-          "Volume": 60953890
+          "Volume": 60953891
         }
       ],
       "heldPercentInsiders": 0.37754002,
@@ -60879,7 +60879,7 @@
       "fiftyTwoWeekHigh": 7.8,
       "fiftyDayAverage": 4.41,
       "twoHundredDayAverage": 5.18,
-      "volume": "22,107,410",
+      "volume": "22,107,419",
       "averageVolume": 29681868,
       "averageVolume10days": 24896428,
       "marketCap": 2965070848,
@@ -61046,7 +61046,7 @@
         },
         {
           "Close": 3.880000114440918,
-          "Volume": 22107410
+          "Volume": 22107419
         }
       ],
       "heldPercentInsiders": 0.15646,
@@ -63525,7 +63525,7 @@
       "fiftyTwoWeekHigh": 6.07,
       "fiftyDayAverage": 4.32,
       "twoHundredDayAverage": 4.16,
-      "volume": "14,519,790",
+      "volume": "14,519,792",
       "averageVolume": 17327221,
       "averageVolume10days": 21639388,
       "marketCap": 3943999744,
@@ -63692,7 +63692,7 @@
         },
         {
           "Close": 4.929999828338623,
-          "Volume": 14519790
+          "Volume": 14519792
         }
       ],
       "heldPercentInsiders": 0.5696,
@@ -65793,7 +65793,7 @@
       "fiftyTwoWeekHigh": 11.81,
       "fiftyDayAverage": 8.76,
       "twoHundredDayAverage": 9.04,
-      "volume": "42,309,430",
+      "volume": "42,309,432",
       "averageVolume": 7636808,
       "averageVolume10days": 23249987,
       "marketCap": 25669937152,
@@ -65960,7 +65960,7 @@
         },
         {
           "Close": 10.520000457763672,
-          "Volume": 42309430
+          "Volume": 42309432
         }
       ],
       "heldPercentInsiders": 0.89388,
@@ -72786,7 +72786,7 @@
       "fiftyTwoWeekHigh": 36.94,
       "fiftyDayAverage": 22.08,
       "twoHundredDayAverage": 24.74,
-      "volume": "12,249,660",
+      "volume": "12,249,665",
       "averageVolume": 24227256,
       "averageVolume10days": 20963551,
       "marketCap": 13120724992,
@@ -72953,7 +72953,7 @@
         },
         {
           "Close": 19.440000534057617,
-          "Volume": 12249660
+          "Volume": 12249665
         }
       ],
       "heldPercentInsiders": 0.51153,
@@ -77133,7 +77133,7 @@
       "fiftyTwoWeekHigh": 14.22,
       "fiftyDayAverage": 6.92,
       "twoHundredDayAverage": 9.23,
-      "volume": "12,578,160",
+      "volume": "12,578,167",
       "averageVolume": 26282022,
       "averageVolume10days": 19967363,
       "marketCap": 6327000064,
@@ -77300,7 +77300,7 @@
         },
         {
           "Close": 6.659999847412109,
-          "Volume": 12578160
+          "Volume": 12578167
         }
       ],
       "heldPercentInsiders": 0.397,
@@ -89418,7 +89418,7 @@
       "fiftyTwoWeekHigh": 4.65,
       "fiftyDayAverage": 3.92,
       "twoHundredDayAverage": 3.84,
-      "volume": "10,799,520",
+      "volume": "10,799,528",
       "averageVolume": 14443245,
       "averageVolume10days": 15611312,
       "marketCap": 0,
@@ -89585,7 +89585,7 @@
         },
         {
           "Close": 4.079999923706055,
-          "Volume": 10799520
+          "Volume": 10799528
         }
       ],
       "heldPercentInsiders": 0.42771998,
@@ -91671,195 +91671,6 @@
       "heldPercentInstitutions": 0.00049
     },
     {
-      "code": "VESBE",
-      "symbol": "VESBE.IS",
-      "name": "Vestel Beyaz Esya Sanayi ve Ticaret A.S.",
-      "shortName": "VESTEL BEYAZ ESYA",
-      "price": 8.13,
-      "change": 0.03,
-      "changeRate": 0.37,
-      "previousClose": 8.1,
-      "open": 8.12,
-      "dayLow": 8.07,
-      "dayHigh": 8.19,
-      "fiftyTwoWeekLow": 7.62,
-      "fiftyTwoWeekHigh": 15.76,
-      "fiftyDayAverage": 8.16,
-      "twoHundredDayAverage": 9.51,
-      "volume": "5,845,816",
-      "averageVolume": 8726121,
-      "averageVolume10days": 9163028,
-      "marketCap": 13008000000,
-      "enterpriseValue": 31591137280,
-      "sharesOutstanding": 1600000000,
-      "sector": "Consumer Cyclical",
-      "industry": "Furnishings, Fixtures & Appliances",
-      "website": "https://www.vestel.com.tr",
-      "address": "BUeyUekdere Caddesi No: 199",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 456 22 00",
-      "description": "Vestel Beyaz Esya Sanayi ve Ticaret A.S. engages in the production and sale of white goods in Turkey. The company produces refrigerators, freezers, washing machines, dryers, cooking appliances, dishwashers, air-conditioners, and water heaters. It also exports its products. Vestel Beyaz Esya Sanayi ve Ticaret A.S. was incorporated in 1997 and is headquartered in Istanbul, Turkey. Vestel Beyaz Esya Sanayi ve Ticaret A.S. is a subsidiary of Vestel Elektronik Sanayi ve Ticaret A.S.",
-      "pe": null,
-      "forwardPE": 1.790749,
-      "priceToBook": 0.33954227,
-      "pegRatio": null,
-      "priceToSales": 0.21443342,
-      "enterpriseToRevenue": 0.521,
-      "enterpriseToEbitda": 21.687,
-      "profitMargins": -0.057290003,
-      "grossMargins": 0.07297,
-      "operatingMargins": -0.00969,
-      "returnOnAssets": -0.00751,
-      "returnOnEquity": -0.104040004,
-      "totalRevenue": 60662185984,
-      "revenuePerShare": 37.914,
-      "totalCash": 293155008,
-      "totalDebt": 18876293120,
-      "debtToEquity": 49.272,
-      "currentRatio": 0.895,
-      "quickRatio": 0.626,
-      "eps": -2.17,
-      "forwardEps": 4.54,
-      "bookValue": 23.944,
-      "dividendRate": 0.04,
-      "dividendYield": 0.54,
-      "exDividendDate": 1753315200,
-      "payoutRatio": 4.2702,
-      "targetHighPrice": 15.17,
-      "targetLowPrice": 12.5,
-      "targetMeanPrice": 13.72333,
-      "targetMedianPrice": 13.5,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 3,
-      "beta": 0.24,
-      "historicalData": [
-        {
-          "Close": 7.860000133514404,
-          "Volume": 5162389
-        },
-        {
-          "Close": 7.860000133514404,
-          "Volume": 5238356
-        },
-        {
-          "Close": 7.809999942779541,
-          "Volume": 10281378
-        },
-        {
-          "Close": 7.940000057220459,
-          "Volume": 8707477
-        },
-        {
-          "Close": 8.170000076293945,
-          "Volume": 14946297
-        },
-        {
-          "Close": 8.229999542236328,
-          "Volume": 10634716
-        },
-        {
-          "Close": 8.029999732971191,
-          "Volume": 7020530
-        },
-        {
-          "Close": 7.960000038146973,
-          "Volume": 5748550
-        },
-        {
-          "Close": 8.039999961853027,
-          "Volume": 7009179
-        },
-        {
-          "Close": 8.199999809265137,
-          "Volume": 7243708
-        },
-        {
-          "Close": 8.319999694824219,
-          "Volume": 8903532
-        },
-        {
-          "Close": 8.149999618530273,
-          "Volume": 9632830
-        },
-        {
-          "Close": 8.270000457763672,
-          "Volume": 12275913
-        },
-        {
-          "Close": 8.380000114440918,
-          "Volume": 11729923
-        },
-        {
-          "Close": 8.239999771118164,
-          "Volume": 10827184
-        },
-        {
-          "Close": 8.15999984741211,
-          "Volume": 7806137
-        },
-        {
-          "Close": 8.289999961853027,
-          "Volume": 8558596
-        },
-        {
-          "Close": 8.399999618530273,
-          "Volume": 14329377
-        },
-        {
-          "Close": 8.300000190734863,
-          "Volume": 9907518
-        },
-        {
-          "Close": 8.180000305175781,
-          "Volume": 9240972
-        },
-        {
-          "Close": 8.460000038146973,
-          "Volume": 9332294
-        },
-        {
-          "Close": 8.460000038146973,
-          "Volume": 8079554
-        },
-        {
-          "Close": 8.399999618530273,
-          "Volume": 6562705
-        },
-        {
-          "Close": 8.630000114440918,
-          "Volume": 9934709
-        },
-        {
-          "Close": 8.59000015258789,
-          "Volume": 10853777
-        },
-        {
-          "Close": 8.819999694824219,
-          "Volume": 12580446
-        },
-        {
-          "Close": 8.760000228881836,
-          "Volume": 8168657
-        },
-        {
-          "Close": 8.460000038146973,
-          "Volume": 11491518
-        },
-        {
-          "Close": 8.100000381469727,
-          "Volume": 8780805
-        },
-        {
-          "Close": 8.130000114440918,
-          "Volume": 5845816
-        }
-      ],
-      "heldPercentInsiders": 0.77331,
-      "heldPercentInstitutions": 0.01342
-    },
-    {
       "code": "VKFYO",
       "symbol": "VKFYO.IS",
       "name": "Vakif Menkul Kiymet Yatirim Ortakligi A.S.",
@@ -92427,1329 +92238,6 @@
       "heldPercentInstitutions": 0.016549999
     },
     {
-      "code": "YAPRK",
-      "symbol": "YAPRK.IS",
-      "name": "Yaprak Süt ve Besi Çiftlikleri Sanayi ve Ticaret A.S.",
-      "shortName": "YAPRAK SUT VE BESI CIFT.",
-      "price": 308.25,
-      "change": 4.75,
-      "changeRate": 1.57,
-      "previousClose": 303.5,
-      "open": 305.0,
-      "dayLow": 301.0,
-      "dayHigh": 309.5,
-      "fiftyTwoWeekLow": 239.0,
-      "fiftyTwoWeekHigh": 907.0,
-      "fiftyDayAverage": 278.5,
-      "twoHundredDayAverage": 282.46,
-      "volume": "305,141",
-      "averageVolume": 417135,
-      "averageVolume10days": 715501,
-      "marketCap": 4377149952,
-      "enterpriseValue": 4307836416,
-      "sharesOutstanding": 14200000,
-      "sector": "Consumer Defensive",
-      "industry": "Farm Products",
-      "website": "https://www.yaprakciftligi.com.tr",
-      "address": "Barbaros Mahallesi Ihlamur Bulvari No: 3",
-      "city": "Atasehir",
-      "country": "Turkey",
-      "phone": "90 266 422 27 77",
-      "description": "Yaprak Süt ve Besi Çiftlikleri Sanayi ve Ticaret A.S. is involved in the animal husbandry business in Turkey. The company breeds calf, heifers, and dairy animals, as well as provides bait and health services. It is also involved in milk production facilities. The company was founded in 1994 and is headquartered in Atasehir, Turkey.",
-      "pe": 250.60976,
-      "forwardPE": null,
-      "priceToBook": 6.7393255,
-      "pegRatio": null,
-      "priceToSales": 18.231663,
-      "enterpriseToRevenue": 17.943,
-      "enterpriseToEbitda": 137.557,
-      "profitMargins": 0.07281,
-      "grossMargins": 0.19178,
-      "operatingMargins": -0.00858,
-      "returnOnAssets": 0.01669,
-      "returnOnEquity": 0.031140001,
-      "totalRevenue": 240085072,
-      "revenuePerShare": 16.907,
-      "totalCash": 157896112,
-      "totalDebt": 88582736,
-      "debtToEquity": 13.639,
-      "currentRatio": 2.434,
-      "quickRatio": 1.714,
-      "eps": 1.23,
-      "forwardEps": null,
-      "bookValue": 45.739,
-      "dividendRate": 0.4,
-      "dividendYield": 0.13,
-      "exDividendDate": 1751328000,
-      "payoutRatio": 0.32490003,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.221,
-      "historicalData": [
-        {
-          "Close": 270.0,
-          "Volume": 271527
-        },
-        {
-          "Close": 269.0,
-          "Volume": 168364
-        },
-        {
-          "Close": 264.5,
-          "Volume": 175928
-        },
-        {
-          "Close": 271.5,
-          "Volume": 191948
-        },
-        {
-          "Close": 270.5,
-          "Volume": 162806
-        },
-        {
-          "Close": 269.75,
-          "Volume": 149725
-        },
-        {
-          "Close": 266.5,
-          "Volume": 145920
-        },
-        {
-          "Close": 260.5,
-          "Volume": 164753
-        },
-        {
-          "Close": 263.75,
-          "Volume": 112193
-        },
-        {
-          "Close": 265.75,
-          "Volume": 172343
-        },
-        {
-          "Close": 261.0,
-          "Volume": 188719
-        },
-        {
-          "Close": 262.5,
-          "Volume": 231163
-        },
-        {
-          "Close": 260.5,
-          "Volume": 140126
-        },
-        {
-          "Close": 261.25,
-          "Volume": 139291
-        },
-        {
-          "Close": 259.5,
-          "Volume": 146826
-        },
-        {
-          "Close": 259.25,
-          "Volume": 165178
-        },
-        {
-          "Close": 258.5,
-          "Volume": 268475
-        },
-        {
-          "Close": 260.0,
-          "Volume": 146387
-        },
-        {
-          "Close": 254.0,
-          "Volume": 314422
-        },
-        {
-          "Close": 257.0,
-          "Volume": 105345
-        },
-        {
-          "Close": 273.5,
-          "Volume": 529799
-        },
-        {
-          "Close": 273.0,
-          "Volume": 464882
-        },
-        {
-          "Close": 271.0,
-          "Volume": 157817
-        },
-        {
-          "Close": 294.5,
-          "Volume": 872089
-        },
-        {
-          "Close": 323.75,
-          "Volume": 912757
-        },
-        {
-          "Close": 320.0,
-          "Volume": 2043255
-        },
-        {
-          "Close": 304.25,
-          "Volume": 808714
-        },
-        {
-          "Close": 308.0,
-          "Volume": 727651
-        },
-        {
-          "Close": 303.5,
-          "Volume": 332913
-        },
-        {
-          "Close": 308.25,
-          "Volume": 305141
-        }
-      ],
-      "heldPercentInsiders": 0.71831,
-      "heldPercentInstitutions": 0.00016000001
-    },
-    {
-      "code": "YATAS",
-      "symbol": "YATAS.IS",
-      "name": "Yatas Yatak ve Yorgan Sanayi ve Ticaret A.S.",
-      "shortName": "YATAS",
-      "price": 46.28,
-      "change": 0.7,
-      "changeRate": 1.54,
-      "previousClose": 45.58,
-      "open": 45.58,
-      "dayLow": 45.38,
-      "dayHigh": 46.58,
-      "fiftyTwoWeekLow": 22.64,
-      "fiftyTwoWeekHigh": 48.84,
-      "fiftyDayAverage": 42.15,
-      "twoHundredDayAverage": 33.94,
-      "volume": "694,471",
-      "averageVolume": 1270739,
-      "averageVolume10days": 988160,
-      "marketCap": 6653360640,
-      "enterpriseValue": 12022692864,
-      "sharesOutstanding": 143763198,
-      "sector": "Consumer Cyclical",
-      "industry": "Furnishings, Fixtures & Appliances",
-      "website": "https://www.yatasbedding.com.tr",
-      "address": "Organize Sanayi Bölgesi 18.",
-      "city": "Kayseri",
-      "country": "Turkey",
-      "phone": "90 216 309 54 10",
-      "description": "Yatas Yatak ve Yorgan Sanayi ve Ticaret A.S., together with its subsidiaries, manufactures and sells bed, furniture, quilt, armchair, sofa, home textile, and home furniture. The company offers beds and mattresses; home textile products that include duvet covers and sets, bedspreads, blankets, sheets and pillow cases, bathroom textiles, cushions and covers, sofa throws, and dowry sets; base and headboard sets; and home and sitting room products, such as TV blanket, slipper, pet bed, and room fragrances. It sells its products through stores. The company was founded in 1976 and is headquartered in Kayseri, Turkey.",
-      "pe": null,
-      "forwardPE": 62.54054,
-      "priceToBook": 0.6612751,
-      "pegRatio": null,
-      "priceToSales": 0.40560433,
-      "enterpriseToRevenue": 0.733,
-      "enterpriseToEbitda": 6.251,
-      "profitMargins": -0.00901,
-      "grossMargins": 0.35367,
-      "operatingMargins": 0.08858,
-      "returnOnAssets": 0.04402,
-      "returnOnEquity": -0.017860001,
-      "totalRevenue": 16403573760,
-      "revenuePerShare": 109.135,
-      "totalCash": 950203520,
-      "totalDebt": 6319536128,
-      "debtToEquity": 62.81,
-      "currentRatio": 1.106,
-      "quickRatio": 0.383,
-      "eps": -0.99,
-      "forwardEps": 0.74,
-      "bookValue": 69.986,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1694995200,
-      "payoutRatio": 0.0,
-      "targetHighPrice": 65.0,
-      "targetLowPrice": 49.97,
-      "targetMeanPrice": 58.15667,
-      "targetMedianPrice": 59.5,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 3,
-      "beta": 0.357,
-      "historicalData": [
-        {
-          "Close": 40.900001525878906,
-          "Volume": 1302499
-        },
-        {
-          "Close": 40.2599983215332,
-          "Volume": 1715596
-        },
-        {
-          "Close": 39.0,
-          "Volume": 909848
-        },
-        {
-          "Close": 40.400001525878906,
-          "Volume": 1741957
-        },
-        {
-          "Close": 40.91999816894531,
-          "Volume": 1204624
-        },
-        {
-          "Close": 41.720001220703125,
-          "Volume": 1706935
-        },
-        {
-          "Close": 41.939998626708984,
-          "Volume": 1233578
-        },
-        {
-          "Close": 41.599998474121094,
-          "Volume": 1051005
-        },
-        {
-          "Close": 42.900001525878906,
-          "Volume": 1061306
-        },
-        {
-          "Close": 43.400001525878906,
-          "Volume": 737825
-        },
-        {
-          "Close": 45.7400016784668,
-          "Volume": 2165806
-        },
-        {
-          "Close": 45.939998626708984,
-          "Volume": 2192554
-        },
-        {
-          "Close": 46.040000915527344,
-          "Volume": 1564506
-        },
-        {
-          "Close": 46.7599983215332,
-          "Volume": 1557908
-        },
-        {
-          "Close": 48.060001373291016,
-          "Volume": 2177347
-        },
-        {
-          "Close": 45.599998474121094,
-          "Volume": 2984859
-        },
-        {
-          "Close": 46.459999084472656,
-          "Volume": 2568128
-        },
-        {
-          "Close": 45.86000061035156,
-          "Volume": 833761
-        },
-        {
-          "Close": 45.459999084472656,
-          "Volume": 860107
-        },
-        {
-          "Close": 44.86000061035156,
-          "Volume": 858116
-        },
-        {
-          "Close": 45.779998779296875,
-          "Volume": 700474
-        },
-        {
-          "Close": 46.0,
-          "Volume": 1189227
-        },
-        {
-          "Close": 46.20000076293945,
-          "Volume": 960733
-        },
-        {
-          "Close": 46.7400016784668,
-          "Volume": 1023351
-        },
-        {
-          "Close": 46.58000183105469,
-          "Volume": 797586
-        },
-        {
-          "Close": 47.15999984741211,
-          "Volume": 999822
-        },
-        {
-          "Close": 46.79999923706055,
-          "Volume": 989491
-        },
-        {
-          "Close": 47.099998474121094,
-          "Volume": 1412347
-        },
-        {
-          "Close": 45.58000183105469,
-          "Volume": 1114100
-        },
-        {
-          "Close": 46.279998779296875,
-          "Volume": 694471
-        }
-      ],
-      "heldPercentInsiders": 0.21252,
-      "heldPercentInstitutions": 0.049450003
-    },
-    {
-      "code": "YESIL",
-      "symbol": "YESIL.IS",
-      "name": "Yesil Yatirim Holding Anonim Sirketi",
-      "shortName": "YESIL YATIRIM HOLDING",
-      "price": 1.93,
-      "change": 0.07,
-      "changeRate": 3.76,
-      "previousClose": 1.86,
-      "open": 1.87,
-      "dayLow": 1.87,
-      "dayHigh": 1.99,
-      "fiftyTwoWeekLow": 1.31,
-      "fiftyTwoWeekHigh": 3.52,
-      "fiftyDayAverage": 1.99,
-      "twoHundredDayAverage": 2.09,
-      "volume": "34,581,827",
-      "averageVolume": 34106052,
-      "averageVolume10days": 41979022,
-      "marketCap": 1244849920,
-      "enterpriseValue": 1244586624,
-      "sharesOutstanding": 645000000,
-      "sector": "Financial Services",
-      "industry": "Asset Management",
-      "website": "https://www.yesilyatirimholding.com",
-      "address": "Maltepe Mahallesi",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 483 01 07",
-      "description": "Yesil Yatirim Holding Anonim Sirketi provides technical planning, programming, budgeting, and project planning, and financial organization. The company also offers real estate valuation services; and investment and research services in the commercial, industrial, and financial areas. In addition, it engages in distributing, trading, marketing, and communicating information on the internet and online systems; construction works; and establishment and operation of facilities to produce electrical energy from methane gas, with two power plants in Istanbul and a total electricity generation capacity of 43,377 MW. The company was incorporated in 2003 and is headquartered in Istanbul, Turkey.",
-      "pe": 7.1481476,
-      "forwardPE": null,
-      "priceToBook": 1.0190073,
-      "pegRatio": null,
-      "priceToSales": 21.426893,
-      "enterpriseToRevenue": 21.422,
-      "enterpriseToEbitda": null,
-      "profitMargins": -1.64308,
-      "grossMargins": 1.0,
-      "operatingMargins": 0.95208,
-      "returnOnAssets": 0.03068,
-      "returnOnEquity": -0.08515,
-      "totalRevenue": 58097544,
-      "revenuePerShare": 0.09,
-      "totalCash": 263392,
-      "totalDebt": 0,
-      "debtToEquity": null,
-      "currentRatio": 17.172,
-      "quickRatio": 16.907,
-      "eps": 0.27,
-      "forwardEps": null,
-      "bookValue": 1.894,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 1.65,
-      "historicalData": [
-        {
-          "Close": 1.8300000429153442,
-          "Volume": 19832557
-        },
-        {
-          "Close": 1.8300000429153442,
-          "Volume": 15958331
-        },
-        {
-          "Close": 1.809999942779541,
-          "Volume": 12441375
-        },
-        {
-          "Close": 1.840000033378601,
-          "Volume": 17388578
-        },
-        {
-          "Close": 1.8700000047683716,
-          "Volume": 34236020
-        },
-        {
-          "Close": 1.8300000429153442,
-          "Volume": 20321380
-        },
-        {
-          "Close": 1.840000033378601,
-          "Volume": 12840191
-        },
-        {
-          "Close": 2.0199999809265137,
-          "Volume": 109675581
-        },
-        {
-          "Close": 2.119999885559082,
-          "Volume": 101965233
-        },
-        {
-          "Close": 2.0299999713897705,
-          "Volume": 70020524
-        },
-        {
-          "Close": 2.0299999713897705,
-          "Volume": 74918604
-        },
-        {
-          "Close": 2.0999999046325684,
-          "Volume": 68715766
-        },
-        {
-          "Close": 2.049999952316284,
-          "Volume": 35912648
-        },
-        {
-          "Close": 2.0399999618530273,
-          "Volume": 46094498
-        },
-        {
-          "Close": 1.9900000095367432,
-          "Volume": 18160872
-        },
-        {
-          "Close": 1.9900000095367432,
-          "Volume": 17750449
-        },
-        {
-          "Close": 1.899999976158142,
-          "Volume": 38326514
-        },
-        {
-          "Close": 1.8899999856948853,
-          "Volume": 19299233
-        },
-        {
-          "Close": 1.940000057220459,
-          "Volume": 73301464
-        },
-        {
-          "Close": 1.9500000476837158,
-          "Volume": 69211026
-        },
-        {
-          "Close": 2.0,
-          "Volume": 36405770
-        },
-        {
-          "Close": 1.9800000190734863,
-          "Volume": 50387713
-        },
-        {
-          "Close": 1.9700000286102295,
-          "Volume": 25002045
-        },
-        {
-          "Close": 2.0,
-          "Volume": 26353224
-        },
-        {
-          "Close": 2.0,
-          "Volume": 53545073
-        },
-        {
-          "Close": 2.069999933242798,
-          "Volume": 100290837
-        },
-        {
-          "Close": 2.009999990463257,
-          "Volume": 38643154
-        },
-        {
-          "Close": 1.9500000476837158,
-          "Volume": 35844083
-        },
-        {
-          "Close": 1.8600000143051147,
-          "Volume": 18736496
-        },
-        {
-          "Close": 1.9299999475479126,
-          "Volume": 34581827
-        }
-      ],
-      "heldPercentInsiders": 0.08055,
-      "heldPercentInstitutions": 0.047810003
-    },
-    {
-      "code": "YEOTK",
-      "symbol": "YEOTK.IS",
-      "name": "Yeo Teknoloji Enerji Ve Endustri Anonim Sirketi",
-      "shortName": "YEO TEKNOLOJI ENERJI",
-      "price": 39.8,
-      "change": 1.36,
-      "changeRate": 3.54,
-      "previousClose": 38.44,
-      "open": 38.86,
-      "dayLow": 38.7,
-      "dayHigh": 40.98,
-      "fiftyTwoWeekLow": 32.3,
-      "fiftyTwoWeekHigh": 61.1,
-      "fiftyDayAverage": 39.62,
-      "twoHundredDayAverage": 38.32,
-      "volume": "8,766,340",
-      "averageVolume": 7005576,
-      "averageVolume10days": 7749253,
-      "marketCap": 14128999424,
-      "enterpriseValue": 19919306752,
-      "sharesOutstanding": 355000000,
-      "sector": "Industrials",
-      "industry": "Engineering & Construction",
-      "website": "https://www.yeo.com.tr",
-      "address": "Esentepe Mah.",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 216 494 26 76",
-      "description": "Yeo Teknoloji Enerji Ve Endustri Anonim Sirketi engages in the design, engineering, procurement, integration, installation, and commissioning of automation, electrification, and digitization solutions in Turkey and internationally. It offers turnkey construction services comprising engineering, procurement, construction, assembly, testing, and commissioning processes for air and gas-insulated high-voltage substations and transmission lines; wind energy services in the fields of electrification, control systems, and construction; engages in the energy investment business; engineering, procurement, construction, and finance solutions; and end-to-end solutions for renewable energy. It also undertakes solar projects. In addition, it engages in energy storage and battery production business. The company was founded in 2004 and is based in Istanbul, Turkey.",
-      "pe": 7.4115458,
-      "forwardPE": null,
-      "priceToBook": 4.24307,
-      "pegRatio": null,
-      "priceToSales": 1.3332938,
-      "enterpriseToRevenue": 1.88,
-      "enterpriseToEbitda": 12.116,
-      "profitMargins": 0.07106,
-      "grossMargins": 0.23035,
-      "operatingMargins": 0.18172,
-      "returnOnAssets": 0.0669,
-      "returnOnEquity": 0.28893998,
-      "totalRevenue": 10597063680,
-      "revenuePerShare": 65.995,
-      "totalCash": 868425152,
-      "totalDebt": 6301008896,
-      "debtToEquity": 170.876,
-      "currentRatio": 1.186,
-      "quickRatio": 0.796,
-      "eps": 5.37,
-      "forwardEps": null,
-      "bookValue": 9.38,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1658102400,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.116,
-      "historicalData": [
-        {
-          "Close": 35.7599983215332,
-          "Volume": 6242798
-        },
-        {
-          "Close": 37.70000076293945,
-          "Volume": 6804124
-        },
-        {
-          "Close": 37.599998474121094,
-          "Volume": 9348307
-        },
-        {
-          "Close": 39.400001525878906,
-          "Volume": 7763112
-        },
-        {
-          "Close": 40.400001525878906,
-          "Volume": 11553168
-        },
-        {
-          "Close": 41.13999938964844,
-          "Volume": 11027380
-        },
-        {
-          "Close": 40.2599983215332,
-          "Volume": 9078840
-        },
-        {
-          "Close": 38.58000183105469,
-          "Volume": 8702776
-        },
-        {
-          "Close": 39.91999816894531,
-          "Volume": 7874899
-        },
-        {
-          "Close": 43.459999084472656,
-          "Volume": 19789618
-        },
-        {
-          "Close": 44.099998474121094,
-          "Volume": 15560085
-        },
-        {
-          "Close": 43.400001525878906,
-          "Volume": 10896712
-        },
-        {
-          "Close": 43.779998779296875,
-          "Volume": 8060581
-        },
-        {
-          "Close": 44.29999923706055,
-          "Volume": 12162678
-        },
-        {
-          "Close": 43.5,
-          "Volume": 6955305
-        },
-        {
-          "Close": 44.0,
-          "Volume": 13785386
-        },
-        {
-          "Close": 44.099998474121094,
-          "Volume": 6667807
-        },
-        {
-          "Close": 44.099998474121094,
-          "Volume": 14933968
-        },
-        {
-          "Close": 42.040000915527344,
-          "Volume": 8960741
-        },
-        {
-          "Close": 41.619998931884766,
-          "Volume": 6657625
-        },
-        {
-          "Close": 41.47999954223633,
-          "Volume": 5874833
-        },
-        {
-          "Close": 40.779998779296875,
-          "Volume": 5459607
-        },
-        {
-          "Close": 41.18000030517578,
-          "Volume": 5812111
-        },
-        {
-          "Close": 42.599998474121094,
-          "Volume": 7835858
-        },
-        {
-          "Close": 42.65999984741211,
-          "Volume": 7908823
-        },
-        {
-          "Close": 44.119998931884766,
-          "Volume": 8545464
-        },
-        {
-          "Close": 43.34000015258789,
-          "Volume": 7855199
-        },
-        {
-          "Close": 41.31999969482422,
-          "Volume": 10637158
-        },
-        {
-          "Close": 38.439998626708984,
-          "Volume": 8797144
-        },
-        {
-          "Close": 39.79999923706055,
-          "Volume": 8766340
-        }
-      ],
-      "heldPercentInsiders": 0.6077,
-      "heldPercentInstitutions": 0.017760001
-    },
-    {
-      "code": "YGGYO",
-      "symbol": "YGGYO.IS",
-      "name": "Yeni Gimat Gayrimenkul Yatirim Ortakligi A.S.",
-      "shortName": "YENI GIMAT GMYO",
-      "price": 153.6,
-      "change": -1.4,
-      "changeRate": -0.9,
-      "previousClose": 155.0,
-      "open": 156.0,
-      "dayLow": 152.5,
-      "dayHigh": 156.4,
-      "fiftyTwoWeekLow": 66.15,
-      "fiftyTwoWeekHigh": 165.1,
-      "fiftyDayAverage": 136.85,
-      "twoHundredDayAverage": 113.18,
-      "volume": "80,130",
-      "averageVolume": 129650,
-      "averageVolume10days": 203629,
-      "marketCap": 35901444096,
-      "enterpriseValue": 32809535488,
-      "sharesOutstanding": 233582013,
-      "sector": "Real Estate",
-      "industry": "REIT - Retail",
-      "website": "https://www.yenigimatgyo.com.tr",
-      "address": "Mevlana Bulvari No:2/A",
-      "city": "Ankara",
-      "country": "Turkey",
-      "phone": "90 312 541 14 71",
-      "description": "Yeni Gimat Gayrimenkul Yatirim Ortakligi A.S. is a real estate investment trust. Yeni Gimat Gayrimenkul Yatirim Ortakligi A.S. is based in Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 1.9428775,
-      "pegRatio": null,
-      "priceToSales": 17.746603,
-      "enterpriseToRevenue": 16.218,
-      "enterpriseToEbitda": 20.596,
-      "profitMargins": -0.28448,
-      "grossMargins": 0.80227,
-      "operatingMargins": 0.74546,
-      "returnOnAssets": 0.04517,
-      "returnOnEquity": -0.03155,
-      "totalRevenue": 2023003648,
-      "revenuePerShare": 8.64,
-      "totalCash": 3780613120,
-      "totalDebt": 711952064,
-      "debtToEquity": 3.855,
-      "currentRatio": 8.472,
-      "quickRatio": 8.327,
-      "eps": -2.43,
-      "forwardEps": null,
-      "bookValue": 79.058,
-      "dividendRate": 7.0,
-      "dividendYield": 4.56,
-      "exDividendDate": 1744675200,
-      "payoutRatio": 0.109799996,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.312,
-      "historicalData": [
-        {
-          "Close": 130.1999969482422,
-          "Volume": 207885
-        },
-        {
-          "Close": 128.0,
-          "Volume": 86404
-        },
-        {
-          "Close": 128.1999969482422,
-          "Volume": 142772
-        },
-        {
-          "Close": 131.89999389648438,
-          "Volume": 116769
-        },
-        {
-          "Close": 131.0,
-          "Volume": 191558
-        },
-        {
-          "Close": 130.5,
-          "Volume": 58136
-        },
-        {
-          "Close": 133.3000030517578,
-          "Volume": 333822
-        },
-        {
-          "Close": 130.10000610351562,
-          "Volume": 146721
-        },
-        {
-          "Close": 133.39999389648438,
-          "Volume": 138534
-        },
-        {
-          "Close": 133.6999969482422,
-          "Volume": 167931
-        },
-        {
-          "Close": 135.0,
-          "Volume": 104944
-        },
-        {
-          "Close": 135.1999969482422,
-          "Volume": 93790
-        },
-        {
-          "Close": 138.89999389648438,
-          "Volume": 190709
-        },
-        {
-          "Close": 137.1999969482422,
-          "Volume": 88146
-        },
-        {
-          "Close": 139.60000610351562,
-          "Volume": 202091
-        },
-        {
-          "Close": 139.89999389648438,
-          "Volume": 145799
-        },
-        {
-          "Close": 139.60000610351562,
-          "Volume": 91644
-        },
-        {
-          "Close": 140.89999389648438,
-          "Volume": 108255
-        },
-        {
-          "Close": 143.10000610351562,
-          "Volume": 160735
-        },
-        {
-          "Close": 145.1999969482422,
-          "Volume": 84908
-        },
-        {
-          "Close": 153.39999389648438,
-          "Volume": 443355
-        },
-        {
-          "Close": 153.6999969482422,
-          "Volume": 176288
-        },
-        {
-          "Close": 154.10000610351562,
-          "Volume": 92256
-        },
-        {
-          "Close": 154.10000610351562,
-          "Volume": 144819
-        },
-        {
-          "Close": 161.0,
-          "Volume": 246073
-        },
-        {
-          "Close": 163.6999969482422,
-          "Volume": 190495
-        },
-        {
-          "Close": 164.89999389648438,
-          "Volume": 142986
-        },
-        {
-          "Close": 161.3000030517578,
-          "Volume": 276982
-        },
-        {
-          "Close": 155.0,
-          "Volume": 242906
-        },
-        {
-          "Close": 153.60000610351562,
-          "Volume": 80130
-        }
-      ],
-      "heldPercentInsiders": 0.2,
-      "heldPercentInstitutions": 0.036229998
-    },
-    {
-      "code": "YGYO",
-      "symbol": "YGYO.IS",
-      "name": "Yesil Gayrimenkul Yatirim Ortakligi A.S.",
-      "shortName": "YESIL GMYO",
-      "price": 1.8,
-      "change": 0.0,
-      "changeRate": 0.0,
-      "previousClose": 1.8,
-      "open": 2.0,
-      "dayLow": 1.8,
-      "dayHigh": 2.0,
-      "fiftyTwoWeekLow": 0.88,
-      "fiftyTwoWeekHigh": 2.2,
-      "fiftyDayAverage": 1.52,
-      "twoHundredDayAverage": 1.44,
-      "volume": "0",
-      "averageVolume": 2859415,
-      "averageVolume10days": 0,
-      "marketCap": 2368952064,
-      "enterpriseValue": 3933580544,
-      "sharesOutstanding": 1316084515,
-      "sector": "Real Estate",
-      "industry": "REIT - Diversified",
-      "website": "https://www.yesilgyo.com",
-      "address": "Yesil Plaza",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 709 37 45",
-      "description": "Ihlas Gayrimenkul Yatirim Ortakligi A.S. is a publicly owned real estate investment firm. The firm invests in real estate, real estate projects, real estate backed rights, real estate backed capital market instruments, and capital markets. Ihlas Gayrimenkul Yatirim Ortakligi was founded in December 1997 and is based in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 0.19518542,
-      "pegRatio": null,
-      "priceToSales": -0.63254315,
-      "enterpriseToRevenue": -1.05,
-      "enterpriseToEbitda": -1.101,
-      "profitMargins": 0.0,
-      "grossMargins": 0.0,
-      "operatingMargins": 1.04754,
-      "returnOnAssets": -0.116569996,
-      "returnOnEquity": -0.42181,
-      "totalRevenue": -3745123328,
-      "revenuePerShare": -2.846,
-      "totalCash": 919710,
-      "totalDebt": 1533185792,
-      "debtToEquity": 12.598,
-      "currentRatio": 4.701,
-      "quickRatio": 0.084,
-      "eps": -4.14,
-      "forwardEps": null,
-      "bookValue": 9.222,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 1.487,
-      "historicalData": [
-        {
-          "Close": 1.2799999713897705,
-          "Volume": 1900179
-        },
-        {
-          "Close": 1.2400000095367432,
-          "Volume": 3905103
-        },
-        {
-          "Close": 1.2400000095367432,
-          "Volume": 3773238
-        },
-        {
-          "Close": 1.2599999904632568,
-          "Volume": 3337759
-        },
-        {
-          "Close": 1.2300000190734863,
-          "Volume": 2013495
-        },
-        {
-          "Close": 1.2100000381469727,
-          "Volume": 3176368
-        },
-        {
-          "Close": 1.190000057220459,
-          "Volume": 3555093
-        },
-        {
-          "Close": 1.2999999523162842,
-          "Volume": 5349584
-        },
-        {
-          "Close": 1.4299999475479126,
-          "Volume": 7140016
-        },
-        {
-          "Close": 1.4500000476837158,
-          "Volume": 5848218
-        },
-        {
-          "Close": 1.590000033378601,
-          "Volume": 7874704
-        },
-        {
-          "Close": 1.7400000095367432,
-          "Volume": 8083298
-        },
-        {
-          "Close": 1.899999976158142,
-          "Volume": 15000377
-        },
-        {
-          "Close": 2.0,
-          "Volume": 12256494
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 6278318
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        }
-      ],
-      "heldPercentInsiders": 0.16687,
-      "heldPercentInstitutions": 0.00092
-    },
-    {
-      "code": "YKSLN",
-      "symbol": "YKSLN.IS",
-      "name": "Yukselen Celik Anonim Sirketi",
-      "shortName": "YUKSELEN CELIK",
-      "price": 3.22,
-      "change": 0.03,
-      "changeRate": 0.94,
-      "previousClose": 3.19,
-      "open": 3.19,
-      "dayLow": 3.18,
-      "dayHigh": 3.24,
-      "fiftyTwoWeekLow": 3.03,
-      "fiftyTwoWeekHigh": 9.39,
-      "fiftyDayAverage": 3.27,
-      "twoHundredDayAverage": 4.91,
-      "volume": "7,840,227",
-      "averageVolume": 15680853,
-      "averageVolume10days": 15812693,
-      "marketCap": 1610000000,
-      "enterpriseValue": 1631816576,
-      "sharesOutstanding": 500000000,
-      "sector": "Basic Materials",
-      "industry": "Steel",
-      "website": "https://www.yukselen.com",
-      "address": "Osmangazi Mahallesi 2647",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "",
-      "description": "Yukselen Celik Anonim Sirketi manufactures and sells steel products in Turkey and internationally. The company is involved in carbon, manufacturing, construction, alloyed and unalloyed, tool stainless, qualified and unskilled all kinds of carbon, tool stainless, skilled, and railway industries. The company was formerly known as Yukselen Celik Ticaret Limited Sirketi and changed its name to Yukselen Celik Anonim Sirketi in January 2013. Yukselen Celik Anonim Sirketi was founded in 1989 and is based in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 1.474359,
-      "pegRatio": null,
-      "priceToSales": 1.9995053,
-      "enterpriseToRevenue": 2.027,
-      "enterpriseToEbitda": null,
-      "profitMargins": -0.16072,
-      "grossMargins": 0.37695998,
-      "operatingMargins": 0.17502001,
-      "returnOnAssets": 0.05368,
-      "returnOnEquity": -0.22779,
-      "totalRevenue": 805199168,
-      "revenuePerShare": 3.221,
-      "totalCash": 26109108,
-      "totalDebt": 852925632,
-      "debtToEquity": 156.195,
-      "currentRatio": 1.028,
-      "quickRatio": 0.381,
-      "eps": -0.67,
-      "forwardEps": null,
-      "bookValue": 2.184,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1697500800,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.284,
-      "historicalData": [
-        {
-          "Close": 3.140000104904175,
-          "Volume": 9256390
-        },
-        {
-          "Close": 3.1600000858306885,
-          "Volume": 7951415
-        },
-        {
-          "Close": 3.140000104904175,
-          "Volume": 6700586
-        },
-        {
-          "Close": 3.130000114440918,
-          "Volume": 11551846
-        },
-        {
-          "Close": 3.140000104904175,
-          "Volume": 7723815
-        },
-        {
-          "Close": 3.1500000953674316,
-          "Volume": 8605693
-        },
-        {
-          "Close": 3.109999895095825,
-          "Volume": 24271641
-        },
-        {
-          "Close": 3.0899999141693115,
-          "Volume": 6484906
-        },
-        {
-          "Close": 3.1500000953674316,
-          "Volume": 7862492
-        },
-        {
-          "Close": 3.1600000858306885,
-          "Volume": 10432128
-        },
-        {
-          "Close": 3.180000066757202,
-          "Volume": 10312151
-        },
-        {
-          "Close": 3.2200000286102295,
-          "Volume": 10552442
-        },
-        {
-          "Close": 3.259999990463257,
-          "Volume": 20054470
-        },
-        {
-          "Close": 3.3399999141693115,
-          "Volume": 49678158
-        },
-        {
-          "Close": 3.4200000762939453,
-          "Volume": 17914414
-        },
-        {
-          "Close": 3.5999999046325684,
-          "Volume": 60554571
-        },
-        {
-          "Close": 3.5999999046325684,
-          "Volume": 64676560
-        },
-        {
-          "Close": 3.440000057220459,
-          "Volume": 30701989
-        },
-        {
-          "Close": 3.299999952316284,
-          "Volume": 18987281
-        },
-        {
-          "Close": 3.240000009536743,
-          "Volume": 12172533
-        },
-        {
-          "Close": 3.2200000286102295,
-          "Volume": 14529500
-        },
-        {
-          "Close": 3.25,
-          "Volume": 12767716
-        },
-        {
-          "Close": 3.240000009536743,
-          "Volume": 12601440
-        },
-        {
-          "Close": 3.2699999809265137,
-          "Volume": 10115078
-        },
-        {
-          "Close": 3.299999952316284,
-          "Volume": 12203310
-        },
-        {
-          "Close": 3.4600000381469727,
-          "Volume": 26019153
-        },
-        {
-          "Close": 3.5299999713897705,
-          "Volume": 29748073
-        },
-        {
-          "Close": 3.380000114440918,
-          "Volume": 17626930
-        },
-        {
-          "Close": 3.190000057220459,
-          "Volume": 14675512
-        },
-        {
-          "Close": 3.2200000286102295,
-          "Volume": 7840227
-        }
-      ],
-      "heldPercentInsiders": 0.30387,
-      "heldPercentInstitutions": 0.0
-    },
-    {
       "code": "YUNSA",
       "symbol": "YUNSA.IS",
       "name": "Yünsa Yünlü Sanayi ve Ticaret A.S.",
@@ -94001,7 +92489,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.76,
       "historicalData": [
         {
           "Close": 10.6899995803833,
@@ -94315,452 +92803,6 @@
       ],
       "heldPercentInsiders": 0.6,
       "heldPercentInstitutions": 0.0
-    },
-    {
-      "code": "ZELOT",
-      "symbol": "ZELOT.IS",
-      "name": "ZIRAAT PORTFOY BIST 50-30 HY BY",
-      "shortName": "ZIRAAT PORTFOY BIST 50-30 HY BY",
-      "price": 130.4,
-      "change": 0.0,
-      "changeRate": 0.0,
-      "previousClose": 130.4,
-      "open": 128.9,
-      "dayLow": 127.9,
-      "dayHigh": 130.4,
-      "fiftyTwoWeekLow": 127.9,
-      "fiftyTwoWeekHigh": 130.4,
-      "fiftyDayAverage": 130.4,
-      "twoHundredDayAverage": 130.4,
-      "volume": "1,967",
-      "averageVolume": 1967,
-      "averageVolume10days": 1967,
-      "marketCap": 0,
-      "enterpriseValue": 0,
-      "sharesOutstanding": 0,
-      "sector": "Diğer",
-      "industry": "",
-      "website": "",
-      "address": "",
-      "city": "",
-      "country": "Turkey",
-      "phone": "",
-      "description": "",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": null,
-      "pegRatio": null,
-      "priceToSales": null,
-      "enterpriseToRevenue": null,
-      "enterpriseToEbitda": null,
-      "profitMargins": null,
-      "grossMargins": null,
-      "operatingMargins": null,
-      "returnOnAssets": null,
-      "returnOnEquity": null,
-      "totalRevenue": null,
-      "revenuePerShare": null,
-      "totalCash": null,
-      "totalDebt": null,
-      "debtToEquity": null,
-      "currentRatio": null,
-      "quickRatio": null,
-      "eps": null,
-      "forwardEps": null,
-      "bookValue": null,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "",
-      "numberOfAnalystOpinions": 0,
-      "beta": null,
-      "historicalData": [],
-      "heldPercentInsiders": null,
-      "heldPercentInstitutions": null
-    },
-    {
-      "code": "ZOREN",
-      "symbol": "ZOREN.IS",
-      "name": "Zorlu Enerji Elektrik Üretim A.S.",
-      "shortName": "ZORLU ENERJI",
-      "price": 3.46,
-      "change": 0.02,
-      "changeRate": 0.58,
-      "previousClose": 3.44,
-      "open": 3.44,
-      "dayLow": 3.39,
-      "dayHigh": 3.49,
-      "fiftyTwoWeekLow": 2.8,
-      "fiftyTwoWeekHigh": 4.43,
-      "fiftyDayAverage": 3.23,
-      "twoHundredDayAverage": 3.32,
-      "volume": "43,136,224",
-      "averageVolume": 67121230,
-      "averageVolume10days": 79454833,
-      "marketCap": 17300000768,
-      "enterpriseValue": 68301934592,
-      "sharesOutstanding": 5000000000,
-      "sector": "Utilities",
-      "industry": "Utilities - Diversified",
-      "website": "https://www.zorluenerji.com.tr",
-      "address": "Buyukdere Street No:199",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 456 23 00",
-      "description": "Zorlu Enerji Elektrik Üretim A.S., together with its subsidiaries, engages in the production, generation, transmission, distribution, and trading of electricity and natural gas in Turkey and internationally. It sells and installs solar panels; rents electric vehicles; and sells, installs, and operates power stations, as well as engages in electric vehicle charging activities. The company also engages in geothermal, wind, and hydroelectric power plants electricity generation. In addition, it carries out engineering, procurement, and construction work with turnkey projects. Zorlu Enerji Elektrik Üretim A.S. was founded in 1993 and is based in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": -4.9428573,
-      "priceToBook": 0.24357621,
-      "pegRatio": null,
-      "priceToSales": 0.65069276,
-      "enterpriseToRevenue": 2.569,
-      "enterpriseToEbitda": 10.172,
-      "profitMargins": -0.3443,
-      "grossMargins": 0.14673,
-      "operatingMargins": 0.18252,
-      "returnOnAssets": 0.0089,
-      "returnOnEquity": -0.13229,
-      "totalRevenue": 26587049984,
-      "revenuePerShare": 5.342,
-      "totalCash": 5920567808,
-      "totalDebt": 57002557440,
-      "debtToEquity": 80.63,
-      "currentRatio": 0.895,
-      "quickRatio": 0.809,
-      "eps": -1.72,
-      "forwardEps": null,
-      "bookValue": 14.205,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1119571200,
-      "payoutRatio": 0.0,
-      "targetHighPrice": 5.02,
-      "targetLowPrice": 4.3,
-      "targetMeanPrice": 4.66,
-      "targetMedianPrice": 4.66,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 2,
-      "beta": 0.017,
-      "historicalData": [
-        {
-          "Close": 3.059999942779541,
-          "Volume": 46586134
-        },
-        {
-          "Close": 3.069999933242798,
-          "Volume": 94550389
-        },
-        {
-          "Close": 3.0299999713897705,
-          "Volume": 66822211
-        },
-        {
-          "Close": 3.0899999141693115,
-          "Volume": 64808720
-        },
-        {
-          "Close": 3.119999885559082,
-          "Volume": 79800580
-        },
-        {
-          "Close": 3.109999895095825,
-          "Volume": 66433651
-        },
-        {
-          "Close": 3.0799999237060547,
-          "Volume": 47621882
-        },
-        {
-          "Close": 3.049999952316284,
-          "Volume": 38705522
-        },
-        {
-          "Close": 3.0899999141693115,
-          "Volume": 53162537
-        },
-        {
-          "Close": 3.1500000953674316,
-          "Volume": 87060340
-        },
-        {
-          "Close": 3.2200000286102295,
-          "Volume": 130957000
-        },
-        {
-          "Close": 3.1600000858306885,
-          "Volume": 93869780
-        },
-        {
-          "Close": 3.2100000381469727,
-          "Volume": 88292707
-        },
-        {
-          "Close": 3.2699999809265137,
-          "Volume": 125636437
-        },
-        {
-          "Close": 3.299999952316284,
-          "Volume": 97110424
-        },
-        {
-          "Close": 3.259999990463257,
-          "Volume": 93649658
-        },
-        {
-          "Close": 3.380000114440918,
-          "Volume": 131495381
-        },
-        {
-          "Close": 3.5199999809265137,
-          "Volume": 291441636
-        },
-        {
-          "Close": 3.440000057220459,
-          "Volume": 117965032
-        },
-        {
-          "Close": 3.4200000762939453,
-          "Volume": 81671968
-        },
-        {
-          "Close": 3.549999952316284,
-          "Volume": 83637916
-        },
-        {
-          "Close": 3.5399999618530273,
-          "Volume": 127441311
-        },
-        {
-          "Close": 3.4700000286102295,
-          "Volume": 66356222
-        },
-        {
-          "Close": 3.5799999237060547,
-          "Volume": 67011926
-        },
-        {
-          "Close": 3.6500000953674316,
-          "Volume": 78589922
-        },
-        {
-          "Close": 3.680000066757202,
-          "Volume": 80702505
-        },
-        {
-          "Close": 3.690000057220459,
-          "Volume": 117346071
-        },
-        {
-          "Close": 3.5799999237060547,
-          "Volume": 79525411
-        },
-        {
-          "Close": 3.440000057220459,
-          "Volume": 50800825
-        },
-        {
-          "Close": 3.4600000381469727,
-          "Volume": 43136224
-        }
-      ],
-      "heldPercentInsiders": 0.622,
-      "heldPercentInstitutions": 0.043070003
-    },
-    {
-      "code": "ZRGYO",
-      "symbol": "ZRGYO.IS",
-      "name": "Ziraat Gayrimenkul Yatirim Ortakligi A.S.",
-      "shortName": "ZIRAAT GMYO",
-      "price": 22.7,
-      "change": 0.2,
-      "changeRate": 0.89,
-      "previousClose": 22.5,
-      "open": 22.86,
-      "dayLow": 22.5,
-      "dayHigh": 22.9,
-      "fiftyTwoWeekLow": 16.31,
-      "fiftyTwoWeekHigh": 29.5,
-      "fiftyDayAverage": 23.41,
-      "twoHundredDayAverage": 23.5,
-      "volume": "702,035",
-      "averageVolume": 1312328,
-      "averageVolume10days": 1313205,
-      "marketCap": 106545184768,
-      "enterpriseValue": 113331478528,
-      "sharesOutstanding": 4693620000,
-      "sector": "Real Estate",
-      "industry": "REIT - Diversified",
-      "website": "https://www.ziraatgyo.com.tr",
-      "address": "Sahrayi Cedit Mahallesi",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 216 369 77 72",
-      "description": "Ziraat Gayrimenkul Yatirim Ortakligi A.S. operates as a real estate investment company in Turkey. Its portfolio consists of office building, and hotel and housing investments. The company was founded in 2016 and is based in Istanbul, Turkey.",
-      "pe": 21.214952,
-      "forwardPE": null,
-      "priceToBook": 1.4919487,
-      "pegRatio": null,
-      "priceToSales": 28.899967,
-      "enterpriseToRevenue": 30.741,
-      "enterpriseToEbitda": 57.929,
-      "profitMargins": 1.36705,
-      "grossMargins": 0.68991,
-      "operatingMargins": 0.87349,
-      "returnOnAssets": 0.017719999,
-      "returnOnEquity": 0.08335,
-      "totalRevenue": 3686688768,
-      "revenuePerShare": 0.785,
-      "totalCash": 367217536,
-      "totalDebt": 7153520640,
-      "debtToEquity": 10.017,
-      "currentRatio": 0.519,
-      "quickRatio": 0.145,
-      "eps": 1.07,
-      "forwardEps": null,
-      "bookValue": 15.215,
-      "dividendRate": 0.06,
-      "dividendYield": 0.27,
-      "exDividendDate": 1759190400,
-      "payoutRatio": 0.056900002,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.158,
-      "historicalData": [
-        {
-          "Close": 24.0,
-          "Volume": 2743646
-        },
-        {
-          "Close": 24.34000015258789,
-          "Volume": 2133274
-        },
-        {
-          "Close": 24.559999465942383,
-          "Volume": 1252517
-        },
-        {
-          "Close": 24.020000457763672,
-          "Volume": 975723
-        },
-        {
-          "Close": 23.860000610351562,
-          "Volume": 2838064
-        },
-        {
-          "Close": 24.5,
-          "Volume": 3055704
-        },
-        {
-          "Close": 24.520000457763672,
-          "Volume": 2104483
-        },
-        {
-          "Close": 24.200000762939453,
-          "Volume": 955669
-        },
-        {
-          "Close": 24.579999923706055,
-          "Volume": 1862782
-        },
-        {
-          "Close": 24.780000686645508,
-          "Volume": 5048153
-        },
-        {
-          "Close": 24.559999465942383,
-          "Volume": 1469797
-        },
-        {
-          "Close": 24.6200008392334,
-          "Volume": 2309915
-        },
-        {
-          "Close": 24.459999084472656,
-          "Volume": 1024882
-        },
-        {
-          "Close": 24.5,
-          "Volume": 1449820
-        },
-        {
-          "Close": 23.81999969482422,
-          "Volume": 1416722
-        },
-        {
-          "Close": 23.84000015258789,
-          "Volume": 1505998
-        },
-        {
-          "Close": 23.15999984741211,
-          "Volume": 1975455
-        },
-        {
-          "Close": 23.0,
-          "Volume": 1259111
-        },
-        {
-          "Close": 22.540000915527344,
-          "Volume": 1305724
-        },
-        {
-          "Close": 22.479999542236328,
-          "Volume": 886338
-        },
-        {
-          "Close": 22.639999389648438,
-          "Volume": 1045601
-        },
-        {
-          "Close": 23.239999771118164,
-          "Volume": 1962608
-        },
-        {
-          "Close": 23.200000762939453,
-          "Volume": 1430396
-        },
-        {
-          "Close": 23.260000228881836,
-          "Volume": 1267223
-        },
-        {
-          "Close": 23.200000762939453,
-          "Volume": 1118593
-        },
-        {
-          "Close": 23.280000686645508,
-          "Volume": 1068591
-        },
-        {
-          "Close": 23.1200008392334,
-          "Volume": 1586114
-        },
-        {
-          "Close": 23.200000762939453,
-          "Volume": 1597832
-        },
-        {
-          "Close": 22.5,
-          "Volume": 1353059
-        },
-        {
-          "Close": 22.700000762939453,
-          "Volume": 702035
-        }
-      ],
-      "heldPercentInsiders": 0.81058997,
-      "heldPercentInstitutions": 0.17165
     }
   ]
 }
