@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-23T20:02:20.140297",
+  "last_update": "2026-02-23T21:00:49.404061",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 502,
   "successful": 502,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 44.345432,
-      "targetLowPrice": 31.418653,
-      "targetMeanPrice": 37.347004,
-      "targetMedianPrice": 38.29833,
+      "targetHighPrice": 44.35515,
+      "targetLowPrice": 31.425537,
+      "targetMeanPrice": 37.35519,
+      "targetMedianPrice": 38.30672,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -3418,7 +3418,7 @@
       "previousClose": 46.0,
       "open": 46.5,
       "dayLow": 46.12,
-      "dayHigh": 47.38,
+      "dayHigh": 47.42,
       "fiftyTwoWeekLow": 31.94,
       "fiftyTwoWeekHigh": 50.9,
       "fiftyDayAverage": 42.06,
@@ -3607,7 +3607,7 @@
       "previousClose": 120.5,
       "open": 121.1,
       "dayLow": 120.8,
-      "dayHigh": 124.8,
+      "dayHigh": 124.9,
       "fiftyTwoWeekLow": 99.65,
       "fiftyTwoWeekHigh": 152.4,
       "fiftyDayAverage": 114.04,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.1,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 580.0059,
-      "targetLowPrice": 408.4913,
-      "targetMeanPrice": 468.53693,
-      "targetMedianPrice": 460.38,
+      "targetHighPrice": 579.94244,
+      "targetLowPrice": 408.4466,
+      "targetMeanPrice": 468.48563,
+      "targetMedianPrice": 460.32962,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -10411,7 +10411,7 @@
       "previousClose": 95.05,
       "open": 95.05,
       "dayLow": 95.05,
-      "dayHigh": 98.0,
+      "dayHigh": 98.05,
       "fiftyTwoWeekLow": 66.25,
       "fiftyTwoWeekHigh": 104.0,
       "fiftyDayAverage": 88.76,
@@ -14757,7 +14757,7 @@
       "changeRate": -1.86,
       "previousClose": 42.0,
       "open": 42.42,
-      "dayLow": 40.5,
+      "dayLow": 40.3,
       "dayHigh": 43.9,
       "fiftyTwoWeekLow": 23.88,
       "fiftyTwoWeekHigh": 48.78,
@@ -16081,7 +16081,7 @@
       "previousClose": 59.25,
       "open": 59.9,
       "dayLow": 59.75,
-      "dayHigh": 61.45,
+      "dayHigh": 61.5,
       "fiftyTwoWeekLow": 33.88,
       "fiftyTwoWeekHigh": 64.8,
       "fiftyDayAverage": 56.55,
@@ -19488,7 +19488,7 @@
       "fiftyTwoWeekHigh": 20.22,
       "fiftyDayAverage": 4.89,
       "twoHundredDayAverage": 7.72,
-      "volume": "11,146,544",
+      "volume": "11,146,540",
       "averageVolume": 15881943,
       "averageVolume10days": 18244111,
       "marketCap": 3789750016,
@@ -19655,7 +19655,7 @@
         },
         {
           "Close": 4.650000095367432,
-          "Volume": 11146544
+          "Volume": 11146540
         }
       ],
       "heldPercentInsiders": 0.64742,
@@ -21756,7 +21756,7 @@
       "fiftyTwoWeekHigh": 33.16,
       "fiftyDayAverage": 3.42,
       "twoHundredDayAverage": 15.83,
-      "volume": "13,048,879",
+      "volume": "13,048,870",
       "averageVolume": 61267705,
       "averageVolume10days": 43874843,
       "marketCap": 1897000064,
@@ -21923,7 +21923,7 @@
         },
         {
           "Close": 2.7100000381469727,
-          "Volume": 13048879
+          "Volume": 13048870
         }
       ],
       "heldPercentInsiders": 0.56497,
@@ -21945,7 +21945,7 @@
       "fiftyTwoWeekHigh": 7.58,
       "fiftyDayAverage": 6.34,
       "twoHundredDayAverage": 5.86,
-      "volume": "11,749,786",
+      "volume": "11,749,780",
       "averageVolume": 17276914,
       "averageVolume10days": 15078576,
       "marketCap": 6201600000,
@@ -22112,7 +22112,7 @@
         },
         {
           "Close": 6.460000038146973,
-          "Volume": 11749786
+          "Volume": 11749780
         }
       ],
       "heldPercentInsiders": 0.70833,
@@ -22318,7 +22318,7 @@
       "previousClose": 8.8,
       "open": 8.9,
       "dayLow": 8.81,
-      "dayHigh": 9.64,
+      "dayHigh": 9.68,
       "fiftyTwoWeekLow": 6.34,
       "fiftyTwoWeekHigh": 11.39,
       "fiftyDayAverage": 8.12,
@@ -23073,7 +23073,7 @@
       "changeRate": 0.14,
       "previousClose": 28.74,
       "open": 28.76,
-      "dayLow": 28.42,
+      "dayLow": 28.4,
       "dayHigh": 29.8,
       "fiftyTwoWeekLow": 11.91,
       "fiftyTwoWeekHigh": 31.46,
@@ -26854,7 +26854,7 @@
       "previousClose": 34.42,
       "open": 36.4,
       "dayLow": 35.44,
-      "dayHigh": 36.98,
+      "dayHigh": 37.0,
       "fiftyTwoWeekLow": 8.42,
       "fiftyTwoWeekHigh": 49.04,
       "fiftyDayAverage": 32.9,
@@ -27048,7 +27048,7 @@
       "fiftyTwoWeekHigh": 36.02,
       "fiftyDayAverage": 30.33,
       "twoHundredDayAverage": 21.74,
-      "volume": "17,917,258",
+      "volume": "17,917,250",
       "averageVolume": 34727304,
       "averageVolume10days": 39728435,
       "marketCap": 34526846976,
@@ -27215,7 +27215,7 @@
         },
         {
           "Close": 32.02000045776367,
-          "Volume": 17917258
+          "Volume": 17917250
         }
       ],
       "heldPercentInsiders": 0.60861,
@@ -29310,7 +29310,7 @@
       "changeRate": -0.82,
       "previousClose": 4.85,
       "open": 4.89,
-      "dayLow": 4.79,
+      "dayLow": 4.78,
       "dayHigh": 4.96,
       "fiftyTwoWeekLow": 4.71,
       "fiftyTwoWeekHigh": 8.15,
@@ -29877,8 +29877,8 @@
       "changeRate": 1.19,
       "previousClose": 9.28,
       "open": 9.3,
-      "dayLow": 9.3,
-      "dayHigh": 10.12,
+      "dayLow": 9.29,
+      "dayHigh": 10.16,
       "fiftyTwoWeekLow": 6.55,
       "fiftyTwoWeekHigh": 14.9,
       "fiftyDayAverage": 10.18,
@@ -32154,7 +32154,7 @@
       "volume": "19,229,022",
       "averageVolume": 21520836,
       "averageVolume10days": 24019689,
-      "marketCap": 4909816320,
+      "marketCap": 4580716032,
       "enterpriseValue": 4469199872,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +32169,7 @@
       "forwardPE": null,
       "priceToBook": 5.273148,
       "pegRatio": null,
-      "priceToSales": 2.7413745,
+      "priceToSales": 2.557623,
       "enterpriseToRevenue": 2.495,
       "enterpriseToEbitda": 62.803,
       "profitMargins": -0.01041,
@@ -33663,7 +33663,7 @@
       "fiftyTwoWeekHigh": 7.42,
       "fiftyDayAverage": 6.14,
       "twoHundredDayAverage": 6.15,
-      "volume": "63,376,406",
+      "volume": "63,376,400",
       "averageVolume": 16526332,
       "averageVolume10days": 24474893,
       "marketCap": 7560000000,
@@ -33830,7 +33830,7 @@
         },
         {
           "Close": 6.75,
-          "Volume": 63376406
+          "Volume": 63376400
         }
       ],
       "heldPercentInsiders": 0.72571,
@@ -36870,7 +36870,7 @@
       "changeRate": 1.87,
       "previousClose": 18.72,
       "open": 18.72,
-      "dayLow": 18.56,
+      "dayLow": 18.51,
       "dayHigh": 19.5,
       "fiftyTwoWeekLow": 10.0,
       "fiftyTwoWeekHigh": 21.98,
@@ -37065,7 +37065,7 @@
       "fiftyTwoWeekHigh": 44.82,
       "fiftyDayAverage": 37.15,
       "twoHundredDayAverage": 30.75,
-      "volume": "10,381,991",
+      "volume": "10,381,990",
       "averageVolume": 11552992,
       "averageVolume10days": 12896160,
       "marketCap": 25515599872,
@@ -37232,7 +37232,7 @@
         },
         {
           "Close": 38.65999984741211,
-          "Volume": 10381991
+          "Volume": 10381990
         }
       ],
       "heldPercentInsiders": 0.60358,
@@ -39516,7 +39516,7 @@
       "changeRate": 1.44,
       "previousClose": 29.2,
       "open": 29.66,
-      "dayLow": 28.96,
+      "dayLow": 28.8,
       "dayHigh": 30.74,
       "fiftyTwoWeekLow": 14.83,
       "fiftyTwoWeekHigh": 37.72,
@@ -40462,7 +40462,7 @@
       "previousClose": 22.36,
       "open": 23.38,
       "dayLow": 23.14,
-      "dayHigh": 24.56,
+      "dayHigh": 24.58,
       "fiftyTwoWeekLow": 7.71,
       "fiftyTwoWeekHigh": 28.2,
       "fiftyDayAverage": 19.78,
@@ -44619,7 +44619,7 @@
       "changeRate": -0.31,
       "previousClose": 95.5,
       "open": 92.95,
-      "dayLow": 88.5,
+      "dayLow": 88.35,
       "dayHigh": 98.0,
       "fiftyTwoWeekLow": 4.81,
       "fiftyTwoWeekHigh": 98.0,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 78.18872,
-      "targetLowPrice": 60.920586,
-      "targetMeanPrice": 69.55466,
-      "targetMedianPrice": 69.55466,
+      "targetHighPrice": 78.19004,
+      "targetLowPrice": 60.92161,
+      "targetMeanPrice": 69.55583,
+      "targetMedianPrice": 69.55583,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
@@ -49723,7 +49723,7 @@
       "previousClose": 43.92,
       "open": 44.42,
       "dayLow": 44.0,
-      "dayHigh": 45.92,
+      "dayHigh": 45.94,
       "fiftyTwoWeekLow": 33.26,
       "fiftyTwoWeekHigh": 48.22,
       "fiftyDayAverage": 39.43,
@@ -51240,7 +51240,7 @@
       "fiftyTwoWeekHigh": 11.94,
       "fiftyDayAverage": 9.79,
       "twoHundredDayAverage": 8.65,
-      "volume": "123,970,177",
+      "volume": "123,970,100",
       "averageVolume": 37275864,
       "averageVolume10days": 29159556,
       "marketCap": 24632997888,
@@ -51407,7 +51407,7 @@
         },
         {
           "Close": 10.079999923706055,
-          "Volume": 123970177
+          "Volume": 123970100
         }
       ],
       "heldPercentInsiders": 0.60797,
@@ -52368,7 +52368,7 @@
       "changeRate": 0.61,
       "previousClose": 9.91,
       "open": 9.99,
-      "dayLow": 9.89,
+      "dayLow": 9.88,
       "dayHigh": 10.32,
       "fiftyTwoWeekLow": 7.51,
       "fiftyTwoWeekHigh": 11.09,
@@ -52941,7 +52941,7 @@
       "fiftyTwoWeekHigh": 6.39,
       "fiftyDayAverage": 4.86,
       "twoHundredDayAverage": 4.57,
-      "volume": "59,205,972",
+      "volume": "59,205,970",
       "averageVolume": 26316913,
       "averageVolume10days": 75427846,
       "marketCap": 18059999232,
@@ -53108,7 +53108,7 @@
         },
         {
           "Close": 6.019999980926514,
-          "Volume": 59205972
+          "Volume": 59205970
         }
       ],
       "heldPercentInsiders": 0.59215,
@@ -53125,12 +53125,12 @@
       "previousClose": 20.44,
       "open": 20.52,
       "dayLow": 20.36,
-      "dayHigh": 22.46,
+      "dayHigh": 22.48,
       "fiftyTwoWeekLow": 9.66,
-      "fiftyTwoWeekHigh": 22.46,
+      "fiftyTwoWeekHigh": 22.48,
       "fiftyDayAverage": 16.22,
       "twoHundredDayAverage": 14.28,
-      "volume": "20,604,517",
+      "volume": "20,604,510",
       "averageVolume": 11514413,
       "averageVolume10days": 21264498,
       "marketCap": 13488000000,
@@ -53297,7 +53297,7 @@
         },
         {
           "Close": 22.479999542236328,
-          "Volume": 20604517
+          "Volume": 20604510
         }
       ],
       "heldPercentInsiders": 0.76,
@@ -54259,7 +54259,7 @@
       "previousClose": 16.18,
       "open": 16.17,
       "dayLow": 16.08,
-      "dayHigh": 16.7,
+      "dayHigh": 17.0,
       "fiftyTwoWeekLow": 7.65,
       "fiftyTwoWeekHigh": 18.82,
       "fiftyDayAverage": 14.81,
@@ -55959,7 +55959,7 @@
       "changeRate": -1.61,
       "previousClose": 11.82,
       "open": 11.92,
-      "dayLow": 11.53,
+      "dayLow": 11.51,
       "dayHigh": 12.25,
       "fiftyTwoWeekLow": 9.51,
       "fiftyTwoWeekHigh": 24.28,
@@ -56154,7 +56154,7 @@
       "fiftyTwoWeekHigh": 3.29,
       "fiftyDayAverage": 2.7,
       "twoHundredDayAverage": 2.68,
-      "volume": "28,815,438",
+      "volume": "28,815,430",
       "averageVolume": 33826158,
       "averageVolume10days": 42194403,
       "marketCap": 6894615040,
@@ -56321,7 +56321,7 @@
         },
         {
           "Close": 2.759999990463257,
-          "Volume": 28815438
+          "Volume": 28815430
         }
       ],
       "heldPercentInsiders": 0.76426005,
@@ -58984,12 +58984,12 @@
       "previousClose": 35.7,
       "open": 36.08,
       "dayLow": 36.08,
-      "dayHigh": 38.92,
+      "dayHigh": 38.98,
       "fiftyTwoWeekLow": 4.96,
       "fiftyTwoWeekHigh": 42.6,
       "fiftyDayAverage": 29.8,
       "twoHundredDayAverage": 15.87,
-      "volume": "74,313,843",
+      "volume": "74,313,840",
       "averageVolume": 65984499,
       "averageVolume10days": 62346676,
       "marketCap": 76093194240,
@@ -59156,7 +59156,7 @@
         },
         {
           "Close": 36.7599983215332,
-          "Volume": 74313843
+          "Volume": 74313840
         }
       ],
       "heldPercentInsiders": 0.37754002,
@@ -60879,7 +60879,7 @@
       "fiftyTwoWeekHigh": 7.8,
       "fiftyDayAverage": 4.41,
       "twoHundredDayAverage": 5.18,
-      "volume": "18,095,418",
+      "volume": "18,095,410",
       "averageVolume": 29681868,
       "averageVolume10days": 24896428,
       "marketCap": 2949786624,
@@ -61046,7 +61046,7 @@
         },
         {
           "Close": 3.859999895095825,
-          "Volume": 18095418
+          "Volume": 18095410
         }
       ],
       "heldPercentInsiders": 0.15646,
@@ -62007,7 +62007,7 @@
       "changeRate": -1.61,
       "previousClose": 16.1,
       "open": 16.22,
-      "dayLow": 15.72,
+      "dayLow": 15.62,
       "dayHigh": 16.5,
       "fiftyTwoWeekLow": 6.0,
       "fiftyTwoWeekHigh": 22.86,
@@ -62196,7 +62196,7 @@
       "changeRate": 9.97,
       "previousClose": 11.64,
       "open": 12.8,
-      "dayLow": 12.27,
+      "dayLow": 12.2,
       "dayHigh": 12.8,
       "fiftyTwoWeekLow": 4.9,
       "fiftyTwoWeekHigh": 21.2,
@@ -63336,7 +63336,7 @@
       "fiftyTwoWeekHigh": 76.85,
       "fiftyDayAverage": 60.96,
       "twoHundredDayAverage": 40.02,
-      "volume": "18,635,308",
+      "volume": "18,635,300",
       "averageVolume": 12004644,
       "averageVolume10days": 12477588,
       "marketCap": 19596748800,
@@ -63503,7 +63503,7 @@
         },
         {
           "Close": 73.94999694824219,
-          "Volume": 18635308
+          "Volume": 18635300
         }
       ],
       "heldPercentInsiders": 0.6783,
@@ -63525,7 +63525,7 @@
       "fiftyTwoWeekHigh": 6.07,
       "fiftyDayAverage": 4.32,
       "twoHundredDayAverage": 4.16,
-      "volume": "21,285,055",
+      "volume": "21,285,050",
       "averageVolume": 17327221,
       "averageVolume10days": 21639388,
       "marketCap": 4224000256,
@@ -63692,7 +63692,7 @@
         },
         {
           "Close": 5.28000020980835,
-          "Volume": 21285055
+          "Volume": 21285050
         }
       ],
       "heldPercentInsiders": 0.5696,
@@ -65793,7 +65793,7 @@
       "fiftyTwoWeekHigh": 11.81,
       "fiftyDayAverage": 8.76,
       "twoHundredDayAverage": 9.04,
-      "volume": "44,418,339",
+      "volume": "44,418,330",
       "averageVolume": 7636808,
       "averageVolume10days": 23249987,
       "marketCap": 27134001152,
@@ -65960,7 +65960,7 @@
         },
         {
           "Close": 11.119999885559082,
-          "Volume": 44418339
+          "Volume": 44418330
         }
       ],
       "heldPercentInsiders": 0.89388,
@@ -66354,7 +66354,7 @@
       "changeRate": 0.06,
       "previousClose": 1582.0,
       "open": 1598.0,
-      "dayLow": 1582.0,
+      "dayLow": 1580.0,
       "dayHigh": 1618.0,
       "fiftyTwoWeekLow": 1205.0,
       "fiftyTwoWeekHigh": 2287.0,
@@ -71080,9 +71080,9 @@
       "previousClose": 61.8,
       "open": 62.5,
       "dayLow": 62.05,
-      "dayHigh": 67.9,
+      "dayHigh": 67.95,
       "fiftyTwoWeekLow": 25.56,
-      "fiftyTwoWeekHigh": 67.9,
+      "fiftyTwoWeekHigh": 67.95,
       "fiftyDayAverage": 45.49,
       "twoHundredDayAverage": 41.35,
       "volume": "1,196,939",
@@ -72969,7 +72969,7 @@
       "changeRate": 0.63,
       "previousClose": 25.2,
       "open": 25.32,
-      "dayLow": 25.22,
+      "dayLow": 25.2,
       "dayHigh": 25.92,
       "fiftyTwoWeekLow": 10.97,
       "fiftyTwoWeekHigh": 37.0,
@@ -77133,7 +77133,7 @@
       "fiftyTwoWeekHigh": 14.22,
       "fiftyDayAverage": 6.92,
       "twoHundredDayAverage": 9.23,
-      "volume": "12,944,132",
+      "volume": "12,944,130",
       "averageVolume": 26282022,
       "averageVolume10days": 19967363,
       "marketCap": 6384000000,
@@ -77300,7 +77300,7 @@
         },
         {
           "Close": 6.71999979019165,
-          "Volume": 12944132
+          "Volume": 12944130
         }
       ],
       "heldPercentInsiders": 0.397,
@@ -78072,7 +78072,7 @@
       "changeRate": 9.92,
       "previousClose": 3.93,
       "open": 4.26,
-      "dayLow": 4.22,
+      "dayLow": 4.2,
       "dayHigh": 4.32,
       "fiftyTwoWeekLow": 2.59,
       "fiftyTwoWeekHigh": 4.8,
@@ -83742,7 +83742,7 @@
       "changeRate": -0.13,
       "previousClose": 151.0,
       "open": 151.3,
-      "dayLow": 148.9,
+      "dayLow": 148.5,
       "dayHigh": 152.1,
       "fiftyTwoWeekLow": 77.9,
       "fiftyTwoWeekHigh": 200.0,
@@ -84687,7 +84687,7 @@
       "changeRate": -2.25,
       "previousClose": 422.0,
       "open": 426.25,
-      "dayLow": 411.0,
+      "dayLow": 410.5,
       "dayHigh": 435.0,
       "fiftyTwoWeekLow": 288.25,
       "fiftyTwoWeekHigh": 508.0,
@@ -90736,7 +90736,7 @@
       "previousClose": 72.3,
       "open": 74.15,
       "dayLow": 74.15,
-      "dayHigh": 79.45,
+      "dayHigh": 79.5,
       "fiftyTwoWeekLow": 48.56,
       "fiftyTwoWeekHigh": 80.45,
       "fiftyDayAverage": 61.87,
