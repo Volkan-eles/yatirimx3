@@ -5,7 +5,7 @@
     "type": "Bedelsiz",
     "rate": "%1900",
     "date": "26.02.2026",
-    "status": "Onaylandı",
+    "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 26.02.2026"
   },
   {
@@ -22,7 +22,7 @@
     "company": "BIMAS Bim Birleşik Mağazalar A.Ş.",
     "type": "Bedelsiz",
     "rate": "%100",
-    "date": "20.02.2026",
+    "date": "19.02.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
   },
@@ -232,15 +232,6 @@
     "date": "26.02.2026 Bitiş: 12.03.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 26.02.2026 Bitiş: 12.03.2026 | Tutar: 1 TL"
-  },
-  {
-    "code": "KENT",
-    "company": "KENT Kent Gıda Maddeleri San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%50",
-    "date": "05.02.2026 Bitiş: 19.02.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 05.02.2026 Bitiş: 19.02.2026 | Tutar: 1 TL"
   },
   {
     "code": "ARZUM",
