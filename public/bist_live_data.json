@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-28T18:42:44.720902",
+  "last_update": "2026-02-28T19:29:21.995191",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 502,
   "successful": 502,
@@ -570,7 +570,7 @@
         }
       ],
       "heldPercentInsiders": 0.61166,
-      "heldPercentInstitutions": 0.11703
+      "heldPercentInstitutions": 0.117019996
     },
     {
       "code": "ISCTR",
@@ -7374,7 +7374,7 @@
         }
       ],
       "heldPercentInsiders": 0.75,
-      "heldPercentInstitutions": 0.06093
+      "heldPercentInstitutions": 0.06092
     },
     {
       "code": "OTKAR",
@@ -35935,7 +35935,7 @@
       "averageVolume": 31515523,
       "averageVolume10days": 79480468,
       "marketCap": 3524210944,
-      "enterpriseValue": 3382122496,
+      "enterpriseValue": 0,
       "sharesOutstanding": 704842185,
       "sector": "Technology",
       "industry": "Information Technology Services",
@@ -35949,21 +35949,21 @@
       "forwardPE": null,
       "priceToBook": 1.6886188,
       "pegRatio": null,
-      "priceToSales": 9.544453,
-      "enterpriseToRevenue": 9.16,
-      "enterpriseToEbitda": 9.554,
-      "profitMargins": -0.73061997,
+      "priceToSales": 2.1126475,
+      "enterpriseToRevenue": null,
+      "enterpriseToEbitda": null,
+      "profitMargins": 0.69037,
       "grossMargins": 1.0,
-      "operatingMargins": -8.331531,
-      "returnOnAssets": 0.11062,
-      "returnOnEquity": -0.13842,
-      "totalRevenue": 369241792,
-      "revenuePerShare": 0.524,
-      "totalCash": 1119992,
+      "operatingMargins": 1.0000399,
+      "returnOnAssets": 0.40471,
+      "returnOnEquity": 0.46249,
+      "totalRevenue": 1668149120,
+      "revenuePerShare": null,
+      "totalCash": 1040119,
       "totalDebt": 0,
       "debtToEquity": null,
-      "currentRatio": 0.425,
-      "quickRatio": 0.385,
+      "currentRatio": 0.38,
+      "quickRatio": 0.361,
       "eps": -1.38,
       "forwardEps": null,
       "bookValue": 2.961,
@@ -35978,7 +35978,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.228,
+      "beta": null,
       "historicalData": [
         {
           "Close": 3.7699999809265137,
@@ -74113,7 +74113,7 @@
       "averageVolume": 276928,
       "averageVolume10days": 612293,
       "marketCap": 1889387520,
-      "enterpriseValue": 1631780224,
+      "enterpriseValue": 1912022656,
       "sharesOutstanding": 22750000,
       "sector": "Industrials",
       "industry": "Business Equipment & Supplies",
@@ -74125,26 +74125,26 @@
       "description": "Plastikkart Akilli Kart Iletisim Sistemleri Sanayi ve Ticaret A.S. manufactures and sells smart cards in Turkey and internationally. It offers contact, contactless, and dual interface banking/payment cards; loyalty and transportation cards; e-government and ID cards; payphone and metering cards; SIM cards; and security solutions, such as PKI cards, readers, and tokens. The company also provides security printing; card personalization; card life cycle management and processing; server hosting; and consultancy services, including card-based projects management, printing design consultancy, and card technology training services. The company was incorporated in 2000 and is headquartered in Istanbul, Turkey. Plastikkart Akilli Kart Iletisim Sistemleri Sanayi ve Ticaret A.S. is a subsidiary of Gemalto B.V.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 4.354323,
+      "priceToBook": 4.117297,
       "pegRatio": null,
-      "priceToSales": 1.1160971,
-      "enterpriseToRevenue": 0.964,
-      "enterpriseToEbitda": 14.625,
-      "profitMargins": 0.02424,
-      "grossMargins": 0.07032,
-      "operatingMargins": 0.0275,
-      "returnOnAssets": 0.07074,
-      "returnOnEquity": 0.10775,
-      "totalRevenue": 1692852352,
-      "revenuePerShare": 75.646,
-      "totalCash": 85844800,
+      "priceToSales": 0.82679665,
+      "enterpriseToRevenue": 0.837,
+      "enterpriseToEbitda": 13.272,
+      "profitMargins": 0.03014,
+      "grossMargins": 0.09607001,
+      "operatingMargins": 0.048699997,
+      "returnOnAssets": 0.09922,
+      "returnOnEquity": 0.16549999,
+      "totalRevenue": 2285190144,
+      "revenuePerShare": 100.518,
+      "totalCash": 72959880,
       "totalDebt": 0,
       "debtToEquity": null,
-      "currentRatio": 1.487,
-      "quickRatio": 0.931,
+      "currentRatio": 1.758,
+      "quickRatio": 1.331,
       "eps": -0.73,
       "forwardEps": null,
-      "bookValue": 19.073,
+      "bookValue": 20.171,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1665964800,
@@ -87132,7 +87132,7 @@
         }
       ],
       "heldPercentInsiders": 0.22138001,
-      "heldPercentInstitutions": 0.05131
+      "heldPercentInstitutions": 0.10401
     },
     {
       "code": "TRCAS",
@@ -94760,7 +94760,7 @@
         }
       ],
       "heldPercentInsiders": 0.81058997,
-      "heldPercentInstitutions": 0.17159
+      "heldPercentInstitutions": 0.1716
     }
   ]
 }
