@@ -43,7 +43,7 @@
     {
       "company": "SVGYO",
       "link": "https://halkarz.com/savur-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "SVGYO",
       "price": "3,64 TL",
       "dates": "26-27 Şubat, 2 Mart 202609:00-17:00",
@@ -58,7 +58,7 @@
       "price": "22,00 TL",
       "dates": "26 Şubat 2026",
       "distributionType": "Eşit Dağıtım **",
-      "lotCount": "38.000.000 Lot"
+      "lotCount": "%22,35"
     },
     {
       "company": "ATATR",
@@ -388,7 +388,7 @@
       "price": "15,30 TL",
       "dates": "9 Eylül 2024",
       "distributionType": "Eşit Dağıtım",
-      "lotCount": "%24.87"
+      "lotCount": "%30,86"
     },
     {
       "company": "OZATD",
@@ -428,7 +428,7 @@
       "price": "24,00 TL",
       "dates": "21 Ağustos 2024",
       "distributionType": "Eşit Dağıtım",
-      "lotCount": "%26.46"
+      "lotCount": "%32,28"
     },
     {
       "company": "BAHKM",
@@ -608,7 +608,7 @@
       "price": "11,33 TL",
       "dates": "7 Mart 2024",
       "distributionType": "Eşit Dağıtım",
-      "lotCount": "%10.75"
+      "lotCount": "%10.69"
     },
     {
       "company": "ARTMS",
@@ -1618,7 +1618,7 @@
       "price": "Belirlenmedi",
       "dates": "12 Ocak 2022",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%21.09"
+      "lotCount": "%45,70"
     },
     {
       "company": "PSGYO",
@@ -1948,7 +1948,7 @@
       "price": "3,06 TL",
       "dates": "25 Haziran 2021",
       "distributionType": "Eşit Dağıtım",
-      "lotCount": "%67.42"
+      "lotCount": "%68,05"
     },
     {
       "company": "BASGZ",
@@ -3038,7 +3038,7 @@
       "price": "5,60 TL",
       "dates": "7 Haziran 2012",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%57.45"
+      "lotCount": "%79,61"
     },
     {
       "company": "SKYLP",
@@ -3188,7 +3188,7 @@
       "price": "2,50 TL",
       "dates": "6 Aralık 2011",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%93,92"
+      "lotCount": "%92,75"
     },
     {
       "company": "ADESE",
@@ -4288,7 +4288,7 @@
       "price": "22.000 TL *YTL Öncesi",
       "dates": "4 Ocak 2000",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%77.69"
+      "lotCount": "%83.22"
     },
     {
       "company": "NUGYO",
@@ -4398,7 +4398,7 @@
       "price": "3.000 TL *YTL Öncesi",
       "dates": "1 Temmuz 1998",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%98.67"
+      "lotCount": "%59.09"
     },
     {
       "company": "BAKAB",
@@ -4558,7 +4558,7 @@
       "price": "5.500 TL *YTL Öncesi",
       "dates": "24 Temmuz 1997",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%5.32"
+      "lotCount": "%5.49"
     },
     {
       "company": "DMSAS",
@@ -4638,7 +4638,7 @@
       "price": "4.100 TL *YTL Öncesi",
       "dates": "30 Aralık 1996",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%11.95"
+      "lotCount": "%48.71"
     },
     {
       "company": "GRNYO",
@@ -5383,7 +5383,7 @@
     {
       "company": "MGROS",
       "link": "https://halkarz.com/migros-t-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "MGROS",
       "price": "8.000 TL *YTL Öncesi",
       "dates": "27 Şubat 1991",
@@ -5628,7 +5628,7 @@
       "price": "3.500 TL  *YTL Öncesi",
       "dates": "2 Şubat 1990",
       "distributionType": "Bilinmiyor",
-      "lotCount": "%54.62"
+      "lotCount": "%54.85"
     },
     {
       "company": "NTHOL",
