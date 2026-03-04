@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-04T05:32:43.412663",
+  "last_update": "2026-03-04T06:58:42.349627",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 502,
   "successful": 502,
@@ -210,7 +210,7 @@
       "fiftyTwoWeekHigh": 93.5,
       "fiftyDayAverage": 80.78,
       "twoHundredDayAverage": 67.54,
-      "volume": "106,917,553",
+      "volume": "106,517,553",
       "averageVolume": 108622748,
       "averageVolume10days": 106600027,
       "marketCap": 410280001536,
@@ -377,7 +377,7 @@
         },
         {
           "Close": 78.9000015258789,
-          "Volume": 106917553
+          "Volume": 106517553
         }
       ],
       "heldPercentInsiders": 0.41277,
@@ -399,7 +399,7 @@
       "fiftyTwoWeekHigh": 44.5,
       "fiftyDayAverage": 39.06,
       "twoHundredDayAverage": 33.84,
-      "volume": "243,310,018",
+      "volume": "238,310,018",
       "averageVolume": 205730450,
       "averageVolume10days": 181780562,
       "marketCap": 313216663552,
@@ -413,7 +413,7 @@
       "country": "Turkey",
       "phone": "90 212 339 70 00",
       "description": "Yapi ve Kredi Bankasi A.S., together with its subsidiaries, provides commercial banking and financial products and services in Turkey and internationally. It operates through three segments: Retail Banking; Corporate Banking; and Commercial and SME Banking. The Retail Banking segment offers banking products and services, such as card payment systems; individual portfolio; blue class; private and gold banking; general purpose, commercial installments, and auto loans; mortgages; time and demand deposits; investment accounts; life and non-life insurance products; wealth management activities; and payroll services. This segment also provides time deposit products, mutual funds, foreign exchange, and gold and equity trading services; and personal art, inheritance, real estate, tax, education, and philanthropic advisory services. The Corporate, Commercial, and SME Banking segment offers corporate banking for large-scale, international, and multinational companies; commercial banking for medium-sized enterprises; and SME banking, such as SME loans and banking packages products for SME companies. This segment also provides working capital, trade, and project finance, as well as domestic and international non-cash loans comprising letters of credit and guarantee, cash management, and internet banking services; and financial and equity management advisory services. It offers custody, leasing, investment and portfolio management, and factoring services. The company also provides money transfer; debit, world, business cards; home loan; checks and promissory notes services; and SME loans. It serves customers through ATMs; and telephone, Internet, and mobile banking services. The was incorporated in 1944 and is headquartered in Istanbul, Turkey.",
-      "pe": 6.6451616,
+      "pe": 6.6570916,
       "forwardPE": 3.9072711,
       "priceToBook": 1.2253801,
       "pegRatio": null,
@@ -432,7 +432,7 @@
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
-      "eps": 5.58,
+      "eps": 5.57,
       "forwardEps": 9.49,
       "bookValue": 30.26,
       "dividendRate": null,
@@ -566,7 +566,7 @@
         },
         {
           "Close": 37.08000183105469,
-          "Volume": 243310018
+          "Volume": 238310018
         }
       ],
       "heldPercentInsiders": 0.61166,
@@ -588,7 +588,7 @@
       "fiftyTwoWeekHigh": 18.21,
       "fiftyDayAverage": 15.61,
       "twoHundredDayAverage": 13.93,
-      "volume": "460,743,393",
+      "volume": "458,743,393",
       "averageVolume": 649512958,
       "averageVolume10days": 707078635,
       "marketCap": 384334168064,
@@ -755,7 +755,7 @@
         },
         {
           "Close": 14.829999923706055,
-          "Volume": 460743393
+          "Volume": 458743393
         }
       ],
       "heldPercentInsiders": 0.66977996,
@@ -966,7 +966,7 @@
       "fiftyTwoWeekHigh": 52.0,
       "fiftyDayAverage": 43.73,
       "twoHundredDayAverage": 31.25,
-      "volume": "94,344,887",
+      "volume": "94,349,636",
       "averageVolume": 68418074,
       "averageVolume10days": 64798187,
       "marketCap": 325757861888,
@@ -1133,7 +1133,7 @@
         },
         {
           "Close": 45.34000015258789,
-          "Volume": 94344887
+          "Volume": 94349636
         }
       ],
       "heldPercentInsiders": 0.91493,
@@ -1547,7 +1547,7 @@
       "country": "Turkey",
       "phone": "90 212 878 90 00",
       "description": "Türkiye Petrol Rafinerileri A.S., together with its subsidiaries, engages in the procurement and refining of crude oil, petroleum, and chemical products in Turkey and internationally. It operates through Refining and Electricity segments. The company is involved in purchasing, selling, importing, exporting, storing, and marketing petroleum products, liquid petroleum gas, and natural gas. Its products include liquid petroleum gases, fuel oils, gasoline, diesel, base oils, waxes, extracts, and bitumen and bitumen binders, as well as, white spirits, clarified oils, petroleum coke, and sulphur products. The company also engages in the transportation of crude oil and petroleum products; operation of factories and facilities in petrochemical and related industries; trading of crude oil and petroleum products; electricity and steam production and trade; air, sea, land, and rail transportation; mooring and tug services; ship chartering and freight trading activities; electric vehicle charging stations; real estate; and technology and venture investments. Türkiye Petrol Rafinerileri A.S. was incorporated in 1983 and is headquartered in Istanbul, Turkey.",
-      "pe": 15.349444,
+      "pe": 15.339426,
       "forwardPE": 11.330762,
       "priceToBook": 1.2436099,
       "pegRatio": null,
@@ -1566,11 +1566,11 @@
       "debtToEquity": 13.758,
       "currentRatio": 1.396,
       "quickRatio": 0.954,
-      "eps": 15.31,
+      "eps": 15.32,
       "forwardEps": 20.74,
       "bookValue": 188.966,
       "dividendRate": 13.49,
-      "dividendYield": 6.0,
+      "dividendYield": 5.74,
       "exDividendDate": 1773619200,
       "payoutRatio": 0.9926,
       "targetHighPrice": 287.0,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 44.50978,
-      "targetLowPrice": 31.535093,
-      "targetMeanPrice": 37.485416,
-      "targetMedianPrice": 38.440266,
+      "targetHighPrice": 44.493183,
+      "targetLowPrice": 31.523335,
+      "targetMeanPrice": 37.47144,
+      "targetMedianPrice": 38.425934,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -2478,7 +2478,7 @@
       "fiftyTwoWeekHigh": 724.5,
       "fiftyDayAverage": 635.09,
       "twoHundredDayAverage": 551.42,
-      "volume": "5,744,345",
+      "volume": "5,744,370",
       "averageVolume": 7288690,
       "averageVolume10days": 6262504,
       "marketCap": 387881992192,
@@ -2645,7 +2645,7 @@
         },
         {
           "Close": 653.0,
-          "Volume": 5744345
+          "Volume": 5744370
         }
       ],
       "heldPercentInsiders": 0.27298,
@@ -3467,7 +3467,7 @@
       "targetLowPrice": 40.0,
       "targetMeanPrice": 55.19,
       "targetMedianPrice": 58.45,
-      "recommendationMean": 2.18182,
+      "recommendationMean": 2.3,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 10,
       "beta": -0.091,
@@ -4027,7 +4027,7 @@
       "forwardEps": 27.68,
       "bookValue": 164.646,
       "dividendRate": 3.0,
-      "dividendYield": 3.12,
+      "dividendYield": 3.26,
       "exDividendDate": 1743552000,
       "payoutRatio": 3.5036,
       "targetHighPrice": 173.19,
@@ -4179,7 +4179,7 @@
       "fiftyTwoWeekHigh": 229.1,
       "fiftyDayAverage": 196.32,
       "twoHundredDayAverage": 174.37,
-      "volume": "24,431,420",
+      "volume": "23,931,420",
       "averageVolume": 35948732,
       "averageVolume10days": 34649458,
       "marketCap": 479369920512,
@@ -4346,7 +4346,7 @@
         },
         {
           "Close": 189.10000610351562,
-          "Volume": 24431420
+          "Volume": 23931420
         }
       ],
       "heldPercentInsiders": 0.57186,
@@ -4783,7 +4783,7 @@
       "forwardEps": 31.71,
       "bookValue": 120.062,
       "dividendRate": 20.0,
-      "dividendYield": 6.37,
+      "dividendYield": 6.61,
       "exDividendDate": 1774224000,
       "payoutRatio": 4.9793,
       "targetHighPrice": 485.0,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.23,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 572.14386,
-      "targetLowPrice": 394.538,
-      "targetMeanPrice": 462.04556,
-      "targetMedianPrice": 454.13947,
+      "targetHighPrice": 573.33563,
+      "targetLowPrice": 395.35983,
+      "targetMeanPrice": 463.00803,
+      "targetMedianPrice": 455.08545,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -5691,7 +5691,7 @@
       "fiftyTwoWeekHigh": 5.66,
       "fiftyDayAverage": 2.56,
       "twoHundredDayAverage": 3.16,
-      "volume": "572,446,141",
+      "volume": "1,646,187,965",
       "averageVolume": 394904143,
       "averageVolume10days": 248508666,
       "marketCap": 99899604992,
@@ -5858,7 +5858,7 @@
         },
         {
           "Close": 2.2799999713897705,
-          "Volume": 572446141
+          "Volume": 1646187965
         }
       ],
       "heldPercentInsiders": 0.69254,
@@ -5880,7 +5880,7 @@
       "fiftyTwoWeekHigh": 566.5,
       "fiftyDayAverage": 446.48,
       "twoHundredDayAverage": 320.52,
-      "volume": "2,117,328",
+      "volume": "2,117,428",
       "averageVolume": 2903859,
       "averageVolume10days": 2655652,
       "marketCap": 172845006848,
@@ -6047,7 +6047,7 @@
         },
         {
           "Close": 517.5,
-          "Volume": 2117328
+          "Volume": 2117428
         }
       ],
       "heldPercentInsiders": 0.78729,
@@ -7240,7 +7240,7 @@
       "forwardEps": 114.37,
       "bookValue": 167.036,
       "dividendRate": 75.45,
-      "dividendYield": 15.88,
+      "dividendYield": 16.34,
       "exDividendDate": 1743552000,
       "payoutRatio": 10.6522,
       "targetHighPrice": 750.0,
@@ -7618,7 +7618,7 @@
       "forwardEps": 25.57,
       "bookValue": 182.008,
       "dividendRate": 2.6,
-      "dividendYield": 2.58,
+      "dividendYield": 2.65,
       "exDividendDate": 1744848000,
       "payoutRatio": 0.90690005,
       "targetHighPrice": 158.57,
@@ -8563,7 +8563,7 @@
       "forwardEps": 151.14,
       "bookValue": 44.85,
       "dividendRate": 0.51,
-      "dividendYield": 1.57,
+      "dividendYield": 1.64,
       "exDividendDate": 1748390400,
       "payoutRatio": 0.26459998,
       "targetHighPrice": 48.0,
@@ -8752,7 +8752,7 @@
       "forwardEps": 0.62,
       "bookValue": 7.751,
       "dividendRate": 0.58,
-      "dividendYield": 5.89,
+      "dividendYield": 5.88,
       "exDividendDate": 1775174400,
       "payoutRatio": 0.466,
       "targetHighPrice": 15.8,
@@ -9130,7 +9130,7 @@
       "forwardEps": 1.86,
       "bookValue": 11.472,
       "dividendRate": 0.17,
-      "dividendYield": 2.02,
+      "dividendYield": 2.05,
       "exDividendDate": 1744675200,
       "payoutRatio": 0.0287,
       "targetHighPrice": 12.2,
@@ -11398,7 +11398,7 @@
       "forwardEps": null,
       "bookValue": 5.534,
       "dividendRate": 0.58,
-      "dividendYield": 1.79,
+      "dividendYield": 1.76,
       "exDividendDate": 1758844800,
       "payoutRatio": 2.775,
       "targetHighPrice": null,
@@ -11776,7 +11776,7 @@
       "forwardEps": null,
       "bookValue": 18.943,
       "dividendRate": 1.5,
-      "dividendYield": 10.0,
+      "dividendYield": 10.24,
       "exDividendDate": 1775001600,
       "payoutRatio": 1.4085001,
       "targetHighPrice": null,
@@ -11965,7 +11965,7 @@
       "forwardEps": 18.11,
       "bookValue": 56.063,
       "dividendRate": 6.94,
-      "dividendYield": 3.16,
+      "dividendYield": 3.2,
       "exDividendDate": 1774396800,
       "payoutRatio": 0.18,
       "targetHighPrice": 327.9,
@@ -12721,7 +12721,7 @@
       "forwardEps": null,
       "bookValue": 16.959,
       "dividendRate": 0.12,
-      "dividendYield": 1.56,
+      "dividendYield": 1.59,
       "exDividendDate": 1746403200,
       "payoutRatio": 0.0615,
       "targetHighPrice": 12.81,
@@ -13288,7 +13288,7 @@
       "forwardEps": null,
       "bookValue": 195.376,
       "dividendRate": 63.22,
-      "dividendYield": 8.15,
+      "dividendYield": 8.32,
       "exDividendDate": 1744243200,
       "payoutRatio": 1.7552,
       "targetHighPrice": null,
@@ -14422,7 +14422,7 @@
       "forwardEps": 27.91,
       "bookValue": 17.777,
       "dividendRate": 1.38,
-      "dividendYield": 5.45,
+      "dividendYield": 5.4,
       "exDividendDate": 1775001600,
       "payoutRatio": 0.1719,
       "targetHighPrice": 47.3,
@@ -20433,7 +20433,7 @@
       "fiftyTwoWeekHigh": 14.01,
       "fiftyDayAverage": 9.28,
       "twoHundredDayAverage": 9.66,
-      "volume": "37,917,290",
+      "volume": "37,917,294",
       "averageVolume": 47500632,
       "averageVolume10days": 38789415,
       "marketCap": 10888865792,
@@ -20600,7 +20600,7 @@
         },
         {
           "Close": 8.4399995803833,
-          "Volume": 37917290
+          "Volume": 37917294
         }
       ],
       "heldPercentInsiders": 0.62106,
@@ -21756,7 +21756,7 @@
       "fiftyTwoWeekHigh": 33.16,
       "fiftyDayAverage": 3.14,
       "twoHundredDayAverage": 15.01,
-      "volume": "58,716,210",
+      "volume": "58,716,217",
       "averageVolume": 51525431,
       "averageVolume10days": 42362934,
       "marketCap": 2114000000,
@@ -21923,7 +21923,7 @@
         },
         {
           "Close": 3.0199999809265137,
-          "Volume": 58716210
+          "Volume": 58716217
         }
       ],
       "heldPercentInsiders": 0.56497,
@@ -27048,7 +27048,7 @@
       "fiftyTwoWeekHigh": 36.02,
       "fiftyDayAverage": 30.52,
       "twoHundredDayAverage": 22.26,
-      "volume": "18,098,240",
+      "volume": "18,098,249",
       "averageVolume": 36867855,
       "averageVolume10days": 36672094,
       "marketCap": 30450911232,
@@ -27215,7 +27215,7 @@
         },
         {
           "Close": 28.239999771118164,
-          "Volume": 18098240
+          "Volume": 18098249
         }
       ],
       "heldPercentInsiders": 0.60861,
@@ -33663,7 +33663,7 @@
       "fiftyTwoWeekHigh": 7.42,
       "fiftyDayAverage": 6.02,
       "twoHundredDayAverage": 6.16,
-      "volume": "20,671,870",
+      "volume": "20,671,879",
       "averageVolume": 18749114,
       "averageVolume10days": 37431608,
       "marketCap": 6384000000,
@@ -33830,7 +33830,7 @@
         },
         {
           "Close": 5.699999809265137,
-          "Volume": 20671870
+          "Volume": 20671879
         }
       ],
       "heldPercentInsiders": 0.72571,
@@ -34608,7 +34608,7 @@
       "fiftyTwoWeekHigh": 11.93,
       "fiftyDayAverage": 9.61,
       "twoHundredDayAverage": 9.14,
-      "volume": "16,633,480",
+      "volume": "16,633,484",
       "averageVolume": 20460074,
       "averageVolume10days": 27418983,
       "marketCap": 85049991168,
@@ -34775,7 +34775,7 @@
         },
         {
           "Close": 9.449999809265137,
-          "Volume": 16633480
+          "Volume": 16633484
         }
       ],
       "heldPercentInsiders": 0.72905,
@@ -37632,7 +37632,7 @@
       "fiftyTwoWeekHigh": 5.59,
       "fiftyDayAverage": 3.72,
       "twoHundredDayAverage": 3.64,
-      "volume": "12,737,960",
+      "volume": "12,737,962",
       "averageVolume": 13017167,
       "averageVolume10days": 22054633,
       "marketCap": 2533999872,
@@ -37799,7 +37799,7 @@
         },
         {
           "Close": 3.619999885559082,
-          "Volume": 12737960
+          "Volume": 12737962
         }
       ],
       "heldPercentInsiders": 0.64492995,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 78.46246,
-      "targetLowPrice": 61.13387,
-      "targetMeanPrice": 69.798164,
-      "targetMedianPrice": 69.798164,
+      "targetHighPrice": 78.47138,
+      "targetLowPrice": 61.140816,
+      "targetMeanPrice": 69.8061,
+      "targetMedianPrice": 69.8061,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 2,
@@ -52941,7 +52941,7 @@
       "fiftyTwoWeekHigh": 6.39,
       "fiftyDayAverage": 4.99,
       "twoHundredDayAverage": 4.6,
-      "volume": "65,942,530",
+      "volume": "65,942,536",
       "averageVolume": 32212785,
       "averageVolume10days": 70618929,
       "marketCap": 15599998976,
@@ -53108,7 +53108,7 @@
         },
         {
           "Close": 5.199999809265137,
-          "Volume": 65942530
+          "Volume": 65942536
         }
       ],
       "heldPercentInsiders": 0.59215,
@@ -53130,7 +53130,7 @@
       "fiftyTwoWeekHigh": 24.04,
       "fiftyDayAverage": 16.96,
       "twoHundredDayAverage": 14.61,
-      "volume": "17,525,050",
+      "volume": "17,525,053",
       "averageVolume": 13072548,
       "averageVolume10days": 20724636,
       "marketCap": 11477999616,
@@ -53297,7 +53297,7 @@
         },
         {
           "Close": 19.1299991607666,
-          "Volume": 17525050
+          "Volume": 17525053
         }
       ],
       "heldPercentInsiders": 0.76,
@@ -56154,7 +56154,7 @@
       "fiftyTwoWeekHigh": 3.21,
       "fiftyDayAverage": 2.67,
       "twoHundredDayAverage": 2.69,
-      "volume": "25,452,400",
+      "volume": "25,452,408",
       "averageVolume": 33270934,
       "averageVolume10days": 36667425,
       "marketCap": 5995317760,
@@ -56321,7 +56321,7 @@
         },
         {
           "Close": 2.4000000953674316,
-          "Volume": 25452400
+          "Volume": 25452408
         }
       ],
       "heldPercentInsiders": 0.76426005,
@@ -58989,7 +58989,7 @@
       "fiftyTwoWeekHigh": 42.72,
       "fiftyDayAverage": 32.85,
       "twoHundredDayAverage": 16.96,
-      "volume": "69,345,290",
+      "volume": "69,345,293",
       "averageVolume": 67188725,
       "averageVolume10days": 70057097,
       "marketCap": 81309597696,
@@ -59156,7 +59156,7 @@
         },
         {
           "Close": 39.279998779296875,
-          "Volume": 69345290
+          "Volume": 69345293
         }
       ],
       "heldPercentInsiders": 0.37754002,
@@ -60879,7 +60879,7 @@
       "fiftyTwoWeekHigh": 7.8,
       "fiftyDayAverage": 4.18,
       "twoHundredDayAverage": 5.19,
-      "volume": "29,346,530",
+      "volume": "29,346,534",
       "averageVolume": 31110517,
       "averageVolume10days": 27769316,
       "marketCap": 2544764160,
@@ -61046,7 +61046,7 @@
         },
         {
           "Close": 3.3299999237060547,
-          "Volume": 29346530
+          "Volume": 29346534
         }
       ],
       "heldPercentInsiders": 0.15646,
@@ -63336,7 +63336,7 @@
       "fiftyTwoWeekHigh": 78.7,
       "fiftyDayAverage": 63.44,
       "twoHundredDayAverage": 41.56,
-      "volume": "11,773,500",
+      "volume": "11,773,506",
       "averageVolume": 13019481,
       "averageVolume10days": 14045387,
       "marketCap": 17688750080,
@@ -63503,7 +63503,7 @@
         },
         {
           "Close": 66.75,
-          "Volume": 11773500
+          "Volume": 11773506
         }
       ],
       "heldPercentInsiders": 0.67875,
@@ -63525,7 +63525,7 @@
       "fiftyTwoWeekHigh": 6.77,
       "fiftyDayAverage": 4.59,
       "twoHundredDayAverage": 4.25,
-      "volume": "39,660,360",
+      "volume": "39,660,368",
       "averageVolume": 22512152,
       "averageVolume10days": 42691205,
       "marketCap": 5416000000,
@@ -63692,7 +63692,7 @@
         },
         {
           "Close": 6.769999980926514,
-          "Volume": 39660360
+          "Volume": 39660368
         }
       ],
       "heldPercentInsiders": 0.5696,
@@ -72786,7 +72786,7 @@
       "fiftyTwoWeekHigh": 36.94,
       "fiftyDayAverage": 21.17,
       "twoHundredDayAverage": 24.82,
-      "volume": "25,990,430",
+      "volume": "25,990,433",
       "averageVolume": 25690295,
       "averageVolume10days": 25106318,
       "marketCap": 12317552640,
@@ -72953,7 +72953,7 @@
         },
         {
           "Close": 18.25,
-          "Volume": 25990430
+          "Volume": 25990433
         }
       ],
       "heldPercentInsiders": 0.51153,
@@ -74524,7 +74524,7 @@
       "forwardEps": null,
       "bookValue": 32.43,
       "dividendRate": 0.76,
-      "dividendYield": 3.62,
+      "dividendYield": 3.5,
       "exDividendDate": 1762992000,
       "payoutRatio": 0.3091,
       "targetHighPrice": null,
@@ -77133,7 +77133,7 @@
       "fiftyTwoWeekHigh": 14.22,
       "fiftyDayAverage": 6.82,
       "twoHundredDayAverage": 9.04,
-      "volume": "17,408,660",
+      "volume": "17,408,664",
       "averageVolume": 22939804,
       "averageVolume10days": 15899745,
       "marketCap": 5567000064,
@@ -77300,7 +77300,7 @@
         },
         {
           "Close": 5.860000133514404,
-          "Volume": 17408660
+          "Volume": 17408664
         }
       ],
       "heldPercentInsiders": 0.397,
@@ -77359,7 +77359,7 @@
       "forwardEps": null,
       "bookValue": 401.774,
       "dividendRate": 1.64,
-      "dividendYield": 1.01,
+      "dividendYield": 1.04,
       "exDividendDate": 1767139200,
       "payoutRatio": 0.0,
       "targetHighPrice": 265.0,
@@ -79438,7 +79438,7 @@
       "forwardEps": null,
       "bookValue": 3.748,
       "dividendRate": 0.04,
-      "dividendYield": 0.55,
+      "dividendYield": 0.56,
       "exDividendDate": 1761868800,
       "payoutRatio": 8.333301,
       "targetHighPrice": null,
@@ -79816,7 +79816,7 @@
       "forwardEps": null,
       "bookValue": 11.51,
       "dividendRate": 0.25,
-      "dividendYield": 0.7,
+      "dividendYield": 0.76,
       "exDividendDate": 1745539200,
       "payoutRatio": 63.347202,
       "targetHighPrice": null,
@@ -80194,7 +80194,7 @@
       "forwardEps": null,
       "bookValue": 39.762,
       "dividendRate": 0.17,
-      "dividendYield": 0.06,
+      "dividendYield": 0.07,
       "exDividendDate": 1766534400,
       "payoutRatio": 1.4964999,
       "targetHighPrice": null,
@@ -81139,7 +81139,7 @@
       "forwardEps": 8.3,
       "bookValue": 48.265,
       "dividendRate": 0.44,
-      "dividendYield": 0.54,
+      "dividendYield": 0.53,
       "exDividendDate": 1776384000,
       "payoutRatio": 0.38950002,
       "targetHighPrice": 135.0,
@@ -83785,7 +83785,7 @@
       "forwardEps": null,
       "bookValue": 58.833,
       "dividendRate": 0.66,
-      "dividendYield": 0.46,
+      "dividendYield": 0.47,
       "exDividendDate": 1756166400,
       "payoutRatio": 0.2315,
       "targetHighPrice": null,
@@ -84163,7 +84163,7 @@
       "forwardEps": null,
       "bookValue": 70.469,
       "dividendRate": 2.01,
-      "dividendYield": 0.75,
+      "dividendYield": 0.76,
       "exDividendDate": 1759190400,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
@@ -84352,7 +84352,7 @@
       "forwardEps": null,
       "bookValue": 15.04,
       "dividendRate": 1.09,
-      "dividendYield": 3.12,
+      "dividendYield": 3.17,
       "exDividendDate": 1762300800,
       "payoutRatio": 0.0,
       "targetHighPrice": 45.0,
@@ -84540,8 +84540,8 @@
       "eps": -0.49,
       "forwardEps": null,
       "bookValue": 2.832,
-      "dividendRate": 0.13,
-      "dividendYield": 1.35,
+      "dividendRate": 0.18,
+      "dividendYield": 1.94,
       "exDividendDate": 1788134400,
       "payoutRatio": 2.6427,
       "targetHighPrice": null,
@@ -85297,7 +85297,7 @@
       "forwardEps": null,
       "bookValue": 71.743,
       "dividendRate": 7.99,
-      "dividendYield": 5.03,
+      "dividendYield": 5.04,
       "exDividendDate": 1754956800,
       "payoutRatio": 0.4074,
       "targetHighPrice": null,
@@ -86053,7 +86053,7 @@
       "forwardEps": null,
       "bookValue": 11.695,
       "dividendRate": 0.1,
-      "dividendYield": 0.67,
+      "dividendYield": 0.66,
       "exDividendDate": 1748563200,
       "payoutRatio": 0.78550005,
       "targetHighPrice": 22.9,
@@ -87187,7 +87187,7 @@
       "forwardEps": 1.36,
       "bookValue": 54.738,
       "dividendRate": 2.41,
-      "dividendYield": 5.24,
+      "dividendYield": 4.95,
       "exDividendDate": 1760659200,
       "payoutRatio": 0.37939999,
       "targetHighPrice": 88.0,
@@ -87376,7 +87376,7 @@
       "forwardEps": 40.96,
       "bookValue": 125.067,
       "dividendRate": 3.5,
-      "dividendYield": 4.35,
+      "dividendYield": 4.47,
       "exDividendDate": 1749600000,
       "payoutRatio": 0.2058,
       "targetHighPrice": 121.69,
@@ -89077,7 +89077,7 @@
       "forwardEps": 3.5,
       "bookValue": 4.965,
       "dividendRate": 0.2,
-      "dividendYield": 1.66,
+      "dividendYield": 1.63,
       "exDividendDate": 1756339200,
       "payoutRatio": 0.6239,
       "targetHighPrice": 18.25,
@@ -90778,7 +90778,7 @@
       "forwardEps": null,
       "bookValue": 57.438,
       "dividendRate": 4.0,
-      "dividendYield": 5.44,
+      "dividendYield": 5.38,
       "exDividendDate": 1744675200,
       "payoutRatio": 9.3022995,
       "targetHighPrice": null,
@@ -91690,7 +91690,7 @@
       "averageVolume": 8348637,
       "averageVolume10days": 12979344,
       "marketCap": 11728000000,
-      "enterpriseValue": 30439137280,
+      "enterpriseValue": 32109737984,
       "sharesOutstanding": 1600000000,
       "sector": "Consumer Cyclical",
       "industry": "Furnishings, Fixtures & Appliances",
@@ -91704,26 +91704,26 @@
       "forwardPE": 1.6145375,
       "priceToBook": 0.32010132,
       "pegRatio": null,
-      "priceToSales": 0.19333296,
-      "enterpriseToRevenue": 0.502,
-      "enterpriseToEbitda": 20.896,
-      "profitMargins": -0.057290003,
-      "grossMargins": 0.07297,
-      "operatingMargins": -0.00969,
-      "returnOnAssets": -0.00751,
-      "returnOnEquity": -0.104040004,
-      "totalRevenue": 60662185984,
-      "revenuePerShare": 37.914,
-      "totalCash": 293155008,
-      "totalDebt": 18876293120,
-      "debtToEquity": 49.272,
-      "currentRatio": 0.895,
-      "quickRatio": 0.626,
+      "priceToSales": 0.1577191,
+      "enterpriseToRevenue": 0.432,
+      "enterpriseToEbitda": -34.06,
+      "profitMargins": -0.08501001,
+      "grossMargins": 0.07119,
+      "operatingMargins": -0.25817,
+      "returnOnAssets": -0.037019998,
+      "returnOnEquity": -0.17929001,
+      "totalRevenue": 74360045568,
+      "revenuePerShare": 46.463,
+      "totalCash": 326732992,
+      "totalDebt": 20696719360,
+      "debtToEquity": 56.433,
+      "currentRatio": 0.822,
+      "quickRatio": 0.597,
       "eps": -2.17,
       "forwardEps": 4.54,
       "bookValue": 22.899,
       "dividendRate": 0.04,
-      "dividendYield": 0.59,
+      "dividendYield": 0.6,
       "exDividendDate": 1753315200,
       "payoutRatio": 4.2702,
       "targetHighPrice": 15.17,
@@ -91733,7 +91733,7 @@
       "recommendationMean": 3.0,
       "recommendationKey": "hold",
       "numberOfAnalystOpinions": 3,
-      "beta": 0.25,
+      "beta": null,
       "historicalData": [
         {
           "Close": 7.960000038146973,
@@ -92479,7 +92479,7 @@
       "forwardEps": null,
       "bookValue": 2.181,
       "dividendRate": 0.02,
-      "dividendYield": 0.16,
+      "dividendYield": 0.17,
       "exDividendDate": 1751328000,
       "payoutRatio": 0.325,
       "targetHighPrice": null,
@@ -93235,7 +93235,7 @@
       "forwardEps": null,
       "bookValue": 79.058,
       "dividendRate": 7.0,
-      "dividendYield": 4.98,
+      "dividendYield": 4.78,
       "exDividendDate": 1744675200,
       "payoutRatio": 0.109799996,
       "targetHighPrice": null,
@@ -93802,7 +93802,7 @@
       "forwardEps": null,
       "bookValue": 9.507,
       "dividendRate": 0.04,
-      "dividendYield": 0.44,
+      "dividendYield": 0.45,
       "exDividendDate": 1745798400,
       "payoutRatio": 0.0548,
       "targetHighPrice": null,
@@ -93968,7 +93968,7 @@
       "country": "Turkey",
       "phone": "90 312 815 49 50",
       "description": "Yayla Agro Gida Sanayi ve Ticaret A.S. produces and sells various food and grains in Turkey and internationally. It involved in the supply of food products, including paddy, bulgur, pulses, and shelled lentils; production of packaged ready to cook mix food, such as rice and bulgur mixed with various super and natural foods, such as dried tomatoes, dried mushrooms, and eggplant and other vegetables; production of rice, wheat, black beans, maize, beans, chickpeas, kidney beans, bulgur, paddy, lentils, and corn; ready to eat products, which includes pilaki, meaty dried beans and chickpeas, soups, bulgur and rice pilafs, pasta, compotes, legume and olive oil dishes, and grain and legum salads; and engages in trading of unprocessed cereals, grains, and pulses such as wheat, corn, barley, rice, paddy, and lentils as commercial goods. It also provides boiled products comprising boiled chickpeas, beans, ashura wheat, mexican beans, peas, quinoa, and grain corn; and seeds, such as red, black, white, and mixed quinoa, bulghur, chia, white chia, white chia seeds, beluga lentils, mung beans, basmati, sushi, black, and risotto rice, buckwheat, teff, amaranth, and flaxseed. In addition, it offers ezogelin soup with einkorn bulgur; lentil soup with quinoa; gourmet lentil soup; and Ala Çiftçi gourmet fit products. It serves hotels, restaurants, catering companies, restaurants, cafes, cafeterias, education, and health institutions. Yayla Agro Gida Sanayi ve Ticaret A.S. was incorporated in 1996 and is based in Kazan, Turkey.",
-      "pe": 15.333333,
+      "pe": 12.9882345,
       "forwardPE": null,
       "priceToBook": 0.8889605,
       "pegRatio": null,
@@ -93987,7 +93987,7 @@
       "debtToEquity": 86.574,
       "currentRatio": 1.01,
       "quickRatio": 0.416,
-      "eps": 0.72,
+      "eps": 0.85,
       "forwardEps": null,
       "bookValue": 12.419,
       "dividendRate": null,
@@ -94626,7 +94626,7 @@
       "forwardEps": null,
       "bookValue": 16.902,
       "dividendRate": 0.06,
-      "dividendYield": 0.29,
+      "dividendYield": 0.28,
       "exDividendDate": 1759190400,
       "payoutRatio": 0.0379,
       "targetHighPrice": null,
