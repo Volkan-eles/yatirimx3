@@ -13,11 +13,11 @@
     {
       "company": "MCARD",
       "link": "https://halkarz.com/metropal-kurumsal-hizmetler-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "MCARD",
       "price": "80,00 TL",
       "dates": "11 Mart 2026",
-      "distributionType": "Eşit Dağıtım **",
+      "distributionType": "Eşit Dağıtım",
       "lotCount": "18.900.000 Lot"
     },
     {
@@ -28,7 +28,7 @@
       "price": "12,05 TL",
       "dates": "10 Mart 2026",
       "distributionType": "Eşit Dağıtım",
-      "lotCount": "120.000.000 Lot"
+      "lotCount": "%36,36"
     },
     {
       "company": "GENKM",
