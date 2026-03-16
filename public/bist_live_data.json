@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-16T05:25:31.019590",
+  "last_update": "2026-03-16T06:55:56.618145",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 502,
   "successful": 502,
@@ -1522,10 +1522,10 @@
       "symbol": "TUPRS.IS",
       "name": "Türkiye Petrol Rafinerileri A.S.",
       "shortName": "TUPRAS",
-      "price": 253.12,
-      "change": -1.2,
-      "changeRate": -0.47,
-      "previousClose": 254.32,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
+      "previousClose": 253.12,
       "open": 264.75,
       "dayLow": 258.0,
       "dayHigh": 269.0,
@@ -1533,7 +1533,7 @@
       "fiftyTwoWeekHigh": 277.25,
       "fiftyDayAverage": 225.75,
       "twoHundredDayAverage": 187.24,
-      "volume": "42,790,781",
+      "volume": "0",
       "averageVolume": 28103320,
       "averageVolume10days": 51701624,
       "marketCap": 507710668800,
@@ -1582,10 +1582,6 @@
       "numberOfAnalystOpinions": 15,
       "beta": 0.587,
       "historicalData": [
-        {
-          "Close": 220.55548095703125,
-          "Volume": 37418300
-        },
         {
           "Close": 224.7821502685547,
           "Volume": 40104523
@@ -1701,6 +1697,10 @@
         {
           "Close": 253.1200714111328,
           "Volume": 42790781
+        },
+        {
+          "Close": NaN,
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": 0.52744997,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 44.720684,
-      "targetLowPrice": 30.977468,
-      "targetMeanPrice": 37.49246,
-      "targetMedianPrice": 38.62241,
+      "targetHighPrice": 44.71876,
+      "targetLowPrice": 30.976137,
+      "targetMeanPrice": 37.49085,
+      "targetMedianPrice": 38.62075,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -2289,7 +2289,7 @@
       "fiftyTwoWeekHigh": 350.0,
       "fiftyDayAverage": 305.01,
       "twoHundredDayAverage": 215.04,
-      "volume": "22,378,192",
+      "volume": "22,428,192",
       "averageVolume": 44943080,
       "averageVolume10days": 35360107,
       "marketCap": 1469459988480,
@@ -2456,7 +2456,7 @@
         },
         {
           "Close": 322.25,
-          "Volume": 22378192
+          "Volume": 22428192
         }
       ],
       "heldPercentInsiders": 0.74195,
@@ -4546,10 +4546,10 @@
       "symbol": "FROTO.IS",
       "name": "Ford Otomotiv Sanayi A.S.",
       "shortName": "FORD OTOSAN",
-      "price": 106.06,
-      "change": -2.22,
-      "changeRate": -2.05,
-      "previousClose": 108.28,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
+      "previousClose": 106.06,
       "open": 111.7,
       "dayLow": 108.1,
       "dayHigh": 111.8,
@@ -4557,7 +4557,7 @@
       "fiftyTwoWeekHigh": 135.4,
       "fiftyDayAverage": 111.64,
       "twoHundredDayAverage": 100.63,
-      "volume": "11,431,831",
+      "volume": "0",
       "averageVolume": 17327128,
       "averageVolume10days": 12594567,
       "marketCap": 384948273152,
@@ -4606,10 +4606,6 @@
       "numberOfAnalystOpinions": 12,
       "beta": 0.397,
       "historicalData": [
-        {
-          "Close": 110.02395629882812,
-          "Volume": 27580196
-        },
         {
           "Close": 112.63436126708984,
           "Volume": 24195365
@@ -4725,6 +4721,10 @@
         {
           "Close": 106.05999755859375,
           "Volume": 11431831
+        },
+        {
+          "Close": NaN,
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": 0.79687,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.22,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 567.32556,
-      "targetLowPrice": 391.21542,
-      "targetMeanPrice": 458.1545,
-      "targetMedianPrice": 450.31497,
+      "targetHighPrice": 567.16296,
+      "targetLowPrice": 391.10327,
+      "targetMeanPrice": 458.02316,
+      "targetMedianPrice": 450.18588,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 12,
@@ -5691,7 +5691,7 @@
       "fiftyTwoWeekHigh": 5.66,
       "fiftyDayAverage": 2.47,
       "twoHundredDayAverage": 3.11,
-      "volume": "1,029,156,424",
+      "volume": "0",
       "averageVolume": 360915506,
       "averageVolume10days": 417239886,
       "marketCap": 107786420224,
@@ -5858,7 +5858,7 @@
         },
         {
           "Close": 2.4600000381469727,
-          "Volume": 1029156424
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": 0.69254,
@@ -7018,7 +7018,7 @@
       "averageVolume": 6396418,
       "averageVolume10days": 6038198,
       "marketCap": 40251084800,
-      "enterpriseValue": 76845203456,
+      "enterpriseValue": 71799537664,
       "sharesOutstanding": 369276000,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
@@ -7030,26 +7030,26 @@
       "description": "Ülker Bisküvi Sanayi A.S., together with its subsidiaries, manufactures, markets, and sells biscuits, chocolates, chocolate coated biscuits, wafers, and cakes in Turkey and internationally. The company also offers spread chocolate, crackers, Bebe biscuits, light snacks, gum, gift chocolates and candies, kid's snacks, and food supplements. It is also involved in trading, investment, and consultancy services. The company was founded in 1944 and is headquartered in Istanbul, Turkey. Ülker Bisküvi Sanayi A.S. operates as a subsidiary of Yildiz Holding A.S.",
       "pe": 6.570223,
       "forwardPE": 3.7913043,
-      "priceToBook": 0.9295503,
+      "priceToBook": 0.92954236,
       "pegRatio": null,
       "priceToSales": 0.35969105,
-      "enterpriseToRevenue": 0.687,
-      "enterpriseToEbitda": 4.224,
+      "enterpriseToRevenue": 0.642,
+      "enterpriseToEbitda": 3.742,
       "profitMargins": 0.04356,
       "grossMargins": 0.28905,
-      "operatingMargins": 0.07711,
-      "returnOnAssets": 0.08772001,
+      "operatingMargins": 0.10922,
+      "returnOnAssets": 0.093260005,
       "returnOnEquity": 0.13122,
       "totalRevenue": 111904604160,
       "revenuePerShare": 303.038,
       "totalCash": 23325102080,
-      "totalDebt": 57345380352,
-      "debtToEquity": 125.002,
+      "totalDebt": 52299730944,
+      "debtToEquity": 114.003,
       "currentRatio": 2.406,
-      "quickRatio": 1.553,
+      "quickRatio": 1.555,
       "eps": 16.59,
       "forwardEps": 28.75,
-      "bookValue": 117.261,
+      "bookValue": 117.262,
       "dividendRate": 8.07,
       "dividendYield": 7.4,
       "exDividendDate": 1750291200,
@@ -10609,7 +10609,7 @@
       "averageVolume": 127508,
       "averageVolume10days": 123755,
       "marketCap": 60609155072,
-      "enterpriseValue": 61598367744,
+      "enterpriseValue": 0,
       "sharesOutstanding": 27537101,
       "sector": "Basic Materials",
       "industry": "Steel",
@@ -10623,21 +10623,21 @@
       "forwardPE": null,
       "priceToBook": 2.0899286,
       "pegRatio": null,
-      "priceToSales": 675.8328,
-      "enterpriseToRevenue": 686.863,
+      "priceToSales": 675.8325,
+      "enterpriseToRevenue": null,
       "enterpriseToEbitda": null,
-      "profitMargins": 22.673811,
+      "profitMargins": 51.745487,
       "grossMargins": 1.0,
-      "operatingMargins": -0.90829,
-      "returnOnAssets": -0.00174,
-      "returnOnEquity": 0.072569996,
-      "totalRevenue": 89680688,
-      "revenuePerShare": 3.189,
-      "totalCash": 248708656,
-      "totalDebt": 0,
-      "debtToEquity": null,
-      "currentRatio": 76.522,
-      "quickRatio": 15.75,
+      "operatingMargins": 45.29588,
+      "returnOnAssets": 0.07697,
+      "returnOnEquity": 0.15208,
+      "totalRevenue": 89680728,
+      "revenuePerShare": null,
+      "totalCash": 5212606976,
+      "totalDebt": 10540,
+      "debtToEquity": 0.0,
+      "currentRatio": 4.969,
+      "quickRatio": 4.902,
       "eps": 72.19,
       "forwardEps": null,
       "bookValue": 1053.146,
@@ -10652,7 +10652,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.458,
+      "beta": null,
       "historicalData": [
         {
           "Close": 2268.0,
@@ -20433,7 +20433,7 @@
       "fiftyTwoWeekHigh": 14.01,
       "fiftyDayAverage": 9.18,
       "twoHundredDayAverage": 9.63,
-      "volume": "38,108,477",
+      "volume": "38,108,470",
       "averageVolume": 47586315,
       "averageVolume10days": 32202663,
       "marketCap": 10850161664,
@@ -20600,7 +20600,7 @@
         },
         {
           "Close": 8.40999984741211,
-          "Volume": 38108477
+          "Volume": 38108470
         }
       ],
       "heldPercentInsiders": 0.62106,
@@ -21756,7 +21756,7 @@
       "fiftyTwoWeekHigh": 33.16,
       "fiftyDayAverage": 2.97,
       "twoHundredDayAverage": 14.15,
-      "volume": "14,384,529",
+      "volume": "14,384,520",
       "averageVolume": 44741289,
       "averageVolume10days": 48747832,
       "marketCap": 1980999936,
@@ -21923,7 +21923,7 @@
         },
         {
           "Close": 2.8299999237060547,
-          "Volume": 14384529
+          "Volume": 14384520
         }
       ],
       "heldPercentInsiders": 0.57607,
@@ -21945,7 +21945,7 @@
       "fiftyTwoWeekHigh": 7.58,
       "fiftyDayAverage": 6.31,
       "twoHundredDayAverage": 5.9,
-      "volume": "10,368,489",
+      "volume": "10,368,480",
       "averageVolume": 15496263,
       "averageVolume10days": 9116349,
       "marketCap": 5836800000,
@@ -22112,7 +22112,7 @@
         },
         {
           "Close": 6.079999923706055,
-          "Volume": 10368489
+          "Volume": 10368480
         }
       ],
       "heldPercentInsiders": 0.70833,
@@ -27048,7 +27048,7 @@
       "fiftyTwoWeekHigh": 36.02,
       "fiftyDayAverage": 30.52,
       "twoHundredDayAverage": 22.84,
-      "volume": "19,158,366",
+      "volume": "19,158,360",
       "averageVolume": 34137685,
       "averageVolume10days": 23844380,
       "marketCap": 31831121920,
@@ -27215,7 +27215,7 @@
         },
         {
           "Close": 29.520000457763672,
-          "Volume": 19158366
+          "Volume": 19158360
         }
       ],
       "heldPercentInsiders": 0.60861,
@@ -33663,7 +33663,7 @@
       "fiftyTwoWeekHigh": 7.42,
       "fiftyDayAverage": 5.96,
       "twoHundredDayAverage": 6.17,
-      "volume": "15,584,235",
+      "volume": "15,584,230",
       "averageVolume": 19629419,
       "averageVolume10days": 20919227,
       "marketCap": 6339200000,
@@ -33830,7 +33830,7 @@
         },
         {
           "Close": 5.659999847412109,
-          "Volume": 15584235
+          "Volume": 15584230
         }
       ],
       "heldPercentInsiders": 0.72571,
@@ -34608,7 +34608,7 @@
       "fiftyTwoWeekHigh": 11.93,
       "fiftyDayAverage": 9.57,
       "twoHundredDayAverage": 9.31,
-      "volume": "13,617,554",
+      "volume": "13,617,550",
       "averageVolume": 20350956,
       "averageVolume10days": 14587119,
       "marketCap": 82709995520,
@@ -34775,7 +34775,7 @@
         },
         {
           "Close": 9.1899995803833,
-          "Volume": 13617554
+          "Volume": 13617550
         }
       ],
       "heldPercentInsiders": 0.72905,
@@ -37065,7 +37065,7 @@
       "fiftyTwoWeekHigh": 44.82,
       "fiftyDayAverage": 38.35,
       "twoHundredDayAverage": 31.36,
-      "volume": "13,014,778",
+      "volume": "13,014,770",
       "averageVolume": 11934641,
       "averageVolume10days": 10963358,
       "marketCap": 23245201408,
@@ -37232,7 +37232,7 @@
         },
         {
           "Close": 35.220001220703125,
-          "Volume": 13014778
+          "Volume": 13014770
         }
       ],
       "heldPercentInsiders": 0.60358,
@@ -37632,7 +37632,7 @@
       "fiftyTwoWeekHigh": 5.59,
       "fiftyDayAverage": 3.76,
       "twoHundredDayAverage": 3.71,
-      "volume": "55,316,147",
+      "volume": "55,316,140",
       "averageVolume": 17941901,
       "averageVolume10days": 40894482,
       "marketCap": 2247000064,
@@ -37799,7 +37799,7 @@
         },
         {
           "Close": 3.2100000381469727,
-          "Volume": 55316147
+          "Volume": 55316140
         }
       ],
       "heldPercentInsiders": 0.64492995,
@@ -39700,10 +39700,10 @@
       "symbol": "GEDIK.IS",
       "name": "Gedik Yatirim Menkul Degerler A.S.",
       "shortName": "GEDIK Y. MEN. DEG.",
-      "price": 5.26,
-      "change": 0.07,
-      "changeRate": 1.26,
-      "previousClose": 5.19,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
+      "previousClose": 5.26,
       "open": 5.56,
       "dayLow": 5.49,
       "dayHigh": 5.68,
@@ -39711,7 +39711,7 @@
       "fiftyTwoWeekHigh": 10.91,
       "fiftyDayAverage": 5.91,
       "twoHundredDayAverage": 6.73,
-      "volume": "4,788,640",
+      "volume": "0",
       "averageVolume": 7372856,
       "averageVolume10days": 5051324,
       "marketCap": 11260000256,
@@ -39760,10 +39760,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.658,
       "historicalData": [
-        {
-          "Close": 5.5816874504089355,
-          "Volume": 10325838
-        },
         {
           "Close": 5.712362289428711,
           "Volume": 10468165
@@ -39879,6 +39875,10 @@
         {
           "Close": 5.255000114440918,
           "Volume": 4788640
+        },
+        {
+          "Close": NaN,
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": 0.86342,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 78.835495,
-      "targetLowPrice": 61.424515,
-      "targetMeanPrice": 70.130005,
-      "targetMedianPrice": 70.130005,
+      "targetHighPrice": 78.83835,
+      "targetLowPrice": 61.42674,
+      "targetMeanPrice": 70.132545,
+      "targetMedianPrice": 70.132545,
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 2,
@@ -52941,7 +52941,7 @@
       "fiftyTwoWeekHigh": 6.39,
       "fiftyDayAverage": 5.13,
       "twoHundredDayAverage": 4.63,
-      "volume": "42,479,459",
+      "volume": "42,479,450",
       "averageVolume": 34709947,
       "averageVolume10days": 33919385,
       "marketCap": 14400001024,
@@ -53108,7 +53108,7 @@
         },
         {
           "Close": 4.800000190734863,
-          "Volume": 42479459
+          "Volume": 42479450
         }
       ],
       "heldPercentInsiders": 0.59215,
@@ -53130,7 +53130,7 @@
       "fiftyTwoWeekHigh": 24.04,
       "fiftyDayAverage": 17.72,
       "twoHundredDayAverage": 14.93,
-      "volume": "11,662,393",
+      "volume": "11,662,390",
       "averageVolume": 13401073,
       "averageVolume10days": 15015921,
       "marketCap": 10841999360,
@@ -53297,7 +53297,7 @@
         },
         {
           "Close": 18.06999969482422,
-          "Volume": 11662393
+          "Volume": 11662390
         }
       ],
       "heldPercentInsiders": 0.76,
@@ -56154,7 +56154,7 @@
       "fiftyTwoWeekHigh": 3.21,
       "fiftyDayAverage": 2.66,
       "twoHundredDayAverage": 2.68,
-      "volume": "11,049,365",
+      "volume": "11,049,360",
       "averageVolume": 29303935,
       "averageVolume10days": 17949722,
       "marketCap": 6095239680,
@@ -56321,7 +56321,7 @@
         },
         {
           "Close": 2.440000057220459,
-          "Volume": 11049365
+          "Volume": 11049360
         }
       ],
       "heldPercentInsiders": 0.76426005,
@@ -58989,7 +58989,7 @@
       "fiftyTwoWeekHigh": 60.6,
       "fiftyDayAverage": 38.05,
       "twoHundredDayAverage": 18.73,
-      "volume": "89,165,289",
+      "volume": "89,165,280",
       "averageVolume": 72685304,
       "averageVolume10days": 80304062,
       "marketCap": 114263998464,
@@ -59156,7 +59156,7 @@
         },
         {
           "Close": 55.20000076293945,
-          "Volume": 89165289
+          "Volume": 89165280
         }
       ],
       "heldPercentInsiders": 0.37754002,
@@ -60490,10 +60490,10 @@
       "symbol": "LINK.IS",
       "name": "Link Bilgisayar Sistemleri Yazilimi ve Donanimi Sanayi ve Ticaret A.S.",
       "shortName": "LINK BILGISAYAR",
-      "price": 234.7,
-      "change": 228.82,
-      "changeRate": 3892.82,
-      "previousClose": 5.88,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
+      "previousClose": 5.72,
       "open": 242.1,
       "dayLow": 233.1,
       "dayHigh": 244.2,
@@ -60501,7 +60501,7 @@
       "fiftyTwoWeekHigh": 244.2,
       "fiftyDayAverage": 5.68,
       "twoHundredDayAverage": 9.91,
-      "volume": "1,114,975",
+      "volume": "0",
       "averageVolume": 39451157,
       "averageVolume10days": 42779055,
       "marketCap": 8581091426304,
@@ -60550,10 +60550,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.57,
       "historicalData": [
-        {
-          "Close": 5.487803936004639,
-          "Volume": 24895651
-        },
         {
           "Close": 5.512195110321045,
           "Volume": 19361799
@@ -60667,8 +60663,12 @@
           "Volume": 87198472
         },
         {
-          "Close": 234.6999969482422,
-          "Volume": 1114975
+          "Close": 5.724390029907227,
+          "Volume": 45713975
+        },
+        {
+          "Close": NaN,
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": 0.43355,
@@ -60879,7 +60879,7 @@
       "fiftyTwoWeekHigh": 7.8,
       "fiftyDayAverage": 4.09,
       "twoHundredDayAverage": 5.14,
-      "volume": "10,051,092",
+      "volume": "10,051,090",
       "averageVolume": 28301290,
       "averageVolume10days": 18737440,
       "marketCap": 2613541632,
@@ -61046,7 +61046,7 @@
         },
         {
           "Close": 3.4200000762939453,
-          "Volume": 10051092
+          "Volume": 10051090
         }
       ],
       "heldPercentInsiders": 0.15646,
@@ -63525,7 +63525,7 @@
       "fiftyTwoWeekHigh": 8.13,
       "fiftyDayAverage": 5.12,
       "twoHundredDayAverage": 4.41,
-      "volume": "27,336,667",
+      "volume": "27,336,660",
       "averageVolume": 31146338,
       "averageVolume10days": 70263042,
       "marketCap": 5624000000,
@@ -63692,7 +63692,7 @@
         },
         {
           "Close": 7.03000020980835,
-          "Volume": 27336667
+          "Volume": 27336660
         }
       ],
       "heldPercentInsiders": 0.5696,
@@ -72786,7 +72786,7 @@
       "fiftyTwoWeekHigh": 36.94,
       "fiftyDayAverage": 19.89,
       "twoHundredDayAverage": 24.86,
-      "volume": "11,109,971",
+      "volume": "11,109,970",
       "averageVolume": 25372398,
       "averageVolume10days": 19889739,
       "marketCap": 12135320576,
@@ -72953,7 +72953,7 @@
         },
         {
           "Close": 17.979999542236328,
-          "Volume": 11109971
+          "Volume": 11109970
         }
       ],
       "heldPercentInsiders": 0.51153,
@@ -77133,7 +77133,7 @@
       "fiftyTwoWeekHigh": 14.2,
       "fiftyDayAverage": 6.71,
       "twoHundredDayAverage": 8.81,
-      "volume": "13,783,003",
+      "volume": "13,783,000",
       "averageVolume": 22964554,
       "averageVolume10days": 18570707,
       "marketCap": 5804499968,
@@ -77300,7 +77300,7 @@
         },
         {
           "Close": 6.110000133514404,
-          "Volume": 13783003
+          "Volume": 13783000
         }
       ],
       "heldPercentInsiders": 0.397,
@@ -89418,7 +89418,7 @@
       "fiftyTwoWeekHigh": 4.65,
       "fiftyDayAverage": 3.97,
       "twoHundredDayAverage": 3.87,
-      "volume": "14,272,438",
+      "volume": "14,272,430",
       "averageVolume": 13334580,
       "averageVolume10days": 10106300,
       "marketCap": 0,
@@ -89585,7 +89585,7 @@
         },
         {
           "Close": 3.9600000381469727,
-          "Volume": 14272438
+          "Volume": 14272430
         }
       ],
       "heldPercentInsiders": 0.42771998,
