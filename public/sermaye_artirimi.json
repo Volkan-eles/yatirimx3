@@ -1,12 +1,21 @@
 [
   {
-    "code": "LINK",
-    "company": "LINK Link Bilgisayar Sistemleri Yazılımı ve Donanımı San. ve Tic. A.Ş.",
+    "code": "CRDFA",
+    "company": "CRDFA Creditwest Faktoring A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%4000",
-    "date": "16.03.2026",
+    "rate": "%200",
+    "date": "17.03.2026",
     "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 16.03.2026 | Tutar: 870.004.835 TL"
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "YEOTK",
+    "company": "YEOTK Yeo Teknoloji Enerji ve Endüstri A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%133,80",
+    "date": "17.03.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "TURSG",
@@ -16,6 +25,15 @@
     "date": "13.03.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "HEDEF",
+    "company": "HEDEF Hedef Holding A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%53,88",
+    "date": "09.03.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1.050.544.100 TL"
   },
   {
     "code": "FRIGO",
@@ -223,15 +241,6 @@
     "date": "22.09.2023",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "MARTI",
-    "company": "MARTI Martı Otel İşletmeleri A.Ş.",
-    "type": "Bedelli",
-    "rate": "%150",
-    "date": "26.02.2026 Bitiş: 12.03.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 26.02.2026 Bitiş: 12.03.2026 | Tutar: 1 TL"
   },
   {
     "code": "ARZUM",
