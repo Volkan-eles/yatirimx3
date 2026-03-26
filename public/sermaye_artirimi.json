@@ -4,9 +4,18 @@
     "company": "CRDFA Creditwest Faktoring A.Ş.",
     "type": "Bedelsiz",
     "rate": "%200",
-    "date": "17.03.2026",
+    "date": "31.03.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 31.03.2026"
+  },
+  {
+    "code": "GOODY",
+    "company": "GOODY Goodyear Lastikleri T.A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%462,96",
+    "date": "25.03.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "ISGSY",
@@ -250,6 +259,15 @@
     "date": "22.09.2023",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "DMSAS",
+    "company": "DMSAS Demisaş Döküm Emaye Mamülleri San. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%50",
+    "date": "25.03.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "ARZUM",
