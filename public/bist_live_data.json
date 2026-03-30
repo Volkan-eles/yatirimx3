@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-03-30T19:14:07.500789",
+  "last_update": "2026-03-30T20:08:57.826867",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 501,
-  "successful": 501,
-  "failed": 30,
+  "total_stocks": 502,
+  "successful": 502,
+  "failed": 29,
   "stocks": [
     {
       "code": "GARAN",
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 45.14586,
-      "targetLowPrice": 31.148863,
-      "targetMeanPrice": 38.56327,
-      "targetMedianPrice": 38.8361,
+      "targetHighPrice": 45.154007,
+      "targetLowPrice": 31.154486,
+      "targetMeanPrice": 38.570232,
+      "targetMedianPrice": 38.843113,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.23,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 571.4893,
-      "targetLowPrice": 394.08667,
-      "targetMeanPrice": 461.51703,
-      "targetMedianPrice": 453.61996,
+      "targetHighPrice": 571.899,
+      "targetLowPrice": 394.36914,
+      "targetMeanPrice": 461.8478,
+      "targetMedianPrice": 453.9451,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 12,
@@ -8698,6 +8698,195 @@
       ],
       "heldPercentInsiders": 0.48648,
       "heldPercentInstitutions": 0.15931
+    },
+    {
+      "code": "AKSA",
+      "symbol": "AKSA.IS",
+      "name": "Aksa Akrilik Kimya Sanayii A.S.",
+      "shortName": "AKSA",
+      "price": 10.57,
+      "change": -0.22,
+      "changeRate": -2.04,
+      "previousClose": 10.79,
+      "open": 10.83,
+      "dayLow": 10.41,
+      "dayHigh": 10.93,
+      "fiftyTwoWeekLow": 8.57,
+      "fiftyTwoWeekHigh": 12.65,
+      "fiftyDayAverage": 10.55,
+      "twoHundredDayAverage": 10.44,
+      "volume": "17,005,354",
+      "averageVolume": 23050844,
+      "averageVolume10days": 23166252,
+      "marketCap": 41064448000,
+      "enterpriseValue": 63756271616,
+      "sharesOutstanding": 3885000000,
+      "sector": "Consumer Cyclical",
+      "industry": "Textile Manufacturing",
+      "website": "https://www.aksa.com",
+      "address": "Merkez Mahallesi Ali Raif Dinçkök Caddesi No:2",
+      "city": "Yalova",
+      "country": "Turkey",
+      "phone": "90 226 353 25 45",
+      "description": "Aksa Akrilik Kimya Sanayii A.S., together with its subsidiaries, manufactures and sells textiles, chemicals, and other industrial products in Turkey and internationally. It operates through three segments: Fibers, Energy, and Other. The company offers acrylic fibers, textile fibers, outdoor fibers, industrial fibers, acrylic filament yarns, modacrylic, recycled fiber, knitting, hand knitting, carpet, home textiles and upholstery, toy/hi-pile, UV resistant, and technical application products, as well as protective garments. It also provides raw and auxiliary materials, as well as intermediate substances; artificial, synthetic and natural fibers, carbon fibers, and filament and polymers; and equipment, machinery, and spare parts used in production, processing, and storage activity. In addition, the company engages in marketing and trading activities; generation and sale of electricity; start-up and rental of energy generation pants; and import and export of its products to domestic, foreign, and international branches, as well as rents real estate. Aksa Akrilik Kimya Sanayii A.S. was founded in 1968 and is headquartered in Yalova, Turkey.",
+      "pe": 10.2621355,
+      "forwardPE": 17.048386,
+      "priceToBook": 1.2548972,
+      "pegRatio": null,
+      "priceToSales": 1.2656937,
+      "enterpriseToRevenue": 1.965,
+      "enterpriseToEbitda": 10.635,
+      "profitMargins": 0.123789996,
+      "grossMargins": 0.1519,
+      "operatingMargins": -0.03255,
+      "returnOnAssets": 0.026619999,
+      "returnOnEquity": 0.12087,
+      "totalRevenue": 32444223488,
+      "revenuePerShare": 8.351,
+      "totalCash": 5259785216,
+      "totalDebt": 26183315456,
+      "debtToEquity": 77.839,
+      "currentRatio": 0.848,
+      "quickRatio": 0.515,
+      "eps": 1.03,
+      "forwardEps": 0.62,
+      "bookValue": 8.423,
+      "dividendRate": 0.58,
+      "dividendYield": 5.38,
+      "exDividendDate": 1775174400,
+      "payoutRatio": 0.466,
+      "targetHighPrice": 15.8,
+      "targetLowPrice": 12.5,
+      "targetMeanPrice": 13.86667,
+      "targetMedianPrice": 13.3,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 3,
+      "beta": 0.109,
+      "historicalData": [
+        {
+          "Close": 11.3100004196167,
+          "Volume": 23128819
+        },
+        {
+          "Close": 11.180000305175781,
+          "Volume": 15789847
+        },
+        {
+          "Close": 10.949999809265137,
+          "Volume": 22103198
+        },
+        {
+          "Close": 10.6899995803833,
+          "Volume": 20885521
+        },
+        {
+          "Close": 11.260000228881836,
+          "Volume": 78361591
+        },
+        {
+          "Close": 10.859999656677246,
+          "Volume": 53299329
+        },
+        {
+          "Close": 10.680000305175781,
+          "Volume": 24765553
+        },
+        {
+          "Close": 10.430000305175781,
+          "Volume": 21463604
+        },
+        {
+          "Close": 10.350000381469727,
+          "Volume": 18474906
+        },
+        {
+          "Close": 10.180000305175781,
+          "Volume": 20046338
+        },
+        {
+          "Close": 9.84000015258789,
+          "Volume": 25225999
+        },
+        {
+          "Close": 9.869999885559082,
+          "Volume": 20427201
+        },
+        {
+          "Close": 9.779999732971191,
+          "Volume": 18479020
+        },
+        {
+          "Close": 9.920000076293945,
+          "Volume": 15087069
+        },
+        {
+          "Close": 10.0600004196167,
+          "Volume": 18164791
+        },
+        {
+          "Close": 9.960000038146973,
+          "Volume": 22745911
+        },
+        {
+          "Close": 10.170000076293945,
+          "Volume": 26622401
+        },
+        {
+          "Close": 10.289999961853027,
+          "Volume": 16547770
+        },
+        {
+          "Close": 10.829999923706055,
+          "Volume": 37560048
+        },
+        {
+          "Close": 10.819999694824219,
+          "Volume": 33524629
+        },
+        {
+          "Close": 10.930000305175781,
+          "Volume": 23720297
+        },
+        {
+          "Close": 11.119999885559082,
+          "Volume": 28442843
+        },
+        {
+          "Close": 11.109999656677246,
+          "Volume": 19714930
+        },
+        {
+          "Close": 11.100000381469727,
+          "Volume": 4618907
+        },
+        {
+          "Close": 11.010000228881836,
+          "Volume": 25603766
+        },
+        {
+          "Close": 10.970000267028809,
+          "Volume": 21449741
+        },
+        {
+          "Close": 10.8100004196167,
+          "Volume": 13911792
+        },
+        {
+          "Close": 11.25,
+          "Volume": 43437006
+        },
+        {
+          "Close": 10.789999961853027,
+          "Volume": 40723571
+        },
+        {
+          "Close": 10.569999694824219,
+          "Volume": 17005354
+        }
+      ],
+      "heldPercentInsiders": 0.65,
+      "heldPercentInstitutions": 0.05914
     },
     {
       "code": "AKSEN",
@@ -45043,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.26687,
-      "targetLowPrice": 61.760616,
-      "targetMeanPrice": 70.51374,
-      "targetMedianPrice": 70.51374,
+      "targetHighPrice": 79.28061,
+      "targetLowPrice": 61.77132,
+      "targetMeanPrice": 70.52596,
+      "targetMedianPrice": 70.52596,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
