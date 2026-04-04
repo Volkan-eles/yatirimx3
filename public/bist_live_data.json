@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-04T08:51:51.174626",
+  "last_update": "2026-04-04T09:45:25.496113",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 501,
   "successful": 501,
@@ -1764,10 +1764,10 @@
       "payoutRatio": 0.0,
       "targetHighPrice": 24.0,
       "targetLowPrice": 10.0,
-      "targetMeanPrice": 16.99556,
+      "targetMeanPrice": 17.10667,
       "targetMedianPrice": 18.4,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 3.77778,
+      "recommendationKey": "underperform",
       "numberOfAnalystOpinions": 9,
       "beta": 0.054,
       "historicalData": [
