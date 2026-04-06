@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-06T02:58:24.020463",
+  "last_update": "2026-04-06T05:33:29.811572",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 501,
   "successful": 501,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 45.312584,
-      "targetLowPrice": 31.263897,
-      "targetMeanPrice": 38.70569,
-      "targetMedianPrice": 38.979527,
+      "targetHighPrice": 45.296024,
+      "targetLowPrice": 31.25247,
+      "targetMeanPrice": 38.691544,
+      "targetMedianPrice": 38.96528,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.12,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 576.4445,
-      "targetLowPrice": 397.50366,
-      "targetMeanPrice": 465.59982,
-      "targetMedianPrice": 457.55316,
+      "targetHighPrice": 576.63715,
+      "targetLowPrice": 397.63647,
+      "targetMeanPrice": 465.7554,
+      "targetMedianPrice": 457.70602,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -32154,7 +32154,7 @@
       "volume": "11,882,300",
       "averageVolume": 24857639,
       "averageVolume10days": 15728069,
-      "marketCap": 7440144896,
+      "marketCap": 7974680064,
       "enterpriseValue": 6830601216,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +32169,7 @@
       "forwardPE": null,
       "priceToBook": 8.363472,
       "pegRatio": null,
-      "priceToSales": 3.0453293,
+      "priceToSales": 3.26412,
       "enterpriseToRevenue": 2.796,
       "enterpriseToEbitda": 83.916,
       "profitMargins": -0.00557,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.56426,
-      "targetLowPrice": 61.992332,
-      "targetMeanPrice": 70.7783,
-      "targetMedianPrice": 70.7783,
+      "targetHighPrice": 79.562294,
+      "targetLowPrice": 61.9908,
+      "targetMeanPrice": 70.77655,
+      "targetMedianPrice": 70.77655,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
@@ -89218,10 +89218,10 @@
       "symbol": "ULUFA.IS",
       "name": "Ulusal Faktoring A.S.",
       "shortName": "ULUSAL FAKTORING",
-      "price": 4.86,
-      "change": 0.17,
+      "price": 4.61,
+      "change": 0.16,
       "changeRate": 3.62,
-      "previousClose": 4.69,
+      "previousClose": 4.45,
       "open": 4.7,
       "dayLow": 4.67,
       "dayHigh": 4.94,
@@ -89279,123 +89279,123 @@
       "beta": -0.55,
       "historicalData": [
         {
-          "Close": 4.079999923706055,
+          "Close": 3.8725924491882324,
           "Volume": 10799520
         },
         {
-          "Close": 4.199999809265137,
+          "Close": 3.9864919185638428,
           "Volume": 12391570
         },
         {
-          "Close": 4.110000133514404,
+          "Close": 3.9010674953460693,
           "Volume": 10255360
         },
         {
-          "Close": 3.990000009536743,
+          "Close": 3.787167549133301,
           "Volume": 12722070
         },
         {
-          "Close": 4.010000228881836,
+          "Close": 3.8061511516571045,
           "Volume": 4712779
         },
         {
-          "Close": 3.9600000381469727,
+          "Close": 3.758692741394043,
           "Volume": 13035180
         },
         {
-          "Close": 3.869999885559082,
+          "Close": 3.6732676029205322,
           "Volume": 13433140
         },
         {
-          "Close": 3.859999895095825,
+          "Close": 3.663776159286499,
           "Volume": 8405474
         },
         {
-          "Close": 3.7899999618530273,
+          "Close": 3.597334623336792,
           "Volume": 10301820
         },
         {
-          "Close": 3.8299999237060547,
+          "Close": 3.635301113128662,
           "Volume": 7500079
         },
         {
-          "Close": 3.759999990463257,
+          "Close": 3.568859577178955,
           "Volume": 6488660
         },
         {
-          "Close": 3.809999942779541,
+          "Close": 3.6163177490234375,
           "Volume": 10019890
         },
         {
-          "Close": 3.950000047683716,
+          "Close": 3.7492010593414307,
           "Volume": 12358250
         },
         {
-          "Close": 3.890000104904175,
+          "Close": 3.692251205444336,
           "Volume": 7807056
         },
         {
-          "Close": 3.9000000953674316,
+          "Close": 3.7017428874969482,
           "Volume": 10476210
         },
         {
-          "Close": 3.9600000381469727,
+          "Close": 3.758692741394043,
           "Volume": 14272430
         },
         {
-          "Close": 4.059999942779541,
+          "Close": 3.853609085083008,
           "Volume": 16570710
         },
         {
-          "Close": 4.159999847412109,
+          "Close": 3.9485254287719727,
           "Volume": 15377850
         },
         {
-          "Close": 4.260000228881836,
+          "Close": 4.043442249298096,
           "Volume": 31242550
         },
         {
-          "Close": 4.25,
+          "Close": 4.033950328826904,
           "Volume": 4700787
         },
         {
-          "Close": 4.110000133514404,
+          "Close": 3.9010674953460693,
           "Volume": 28579890
         },
         {
-          "Close": 4.269999980926514,
+          "Close": 4.052933692932129,
           "Volume": 23246900
         },
         {
-          "Close": 4.690000057220459,
+          "Close": 4.451582908630371,
           "Volume": 35786910
         },
         {
-          "Close": 4.739999771118164,
+          "Close": 4.4990410804748535,
           "Volume": 48035230
         },
         {
-          "Close": 4.369999885559082,
+          "Close": 4.147850036621094,
           "Volume": 20586580
         },
         {
-          "Close": 4.5,
+          "Close": 4.271241664886475,
           "Volume": 21202810
         },
         {
-          "Close": 4.449999809265137,
+          "Close": 4.223783016204834,
           "Volume": 16999670
         },
         {
-          "Close": 4.679999828338623,
+          "Close": 4.44209098815918,
           "Volume": 16996730
         },
         {
-          "Close": 4.690000057220459,
+          "Close": 4.451582908630371,
           "Volume": 10957060
         },
         {
-          "Close": 4.860000133514404,
+          "Close": 4.612941265106201,
           "Volume": 24655040
         }
       ],
