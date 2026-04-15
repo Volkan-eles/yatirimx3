@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-04-15T18:46:24.551187",
+  "last_update": "2026-04-15T20:09:13.971981",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 501,
-  "successful": 501,
-  "failed": 30,
+  "total_stocks": 500,
+  "successful": 500,
+  "failed": 31,
   "stocks": [
     {
       "code": "GARAN",
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 45.464172,
-      "targetLowPrice": 31.368486,
-      "targetMeanPrice": 38.835175,
-      "targetMedianPrice": 39.10993,
+      "targetHighPrice": 45.4533,
+      "targetLowPrice": 31.360987,
+      "targetMeanPrice": 38.825886,
+      "targetMedianPrice": 39.100574,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.09,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 592.4352,
-      "targetLowPrice": 408.53046,
-      "targetMeanPrice": 477.94363,
-      "targetMedianPrice": 470.24573,
+      "targetHighPrice": 592.35406,
+      "targetLowPrice": 408.47455,
+      "targetMeanPrice": 477.8782,
+      "targetMedianPrice": 470.18137,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.82043,
-      "targetLowPrice": 62.19192,
-      "targetMeanPrice": 71.00617,
-      "targetMedianPrice": 71.00617,
+      "targetHighPrice": 79.80867,
+      "targetLowPrice": 62.182762,
+      "targetMeanPrice": 70.99572,
+      "targetMedianPrice": 70.99572,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
@@ -93181,195 +93181,6 @@
       ],
       "heldPercentInsiders": 0.2,
       "heldPercentInstitutions": 0.03597
-    },
-    {
-      "code": "YGYO",
-      "symbol": "YGYO.IS",
-      "name": "Yesil Gayrimenkul Yatirim Ortakligi A.S.",
-      "shortName": "YESIL GMYO",
-      "price": 1.8,
-      "change": 0.0,
-      "changeRate": 0.0,
-      "previousClose": 1.8,
-      "open": 2.0,
-      "dayLow": 1.8,
-      "dayHigh": 2.0,
-      "fiftyTwoWeekLow": 0.92,
-      "fiftyTwoWeekHigh": 2.2,
-      "fiftyDayAverage": 1.75,
-      "twoHundredDayAverage": 1.53,
-      "volume": "0",
-      "averageVolume": 1536802,
-      "averageVolume10days": 0,
-      "marketCap": 2368952064,
-      "enterpriseValue": 3933580544,
-      "sharesOutstanding": 1316084515,
-      "sector": "",
-      "industry": "",
-      "website": "https://www.yesilgyo.com",
-      "address": "Yesil Plaza",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 709 37 45",
-      "description": "Ihlas Gayrimenkul Yatirim Ortakligi A.S. is a publicly owned real estate investment firm. The firm invests in real estate, real estate projects, real estate backed rights, real estate backed capital market instruments, and capital markets. Ihlas Gayrimenkul Yatirim Ortakligi was founded in December 1997 and is based in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 0.19518542,
-      "pegRatio": null,
-      "priceToSales": -0.63254315,
-      "enterpriseToRevenue": -1.05,
-      "enterpriseToEbitda": -1.101,
-      "profitMargins": 0.0,
-      "grossMargins": 0.0,
-      "operatingMargins": 1.04754,
-      "returnOnAssets": -0.116569996,
-      "returnOnEquity": -0.42181,
-      "totalRevenue": -3745123328,
-      "revenuePerShare": -2.846,
-      "totalCash": 919710,
-      "totalDebt": 1533185792,
-      "debtToEquity": 12.598,
-      "currentRatio": 4.701,
-      "quickRatio": 0.084,
-      "eps": -4.14,
-      "forwardEps": null,
-      "bookValue": 9.222,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 1.267,
-      "historicalData": [
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 0
-        }
-      ],
-      "heldPercentInsiders": 0.16687,
-      "heldPercentInstitutions": 0.00092
     },
     {
       "code": "YKSLN",
