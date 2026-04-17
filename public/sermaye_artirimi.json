@@ -1,5 +1,68 @@
 [
   {
+    "code": "CEMZY",
+    "company": "CEMZY Cem Zeytin A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%472,13",
+    "date": "16.04.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "TRILC",
+    "company": "TRILC Turk İlaç ve Serum Sanayi A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%540,89",
+    "date": "16.04.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 875.195.000 TL"
+  },
+  {
+    "code": "MERKO",
+    "company": "MERKO Merko Gıda San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%638",
+    "date": "16.04.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 734.876.627 TL"
+  },
+  {
+    "code": "OZYSR",
+    "company": "OZYSR Özyaşar Tel ve Galvanizleme San. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%310",
+    "date": "16.04.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 319.920.000 TL"
+  },
+  {
+    "code": "EUKYO",
+    "company": "EUKYO Euro Kapital Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "16.04.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "ETYAT",
+    "company": "ETYAT Euro Trend Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "16.04.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "EUYO",
+    "company": "EUYO Euro Menkul Kıymetler Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "16.04.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "SMRVA",
     "company": "SMRVA Sümer Varlık Yönetim A.Ş.",
     "type": "Bedelsiz",
@@ -126,15 +189,6 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 555.795.050 TL"
   },
   {
-    "code": "TRILC",
-    "company": "TRILC Turk İlaç ve Serum Sanayi A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%540,89",
-    "date": "02.03.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 875.195.000 TL"
-  },
-  {
     "code": "BIMAS",
     "company": "BIMAS Bim Birleşik Mağazalar A.Ş.",
     "type": "Bedelsiz",
@@ -142,24 +196,6 @@
     "date": "19.02.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "OZYSR",
-    "company": "OZYSR Özyaşar Tel ve Galvanizleme San. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%310",
-    "date": "20.02.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 319.920.000 TL"
-  },
-  {
-    "code": "MERKO",
-    "company": "MERKO Merko Gıda San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%638",
-    "date": "18.02.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 734.876.627 TL"
   },
   {
     "code": "DSTKF",
@@ -248,33 +284,6 @@
     "type": "Bedelsiz",
     "rate": "%100",
     "date": "23.09.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "EUKYO",
-    "company": "EUKYO Euro Kapital Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "01.09.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "ETYAT",
-    "company": "ETYAT Euro Trend Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "01.09.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "EUYO",
-    "company": "EUYO Euro Menkul Kıymetler Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "01.09.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
   },
