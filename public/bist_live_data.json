@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-19T20:03:57.808927",
+  "last_update": "2026-04-19T21:08:09.438529",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 45.52818,
-      "targetLowPrice": 31.41265,
-      "targetMeanPrice": 39.12645,
-      "targetMedianPrice": 39.16499,
+      "targetHighPrice": 45.553173,
+      "targetLowPrice": 31.429895,
+      "targetMeanPrice": 39.14793,
+      "targetMedianPrice": 39.18649,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -3465,10 +3465,10 @@
       "payoutRatio": 0.1847,
       "targetHighPrice": 65.0,
       "targetLowPrice": 40.0,
-      "targetMeanPrice": 55.87778,
+      "targetMeanPrice": 57.21111,
       "targetMedianPrice": 60.0,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 2.0,
+      "recommendationKey": "buy",
       "numberOfAnalystOpinions": 9,
       "beta": -0.026,
       "historicalData": [
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.13,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 590.5605,
-      "targetLowPrice": 399.49832,
-      "targetMeanPrice": 471.64023,
-      "targetMedianPrice": 462.30826,
+      "targetHighPrice": 590.5636,
+      "targetLowPrice": 399.50046,
+      "targetMeanPrice": 471.64273,
+      "targetMedianPrice": 462.3107,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -12673,10 +12673,10 @@
       "symbol": "AKSGY.IS",
       "name": "Akis Gayrimenkul Yatirim Ortakligi A.S.",
       "shortName": "AKIS GMYO",
-      "price": 9.53,
+      "price": 9.07,
       "change": 0.03,
       "changeRate": 0.32,
-      "previousClose": 9.5,
+      "previousClose": 9.05,
       "open": 9.58,
       "dayLow": 9.36,
       "dayHigh": 9.58,
@@ -12734,123 +12734,123 @@
       "beta": -0.065,
       "historicalData": [
         {
-          "Close": 8.319999694824219,
+          "Close": 7.92234468460083,
           "Volume": 2695420
         },
         {
-          "Close": 8.300000190734863,
+          "Close": 7.903301239013672,
           "Volume": 3342321
         },
         {
-          "Close": 8.449999809265137,
+          "Close": 8.046131134033203,
           "Volume": 3281648
         },
         {
-          "Close": 8.449999809265137,
+          "Close": 8.046131134033203,
           "Volume": 2036518
         },
         {
-          "Close": 8.489999771118164,
+          "Close": 8.084219932556152,
           "Volume": 4115229
         },
         {
-          "Close": 8.470000267028809,
+          "Close": 8.065176010131836,
           "Volume": 2628613
         },
         {
-          "Close": 8.430000305175781,
+          "Close": 8.027088165283203,
           "Volume": 1173162
         },
         {
-          "Close": 8.619999885559082,
+          "Close": 8.208006858825684,
           "Volume": 3889276
         },
         {
-          "Close": 8.760000228881836,
+          "Close": 8.341315269470215,
           "Volume": 9300259
         },
         {
-          "Close": 8.800000190734863,
+          "Close": 8.379404067993164,
           "Volume": 806751
         },
         {
-          "Close": 8.819999694824219,
+          "Close": 8.398447036743164,
           "Volume": 5580275
         },
         {
-          "Close": 8.729999542236328,
+          "Close": 8.312748908996582,
           "Volume": 6955585
         },
         {
-          "Close": 8.800000190734863,
+          "Close": 8.379404067993164,
           "Volume": 3224594
         },
         {
-          "Close": 8.789999961853027,
+          "Close": 8.369881629943848,
           "Volume": 3975858
         },
         {
-          "Close": 8.859999656677246,
+          "Close": 8.436535835266113,
           "Volume": 7777075
         },
         {
-          "Close": 8.619999885559082,
+          "Close": 8.208006858825684,
           "Volume": 5480121
         },
         {
-          "Close": 8.869999885559082,
+          "Close": 8.446057319641113,
           "Volume": 14360256
         },
         {
-          "Close": 8.970000267028809,
+          "Close": 8.541278839111328,
           "Volume": 3657426
         },
         {
-          "Close": 8.979999542236328,
+          "Close": 8.550800323486328,
           "Volume": 2655740
         },
         {
-          "Close": 8.949999809265137,
+          "Close": 8.522233963012695,
           "Volume": 4400129
         },
         {
-          "Close": 9.109999656677246,
+          "Close": 8.674586296081543,
           "Volume": 3107911
         },
         {
-          "Close": 8.869999885559082,
+          "Close": 8.446057319641113,
           "Volume": 4466319
         },
         {
-          "Close": 9.210000038146973,
+          "Close": 8.769807815551758,
           "Volume": 11977970
         },
         {
-          "Close": 9.239999771118164,
+          "Close": 8.798373222351074,
           "Volume": 4324906
         },
         {
-          "Close": 9.380000114440918,
+          "Close": 8.931682586669922,
           "Volume": 5965340
         },
         {
-          "Close": 9.260000228881836,
+          "Close": 8.817418098449707,
           "Volume": 4823458
         },
         {
-          "Close": 9.649999618530273,
+          "Close": 9.188776969909668,
           "Volume": 7815352
         },
         {
-          "Close": 9.630000114440918,
+          "Close": 9.169734001159668,
           "Volume": 5194702
         },
         {
-          "Close": 9.5,
+          "Close": 9.045947074890137,
           "Volume": 6337721
         },
         {
-          "Close": 9.529999732971191,
+          "Close": 9.074512481689453,
           "Volume": 14072041
         }
       ],
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.937836,
-      "targetLowPrice": 62.283398,
-      "targetMeanPrice": 71.11062,
-      "targetMedianPrice": 71.11062,
+      "targetHighPrice": 79.98689,
+      "targetLowPrice": 62.321625,
+      "targetMeanPrice": 71.15426,
+      "targetMedianPrice": 71.15426,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
