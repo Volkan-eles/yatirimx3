@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-20T06:26:45.814941",
+  "last_update": "2026-04-20T08:36:47.433211",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -12673,10 +12673,10 @@
       "symbol": "AKSGY.IS",
       "name": "Akis Gayrimenkul Yatirim Ortakligi A.S.",
       "shortName": "AKIS GMYO",
-      "price": 9.07,
-      "change": 0.03,
-      "changeRate": 0.32,
-      "previousClose": 9.05,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
+      "previousClose": 9.07,
       "open": 9.58,
       "dayLow": 9.36,
       "dayHigh": 9.58,
@@ -12684,7 +12684,7 @@
       "fiftyTwoWeekHigh": 9.76,
       "fiftyDayAverage": 8.74,
       "twoHundredDayAverage": 7.89,
-      "volume": "14,072,041",
+      "volume": "0",
       "averageVolume": 5024960,
       "averageVolume10days": 6808572,
       "marketCap": 23014950912,
@@ -12733,10 +12733,6 @@
       "numberOfAnalystOpinions": 2,
       "beta": -0.065,
       "historicalData": [
-        {
-          "Close": 7.92234468460083,
-          "Volume": 2695420
-        },
         {
           "Close": 7.903301239013672,
           "Volume": 3342321
@@ -12852,6 +12848,10 @@
         {
           "Close": 9.074512481689453,
           "Volume": 14072041
+        },
+        {
+          "Close": NaN,
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": 0.52157,
@@ -58789,10 +58789,10 @@
       "symbol": "KSTUR.IS",
       "name": "Kustur Kusadasi Turizm Endüstrisi A.S.",
       "shortName": "KUSTUR KUSADASI TURIZM",
-      "price": 3486.5,
-      "change": -62.21,
-      "changeRate": -1.75,
-      "previousClose": 3548.71,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
+      "previousClose": 3486.5,
       "open": 3565.0,
       "dayLow": 3500.0,
       "dayHigh": 3565.0,
@@ -58800,7 +58800,7 @@
       "fiftyTwoWeekHigh": 5500.0,
       "fiftyDayAverage": 3192.6,
       "twoHundredDayAverage": 3376.99,
-      "volume": "1,283",
+      "volume": "0",
       "averageVolume": 1141,
       "averageVolume10days": 1341,
       "marketCap": 14866669568,
@@ -58849,10 +58849,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.722,
       "historicalData": [
-        {
-          "Close": 3011.181396484375,
-          "Volume": 801
-        },
         {
           "Close": 2983.806884765625,
           "Volume": 784
@@ -58968,6 +58964,10 @@
         {
           "Close": 3486.5,
           "Volume": 1283
+        },
+        {
+          "Close": NaN,
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": null,
