@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-20T04:00:52.087558",
+  "last_update": "2026-04-20T06:26:45.814941",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 45.58335,
-      "targetLowPrice": 31.450716,
-      "targetMeanPrice": 39.173862,
-      "targetMedianPrice": 39.21245,
+      "targetHighPrice": 45.576817,
+      "targetLowPrice": 31.446207,
+      "targetMeanPrice": 39.168247,
+      "targetMedianPrice": 39.20683,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.13,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 591.7155,
-      "targetLowPrice": 400.27966,
-      "targetMeanPrice": 472.56265,
-      "targetMedianPrice": 463.21243,
+      "targetHighPrice": 591.2582,
+      "targetLowPrice": 399.9703,
+      "targetMeanPrice": 472.19742,
+      "targetMedianPrice": 462.8544,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -7810,11 +7810,11 @@
       "dividendYield": 3.69,
       "exDividendDate": 1778025600,
       "payoutRatio": 0.406,
-      "targetHighPrice": 68.22,
+      "targetHighPrice": 69.0,
       "targetLowPrice": 54.0,
-      "targetMeanPrice": 63.4525,
+      "targetMeanPrice": 63.9525,
       "targetMedianPrice": 64.25,
-      "recommendationMean": 1.375,
+      "recommendationMean": 1.125,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 8,
       "beta": 0.227,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 80.02649,
-      "targetLowPrice": 62.352478,
-      "targetMeanPrice": 71.18948,
-      "targetMedianPrice": 71.18948,
+      "targetHighPrice": 80.02858,
+      "targetLowPrice": 62.354107,
+      "targetMeanPrice": 71.191345,
+      "targetMedianPrice": 71.191345,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
@@ -58789,10 +58789,10 @@
       "symbol": "KSTUR.IS",
       "name": "Kustur Kusadasi Turizm Endüstrisi A.S.",
       "shortName": "KUSTUR KUSADASI TURIZM",
-      "price": 3502.5,
-      "change": -62.5,
+      "price": 3486.5,
+      "change": -62.21,
       "changeRate": -1.75,
-      "previousClose": 3565.0,
+      "previousClose": 3548.71,
       "open": 3565.0,
       "dayLow": 3500.0,
       "dayHigh": 3565.0,
@@ -58850,123 +58850,123 @@
       "beta": 0.722,
       "historicalData": [
         {
-          "Close": 3025.0,
+          "Close": 3011.181396484375,
           "Volume": 801
         },
         {
-          "Close": 2997.5,
+          "Close": 2983.806884765625,
           "Volume": 784
         },
         {
-          "Close": 3040.0,
+          "Close": 3026.11279296875,
           "Volume": 1338
         },
         {
-          "Close": 3002.5,
+          "Close": 2988.7841796875,
           "Volume": 1517
         },
         {
-          "Close": 3100.0,
+          "Close": 3085.838623046875,
           "Volume": 1148
         },
         {
-          "Close": 3017.5,
+          "Close": 3003.715576171875,
           "Volume": 1750
         },
         {
-          "Close": 3020.0,
+          "Close": 3006.2041015625,
           "Volume": 885
         },
         {
-          "Close": 3070.0,
+          "Close": 3055.975830078125,
           "Volume": 722
         },
         {
-          "Close": 3012.5,
+          "Close": 2998.738525390625,
           "Volume": 706
         },
         {
-          "Close": 3012.5,
+          "Close": 2998.738525390625,
           "Volume": 220
         },
         {
-          "Close": 2975.0,
+          "Close": 2961.40966796875,
           "Volume": 1019
         },
         {
-          "Close": 2945.0,
+          "Close": 2931.546875,
           "Volume": 1100
         },
         {
-          "Close": 2920.0,
+          "Close": 2906.660888671875,
           "Volume": 1012
         },
         {
-          "Close": 2757.5,
+          "Close": 2744.9033203125,
           "Volume": 1414
         },
         {
-          "Close": 2760.0,
+          "Close": 2747.391845703125,
           "Volume": 1552
         },
         {
-          "Close": 2967.5,
+          "Close": 2953.944091796875,
           "Volume": 1166
         },
         {
-          "Close": 2907.5,
+          "Close": 2894.218017578125,
           "Volume": 1240
         },
         {
-          "Close": 2997.5,
+          "Close": 2983.806884765625,
           "Volume": 719
         },
         {
-          "Close": 2957.5,
+          "Close": 2943.98974609375,
           "Volume": 1085
         },
         {
-          "Close": 2980.0,
+          "Close": 2966.386962890625,
           "Volume": 947
         },
         {
-          "Close": 2985.0,
+          "Close": 2971.364013671875,
           "Volume": 1076
         },
         {
-          "Close": 2852.5,
+          "Close": 2839.46923828125,
           "Volume": 631
         },
         {
-          "Close": 3135.0,
+          "Close": 3120.6787109375,
           "Volume": 1505
         },
         {
-          "Close": 3050.0,
+          "Close": 3036.067138671875,
           "Volume": 1098
         },
         {
-          "Close": 3325.0,
+          "Close": 3309.810791015625,
           "Volume": 1502
         },
         {
-          "Close": 3600.0,
+          "Close": 3583.5546875,
           "Volume": 2743
         },
         {
-          "Close": 3492.5,
+          "Close": 3476.545654296875,
           "Volume": 1485
         },
         {
-          "Close": 3480.0,
+          "Close": 3464.102783203125,
           "Volume": 1391
         },
         {
-          "Close": 3565.0,
+          "Close": 3548.714599609375,
           "Volume": 703
         },
         {
-          "Close": 3502.5,
+          "Close": 3486.5,
           "Volume": 1283
         }
       ],
