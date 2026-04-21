@@ -1,5 +1,32 @@
 [
   {
+    "code": "EUKYO",
+    "company": "EUKYO Euro Kapital Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "21.04.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 21.04.2026"
+  },
+  {
+    "code": "ETYAT",
+    "company": "ETYAT Euro Trend Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "21.04.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 21.04.2026"
+  },
+  {
+    "code": "EUYO",
+    "company": "EUYO Euro Menkul Kıymetler Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "21.04.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 21.04.2026"
+  },
+  {
     "code": "CEMZY",
     "company": "CEMZY Cem Zeytin A.Ş.",
     "type": "Bedelsiz",
@@ -36,33 +63,6 @@
     "description": "SPK Onayı Alındı | Tutar: 319.920.000 TL"
   },
   {
-    "code": "EUKYO",
-    "company": "EUKYO Euro Kapital Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "16.04.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "ETYAT",
-    "company": "ETYAT Euro Trend Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "16.04.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "EUYO",
-    "company": "EUYO Euro Menkul Kıymetler Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "16.04.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
     "code": "SMRVA",
     "company": "SMRVA Sümer Varlık Yönetim A.Ş.",
     "type": "Bedelsiz",
@@ -70,6 +70,15 @@
     "date": "08.04.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "RYSAS",
+    "company": "RYSAS Reysaş Taşımacılık ve Lojistik Ticaret A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "20.04.2025",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "ODINE",
@@ -270,15 +279,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "RYSAS",
-    "company": "RYSAS Reysaş Taşımacılık ve Lojistik Ticaret A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%50",
-    "date": "24.10.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "ENTRA",
     "company": "ENTRA Ic Enterra Yenilenebilir Enerji A.Ş.",
     "type": "Bedelsiz",
@@ -306,22 +306,13 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "SNICA",
-    "company": "SNICA Sanica Isı Sanayi A.Ş.",
-    "type": "Bedelsiz",
+    "code": "RYSAS",
+    "company": "RYSAS Reysaş Taşımacılık ve Lojistik Ticaret A.Ş.",
+    "type": "Bedelli",
     "rate": "%100",
-    "date": "20.06.2024",
+    "date": "20.04.2026",
     "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "CASA",
-    "company": "CASA Casa Emtia Petrol Kimyevi ve Türevleri San. Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1000",
-    "date": "22.09.2023",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "DMSAS",
@@ -450,15 +441,6 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 285.922.834 TL"
   },
   {
-    "code": "RYSAS",
-    "company": "RYSAS Reysaş Taşımacılık ve Lojistik Ticaret A.Ş.",
-    "type": "Bedelli",
-    "rate": "%100",
-    "date": "24.10.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
     "code": "KARTN",
     "company": "KARTN Kartonsan Karton San. ve Tic. A.Ş.",
     "type": "Bedelli",
@@ -466,15 +448,6 @@
     "date": "24.09.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "KORDS",
-    "company": "KORDS Kordsa Teknik Tekstil A.Ş.",
-    "type": "Bedelli",
-    "rate": "%148.96",
-    "date": "12.09.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 289.776.399 TL"
   },
   {
     "code": "KRTEK",
