@@ -1,32 +1,5 @@
 [
   {
-    "code": "EUKYO",
-    "company": "EUKYO Euro Kapital Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "21.04.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 21.04.2026"
-  },
-  {
-    "code": "ETYAT",
-    "company": "ETYAT Euro Trend Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "21.04.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 21.04.2026"
-  },
-  {
-    "code": "EUYO",
-    "company": "EUYO Euro Menkul Kıymetler Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "21.04.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 21.04.2026"
-  },
-  {
     "code": "CEMZY",
     "company": "CEMZY Cem Zeytin A.Ş.",
     "type": "Bedelsiz",
@@ -70,6 +43,33 @@
     "date": "08.04.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "EUKYO",
+    "company": "EUKYO Euro Kapital Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "21.04.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 21.04.2026"
+  },
+  {
+    "code": "ETYAT",
+    "company": "ETYAT Euro Trend Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "21.04.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 21.04.2026"
+  },
+  {
+    "code": "EUYO",
+    "company": "EUYO Euro Menkul Kıymetler Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "21.04.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 21.04.2026"
   },
   {
     "code": "RYSAS",
