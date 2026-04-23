@@ -1,12 +1,21 @@
 [
   {
+    "code": "ENTRA",
+    "company": "ENTRA Ic Enterra Yenilenebilir Enerji A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "22.04.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "CEMZY",
     "company": "CEMZY Cem Zeytin A.Ş.",
     "type": "Bedelsiz",
     "rate": "%472,13",
-    "date": "16.04.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
+    "date": "28.04.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 28.04.2026"
   },
   {
     "code": "TRILC",
@@ -279,15 +288,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "ENTRA",
-    "company": "ENTRA Ic Enterra Yenilenebilir Enerji A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "23.09.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "REEDR",
     "company": "REEDR Reeder Teknoloji San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -304,6 +304,15 @@
     "date": "08.05.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "CONSE",
+    "company": "CONSE Consus Enerji İşletmeciliği ve Hizmetleri A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "22.04.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "RYSAS",
