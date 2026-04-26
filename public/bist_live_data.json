@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-26T20:07:48.368610",
+  "last_update": "2026-04-26T21:08:03.722312",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 47.95806,
-      "targetLowPrice": 31.537148,
-      "targetMeanPrice": 39.333256,
-      "targetMedianPrice": 39.320213,
+      "targetHighPrice": 47.968933,
+      "targetLowPrice": 31.544298,
+      "targetMeanPrice": 39.342175,
+      "targetMedianPrice": 39.32913,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.17,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 576.6854,
-      "targetLowPrice": 399.47858,
-      "targetMeanPrice": 459.2319,
-      "targetMedianPrice": 452.12473,
+      "targetHighPrice": 577.4292,
+      "targetLowPrice": 399.99384,
+      "targetMeanPrice": 459.82422,
+      "targetMedianPrice": 452.70786,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -32154,7 +32154,7 @@
       "volume": "15,614,383",
       "averageVolume": 17444746,
       "averageVolume10days": 4641185,
-      "marketCap": 8543684096,
+      "marketCap": 7971009024,
       "enterpriseValue": 7791787520,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +32169,7 @@
       "forwardPE": null,
       "priceToBook": 8.960217,
       "pegRatio": null,
-      "priceToSales": 3.4970193,
+      "priceToSales": 3.2626176,
       "enterpriseToRevenue": 3.189,
       "enterpriseToEbitda": 95.725,
       "profitMargins": -0.00557,
@@ -36296,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "ETILER GIDA",
+      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
       "shortName": "ETILER GIDA",
       "price": 4.85,
       "change": -0.32,
@@ -36312,9 +36312,9 @@
       "volume": "51,854,268",
       "averageVolume": 12512441,
       "averageVolume10days": 34416751,
-      "marketCap": 0,
+      "marketCap": 1164000000,
       "enterpriseValue": 1628708224,
-      "sharesOutstanding": 0,
+      "sharesOutstanding": 240000000,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -36327,7 +36327,7 @@
       "forwardPE": null,
       "priceToBook": 2.2526705,
       "pegRatio": null,
-      "priceToSales": null,
+      "priceToSales": 0.5479303,
       "enterpriseToRevenue": 0.767,
       "enterpriseToEbitda": 5.664,
       "profitMargins": 0.0053600003,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 80.25431,
-      "targetLowPrice": 60.280704,
-      "targetMeanPrice": 66.998405,
-      "targetMedianPrice": 60.460644,
+      "targetHighPrice": 80.28875,
+      "targetLowPrice": 60.30657,
+      "targetMeanPrice": 67.02715,
+      "targetMedianPrice": 60.486588,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
@@ -66187,7 +66187,7 @@
       "description": "Marti Gayrimenkul Yatirim Ortakligi A.S. engages in the real estate activities in Turkey. The company primarily has investments in Çerkezköy housing project; a hotel in Sarigerme; and two hotels in Ayin Bay and Hisarönü Marina. Marti Gayrimenkul Yatirim Ortakligi A.S. was founded in 1967 and is headquartered in Istanbul, Turkey.",
       "pe": 2.0444446,
       "forwardPE": null,
-      "priceToBook": 0.18065782,
+      "priceToBook": 0.18769763,
       "pegRatio": null,
       "priceToSales": 21.068804,
       "enterpriseToRevenue": 14.453,
@@ -66206,7 +66206,7 @@
       "quickRatio": 1.547,
       "eps": 0.9,
       "forwardEps": null,
-      "bookValue": 10.185,
+      "bookValue": 9.803,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1346198400,
@@ -93376,10 +93376,10 @@
       "symbol": "YUNSA.IS",
       "name": "Yünsa Yünlü Sanayi ve Ticaret A.S.",
       "shortName": "YUNSA",
-      "price": 9.06,
-      "change": 0.2,
+      "price": 8.69,
+      "change": 0.19,
       "changeRate": 2.26,
-      "previousClose": 8.86,
+      "previousClose": 8.5,
       "open": 8.87,
       "dayLow": 8.83,
       "dayHigh": 9.14,
@@ -93437,123 +93437,123 @@
       "beta": -0.62,
       "historicalData": [
         {
-          "Close": 8.619999885559082,
+          "Close": 8.272274017333984,
           "Volume": 14126799
         },
         {
-          "Close": 8.399999618530273,
+          "Close": 8.061148643493652,
           "Volume": 7272798
         },
         {
-          "Close": 8.329999923706055,
+          "Close": 7.9939727783203125,
           "Volume": 5781570
         },
         {
-          "Close": 8.430000305175781,
+          "Close": 8.08993911743164,
           "Volume": 5752704
         },
         {
-          "Close": 8.319999694824219,
+          "Close": 7.984375953674316,
           "Volume": 4340233
         },
         {
-          "Close": 8.210000038146973,
+          "Close": 7.87881326675415,
           "Volume": 3311593
         },
         {
-          "Close": 8.140000343322754,
+          "Close": 7.8116374015808105,
           "Volume": 11058192
         },
         {
-          "Close": 8.039999961853027,
+          "Close": 7.715671062469482,
           "Volume": 5974653
         },
         {
-          "Close": 8.039999961853027,
+          "Close": 7.715671062469482,
           "Volume": 5656066
         },
         {
-          "Close": 7.929999828338623,
+          "Close": 7.610108375549316,
           "Volume": 3509726
         },
         {
-          "Close": 7.809999942779541,
+          "Close": 7.4949493408203125,
           "Volume": 4122073
         },
         {
-          "Close": 7.809999942779541,
+          "Close": 7.4949493408203125,
           "Volume": 5161843
         },
         {
-          "Close": 8.0600004196167,
+          "Close": 7.734864711761475,
           "Volume": 4875864
         },
         {
-          "Close": 8.289999961853027,
+          "Close": 7.9555864334106445,
           "Volume": 6213174
         },
         {
-          "Close": 8.180000305175781,
+          "Close": 7.8500237464904785,
           "Volume": 4764582
         },
         {
-          "Close": 8.15999984741211,
+          "Close": 7.830830097198486,
           "Volume": 2769042
         },
         {
-          "Close": 8.220000267028809,
+          "Close": 7.8884100914001465,
           "Volume": 3556658
         },
         {
-          "Close": 8.140000343322754,
+          "Close": 7.8116374015808105,
           "Volume": 5738042
         },
         {
-          "Close": 8.4399995803833,
+          "Close": 8.09953498840332,
           "Volume": 7043268
         },
         {
-          "Close": 8.319999694824219,
+          "Close": 7.984375953674316,
           "Volume": 4716822
         },
         {
-          "Close": 8.449999809265137,
+          "Close": 8.109131813049316,
           "Volume": 4871169
         },
         {
-          "Close": 8.399999618530273,
+          "Close": 8.061148643493652,
           "Volume": 4925648
         },
         {
-          "Close": 8.649999618530273,
+          "Close": 8.301063537597656,
           "Volume": 5769178
         },
         {
-          "Close": 8.65999984741211,
+          "Close": 8.310660362243652,
           "Volume": 5320949
         },
         {
-          "Close": 8.779999732971191,
+          "Close": 8.425819396972656,
           "Volume": 10484984
         },
         {
-          "Close": 8.920000076293945,
+          "Close": 8.560172080993652,
           "Volume": 10256408
         },
         {
-          "Close": 9.199999809265137,
+          "Close": 8.828877449035645,
           "Volume": 10295002
         },
         {
-          "Close": 8.960000038146973,
+          "Close": 8.598559379577637,
           "Volume": 6866659
         },
         {
-          "Close": 8.859999656677246,
+          "Close": 8.502592086791992,
           "Volume": 5251297
         },
         {
-          "Close": 9.0600004196167,
+          "Close": 8.694525718688965,
           "Volume": 9064284
         }
       ],
