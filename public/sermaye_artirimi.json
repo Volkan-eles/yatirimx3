@@ -1,12 +1,12 @@
 [
   {
-    "code": "CEMZY",
-    "company": "CEMZY Cem Zeytin A.Ş.",
+    "code": "SMRVA",
+    "company": "SMRVA Sümer Varlık Yönetim A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%472,13",
-    "date": "28.04.2026",
+    "rate": "%408.47",
+    "date": "29.04.2026",
     "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 28.04.2026"
+    "description": "Bölünme Tarihi: 29.04.2026"
   },
   {
     "code": "ENTRA",
@@ -27,15 +27,6 @@
     "description": "SPK Onayı Alındı | Tutar: 734.876.627 TL"
   },
   {
-    "code": "SMRVA",
-    "company": "SMRVA Sümer Varlık Yönetim A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%408.47",
-    "date": "08.04.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
     "code": "OZYSR",
     "company": "OZYSR Özyaşar Tel ve Galvanizleme San. A.Ş.",
     "type": "Bedelsiz",
@@ -52,6 +43,15 @@
     "date": "27.04.2026",
     "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 27.04.2026 | Tutar: 875.195.000 TL"
+  },
+  {
+    "code": "CEMZY",
+    "company": "CEMZY Cem Zeytin A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%472,13",
+    "date": "28.04.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 28.04.2026"
   },
   {
     "code": "MERCN",
