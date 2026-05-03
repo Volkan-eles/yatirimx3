@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-03T14:33:12.056875",
+  "last_update": "2026-05-03T15:27:19.815889",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -61,13 +61,13 @@
       "dividendYield": 3.94,
       "exDividendDate": 1775520000,
       "payoutRatio": 0.16790001,
-      "targetHighPrice": 225.9,
+      "targetHighPrice": 211.0,
       "targetLowPrice": 126.0,
-      "targetMeanPrice": 183.77286,
-      "targetMedianPrice": 182.66,
-      "recommendationMean": 1.57143,
+      "targetMeanPrice": 182.66267,
+      "targetMedianPrice": 185.0,
+      "recommendationMean": 1.6,
       "recommendationKey": "buy",
-      "numberOfAnalystOpinions": 14,
+      "numberOfAnalystOpinions": 15,
       "beta": 0.69,
       "historicalData": [
         {
