@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-04T03:42:12.929681",
+  "last_update": "2026-05-04T06:45:33.835101",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -25,7 +25,7 @@
       "averageVolume": 30340423,
       "averageVolume10days": 27125271,
       "marketCap": 561959993344,
-      "enterpriseValue": 454386122752,
+      "enterpriseValue": 223481954304,
       "sharesOutstanding": 4200000000,
       "sector": "Financial Services",
       "industry": "Banks - Regional",
@@ -39,18 +39,18 @@
       "forwardPE": 3.9539008,
       "priceToBook": 1.2654636,
       "pegRatio": 0.78,
-      "priceToSales": 1.7089303,
-      "enterpriseToRevenue": 1.382,
+      "priceToSales": 1.5455056,
+      "enterpriseToRevenue": 0.615,
       "enterpriseToEbitda": null,
-      "profitMargins": 0.33395,
+      "profitMargins": 0.32418,
       "grossMargins": 0.0,
-      "operatingMargins": 0.53221,
-      "returnOnAssets": 0.02947,
-      "returnOnEquity": 0.286,
-      "totalRevenue": 328837300224,
+      "operatingMargins": 0.45084,
+      "returnOnAssets": 0.028859999,
+      "returnOnEquity": 0.30111998,
+      "totalRevenue": 363609161728,
       "revenuePerShare": 78.295,
-      "totalCash": 708792614912,
-      "totalDebt": 598655434752,
+      "totalCash": 915391184896,
+      "totalDebt": 574670635008,
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
@@ -68,7 +68,7 @@
       "recommendationMean": 1.6,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 15,
-      "beta": 0.69,
+      "beta": null,
       "historicalData": [
         {
           "Close": 130.5253448486328,
@@ -257,7 +257,7 @@
       "recommendationMean": 1.28571,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 14,
-      "beta": 0.856,
+      "beta": 0.802,
       "historicalData": [
         {
           "Close": 73.34912872314453,
@@ -446,7 +446,7 @@
       "recommendationMean": 1.71429,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 14,
-      "beta": 0.477,
+      "beta": 0.49,
       "historicalData": [
         {
           "Close": 35.439998626708984,
@@ -635,7 +635,7 @@
       "recommendationMean": 1.53846,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 13,
-      "beta": 0.258,
+      "beta": 0.26,
       "historicalData": [
         {
           "Close": 13.599103927612305,
@@ -1013,7 +1013,7 @@
       "recommendationMean": 3.42857,
       "recommendationKey": "hold",
       "numberOfAnalystOpinions": 7,
-      "beta": 0.787,
+      "beta": 0.724,
       "historicalData": [
         {
           "Close": 39.459999084472656,
@@ -1202,7 +1202,7 @@
       "recommendationMean": 1.53846,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 13,
-      "beta": 0.062,
+      "beta": 0.055,
       "historicalData": [
         {
           "Close": 290.75,
@@ -1391,7 +1391,7 @@
       "recommendationMean": 1.63636,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 10,
-      "beta": 0.099,
+      "beta": 0.073,
       "historicalData": [
         {
           "Close": 178.5,
@@ -1580,7 +1580,7 @@
       "recommendationMean": 2.06667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 15,
-      "beta": 0.393,
+      "beta": 0.347,
       "historicalData": [
         {
           "Close": 254.75,
@@ -1769,7 +1769,7 @@
       "recommendationMean": 3.77778,
       "recommendationKey": "underperform",
       "numberOfAnalystOpinions": 9,
-      "beta": 0.054,
+      "beta": 0.114,
       "historicalData": [
         {
           "Close": 20.239999771118164,
@@ -1958,7 +1958,7 @@
       "recommendationMean": 2.5,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 14,
-      "beta": 0.909,
+      "beta": 0.96,
       "historicalData": [
         {
           "Close": 28.280000686645508,
@@ -2140,14 +2140,14 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 48.14802,
-      "targetLowPrice": 31.662066,
-      "targetMeanPrice": 39.489056,
-      "targetMedianPrice": 39.47596,
+      "targetHighPrice": 48.149086,
+      "targetLowPrice": 31.662766,
+      "targetMeanPrice": 39.48993,
+      "targetMedianPrice": 39.476833,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
-      "beta": 0.245,
+      "beta": 0.402,
       "historicalData": [
         {
           "Close": 30.139999389648438,
@@ -2336,7 +2336,7 @@
       "recommendationMean": 2.2,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 10,
-      "beta": 0.831,
+      "beta": 0.946,
       "historicalData": [
         {
           "Close": 348.75,
@@ -2525,7 +2525,7 @@
       "recommendationMean": 1.38462,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 13,
-      "beta": -0.037,
+      "beta": 0.018,
       "historicalData": [
         {
           "Close": 675.0,
@@ -2714,7 +2714,7 @@
       "recommendationMean": 1.23077,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 13,
-      "beta": -0.098,
+      "beta": -0.077,
       "historicalData": [
         {
           "Close": 592.5,
@@ -2903,7 +2903,7 @@
       "recommendationMean": 1.44444,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 9,
-      "beta": 0.16,
+      "beta": 0.147,
       "historicalData": [
         {
           "Close": 53.29999923706055,
@@ -3092,7 +3092,7 @@
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 12,
-      "beta": 0.575,
+      "beta": 0.54,
       "historicalData": [
         {
           "Close": 59.25,
@@ -3281,7 +3281,7 @@
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
-      "beta": 0.873,
+      "beta": 0.789,
       "historicalData": [
         {
           "Close": 108.5,
@@ -3470,7 +3470,7 @@
       "recommendationMean": 2.125,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 8,
-      "beta": -0.026,
+      "beta": 0.022,
       "historicalData": [
         {
           "Close": 43.81999969482422,
@@ -3659,7 +3659,7 @@
       "recommendationMean": 2.07692,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 13,
-      "beta": 0.129,
+      "beta": 0.117,
       "historicalData": [
         {
           "Close": 113.0,
@@ -3848,7 +3848,7 @@
       "recommendationMean": 3.5,
       "recommendationKey": "hold",
       "numberOfAnalystOpinions": 2,
-      "beta": -0.152,
+      "beta": -0.113,
       "historicalData": [
         {
           "Close": 28.860000610351562,
@@ -4037,7 +4037,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 8,
-      "beta": 0.453,
+      "beta": 0.432,
       "historicalData": [
         {
           "Close": 91.72635650634766,
@@ -4226,7 +4226,7 @@
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
-      "beta": 0.337,
+      "beta": 0.302,
       "historicalData": [
         {
           "Close": 182.86279296875,
@@ -4415,7 +4415,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 3,
-      "beta": 0.461,
+      "beta": 0.506,
       "historicalData": [
         {
           "Close": 21.059999465942383,
@@ -4604,7 +4604,7 @@
       "recommendationMean": 1.83333,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 12,
-      "beta": 0.501,
+      "beta": 0.399,
       "historicalData": [
         {
           "Close": 105.69999694824219,
@@ -4793,7 +4793,7 @@
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 12,
-      "beta": 0.706,
+      "beta": 0.663,
       "historicalData": [
         {
           "Close": 288.6128234863281,
@@ -4982,7 +4982,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.283,
+      "beta": -0.247,
       "historicalData": [
         {
           "Close": 107.80000305175781,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.3,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 581.38574,
-      "targetLowPrice": 380.88416,
-      "targetMeanPrice": 448.86514,
-      "targetMedianPrice": 437.19083,
+      "targetHighPrice": 582.41797,
+      "targetLowPrice": 381.5604,
+      "targetMeanPrice": 449.66208,
+      "targetMedianPrice": 437.96704,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -5360,7 +5360,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 4,
-      "beta": 0.843,
+      "beta": 0.771,
       "historicalData": [
         {
           "Close": 20.34000015258789,
@@ -5549,7 +5549,7 @@
       "recommendationMean": 2.14286,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
-      "beta": 0.576,
+      "beta": 0.549,
       "historicalData": [
         {
           "Close": 114.34015655517578,
@@ -5738,7 +5738,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.798,
+      "beta": -0.435,
       "historicalData": [
         {
           "Close": 2.4100000858306885,
@@ -6116,7 +6116,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": -0.618,
+      "beta": -0.314,
       "historicalData": [
         {
           "Close": 2.9700000286102295,
@@ -6494,7 +6494,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 4,
-      "beta": 0.489,
+      "beta": 0.481,
       "historicalData": [
         {
           "Close": 135.60000610351562,
@@ -6683,7 +6683,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.306,
+      "beta": -0.215,
       "historicalData": [
         {
           "Close": 58.04999923706055,
@@ -6872,7 +6872,7 @@
       "recommendationMean": 1.71429,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
-      "beta": 0.535,
+      "beta": 0.539,
       "historicalData": [
         {
           "Close": 17.510000228881836,
@@ -7061,7 +7061,7 @@
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 9,
-      "beta": 0.264,
+      "beta": 0.243,
       "historicalData": [
         {
           "Close": 112.19999694824219,
@@ -7250,7 +7250,7 @@
       "recommendationMean": 3.11111,
       "recommendationKey": "hold",
       "numberOfAnalystOpinions": 9,
-      "beta": 0.262,
+      "beta": 0.202,
       "historicalData": [
         {
           "Close": 458.0,
@@ -7439,7 +7439,7 @@
       "recommendationMean": 2.2,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 4,
-      "beta": 0.439,
+      "beta": 0.407,
       "historicalData": [
         {
           "Close": 376.75,
@@ -7570,10 +7570,10 @@
       "symbol": "ALARK.IS",
       "name": "Alarko Holding A.S.",
       "shortName": "ALARKO HOLDING",
-      "price": 95.65,
-      "change": -1.5,
-      "changeRate": -1.54,
-      "previousClose": 97.15,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
+      "previousClose": 95.65,
       "open": 96.6,
       "dayLow": 94.25,
       "dayHigh": 96.75,
@@ -7581,7 +7581,7 @@
       "fiftyTwoWeekHigh": 117.0,
       "fiftyDayAverage": 94.54,
       "twoHundredDayAverage": 93.42,
-      "volume": "6,037,658",
+      "volume": "0",
       "averageVolume": 6608254,
       "averageVolume10days": 6541283,
       "marketCap": 41562488832,
@@ -7628,12 +7628,8 @@
       "recommendationMean": 1.4,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 5,
-      "beta": -0.256,
+      "beta": -0.183,
       "historicalData": [
-        {
-          "Close": 90.0,
-          "Volume": 3362816
-        },
         {
           "Close": 89.69999694824219,
           "Volume": 2527316
@@ -7749,6 +7745,10 @@
         {
           "Close": 95.6500015258789,
           "Volume": 6037658
+        },
+        {
+          "Close": NaN,
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": 0.65052,
@@ -7817,7 +7817,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 7,
-      "beta": 0.227,
+      "beta": 0.191,
       "historicalData": [
         {
           "Close": 44.400001525878906,
@@ -8006,7 +8006,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.525,
+      "beta": 0.65,
       "historicalData": [
         {
           "Close": 9.989999771118164,
@@ -8195,7 +8195,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.279,
+      "beta": -0.057,
       "historicalData": [
         {
           "Close": 6.010000228881836,
@@ -8384,7 +8384,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.762,
+      "beta": 0.768,
       "historicalData": [
         {
           "Close": 10.829999923706055,
@@ -8573,7 +8573,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 5,
-      "beta": -0.15,
+      "beta": -0.04,
       "historicalData": [
         {
           "Close": 29.0,
@@ -8762,7 +8762,7 @@
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
-      "beta": 0.075,
+      "beta": 0.013,
       "historicalData": [
         {
           "Close": 10.541261672973633,
@@ -8951,7 +8951,7 @@
       "recommendationMean": 1.57143,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
-      "beta": -0.519,
+      "beta": -0.437,
       "historicalData": [
         {
           "Close": 78.0,
@@ -9140,7 +9140,7 @@
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 2,
-      "beta": 0.898,
+      "beta": 0.815,
       "historicalData": [
         {
           "Close": 7.992181777954102,
@@ -9329,7 +9329,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.176,
+      "beta": -0.141,
       "historicalData": [
         {
           "Close": 4.769999980926514,
@@ -9518,7 +9518,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.181,
+      "beta": -0.082,
       "historicalData": [
         {
           "Close": 66.4000015258789,
@@ -9707,7 +9707,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 2,
-      "beta": -0.038,
+      "beta": -0.112,
       "historicalData": [
         {
           "Close": 26.31999969482422,
@@ -9896,7 +9896,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.477,
+      "beta": 0.346,
       "historicalData": [
         {
           "Close": 39.18000030517578,
@@ -10085,7 +10085,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": 0.067,
+      "beta": 0.215,
       "historicalData": [
         {
           "Close": 17.149999618530273,
@@ -10463,7 +10463,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
-      "beta": -0.101,
+      "beta": -0.086,
       "historicalData": [
         {
           "Close": 85.5999984741211,
@@ -10652,7 +10652,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.518,
+      "beta": 0.447,
       "historicalData": [
         {
           "Close": 2071.217041015625,
@@ -10841,7 +10841,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.573,
+      "beta": -0.496,
       "historicalData": [
         {
           "Close": 6.159999847412109,
@@ -11030,7 +11030,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.272,
+      "beta": -0.201,
       "historicalData": [
         {
           "Close": 10.380000114440918,
@@ -11219,7 +11219,7 @@
       "recommendationMean": 1.33333,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 6,
-      "beta": -0.384,
+      "beta": -0.232,
       "historicalData": [
         {
           "Close": 47.86124038696289,
@@ -11408,7 +11408,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.595,
+      "beta": -0.395,
       "historicalData": [
         {
           "Close": 33.040000915527344,
@@ -11597,7 +11597,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.04,
+      "beta": 1.054,
       "historicalData": [
         {
           "Close": 0.9900000095367432,
@@ -11743,7 +11743,7 @@
       "averageVolume": 5131235,
       "averageVolume10days": 4156869,
       "marketCap": 5411999744,
-      "enterpriseValue": 4352173056,
+      "enterpriseValue": 4527164928,
       "sharesOutstanding": 400000000,
       "sector": "Basic Materials",
       "industry": "Building Materials",
@@ -11757,21 +11757,21 @@
       "forwardPE": null,
       "priceToBook": 0.71424794,
       "pegRatio": null,
-      "priceToSales": 1.3991762,
-      "enterpriseToRevenue": 1.125,
-      "enterpriseToEbitda": 4.196,
-      "profitMargins": 0.0623,
-      "grossMargins": 0.1917,
-      "operatingMargins": 0.20632,
-      "returnOnAssets": 0.04277,
-      "returnOnEquity": 0.03132,
-      "totalRevenue": 3867990016,
+      "priceToSales": 1.3890741,
+      "enterpriseToRevenue": 1.162,
+      "enterpriseToEbitda": 4.556,
+      "profitMargins": 0.013409999,
+      "grossMargins": 0.17472,
+      "operatingMargins": 0.13743,
+      "returnOnAssets": 0.04112,
+      "returnOnEquity": 0.0075,
+      "totalRevenue": 3896120320,
       "revenuePerShare": 9.631,
-      "totalCash": 1066462272,
-      "totalDebt": 6635100,
-      "debtToEquity": 0.088,
-      "currentRatio": 2.356,
-      "quickRatio": 1.868,
+      "totalCash": 891618688,
+      "totalDebt": 6783765,
+      "debtToEquity": 0.089,
+      "currentRatio": 1.807,
+      "quickRatio": 1.159,
       "eps": 0.6,
       "forwardEps": null,
       "bookValue": 18.943,
@@ -11786,7 +11786,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.721,
+      "beta": null,
       "historicalData": [
         {
           "Close": 15.108176231384277,
@@ -12164,7 +12164,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.523,
+      "beta": 0.518,
       "historicalData": [
         {
           "Close": 9.670000076293945,
@@ -12353,7 +12353,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.3,
+      "beta": 0.31,
       "historicalData": [
         {
           "Close": 2.890000104904175,
@@ -12542,7 +12542,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": -0.565,
+      "beta": -0.492,
       "historicalData": [
         {
           "Close": 21.860000610351562,
@@ -12731,7 +12731,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 2,
-      "beta": -0.065,
+      "beta": -0.085,
       "historicalData": [
         {
           "Close": 8.341315269470215,
@@ -12920,7 +12920,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.154,
+      "beta": 0.02,
       "historicalData": [
         {
           "Close": 28.139999389648438,
@@ -13109,7 +13109,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.18,
+      "beta": 0.256,
       "historicalData": [
         {
           "Close": 2.619999885559082,
@@ -13487,7 +13487,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.648,
+      "beta": 0.527,
       "historicalData": [
         {
           "Close": 126.0999984741211,
@@ -13676,7 +13676,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": -0.425,
+      "beta": -0.227,
       "historicalData": [
         {
           "Close": 37.70000076293945,
@@ -13865,7 +13865,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.167,
+      "beta": 0.175,
       "historicalData": [
         {
           "Close": 11.479999542236328,
@@ -14054,7 +14054,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.18,
+      "beta": 2.118,
       "historicalData": [
         {
           "Close": 14.020000457763672,
@@ -14432,7 +14432,7 @@
       "recommendationMean": 1.2,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 6,
-      "beta": 0.399,
+      "beta": 0.357,
       "historicalData": [
         {
           "Close": 26.15087890625,
@@ -14621,7 +14621,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.156,
+      "beta": 0.265,
       "historicalData": [
         {
           "Close": 102.0999984741211,
@@ -14810,7 +14810,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.312,
+      "beta": 0.428,
       "historicalData": [
         {
           "Close": 41.540000915527344,
@@ -15188,7 +15188,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.134,
+      "beta": -0.191,
       "historicalData": [
         {
           "Close": 4.159999847412109,
@@ -15377,7 +15377,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.147,
+      "beta": 0.949,
       "historicalData": [
         {
           "Close": 38.5,
@@ -15566,7 +15566,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.408,
+      "beta": -0.376,
       "historicalData": [
         {
           "Close": 2.619999885559082,
@@ -15755,7 +15755,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 3,
-      "beta": -0.202,
+      "beta": 0.382,
       "historicalData": [
         {
           "Close": 185.1999969482422,
@@ -15944,7 +15944,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.375,
+      "beta": -0.236,
       "historicalData": [
         {
           "Close": 12.800000190734863,
@@ -16133,7 +16133,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": -0.297,
+      "beta": -0.258,
       "historicalData": [
         {
           "Close": 52.20000076293945,
@@ -16322,7 +16322,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.117,
+      "beta": -0.095,
       "historicalData": [
         {
           "Close": 145.3000030517578,
@@ -16511,7 +16511,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.873,
+      "beta": 0.706,
       "historicalData": [
         {
           "Close": 109.5,
@@ -16700,7 +16700,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.675,
+      "beta": 0.569,
       "historicalData": [
         {
           "Close": 8.619999885559082,
@@ -16889,7 +16889,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.297,
+      "beta": 1.218,
       "historicalData": [
         {
           "Close": 11.5,
@@ -17078,7 +17078,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.291,
+      "beta": 0.305,
       "historicalData": [
         {
           "Close": 36.34000015258789,
@@ -17267,7 +17267,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.355,
+      "beta": 0.314,
       "historicalData": [
         {
           "Close": 4.739999771118164,
@@ -17456,7 +17456,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.664,
+      "beta": 0.516,
       "historicalData": [
         {
           "Close": 18.56999969482422,
@@ -17645,7 +17645,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.619,
+      "beta": -0.326,
       "historicalData": [
         {
           "Close": 681.0,
@@ -17834,7 +17834,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.549,
+      "beta": 0.494,
       "historicalData": [
         {
           "Close": 27.055173873901367,
@@ -18023,7 +18023,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.222,
+      "beta": -0.268,
       "historicalData": [
         {
           "Close": 32.5,
@@ -18212,7 +18212,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.27,
+      "beta": 0.304,
       "historicalData": [
         {
           "Close": 37.7599983215332,
@@ -18401,7 +18401,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.338,
+      "beta": -0.465,
       "historicalData": [
         {
           "Close": 108.4000015258789,
@@ -18590,7 +18590,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.205,
+      "beta": -0.165,
       "historicalData": [
         {
           "Close": 154.5,
@@ -18779,7 +18779,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.176,
+      "beta": 0.126,
       "historicalData": [
         {
           "Close": 49.52000045776367,
@@ -18968,7 +18968,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.499,
+      "beta": -0.434,
       "historicalData": [
         {
           "Close": 14.5,
@@ -19157,7 +19157,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.391,
+      "beta": 0.331,
       "historicalData": [
         {
           "Close": 50.5,
@@ -19346,7 +19346,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.298,
+      "beta": -0.292,
       "historicalData": [
         {
           "Close": 4.590000152587891,
@@ -19724,7 +19724,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.095,
+      "beta": -0.15,
       "historicalData": [
         {
           "Close": 17.299999237060547,
@@ -19913,7 +19913,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.756,
+      "beta": 0.894,
       "historicalData": [
         {
           "Close": 28.5,
@@ -20102,7 +20102,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.0,
+      "beta": 0.94,
       "historicalData": [
         {
           "Close": 141.39999389648438,
@@ -20291,7 +20291,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": 0.605,
+      "beta": 0.609,
       "historicalData": [
         {
           "Close": 6.829999923706055,
@@ -20480,7 +20480,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.257,
+      "beta": -0.797,
       "historicalData": [
         {
           "Close": 8.40999984741211,
@@ -20669,7 +20669,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
-      "beta": -0.241,
+      "beta": -0.146,
       "historicalData": [
         {
           "Close": 27.139999389648438,
@@ -20858,7 +20858,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.396,
+      "beta": -0.66,
       "historicalData": [
         {
           "Close": 48.47999954223633,
@@ -21047,7 +21047,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.599,
+      "beta": -0.512,
       "historicalData": [
         {
           "Close": 17.93000030517578,
@@ -21236,7 +21236,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.257,
+      "beta": -0.228,
       "historicalData": [
         {
           "Close": 85.55000305175781,
@@ -21425,7 +21425,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.521,
+      "beta": 0.495,
       "historicalData": [
         {
           "Close": 6.28000020980835,
@@ -21614,7 +21614,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.144,
+      "beta": -0.134,
       "historicalData": [
         {
           "Close": 19.600000381469727,
@@ -21803,7 +21803,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.318,
+      "beta": 2.76,
       "historicalData": [
         {
           "Close": 2.8399999141693115,
@@ -21992,7 +21992,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.005,
+      "beta": 0.418,
       "historicalData": [
         {
           "Close": 6.070000171661377,
@@ -22181,7 +22181,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.184,
+      "beta": 0.154,
       "historicalData": [
         {
           "Close": 6.320000171661377,
@@ -22370,7 +22370,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.861,
+      "beta": 0.722,
       "historicalData": [
         {
           "Close": 9.130000114440918,
@@ -22559,7 +22559,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.528,
+      "beta": 1.361,
       "historicalData": [
         {
           "Close": 89.1500015258789,
@@ -22748,7 +22748,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.157,
+      "beta": -0.305,
       "historicalData": [
         {
           "Close": 9.100000381469727,
@@ -22937,7 +22937,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.465,
+      "beta": -0.396,
       "historicalData": [
         {
           "Close": 500.0,
@@ -23126,7 +23126,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.492,
+      "beta": 0.574,
       "historicalData": [
         {
           "Close": 33.20000076293945,
@@ -23315,7 +23315,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.246,
+      "beta": -0.196,
       "historicalData": [
         {
           "Close": 6.869999885559082,
@@ -23504,7 +23504,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.768,
+      "beta": 0.884,
       "historicalData": [
         {
           "Close": 38.2599983215332,
@@ -23693,7 +23693,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.683,
+      "beta": 0.97,
       "historicalData": [
         {
           "Close": 775.0,
@@ -23882,7 +23882,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.322,
+      "beta": 0.385,
       "historicalData": [
         {
           "Close": 105.80000305175781,
@@ -24071,7 +24071,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.841,
+      "beta": -0.641,
       "historicalData": [
         {
           "Close": 33.20000076293945,
@@ -24260,7 +24260,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.748,
+      "beta": -0.624,
       "historicalData": [
         {
           "Close": 1.5399999618530273,
@@ -24449,7 +24449,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.244,
+      "beta": -0.224,
       "historicalData": [
         {
           "Close": 95.0,
@@ -24638,7 +24638,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.327,
+      "beta": -0.975,
       "historicalData": [
         {
           "Close": 45.099998474121094,
@@ -24827,7 +24827,7 @@
       "recommendationMean": 1.25,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
-      "beta": 0.278,
+      "beta": 0.248,
       "historicalData": [
         {
           "Close": 71.3499984741211,
@@ -25205,7 +25205,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.322,
+      "beta": 0.265,
       "historicalData": [
         {
           "Close": 4.599999904632568,
@@ -25394,7 +25394,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.438,
+      "beta": 0.454,
       "historicalData": [
         {
           "Close": 21.520000457763672,
@@ -25583,7 +25583,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.519,
+      "beta": -0.421,
       "historicalData": [
         {
           "Close": 1713.0,
@@ -25772,7 +25772,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.675,
+      "beta": -0.634,
       "historicalData": [
         {
           "Close": 339.0,
@@ -25961,7 +25961,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.483,
+      "beta": 0.357,
       "historicalData": [
         {
           "Close": 3.450000047683716,
@@ -26150,7 +26150,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.782,
+      "beta": -0.88,
       "historicalData": [
         {
           "Close": 184.1999969482422,
@@ -26339,7 +26339,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.248,
+      "beta": 0.354,
       "historicalData": [
         {
           "Close": 26.66666603088379,
@@ -26528,7 +26528,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.074,
+      "beta": 0.034,
       "historicalData": [
         {
           "Close": 121.9000015258789,
@@ -26717,7 +26717,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.076,
+      "beta": -0.066,
       "historicalData": [
         {
           "Close": 23.280000686645508,
@@ -26906,7 +26906,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.184,
+      "beta": 0.238,
       "historicalData": [
         {
           "Close": 29.100000381469727,
@@ -27284,7 +27284,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.059,
+      "beta": 0.199,
       "historicalData": [
         {
           "Close": 5.800000190734863,
@@ -27473,7 +27473,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.036,
+      "beta": -1.212,
       "historicalData": [
         {
           "Close": 15.25,
@@ -27662,7 +27662,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.265,
+      "beta": -0.053,
       "historicalData": [
         {
           "Close": 2.009999990463257,
@@ -28040,7 +28040,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.014,
+      "beta": 0.002,
       "historicalData": [
         {
           "Close": 14.449999809265137,
@@ -28229,7 +28229,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.431,
+      "beta": 0.471,
       "historicalData": [
         {
           "Close": 39.70000076293945,
@@ -28418,7 +28418,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.497,
+      "beta": 0.418,
       "historicalData": [
         {
           "Close": 11.9399995803833,
@@ -28607,7 +28607,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.933,
+      "beta": 0.963,
       "historicalData": [
         {
           "Close": 38.720001220703125,
@@ -28985,7 +28985,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.714,
+      "beta": 0.834,
       "historicalData": [
         {
           "Close": 82.0,
@@ -29174,7 +29174,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.167,
+      "beta": 0.242,
       "historicalData": [
         {
           "Close": 28.579999923706055,
@@ -29363,7 +29363,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.086,
+      "beta": 1.285,
       "historicalData": [
         {
           "Close": 3.880000114440918,
@@ -29552,7 +29552,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.213,
+      "beta": 0.017,
       "historicalData": [
         {
           "Close": 26.200000762939453,
@@ -29741,7 +29741,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.763,
+      "beta": -0.875,
       "historicalData": [
         {
           "Close": 43.7400016784668,
@@ -29930,7 +29930,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.081,
+      "beta": -0.02,
       "historicalData": [
         {
           "Close": 9.069999694824219,
@@ -30119,7 +30119,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.001,
+      "beta": 0.017,
       "historicalData": [
         {
           "Close": 19.719999313354492,
@@ -30308,7 +30308,7 @@
       "recommendationMean": 2.25,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 8,
-      "beta": -0.014,
+      "beta": -0.091,
       "historicalData": [
         {
           "Close": 181.59530639648438,
@@ -30497,7 +30497,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.809,
+      "beta": 0.808,
       "historicalData": [
         {
           "Close": 9170.0,
@@ -30686,7 +30686,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.953,
+      "beta": -0.823,
       "historicalData": [
         {
           "Close": 37.060001373291016,
@@ -30875,7 +30875,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.146,
+      "beta": 0.039,
       "historicalData": [
         {
           "Close": 59.0,
@@ -31064,7 +31064,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.382,
+      "beta": -0.24,
       "historicalData": [
         {
           "Close": 22.200000762939453,
@@ -31442,7 +31442,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.363,
+      "beta": 0.161,
       "historicalData": [
         {
           "Close": 13.34000015258789,
@@ -31820,7 +31820,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.509,
+      "beta": 0.245,
       "historicalData": [
         {
           "Close": 121.0,
@@ -32009,7 +32009,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.244,
+      "beta": 0.398,
       "historicalData": [
         {
           "Close": 302.5,
@@ -32198,7 +32198,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.765,
+      "beta": 0.893,
       "historicalData": [
         {
           "Close": 14.229999542236328,
@@ -32387,7 +32387,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.377,
+      "beta": 1.359,
       "historicalData": [
         {
           "Close": 35.939998626708984,
@@ -32576,7 +32576,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.289,
+      "beta": 0.388,
       "historicalData": [
         {
           "Close": 5892.5,
@@ -32765,7 +32765,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.39,
+      "beta": 0.623,
       "historicalData": [
         {
           "Close": 13.550000190734863,
@@ -32896,10 +32896,10 @@
       "symbol": "EGGUB.IS",
       "name": "Ege Gübre Sanayii A.S.",
       "shortName": "EGE GUBRE",
-      "price": 126.8,
-      "change": -0.4,
-      "changeRate": -0.31,
-      "previousClose": 127.2,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
+      "previousClose": 126.8,
       "open": 128.0,
       "dayLow": 125.1,
       "dayHigh": 129.3,
@@ -32907,7 +32907,7 @@
       "fiftyTwoWeekHigh": 135.0,
       "fiftyDayAverage": 113.41,
       "twoHundredDayAverage": 105.92,
-      "volume": "818,286",
+      "volume": "0",
       "averageVolume": 1392962,
       "averageVolume10days": 1036402,
       "marketCap": 12680000512,
@@ -32954,12 +32954,8 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.248,
+      "beta": -0.175,
       "historicalData": [
-        {
-          "Close": 125.0999984741211,
-          "Volume": 1975287
-        },
         {
           "Close": 130.6999969482422,
           "Volume": 1380407
@@ -33075,6 +33071,10 @@
         {
           "Close": 126.80000305175781,
           "Volume": 818286
+        },
+        {
+          "Close": NaN,
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": 0.5389,
@@ -33143,7 +33143,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.226,
+      "beta": 0.215,
       "historicalData": [
         {
           "Close": 29.219999313354492,
@@ -33332,7 +33332,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.184,
+      "beta": -0.06,
       "historicalData": [
         {
           "Close": 2.880000114440918,
@@ -33521,7 +33521,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.24,
+      "beta": -0.222,
       "historicalData": [
         {
           "Close": 110.0,
@@ -33710,7 +33710,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.326,
+      "beta": 0.069,
       "historicalData": [
         {
           "Close": 5.579999923706055,
@@ -33899,7 +33899,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.178,
+      "beta": 0.361,
       "historicalData": [
         {
           "Close": 5.320000171661377,
@@ -34088,7 +34088,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.426,
+      "beta": -0.357,
       "historicalData": [
         {
           "Close": 28.31999969482422,
@@ -34466,7 +34466,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.275,
+      "beta": -0.277,
       "historicalData": [
         {
           "Close": 155.1999969482422,
@@ -34655,7 +34655,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.33,
+      "beta": 0.174,
       "historicalData": [
         {
           "Close": 8.720000267028809,
@@ -34844,7 +34844,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.166,
+      "beta": -0.424,
       "historicalData": [
         {
           "Close": 34.099998474121094,
@@ -35033,7 +35033,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.618,
+      "beta": 0.663,
       "historicalData": [
         {
           "Close": 6.159999847412109,
@@ -35222,7 +35222,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.167,
+      "beta": -0.123,
       "historicalData": [
         {
           "Close": 185.10000610351562,
@@ -35411,7 +35411,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.309,
+      "beta": 0.415,
       "historicalData": [
         {
           "Close": 51.70000076293945,
@@ -35600,7 +35600,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.036,
+      "beta": 0.164,
       "historicalData": [
         {
           "Close": 22.559999465942383,
@@ -35978,7 +35978,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.112,
+      "beta": 0.349,
       "historicalData": [
         {
           "Close": 5.320000171661377,
@@ -36356,7 +36356,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.396,
+      "beta": 0.573,
       "historicalData": [
         {
           "Close": 3.859999895095825,
@@ -36545,7 +36545,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.411,
+      "beta": 0.462,
       "historicalData": [
         {
           "Close": 7.113333225250244,
@@ -36734,7 +36734,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.374,
+      "beta": 1.187,
       "historicalData": [
         {
           "Close": 13.270000457763672,
@@ -36923,7 +36923,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.454,
+      "beta": 0.467,
       "historicalData": [
         {
           "Close": 6.239999771118164,
@@ -37112,7 +37112,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.144,
+      "beta": 0.473,
       "historicalData": [
         {
           "Close": 34.540000915527344,
@@ -37301,7 +37301,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.037,
+      "beta": 0.227,
       "historicalData": [
         {
           "Close": 4.809999942779541,
@@ -37490,7 +37490,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.98,
+      "beta": 0.833,
       "historicalData": [
         {
           "Close": 5.763332843780518,
@@ -37679,7 +37679,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.978,
+      "beta": 0.803,
       "historicalData": [
         {
           "Close": 3.2100000381469727,
@@ -37868,7 +37868,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.071,
+      "beta": -0.085,
       "historicalData": [
         {
           "Close": 13.75,
@@ -38057,7 +38057,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.953,
+      "beta": -0.642,
       "historicalData": [
         {
           "Close": 2.7100000381469727,
@@ -38246,7 +38246,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.01,
+      "beta": 1.168,
       "historicalData": [
         {
           "Close": 10.800000190734863,
@@ -38624,7 +38624,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.873,
+      "beta": 0.667,
       "historicalData": [
         {
           "Close": 4.699999809265137,
@@ -38813,7 +38813,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.542,
+      "beta": -0.404,
       "historicalData": [
         {
           "Close": 2.859999895095825,
@@ -39191,7 +39191,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.26,
+      "beta": -0.271,
       "historicalData": [
         {
           "Close": 9.100000381469727,
@@ -39380,7 +39380,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.431,
+      "beta": -1.254,
       "historicalData": [
         {
           "Close": 16.190000534057617,
@@ -39569,7 +39569,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.027,
+      "beta": 0.06,
       "historicalData": [
         {
           "Close": 26.780000686645508,
@@ -39758,7 +39758,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.683,
+      "beta": 0.652,
       "historicalData": [
         {
           "Close": 5.369999885559082,
@@ -39947,7 +39947,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.223,
+      "beta": 0.249,
       "historicalData": [
         {
           "Close": 31.600000381469727,
@@ -40325,7 +40325,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.204,
+      "beta": 0.102,
       "historicalData": [
         {
           "Close": 8.109999656677246,
@@ -40514,7 +40514,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.651,
+      "beta": 0.818,
       "historicalData": [
         {
           "Close": 29.739999771118164,
@@ -40703,7 +40703,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.331,
+      "beta": -0.261,
       "historicalData": [
         {
           "Close": 44.70000076293945,
@@ -40892,7 +40892,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.469,
+      "beta": 0.133,
       "historicalData": [
         {
           "Close": 70.0999984741211,
@@ -41081,7 +41081,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.534,
+      "beta": -0.427,
       "historicalData": [
         {
           "Close": 12.039999961853027,
@@ -41270,7 +41270,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 2,
-      "beta": 0.28,
+      "beta": 0.273,
       "historicalData": [
         {
           "Close": 62.09925842285156,
@@ -41459,7 +41459,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.024,
+      "beta": 0.976,
       "historicalData": [
         {
           "Close": 4.369999885559082,
@@ -41648,7 +41648,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.576,
+      "beta": 0.612,
       "historicalData": [
         {
           "Close": 14.399999618530273,
@@ -42026,7 +42026,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": -0.032,
+      "beta": -0.071,
       "historicalData": [
         {
           "Close": 20.940000534057617,
@@ -42215,7 +42215,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.438,
+      "beta": -0.417,
       "historicalData": [
         {
           "Close": 342.5,
@@ -42404,7 +42404,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": 0.109,
+      "beta": 0.127,
       "historicalData": [
         {
           "Close": 14.100000381469727,
@@ -42593,7 +42593,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.234,
+      "beta": 0.179,
       "historicalData": [
         {
           "Close": 20.84000015258789,
@@ -42782,7 +42782,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.634,
+      "beta": 0.764,
       "historicalData": [
         {
           "Close": 16.229999542236328,
@@ -42971,7 +42971,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.237,
+      "beta": 0.09,
       "historicalData": [
         {
           "Close": 332.0,
@@ -43160,7 +43160,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.454,
+      "beta": 0.749,
       "historicalData": [
         {
           "Close": 9.930000305175781,
@@ -43538,7 +43538,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.741,
+      "beta": 0.768,
       "historicalData": [
         {
           "Close": 1.159999966621399,
@@ -43727,7 +43727,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
-      "beta": -0.222,
+      "beta": -0.201,
       "historicalData": [
         {
           "Close": 25.860000610351562,
@@ -43916,7 +43916,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.071,
+      "beta": 0.249,
       "historicalData": [
         {
           "Close": 58.5,
@@ -44105,7 +44105,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.371,
+      "beta": 0.437,
       "historicalData": [
         {
           "Close": 15.359999656677246,
@@ -44294,7 +44294,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.674,
+      "beta": -0.224,
       "historicalData": [
         {
           "Close": 37.31999969482422,
@@ -44483,7 +44483,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.723,
+      "beta": 0.808,
       "historicalData": [
         {
           "Close": 3.1500000953674316,
@@ -44672,7 +44672,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.754,
+      "beta": 1.584,
       "historicalData": [
         {
           "Close": 107.0,
@@ -44861,7 +44861,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.611,
+      "beta": -1.075,
       "historicalData": [
         {
           "Close": 11.630000114440918,
@@ -45050,7 +45050,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.665,
+      "beta": 0.779,
       "historicalData": [
         {
           "Close": 5.159999847412109,
@@ -45232,14 +45232,14 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 80.57793,
-      "targetLowPrice": 60.52378,
-      "targetMeanPrice": 67.26857,
-      "targetMedianPrice": 60.70445,
+      "targetHighPrice": 80.62431,
+      "targetLowPrice": 60.558624,
+      "targetMeanPrice": 67.3073,
+      "targetMedianPrice": 60.73939,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
-      "beta": 0.468,
+      "beta": 0.487,
       "historicalData": [
         {
           "Close": 37.400001525878906,
@@ -45428,7 +45428,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.051,
+      "beta": -0.008,
       "historicalData": [
         {
           "Close": 5.119999885559082,
@@ -45617,7 +45617,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.507,
+      "beta": 0.484,
       "historicalData": [
         {
           "Close": 3.0999999046325684,
@@ -45806,7 +45806,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.228,
+      "beta": 0.05,
       "historicalData": [
         {
           "Close": 5.710000038146973,
@@ -45995,7 +45995,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.167,
+      "beta": 0.32,
       "historicalData": [
         {
           "Close": 14.760000228881836,
@@ -46184,7 +46184,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.177,
+      "beta": 0.778,
       "historicalData": [
         {
           "Close": 2.7899999618530273,
@@ -46373,7 +46373,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.628,
+      "beta": 0.399,
       "historicalData": [
         {
           "Close": 3.9000000953674316,
@@ -46562,7 +46562,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.295,
+      "beta": 0.288,
       "historicalData": [
         {
           "Close": 89.5,
@@ -46751,7 +46751,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.464,
+      "beta": 0.255,
       "historicalData": [
         {
           "Close": 84.44999694824219,
@@ -46940,7 +46940,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.246,
+      "beta": 0.305,
       "historicalData": [
         {
           "Close": 2.2200000286102295,
@@ -47129,7 +47129,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.562,
+      "beta": 0.633,
       "historicalData": [
         {
           "Close": 1.440000057220459,
@@ -47318,7 +47318,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.485,
+      "beta": -0.292,
       "historicalData": [
         {
           "Close": 2.0299999713897705,
@@ -47507,7 +47507,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.545,
+      "beta": 0.606,
       "historicalData": [
         {
           "Close": 2.009999990463257,
@@ -47696,7 +47696,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.249,
+      "beta": 0.304,
       "historicalData": [
         {
           "Close": 1.7599999904632568,
@@ -47885,7 +47885,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.871,
+      "beta": 0.699,
       "historicalData": [
         {
           "Close": 3.630000114440918,
@@ -48074,7 +48074,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
-      "beta": 0.131,
+      "beta": 0.244,
       "historicalData": [
         {
           "Close": 8.899999618530273,
@@ -48263,7 +48263,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.463,
+      "beta": 0.478,
       "historicalData": [
         {
           "Close": 3.450000047683716,
@@ -48452,7 +48452,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.62,
+      "beta": 0.625,
       "historicalData": [
         {
           "Close": 385.25,
@@ -48641,7 +48641,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.474,
+      "beta": 0.399,
       "historicalData": [
         {
           "Close": 267.0,
@@ -48830,7 +48830,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.122,
+      "beta": -0.027,
       "historicalData": [
         {
           "Close": 7.380000114440918,
@@ -49019,7 +49019,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.244,
+      "beta": -0.969,
       "historicalData": [
         {
           "Close": 396.25,
@@ -49208,7 +49208,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.258,
+      "beta": 0.26,
       "historicalData": [
         {
           "Close": 4949953.0,
@@ -49397,7 +49397,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.575,
+      "beta": 0.681,
       "historicalData": [
         {
           "Close": 72.25,
@@ -49586,7 +49586,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.258,
+      "beta": 0.26,
       "historicalData": [
         {
           "Close": 424997.84375,
@@ -49775,7 +49775,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.274,
+      "beta": 0.344,
       "historicalData": [
         {
           "Close": 42.20000076293945,
@@ -50153,7 +50153,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.104,
+      "beta": 0.089,
       "historicalData": [
         {
           "Close": 148.39999389648438,
@@ -50342,7 +50342,7 @@
       "recommendationMean": 3.0,
       "recommendationKey": "hold",
       "numberOfAnalystOpinions": 2,
-      "beta": 0.537,
+      "beta": 0.446,
       "historicalData": [
         {
           "Close": 21.11199188232422,
@@ -50531,7 +50531,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.257,
+      "beta": -0.02,
       "historicalData": [
         {
           "Close": 11.979999542236328,
@@ -50720,7 +50720,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.258,
+      "beta": 0.26,
       "historicalData": [
         {
           "Close": 2815000.0,
@@ -50909,7 +50909,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.019,
+      "beta": 0.065,
       "historicalData": [
         {
           "Close": 7.159999847412109,
@@ -51098,7 +51098,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": 0.256,
+      "beta": 0.266,
       "historicalData": [
         {
           "Close": 8.4399995803833,
@@ -51287,7 +51287,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.186,
+      "beta": 0.088,
       "historicalData": [
         {
           "Close": 9.529999732971191,
@@ -51476,7 +51476,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.185,
+      "beta": 0.412,
       "historicalData": [
         {
           "Close": 52.349998474121094,
@@ -51665,7 +51665,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.372,
+      "beta": 0.26,
       "historicalData": [
         {
           "Close": 59.349998474121094,
@@ -51854,7 +51854,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.77,
+      "beta": 0.773,
       "historicalData": [
         {
           "Close": 6.480000019073486,
@@ -52043,7 +52043,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.95,
+      "beta": 0.867,
       "historicalData": [
         {
           "Close": 16.989999771118164,
@@ -52232,7 +52232,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.011,
+      "beta": 0.306,
       "historicalData": [
         {
           "Close": 413.0,
@@ -52421,7 +52421,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": 0.687,
+      "beta": 0.919,
       "historicalData": [
         {
           "Close": 8.680000305175781,
@@ -52799,7 +52799,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.009,
+      "beta": 0.055,
       "historicalData": [
         {
           "Close": 2.880000114440918,
@@ -52988,7 +52988,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.43,
+      "beta": 0.454,
       "historicalData": [
         {
           "Close": 4.559999942779541,
@@ -53177,7 +53177,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -2.188,
+      "beta": -0.954,
       "historicalData": [
         {
           "Close": 18.030000686645508,
@@ -53555,7 +53555,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.551,
+      "beta": -0.504,
       "historicalData": [
         {
           "Close": 454.0,
@@ -53744,7 +53744,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.593,
+      "beta": 0.431,
       "historicalData": [
         {
           "Close": 4.0,
@@ -53875,10 +53875,10 @@
       "symbol": "KFEIN.IS",
       "name": "Kafein Yazilim Hizmetleri Ticaret A.S.",
       "shortName": "KAFEIN YAZILIM",
-      "price": 8.71,
-      "change": -0.19,
-      "changeRate": -2.13,
-      "previousClose": 8.9,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
+      "previousClose": 8.71,
       "open": 8.95,
       "dayLow": 8.7,
       "dayHigh": 8.95,
@@ -53886,7 +53886,7 @@
       "fiftyTwoWeekHigh": 12.3,
       "fiftyDayAverage": 8.78,
       "twoHundredDayAverage": 9.47,
-      "volume": "2,882,265",
+      "volume": "0",
       "averageVolume": 5691573,
       "averageVolume10days": 4233228,
       "marketCap": 1720225024,
@@ -53933,12 +53933,8 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.106,
+      "beta": 0.129,
       "historicalData": [
-        {
-          "Close": 8.680000305175781,
-          "Volume": 3476138
-        },
         {
           "Close": 8.6899995803833,
           "Volume": 1058806
@@ -54054,6 +54050,10 @@
         {
           "Close": 8.710000038146973,
           "Volume": 2882265
+        },
+        {
+          "Close": NaN,
+          "Volume": 0
         }
       ],
       "heldPercentInsiders": 0.25139,
@@ -54122,7 +54122,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.529,
+      "beta": 0.802,
       "historicalData": [
         {
           "Close": 7.690000057220459,
@@ -54311,7 +54311,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.417,
+      "beta": -1.323,
       "historicalData": [
         {
           "Close": 19.010000228881836,
@@ -54500,7 +54500,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.545,
+      "beta": 0.515,
       "historicalData": [
         {
           "Close": 5.679999828338623,
@@ -54689,7 +54689,7 @@
       "recommendationMean": 1.75,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 4,
-      "beta": -0.434,
+      "beta": -0.483,
       "historicalData": [
         {
           "Close": 40.040000915527344,
@@ -54878,7 +54878,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.423,
+      "beta": 0.488,
       "historicalData": [
         {
           "Close": 29.040000915527344,
@@ -55067,7 +55067,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.656,
+      "beta": -0.599,
       "historicalData": [
         {
           "Close": 10.59000015258789,
@@ -55256,7 +55256,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.979,
+      "beta": 0.526,
       "historicalData": [
         {
           "Close": 129.60000610351562,
@@ -55445,7 +55445,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -2.427,
+      "beta": -1.906,
       "historicalData": [
         {
           "Close": 25.540000915527344,
@@ -55823,7 +55823,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
-      "beta": -0.599,
+      "beta": -0.324,
       "historicalData": [
         {
           "Close": 16.729999542236328,
@@ -56012,7 +56012,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.121,
+      "beta": -0.004,
       "historicalData": [
         {
           "Close": 10.890000343322754,
@@ -56390,7 +56390,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.446,
+      "beta": -0.312,
       "historicalData": [
         {
           "Close": 4017.5,
@@ -56579,7 +56579,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": -0.359,
+      "beta": -0.154,
       "historicalData": [
         {
           "Close": 9.0,
@@ -56768,7 +56768,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.592,
+      "beta": 0.6,
       "historicalData": [
         {
           "Close": 6.0,
@@ -56957,7 +56957,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
-      "beta": -0.188,
+      "beta": -0.02,
       "historicalData": [
         {
           "Close": 57.29999923706055,
@@ -57335,7 +57335,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.245,
+      "beta": 0.402,
       "historicalData": [
         {
           "Close": 30.479999542236328,
@@ -57524,7 +57524,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.245,
+      "beta": 0.402,
       "historicalData": [
         {
           "Close": 51.54999923706055,
@@ -57902,7 +57902,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.353,
+      "beta": -0.35,
       "historicalData": [
         {
           "Close": 22.34000015258789,
@@ -58091,7 +58091,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.085,
+      "beta": 0.119,
       "historicalData": [
         {
           "Close": 8.460000038146973,
@@ -58280,7 +58280,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.91,
+      "beta": 0.93,
       "historicalData": [
         {
           "Close": 8.779999732971191,
@@ -58469,7 +58469,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.009,
+      "beta": 0.06,
       "historicalData": [
         {
           "Close": 27.0,
@@ -58847,7 +58847,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.722,
+      "beta": 0.657,
       "historicalData": [
         {
           "Close": 2998.738525390625,
@@ -59036,7 +59036,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.317,
+      "beta": 0.685,
       "historicalData": [
         {
           "Close": 61.943275451660156,
@@ -59225,7 +59225,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.546,
+      "beta": 1.092,
       "historicalData": [
         {
           "Close": 79.0999984741211,
@@ -59414,7 +59414,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.508,
+      "beta": 0.531,
       "historicalData": [
         {
           "Close": 92.0,
@@ -59603,7 +59603,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.986,
+      "beta": -0.936,
       "historicalData": [
         {
           "Close": 127.5,
@@ -59792,7 +59792,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.15,
+      "beta": -0.139,
       "historicalData": [
         {
           "Close": 77.30000305175781,
@@ -59981,7 +59981,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.461,
+      "beta": 0.367,
       "historicalData": [
         {
           "Close": 3.119999885559082,
@@ -60170,7 +60170,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.068,
+      "beta": -0.041,
       "historicalData": [
         {
           "Close": 21.959999084472656,
@@ -60359,7 +60359,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.072,
+      "beta": -0.151,
       "historicalData": [
         {
           "Close": 96.0,
@@ -60548,7 +60548,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.58,
+      "beta": 0.507,
       "historicalData": [
         {
           "Close": 6.489999771118164,
@@ -60737,7 +60737,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
-      "beta": 0.396,
+      "beta": 0.316,
       "historicalData": [
         {
           "Close": 16.020000457763672,
@@ -60926,7 +60926,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.717,
+      "beta": 0.679,
       "historicalData": [
         {
           "Close": 3.359999895095825,
@@ -61115,7 +61115,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.515,
+      "beta": 0.555,
       "historicalData": [
         {
           "Close": 96.5,
@@ -61304,7 +61304,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.32,
+      "beta": -0.327,
       "historicalData": [
         {
           "Close": 1152.0,
@@ -61493,7 +61493,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.229,
+      "beta": 0.076,
       "historicalData": [
         {
           "Close": 32.099998474121094,
@@ -61682,7 +61682,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.292,
+      "beta": 0.373,
       "historicalData": [
         {
           "Close": 49.220001220703125,
@@ -61871,7 +61871,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.28,
+      "beta": -0.092,
       "historicalData": [
         {
           "Close": 15.470000267028809,
@@ -62060,7 +62060,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.539,
+      "beta": 0.56,
       "historicalData": [
         {
           "Close": 13.460000038146973,
@@ -62249,7 +62249,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.813,
+      "beta": 0.968,
       "historicalData": [
         {
           "Close": 25.979999542236328,
@@ -62438,7 +62438,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.275,
+      "beta": -0.04,
       "historicalData": [
         {
           "Close": 12.369999885559082,
@@ -62816,7 +62816,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.382,
+      "beta": 0.145,
       "historicalData": [
         {
           "Close": 1.4700000286102295,
@@ -63005,7 +63005,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": 0.392,
+      "beta": 0.406,
       "historicalData": [
         {
           "Close": 28.280000686645508,
@@ -63383,7 +63383,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.567,
+      "beta": -0.522,
       "historicalData": [
         {
           "Close": 70.0999984741211,
@@ -63572,7 +63572,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.547,
+      "beta": -1.194,
       "historicalData": [
         {
           "Close": 6.710000038146973,
@@ -63761,7 +63761,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.827,
+      "beta": 0.577,
       "historicalData": [
         {
           "Close": 26.700000762939453,
@@ -63950,7 +63950,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.046,
+      "beta": 0.394,
       "historicalData": [
         {
           "Close": 16.889999389648438,
@@ -64139,7 +64139,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.343,
+      "beta": 0.312,
       "historicalData": [
         {
           "Close": 16.350000381469727,
@@ -64517,7 +64517,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.116,
+      "beta": 1.189,
       "historicalData": [
         {
           "Close": 5.519999980926514,
@@ -64706,7 +64706,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.017,
+      "beta": 0.131,
       "historicalData": [
         {
           "Close": 3.450000047683716,
@@ -64895,7 +64895,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.386,
+      "beta": 0.22,
       "historicalData": [
         {
           "Close": 37.81999969482422,
@@ -65084,7 +65084,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.442,
+      "beta": -0.634,
       "historicalData": [
         {
           "Close": 90.9000015258789,
@@ -65273,7 +65273,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.228,
+      "beta": 0.283,
       "historicalData": [
         {
           "Close": 13.960000038146973,
@@ -65462,7 +65462,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.232,
+      "beta": -0.128,
       "historicalData": [
         {
           "Close": 5.659999847412109,
@@ -65651,7 +65651,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.119,
+      "beta": 0.105,
       "historicalData": [
         {
           "Close": 10.25,
@@ -65840,7 +65840,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": -0.348,
+      "beta": -0.041,
       "historicalData": [
         {
           "Close": 10.720000267028809,
@@ -66218,7 +66218,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.079,
+      "beta": 0.276,
       "historicalData": [
         {
           "Close": 1.4199999570846558,
@@ -66407,7 +66407,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.092,
+      "beta": 0.001,
       "historicalData": [
         {
           "Close": 1397.0,
@@ -66596,7 +66596,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.513,
+      "beta": 0.417,
       "historicalData": [
         {
           "Close": 8.047252655029297,
@@ -66785,7 +66785,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.328,
+      "beta": 0.377,
       "historicalData": [
         {
           "Close": 21.280000686645508,
@@ -66974,7 +66974,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.309,
+      "beta": 0.295,
       "historicalData": [
         {
           "Close": 9.760000228881836,
@@ -67163,7 +67163,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.266,
+      "beta": -0.138,
       "historicalData": [
         {
           "Close": 6.21999979019165,
@@ -67352,7 +67352,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.213,
+      "beta": 0.158,
       "historicalData": [
         {
           "Close": 7.260000228881836,
@@ -67541,7 +67541,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.076,
+      "beta": -0.427,
       "historicalData": [
         {
           "Close": 9.239999771118164,
@@ -67730,7 +67730,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.689,
+      "beta": 0.615,
       "historicalData": [
         {
           "Close": 12.880000114440918,
@@ -67919,7 +67919,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.019,
+      "beta": -0.061,
       "historicalData": [
         {
           "Close": 42.0,
@@ -68297,7 +68297,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.381,
+      "beta": -0.308,
       "historicalData": [
         {
           "Close": 265.5,
@@ -68864,7 +68864,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": 0.03,
+      "beta": -0.058,
       "historicalData": [
         {
           "Close": 61.400001525878906,
@@ -69053,7 +69053,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.919,
+      "beta": 0.758,
       "historicalData": [
         {
           "Close": 240.0,
@@ -69431,7 +69431,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.289,
+      "beta": -0.095,
       "historicalData": [
         {
           "Close": 3.4000000953674316,
@@ -69620,7 +69620,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": -0.735,
+      "beta": -0.514,
       "historicalData": [
         {
           "Close": 67.44999694824219,
@@ -69809,7 +69809,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.645,
+      "beta": -0.597,
       "historicalData": [
         {
           "Close": 160.0,
@@ -69998,7 +69998,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.208,
+      "beta": -0.142,
       "historicalData": [
         {
           "Close": 7.392414569854736,
@@ -70187,7 +70187,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.288,
+      "beta": 0.319,
       "historicalData": [
         {
           "Close": 2.7899999618530273,
@@ -70376,7 +70376,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.266,
+      "beta": -0.368,
       "historicalData": [
         {
           "Close": 304.75,
@@ -70565,7 +70565,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 4,
-      "beta": -0.633,
+      "beta": -0.58,
       "historicalData": [
         {
           "Close": 23.15999984741211,
@@ -70754,7 +70754,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.928,
+      "beta": 0.733,
       "historicalData": [
         {
           "Close": 58.04999923706055,
@@ -71132,7 +71132,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.068,
+      "beta": 0.121,
       "historicalData": [
         {
           "Close": 63.29999923706055,
@@ -71321,7 +71321,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.339,
+      "beta": 0.418,
       "historicalData": [
         {
           "Close": 2.0399999618530273,
@@ -71699,7 +71699,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.455,
+      "beta": -0.408,
       "historicalData": [
         {
           "Close": 34.02000045776367,
@@ -71888,7 +71888,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.354,
+      "beta": 0.004,
       "historicalData": [
         {
           "Close": 24.6200008392334,
@@ -72077,7 +72077,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.181,
+      "beta": 0.229,
       "historicalData": [
         {
           "Close": 81.75,
@@ -72266,7 +72266,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.38,
+      "beta": 0.343,
       "historicalData": [
         {
           "Close": 16.010000228881836,
@@ -72455,7 +72455,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.214,
+      "beta": -0.159,
       "historicalData": [
         {
           "Close": 80.80000305175781,
@@ -72644,7 +72644,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.389,
+      "beta": 0.249,
       "historicalData": [
         {
           "Close": 121.0,
@@ -72833,7 +72833,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.013,
+      "beta": 0.406,
       "historicalData": [
         {
           "Close": 17.68000030517578,
@@ -73022,7 +73022,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.346,
+      "beta": 1.125,
       "historicalData": [
         {
           "Close": 30.299999237060547,
@@ -73400,7 +73400,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.558,
+      "beta": -0.201,
       "historicalData": [
         {
           "Close": 8.920000076293945,
@@ -73589,7 +73589,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.285,
+      "beta": -0.191,
       "historicalData": [
         {
           "Close": 13.319999694824219,
@@ -73778,7 +73778,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.177,
+      "beta": -0.108,
       "historicalData": [
         {
           "Close": 11.300000190734863,
@@ -73967,7 +73967,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.016,
+      "beta": -0.025,
       "historicalData": [
         {
           "Close": 10.619999885559082,
@@ -74156,7 +74156,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.235,
+      "beta": 0.88,
       "historicalData": [
         {
           "Close": 75.0,
@@ -74345,7 +74345,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.071,
+      "beta": 0.103,
       "historicalData": [
         {
           "Close": 155.60000610351562,
@@ -74534,7 +74534,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.352,
+      "beta": -0.165,
       "historicalData": [
         {
           "Close": 23.760000228881836,
@@ -74723,7 +74723,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.517,
+      "beta": 0.366,
       "historicalData": [
         {
           "Close": 50.650001525878906,
@@ -74912,7 +74912,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.062,
+      "beta": 0.058,
       "historicalData": [
         {
           "Close": 10.880000114440918,
@@ -75479,7 +75479,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.945,
+      "beta": 1.788,
       "historicalData": [
         {
           "Close": 6.659999847412109,
@@ -75668,7 +75668,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.226,
+      "beta": 0.164,
       "historicalData": [
         {
           "Close": 40.70000076293945,
@@ -75857,7 +75857,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.117,
+      "beta": 0.129,
       "historicalData": [
         {
           "Close": 18.350000381469727,
@@ -76046,7 +76046,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.17,
+      "beta": 0.992,
       "historicalData": [
         {
           "Close": 15.779999732971191,
@@ -76424,7 +76424,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.185,
+      "beta": 0.33,
       "historicalData": [
         {
           "Close": 2.180000066757202,
@@ -76613,7 +76613,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.186,
+      "beta": 0.06,
       "historicalData": [
         {
           "Close": 3.059999942779541,
@@ -76802,7 +76802,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.406,
+      "beta": -0.753,
       "historicalData": [
         {
           "Close": 136.8000030517578,
@@ -76991,7 +76991,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.016,
+      "beta": -0.042,
       "historicalData": [
         {
           "Close": 201.89999389648438,
@@ -77180,7 +77180,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.749,
+      "beta": 0.553,
       "historicalData": [
         {
           "Close": 8.119999885559082,
@@ -77369,7 +77369,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 3,
-      "beta": 0.882,
+      "beta": 0.982,
       "historicalData": [
         {
           "Close": 159.6999969482422,
@@ -77558,7 +77558,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.441,
+      "beta": 0.626,
       "historicalData": [
         {
           "Close": 1.8700000047683716,
@@ -77747,7 +77747,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.111,
+      "beta": 0.446,
       "historicalData": [
         {
           "Close": 21.040000915527344,
@@ -78125,7 +78125,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.415,
+      "beta": 0.337,
       "historicalData": [
         {
           "Close": 3.7799999713897705,
@@ -78314,7 +78314,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.356,
+      "beta": -0.584,
       "historicalData": [
         {
           "Close": 34.47999954223633,
@@ -78503,7 +78503,7 @@
       "recommendationMean": 3.0,
       "recommendationKey": "hold",
       "numberOfAnalystOpinions": 1,
-      "beta": 0.88,
+      "beta": 0.759,
       "historicalData": [
         {
           "Close": 31.559999465942383,
@@ -78692,7 +78692,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.005,
+      "beta": 0.082,
       "historicalData": [
         {
           "Close": 17.299999237060547,
@@ -78881,7 +78881,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.237,
+      "beta": 0.035,
       "historicalData": [
         {
           "Close": 25.5,
@@ -79070,7 +79070,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.408,
+      "beta": 0.414,
       "historicalData": [
         {
           "Close": 5.349999904632568,
@@ -79259,7 +79259,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.268,
+      "beta": -0.251,
       "historicalData": [
         {
           "Close": 35.599998474121094,
@@ -79637,7 +79637,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.334,
+      "beta": 0.572,
       "historicalData": [
         {
           "Close": 20.079999923706055,
@@ -79826,7 +79826,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.314,
+      "beta": 1.085,
       "historicalData": [
         {
           "Close": 29.440000534057617,
@@ -80015,7 +80015,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.033,
+      "beta": 0.126,
       "historicalData": [
         {
           "Close": 43.540000915527344,
@@ -80204,7 +80204,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.798,
+      "beta": 0.698,
       "historicalData": [
         {
           "Close": 225.0,
@@ -80771,7 +80771,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.317,
+      "beta": 0.314,
       "historicalData": [
         {
           "Close": 10.199999809265137,
@@ -80960,7 +80960,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.269,
+      "beta": 0.364,
       "historicalData": [
         {
           "Close": 6.070000171661377,
@@ -81149,7 +81149,7 @@
       "recommendationMean": 2.0,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 4,
-      "beta": 0.133,
+      "beta": 0.342,
       "historicalData": [
         {
           "Close": 79.65602111816406,
@@ -81527,7 +81527,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.839,
+      "beta": 0.937,
       "historicalData": [
         {
           "Close": 4.519999980926514,
@@ -81716,7 +81716,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.923,
+      "beta": -0.812,
       "historicalData": [
         {
           "Close": 2.5199999809265137,
@@ -81905,7 +81905,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.865,
+      "beta": 0.917,
       "historicalData": [
         {
           "Close": 3.2100000381469727,
@@ -82094,7 +82094,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.046,
+      "beta": 0.099,
       "historicalData": [
         {
           "Close": 255.0,
@@ -82283,7 +82283,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.879,
+      "beta": -0.68,
       "historicalData": [
         {
           "Close": 12.039999961853027,
@@ -82472,7 +82472,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.435,
+      "beta": 1.382,
       "historicalData": [
         {
           "Close": 33.84000015258789,
@@ -82661,7 +82661,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.115,
+      "beta": -0.85,
       "historicalData": [
         {
           "Close": 7.190000057220459,
@@ -82850,7 +82850,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.355,
+      "beta": -0.259,
       "historicalData": [
         {
           "Close": 3.890000104904175,
@@ -83039,7 +83039,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.149,
+      "beta": 0.225,
       "historicalData": [
         {
           "Close": 3.799999952316284,
@@ -83228,7 +83228,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.419,
+      "beta": 0.383,
       "historicalData": [
         {
           "Close": 21.31999969482422,
@@ -83417,7 +83417,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.343,
+      "beta": -0.188,
       "historicalData": [
         {
           "Close": 9.84000015258789,
@@ -83606,7 +83606,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.513,
+      "beta": 0.479,
       "historicalData": [
         {
           "Close": 148.60000610351562,
@@ -83795,7 +83795,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.435,
+      "beta": 0.447,
       "historicalData": [
         {
           "Close": 3.2899999618530273,
@@ -83984,7 +83984,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.484,
+      "beta": -0.308,
       "historicalData": [
         {
           "Close": 261.0,
@@ -84173,7 +84173,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": 0.021,
+      "beta": 0.047,
       "historicalData": [
         {
           "Close": 35.34000015258789,
@@ -84362,7 +84362,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.513,
+      "beta": -0.461,
       "historicalData": [
         {
           "Close": 9.109999656677246,
@@ -84551,7 +84551,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.059,
+      "beta": -0.683,
       "historicalData": [
         {
           "Close": 379.5,
@@ -84740,7 +84740,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.81,
+      "beta": -0.477,
       "historicalData": [
         {
           "Close": 12.149999618530273,
@@ -84929,7 +84929,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.124,
+      "beta": -0.031,
       "historicalData": [
         {
           "Close": 16.610000610351562,
@@ -85118,7 +85118,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.175,
+      "beta": -0.174,
       "historicalData": [
         {
           "Close": 149.8000030517578,
@@ -85496,7 +85496,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.433,
+      "beta": 0.652,
       "historicalData": [
         {
           "Close": 8.890000343322754,
@@ -85685,7 +85685,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.264,
+      "beta": -0.45,
       "historicalData": [
         {
           "Close": 318.0,
@@ -85874,7 +85874,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.253,
+      "beta": 0.273,
       "historicalData": [
         {
           "Close": 16.3700008392334,
@@ -86063,7 +86063,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.615,
+      "beta": 0.594,
       "historicalData": [
         {
           "Close": 171.60000610351562,
@@ -86252,7 +86252,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
-      "beta": -0.317,
+      "beta": 0.069,
       "historicalData": [
         {
           "Close": 80.80000305175781,
@@ -86441,7 +86441,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 2,
-      "beta": -0.147,
+      "beta": 0.006,
       "historicalData": [
         {
           "Close": 22.040000915527344,
@@ -86630,7 +86630,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.449,
+      "beta": 0.454,
       "historicalData": [
         {
           "Close": 88.25,
@@ -86819,7 +86819,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.628,
+      "beta": 0.389,
       "historicalData": [
         {
           "Close": 558.0,
@@ -87008,7 +87008,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 1,
-      "beta": -0.895,
+      "beta": -0.673,
       "historicalData": [
         {
           "Close": 41.7599983215332,
@@ -87197,7 +87197,7 @@
       "recommendationMean": 1.75,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 4,
-      "beta": 0.395,
+      "beta": 0.411,
       "historicalData": [
         {
           "Close": 85.6500015258789,
@@ -87386,7 +87386,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.096,
+      "beta": 0.388,
       "historicalData": [
         {
           "Close": 2.4793450832366943,
@@ -87575,7 +87575,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.009,
+      "beta": 0.971,
       "historicalData": [
         {
           "Close": 6.900000095367432,
@@ -87910,7 +87910,7 @@
       "averageVolume": 275416503,
       "averageVolume10days": 311320687,
       "marketCap": 7425000448,
-      "enterpriseValue": 7592323072,
+      "enterpriseValue": 7443318272,
       "sharesOutstanding": 7500000000,
       "sector": "Communication Services",
       "industry": "Entertainment",
@@ -87924,21 +87924,21 @@
       "forwardPE": null,
       "priceToBook": 0.6635389,
       "pegRatio": 2.03,
-      "priceToSales": 3.0033455,
-      "enterpriseToRevenue": 3.071,
-      "enterpriseToEbitda": -2.483,
-      "profitMargins": -0.72289,
-      "grossMargins": -0.77737,
-      "operatingMargins": -0.76935995,
-      "returnOnAssets": -0.12956999,
-      "returnOnEquity": -0.31474,
-      "totalRevenue": 2472243200,
-      "revenuePerShare": 0.309,
-      "totalCash": 197456048,
-      "totalDebt": 64779240,
-      "debtToEquity": 0.579,
-      "currentRatio": 0.507,
-      "quickRatio": 0.443,
+      "priceToSales": 2.825443,
+      "enterpriseToRevenue": 2.832,
+      "enterpriseToEbitda": -2.268,
+      "profitMargins": -0.19775999,
+      "grossMargins": -0.8596,
+      "operatingMargins": -1.25515,
+      "returnOnAssets": -0.13344,
+      "returnOnEquity": -0.056599997,
+      "totalRevenue": 2627906560,
+      "revenuePerShare": 0.364,
+      "totalCash": 46654448,
+      "totalDebt": 64972724,
+      "debtToEquity": 0.497,
+      "currentRatio": 0.454,
+      "quickRatio": 0.375,
       "eps": -0.08,
       "forwardEps": null,
       "bookValue": 1.492,
@@ -87953,7 +87953,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.466,
+      "beta": 0.483,
       "historicalData": [
         {
           "Close": 0.9599999785423279,
@@ -88142,7 +88142,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.104,
+      "beta": 0.081,
       "historicalData": [
         {
           "Close": 4.599999904632568,
@@ -88331,7 +88331,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.025,
+      "beta": 0.11,
       "historicalData": [
         {
           "Close": 2.3299999237060547,
@@ -88520,7 +88520,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.233,
+      "beta": -0.055,
       "historicalData": [
         {
           "Close": 7.730000019073486,
@@ -88709,7 +88709,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.348,
+      "beta": 0.004,
       "historicalData": [
         {
           "Close": 27.799999237060547,
@@ -89087,7 +89087,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.053,
+      "beta": -0.162,
       "historicalData": [
         {
           "Close": 1526.0,
@@ -89465,7 +89465,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.124,
+      "beta": 0.225,
       "historicalData": [
         {
           "Close": 181.8000030517578,
@@ -89843,7 +89843,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.891,
+      "beta": -0.828,
       "historicalData": [
         {
           "Close": 9.300000190734863,
@@ -90032,7 +90032,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.06,
+      "beta": 0.079,
       "historicalData": [
         {
           "Close": 13.869999885559082,
@@ -90221,7 +90221,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.268,
+      "beta": -1.075,
       "historicalData": [
         {
           "Close": 1.649999976158142,
@@ -90410,7 +90410,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.618,
+      "beta": 0.579,
       "historicalData": [
         {
           "Close": 1.8700000047683716,
@@ -90599,7 +90599,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.368,
+      "beta": 0.259,
       "historicalData": [
         {
           "Close": 70.77888488769531,
@@ -90788,7 +90788,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.024,
+      "beta": 0.169,
       "historicalData": [
         {
           "Close": 67.9000015258789,
@@ -90977,7 +90977,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.293,
+      "beta": 1.204,
       "historicalData": [
         {
           "Close": 21.559999465942383,
@@ -91166,7 +91166,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.079,
+      "beta": 0.086,
       "historicalData": [
         {
           "Close": 38.63999938964844,
@@ -91544,7 +91544,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
-      "beta": 0.354,
+      "beta": 0.341,
       "historicalData": [
         {
           "Close": 7.309999942779541,
@@ -91733,7 +91733,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.691,
+      "beta": 0.565,
       "historicalData": [
         {
           "Close": 36.29999923706055,
@@ -92111,7 +92111,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.073,
+      "beta": 0.003,
       "historicalData": [
         {
           "Close": 2.740000009536743,
@@ -92300,7 +92300,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.259,
+      "beta": -0.272,
       "historicalData": [
         {
           "Close": 16.719999313354492,
@@ -92678,7 +92678,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.511,
+      "beta": 1.473,
       "historicalData": [
         {
           "Close": 1.6200000047683716,
@@ -92867,7 +92867,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.351,
+      "beta": -0.287,
       "historicalData": [
         {
           "Close": 49.86000061035156,
@@ -93056,7 +93056,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.123,
+      "beta": -0.024,
       "historicalData": [
         {
           "Close": 195.12893676757812,
@@ -93245,7 +93245,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.207,
+      "beta": -0.183,
       "historicalData": [
         {
           "Close": 3.2899999618530273,
@@ -93434,7 +93434,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.62,
+      "beta": -0.529,
       "historicalData": [
         {
           "Close": 7.984375953674316,
@@ -93623,7 +93623,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.571,
+      "beta": -0.446,
       "historicalData": [
         {
           "Close": 11.140000343322754,
@@ -93812,7 +93812,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.0,
+      "beta": 0.146,
       "historicalData": [
         {
           "Close": 8.069999694824219,
@@ -94069,7 +94069,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
-      "beta": 0.181,
+      "beta": 0.253,
       "historicalData": [
         {
           "Close": 2.9000000953674316,
@@ -94258,7 +94258,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.121,
+      "beta": -0.191,
       "historicalData": [
         {
           "Close": 21.639999389648438,
