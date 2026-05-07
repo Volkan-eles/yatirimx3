@@ -27,6 +27,15 @@
     "description": "Bölünme Tarihi: 05.05.2026"
   },
   {
+    "code": "MEGMT",
+    "company": "MEGMT Mega Metal San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1000",
+    "date": "05.05.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı"
+  },
+  {
     "code": "MERCN",
     "company": "MERCN Mercan Kimya San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -259,6 +268,15 @@
     "date": "08.05.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "IMASM",
+    "company": "IMASM İmaş Makine Sanayi A.Ş.",
+    "type": "Bedelli",
+    "rate": "%115",
+    "date": "06.05.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1.063.750.000 TL"
   },
   {
     "code": "CONSE",
