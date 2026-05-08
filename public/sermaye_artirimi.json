@@ -1,30 +1,39 @@
 [
   {
-    "code": "YEN",
-    "company": "A1YEN A1 Yenilenebilir Enerji Üretim A.Ş.",
+    "code": "BIMAS",
+    "company": "BIMAS Bim Birleşik Mağazalar A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%990.99",
-    "date": "29.04.2026",
+    "rate": "%100",
+    "date": "07.05.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı"
   },
   {
-    "code": "MERKO",
-    "company": "MERKO Merko Gıda San. ve Tic. A.Ş.",
+    "code": "FRIGO",
+    "company": "FRIGO Frigo-Pak Gida Maddeleri San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%638",
-    "date": "05.05.2026",
+    "rate": "%188,91",
+    "date": "07.05.2026",
     "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 05.05.2026 | Tutar: 734.876.627 TL"
+    "description": "SPK Onayı Alındı | Tutar: 555.795.050 TL"
   },
   {
-    "code": "ENTRA",
-    "company": "ENTRA Ic Enterra Yenilenebilir Enerji A.Ş.",
+    "code": "YEN",
+    "company": "A1YEN A1 Yenilenebilir Enerji Üretim A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "05.05.2026",
+    "rate": "%990.99",
+    "date": "08.05.2026",
     "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 05.05.2026"
+    "description": "Bölünme Tarihi: 08.05.2026"
+  },
+  {
+    "code": "IZINV",
+    "company": "IZINV İz Yatırım Holding A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1327.55",
+    "date": "07.05.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 232.487.544 TL"
   },
   {
     "code": "MEGMT",
@@ -162,24 +171,6 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 1.050.544.100 TL"
   },
   {
-    "code": "FRIGO",
-    "company": "FRIGO Frigo-Pak Gida Maddeleri San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%188,91",
-    "date": "05.03.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 555.795.050 TL"
-  },
-  {
-    "code": "BIMAS",
-    "company": "BIMAS Bim Birleşik Mağazalar A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "19.02.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "DSTKF",
     "company": "DSTKF Destek Finans Faktoring A.Ş.",
     "type": "Bedelsiz",
@@ -270,6 +261,15 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
+    "code": "SKBNK",
+    "company": "SKBNK Şekerbank T.A.Ş.",
+    "type": "Bedelli",
+    "rate": "%40",
+    "date": "07.05.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
+  },
+  {
     "code": "IMASM",
     "company": "IMASM İmaş Makine Sanayi A.Ş.",
     "type": "Bedelli",
@@ -293,6 +293,15 @@
     "type": "Bedelli",
     "rate": "%100",
     "date": "20.04.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
+  },
+  {
+    "code": "SAMAT",
+    "company": "SAMAT Saray Matbaacılık Kağıtçılık Kırtasiyecilik Tic. ve San. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%200",
+    "date": "09.04.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
