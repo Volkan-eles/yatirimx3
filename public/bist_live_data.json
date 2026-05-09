@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-09T17:36:25.657874",
+  "last_update": "2026-05-09T19:14:53.485604",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -630,7 +630,7 @@
       "payoutRatio": 0.0671,
       "targetHighPrice": 25.0,
       "targetLowPrice": 13.5,
-      "targetMeanPrice": 19.83231,
+      "targetMeanPrice": 20.08538,
       "targetMedianPrice": 19.86,
       "recommendationMean": 1.53846,
       "recommendationKey": "buy",
@@ -15752,8 +15752,8 @@
       "targetLowPrice": 266.0,
       "targetMeanPrice": 277.66666,
       "targetMedianPrice": 282.0,
-      "recommendationMean": 1.0,
-      "recommendationKey": "strong_buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
       "beta": 0.382,
       "historicalData": [
@@ -50339,8 +50339,8 @@
       "targetLowPrice": 15.9,
       "targetMeanPrice": 21.55,
       "targetMedianPrice": 21.55,
-      "recommendationMean": 3.0,
-      "recommendationKey": "hold",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
       "beta": 0.446,
       "historicalData": [
