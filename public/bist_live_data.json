@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-09T07:14:34.386590",
+  "last_update": "2026-05-09T09:02:15.781646",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -381,7 +381,7 @@
         }
       ],
       "heldPercentInsiders": 0.41277,
-      "heldPercentInstitutions": 0.1909
+      "heldPercentInstitutions": 0.19094999
     },
     {
       "code": "YKBNK",
@@ -15879,7 +15879,7 @@
         }
       ],
       "heldPercentInsiders": 0.57249,
-      "heldPercentInstitutions": 0.16576
+      "heldPercentInstitutions": 0.16601999
     },
     {
       "code": "ATAGY",
@@ -48986,7 +48986,7 @@
       "country": "Turkey",
       "phone": "90 212 290 74 74",
       "description": "Investco Holding A.S. operates as an investment company in Europe, the Middle East, Asia, Africa, North and South America, and Turkey. The company invests in companies operating in renewable energy, mining, chemistry, iron-steel, technology and software, venture capital, food, and healthcare industries. The company was incorporated in 2011 and is based in Istanbul, Turkey.",
-      "pe": 30.51118,
+      "pe": 30.576307,
       "forwardPE": null,
       "priceToBook": 4.5685034,
       "pegRatio": null,
@@ -49005,7 +49005,7 @@
       "debtToEquity": null,
       "currentRatio": 45.76,
       "quickRatio": 45.64,
-      "eps": 18.78,
+      "eps": 18.74,
       "forwardEps": null,
       "bookValue": 125.424,
       "dividendRate": null,
@@ -55431,7 +55431,7 @@
       "debtToEquity": 114.695,
       "currentRatio": 0.86,
       "quickRatio": 0.462,
-      "eps": -2.17,
+      "eps": -2.16,
       "forwardEps": null,
       "bookValue": 3.636,
       "dividendRate": null,
@@ -55591,7 +55591,7 @@
       "averageVolume": 7093497,
       "averageVolume10days": 7048098,
       "marketCap": 5405689856,
-      "enterpriseValue": 5695130112,
+      "enterpriseValue": 5693869056,
       "sharesOutstanding": 431419816,
       "sector": "Consumer Cyclical",
       "industry": "Furnishings, Fixtures & Appliances",
@@ -55606,15 +55606,15 @@
       "priceToBook": 1.5766956,
       "pegRatio": null,
       "priceToSales": 2.8817337,
-      "enterpriseToRevenue": 3.036,
-      "enterpriseToEbitda": 19.846,
+      "enterpriseToRevenue": 3.035,
+      "enterpriseToEbitda": 20.059,
       "profitMargins": 0.05153,
-      "grossMargins": 0.51772,
+      "grossMargins": 0.51768,
       "operatingMargins": 0.00769,
       "returnOnAssets": 0.0156,
       "returnOnEquity": 0.02895,
       "totalRevenue": 1875846400,
-      "revenuePerShare": 4.347,
+      "revenuePerShare": 4.348,
       "totalCash": 396397952,
       "totalDebt": 684576512,
       "debtToEquity": 17.999,
@@ -55634,7 +55634,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.176,
       "historicalData": [
         {
           "Close": 10.989999771118164,
@@ -64451,7 +64451,7 @@
           "Volume": 265307722
         }
       ],
-      "heldPercentInsiders": 1.95603,
+      "heldPercentInsiders": 0.26492,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -65018,7 +65018,7 @@
           "Volume": 94380560
         }
       ],
-      "heldPercentInsiders": 0.42224997,
+      "heldPercentInsiders": 0.38006002,
       "heldPercentInstitutions": 0.03551
     },
     {
@@ -65807,7 +65807,7 @@
       "country": "Turkey",
       "phone": "90 312 484 05 70",
       "description": "Mogan Enerji Yatirim Holding Anonim Sirketi engages in the renewable energy business in Turkey. It generates and sells energy through geothermal, hydroelectric, wind, and solar power plants. Mogan Enerji Yatirim Holding Anonim Sirketi was founded in 1980 and is headquartered in Ankara, Turkey.",
-      "pe": 15.91579,
+      "pe": 15.75,
       "forwardPE": 9.163636,
       "priceToBook": 0.48509735,
       "pegRatio": null,
@@ -65826,7 +65826,7 @@
       "debtToEquity": 36.599,
       "currentRatio": 0.301,
       "quickRatio": 0.258,
-      "eps": 0.95,
+      "eps": 0.96,
       "forwardEps": null,
       "bookValue": 31.169,
       "dividendRate": null,
@@ -76769,7 +76769,7 @@
       "country": "Turkey",
       "phone": "90 312 444 57 25",
       "description": "Ral Yatirim Holding A.S. engages in the construction, energy, properties, and education activities. It carries contracting works for residential projects, as well as large public projects. The company is also involved in the production and sale of renewable and clean energy; and produces calcites. Ral Yatirim Holding A.S. was incorporated in 1976 and is headquartered in Ankara, Turkey.",
-      "pe": 48.830597,
+      "pe": 48.76894,
       "forwardPE": null,
       "priceToBook": 18.19188,
       "pegRatio": null,
@@ -76788,7 +76788,7 @@
       "debtToEquity": 45.171,
       "currentRatio": 0.829,
       "quickRatio": 0.537,
-      "eps": 7.91,
+      "eps": 7.92,
       "forwardEps": null,
       "bookValue": 21.232,
       "dividendRate": null,
@@ -78500,8 +78500,8 @@
       "targetLowPrice": 33.0,
       "targetMeanPrice": 33.0,
       "targetMedianPrice": 33.0,
-      "recommendationMean": 3.0,
-      "recommendationKey": "hold",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
       "beta": 0.759,
       "historicalData": [
@@ -82240,7 +82240,7 @@
       "averageVolume": 6764395,
       "averageVolume10days": 4852490,
       "marketCap": 2169999872,
-      "enterpriseValue": 2439589376,
+      "enterpriseValue": 2729787648,
       "sharesOutstanding": 155000000,
       "sector": "Financial Services",
       "industry": "Capital Markets",
@@ -82254,21 +82254,21 @@
       "forwardPE": null,
       "priceToBook": 1.8888289,
       "pegRatio": null,
-      "priceToSales": 0.046609078,
-      "enterpriseToRevenue": 0.052,
-      "enterpriseToEbitda": 7.762,
-      "profitMargins": -0.00245,
-      "grossMargins": 0.021340001,
-      "operatingMargins": 0.0061500003,
-      "returnOnAssets": 0.06691,
-      "returnOnEquity": -0.09527001,
-      "totalRevenue": 46557450240,
+      "priceToSales": 0.043559223,
+      "enterpriseToRevenue": 0.055,
+      "enterpriseToEbitda": 9.496,
+      "profitMargins": -0.0023700001,
+      "grossMargins": 0.01995,
+      "operatingMargins": 0.00411,
+      "returnOnAssets": 0.065510005,
+      "returnOnEquity": -0.10836001,
+      "totalRevenue": 49817231360,
       "revenuePerShare": 300.371,
-      "totalCash": 298749120,
-      "totalDebt": 568338432,
-      "debtToEquity": 49.467,
-      "currentRatio": 1.306,
-      "quickRatio": 1.301,
+      "totalCash": 586973504,
+      "totalDebt": 1146761088,
+      "debtToEquity": 96.571,
+      "currentRatio": 1.315,
+      "quickRatio": 1.302,
       "eps": -0.73,
       "forwardEps": null,
       "bookValue": 7.412,
@@ -82283,7 +82283,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.68,
+      "beta": null,
       "historicalData": [
         {
           "Close": 11.800000190734863,
