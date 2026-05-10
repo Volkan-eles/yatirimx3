@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-10T20:02:51.202244",
+  "last_update": "2026-05-10T21:02:40.540348",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 48.338303,
-      "targetLowPrice": 31.787195,
-      "targetMeanPrice": 39.64512,
-      "targetMedianPrice": 39.63197,
+      "targetHighPrice": 48.29822,
+      "targetLowPrice": 31.760836,
+      "targetMeanPrice": 39.612244,
+      "targetMedianPrice": 39.599106,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.3,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 587.1068,
-      "targetLowPrice": 381.47778,
-      "targetMeanPrice": 451.2639,
-      "targetMedianPrice": 441.49298,
+      "targetHighPrice": 584.545,
+      "targetLowPrice": 379.81317,
+      "targetMeanPrice": 449.29477,
+      "targetMedianPrice": 439.56653,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -42913,10 +42913,10 @@
       "symbol": "GRSEL.IS",
       "name": "Gür-Sel Turizm Tasimacilik ve Servis Ticaret A.S.",
       "shortName": "GUR-SEL TURIZM TASIMACILIK",
-      "price": 330.25,
-      "change": 3.25,
+      "price": 329.51,
+      "change": 3.24,
       "changeRate": 0.99,
-      "previousClose": 327.0,
+      "previousClose": 326.27,
       "open": 326.5,
       "dayLow": 320.0,
       "dayHigh": 330.5,
@@ -42974,123 +42974,123 @@
       "beta": 0.09,
       "historicalData": [
         {
-          "Close": 308.0,
+          "Close": 307.3142395019531,
           "Volume": 417956
         },
         {
-          "Close": 315.5,
+          "Close": 314.79754638671875,
           "Volume": 714476
         },
         {
-          "Close": 308.25,
+          "Close": 307.5636901855469,
           "Volume": 566778
         },
         {
-          "Close": 309.5,
+          "Close": 308.8109130859375,
           "Volume": 275810
         },
         {
-          "Close": 314.75,
+          "Close": 314.0492248535156,
           "Volume": 553183
         },
         {
-          "Close": 310.25,
+          "Close": 309.5592346191406,
           "Volume": 294044
         },
         {
-          "Close": 307.25,
+          "Close": 306.56591796875,
           "Volume": 279159
         },
         {
-          "Close": 323.0,
+          "Close": 322.2808532714844,
           "Volume": 653849
         },
         {
-          "Close": 309.5,
+          "Close": 308.8109130859375,
           "Volume": 413434
         },
         {
-          "Close": 318.5,
+          "Close": 317.7908630371094,
           "Volume": 808407
         },
         {
-          "Close": 316.25,
+          "Close": 315.5458679199219,
           "Volume": 592115
         },
         {
-          "Close": 318.25,
+          "Close": 317.5414123535156,
           "Volume": 375835
         },
         {
-          "Close": 311.5,
+          "Close": 310.80645751953125,
           "Volume": 479567
         },
         {
-          "Close": 316.75,
+          "Close": 316.0447692871094,
           "Volume": 410859
         },
         {
-          "Close": 318.0,
+          "Close": 317.2919921875,
           "Volume": 641175
         },
         {
-          "Close": 318.0,
+          "Close": 317.2919921875,
           "Volume": 270571
         },
         {
-          "Close": 324.0,
+          "Close": 323.27862548828125,
           "Volume": 932656
         },
         {
-          "Close": 316.75,
+          "Close": 316.0447692871094,
           "Volume": 381060
         },
         {
-          "Close": 308.5,
+          "Close": 307.8131408691406,
           "Volume": 728698
         },
         {
-          "Close": 302.0,
+          "Close": 301.3276062011719,
           "Volume": 565903
         },
         {
-          "Close": 302.0,
+          "Close": 301.3276062011719,
           "Volume": 363119
         },
         {
-          "Close": 307.5,
+          "Close": 306.81536865234375,
           "Volume": 361129
         },
         {
-          "Close": 301.0,
+          "Close": 300.329833984375,
           "Volume": 361829
         },
         {
-          "Close": 295.5,
+          "Close": 294.8420715332031,
           "Volume": 352567
         },
         {
-          "Close": 299.0,
+          "Close": 298.33428955078125,
           "Volume": 1137888
         },
         {
-          "Close": 296.0,
+          "Close": 295.3409729003906,
           "Volume": 791784
         },
         {
-          "Close": 300.5,
+          "Close": 299.8309326171875,
           "Volume": 586343
         },
         {
-          "Close": 321.0,
+          "Close": 320.2853088378906,
           "Volume": 1380793
         },
         {
-          "Close": 327.0,
+          "Close": 326.2719421386719,
           "Volume": 696210
         },
         {
-          "Close": 330.25,
+          "Close": 329.51470947265625,
           "Volume": 673695
         }
       ],
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 80.89638,
-      "targetLowPrice": 60.762974,
-      "targetMeanPrice": 67.53442,
-      "targetMedianPrice": 60.94435,
+      "targetHighPrice": 80.82929,
+      "targetLowPrice": 60.712585,
+      "targetMeanPrice": 67.47842,
+      "targetMedianPrice": 60.893818,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
