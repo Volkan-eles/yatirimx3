@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-09T23:26:44.406186",
+  "last_update": "2026-05-10T00:15:54.414537",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -71507,8 +71507,8 @@
       "targetLowPrice": 13.58,
       "targetMeanPrice": 19.76,
       "targetMedianPrice": 21.7,
-      "recommendationMean": 1.0,
-      "recommendationKey": "strong_buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
       "beta": 0.144,
       "historicalData": [
