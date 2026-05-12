@@ -18,13 +18,22 @@
     "description": "SPK Onayı Alındı | Tutar: 555.795.050 TL"
   },
   {
-    "code": "YEN",
-    "company": "A1YEN A1 Yenilenebilir Enerji Üretim A.Ş.",
+    "code": "VSNMD",
+    "company": "VSNMD Vişne Madencilik Üretim San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%990.99",
+    "rate": "%55",
+    "date": "11.05.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 64.350.000 TL"
+  },
+  {
+    "code": "MEGMT",
+    "company": "MEGMT Mega Metal San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%860",
     "date": "08.05.2026",
     "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 08.05.2026"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "IZINV",
@@ -34,15 +43,6 @@
     "date": "07.05.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 232.487.544 TL"
-  },
-  {
-    "code": "MEGMT",
-    "company": "MEGMT Mega Metal San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1000",
-    "date": "05.05.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "MERCN",
