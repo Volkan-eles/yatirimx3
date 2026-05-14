@@ -1,5 +1,14 @@
 [
   {
+    "code": "BIMAS",
+    "company": "BIMAS Bim Birleşik Mağazalar A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "14.05.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 14.05.2026"
+  },
+  {
     "code": "FRIGO",
     "company": "FRIGO Frigo-Pak Gida Maddeleri San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -9,13 +18,13 @@
     "description": "Bölünme Tarihi: 13.05.2026 | Tutar: 555.795.050 TL"
   },
   {
-    "code": "BIMAS",
-    "company": "BIMAS Bim Birleşik Mağazalar A.Ş.",
+    "code": "VAKFN",
+    "company": "VAKFN Vakıf Finansal Kiralama A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "07.05.2026",
+    "rate": "%20",
+    "date": "13.05.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "VSNMD",

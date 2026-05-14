@@ -6101,5 +6101,66 @@
       "lotCount": "%28.17"
     }
   ],
-  "draft_ipos": []
+  "draft_ipos": [
+    {
+      "company": "MRBAS",
+      "link": "https://halkarz.com/marbas-menkul-degerler-a-s/",
+      "status": "Taslak",
+      "code": "MRBAS",
+      "price": "Hazırlanıyor...",
+      "dates": "Tarih Bekleniyor",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "120.000.000 Lot"
+    },
+    {
+      "company": "OTOSR",
+      "link": "https://halkarz.com/otosor-otomotiv-a-s/",
+      "status": "Taslak",
+      "code": "OTOSR",
+      "price": "Hazırlanıyor...",
+      "dates": "Tarih Bekleniyor",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "70.000.000 Lot"
+    },
+    {
+      "company": "TIMUR",
+      "link": "https://halkarz.com/timur-gayrimenkul-gelistirme-yapi-ve-yatirim-a-s/",
+      "status": "Taslak",
+      "code": "TIMUR",
+      "price": "Hazırlanıyor...",
+      "dates": "Tarih Bekleniyor",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "116.545.019 Lot"
+    },
+    {
+      "company": "GLMND",
+      "link": "https://halkarz.com/gulluk-mandalya-turizm-liman-isletmeleri-a-s/",
+      "status": "Taslak",
+      "code": "GLMND",
+      "price": "Hazırlanıyor...",
+      "dates": "Tarih Bekleniyor",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "25.650.000 Lot"
+    },
+    {
+      "company": "TV8TV",
+      "link": "https://halkarz.com/tv8-tv-yayincilik-a-s/",
+      "status": "Taslak",
+      "code": "TV8TV",
+      "price": "Hazırlanıyor...",
+      "dates": "Tarih Bekleniyor",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "35.000.000 Lot"
+    },
+    {
+      "company": "QYHOL",
+      "link": "https://halkarz.com/q-yatirim-holding-a-s/",
+      "status": "Taslak",
+      "code": "QYHOL",
+      "price": "Hazırlanıyor...",
+      "dates": "Tarih Bekleniyor",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "500.000.000 Lot"
+    }
+  ]
 }
