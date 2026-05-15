@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-14T23:37:10.313442",
+  "last_update": "2026-05-15T01:28:27.323856",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.148674,
-      "targetLowPrice": 35.12982,
-      "targetMeanPrice": 43.39216,
-      "targetMedianPrice": 45.14091,
+      "targetHighPrice": 52.18852,
+      "targetLowPrice": 35.156662,
+      "targetMeanPrice": 43.42531,
+      "targetMedianPrice": 45.1754,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -2467,9 +2467,9 @@
       "symbol": "BIMAS.IS",
       "name": "BIM Birlesik Magazalar A.S.",
       "shortName": "BIM MAGAZALAR",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 414.0,
+      "change": 7.5,
+      "changeRate": 1.85,
       "previousClose": 406.5,
       "open": 411.5,
       "dayLow": 409.25,
@@ -2481,9 +2481,9 @@
       "volume": "8,115,738",
       "averageVolume": 5299662,
       "averageVolume10days": 5826798,
-      "marketCap": 245456453632,
+      "marketCap": 490912907264,
       "enterpriseValue": 275391315968,
-      "sharesOutstanding": 592890000,
+      "sharesOutstanding": 1185780000,
       "sector": "Consumer Defensive",
       "industry": "Grocery Stores",
       "website": "https://www.bim.com.tr",
@@ -2496,7 +2496,7 @@
       "forwardPE": 7.7848816,
       "priceToBook": 1.3142399,
       "pegRatio": 1.35,
-      "priceToSales": 0.33142608,
+      "priceToSales": 0.66285217,
       "enterpriseToRevenue": 0.372,
       "enterpriseToEbitda": 8.676,
       "profitMargins": 0.0291,
@@ -2528,123 +2528,123 @@
       "beta": 0.018,
       "historicalData": [
         {
-          "Close": 689.0,
-          "Volume": 4391380
+          "Close": 345.5,
+          "Volume": 8435422
         },
         {
-          "Close": 703.5,
-          "Volume": 5841313
+          "Close": 345.5,
+          "Volume": 9360274
         },
         {
-          "Close": 691.0,
-          "Volume": 4217711
+          "Close": 342.75,
+          "Volume": 8748508
         },
         {
-          "Close": 691.0,
-          "Volume": 4680137
+          "Close": 363.25,
+          "Volume": 15830450
         },
         {
-          "Close": 685.5,
-          "Volume": 4374254
+          "Close": 369.5,
+          "Volume": 9522176
         },
         {
-          "Close": 726.5,
-          "Volume": 7915225
+          "Close": 375.5,
+          "Volume": 9531852
         },
         {
-          "Close": 739.0,
-          "Volume": 4761088
+          "Close": 372.0,
+          "Volume": 10411160
         },
         {
-          "Close": 751.0,
-          "Volume": 4765926
+          "Close": 376.0,
+          "Volume": 11313430
         },
         {
-          "Close": 744.0,
-          "Volume": 5205580
+          "Close": 376.5,
+          "Volume": 6987262
         },
         {
-          "Close": 752.0,
-          "Volume": 5656715
+          "Close": 373.0,
+          "Volume": 6890688
         },
         {
-          "Close": 753.0,
-          "Volume": 3493631
+          "Close": 382.5,
+          "Volume": 11981354
         },
         {
-          "Close": 746.0,
-          "Volume": 3445344
+          "Close": 378.0,
+          "Volume": 6853456
         },
         {
-          "Close": 765.0,
-          "Volume": 5990677
+          "Close": 376.25,
+          "Volume": 5825344
         },
         {
-          "Close": 756.0,
-          "Volume": 3426728
+          "Close": 381.5,
+          "Volume": 8719812
         },
         {
-          "Close": 752.5,
-          "Volume": 2912672
+          "Close": 381.5,
+          "Volume": 0
         },
         {
-          "Close": 763.0,
-          "Volume": 4359906
+          "Close": 380.0,
+          "Volume": 7459866
         },
         {
-          "Close": 760.0,
-          "Volume": 3729933
+          "Close": 376.25,
+          "Volume": 6016610
         },
         {
-          "Close": 752.5,
-          "Volume": 3008305
+          "Close": 365.0,
+          "Volume": 6961636
         },
         {
-          "Close": 730.0,
-          "Volume": 3480818
+          "Close": 363.5,
+          "Volume": 5912010
         },
         {
-          "Close": 727.0,
-          "Volume": 2956005
+          "Close": 370.75,
+          "Volume": 10873618
         },
         {
-          "Close": 741.5,
-          "Volume": 5436809
+          "Close": 370.75,
+          "Volume": 0
         },
         {
-          "Close": 730.0,
-          "Volume": 4234278
+          "Close": 365.0,
+          "Volume": 8468556
         },
         {
-          "Close": 747.0,
-          "Volume": 3634808
+          "Close": 373.5,
+          "Volume": 7269616
         },
         {
-          "Close": 781.0,
-          "Volume": 7580243
+          "Close": 390.5,
+          "Volume": 15160486
         },
         {
-          "Close": 784.0,
-          "Volume": 3323695
+          "Close": 392.0,
+          "Volume": 6647390
         },
         {
-          "Close": 790.0,
-          "Volume": 3947561
+          "Close": 395.0,
+          "Volume": 7895122
         },
         {
-          "Close": 774.5,
-          "Volume": 4457296
+          "Close": 387.25,
+          "Volume": 8914592
         },
         {
-          "Close": 781.0,
-          "Volume": 7070464
+          "Close": 390.5,
+          "Volume": 14140928
         },
         {
           "Close": 406.5,
           "Volume": 15626826
         },
         {
-          "Close": NaN,
+          "Close": 414.0,
           "Volume": 8115738
         }
       ],
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.3,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 583.30334,
-      "targetLowPrice": 379.00644,
-      "targetMeanPrice": 448.34045,
-      "targetMedianPrice": 438.63287,
+      "targetHighPrice": 583.26666,
+      "targetLowPrice": 378.9826,
+      "targetMeanPrice": 448.31226,
+      "targetMedianPrice": 438.60526,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -5694,9 +5694,9 @@
       "volume": "1,009,247,193",
       "averageVolume": 220610754,
       "averageVolume10days": 0,
-      "marketCap": 131885006848,
+      "marketCap": 139229396992,
       "enterpriseValue": 269849919488,
-      "sharesOutstanding": 43815615361,
+      "sharesOutstanding": 46255615357,
       "sector": "Consumer Cyclical",
       "industry": "Textile Manufacturing",
       "website": "https://www.sasa.com.tr",
@@ -5709,7 +5709,7 @@
       "forwardPE": null,
       "priceToBook": 0.854628,
       "pegRatio": null,
-      "priceToSales": 2.2972376,
+      "priceToSales": 2.4251657,
       "enterpriseToRevenue": 4.7,
       "enterpriseToEbitda": 31.241,
       "profitMargins": -0.38531,
@@ -25174,7 +25174,7 @@
       "description": "Çemas Döküm Sanayi A.S. provides alloyed grinding products for the cement and mining industries. It offers grinding media balls and cylpebs. The company also produces cast parts, nodular and grey iron, and machining parts for use in the agriculture, automotive, construction and machinery, white goods, pumps, reducers, and machineries, such as knuckle, reducer housing, axle housing, transmission housing, weight, transmission parts, wheel hubs, oil sump, brake disc, reducer housing cover, flywheel, gearbox, cover, crankshaft pulley, axle components, engine cap, flywheel housing, agricultural ancillary equipment, brake discs and brake levers, suspension components, gear sets and gearboxes, differential components, exhaust manifolds, transmission housing parts, pistons, brackets, engine components, seat plates, brake drums, flywheels, control arms, differansiyel parçalari, crane load-bearing parts, housing, bearing housing, and fittings. Çemas Döküm Sanayi A.S. was incorporated in 1976 and is based in Kirsehir, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.95109224,
+      "priceToBook": 1.1194539,
       "pegRatio": null,
       "priceToSales": 2.9896505,
       "enterpriseToRevenue": 3.435,
@@ -25193,7 +25193,7 @@
       "quickRatio": 2.034,
       "eps": -0.75,
       "forwardEps": null,
-      "bookValue": 5.173,
+      "bookValue": 4.395,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -32154,7 +32154,7 @@
       "volume": "16,285,293",
       "averageVolume": 13489471,
       "averageVolume10days": 7036934,
-      "marketCap": 7645251584,
+      "marketCap": 8194522624,
       "enterpriseValue": 7330356224,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -36296,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
+      "name": "ETILER GIDA",
       "shortName": "ETILER GIDA",
       "price": NaN,
       "change": NaN,
@@ -36312,9 +36312,9 @@
       "volume": "24,450,338",
       "averageVolume": 17728192,
       "averageVolume10days": 34255994,
-      "marketCap": 1528800000,
+      "marketCap": 0,
       "enterpriseValue": 1993508224,
-      "sharesOutstanding": 240000000,
+      "sharesOutstanding": 0,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 81.14881,
-      "targetLowPrice": 60.95258,
-      "targetMeanPrice": 67.745155,
-      "targetMedianPrice": 61.134525,
+      "targetHighPrice": 81.24069,
+      "targetLowPrice": 61.021595,
+      "targetMeanPrice": 67.82186,
+      "targetMedianPrice": 61.203747,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -66000,21 +66000,21 @@
       "forwardPE": 10.175258,
       "priceToBook": 2.92927,
       "pegRatio": null,
-      "priceToSales": 1.7050886,
+      "priceToSales": 1.6786019,
       "enterpriseToRevenue": null,
       "enterpriseToEbitda": null,
-      "profitMargins": 0.1005,
-      "grossMargins": 0.28112,
-      "operatingMargins": 0.23634,
-      "returnOnAssets": 0.10258,
-      "returnOnEquity": 0.20549,
-      "totalRevenue": 55092969472,
+      "profitMargins": 0.10138,
+      "grossMargins": 0.2811,
+      "operatingMargins": 0.15487,
+      "returnOnAssets": 0.08718,
+      "returnOnEquity": 0.18370001,
+      "totalRevenue": 55962284032,
       "revenuePerShare": null,
-      "totalCash": 8040928256,
-      "totalDebt": 19999322112,
-      "debtToEquity": 54.544,
-      "currentRatio": 1.288,
-      "quickRatio": 1.114,
+      "totalCash": 5980698112,
+      "totalDebt": 21094146048,
+      "debtToEquity": 49.96,
+      "currentRatio": 1.194,
+      "quickRatio": 1.035,
       "eps": 29.72,
       "forwardEps": 48.5,
       "bookValue": 168.472,
@@ -66187,7 +66187,7 @@
       "description": "Marti Gayrimenkul Yatirim Ortakligi A.S. engages in the real estate activities in Turkey. The company primarily has investments in Çerkezköy housing project; a hotel in Sarigerme; and two hotels in Ayin Bay and Hisarönü Marina. Marti Gayrimenkul Yatirim Ortakligi A.S. was founded in 1967 and is headquartered in Istanbul, Turkey.",
       "pe": 1.9444445,
       "forwardPE": null,
-      "priceToBook": 0.17851678,
+      "priceToBook": 0.1718213,
       "pegRatio": null,
       "priceToSales": 20.038265,
       "enterpriseToRevenue": 13.984,
@@ -66206,7 +66206,7 @@
       "quickRatio": 1.547,
       "eps": 0.9,
       "forwardEps": null,
-      "bookValue": 9.803,
+      "bookValue": 10.185,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1346198400,
@@ -71501,7 +71501,7 @@
       "bookValue": 45.168,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1369958400,
+      "exDividendDate": 1782259200,
       "payoutRatio": 0.0,
       "targetHighPrice": 24.0,
       "targetLowPrice": 13.58,
@@ -91133,7 +91133,7 @@
       "country": "Turkey",
       "phone": "90 212 290 74 91",
       "description": "Verusaturk Girisim Sermayesi Yatirim Ortakligi A.S. is a private equity and venture capital firm specializing in bridge financing, recapitalizations, and growth capital investments. It prefers to invest in incubation, seed, startup ,early-mid-late venture, emerging growth, middle market, mature, turnaround, and later stage companies. The firm typically invests in following sectors: renewable energy, telecom, logistics, energy, technology and software, food, manufacturing, and mining. The firm prefers to invest in companies based in Turkey. The firm prefers to invest through its balance sheet investments. Verusaturk Girisim Sermayesi Yatirim Ortakligi A.S. was founded in January 09, 2012 and is based in Istanbul, Turkey. Verusaturk Girisim Sermayesi Yatirim Ortakligi A.S. operates as a subsidiary of Verusa Holding A.S.",
-      "pe": 7.529637,
+      "pe": 7.573077,
       "forwardPE": null,
       "priceToBook": 0.44557092,
       "pegRatio": null,
@@ -91152,7 +91152,7 @@
       "debtToEquity": 0.723,
       "currentRatio": 136.627,
       "quickRatio": 136.548,
-      "eps": 5.23,
+      "eps": 5.2,
       "forwardEps": null,
       "bookValue": 88.381,
       "dividendRate": 0.2,
