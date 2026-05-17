@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-17T21:32:01.556563",
+  "last_update": "2026-05-17T22:30:29.645579",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -1360,7 +1360,7 @@
       "description": "Pegasus Hava Tasimaciligi Anonim Sirketi, together with its subsidiaries, operates as an airline company. It offers services on short- and medium-haul and point-to-point routes on its domestic and international transit network. The company also provides cargo and training services, as well as operates scheduled flights on international and domestic routes. As of December 31, 2025, it operated 127 aircraft. The company was incorporated in 1990 and is headquartered in Istanbul, Turkey. Pegasus Hava Tasimaciligi Anonim Sirketi is a subsidiary of Esas Holding A.S.",
       "pe": 10.237681,
       "forwardPE": 4.871724,
-      "priceToBook": 0.76270276,
+      "priceToBook": 0.75564384,
       "pegRatio": null,
       "priceToSales": 0.5407203,
       "enterpriseToRevenue": null,
@@ -1379,7 +1379,7 @@
       "quickRatio": null,
       "eps": 17.25,
       "forwardEps": 36.25,
-      "bookValue": 231.545,
+      "bookValue": 233.708,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.167744,
-      "targetLowPrice": 35.14267,
-      "targetMeanPrice": 43.408024,
-      "targetMedianPrice": 45.157417,
+      "targetHighPrice": 52.092808,
+      "targetLowPrice": 35.092186,
+      "targetMeanPrice": 43.34567,
+      "targetMedianPrice": 45.09255,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.3,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 580.1123,
-      "targetLowPrice": 376.933,
-      "targetMeanPrice": 445.88773,
-      "targetMedianPrice": 436.23325,
+      "targetHighPrice": 580.45233,
+      "targetLowPrice": 377.15396,
+      "targetMeanPrice": 446.1491,
+      "targetMedianPrice": 436.48895,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -32154,7 +32154,7 @@
       "volume": "18,040,685",
       "averageVolume": 13739549,
       "averageVolume10days": 9778181,
-      "marketCap": 8384190976,
+      "marketCap": 7822206464,
       "enterpriseValue": 7507311104,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +32169,7 @@
       "forwardPE": null,
       "priceToBook": 8.792949,
       "pegRatio": null,
-      "priceToSales": 3.5128684,
+      "priceToSales": 3.277404,
       "enterpriseToRevenue": 3.145,
       "enterpriseToEbitda": 178.669,
       "profitMargins": -0.03031,
@@ -36296,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "ETILER GIDA",
+      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
       "shortName": "ETILER GIDA",
       "price": 6.21,
       "change": -0.16,
@@ -36312,9 +36312,9 @@
       "volume": "16,246,465",
       "averageVolume": 18147311,
       "averageVolume10days": 31446061,
-      "marketCap": 0,
+      "marketCap": 1490400000,
       "enterpriseValue": 1955108224,
-      "sharesOutstanding": 0,
+      "sharesOutstanding": 240000000,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -36327,7 +36327,7 @@
       "forwardPE": null,
       "priceToBook": 2.8843472,
       "pegRatio": null,
-      "priceToSales": null,
+      "priceToSales": 0.7015767,
       "enterpriseToRevenue": 0.92,
       "enterpriseToEbitda": 6.799,
       "profitMargins": 0.0053600003,
@@ -42978,7 +42978,7 @@
           "Volume": 294044
         },
         {
-          "Close": 305.8491516113281,
+          "Close": 305.84918212890625,
           "Volume": 279159
         },
         {
@@ -43026,15 +43026,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.09344482421875,
+          "Close": 307.0934753417969,
           "Volume": 728698
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 565903
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 363119
         },
         {
@@ -43054,7 +43054,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.65045166015625,
+          "Close": 294.6504821777344,
           "Volume": 791784
         },
         {
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 81.22066,
-      "targetLowPrice": 61.006546,
-      "targetMeanPrice": 67.80513,
-      "targetMedianPrice": 61.188652,
+      "targetHighPrice": 81.092255,
+      "targetLowPrice": 60.910103,
+      "targetMeanPrice": 67.697945,
+      "targetMedianPrice": 61.091923,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -66187,7 +66187,7 @@
       "description": "Marti Gayrimenkul Yatirim Ortakligi A.S. engages in the real estate activities in Turkey. The company primarily has investments in Çerkezköy housing project; a hotel in Sarigerme; and two hotels in Ayin Bay and Hisarönü Marina. Marti Gayrimenkul Yatirim Ortakligi A.S. was founded in 1967 and is headquartered in Istanbul, Turkey.",
       "pe": 1.8444445,
       "forwardPE": null,
-      "priceToBook": 0.16298477,
+      "priceToBook": 0.1693359,
       "pegRatio": null,
       "priceToSales": 19.007727,
       "enterpriseToRevenue": 13.516,
@@ -66206,7 +66206,7 @@
       "quickRatio": 1.547,
       "eps": 0.9,
       "forwardEps": null,
-      "bookValue": 10.185,
+      "bookValue": 9.803,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1346198400,
