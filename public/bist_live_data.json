@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-17T20:11:38.942964",
+  "last_update": "2026-05-17T21:32:01.556563",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 51.996197,
-      "targetLowPrice": 35.027107,
-      "targetMeanPrice": 43.26528,
-      "targetMedianPrice": 45.008923,
+      "targetHighPrice": 52.167744,
+      "targetLowPrice": 35.14267,
+      "targetMeanPrice": 43.408024,
+      "targetMedianPrice": 45.157417,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.3,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 578.993,
-      "targetLowPrice": 376.20572,
-      "targetMeanPrice": 445.02737,
-      "targetMedianPrice": 435.39154,
+      "targetHighPrice": 580.1123,
+      "targetLowPrice": 376.933,
+      "targetMeanPrice": 445.88773,
+      "targetMedianPrice": 436.23325,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -42913,10 +42913,10 @@
       "symbol": "GRSEL.IS",
       "name": "Gür-Sel Turizm Tasimacilik ve Servis Ticaret A.S.",
       "shortName": "GUR-SEL TURIZM TASIMACILIK",
-      "price": 314.5,
-      "change": -2.5,
+      "price": 313.76,
+      "change": -2.49,
       "changeRate": -0.79,
-      "previousClose": 317.0,
+      "previousClose": 316.26,
       "open": 315.25,
       "dayLow": 313.0,
       "dayHigh": 323.0,
@@ -42974,123 +42974,123 @@
       "beta": 0.09,
       "historicalData": [
         {
-          "Close": 309.5592346191406,
+          "Close": 308.8354797363281,
           "Volume": 294044
         },
         {
-          "Close": 306.56591796875,
+          "Close": 305.8491516113281,
           "Volume": 279159
         },
         {
-          "Close": 322.2808532714844,
+          "Close": 321.5273742675781,
           "Volume": 653849
         },
         {
-          "Close": 308.8109130859375,
+          "Close": 308.08892822265625,
           "Volume": 413434
         },
         {
-          "Close": 317.7908630371094,
+          "Close": 317.0478820800781,
           "Volume": 808407
         },
         {
-          "Close": 315.5458679199219,
+          "Close": 314.8081359863281,
           "Volume": 592115
         },
         {
-          "Close": 317.5414123535156,
+          "Close": 316.79901123046875,
           "Volume": 375835
         },
         {
-          "Close": 310.80645751953125,
+          "Close": 310.0798034667969,
           "Volume": 479567
         },
         {
-          "Close": 316.0447692871094,
+          "Close": 315.30584716796875,
           "Volume": 410859
         },
         {
-          "Close": 317.2919921875,
+          "Close": 316.5501708984375,
           "Volume": 641175
         },
         {
-          "Close": 317.2919921875,
+          "Close": 316.5501708984375,
           "Volume": 270571
         },
         {
-          "Close": 323.27862548828125,
+          "Close": 322.5227966308594,
           "Volume": 932656
         },
         {
-          "Close": 316.0447692871094,
+          "Close": 315.30584716796875,
           "Volume": 381060
         },
         {
-          "Close": 307.8131408691406,
+          "Close": 307.09344482421875,
           "Volume": 728698
         },
         {
-          "Close": 301.3276062011719,
+          "Close": 300.6230773925781,
           "Volume": 565903
         },
         {
-          "Close": 301.3276062011719,
+          "Close": 300.6230773925781,
           "Volume": 363119
         },
         {
-          "Close": 306.81536865234375,
+          "Close": 306.0980224609375,
           "Volume": 361129
         },
         {
-          "Close": 300.329833984375,
+          "Close": 299.6276550292969,
           "Volume": 361829
         },
         {
-          "Close": 294.8420715332031,
+          "Close": 294.1527404785156,
           "Volume": 352567
         },
         {
-          "Close": 298.33428955078125,
+          "Close": 297.63677978515625,
           "Volume": 1137888
         },
         {
-          "Close": 295.3409729003906,
+          "Close": 294.65045166015625,
           "Volume": 791784
         },
         {
-          "Close": 299.8309326171875,
+          "Close": 299.12994384765625,
           "Volume": 586343
         },
         {
-          "Close": 320.2853088378906,
+          "Close": 319.5364990234375,
           "Volume": 1380793
         },
         {
-          "Close": 326.2719421386719,
+          "Close": 325.5091247558594,
           "Volume": 696210
         },
         {
-          "Close": 329.51470947265625,
+          "Close": 328.7442932128906,
           "Volume": 673695
         },
         {
-          "Close": 337.75,
+          "Close": 336.9603576660156,
           "Volume": 734234
         },
         {
-          "Close": 318.75,
+          "Close": 318.0047607421875,
           "Volume": 1390761
         },
         {
-          "Close": 310.25,
+          "Close": 309.5246276855469,
           "Volume": 567951
         },
         {
-          "Close": 317.0,
+          "Close": 316.25885009765625,
           "Volume": 451311
         },
         {
-          "Close": 314.5,
+          "Close": 313.76470947265625,
           "Volume": 525626
         }
       ],
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 80.94347,
-      "targetLowPrice": 60.798347,
-      "targetMeanPrice": 67.57373,
-      "targetMedianPrice": 60.97983,
+      "targetHighPrice": 81.22066,
+      "targetLowPrice": 61.006546,
+      "targetMeanPrice": 67.80513,
+      "targetMedianPrice": 61.188652,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -70562,8 +70562,8 @@
       "targetLowPrice": 33.35,
       "targetMeanPrice": 36.16,
       "targetMedianPrice": 36.185,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 1.0,
+      "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 4,
       "beta": null,
       "historicalData": [
@@ -79768,10 +79768,10 @@
       "symbol": "SARKY.IS",
       "name": "Sarkuysan Elektrolitik Bakir Sanayi ve Ticaret A.S.",
       "shortName": "SARKUYSAN",
-      "price": 31.58,
-      "change": -2.64,
+      "price": 31.23,
+      "change": -2.61,
       "changeRate": -7.71,
-      "previousClose": 34.22,
+      "previousClose": 33.84,
       "open": 34.22,
       "dayLow": 31.44,
       "dayHigh": 36.98,
@@ -79829,123 +79829,123 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 27.219999313354492,
+          "Close": 26.91578483581543,
           "Volume": 8867102
         },
         {
-          "Close": 26.959999084472656,
+          "Close": 26.65869140625,
           "Volume": 4862502
         },
         {
-          "Close": 26.860000610351562,
+          "Close": 26.559810638427734,
           "Volume": 5738445
         },
         {
-          "Close": 26.0,
+          "Close": 25.709421157836914,
           "Volume": 5210999
         },
         {
-          "Close": 27.540000915527344,
+          "Close": 27.232210159301758,
           "Volume": 11289859
         },
         {
-          "Close": 28.0,
+          "Close": 27.687068939208984,
           "Volume": 16852657
         },
         {
-          "Close": 28.079999923706055,
+          "Close": 27.76617431640625,
           "Volume": 8291621
         },
         {
-          "Close": 27.959999084472656,
+          "Close": 27.64751434326172,
           "Volume": 11303150
         },
         {
-          "Close": 28.420000076293945,
+          "Close": 28.102375030517578,
           "Volume": 12517450
         },
         {
-          "Close": 29.31999969482422,
+          "Close": 28.9923152923584,
           "Volume": 11837563
         },
         {
-          "Close": 28.299999237060547,
+          "Close": 27.983715057373047,
           "Volume": 10530020
         },
         {
-          "Close": 30.31999969482422,
+          "Close": 29.98114013671875,
           "Volume": 16389597
         },
         {
-          "Close": 29.139999389648438,
+          "Close": 28.814327239990234,
           "Volume": 12030665
         },
         {
-          "Close": 28.219999313354492,
+          "Close": 27.90460968017578,
           "Volume": 11118294
         },
         {
-          "Close": 27.760000228881836,
+          "Close": 27.449750900268555,
           "Volume": 8264308
         },
         {
-          "Close": 27.15999984741211,
+          "Close": 26.856456756591797,
           "Volume": 7378108
         },
         {
-          "Close": 26.520000457763672,
+          "Close": 26.223609924316406,
           "Volume": 7871565
         },
         {
-          "Close": 26.139999389648438,
+          "Close": 25.847856521606445,
           "Volume": 6253532
         },
         {
-          "Close": 26.1200008392334,
+          "Close": 25.828081130981445,
           "Volume": 4735612
         },
         {
-          "Close": 26.459999084472656,
+          "Close": 26.16427993774414,
           "Volume": 6330463
         },
         {
-          "Close": 26.239999771118164,
+          "Close": 25.946739196777344,
           "Volume": 5900084
         },
         {
-          "Close": 26.579999923706055,
+          "Close": 26.28293800354004,
           "Volume": 5437007
         },
         {
-          "Close": 27.719999313354492,
+          "Close": 27.410198211669922,
           "Volume": 17113443
         },
         {
-          "Close": 28.1200008392334,
+          "Close": 27.805728912353516,
           "Volume": 6307424
         },
         {
-          "Close": 28.260000228881836,
+          "Close": 27.944164276123047,
           "Volume": 7244318
         },
         {
-          "Close": 29.239999771118164,
+          "Close": 28.913209915161133,
           "Volume": 14937486
         },
         {
-          "Close": 28.299999237060547,
+          "Close": 27.983715057373047,
           "Volume": 7709426
         },
         {
-          "Close": 31.1200008392334,
+          "Close": 30.772199630737305,
           "Volume": 16111941
         },
         {
-          "Close": 34.220001220703125,
+          "Close": 33.837554931640625,
           "Volume": 42320065
         },
         {
-          "Close": 31.579999923706055,
+          "Close": 31.22705841064453,
           "Volume": 69476143
         }
       ],
