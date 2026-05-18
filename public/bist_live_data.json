@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-18T16:33:00.926589",
+  "last_update": "2026-05-18T18:24:16.580267",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.224827,
-      "targetLowPrice": 35.18112,
-      "targetMeanPrice": 43.45552,
-      "targetMedianPrice": 45.20683,
+      "targetHighPrice": 52.22689,
+      "targetLowPrice": 35.18251,
+      "targetMeanPrice": 43.457237,
+      "targetMedianPrice": 45.208614,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.3,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 582.89325,
-      "targetLowPrice": 378.73996,
-      "targetMeanPrice": 448.0252,
-      "targetMedianPrice": 438.32443,
+      "targetHighPrice": 582.705,
+      "targetLowPrice": 378.61765,
+      "targetMeanPrice": 447.88052,
+      "targetMedianPrice": 438.1829,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -9487,7 +9487,7 @@
       "description": "Anadolu Isuzu Otomotiv Sanayi ve Ticaret A.S. manufactures, assembles, imports, and sells motor vehicles and spare parts in Turkey. The company offers trucks, vans, midibus, pickups, and bus vehicles. It also offers after sales services. The company also exports its products. Anadolu Isuzu Otomotiv Sanayi ve Ticaret A.S. was founded in 1965 and is headquartered in Istanbul, Turkey.",
       "pe": 17.688953,
       "forwardPE": null,
-      "priceToBook": 1.0566621,
+      "priceToBook": 0.96671695,
       "pegRatio": null,
       "priceToSales": 0.53953964,
       "enterpriseToRevenue": 0.955,
@@ -9506,7 +9506,7 @@
       "quickRatio": 0.612,
       "eps": 3.44,
       "forwardEps": null,
-      "bookValue": 57.587,
+      "bookValue": 62.945,
       "dividendRate": 2.38,
       "dividendYield": 3.78,
       "exDividendDate": 1778544000,
@@ -42974,7 +42974,7 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 305.8491516113281,
+          "Close": 305.84918212890625,
           "Volume": 279159
         },
         {
@@ -43022,15 +43022,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.09344482421875,
+          "Close": 307.0934753417969,
           "Volume": 728698
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 565903
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 363119
         },
         {
@@ -43050,7 +43050,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.65045166015625,
+          "Close": 294.6504821777344,
           "Volume": 791784
         },
         {
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 81.30616,
-      "targetLowPrice": 61.070766,
-      "targetMeanPrice": 67.87651,
-      "targetMedianPrice": 61.253067,
+      "targetHighPrice": 81.295685,
+      "targetLowPrice": 61.0629,
+      "targetMeanPrice": 67.86777,
+      "targetMedianPrice": 61.24518,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
