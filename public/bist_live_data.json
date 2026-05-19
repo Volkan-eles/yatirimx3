@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-19T12:49:03.683772",
+  "last_update": "2026-05-19T16:28:56.179492",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2115,7 +2115,7 @@
       "phone": "90 370 418 20 01",
       "description": "Kardemir Karabük Demir Çelik Sanayi Ve Ticaret A.S. manufactures and sells iron and steel, coke, and coke-by products in Turkey. The company also engages in steel structure manufacturing and assembly; casting and machining; energy business; and intra-city and intercity freight transportation activities. Kardemir Karabük Demir Çelik Sanayi Ve Ticaret A.S. was incorporated in 1995 and is headquartered in Karabük, Turkey.",
       "pe": null,
-      "forwardPE": 632.25806,
+      "forwardPE": 442.93787,
       "priceToBook": 0.52789634,
       "pegRatio": null,
       "priceToSales": 0.7056054,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.21749,
-      "targetLowPrice": 35.176178,
-      "targetMeanPrice": 43.449417,
-      "targetMedianPrice": 45.200478,
+      "targetHighPrice": 52.225056,
+      "targetLowPrice": 35.18128,
+      "targetMeanPrice": 44.43869,
+      "targetMedianPrice": 46.118458,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.3,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 581.7646,
-      "targetLowPrice": 378.0066,
-      "targetMeanPrice": 447.1577,
-      "targetMedianPrice": 437.4757,
+      "targetHighPrice": 580.96405,
+      "targetLowPrice": 377.48645,
+      "targetMeanPrice": 446.54242,
+      "targetMedianPrice": 436.87375,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -6085,7 +6085,7 @@
       "description": "Hektas Ticaret T.A.S. manufactures, imports, and markets agricultural products, fertilizers and veterinary medicines in Turkey. The company's crop protection products include fungicides, herbicides, insecticides, acaricides, fumigants and nemathists, harvesting aids and plant growth regulators, winter struggle medicines and summer oils, spreads-adhesives, biological products, and feromons. It also offers smart base, leaf, pure, and fertilizers; organominerals; drip irrigation; biological preparation; and other plant nutrition products. In addition, the company provides ruminant, poultry, and pet products, as well as environmental health and seeds products. Hektas Ticaret T.A.S. was incorporated in 1956 and is headquartered in Gebze, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 2.5,
+      "priceToBook": 230.0,
       "pegRatio": 0.85,
       "priceToSales": 6.214592,
       "enterpriseToRevenue": 623.168,
@@ -6104,7 +6104,7 @@
       "quickRatio": 0.349,
       "eps": -0.42,
       "forwardEps": null,
-      "bookValue": 1.656,
+      "bookValue": 0.018,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1575244800,
@@ -28387,7 +28387,7 @@
       "description": "Desa Deri Sanayi ve Ticaret A.S. manufactures, sells, exports, and imports leather garments in Turkey. The company offers leather jackets, clothing, shoes, bags and accessories, backpacks, saddlery products, and other leather accessories for men and women. The company markets and sells its products through wholesale and retail sales channels, as well as through online stores. It also exports its products. The company was founded in 1972 and is headquartered in Istanbul, Turkey. Desa Deri Sanayi ve Ticaret A.S. is a subsidiary of Çelet Holding A.S.",
       "pe": 10.61017,
       "forwardPE": null,
-      "priceToBook": 1.6000001,
+      "priceToBook": 1.4129331,
       "pegRatio": null,
       "priceToSales": 1.6251042,
       "enterpriseToRevenue": 1.23,
@@ -28406,7 +28406,7 @@
       "quickRatio": 1.771,
       "eps": 1.18,
       "forwardEps": null,
-      "bookValue": 7.825,
+      "bookValue": 8.861,
       "dividendRate": 0.36,
       "dividendYield": 2.88,
       "exDividendDate": 1790726400,
@@ -42974,7 +42974,7 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 305.84918212890625,
+          "Close": 305.8491516113281,
           "Volume": 279159
         },
         {
@@ -43022,15 +43022,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.0934753417969,
+          "Close": 307.09344482421875,
           "Volume": 728698
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 565903
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 363119
         },
         {
@@ -43050,7 +43050,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.6504821777344,
+          "Close": 294.65045166015625,
           "Volume": 791784
         },
         {
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 81.28814,
-      "targetLowPrice": 61.05724,
-      "targetMeanPrice": 67.86147,
-      "targetMedianPrice": 61.239494,
+      "targetHighPrice": 81.29992,
+      "targetLowPrice": 61.066082,
+      "targetMeanPrice": 67.87131,
+      "targetMedianPrice": 61.248363,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -45603,7 +45603,7 @@
       "debtToEquity": 40.158,
       "currentRatio": 0.266,
       "quickRatio": 0.186,
-      "eps": -0.23,
+      "eps": -0.24,
       "forwardEps": null,
       "bookValue": 5.059,
       "dividendRate": null,
@@ -71855,7 +71855,7 @@
       "country": "Turkey",
       "phone": "90 232 503 57 77",
       "description": "Özsu Balik Üretim Anonim Sirketi operates as a seafood company in Turkey, the Netherlands, and Britain. The company offers sea bream and sea bass fish products. It also engages in the production, storage, purchase, sale, export, middleman, and brokerage of marine and aquatic products. Özsu Balik Üretim Anonim Sirketi was incorporated in 1995 and is headquartered in Izmir, Turkey.",
-      "pe": 9.802721,
+      "pe": 8.6546545,
       "forwardPE": null,
       "priceToBook": 3.3581917,
       "pegRatio": null,
@@ -71874,7 +71874,7 @@
       "debtToEquity": null,
       "currentRatio": 1.046,
       "quickRatio": null,
-      "eps": 2.94,
+      "eps": 3.33,
       "forwardEps": null,
       "bookValue": 8.582,
       "dividendRate": 0.62,
