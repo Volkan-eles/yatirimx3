@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-18T23:10:42.447191",
+  "last_update": "2026-05-19T01:34:18.587559",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.226086,
-      "targetLowPrice": 35.18197,
-      "targetMeanPrice": 43.456566,
-      "targetMedianPrice": 45.207916,
+      "targetHighPrice": 52.229984,
+      "targetLowPrice": 35.184597,
+      "targetMeanPrice": 43.459812,
+      "targetMedianPrice": 45.211292,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.3,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 583.75214,
-      "targetLowPrice": 379.29803,
-      "targetMeanPrice": 448.6854,
-      "targetMedianPrice": 438.9703,
+      "targetHighPrice": 582.76044,
+      "targetLowPrice": 378.65366,
+      "targetMeanPrice": 447.92316,
+      "targetMedianPrice": 438.22458,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -40092,9 +40092,9 @@
       "volume": "45,516,313",
       "averageVolume": 66811266,
       "averageVolume10days": 157388666,
-      "marketCap": 39599996928,
+      "marketCap": 39514398720,
       "enterpriseValue": 73411715072,
-      "sharesOutstanding": 4500000000,
+      "sharesOutstanding": 4490272095,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
       "website": "https://www.genilac.com.tr",
@@ -40107,7 +40107,7 @@
       "forwardPE": null,
       "priceToBook": 6.7692313,
       "pegRatio": null,
-      "priceToSales": 1.9078243,
+      "priceToSales": 1.9037004,
       "enterpriseToRevenue": 3.537,
       "enterpriseToEbitda": 21.866,
       "profitMargins": 0.03715,
@@ -42974,7 +42974,7 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 305.8491516113281,
+          "Close": 305.84918212890625,
           "Volume": 279159
         },
         {
@@ -43022,15 +43022,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.09344482421875,
+          "Close": 307.0934753417969,
           "Volume": 728698
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 565903
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 363119
         },
         {
@@ -43050,7 +43050,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.65045166015625,
+          "Close": 294.6504821777344,
           "Volume": 791784
         },
         {
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 81.299736,
-      "targetLowPrice": 61.06595,
-      "targetMeanPrice": 67.871155,
-      "targetMedianPrice": 61.248234,
+      "targetHighPrice": 81.307236,
+      "targetLowPrice": 61.071575,
+      "targetMeanPrice": 67.87741,
+      "targetMedianPrice": 61.253876,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -72789,9 +72789,9 @@
       "volume": "19,368,490",
       "averageVolume": 26233837,
       "averageVolume10days": 49296263,
-      "marketCap": 15118530560,
+      "marketCap": 15118531584,
       "enterpriseValue": 11740977152,
-      "sharesOutstanding": 674934432,
+      "sharesOutstanding": 674934433,
       "sector": "Technology",
       "industry": "Information Technology Services",
       "website": "https://pasifikteknoloji.com",
