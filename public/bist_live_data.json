@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-19T23:11:55.790625",
+  "last_update": "2026-05-20T01:35:27.176148",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.225857,
-      "targetLowPrice": 35.181816,
-      "targetMeanPrice": 44.439373,
-      "targetMedianPrice": 46.119167,
+      "targetHighPrice": 52.232162,
+      "targetLowPrice": 35.18606,
+      "targetMeanPrice": 44.444736,
+      "targetMedianPrice": 46.124733,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.3,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 581.30945,
-      "targetLowPrice": 377.71088,
-      "targetMeanPrice": 446.8079,
-      "targetMedianPrice": 437.13348,
+      "targetHighPrice": 580.762,
+      "targetLowPrice": 377.3552,
+      "targetMeanPrice": 446.38712,
+      "targetMedianPrice": 436.72183,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -19504,7 +19504,7 @@
       "description": "Bati Ege Gayrimenkul Yatirim Ortakligi A.S., an investment company, invests in the real estate sector in Denizli and the rest of Aegean Region. The company was founded in 2011 and is based in Denizli, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.67366445,
+      "priceToBook": 0.63703704,
       "pegRatio": null,
       "priceToSales": 21.73355,
       "enterpriseToRevenue": 21.633,
@@ -19523,7 +19523,7 @@
       "quickRatio": 1.61,
       "eps": -0.4,
       "forwardEps": null,
-      "bookValue": 6.383,
+      "bookValue": 6.75,
       "dividendRate": 0.09,
       "dividendYield": 2.0,
       "exDividendDate": 1776211200,
@@ -42974,7 +42974,7 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 305.84918212890625,
+          "Close": 305.8491516113281,
           "Volume": 279159
         },
         {
@@ -43022,15 +43022,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.0934753417969,
+          "Close": 307.09344482421875,
           "Volume": 728698
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 565903
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 363119
         },
         {
@@ -43050,7 +43050,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.6504821777344,
+          "Close": 294.65045166015625,
           "Volume": 791784
         },
         {
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 81.29564,
-      "targetLowPrice": 61.062866,
-      "targetMeanPrice": 67.86773,
-      "targetMedianPrice": 61.24514,
+      "targetHighPrice": 81.324356,
+      "targetLowPrice": 61.08444,
+      "targetMeanPrice": 67.89171,
+      "targetMedianPrice": 61.266777,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -91344,8 +91344,8 @@
       "eps": -6.41,
       "forwardEps": null,
       "bookValue": 66.881,
-      "dividendRate": 0.25,
-      "dividendYield": 0.13,
+      "dividendRate": null,
+      "dividendYield": null,
       "exDividendDate": 1732060800,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
