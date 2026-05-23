@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-23T18:36:30.677859",
+  "last_update": "2026-05-23T20:10:36.813213",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -821,8 +821,8 @@
       "targetLowPrice": 32.6,
       "targetMeanPrice": 40.606,
       "targetMedianPrice": 40.95,
-      "recommendationMean": 1.7,
-      "recommendationKey": "buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 10,
       "beta": null,
       "historicalData": [
@@ -43010,15 +43010,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.0934753417969,
+          "Close": 307.09344482421875,
           "Volume": 728698
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 565903
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 363119
         },
         {
@@ -43038,7 +43038,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.6504821777344,
+          "Close": 294.65045166015625,
           "Volume": 791784
         },
         {
