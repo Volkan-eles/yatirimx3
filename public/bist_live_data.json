@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-23T07:56:58.303650",
+  "last_update": "2026-05-23T10:01:03.885955",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -570,7 +570,7 @@
         }
       ],
       "heldPercentInsiders": 0.61166,
-      "heldPercentInstitutions": 0.14333001
+      "heldPercentInstitutions": 0.14596
     },
     {
       "code": "ISCTR",
@@ -759,7 +759,7 @@
         }
       ],
       "heldPercentInsiders": 0.66977996,
-      "heldPercentInstitutions": 0.05835
+      "heldPercentInstitutions": 0.06342
     },
     {
       "code": "VAKBN",
@@ -961,7 +961,7 @@
       "previousClose": 35.02,
       "open": 34.94,
       "dayLow": 34.94,
-      "dayHigh": 38.34,
+      "dayHigh": 38.52,
       "fiftyTwoWeekLow": 19.13,
       "fiftyTwoWeekHigh": 52.5,
       "fiftyDayAverage": 39.2,
@@ -1137,7 +1137,7 @@
         }
       ],
       "heldPercentInsiders": 0.91493,
-      "heldPercentInstitutions": 0.0029499999
+      "heldPercentInstitutions": 0.0043
     },
     {
       "code": "THYAO",
@@ -1326,7 +1326,7 @@
         }
       ],
       "heldPercentInsiders": 0.49122003,
-      "heldPercentInstitutions": 0.07936
+      "heldPercentInstitutions": 0.08545999
     },
     {
       "code": "PGSUS",
@@ -1360,7 +1360,7 @@
       "description": "Pegasus Hava Tasimaciligi Anonim Sirketi, together with its subsidiaries, operates as an airline company. It offers services on short- and medium-haul and point-to-point routes on its domestic and international transit network. The company also provides cargo and training services, as well as operates scheduled flights on international and domestic routes. As of December 31, 2025, it operated 127 aircraft. The company was incorporated in 1990 and is headquartered in Istanbul, Turkey. Pegasus Hava Tasimaciligi Anonim Sirketi is a subsidiary of Esas Holding A.S.",
       "pe": 9.744928,
       "forwardPE": 4.6372414,
-      "priceToBook": 0.7259928,
+      "priceToBook": 0.7192737,
       "pegRatio": null,
       "priceToSales": 0.5146947,
       "enterpriseToRevenue": null,
@@ -1379,7 +1379,7 @@
       "quickRatio": null,
       "eps": 17.25,
       "forwardEps": 36.25,
-      "bookValue": 231.545,
+      "bookValue": 233.708,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -1515,7 +1515,7 @@
         }
       ],
       "heldPercentInsiders": 0.52811,
-      "heldPercentInstitutions": 0.05357
+      "heldPercentInstitutions": 0.06066
     },
     {
       "code": "TUPRS",
@@ -1527,7 +1527,7 @@
       "changeRate": 0.58,
       "previousClose": 241.7,
       "open": 240.0,
-      "dayLow": 239.1,
+      "dayLow": 239.0,
       "dayHigh": 246.0,
       "fiftyTwoWeekLow": 123.0,
       "fiftyTwoWeekHigh": 279.5,
@@ -1704,7 +1704,7 @@
         }
       ],
       "heldPercentInsiders": 0.50668997,
-      "heldPercentInstitutions": 0.10684
+      "heldPercentInstitutions": 0.11409
     },
     {
       "code": "PETKM",
@@ -2271,7 +2271,7 @@
         }
       ],
       "heldPercentInsiders": 0.0,
-      "heldPercentInstitutions": 0.09788
+      "heldPercentInstitutions": 0.11445
     },
     {
       "code": "ASELS",
@@ -2838,7 +2838,7 @@
         }
       ],
       "heldPercentInsiders": 0.49181998,
-      "heldPercentInstitutions": 0.089420006
+      "heldPercentInstitutions": 0.096949995
     },
     {
       "code": "SOKM",
@@ -3027,7 +3027,7 @@
         }
       ],
       "heldPercentInsiders": 0.24271,
-      "heldPercentInstitutions": 0.41167998
+      "heldPercentInstitutions": 0.41928002
     },
     {
       "code": "TTKOM",
@@ -3783,7 +3783,7 @@
         }
       ],
       "heldPercentInsiders": 0.6614,
-      "heldPercentInstitutions": 0.02335
+      "heldPercentInstitutions": 0.02846
     },
     {
       "code": "VESTL",
@@ -4539,7 +4539,7 @@
         }
       ],
       "heldPercentInsiders": 0.64142996,
-      "heldPercentInstitutions": 0.047319997
+      "heldPercentInstitutions": 0.051960003
     },
     {
       "code": "FROTO",
@@ -4728,7 +4728,7 @@
         }
       ],
       "heldPercentInsiders": 0.79687,
-      "heldPercentInstitutions": 0.053179998
+      "heldPercentInstitutions": 0.0563
     },
     {
       "code": "TOASO",
@@ -5497,7 +5497,7 @@
       "previousClose": 107.4,
       "open": 106.4,
       "dayLow": 106.0,
-      "dayHigh": 117.7,
+      "dayHigh": 117.8,
       "fiftyTwoWeekLow": 51.25,
       "fiftyTwoWeekHigh": 127.9,
       "fiftyDayAverage": 119.02,
@@ -6051,7 +6051,7 @@
         }
       ],
       "heldPercentInsiders": 0.78729,
-      "heldPercentInstitutions": 0.01422
+      "heldPercentInstitutions": 0.01754
     },
     {
       "code": "HEKTS",
@@ -6109,12 +6109,12 @@
       "dividendYield": null,
       "exDividendDate": 1575244800,
       "payoutRatio": 0.0,
-      "targetHighPrice": 3.6,
-      "targetLowPrice": 3.6,
-      "targetMeanPrice": 3.6,
-      "targetMedianPrice": 3.6,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "targetHighPrice": 4.3,
+      "targetLowPrice": 4.3,
+      "targetMeanPrice": 4.3,
+      "targetMedianPrice": 4.3,
+      "recommendationMean": 3.0,
+      "recommendationKey": "hold",
       "numberOfAnalystOpinions": 1,
       "beta": null,
       "historicalData": [
@@ -6240,7 +6240,7 @@
         }
       ],
       "heldPercentInsiders": 0.55367,
-      "heldPercentInstitutions": 0.03079
+      "heldPercentInstitutions": 0.03726
     },
     {
       "code": "CLEBI",
@@ -7374,7 +7374,7 @@
         }
       ],
       "heldPercentInsiders": 0.75,
-      "heldPercentInstitutions": 0.04779
+      "heldPercentInstitutions": 0.05154
     },
     {
       "code": "OTKAR",
@@ -7563,7 +7563,7 @@
         }
       ],
       "heldPercentInsiders": 0.72186995,
-      "heldPercentInstitutions": 0.03549
+      "heldPercentInstitutions": 0.03985
     },
     {
       "code": "ALARK",
@@ -7752,7 +7752,7 @@
         }
       ],
       "heldPercentInsiders": 0.65052,
-      "heldPercentInstitutions": 0.029460002
+      "heldPercentInstitutions": 0.035099998
     },
     {
       "code": "MAVI",
@@ -8130,7 +8130,7 @@
         }
       ],
       "heldPercentInsiders": 0.58515,
-      "heldPercentInstitutions": 0.01081
+      "heldPercentInstitutions": 0.01713
     },
     {
       "code": "ODAS",
@@ -8710,7 +8710,7 @@
       "previousClose": 10.2,
       "open": 9.99,
       "dayLow": 9.99,
-      "dayHigh": 10.62,
+      "dayHigh": 10.63,
       "fiftyTwoWeekLow": 8.57,
       "fiftyTwoWeekHigh": 12.65,
       "fiftyDayAverage": 10.72,
@@ -9075,7 +9075,7 @@
         }
       ],
       "heldPercentInsiders": 0.80129,
-      "heldPercentInstitutions": 0.010779999
+      "heldPercentInstitutions": 0.01388
     },
     {
       "code": "ALBRK",
@@ -9831,7 +9831,7 @@
         }
       ],
       "heldPercentInsiders": 0.81557,
-      "heldPercentInstitutions": 0.00778
+      "heldPercentInstitutions": 0.01058
     },
     {
       "code": "BAGFS",
@@ -10033,7 +10033,7 @@
       "previousClose": 15.6,
       "open": 15.6,
       "dayLow": 15.44,
-      "dayHigh": 16.86,
+      "dayHigh": 16.98,
       "fiftyTwoWeekLow": 14.67,
       "fiftyTwoWeekHigh": 27.96,
       "fiftyDayAverage": 18.23,
@@ -10460,8 +10460,8 @@
       "targetLowPrice": 100.0,
       "targetMeanPrice": 104.96667,
       "targetMedianPrice": 105.0,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 2.33333,
+      "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
       "beta": null,
       "historicalData": [
@@ -10619,7 +10619,7 @@
       "country": "Turkey",
       "phone": "90 212 393 52 00",
       "description": "Borusan Yatirim ve Pazarlama A.S., together with its subsidiaries, engage in the commercial and service sectors in Turkey. The company is also involved in the production of pipe and cold rolled steel coil, as well as engine valves for various types of internal combustion engines; and operates in the construction, resource, energy and transportation industries, as well as automobile and motorcycle segments. In addition, it provides solutions for investment, financing, organization, and management. Borusan Yatirim ve Pazarlama A.S. was incorporated in 1977 and is headquartered in Istanbul, Turkey.",
-      "pe": 11.768273,
+      "pe": 11.764707,
       "forwardPE": null,
       "priceToBook": 1.5578651,
       "pegRatio": null,
@@ -10638,7 +10638,7 @@
       "debtToEquity": null,
       "currentRatio": 72.133,
       "quickRatio": 71.137,
-      "eps": 164.85,
+      "eps": 164.9,
       "forwardEps": null,
       "bookValue": 1245.294,
       "dividendRate": 166.15,
@@ -10776,7 +10776,7 @@
         }
       ],
       "heldPercentInsiders": 0.74856,
-      "heldPercentInstitutions": 0.00699
+      "heldPercentInstitutions": 0.01049
     },
     {
       "code": "BUCIM",
@@ -11356,7 +11356,7 @@
       "previousClose": 31.74,
       "open": 31.54,
       "dayLow": 30.4,
-      "dayHigh": 33.28,
+      "dayHigh": 33.3,
       "fiftyTwoWeekLow": 26.64,
       "fiftyTwoWeekHigh": 61.15,
       "fiftyDayAverage": 40.27,
@@ -13057,7 +13057,7 @@
       "previousClose": 2.49,
       "open": 2.41,
       "dayLow": 2.37,
-      "dayHigh": 2.66,
+      "dayHigh": 2.73,
       "fiftyTwoWeekLow": 2.37,
       "fiftyTwoWeekHigh": 4.07,
       "fiftyDayAverage": 2.67,
@@ -14556,7 +14556,7 @@
         }
       ],
       "heldPercentInsiders": 0.64313006,
-      "heldPercentInstitutions": 0.03874
+      "heldPercentInstitutions": 0.04413
     },
     {
       "code": "ARASE",
@@ -14569,7 +14569,7 @@
       "previousClose": 106.6,
       "open": 106.4,
       "dayLow": 101.6,
-      "dayHigh": 110.5,
+      "dayHigh": 111.0,
       "fiftyTwoWeekLow": 45.96,
       "fiftyTwoWeekHigh": 119.5,
       "fiftyDayAverage": 101.11,
@@ -17215,7 +17215,7 @@
       "previousClose": 4.27,
       "open": 4.27,
       "dayLow": 4.27,
-      "dayHigh": 4.47,
+      "dayHigh": 4.48,
       "fiftyTwoWeekLow": 2.48,
       "fiftyTwoWeekHigh": 6.22,
       "fiftyDayAverage": 4.56,
@@ -18727,7 +18727,7 @@
       "previousClose": 55.7,
       "open": 57.85,
       "dayLow": 52.25,
-      "dayHigh": 60.5,
+      "dayHigh": 61.25,
       "fiftyTwoWeekLow": 16.3,
       "fiftyTwoWeekHigh": 61.7,
       "fiftyDayAverage": 54.04,
@@ -19848,7 +19848,7 @@
         }
       ],
       "heldPercentInsiders": 0.083579995,
-      "heldPercentInstitutions": 0.05021
+      "heldPercentInstitutions": 0.06358
     },
     {
       "code": "BEYAZ",
@@ -21392,7 +21392,7 @@
       "country": "Turkey",
       "phone": "90 266 733 87 87",
       "description": "Bantas Bandirma Ambalaj Sanayi ve Ticaret A.S. engages in tin packaging production activities in Turkey. The company offers cheese cans; oil cans for olive and vegetable oil companies; olive and pickle tin boxes; and thinner, antifreeze, and motor oil cans. It also serves the mineral oil and paint industries. The company exports its products to various countries. The company was incorporated in 1986 and is headquartered in Balikesir, Turkey.",
-      "pe": 23.785713,
+      "pe": 22.199999,
       "forwardPE": null,
       "priceToBook": 1.0606785,
       "pegRatio": null,
@@ -21411,7 +21411,7 @@
       "debtToEquity": 2.886,
       "currentRatio": 6.042,
       "quickRatio": 5.064,
-      "eps": 0.28,
+      "eps": 0.3,
       "forwardEps": null,
       "bookValue": 6.279,
       "dividendRate": null,
@@ -24586,7 +24586,7 @@
       "previousClose": 36.0,
       "open": 35.68,
       "dayLow": 35.68,
-      "dayHigh": 37.94,
+      "dayHigh": 37.98,
       "fiftyTwoWeekLow": 27.2,
       "fiftyTwoWeekHigh": 52.5,
       "fiftyDayAverage": 43.72,
@@ -26476,7 +26476,7 @@
       "previousClose": 123.3,
       "open": 122.7,
       "dayLow": 121.9,
-      "dayHigh": 127.7,
+      "dayHigh": 128.1,
       "fiftyTwoWeekLow": 71.45,
       "fiftyTwoWeekHigh": 200.8,
       "fiftyDayAverage": 139.76,
@@ -27030,7 +27030,7 @@
         }
       ],
       "heldPercentInsiders": 0.70001,
-      "heldPercentInstitutions": 0.0074199997
+      "heldPercentInstitutions": 0.01209
     },
     {
       "code": "CWENE",
@@ -27988,7 +27988,7 @@
       "previousClose": 13.59,
       "open": 13.5,
       "dayLow": 13.5,
-      "dayHigh": 14.25,
+      "dayHigh": 14.26,
       "fiftyTwoWeekLow": 12.72,
       "fiftyTwoWeekHigh": 93.5,
       "fiftyDayAverage": 14.79,
@@ -28933,7 +28933,7 @@
       "previousClose": 95.0,
       "open": 93.0,
       "dayLow": 93.0,
-      "dayHigh": 104.4,
+      "dayHigh": 104.5,
       "fiftyTwoWeekLow": 58.3,
       "fiftyTwoWeekHigh": 118.5,
       "fiftyDayAverage": 84.83,
@@ -30621,7 +30621,7 @@
         }
       ],
       "heldPercentInsiders": 0.30118,
-      "heldPercentInstitutions": 0.37444
+      "heldPercentInstitutions": 0.39181998
     },
     {
       "code": "DOFER",
@@ -31201,7 +31201,7 @@
       "previousClose": 4.47,
       "open": 4.47,
       "dayLow": 4.41,
-      "dayHigh": 4.9,
+      "dayHigh": 4.91,
       "fiftyTwoWeekLow": 2.86,
       "fiftyTwoWeekHigh": 5.22,
       "fiftyDayAverage": 4.25,
@@ -32133,7 +32133,7 @@
         }
       ],
       "heldPercentInsiders": 0.81574994,
-      "heldPercentInstitutions": 0.0054400004
+      "heldPercentInstitutions": 0.00816
     },
     {
       "code": "EDATA",
@@ -32154,7 +32154,7 @@
       "volume": "13,998,248",
       "averageVolume": 13135741,
       "averageVolume10days": 10639573,
-      "marketCap": 7328083968,
+      "marketCap": 6836889600,
       "enterpriseValue": 6521994240,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +32169,7 @@
       "forwardPE": null,
       "priceToBook": 7.685353,
       "pegRatio": null,
-      "priceToSales": 3.070373,
+      "priceToSales": 2.864569,
       "enterpriseToRevenue": 2.733,
       "enterpriseToEbitda": 155.219,
       "profitMargins": -0.03031,
@@ -34981,7 +34981,7 @@
       "previousClose": 5.54,
       "open": 5.23,
       "dayLow": 5.23,
-      "dayHigh": 5.68,
+      "dayHigh": 5.75,
       "fiftyTwoWeekLow": 4.63,
       "fiftyTwoWeekHigh": 7.78,
       "fiftyDayAverage": 6.07,
@@ -35208,7 +35208,7 @@
       "debtToEquity": 16.795,
       "currentRatio": 3.122,
       "quickRatio": 1.622,
-      "eps": -15.53,
+      "eps": -15.55,
       "forwardEps": null,
       "bookValue": 175.595,
       "dividendRate": 2.7,
@@ -36296,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "ETILER GIDA",
+      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
       "shortName": "ETILER GIDA",
       "price": 5.07,
       "change": 0.13,
@@ -36304,7 +36304,7 @@
       "previousClose": 4.94,
       "open": 4.8,
       "dayLow": 4.8,
-      "dayHigh": 5.22,
+      "dayHigh": 5.26,
       "fiftyTwoWeekLow": 3.37,
       "fiftyTwoWeekHigh": 11.01,
       "fiftyDayAverage": 4.68,
@@ -36312,9 +36312,9 @@
       "volume": "11,739,748",
       "averageVolume": 18886815,
       "averageVolume10days": 22073389,
-      "marketCap": 0,
+      "marketCap": 1216800000,
       "enterpriseValue": 1662477184,
-      "sharesOutstanding": 0,
+      "sharesOutstanding": 240000000,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -36327,7 +36327,7 @@
       "forwardPE": null,
       "priceToBook": 2.3548536,
       "pegRatio": null,
-      "priceToSales": null,
+      "priceToSales": 0.6601524,
       "enterpriseToRevenue": 0.902,
       "enterpriseToEbitda": 6.237,
       "profitMargins": -0.00974,
@@ -37069,7 +37069,7 @@
       "averageVolume": 18255774,
       "averageVolume10days": 25814574,
       "marketCap": 50754002944,
-      "enterpriseValue": 53978689536,
+      "enterpriseValue": 54221344768,
       "sharesOutstanding": 555000000,
       "sector": "Industrials",
       "industry": "Electrical Equipment & Parts",
@@ -37083,21 +37083,21 @@
       "forwardPE": null,
       "priceToBook": 4.8137717,
       "pegRatio": null,
-      "priceToSales": 3.9042504,
-      "enterpriseToRevenue": 4.152,
-      "enterpriseToEbitda": 22.239,
-      "profitMargins": 0.04618,
-      "grossMargins": 0.22820999,
-      "operatingMargins": 0.1322,
-      "returnOnAssets": 0.07478,
-      "returnOnEquity": 0.073070005,
-      "totalRevenue": 12999678976,
+      "priceToSales": 3.3859203,
+      "enterpriseToRevenue": 3.617,
+      "enterpriseToEbitda": 16.111,
+      "profitMargins": 0.05284,
+      "grossMargins": 0.28729,
+      "operatingMargins": 0.2874,
+      "returnOnAssets": 0.10326,
+      "returnOnEquity": 0.08442,
+      "totalRevenue": 14989721600,
       "revenuePerShare": 19.696,
-      "totalCash": 533974016,
-      "totalDebt": 2855897088,
-      "debtToEquity": 24.95,
-      "currentRatio": 2.613,
-      "quickRatio": 1.428,
+      "totalCash": 445968992,
+      "totalDebt": 2952550912,
+      "debtToEquity": 22.484,
+      "currentRatio": 2.409,
+      "quickRatio": 1.04,
       "eps": 0.91,
       "forwardEps": null,
       "bookValue": 15.975,
@@ -37112,7 +37112,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.473,
+      "beta": null,
       "historicalData": [
         {
           "Close": 42.720001220703125,
@@ -37816,7 +37816,7 @@
       "previousClose": 15.69,
       "open": 15.5,
       "dayLow": 15.48,
-      "dayHigh": 16.93,
+      "dayHigh": 16.96,
       "fiftyTwoWeekLow": 11.58,
       "fiftyTwoWeekHigh": 18.6,
       "fiftyDayAverage": 15.04,
@@ -38181,7 +38181,7 @@
         }
       ],
       "heldPercentInsiders": 0.62268,
-      "heldPercentInstitutions": 0.00753
+      "heldPercentInstitutions": 0.013830001
     },
     {
       "code": "FLAP",
@@ -38770,7 +38770,7 @@
       "averageVolume": 56385998,
       "averageVolume10days": 56645076,
       "marketCap": 2520717056,
-      "enterpriseValue": 2479083520,
+      "enterpriseValue": 2302384384,
       "sharesOutstanding": 1140595990,
       "sector": "Industrials",
       "industry": "Building Products & Equipment",
@@ -38784,21 +38784,21 @@
       "forwardPE": null,
       "priceToBook": 1.126976,
       "pegRatio": null,
-      "priceToSales": 2.7297544,
-      "enterpriseToRevenue": 2.685,
-      "enterpriseToEbitda": -21.113,
-      "profitMargins": -0.11699,
-      "grossMargins": 0.0529,
-      "operatingMargins": -0.01459,
-      "returnOnAssets": -0.04019,
-      "returnOnEquity": -0.05987,
-      "totalRevenue": 923422656,
-      "revenuePerShare": 0.858,
-      "totalCash": 129031104,
-      "totalDebt": 229575824,
-      "debtToEquity": 10.877,
-      "currentRatio": 1.799,
-      "quickRatio": 1.091,
+      "priceToSales": 2.725803,
+      "enterpriseToRevenue": 2.49,
+      "enterpriseToEbitda": -20.073,
+      "profitMargins": -0.33416998,
+      "grossMargins": 0.07327,
+      "operatingMargins": -0.25866,
+      "returnOnAssets": -0.04,
+      "returnOnEquity": -0.17249,
+      "totalRevenue": 924761280,
+      "revenuePerShare": 0.859,
+      "totalCash": 76154472,
+      "totalDebt": 0,
+      "debtToEquity": null,
+      "currentRatio": 1.676,
+      "quickRatio": 0.134,
       "eps": -0.43,
       "forwardEps": null,
       "bookValue": 1.961,
@@ -40084,7 +40084,7 @@
       "previousClose": 8.01,
       "open": 7.69,
       "dayLow": 7.62,
-      "dayHigh": 8.48,
+      "dayHigh": 8.5,
       "fiftyTwoWeekLow": 7.12,
       "fiftyTwoWeekHigh": 14.93,
       "fiftyDayAverage": 9.63,
@@ -40273,7 +40273,7 @@
       "previousClose": 6.94,
       "open": 6.81,
       "dayLow": 6.75,
-      "dayHigh": 7.21,
+      "dayHigh": 7.22,
       "fiftyTwoWeekLow": 6.75,
       "fiftyTwoWeekHigh": 13.62,
       "fiftyDayAverage": 8.06,
@@ -40660,7 +40660,7 @@
       "averageVolume": 9989385,
       "averageVolume10days": 21512426,
       "marketCap": 30796998656,
-      "enterpriseValue": 39260422144,
+      "enterpriseValue": 41089634304,
       "sharesOutstanding": 460000000,
       "sector": "Industrials",
       "industry": "Engineering & Construction",
@@ -40674,21 +40674,21 @@
       "forwardPE": null,
       "priceToBook": 2.2580101,
       "pegRatio": null,
-      "priceToSales": 1.4952025,
-      "enterpriseToRevenue": 1.906,
-      "enterpriseToEbitda": 11.134,
-      "profitMargins": 0.043860003,
-      "grossMargins": 0.23798999,
-      "operatingMargins": 0.14062999,
-      "returnOnAssets": 0.06641,
-      "returnOnEquity": 0.06043,
-      "totalRevenue": 20597209088,
+      "priceToSales": 1.3851898,
+      "enterpriseToRevenue": 1.848,
+      "enterpriseToEbitda": 10.705,
+      "profitMargins": 0.024519999,
+      "grossMargins": 0.27704,
+      "operatingMargins": 0.27712,
+      "returnOnAssets": 0.06983,
+      "returnOnEquity": 0.03659,
+      "totalRevenue": 22233053184,
       "revenuePerShare": 44.777,
-      "totalCash": 827654016,
-      "totalDebt": 4063513088,
-      "debtToEquity": 21.538,
-      "currentRatio": 2.626,
-      "quickRatio": 1.667,
+      "totalCash": 516376992,
+      "totalDebt": 5094803968,
+      "debtToEquity": 24.2,
+      "currentRatio": 2.378,
+      "quickRatio": 1.37,
       "eps": 2.32,
       "forwardEps": null,
       "bookValue": 29.65,
@@ -40703,7 +40703,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.261,
+      "beta": null,
       "historicalData": [
         {
           "Close": 49.52000045776367,
@@ -40827,7 +40827,7 @@
         }
       ],
       "heldPercentInsiders": 0.65589,
-      "heldPercentInstitutions": 0.01087
+      "heldPercentInstitutions": 0.01584
     },
     {
       "code": "GIPTA",
@@ -41407,7 +41407,7 @@
       "previousClose": 3.38,
       "open": 3.18,
       "dayLow": 3.18,
-      "dayHigh": 3.52,
+      "dayHigh": 3.53,
       "fiftyTwoWeekLow": 2.94,
       "fiftyTwoWeekHigh": 5.15,
       "fiftyDayAverage": 4.2,
@@ -41772,7 +41772,7 @@
         }
       ],
       "heldPercentInsiders": 0.27027,
-      "heldPercentInstitutions": 0.22899
+      "heldPercentInstitutions": 0.23819
     },
     {
       "code": "GMTAS",
@@ -43010,15 +43010,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.0934753417969,
+          "Close": 307.09344482421875,
           "Volume": 728698
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 565903
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 363119
         },
         {
@@ -43038,7 +43038,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.6504821777344,
+          "Close": 294.65045166015625,
           "Volume": 791784
         },
         {
@@ -43694,7 +43694,7 @@
       "country": "Turkey",
       "phone": "90 216 556 90 00",
       "description": "Galata Wind Enerji A.S., together with its subsidiaries, engages in generation and sale of electricity from renewable energy in Turkey. The company operates three wind power plants and three solar power plants with a total capacity of approximately 297.2 MW. It also installs systems for the generation of energy from solar radiation; constructs, commissions, and leases facilities for the generation of electrical energy; and develops projects in Europe. The company was formerly known as GY Enerji Danismanlik Poje Mühendislik Üretim, Ticaret ve Sanayi Limited Sirketi and changed its name to Galata Wind Enerji A.S. in January 2012. The company was incorporated in 2006 and is headquartered in Istanbul, Turkey. Galata Wind Enerji A.S. is a subsidiary of Dogan Sirketler Grubu Holding A.S.",
-      "pe": 17.012987,
+      "pe": 16.903227,
       "forwardPE": 15.688623,
       "priceToBook": 1.0013376,
       "pegRatio": null,
@@ -43713,19 +43713,19 @@
       "debtToEquity": 20.768,
       "currentRatio": 2.072,
       "quickRatio": 1.949,
-      "eps": 1.54,
+      "eps": 1.55,
       "forwardEps": null,
       "bookValue": 26.165,
       "dividendRate": 0.64,
       "dividendYield": 2.45,
       "exDividendDate": 1764115200,
       "payoutRatio": 0.4145,
-      "targetHighPrice": 40.0,
+      "targetHighPrice": 39.0,
       "targetLowPrice": 35.0,
-      "targetMeanPrice": 38.0,
-      "targetMedianPrice": 39.0,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "targetMeanPrice": 36.73333,
+      "targetMedianPrice": 36.2,
+      "recommendationMean": 1.66667,
+      "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
       "beta": null,
       "historicalData": [
@@ -43864,7 +43864,7 @@
       "previousClose": 59.2,
       "open": 57.75,
       "dayLow": 56.5,
-      "dayHigh": 61.7,
+      "dayHigh": 61.8,
       "fiftyTwoWeekLow": 41.56,
       "fiftyTwoWeekHigh": 330.25,
       "fiftyDayAverage": 66.28,
@@ -44242,7 +44242,7 @@
       "previousClose": 45.0,
       "open": 44.3,
       "dayLow": 44.3,
-      "dayHigh": 48.2,
+      "dayHigh": 48.4,
       "fiftyTwoWeekLow": 34.4,
       "fiftyTwoWeekHigh": 57.05,
       "fiftyDayAverage": 42.1,
@@ -44620,7 +44620,7 @@
       "previousClose": 145.5,
       "open": 140.5,
       "dayLow": 137.7,
-      "dayHigh": 144.8,
+      "dayHigh": 144.9,
       "fiftyTwoWeekLow": 7.23,
       "fiftyTwoWeekHigh": 160.3,
       "fiftyDayAverage": 134.84,
@@ -45232,12 +45232,12 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 81.541115,
+      "targetHighPrice": 77.19896,
       "targetLowPrice": 61.24725,
-      "targetMeanPrice": 68.07266,
+      "targetMeanPrice": 66.62558,
       "targetMedianPrice": 61.430077,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 1.66667,
+      "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
       "beta": null,
       "historicalData": [
@@ -46686,7 +46686,7 @@
         }
       ],
       "heldPercentInsiders": 0.30571,
-      "heldPercentInstitutions": 0.38811
+      "heldPercentInstitutions": 0.40080002
     },
     {
       "code": "IHAAS",
@@ -48419,7 +48419,7 @@
       "country": "Turkey",
       "phone": "90 212 467 38 00",
       "description": "Ingram Micro Bilisim Sistemleri Anonim Sirketi engages in the information technology business in Turkey. The company offers laptops, computers, servers, storage, virtualization, networking, IP PBX, video conferencing, security. It also offers products and parts terminals, software, and computer manufacturers. In addition, the company provides artificial intelligence; cloud services; collaboration; data center; data capture/POS; and professional services. Ingram Micro Bilisim Sistemleri Anonim Sirketi was formerly known as Armada Bilgisayar Sistemleri Sanayi ve Ticaret A.S. The company was incorporated in 1993 and is based in Istanbul, Turkey. Ingram Micro Bilisim Sistemleri Anonim Sirketi operates as a subsidiary of Aptec Holdings Limited.",
-      "pe": 3504.1667,
+      "pe": 3234.6155,
       "forwardPE": null,
       "priceToBook": 5.2025986,
       "pegRatio": 1.05,
@@ -48438,7 +48438,7 @@
       "debtToEquity": 265.94,
       "currentRatio": 1.399,
       "quickRatio": 1.118,
-      "eps": 0.12,
+      "eps": 0.13,
       "forwardEps": null,
       "bookValue": 80.825,
       "dividendRate": null,
@@ -49143,7 +49143,7 @@
         }
       ],
       "heldPercentInsiders": 0.89989996,
-      "heldPercentInstitutions": 0.0028600001
+      "heldPercentInstitutions": 0.00446
     },
     {
       "code": "ISATR",
@@ -50088,7 +50088,7 @@
         }
       ],
       "heldPercentInsiders": 0.59986,
-      "heldPercentInstitutions": 0.021289999
+      "heldPercentInstitutions": 0.02706
     },
     {
       "code": "ISGSY",
@@ -50290,7 +50290,7 @@
       "previousClose": 20.4,
       "open": 19.83,
       "dayLow": 19.83,
-      "dayHigh": 22.36,
+      "dayHigh": 22.44,
       "fiftyTwoWeekLow": 14.46,
       "fiftyTwoWeekHigh": 24.6,
       "fiftyDayAverage": 20.56,
@@ -51613,7 +51613,7 @@
       "previousClose": 65.0,
       "open": 65.0,
       "dayLow": 64.3,
-      "dayHigh": 67.95,
+      "dayHigh": 68.0,
       "fiftyTwoWeekLow": 40.64,
       "fiftyTwoWeekHigh": 93.3,
       "fiftyDayAverage": 68.06,
@@ -52545,7 +52545,7 @@
         }
       ],
       "heldPercentInsiders": 0.60058,
-      "heldPercentInstitutions": 0.00753
+      "heldPercentInstitutions": 0.0191
     },
     {
       "code": "KARTN",
@@ -53314,7 +53314,7 @@
       "previousClose": 11.01,
       "open": 11.01,
       "dayLow": 10.94,
-      "dayHigh": 12.1,
+      "dayHigh": 12.11,
       "fiftyTwoWeekLow": 9.99,
       "fiftyTwoWeekHigh": 16.58,
       "fiftyDayAverage": 11.82,
@@ -55036,7 +55036,7 @@
       "description": "Türkiye Kalkinma ve Yatirim Bankasi A.S. operates as a development and investment banking company in Türkiye. It operates through Investment Banking, Corporate Banking, and Other segments. The company provides financial solutions and banking services to medium and large-scale joint stock company customers, investment loans, project financing, TL and foreign currency-based business loans, letters of credit, and guarantees and collateral. It also offers treasury and government bonds, repo transactions, capital markets consultancy, transactions, money swaps and forward foreign exchange transactions, capital markets consultancy, financial consultancy, and mergers and acquisition consultancy services. Additionally, the company provides project funding and corporate loans and development funds. Türkiye Kalkinma ve Yatirim Bankasi A.S. was incorporated in 1975 and is based in Ümraniye, Turkey.",
       "pe": 10.166667,
       "forwardPE": null,
-      "priceToBook": 2.720785,
+      "priceToBook": 217.85713,
       "pegRatio": null,
       "priceToSales": 5.4846654,
       "enterpriseToRevenue": 473.893,
@@ -55055,7 +55055,7 @@
       "quickRatio": null,
       "eps": 0.9,
       "forwardEps": null,
-      "bookValue": 3.363,
+      "bookValue": 0.042,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1540857600,
@@ -55380,7 +55380,7 @@
         }
       ],
       "heldPercentInsiders": 0.79,
-      "heldPercentInstitutions": 0.073709995
+      "heldPercentInstitutions": 0.074829996
     },
     {
       "code": "KLSER",
@@ -55582,7 +55582,7 @@
       "previousClose": 8.98,
       "open": 8.85,
       "dayLow": 8.85,
-      "dayHigh": 9.79,
+      "dayHigh": 9.87,
       "fiftyTwoWeekLow": 5.1,
       "fiftyTwoWeekHigh": 13.8,
       "fiftyDayAverage": 10.7,
@@ -56514,7 +56514,7 @@
         }
       ],
       "heldPercentInsiders": 0.81877,
-      "heldPercentInstitutions": 0.0055400003
+      "heldPercentInstitutions": 0.00806
     },
     {
       "code": "KONTR",
@@ -56716,7 +56716,7 @@
       "previousClose": 5.46,
       "open": 5.03,
       "dayLow": 5.03,
-      "dayHigh": 5.79,
+      "dayHigh": 5.82,
       "fiftyTwoWeekLow": 4.52,
       "fiftyTwoWeekHigh": 8.42,
       "fiftyDayAverage": 5.98,
@@ -57283,7 +57283,7 @@
       "previousClose": 32.94,
       "open": 32.94,
       "dayLow": 32.86,
-      "dayHigh": 36.2,
+      "dayHigh": 36.22,
       "fiftyTwoWeekLow": 23.24,
       "fiftyTwoWeekHigh": 56.35,
       "fiftyDayAverage": 33.45,
@@ -57459,7 +57459,7 @@
         }
       ],
       "heldPercentInsiders": 0.0,
-      "heldPercentInstitutions": 0.0996
+      "heldPercentInstitutions": 0.112749994
     },
     {
       "code": "KRDMB",
@@ -57472,7 +57472,7 @@
       "previousClose": 95.0,
       "open": 92.5,
       "dayLow": 92.0,
-      "dayHigh": 101.5,
+      "dayHigh": 101.6,
       "fiftyTwoWeekLow": 21.0,
       "fiftyTwoWeekHigh": 105.4,
       "fiftyDayAverage": 72.81,
@@ -57850,7 +57850,7 @@
       "previousClose": 16.17,
       "open": 15.78,
       "dayLow": 15.78,
-      "dayHigh": 17.77,
+      "dayHigh": 17.78,
       "fiftyTwoWeekLow": 7.47,
       "fiftyTwoWeekHigh": 24.86,
       "fiftyDayAverage": 20.14,
@@ -59160,7 +59160,7 @@
         }
       ],
       "heldPercentInsiders": 0.37754002,
-      "heldPercentInstitutions": 0.36253
+      "heldPercentInstitutions": 0.36740002
     },
     {
       "code": "KTSKR",
@@ -60694,7 +60694,7 @@
       "averageVolume": 2117384,
       "averageVolume10days": 4149451,
       "marketCap": 3531600128,
-      "enterpriseValue": 6025431040,
+      "enterpriseValue": 6176207360,
       "sharesOutstanding": 216000000,
       "sector": "Healthcare",
       "industry": "Medical Care Facilities",
@@ -60708,21 +60708,21 @@
       "forwardPE": null,
       "priceToBook": 1.4926054,
       "pegRatio": null,
-      "priceToSales": 0.8341003,
-      "enterpriseToRevenue": 1.423,
-      "enterpriseToEbitda": 8.58,
-      "profitMargins": 0.03551,
-      "grossMargins": 0.17713,
-      "operatingMargins": 0.10903,
-      "returnOnAssets": 0.04736,
-      "returnOnEquity": 0.056950003,
-      "totalRevenue": 4234023168,
+      "priceToSales": 0.80872566,
+      "enterpriseToRevenue": 1.414,
+      "enterpriseToEbitda": 7.326,
+      "profitMargins": 0.03205,
+      "grossMargins": 0.18882,
+      "operatingMargins": 0.19205,
+      "returnOnAssets": 0.06131,
+      "returnOnEquity": 0.05199,
+      "totalRevenue": 4366870528,
       "revenuePerShare": 19.602,
-      "totalCash": 249283936,
-      "totalDebt": 2513762560,
-      "debtToEquity": 96.857,
-      "currentRatio": 0.772,
-      "quickRatio": 0.47,
+      "totalCash": 417657088,
+      "totalDebt": 2815659008,
+      "debtToEquity": 98.967,
+      "currentRatio": 0.826,
+      "quickRatio": 0.506,
       "eps": 0.7,
       "forwardEps": null,
       "bookValue": 10.954,
@@ -60737,7 +60737,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
-      "beta": 0.316,
+      "beta": null,
       "historicalData": [
         {
           "Close": 15.300000190734863,
@@ -63898,7 +63898,7 @@
       "previousClose": 19.46,
       "open": 18.91,
       "dayLow": 18.75,
-      "dayHigh": 21.08,
+      "dayHigh": 21.1,
       "fiftyTwoWeekLow": 14.36,
       "fiftyTwoWeekHigh": 52.65,
       "fiftyDayAverage": 19.71,
@@ -64843,7 +64843,7 @@
       "previousClose": 42.18,
       "open": 42.18,
       "dayLow": 42.14,
-      "dayHigh": 46.3,
+      "dayHigh": 46.38,
       "fiftyTwoWeekLow": 26.78,
       "fiftyTwoWeekHigh": 51.55,
       "fiftyDayAverage": 41.71,
@@ -65019,7 +65019,7 @@
         }
       ],
       "heldPercentInsiders": 0.38006002,
-      "heldPercentInstitutions": 0.026689999
+      "heldPercentInstitutions": 0.03516
     },
     {
       "code": "MMCAS",
@@ -67111,7 +67111,7 @@
       "previousClose": 5.92,
       "open": 5.92,
       "dayLow": 5.91,
-      "dayHigh": 6.1,
+      "dayHigh": 6.18,
       "fiftyTwoWeekLow": 5.5,
       "fiftyTwoWeekHigh": 8.5,
       "fiftyDayAverage": 6.26,
@@ -68245,7 +68245,7 @@
       "previousClose": 213.0,
       "open": 213.0,
       "dayLow": 211.8,
-      "dayHigh": 233.1,
+      "dayHigh": 233.4,
       "fiftyTwoWeekLow": 198.0,
       "fiftyTwoWeekHigh": 353.0,
       "fiftyDayAverage": 250.94,
@@ -68622,7 +68622,7 @@
       "changeRate": -0.34,
       "previousClose": 1193.0,
       "open": 1141.0,
-      "dayLow": 1116.0,
+      "dayLow": 1115.0,
       "dayHigh": 1190.0,
       "fiftyTwoWeekLow": 69.0,
       "fiftyTwoWeekHigh": 1335.0,
@@ -70689,7 +70689,7 @@
         }
       ],
       "heldPercentInsiders": 0.80051005,
-      "heldPercentInstitutions": 0.03497
+      "heldPercentInstitutions": 0.03786
     },
     {
       "code": "OYAYO",
@@ -72592,7 +72592,7 @@
       "previousClose": 104.4,
       "open": 101.2,
       "dayLow": 101.2,
-      "dayHigh": 112.4,
+      "dayHigh": 112.5,
       "fiftyTwoWeekLow": 68.25,
       "fiftyTwoWeekHigh": 175.0,
       "fiftyDayAverage": 119.31,
@@ -72768,7 +72768,7 @@
         }
       ],
       "heldPercentInsiders": 0.4725,
-      "heldPercentInstitutions": 0.20236
+      "heldPercentInstitutions": 0.20997
     },
     {
       "code": "PATEK",
@@ -73159,7 +73159,7 @@
       "previousClose": 12.17,
       "open": 12.17,
       "dayLow": 12.05,
-      "dayHigh": 13.03,
+      "dayHigh": 13.08,
       "fiftyTwoWeekLow": 1.28,
       "fiftyTwoWeekHigh": 19.94,
       "fiftyDayAverage": 14.61,
@@ -73348,7 +73348,7 @@
       "previousClose": 13.4,
       "open": 12.8,
       "dayLow": 12.74,
-      "dayHigh": 13.77,
+      "dayHigh": 13.78,
       "fiftyTwoWeekLow": 6.96,
       "fiftyTwoWeekHigh": 15.94,
       "fiftyDayAverage": 11.87,
@@ -73726,7 +73726,7 @@
       "previousClose": 12.9,
       "open": 12.35,
       "dayLow": 12.35,
-      "dayHigh": 13.35,
+      "dayHigh": 13.4,
       "fiftyTwoWeekLow": 8.45,
       "fiftyTwoWeekHigh": 15.99,
       "fiftyDayAverage": 12.49,
@@ -74690,7 +74690,7 @@
       "country": "Turkey",
       "phone": "90 312 342 03 82",
       "description": "Panelsan Cati Cephe Sistemleri Sanayi Ve Ticaret A.S. manufactures and sells sandwich panels, EPS insulation materials, and other products in Turkey. The company offers facade, roof, acoustic, and cold room panels; EPS products, including thermal insulation boards, injection sheets, EPS blocks, light filling products, mold injection products, decorative ceiling coverings, and geopans; trapezoidal overlays; solar power plant solutions; and complementary products. It is also involved in manufacturing, purchase, sale, import, and production of heating, ventilation, cooling, insulation, and roofing and facade cladding materials; production, import, export, purchase, sale, and domestic trade of prefabricated thermally insulated construction elements; and the manufacturing and trade of marble, iron, cement, ready-mixed concrete, and hardware materials. The company was incorporated in 2004 and is headquartered in Ankara, Turkey.",
-      "pe": 11.111111,
+      "pe": 11.71875,
       "forwardPE": null,
       "priceToBook": 1.1189576,
       "pegRatio": null,
@@ -74709,7 +74709,7 @@
       "debtToEquity": 10.058,
       "currentRatio": 1.221,
       "quickRatio": 0.783,
-      "eps": 4.05,
+      "eps": 3.84,
       "forwardEps": null,
       "bookValue": 40.216,
       "dividendRate": 0.69,
@@ -75616,7 +75616,7 @@
       "previousClose": 36.56,
       "open": 36.5,
       "dayLow": 36.34,
-      "dayHigh": 39.7,
+      "dayHigh": 39.78,
       "fiftyTwoWeekLow": 24.98,
       "fiftyTwoWeekHigh": 70.95,
       "fiftyDayAverage": 40.57,
@@ -76737,7 +76737,7 @@
         }
       ],
       "heldPercentInsiders": 0.449,
-      "heldPercentInstitutions": 0.15779
+      "heldPercentInstitutions": 0.16590999
     },
     {
       "code": "RALYH",
@@ -76958,7 +76958,7 @@
       "country": "Turkey",
       "phone": "90 212 363 25 00",
       "description": "Ray Sigorta Anonim Sirketi engages in the non-life insurance business in Turkey. The company offers personal accidents, casco, motor third party liability, travel, workplace, cyber security, health, and home insurance. It also provides fire, TCIP, marine, casualty, engineering, liability, and agriculture insurance, as well as motor own damage; motor facultative TPL; legal protection; and company's personal accident for buses insurance products. It sells its products through agencies, agency branches, brokers, broker branches, banks, and leasing companies. The company was incorporated in 1958 and is headquartered in Istanbul, Turkey. Ray Sigorta Anonim Sirketi operates as a subsidiary of ATBIH GmbH.",
-      "pe": 7.657357,
+      "pe": 7.6509786,
       "forwardPE": null,
       "priceToBook": 3.2051506,
       "pegRatio": null,
@@ -76977,7 +76977,7 @@
       "debtToEquity": 0.246,
       "currentRatio": 1.171,
       "quickRatio": 0.947,
-      "eps": 23.99,
+      "eps": 24.01,
       "forwardEps": null,
       "bookValue": 57.314,
       "dividendRate": null,
@@ -78627,7 +78627,7 @@
         }
       ],
       "heldPercentInsiders": 0.70875,
-      "heldPercentInstitutions": 0.01747
+      "heldPercentInstitutions": 0.022079999
     },
     {
       "code": "RYSAS",
@@ -80341,7 +80341,7 @@
       "previousClose": 52.85,
       "open": 49.98,
       "dayLow": 49.98,
-      "dayHigh": 57.35,
+      "dayHigh": 57.95,
       "fiftyTwoWeekLow": 17.58,
       "fiftyTwoWeekHigh": 73.5,
       "fiftyDayAverage": 57.68,
@@ -80908,7 +80908,7 @@
       "previousClose": 6.84,
       "open": 6.84,
       "dayLow": 6.77,
-      "dayHigh": 7.51,
+      "dayHigh": 7.52,
       "fiftyTwoWeekLow": 2.81,
       "fiftyTwoWeekHigh": 8.8,
       "fiftyDayAverage": 7.28,
@@ -86200,7 +86200,7 @@
       "previousClose": 118.4,
       "open": 118.2,
       "dayLow": 118.0,
-      "dayHigh": 127.0,
+      "dayHigh": 127.1,
       "fiftyTwoWeekLow": 67.0,
       "fiftyTwoWeekHigh": 159.9,
       "fiftyDayAverage": 115.59,
@@ -89211,7 +89211,7 @@
         }
       ],
       "heldPercentInsiders": 0.60168,
-      "heldPercentInstitutions": 0.0090499995
+      "heldPercentInstitutions": 0.01513
     },
     {
       "code": "ULUFA",
@@ -90547,7 +90547,7 @@
       "previousClose": 71.45,
       "open": 69.65,
       "dayLow": 69.65,
-      "dayHigh": 77.2,
+      "dayHigh": 77.5,
       "fiftyTwoWeekLow": 48.56,
       "fiftyTwoWeekHigh": 101.9,
       "fiftyDayAverage": 81.23,
@@ -94382,7 +94382,7 @@
         }
       ],
       "heldPercentInsiders": 0.81058997,
-      "heldPercentInstitutions": 0.16839
+      "heldPercentInstitutions": 0.17122
     }
   ]
 }
