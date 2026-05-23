@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-23T05:07:50.580823",
+  "last_update": "2026-05-23T07:56:58.303650",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -192,7 +192,7 @@
         }
       ],
       "heldPercentInsiders": 0.85974,
-      "heldPercentInstitutions": 0.02724
+      "heldPercentInstitutions": 0.0294
     },
     {
       "code": "AKBNK",
@@ -250,9 +250,9 @@
       "dividendYield": 3.46,
       "exDividendDate": 1774483200,
       "payoutRatio": 0.18270001,
-      "targetHighPrice": 120.4,
+      "targetHighPrice": 118.2,
       "targetLowPrice": 82.0,
-      "targetMeanPrice": 102.79857,
+      "targetMeanPrice": 102.64143,
       "targetMedianPrice": 102.5,
       "recommendationMean": 1.42857,
       "recommendationKey": "strong_buy",
@@ -381,7 +381,7 @@
         }
       ],
       "heldPercentInsiders": 0.41277,
-      "heldPercentInstitutions": 0.19281
+      "heldPercentInstitutions": 0.20188999
     },
     {
       "code": "YKBNK",
@@ -948,7 +948,7 @@
         }
       ],
       "heldPercentInsiders": 0.89539003,
-      "heldPercentInstitutions": 0.008169999
+      "heldPercentInstitutions": 0.00939
     },
     {
       "code": "HALKB",
@@ -1893,7 +1893,7 @@
         }
       ],
       "heldPercentInsiders": 0.51,
-      "heldPercentInstitutions": 0.03545
+      "heldPercentInstitutions": 0.042680003
     },
     {
       "code": "EREGL",
@@ -2082,7 +2082,7 @@
         }
       ],
       "heldPercentInsiders": 0.49542,
-      "heldPercentInstitutions": 0.07613
+      "heldPercentInstitutions": 0.083850004
     },
     {
       "code": "KRDMD",
@@ -2460,7 +2460,7 @@
         }
       ],
       "heldPercentInsiders": 0.74195,
-      "heldPercentInstitutions": 0.08743
+      "heldPercentInstitutions": 0.09142
     },
     {
       "code": "BIMAS",
@@ -2649,7 +2649,7 @@
         }
       ],
       "heldPercentInsiders": 0.27548,
-      "heldPercentInstitutions": 0.22341
+      "heldPercentInstitutions": 0.23433
     },
     {
       "code": "MGROS",
@@ -3216,7 +3216,7 @@
         }
       ],
       "heldPercentInsiders": 0.8668,
-      "heldPercentInstitutions": 0.021240002
+      "heldPercentInstitutions": 0.0233
     },
     {
       "code": "TCELL",
@@ -3405,7 +3405,7 @@
         }
       ],
       "heldPercentInsiders": 0.46,
-      "heldPercentInstitutions": 0.12404
+      "heldPercentInstitutions": 0.13229
     },
     {
       "code": "SISE",
@@ -3594,7 +3594,7 @@
         }
       ],
       "heldPercentInsiders": 0.59607,
-      "heldPercentInstitutions": 0.03132
+      "heldPercentInstitutions": 0.03756
     },
     {
       "code": "ARCLK",
@@ -3654,10 +3654,10 @@
       "payoutRatio": 0.0,
       "targetHighPrice": 245.0,
       "targetLowPrice": 130.0,
-      "targetMeanPrice": 163.74924,
+      "targetMeanPrice": 162.82616,
       "targetMedianPrice": 159.24,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 2.07692,
+      "recommendationKey": "buy",
       "numberOfAnalystOpinions": 13,
       "beta": 0.117,
       "historicalData": [
@@ -3972,7 +3972,7 @@
         }
       ],
       "heldPercentInsiders": 0.5277,
-      "heldPercentInstitutions": 0.01475
+      "heldPercentInstitutions": 0.021470001
     },
     {
       "code": "SAHOL",
@@ -4161,7 +4161,7 @@
         }
       ],
       "heldPercentInsiders": 0.34595,
-      "heldPercentInstitutions": 0.11931
+      "heldPercentInstitutions": 0.12926
     },
     {
       "code": "KCHOL",
@@ -4350,7 +4350,7 @@
         }
       ],
       "heldPercentInsiders": 0.57186,
-      "heldPercentInstitutions": 0.07728
+      "heldPercentInstitutions": 0.083950005
     },
     {
       "code": "DOHOL",
@@ -4760,7 +4760,7 @@
       "country": "Turkey",
       "phone": "90 212 275 33 90",
       "description": "Tofas Türk Otomobil Fabrikasi Anonim Sirketi engages in manufacturing, exporting, and selling passenger cars\nand light commercial vehicles in Turkey. It also produces various automotive spare parts, as well as trades in automobile and spare parts; and provides consumer financing and insurance services. The company offers its products under the Peugeout, Citroen, Opel, Fiat, Jeep, Alfa Romeo, DS, Maserati, Ferrari, and Transit brands. It also exports its products. The company was incorporated in 1968 and is headquartered in Istanbul, Turkey.",
-      "pe": 13.1830015,
+      "pe": 13.177287,
       "forwardPE": 9.586882,
       "priceToBook": 2.532025,
       "pegRatio": 1.03,
@@ -4779,7 +4779,7 @@
       "debtToEquity": 117.651,
       "currentRatio": 1.569,
       "quickRatio": 1.179,
-      "eps": 23.06,
+      "eps": 23.07,
       "forwardEps": 31.71,
       "bookValue": 120.062,
       "dividendRate": 20.0,
@@ -4917,7 +4917,7 @@
         }
       ],
       "heldPercentInsiders": 0.75478995,
-      "heldPercentInstitutions": 0.052529998
+      "heldPercentInstitutions": 0.05624
     },
     {
       "code": "TMSN",
@@ -5166,8 +5166,8 @@
       "payoutRatio": 0.0,
       "targetHighPrice": 582.2961,
       "targetLowPrice": 378.35193,
-      "targetMeanPrice": 447.56622,
-      "targetMedianPrice": 437.8754,
+      "targetMeanPrice": 444.71173,
+      "targetMedianPrice": 429.68262,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -5484,7 +5484,7 @@
         }
       ],
       "heldPercentInsiders": 0.49338,
-      "heldPercentInstitutions": 0.07192
+      "heldPercentInstitutions": 0.07958
     },
     {
       "code": "ENJSA",
@@ -5673,7 +5673,7 @@
         }
       ],
       "heldPercentInsiders": 0.8,
-      "heldPercentInstitutions": 0.02977
+      "heldPercentInstitutions": 0.03276
     },
     {
       "code": "SASA",
@@ -5695,7 +5695,7 @@
       "averageVolume": 204632352,
       "averageVolume10days": 0,
       "marketCap": 122577387520,
-      "enterpriseValue": 254076305408,
+      "enterpriseValue": 259029057536,
       "sharesOutstanding": 46255615357,
       "sector": "Consumer Cyclical",
       "industry": "Textile Manufacturing",
@@ -5710,20 +5710,20 @@
       "priceToBook": 0.7524134,
       "pegRatio": null,
       "priceToSales": 2.1351128,
-      "enterpriseToRevenue": 4.426,
-      "enterpriseToEbitda": 29.415,
+      "enterpriseToRevenue": 4.512,
+      "enterpriseToEbitda": 29.398,
       "profitMargins": -0.38531,
       "grossMargins": 0.07692,
-      "operatingMargins": 0.060549997,
-      "returnOnAssets": 0.00090000004,
+      "operatingMargins": 0.05731,
+      "returnOnAssets": 0.00119,
       "returnOnEquity": -0.14666,
       "totalRevenue": 57410260992,
-      "revenuePerShare": 1.212,
+      "revenuePerShare": 1.31,
       "totalCash": 5766568960,
-      "totalDebt": 143731490816,
-      "debtToEquity": 83.715,
+      "totalDebt": 148684242944,
+      "debtToEquity": 86.599,
       "currentRatio": 0.627,
-      "quickRatio": 0.295,
+      "quickRatio": 0.314,
       "eps": -0.5,
       "forwardEps": null,
       "bookValue": 3.522,
@@ -5738,7 +5738,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.435,
       "historicalData": [
         {
           "Close": 2.4800000190734863,
@@ -5862,7 +5862,7 @@
         }
       ],
       "heldPercentInsiders": 0.69254,
-      "heldPercentInstitutions": 0.06185
+      "heldPercentInstitutions": 0.0664
     },
     {
       "code": "GUBRF",
@@ -6429,7 +6429,7 @@
         }
       ],
       "heldPercentInsiders": 0.89912003,
-      "heldPercentInstitutions": 0.0057599996
+      "heldPercentInstitutions": 0.0072399997
     },
     {
       "code": "LOGO",
@@ -6618,7 +6618,7 @@
         }
       ],
       "heldPercentInsiders": 0.354,
-      "heldPercentInstitutions": 0.10019
+      "heldPercentInstitutions": 0.10989001
     },
     {
       "code": "NETAS",
@@ -6996,7 +6996,7 @@
         }
       ],
       "heldPercentInsiders": 0.67047995,
-      "heldPercentInstitutions": 0.04133
+      "heldPercentInstitutions": 0.0463
     },
     {
       "code": "ULKER",
@@ -7056,9 +7056,9 @@
       "payoutRatio": 0.90269995,
       "targetHighPrice": 265.0,
       "targetLowPrice": 140.0,
-      "targetMeanPrice": 182.05556,
-      "targetMedianPrice": 169.7,
-      "recommendationMean": 1.66667,
+      "targetMeanPrice": 180.95557,
+      "targetMedianPrice": 159.8,
+      "recommendationMean": 1.88889,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 9,
       "beta": null,
@@ -7185,7 +7185,7 @@
         }
       ],
       "heldPercentInsiders": 0.47233,
-      "heldPercentInstitutions": 0.07709
+      "heldPercentInstitutions": 0.084989995
     },
     {
       "code": "TTRAK",
@@ -7941,7 +7941,7 @@
         }
       ],
       "heldPercentInsiders": 0.27186,
-      "heldPercentInstitutions": 0.18011999
+      "heldPercentInstitutions": 0.19081
     },
     {
       "code": "KARSN",
@@ -8508,7 +8508,7 @@
         }
       ],
       "heldPercentInsiders": 0.43174,
-      "heldPercentInstitutions": 0.14974
+      "heldPercentInstitutions": 0.15725
     },
     {
       "code": "AGHOL",
@@ -8697,7 +8697,7 @@
         }
       ],
       "heldPercentInsiders": 0.48648,
-      "heldPercentInstitutions": 0.15725
+      "heldPercentInstitutions": 0.16481
     },
     {
       "code": "AKSA",
@@ -9097,7 +9097,7 @@
       "averageVolume": 24002400,
       "averageVolume10days": 27997266,
       "marketCap": 19875000320,
-      "enterpriseValue": -53198999552,
+      "enterpriseValue": 69236629504,
       "sharesOutstanding": 2500000000,
       "sector": "Financial Services",
       "industry": "Banks - Regional",
@@ -9111,18 +9111,18 @@
       "forwardPE": 4.2741933,
       "priceToBook": 0.75764793,
       "pegRatio": 0.37,
-      "priceToSales": 0.760999,
-      "enterpriseToRevenue": -2.037,
+      "priceToSales": 0.7640481,
+      "enterpriseToRevenue": 2.662,
       "enterpriseToEbitda": null,
-      "profitMargins": 0.3092,
+      "profitMargins": 0.31672,
       "grossMargins": 0.0,
-      "operatingMargins": 0.17062001,
-      "returnOnAssets": 0.01895,
-      "returnOnEquity": 0.34647,
-      "totalRevenue": 26116984832,
-      "revenuePerShare": 10.447,
-      "totalCash": 223405998080,
-      "totalDebt": 150331998208,
+      "operatingMargins": 0.21977,
+      "returnOnAssets": 0.01922,
+      "returnOnEquity": 0.33078998,
+      "totalRevenue": 26012760064,
+      "revenuePerShare": 10.405,
+      "totalCash": 101391228928,
+      "totalDebt": 150752854016,
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
@@ -9264,7 +9264,7 @@
         }
       ],
       "heldPercentInsiders": 0.53394,
-      "heldPercentInstitutions": 0.04741
+      "heldPercentInstitutions": 0.05511
     },
     {
       "code": "ALGYO",
@@ -9642,7 +9642,7 @@
         }
       ],
       "heldPercentInsiders": 0.81856,
-      "heldPercentInstitutions": 0.00423
+      "heldPercentInstitutions": 0.00696
     },
     {
       "code": "AYDEM",
@@ -10020,7 +10020,7 @@
         }
       ],
       "heldPercentInsiders": 0.43887,
-      "heldPercentInstitutions": 0.0115
+      "heldPercentInstitutions": 0.0207
     },
     {
       "code": "BIOEN",
@@ -10209,7 +10209,7 @@
         }
       ],
       "heldPercentInsiders": 0.60412997,
-      "heldPercentInstitutions": 0.06226
+      "heldPercentInstitutions": 0.0718
     },
     {
       "code": "BJKAS",
@@ -10398,7 +10398,7 @@
         }
       ],
       "heldPercentInsiders": 0.69369006,
-      "heldPercentInstitutions": 0.006
+      "heldPercentInstitutions": 0.0110599995
     },
     {
       "code": "BRISA",
@@ -10587,7 +10587,7 @@
         }
       ],
       "heldPercentInsiders": 0.87253,
-      "heldPercentInstitutions": 0.00336
+      "heldPercentInstitutions": 0.00542
     },
     {
       "code": "BRYAT",
@@ -10965,7 +10965,7 @@
         }
       ],
       "heldPercentInsiders": 0.54457,
-      "heldPercentInstitutions": 0.01535
+      "heldPercentInstitutions": 0.02384
     },
     {
       "code": "CEMTS",
@@ -11343,7 +11343,7 @@
         }
       ],
       "heldPercentInsiders": 0.63519,
-      "heldPercentInstitutions": 0.03284
+      "heldPercentInstitutions": 0.03821
     },
     {
       "code": "ADEL",
@@ -12099,7 +12099,7 @@
         }
       ],
       "heldPercentInsiders": 0.8,
-      "heldPercentInstitutions": 0.06296
+      "heldPercentInstitutions": 0.06592
     },
     {
       "code": "AKENR",
@@ -12666,7 +12666,7 @@
         }
       ],
       "heldPercentInsiders": 0.71564,
-      "heldPercentInstitutions": 0.01284
+      "heldPercentInstitutions": 0.01705
     },
     {
       "code": "AKSGY",
@@ -12855,7 +12855,7 @@
         }
       ],
       "heldPercentInsiders": 0.52157,
-      "heldPercentInstitutions": 0.02108
+      "heldPercentInstitutions": 0.028369999
     },
     {
       "code": "AKSUE",
@@ -13649,19 +13649,19 @@
       "pegRatio": null,
       "priceToSales": 2.597694,
       "enterpriseToRevenue": 2.886,
-      "enterpriseToEbitda": 45.949,
+      "enterpriseToEbitda": 59.379,
       "profitMargins": 0.00947,
       "grossMargins": 0.093830004,
-      "operatingMargins": -0.116009995,
-      "returnOnAssets": 0.01339,
+      "operatingMargins": -0.06982,
+      "returnOnAssets": 0.0073100002,
       "returnOnEquity": 0.012569999,
       "totalRevenue": 7132787712,
-      "revenuePerShare": 22.382,
+      "revenuePerShare": 19.383,
       "totalCash": 1180428928,
       "totalDebt": 3231508992,
       "debtToEquity": 54.987,
       "currentRatio": 1.293,
-      "quickRatio": 0.523,
+      "quickRatio": 0.533,
       "eps": 0.18,
       "forwardEps": null,
       "bookValue": 14.365,
@@ -13676,7 +13676,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": null,
+      "beta": -0.227,
       "historicalData": [
         {
           "Close": 37.79999923706055,
@@ -13800,7 +13800,7 @@
         }
       ],
       "heldPercentInsiders": 0.77,
-      "heldPercentInstitutions": 0.0070200004
+      "heldPercentInstitutions": 0.01123
     },
     {
       "code": "ALKA",
@@ -14238,10 +14238,10 @@
       "payoutRatio": 0.5385,
       "targetHighPrice": 197.48,
       "targetLowPrice": 146.6,
-      "targetMeanPrice": 169.4775,
-      "targetMedianPrice": 166.915,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "targetMeanPrice": 167.4425,
+      "targetMedianPrice": 162.845,
+      "recommendationMean": 1.5,
+      "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 4,
       "beta": 0.314,
       "historicalData": [
@@ -14367,7 +14367,7 @@
         }
       ],
       "heldPercentInsiders": 0.83917,
-      "heldPercentInstitutions": 0.01644
+      "heldPercentInstitutions": 0.018960001
     },
     {
       "code": "ANSGR",
@@ -15879,7 +15879,7 @@
         }
       ],
       "heldPercentInsiders": 0.57249,
-      "heldPercentInstitutions": 0.16242
+      "heldPercentInstitutions": 0.16806
     },
     {
       "code": "ATAGY",
@@ -18902,7 +18902,7 @@
           "Volume": 2948712
         }
       ],
-      "heldPercentInsiders": 0.74018997,
+      "heldPercentInsiders": 0.7021,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -19281,7 +19281,7 @@
         }
       ],
       "heldPercentInsiders": 0.84713995,
-      "heldPercentInstitutions": 0.00659
+      "heldPercentInstitutions": 0.00914
     },
     {
       "code": "BAYRK",
@@ -23061,7 +23061,7 @@
         }
       ],
       "heldPercentInsiders": 0.85553,
-      "heldPercentInstitutions": 0.01559
+      "heldPercentInstitutions": 0.0183
     },
     {
       "code": "BSOKE",
@@ -23250,7 +23250,7 @@
         }
       ],
       "heldPercentInsiders": 0.74624,
-      "heldPercentInstitutions": 0.0161
+      "heldPercentInstitutions": 0.02001
     },
     {
       "code": "BTCIM",
@@ -23439,7 +23439,7 @@
         }
       ],
       "heldPercentInsiders": 0.37868,
-      "heldPercentInstitutions": 0.22645001
+      "heldPercentInstitutions": 0.23481001
     },
     {
       "code": "BURCE",
@@ -23839,7 +23839,7 @@
       "averageVolume": 1274713,
       "averageVolume10days": 3255595,
       "marketCap": 4636080128,
-      "enterpriseValue": 5260158464,
+      "enterpriseValue": 5082304000,
       "sharesOutstanding": 37600000,
       "sector": "Industrials",
       "industry": "Farm & Heavy Construction Machinery",
@@ -23853,26 +23853,26 @@
       "forwardPE": null,
       "priceToBook": 1.8816384,
       "pegRatio": null,
-      "priceToSales": 1.4715427,
-      "enterpriseToRevenue": 1.67,
-      "enterpriseToEbitda": 9.23,
-      "profitMargins": 0.057789996,
-      "grossMargins": 0.26822,
-      "operatingMargins": 0.15869,
-      "returnOnAssets": 0.07685,
-      "returnOnEquity": 0.083050005,
-      "totalRevenue": 3150489600,
+      "priceToSales": 1.3919053,
+      "enterpriseToRevenue": 1.526,
+      "enterpriseToEbitda": 10.92,
+      "profitMargins": -0.0074199997,
+      "grossMargins": 0.26834,
+      "operatingMargins": 0.01801,
+      "returnOnAssets": 0.06761,
+      "returnOnEquity": -0.0056,
+      "totalRevenue": 3330743808,
       "revenuePerShare": 83.79,
-      "totalCash": 223791120,
-      "totalDebt": 718358336,
-      "debtToEquity": 27.7,
-      "currentRatio": 1.817,
-      "quickRatio": 0.943,
+      "totalCash": 315935456,
+      "totalDebt": 619780288,
+      "debtToEquity": 22.288,
+      "currentRatio": 1.355,
+      "quickRatio": 0.585,
       "eps": -1.15,
       "forwardEps": null,
       "bookValue": 65.528,
       "dividendRate": 0.96,
-      "dividendYield": 0.82,
+      "dividendYield": 0.78,
       "exDividendDate": 1764633600,
       "payoutRatio": 0.1985,
       "targetHighPrice": null,
@@ -23882,7 +23882,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.385,
+      "beta": null,
       "historicalData": [
         {
           "Close": 110.30000305175781,
@@ -24951,7 +24951,7 @@
         }
       ],
       "heldPercentInsiders": 0.7043,
-      "heldPercentInstitutions": 0.07547
+      "heldPercentInstitutions": 0.07989
     },
     {
       "code": "CELHA",
@@ -27219,7 +27219,7 @@
         }
       ],
       "heldPercentInsiders": 0.60861,
-      "heldPercentInstitutions": 0.14984
+      "heldPercentInstitutions": 0.1537
     },
     {
       "code": "DAGI",
@@ -27597,7 +27597,7 @@
         }
       ],
       "heldPercentInsiders": 0.71245,
-      "heldPercentInstitutions": 0.05923
+      "heldPercentInstitutions": 0.06355
     },
     {
       "code": "DARDL",
@@ -28186,7 +28186,7 @@
       "averageVolume": 506589,
       "averageVolume10days": 432712,
       "marketCap": 1916999936,
-      "enterpriseValue": 2486137600,
+      "enterpriseValue": 1497952384,
       "sharesOutstanding": 54000000,
       "sector": "Consumer Cyclical",
       "industry": "Footwear & Accessories",
@@ -28201,17 +28201,17 @@
       "priceToBook": 2.6494515,
       "pegRatio": null,
       "priceToSales": 0.45299125,
-      "enterpriseToRevenue": 0.587,
-      "enterpriseToEbitda": 5.79,
+      "enterpriseToRevenue": 0.354,
+      "enterpriseToEbitda": 3.401,
       "profitMargins": 0.022179998,
-      "grossMargins": 0.14845,
-      "operatingMargins": 0.044689998,
-      "returnOnAssets": 0.159,
+      "grossMargins": 0.14832,
+      "operatingMargins": 0.08529,
+      "returnOnAssets": 0.16307,
       "returnOnEquity": 0.1566,
       "totalRevenue": 4231869696,
       "revenuePerShare": 78.368,
       "totalCash": 419047552,
-      "totalDebt": 988185280,
+      "totalDebt": 0,
       "debtToEquity": 136.571,
       "currentRatio": 1.755,
       "quickRatio": 1.498,
@@ -28229,7 +28229,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.471,
       "historicalData": [
         {
           "Close": 36.68000030517578,
@@ -29131,7 +29131,7 @@
       "averageVolume": 147318,
       "averageVolume10days": 238912,
       "marketCap": 11022658560,
-      "enterpriseValue": 14800627712,
+      "enterpriseValue": 14869107712,
       "sharesOutstanding": 332007786,
       "sector": "Real Estate",
       "industry": "REIT - Diversified",
@@ -29145,21 +29145,21 @@
       "forwardPE": null,
       "priceToBook": 0.79969174,
       "pegRatio": null,
-      "priceToSales": 9.599665,
-      "enterpriseToRevenue": 12.89,
-      "enterpriseToEbitda": 17.22,
-      "profitMargins": -0.20458001,
-      "grossMargins": 0.83672,
-      "operatingMargins": 0.77821,
-      "returnOnAssets": 0.027320001,
-      "returnOnEquity": -0.016900001,
-      "totalRevenue": 1148233728,
+      "priceToSales": 9.338026,
+      "enterpriseToRevenue": 12.597,
+      "enterpriseToEbitda": 16.327,
+      "profitMargins": -0.02843,
+      "grossMargins": 0.84021,
+      "operatingMargins": 0.79787004,
+      "returnOnAssets": 0.029719999,
+      "returnOnEquity": -0.0024899999,
+      "totalRevenue": 1180405632,
       "revenuePerShare": 3.458,
-      "totalCash": 58144512,
-      "totalDebt": 3922436096,
-      "debtToEquity": 28.457,
-      "currentRatio": 0.055,
-      "quickRatio": 0.052,
+      "totalCash": 52958808,
+      "totalDebt": 3899408384,
+      "debtToEquity": 25.564,
+      "currentRatio": 0.099,
+      "quickRatio": 0.085,
       "eps": -0.1,
       "forwardEps": null,
       "bookValue": 41.516,
@@ -29174,7 +29174,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.242,
+      "beta": null,
       "historicalData": [
         {
           "Close": 28.420000076293945,
@@ -29349,7 +29349,7 @@
       "debtToEquity": 462.295,
       "currentRatio": 0.374,
       "quickRatio": 0.105,
-      "eps": -8.07,
+      "eps": -6.47,
       "forwardEps": null,
       "bookValue": 3.982,
       "dividendRate": null,
@@ -30432,7 +30432,7 @@
         }
       ],
       "heldPercentInsiders": 0.605,
-      "heldPercentInstitutions": 0.06057
+      "heldPercentInstitutions": 0.06632
     },
     {
       "code": "DOCO",
@@ -32700,7 +32700,7 @@
         }
       ],
       "heldPercentInsiders": 0.64205,
-      "heldPercentInstitutions": 0.01148
+      "heldPercentInstitutions": 0.01679
     },
     {
       "code": "EGEPO",
@@ -33478,7 +33478,7 @@
       "averageVolume": 17731,
       "averageVolume10days": 18894,
       "marketCap": 816104896,
-      "enterpriseValue": 771497472,
+      "enterpriseValue": 816062464,
       "sharesOutstanding": 9284470,
       "sector": "Consumer Defensive",
       "industry": "Household & Personal Products",
@@ -33492,22 +33492,22 @@
       "forwardPE": null,
       "priceToBook": 2.4808784,
       "pegRatio": null,
-      "priceToSales": 1.908633,
-      "enterpriseToRevenue": 1.804,
-      "enterpriseToEbitda": -43.656,
-      "profitMargins": -0.12586,
-      "grossMargins": 0.02744,
-      "operatingMargins": -0.10972,
-      "returnOnAssets": -0.02616,
-      "returnOnEquity": -0.15123,
-      "totalRevenue": 427586080,
-      "revenuePerShare": 46.002,
-      "totalCash": 41994,
+      "priceToSales": 2.1730578,
+      "enterpriseToRevenue": 2.173,
+      "enterpriseToEbitda": -39.889,
+      "profitMargins": -0.16308,
+      "grossMargins": 0.02807,
+      "operatingMargins": -0.02251,
+      "returnOnAssets": -0.031059999,
+      "returnOnEquity": -0.17912,
+      "totalRevenue": 375556000,
+      "revenuePerShare": 38.52,
+      "totalCash": 42479,
       "totalDebt": 0,
       "debtToEquity": null,
-      "currentRatio": 0.304,
-      "quickRatio": 0.284,
-      "eps": -29.67,
+      "currentRatio": 0.336,
+      "quickRatio": 0.314,
+      "eps": -31.38,
       "forwardEps": null,
       "bookValue": 35.431,
       "dividendRate": null,
@@ -34779,7 +34779,7 @@
         }
       ],
       "heldPercentInsiders": 0.72905,
-      "heldPercentInstitutions": 0.01413
+      "heldPercentInstitutions": 0.01826
     },
     {
       "code": "ENSRI",
@@ -35573,14 +35573,14 @@
       "pegRatio": null,
       "priceToSales": 7.0401483,
       "enterpriseToRevenue": 5.969,
-      "enterpriseToEbitda": -96.184,
+      "enterpriseToEbitda": -80.891,
       "profitMargins": -0.8301,
       "grossMargins": -0.04191,
-      "operatingMargins": -0.75278,
-      "returnOnAssets": -0.03212,
+      "operatingMargins": -0.86017,
+      "returnOnAssets": -0.03365,
       "returnOnEquity": -0.24174999,
       "totalRevenue": 129883624,
-      "revenuePerShare": 4.505,
+      "revenuePerShare": 3.608,
       "totalCash": 289098464,
       "totalDebt": 150000000,
       "debtToEquity": 33.044,
@@ -35600,7 +35600,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.164,
       "historicalData": [
         {
           "Close": 25.719999313354492,
@@ -35913,7 +35913,7 @@
         }
       ],
       "heldPercentInsiders": 0.75755,
-      "heldPercentInstitutions": 0.00557
+      "heldPercentInstitutions": 0.0092
     },
     {
       "code": "ESCOM",
@@ -36124,7 +36124,7 @@
       "averageVolume": 99503768,
       "averageVolume10days": 132899060,
       "marketCap": 6952399872,
-      "enterpriseValue": 0,
+      "enterpriseValue": 18484191232,
       "sharesOutstanding": 1820000000,
       "sector": "Utilities",
       "industry": "Utilities - Renewable",
@@ -36139,20 +36139,20 @@
       "priceToBook": 0.61276865,
       "pegRatio": null,
       "priceToSales": 4.8843756,
-      "enterpriseToRevenue": null,
-      "enterpriseToEbitda": null,
+      "enterpriseToRevenue": 12.986,
+      "enterpriseToEbitda": 34.149,
       "profitMargins": -0.16679001,
-      "grossMargins": 0.28195998,
-      "operatingMargins": 0.0004,
-      "returnOnAssets": 0.0053100004,
+      "grossMargins": 0.28201,
+      "operatingMargins": -0.01937,
+      "returnOnAssets": 0.00532,
       "returnOnEquity": -0.02933,
       "totalRevenue": 1423395840,
-      "revenuePerShare": null,
+      "revenuePerShare": 0.788,
       "totalCash": 201405120,
       "totalDebt": 8022453760,
       "debtToEquity": 50.736,
       "currentRatio": 0.279,
-      "quickRatio": 0.202,
+      "quickRatio": 0.2,
       "eps": -0.19,
       "forwardEps": null,
       "bookValue": 6.234,
@@ -37236,7 +37236,7 @@
         }
       ],
       "heldPercentInsiders": 0.60358,
-      "heldPercentInstitutions": 0.0161
+      "heldPercentInstitutions": 0.02169
     },
     {
       "code": "EUREN",
@@ -37274,19 +37274,19 @@
       "pegRatio": null,
       "priceToSales": 1.2526574,
       "enterpriseToRevenue": 1.402,
-      "enterpriseToEbitda": 13.467,
+      "enterpriseToEbitda": 11.523,
       "profitMargins": 0.0515,
-      "grossMargins": 0.15554,
-      "operatingMargins": 0.04933,
-      "returnOnAssets": 0.025339998,
+      "grossMargins": 0.15552,
+      "operatingMargins": 0.046430003,
+      "returnOnAssets": 0.031689998,
       "returnOnEquity": 0.04143,
       "totalRevenue": 7946306560,
-      "revenuePerShare": 3.476,
+      "revenuePerShare": 3.784,
       "totalCash": 1065023168,
       "totalDebt": 2250968576,
       "debtToEquity": 19.815,
       "currentRatio": 1.58,
-      "quickRatio": 1.085,
+      "quickRatio": 1.077,
       "eps": 0.19,
       "forwardEps": null,
       "bookValue": 4.872,
@@ -37301,7 +37301,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.227,
       "historicalData": [
         {
           "Close": 4.980000019073486,
@@ -37425,7 +37425,7 @@
         }
       ],
       "heldPercentInsiders": 0.4573,
-      "heldPercentInstitutions": 0.13862
+      "heldPercentInstitutions": 0.14629
     },
     {
       "code": "EUYO",
@@ -40260,7 +40260,7 @@
         }
       ],
       "heldPercentInsiders": 0.73643994,
-      "heldPercentInstitutions": 0.03536
+      "heldPercentInstitutions": 0.039419997
     },
     {
       "code": "GENTS",
@@ -41227,7 +41227,7 @@
       "averageVolume": 1266465,
       "averageVolume10days": 1280015,
       "marketCap": 8207374848,
-      "enterpriseValue": 12646317056,
+      "enterpriseValue": 12646242304,
       "sharesOutstanding": 139700000,
       "sector": "Financial Services",
       "industry": "Asset Management",
@@ -41270,7 +41270,7 @@
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 2,
-      "beta": null,
+      "beta": 0.273,
       "historicalData": [
         {
           "Close": 60.94660568237305,
@@ -42339,7 +42339,7 @@
         }
       ],
       "heldPercentInsiders": 0.40702,
-      "heldPercentInstitutions": 0.024939999
+      "heldPercentInstitutions": 0.03391
     },
     {
       "code": "GOODY",
@@ -43095,7 +43095,7 @@
         }
       ],
       "heldPercentInsiders": 0.70931,
-      "heldPercentInstitutions": 0.085039996
+      "heldPercentInstitutions": 0.089370005
     },
     {
       "code": "GSDDE",
@@ -43851,7 +43851,7 @@
         }
       ],
       "heldPercentInsiders": 0.7,
-      "heldPercentInstitutions": 0.01626
+      "heldPercentInstitutions": 0.02155
     },
     {
       "code": "GZNMI",
@@ -44645,14 +44645,14 @@
       "pegRatio": null,
       "priceToSales": 106.51725,
       "enterpriseToRevenue": 106.52,
-      "enterpriseToEbitda": 111.794,
+      "enterpriseToEbitda": 110.837,
       "profitMargins": 0.65964997,
       "grossMargins": 1.0,
-      "operatingMargins": 1.34689,
-      "returnOnAssets": 0.29818,
+      "operatingMargins": 1.16485,
+      "returnOnAssets": 0.30124,
       "returnOnEquity": 0.39909,
       "totalRevenue": 2635457280,
-      "revenuePerShare": 1.346,
+      "revenuePerShare": 1.339,
       "totalCash": 9162204,
       "totalDebt": 17415382,
       "debtToEquity": 0.286,
@@ -44672,7 +44672,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 1.584,
       "historicalData": [
         {
           "Close": 141.0,
@@ -45206,7 +45206,7 @@
       "country": "Turkey",
       "phone": "90 212 276 15 00",
       "description": "Hitit Bilgisayar Hizmetleri A.S. develops and sells airline and travel technology solutions under the Crane brand in Turkey and internationally. The company offers passenger service system (PSS), a suite of solutions comprising reservation and passenger services, internet booking engine, reservations and passenger service, mobile application, allotment manager, departure control system, weight and balance, baggage reconciliation itinerary, and loyalty layer; operations planning solutions consisting of crew tracking, schedule and capacity planning, strategic planning and operations control; and accounting solutions, such as revenue accounting, cost accounting, and business performance index. It also provides Crane TM, a travel marketplace platform that enables airlines to set up a travel marketplace for its tour operator and online travel agency (OTA) partners to create and sell leisure and business travel packages; travel solutions, including Crane OTA, multilingual and multi-currency online travel platform and Crane APP, an agent portal for airlines; and cargo solutions, such as reservation and cargo services, and domestic cargo services. In addition, the company offers technical infrastructure and hosting, consultancy and training, and after-sales support and maintenance services. It serves airlines, travel companies, and airports. The company was incorporated in 1994 and is headquartered in Istanbul, Turkey.",
-      "pe": 29.07353,
+      "pe": 29.288889,
       "forwardPE": 919.53485,
       "priceToBook": 3.754273,
       "pegRatio": null,
@@ -45225,7 +45225,7 @@
       "debtToEquity": 1.859,
       "currentRatio": 2.64,
       "quickRatio": 2.24,
-      "eps": 1.36,
+      "eps": 1.35,
       "forwardEps": null,
       "bookValue": 10.532,
       "dividendRate": null,
@@ -45603,7 +45603,7 @@
       "debtToEquity": 40.158,
       "currentRatio": 0.266,
       "quickRatio": 0.186,
-      "eps": -0.26,
+      "eps": -0.24,
       "forwardEps": null,
       "bookValue": 5.059,
       "dividendRate": null,
@@ -46897,7 +46897,7 @@
       "averageVolume": 2225564,
       "averageVolume10days": 2070047,
       "marketCap": 753575040,
-      "enterpriseValue": 952402112,
+      "enterpriseValue": 966633984,
       "sharesOutstanding": 350500000,
       "sector": "Consumer Cyclical",
       "industry": "Furnishings, Fixtures & Appliances",
@@ -46911,21 +46911,21 @@
       "forwardPE": null,
       "priceToBook": 0.37005165,
       "pegRatio": null,
-      "priceToSales": 0.20213136,
-      "enterpriseToRevenue": 0.255,
-      "enterpriseToEbitda": 4.192,
-      "profitMargins": 0.00713,
-      "grossMargins": 0.14197999,
-      "operatingMargins": 0.076469995,
-      "returnOnAssets": 0.04378,
-      "returnOnEquity": 0.014579999,
-      "totalRevenue": 3728145152,
+      "priceToSales": 0.20555477,
+      "enterpriseToRevenue": 0.264,
+      "enterpriseToEbitda": 4.285,
+      "profitMargins": -0.00234,
+      "grossMargins": 0.13889,
+      "operatingMargins": 0.05114,
+      "returnOnAssets": 0.04601,
+      "returnOnEquity": -0.00247,
+      "totalRevenue": 3666054656,
       "revenuePerShare": 10.637,
-      "totalCash": 30763322,
-      "totalDebt": 220882096,
-      "debtToEquity": 10.801,
-      "currentRatio": 4.27,
-      "quickRatio": 2.578,
+      "totalCash": 37395208,
+      "totalDebt": 240337056,
+      "debtToEquity": 10.908,
+      "currentRatio": 2.452,
+      "quickRatio": 1.071,
       "eps": -0.02,
       "forwardEps": null,
       "bookValue": 5.81,
@@ -46940,7 +46940,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.305,
+      "beta": null,
       "historicalData": [
         {
           "Close": 2.1500000953674316,
@@ -48009,7 +48009,7 @@
         }
       ],
       "heldPercentInsiders": 0.32665002,
-      "heldPercentInstitutions": 0.01559
+      "heldPercentInstitutions": 0.02553
     },
     {
       "code": "INDES",
@@ -48992,7 +48992,7 @@
       "pegRatio": null,
       "priceToSales": 87.262665,
       "enterpriseToRevenue": 84.582,
-      "enterpriseToEbitda": 23.431,
+      "enterpriseToEbitda": 23.428,
       "profitMargins": 2.68375,
       "grossMargins": 3.65189,
       "operatingMargins": 0.99036,
@@ -49019,7 +49019,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.969,
       "historicalData": [
         {
           "Close": 517.5,
@@ -49899,7 +49899,7 @@
         }
       ],
       "heldPercentInsiders": 0.94873,
-      "heldPercentInstitutions": 0.00378
+      "heldPercentInstitutions": 0.0045
     },
     {
       "code": "ISFIN",
@@ -50466,7 +50466,7 @@
         }
       ],
       "heldPercentInsiders": 0.52505,
-      "heldPercentInstitutions": 0.09759
+      "heldPercentInstitutions": 0.10431
     },
     {
       "code": "ISKPL",
@@ -52016,19 +52016,19 @@
       "pegRatio": null,
       "priceToSales": 1.8680776,
       "enterpriseToRevenue": 1.885,
-      "enterpriseToEbitda": 24.795,
+      "enterpriseToEbitda": 22.245,
       "profitMargins": -0.01497,
       "grossMargins": 0.14365,
-      "operatingMargins": 0.03235,
-      "returnOnAssets": 0.0108,
+      "operatingMargins": 0.024149999,
+      "returnOnAssets": 0.014359999,
       "returnOnEquity": -0.01495,
       "totalRevenue": 6351449600,
-      "revenuePerShare": 8.684,
+      "revenuePerShare": 9.073,
       "totalCash": 1532472192,
       "totalDebt": 1641657600,
       "debtToEquity": 22.947,
       "currentRatio": 2.474,
-      "quickRatio": 1.806,
+      "quickRatio": 1.81,
       "eps": -0.14,
       "forwardEps": null,
       "bookValue": 9.436,
@@ -52043,7 +52043,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.867,
       "historicalData": [
         {
           "Close": 17.280000686645508,
@@ -52734,7 +52734,7 @@
         }
       ],
       "heldPercentInsiders": 0.77196,
-      "heldPercentInstitutions": 0.00232
+      "heldPercentInstitutions": 0.0066799996
     },
     {
       "code": "KATMR",
@@ -53112,7 +53112,7 @@
         }
       ],
       "heldPercentInsiders": 0.59215,
-      "heldPercentInstitutions": 0.01351
+      "heldPercentInstitutions": 0.01915
     },
     {
       "code": "KBORU",
@@ -53134,7 +53134,7 @@
       "averageVolume": 13764979,
       "averageVolume10days": 7934675,
       "marketCap": 15000000512,
-      "enterpriseValue": 18381373440,
+      "enterpriseValue": 18381957120,
       "sharesOutstanding": 600000000,
       "sector": "Basic Materials",
       "industry": "Building Materials",
@@ -53150,19 +53150,19 @@
       "pegRatio": null,
       "priceToSales": 2.548636,
       "enterpriseToRevenue": 3.123,
-      "enterpriseToEbitda": 24.004,
+      "enterpriseToEbitda": 26.212,
       "profitMargins": 0.10273,
-      "grossMargins": 0.20389,
-      "operatingMargins": 0.12527001,
-      "returnOnAssets": 0.03288,
+      "grossMargins": 0.20361,
+      "operatingMargins": 0.06766,
+      "returnOnAssets": 0.02957,
       "returnOnEquity": 0.13918,
       "totalRevenue": 5885501440,
-      "revenuePerShare": 8.812,
+      "revenuePerShare": 9.809,
       "totalCash": 957306240,
-      "totalDebt": 4338679808,
-      "debtToEquity": 84.553,
+      "totalDebt": 4339264000,
+      "debtToEquity": 84.564,
       "currentRatio": 1.304,
-      "quickRatio": 0.578,
+      "quickRatio": 0.577,
       "eps": 1.0,
       "forwardEps": null,
       "bookValue": 7.412,
@@ -53177,7 +53177,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.954,
       "historicalData": [
         {
           "Close": 23.219999313354492,
@@ -53490,7 +53490,7 @@
         }
       ],
       "heldPercentInsiders": 0.74195,
-      "heldPercentInstitutions": 0.02683
+      "heldPercentInstitutions": 0.0306
     },
     {
       "code": "KENT",
@@ -55947,7 +55947,7 @@
         }
       ],
       "heldPercentInsiders": 0.73208,
-      "heldPercentInstitutions": 0.00457
+      "heldPercentInstitutions": 0.010989999
     },
     {
       "code": "KNFRT",
@@ -56357,7 +56357,7 @@
       "country": "Turkey",
       "phone": "90 332 346 03 55",
       "description": "Konya Çimento Sanayii Anonim Sirketi manufactures and sells cement, Portland cement, clinker, and ready mixed concrete in Central Anatolia and the Mediterranean Region. It also offers labor, testing and analysis services, as well as engages in collecting, transforming, and evaluating waste for material and energy industry. The company was founded in 1954 and is based in Konya, Turkey. Konya Çimento Sanayii Anonim Sirketi is a subsidiary of Parficim S.A.S.",
-      "pe": 69.020065,
+      "pe": 68.97019,
       "forwardPE": null,
       "priceToBook": 4.1404014,
       "pegRatio": null,
@@ -56376,7 +56376,7 @@
       "debtToEquity": 10.308,
       "currentRatio": 1.413,
       "quickRatio": 0.831,
-      "eps": 55.31,
+      "eps": 55.35,
       "forwardEps": null,
       "bookValue": 922.012,
       "dividendRate": null,
@@ -56703,7 +56703,7 @@
         }
       ],
       "heldPercentInsiders": 0.118990004,
-      "heldPercentInstitutions": 0.02358
+      "heldPercentInstitutions": 0.03577
     },
     {
       "code": "KOPOL",
@@ -58782,7 +58782,7 @@
         }
       ],
       "heldPercentInsiders": 0.60855997,
-      "heldPercentInstitutions": 0.0107700005
+      "heldPercentInstitutions": 0.01972
     },
     {
       "code": "KSTUR",
@@ -59916,7 +59916,7 @@
         }
       ],
       "heldPercentInsiders": 0.20222999,
-      "heldPercentInstitutions": 0.03782
+      "heldPercentInstitutions": 0.05254
     },
     {
       "code": "KZBGY",
@@ -59961,7 +59961,7 @@
       "returnOnAssets": 0.02226,
       "returnOnEquity": 0.03749,
       "totalRevenue": 1620328192,
-      "revenuePerShare": 0.484,
+      "revenuePerShare": 0.405,
       "totalCash": 15657324,
       "totalDebt": 4372940288,
       "debtToEquity": 18.18,
@@ -59981,7 +59981,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.367,
       "historicalData": [
         {
           "Close": 3.2899999618530273,
@@ -60105,7 +60105,7 @@
         }
       ],
       "heldPercentInsiders": 0.65199995,
-      "heldPercentInstitutions": 0.012180001
+      "heldPercentInstitutions": 0.017380001
     },
     {
       "code": "KZGYO",
@@ -60483,7 +60483,7 @@
         }
       ],
       "heldPercentInsiders": 0.69091004,
-      "heldPercentInstitutions": 0.06222
+      "heldPercentInstitutions": 0.06685
     },
     {
       "code": "LINK",
@@ -60672,7 +60672,7 @@
         }
       ],
       "heldPercentInsiders": 0.43304002,
-      "heldPercentInstitutions": 0.03741
+      "heldPercentInstitutions": 0.04459
     },
     {
       "code": "LKMNH",
@@ -61616,7 +61616,7 @@
           "Volume": 1652688
         }
       ],
-      "heldPercentInsiders": 0.81661004,
+      "heldPercentInsiders": 0.81836,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -61806,7 +61806,7 @@
         }
       ],
       "heldPercentInsiders": 0.7561,
-      "heldPercentInstitutions": 0.06786
+      "heldPercentInstitutions": 0.07156
     },
     {
       "code": "MAKIM",
@@ -66153,7 +66153,7 @@
         }
       ],
       "heldPercentInsiders": 0.56124,
-      "heldPercentInstitutions": 0.12234
+      "heldPercentInstitutions": 0.12928
     },
     {
       "code": "MRGYO",
@@ -66941,7 +66941,7 @@
       "country": "Turkey",
       "phone": "90 212 344 16 85",
       "description": "Metro Yatirim Ortakligi A.S. manages a portfolio of capital market instruments, and gold and other precious metals on national and international stock exchanges in Turkey. Metro Yatirim Ortakligi A.S. was incorporated in 1998 and is based in Istanbul, Turkey.",
-      "pe": null,
+      "pe": 4.245536,
       "forwardPE": null,
       "priceToBook": 0.88014805,
       "pegRatio": null,
@@ -66960,7 +66960,7 @@
       "debtToEquity": null,
       "currentRatio": 542.789,
       "quickRatio": 542.409,
-      "eps": -0.45,
+      "eps": 2.24,
       "forwardEps": null,
       "bookValue": 10.805,
       "dividendRate": 0.05,
@@ -67498,7 +67498,7 @@
       "averageVolume": 29199046,
       "averageVolume10days": 37538020,
       "marketCap": 1759319936,
-      "enterpriseValue": 0,
+      "enterpriseValue": 1743009664,
       "sharesOutstanding": 324000000,
       "sector": "Industrials",
       "industry": "Engineering & Construction",
@@ -67513,17 +67513,17 @@
       "priceToBook": 4.2421875,
       "pegRatio": null,
       "priceToSales": 15.52098,
-      "enterpriseToRevenue": null,
-      "enterpriseToEbitda": null,
+      "enterpriseToRevenue": 15.377,
+      "enterpriseToEbitda": 272.134,
       "profitMargins": 0.0,
-      "grossMargins": 0.38334,
+      "grossMargins": 0.42813,
       "operatingMargins": -0.26986,
       "returnOnAssets": null,
       "returnOnEquity": null,
       "totalRevenue": 113351088,
       "revenuePerShare": 0.35,
-      "totalCash": null,
-      "totalDebt": null,
+      "totalCash": 16310344,
+      "totalDebt": 0,
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
@@ -67541,7 +67541,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.427,
       "historicalData": [
         {
           "Close": 7.5,
@@ -67703,19 +67703,19 @@
       "pegRatio": null,
       "priceToSales": 1.0874825,
       "enterpriseToRevenue": 1.025,
-      "enterpriseToEbitda": 4.861,
+      "enterpriseToEbitda": 4.834,
       "profitMargins": 0.12291,
-      "grossMargins": 0.28159,
+      "grossMargins": 0.28179002,
       "operatingMargins": 0.28826,
       "returnOnAssets": 0.122279994,
       "returnOnEquity": 0.19192,
       "totalRevenue": 8127856128,
-      "revenuePerShare": 11.523,
+      "revenuePerShare": 11.78,
       "totalCash": 1084952832,
       "totalDebt": 578495424,
       "debtToEquity": 9.495,
       "currentRatio": 1.965,
-      "quickRatio": 1.862,
+      "quickRatio": 1.858,
       "eps": 1.45,
       "forwardEps": null,
       "bookValue": 7.307,
@@ -67730,7 +67730,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.615,
       "historicalData": [
         {
           "Close": 11.28625202178955,
@@ -68043,7 +68043,7 @@
         }
       ],
       "heldPercentInsiders": 0.68921995,
-      "heldPercentInstitutions": 0.013350001
+      "heldPercentInstitutions": 0.01775
     },
     {
       "code": "NUGYO",
@@ -68421,7 +68421,7 @@
         }
       ],
       "heldPercentInsiders": 0.60447,
-      "heldPercentInstitutions": 0.026970001
+      "heldPercentInstitutions": 0.03277
     },
     {
       "code": "OBASE",
@@ -68799,7 +68799,7 @@
         }
       ],
       "heldPercentInsiders": 0.75288004,
-      "heldPercentInstitutions": 0.05807
+      "heldPercentInstitutions": 0.11399999
     },
     {
       "code": "OFSYM",
@@ -71256,7 +71256,7 @@
         }
       ],
       "heldPercentInsiders": 0.69651,
-      "heldPercentInstitutions": 0.00903
+      "heldPercentInstitutions": 0.01349
     },
     {
       "code": "OZGYO",
@@ -71634,7 +71634,7 @@
         }
       ],
       "heldPercentInsiders": 0.73188,
-      "heldPercentInstitutions": 0.010039999
+      "heldPercentInstitutions": 0.01358
     },
     {
       "code": "OZRDN",
@@ -73335,7 +73335,7 @@
         }
       ],
       "heldPercentInsiders": 1.0000001e-05,
-      "heldPercentInstitutions": 0.2895
+      "heldPercentInstitutions": 0.29387
     },
     {
       "code": "PENGD",
@@ -74123,7 +74123,7 @@
       "country": "Turkey",
       "phone": "90 212 736 12 00",
       "description": "Plastikkart Akilli Kart Iletisim Sistemleri Sanayi ve Ticaret A.S. manufactures and sells smart cards in Turkey and internationally. It offers contact, contactless, and dual interface banking/payment cards; loyalty and transportation cards; e-government and ID cards; payphone and metering cards; SIM cards; and security solutions, such as PKI cards, readers, and tokens. The company also provides security printing; card personalization; card life cycle management and processing; server hosting; and consultancy services, including card-based projects management, printing design consultancy, and card technology training services. The company was incorporated in 2000 and is headquartered in Istanbul, Turkey. Plastikkart Akilli Kart Iletisim Sistemleri Sanayi ve Ticaret A.S. is a subsidiary of Gemalto B.V.",
-      "pe": 46.456955,
+      "pe": 36.25323,
       "forwardPE": null,
       "priceToBook": 6.9555306,
       "pegRatio": null,
@@ -74142,7 +74142,7 @@
       "debtToEquity": null,
       "currentRatio": 2.055,
       "quickRatio": 1.477,
-      "eps": 3.02,
+      "eps": 3.87,
       "forwardEps": null,
       "bookValue": 20.171,
       "dividendRate": null,
@@ -74869,7 +74869,7 @@
       "averageVolume": 4436517,
       "averageVolume10days": 10773878,
       "marketCap": 4348564480,
-      "enterpriseValue": 9800680448,
+      "enterpriseValue": 10371184640,
       "sharesOutstanding": 314657359,
       "sector": "Consumer Defensive",
       "industry": "Packaged Foods",
@@ -74883,21 +74883,21 @@
       "forwardPE": 15.704545,
       "priceToBook": 0.3971835,
       "pegRatio": null,
-      "priceToSales": 0.27437857,
-      "enterpriseToRevenue": 0.618,
-      "enterpriseToEbitda": 25.13,
-      "profitMargins": -0.05942,
-      "grossMargins": 0.096990004,
-      "operatingMargins": -0.026300002,
-      "returnOnAssets": -0.0046,
-      "returnOnEquity": -0.082100004,
-      "totalRevenue": 15848775680,
-      "revenuePerShare": 50.368,
-      "totalCash": 60423884,
-      "totalDebt": 5669868544,
-      "debtToEquity": 51.787,
-      "currentRatio": 0.885,
-      "quickRatio": 0.445,
+      "priceToSales": 0.29757664,
+      "enterpriseToRevenue": 0.71,
+      "enterpriseToEbitda": 42.976,
+      "profitMargins": -0.0719,
+      "grossMargins": 0.089499995,
+      "operatingMargins": 0.0075,
+      "returnOnAssets": -0.00977,
+      "returnOnEquity": -0.09664,
+      "totalRevenue": 14613259264,
+      "revenuePerShare": 46.442,
+      "totalCash": 236556720,
+      "totalDebt": 6258887680,
+      "debtToEquity": 53.223,
+      "currentRatio": 0.854,
+      "quickRatio": 0.456,
       "eps": -2.99,
       "forwardEps": 0.88,
       "bookValue": 34.795,
@@ -75225,7 +75225,7 @@
         }
       ],
       "heldPercentInsiders": 0.70819,
-      "heldPercentInstitutions": 0.00958
+      "heldPercentInstitutions": 0.01368
     },
     {
       "code": "POLTK",
@@ -75414,7 +75414,7 @@
         }
       ],
       "heldPercentInsiders": 0.80273,
-      "heldPercentInstitutions": 0.0066799996
+      "heldPercentInstitutions": 0.01002
     },
     {
       "code": "PRDGS",
@@ -76013,7 +76013,7 @@
       "country": "Turkey",
       "phone": "90 212 771 46 36",
       "description": "Prizma Pres Matbaacilik Yayincilik Sanayi ve Ticaret A.S. engages in the printing and publishing activities in Turkey. The company offers printing services for textbooks and supplementary textbooks, children's story and fairy tale books, and question banks and test books. It also engages in the purchasing and selling of paper; publishing and distribution of books, newspapers, and magazines; and importing and selling of printing machines. Prizma Pres Matbaacilik Yayincilik Sanayi ve Ticaret A.S. was founded in 1975 and is headquartered in Istanbul, Turkey.",
-      "pe": 76.190475,
+      "pe": 69.565216,
       "forwardPE": null,
       "priceToBook": 6.939425,
       "pegRatio": null,
@@ -76032,7 +76032,7 @@
       "debtToEquity": 6.309,
       "currentRatio": 3.635,
       "quickRatio": 0.815,
-      "eps": 0.63,
+      "eps": 0.69,
       "forwardEps": null,
       "bookValue": 6.917,
       "dividendRate": null,
@@ -76769,7 +76769,7 @@
       "country": "Turkey",
       "phone": "90 312 444 57 25",
       "description": "Ral Yatirim Holding A.S. engages in the construction, energy, properties, and education activities. It carries contracting works for residential projects, as well as large public projects. The company is also involved in the production and sale of renewable and clean energy; and produces calcites. Ral Yatirim Holding A.S. was incorporated in 1976 and is headquartered in Ankara, Turkey.",
-      "pe": 84.58904,
+      "pe": 84.87972,
       "forwardPE": null,
       "priceToBook": 11.633384,
       "pegRatio": null,
@@ -76788,7 +76788,7 @@
       "debtToEquity": 38.497,
       "currentRatio": 0.772,
       "quickRatio": 0.54,
-      "eps": 2.92,
+      "eps": 2.91,
       "forwardEps": null,
       "bookValue": 21.232,
       "dividendRate": null,
@@ -76926,7 +76926,7 @@
         }
       ],
       "heldPercentInsiders": 0.59411997,
-      "heldPercentInstitutions": 0.02095
+      "heldPercentInstitutions": 0.02386
     },
     {
       "code": "RAYSG",
@@ -76958,7 +76958,7 @@
       "country": "Turkey",
       "phone": "90 212 363 25 00",
       "description": "Ray Sigorta Anonim Sirketi engages in the non-life insurance business in Turkey. The company offers personal accidents, casco, motor third party liability, travel, workplace, cyber security, health, and home insurance. It also provides fire, TCIP, marine, casualty, engineering, liability, and agriculture insurance, as well as motor own damage; motor facultative TPL; legal protection; and company's personal accident for buses insurance products. It sells its products through agencies, agency branches, brokers, broker branches, banks, and leasing companies. The company was incorporated in 1958 and is headquartered in Istanbul, Turkey. Ray Sigorta Anonim Sirketi operates as a subsidiary of ATBIH GmbH.",
-      "pe": 7.6509786,
+      "pe": 7.657357,
       "forwardPE": null,
       "priceToBook": 3.2051506,
       "pegRatio": null,
@@ -76977,7 +76977,7 @@
       "debtToEquity": 0.246,
       "currentRatio": 1.171,
       "quickRatio": 0.947,
-      "eps": 24.01,
+      "eps": 23.99,
       "forwardEps": null,
       "bookValue": 57.314,
       "dividendRate": null,
@@ -77493,7 +77493,7 @@
         }
       ],
       "heldPercentInsiders": 0.89019996,
-      "heldPercentInstitutions": 0.00574
+      "heldPercentInstitutions": 0.0078100003
     },
     {
       "code": "RNPOL",
@@ -78816,7 +78816,7 @@
         }
       ],
       "heldPercentInsiders": 0.42663,
-      "heldPercentInstitutions": 0.28627002
+      "heldPercentInstitutions": 0.29518998
     },
     {
       "code": "SAFKR",
@@ -79949,8 +79949,8 @@
           "Volume": 13515043
         }
       ],
-      "heldPercentInsiders": 0.23663001,
-      "heldPercentInstitutions": 0.02992
+      "heldPercentInsiders": 0.2366,
+      "heldPercentInstitutions": 0.04166
     },
     {
       "code": "SAYAS",
@@ -81273,7 +81273,7 @@
         }
       ],
       "heldPercentInsiders": 0.82422996,
-      "heldPercentInstitutions": 0.01163
+      "heldPercentInstitutions": 0.01418
     },
     {
       "code": "SELVA",
@@ -82240,7 +82240,7 @@
       "averageVolume": 6823571,
       "averageVolume10days": 4117839,
       "marketCap": 1971600000,
-      "enterpriseValue": 2531387648,
+      "enterpriseValue": 2858539008,
       "sharesOutstanding": 155000000,
       "sector": "Financial Services",
       "industry": "Capital Markets",
@@ -82255,20 +82255,20 @@
       "priceToBook": 1.716136,
       "pegRatio": null,
       "priceToSales": 0.03957667,
-      "enterpriseToRevenue": 0.051,
-      "enterpriseToEbitda": 8.806,
+      "enterpriseToRevenue": 0.057,
+      "enterpriseToEbitda": 9.66,
       "profitMargins": -0.0023700001,
       "grossMargins": 0.01995,
-      "operatingMargins": 0.00411,
-      "returnOnAssets": 0.065510005,
+      "operatingMargins": 0.0040599997,
+      "returnOnAssets": 0.06779,
       "returnOnEquity": -0.10836001,
       "totalRevenue": 49817231360,
-      "revenuePerShare": 300.371,
-      "totalCash": 586973504,
-      "totalDebt": 1146761088,
-      "debtToEquity": 96.571,
+      "revenuePerShare": 321.401,
+      "totalCash": 371739968,
+      "totalDebt": 1258678784,
+      "debtToEquity": 105.996,
       "currentRatio": 1.315,
-      "quickRatio": 1.302,
+      "quickRatio": 1.195,
       "eps": -0.76,
       "forwardEps": null,
       "bookValue": 7.412,
@@ -82283,7 +82283,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.68,
       "historicalData": [
         {
           "Close": 12.479999542236328,
@@ -82785,7 +82785,7 @@
         }
       ],
       "heldPercentInsiders": 0.63455003,
-      "heldPercentInstitutions": 0.01112
+      "heldPercentInstitutions": 0.01526
     },
     {
       "code": "SNGYO",
@@ -82974,7 +82974,7 @@
         }
       ],
       "heldPercentInsiders": 0.42703998,
-      "heldPercentInstitutions": 0.01497
+      "heldPercentInstitutions": 0.023529999
     },
     {
       "code": "SNICA",
@@ -83592,7 +83592,7 @@
       "debtToEquity": null,
       "currentRatio": 16.075,
       "quickRatio": 15.976,
-      "eps": -3.04,
+      "eps": -3.05,
       "forwardEps": null,
       "bookValue": 58.866,
       "dividendRate": 0.66,
@@ -84297,7 +84297,7 @@
         }
       ],
       "heldPercentInsiders": 0.69389,
-      "heldPercentInstitutions": 0.0226
+      "heldPercentInstitutions": 0.02622
     },
     {
       "code": "SUWEN",
@@ -84486,7 +84486,7 @@
         }
       ],
       "heldPercentInsiders": 0.34974,
-      "heldPercentInstitutions": 0.17653999
+      "heldPercentInstitutions": 0.18593
     },
     {
       "code": "TARKM",
@@ -84518,7 +84518,7 @@
       "country": "Turkey",
       "phone": "90 236 234 09 09",
       "description": "Tarkim Bitki Koruma Sanayi ve Ticaret A.S. produces, sells, and markets plant protection products. The company offers fungicide, herbicide, and insecticides. It is also involved in various plant programs. The company was incorporated in 2009 and is based in Manisa, Turkey.",
-      "pe": 791.6667,
+      "pe": 767.30774,
       "forwardPE": null,
       "priceToBook": 3.866549,
       "pegRatio": null,
@@ -84537,7 +84537,7 @@
       "debtToEquity": 41.362,
       "currentRatio": 1.184,
       "quickRatio": 0.473,
-      "eps": 0.63,
+      "eps": 0.65,
       "forwardEps": null,
       "bookValue": 128.991,
       "dividendRate": null,
@@ -85053,7 +85053,7 @@
         }
       ],
       "heldPercentInsiders": 0.51931,
-      "heldPercentInstitutions": 0.00966
+      "heldPercentInstitutions": 0.022909999
     },
     {
       "code": "TBORG",
@@ -85809,7 +85809,7 @@
         }
       ],
       "heldPercentInsiders": 0.65586996,
-      "heldPercentInstitutions": 0.07356
+      "heldPercentInstitutions": 0.07772
     },
     {
       "code": "TEZOL",
@@ -86376,7 +86376,7 @@
         }
       ],
       "heldPercentInsiders": 0.68904,
-      "heldPercentInstitutions": 0.02938
+      "heldPercentInstitutions": 0.03441
     },
     {
       "code": "TKNSA",
@@ -87321,7 +87321,7 @@
         }
       ],
       "heldPercentInsiders": 0.85276,
-      "heldPercentInstitutions": 0.01811
+      "heldPercentInstitutions": 0.02042
     },
     {
       "code": "TRILC",
@@ -87888,7 +87888,7 @@
         }
       ],
       "heldPercentInsiders": 0.56058,
-      "heldPercentInstitutions": 0.06643
+      "heldPercentInstitutions": 0.07312
     },
     {
       "code": "TSPOR",
@@ -88455,7 +88455,7 @@
         }
       ],
       "heldPercentInsiders": 0.43447,
-      "heldPercentInstitutions": 0.11577
+      "heldPercentInstitutions": 0.12362
     },
     {
       "code": "TUREX",
@@ -89022,7 +89022,7 @@
         }
       ],
       "heldPercentInsiders": 0.81101996,
-      "heldPercentInstitutions": 0.02355
+      "heldPercentInstitutions": 0.02643
     },
     {
       "code": "UFUK",
@@ -89054,7 +89054,7 @@
       "country": "Turkey",
       "phone": "90 533 895 99 60",
       "description": "UFUK Yatirim Yonetim ve Gayrimenkul A.S. engages in the financial leasing business in Turkey. It also offers business management and consultancy services, such as advisory on strategic, financial, marketing, business processes, and project services, as well as on trademark and franchise issues. The company was formerly known as Fon Sinai Yatirimlar A.S. and changed its name to UFUK Yatirim Yonetim ve Gayrimenkul A.S. in May 2016. UFUK Yatirim Yonetim ve Gayrimenkul A.S. was founded in 1995 and is headquartered in Istanbul, Turkey. UFUK Yatirim Yonetim ve Gayrimenkul A.S. operates as a subsidiary of Lydia Holding A.S.",
-      "pe": 126.41003,
+      "pe": 126.63677,
       "forwardPE": null,
       "priceToBook": 26.985704,
       "pegRatio": null,
@@ -89073,7 +89073,7 @@
       "debtToEquity": null,
       "currentRatio": 25.314,
       "quickRatio": 2.553,
-      "eps": 11.17,
+      "eps": 11.15,
       "forwardEps": null,
       "bookValue": 52.324,
       "dividendRate": null,
@@ -91123,7 +91123,7 @@
       "averageVolume": 771161,
       "averageVolume10days": 846293,
       "marketCap": 1998632960,
-      "enterpriseValue": -2632660224,
+      "enterpriseValue": -2583890944,
       "sharesOutstanding": 51724455,
       "sector": "Financial Services",
       "industry": "Asset Management",
@@ -91139,17 +91139,17 @@
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": null,
-      "enterpriseToEbitda": -14.456,
+      "enterpriseToEbitda": 128.816,
       "profitMargins": 0.0,
       "grossMargins": 0.0,
       "operatingMargins": 0.0,
-      "returnOnAssets": 0.02671,
+      "returnOnAssets": -0.00356,
       "returnOnEquity": -0.01085,
       "totalRevenue": null,
       "revenuePerShare": null,
       "totalCash": 4641940480,
-      "totalDebt": 0,
-      "debtToEquity": null,
+      "totalDebt": 48769180,
+      "debtToEquity": 1.046,
       "currentRatio": 92.654,
       "quickRatio": 92.571,
       "eps": 5.23,
@@ -91166,7 +91166,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.086,
       "historicalData": [
         {
           "Close": 40.29999923706055,
@@ -91668,7 +91668,7 @@
         }
       ],
       "heldPercentInsiders": 0.77331,
-      "heldPercentInstitutions": 0.00851
+      "heldPercentInstitutions": 0.011469999
     },
     {
       "code": "VKFYO",
@@ -92235,7 +92235,7 @@
         }
       ],
       "heldPercentInsiders": 0.67577004,
-      "heldPercentInstitutions": 0.00945
+      "heldPercentInstitutions": 0.0164
     },
     {
       "code": "YAPRK",
@@ -92613,7 +92613,7 @@
         }
       ],
       "heldPercentInsiders": 0.21252,
-      "heldPercentInstitutions": 0.03286
+      "heldPercentInstitutions": 0.04976
     },
     {
       "code": "YESIL",
@@ -92635,7 +92635,7 @@
       "averageVolume": 57652102,
       "averageVolume10days": 38899664,
       "marketCap": 961049984,
-      "enterpriseValue": 960794944,
+      "enterpriseValue": 960814912,
       "sharesOutstanding": 645000000,
       "sector": "Financial Services",
       "industry": "Asset Management",
@@ -92650,20 +92650,20 @@
       "priceToBook": 0.7173809,
       "pegRatio": null,
       "priceToSales": -373.57553,
-      "enterpriseToRevenue": -373.476,
+      "enterpriseToRevenue": -373.484,
       "enterpriseToEbitda": null,
       "profitMargins": 0.0,
       "grossMargins": 0.0,
-      "operatingMargins": 1.26808,
-      "returnOnAssets": -0.0032,
-      "returnOnEquity": -0.05207,
+      "operatingMargins": 2.61828,
+      "returnOnAssets": -0.0033399998,
+      "returnOnEquity": -0.07366,
       "totalRevenue": -2572572,
       "revenuePerShare": -0.004,
-      "totalCash": 255048,
+      "totalCash": 235099,
       "totalDebt": 0,
       "debtToEquity": null,
-      "currentRatio": 106.295,
-      "quickRatio": 106.269,
+      "currentRatio": 76.645,
+      "quickRatio": 76.537,
       "eps": -0.03,
       "forwardEps": null,
       "bookValue": 2.077,
@@ -92678,7 +92678,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 1.473,
+      "beta": null,
       "historicalData": [
         {
           "Close": 1.5299999713897705,
@@ -93212,7 +93212,7 @@
       "country": "Turkey",
       "phone": "90 444 2050",
       "description": "Yukselen Celik Anonim Sirketi manufactures and sells steel products in Turkey and internationally. The company is also involved in production, import, export, domestic purchase, and sale of all kinds of iron and steel products, including carbon, manufacturing, construction, alloyed and unalloyed, tool stainless, and qualified and unqualified. It serves machinery, automotive, mold, iron and steel, shipbuilding, construction, and railway industries. The company was formerly known as Yukselen Celik Ticaret Limited Sirketi and changed its name to Yukselen Celik Anonim Sirketi in January 2013. Yukselen Celik Anonim Sirketi was founded in 1989 and is based in Istanbul, Turkey.",
-      "pe": 4.177215,
+      "pe": 4.3421054,
       "forwardPE": null,
       "priceToBook": 2.1442494,
       "pegRatio": null,
@@ -93231,7 +93231,7 @@
       "debtToEquity": 48.63,
       "currentRatio": 1.369,
       "quickRatio": 0.506,
-      "eps": 0.79,
+      "eps": 0.76,
       "forwardEps": null,
       "bookValue": 1.539,
       "dividendRate": null,
@@ -94193,7 +94193,7 @@
         }
       ],
       "heldPercentInsiders": 0.622,
-      "heldPercentInstitutions": 0.04457
+      "heldPercentInstitutions": 0.05005
     },
     {
       "code": "ZRGYO",
