@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-23T11:24:29.608723",
+  "last_update": "2026-05-23T12:14:58.123023",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -214,7 +214,7 @@
       "averageVolume": 120053480,
       "averageVolume10days": 153012791,
       "marketCap": 330719985664,
-      "enterpriseValue": 906770251776,
+      "enterpriseValue": 0,
       "sharesOutstanding": 5200000000,
       "sector": "Financial Services",
       "industry": "Banks - Regional",
@@ -229,7 +229,7 @@
       "priceToBook": 1.0929149,
       "pegRatio": 1.79,
       "priceToSales": 1.577497,
-      "enterpriseToRevenue": 4.325,
+      "enterpriseToRevenue": null,
       "enterpriseToEbitda": null,
       "profitMargins": 0.29894,
       "grossMargins": 0.0,
@@ -2709,7 +2709,7 @@
       "payoutRatio": 0.2588,
       "targetHighPrice": 1061.74,
       "targetLowPrice": 770.0,
-      "targetMeanPrice": 897.90283,
+      "targetMeanPrice": 900.0129,
       "targetMedianPrice": 890.0,
       "recommendationMean": 1.21429,
       "recommendationKey": "strong_buy",
@@ -7811,11 +7811,11 @@
       "exDividendDate": 1778025600,
       "payoutRatio": 0.406,
       "targetHighPrice": 69.0,
-      "targetLowPrice": 62.0,
-      "targetMeanPrice": 65.26143,
+      "targetLowPrice": 61.23,
+      "targetMeanPrice": 65.02286,
       "targetMedianPrice": 65.0,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 1.0,
+      "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 7,
       "beta": 0.191,
       "historicalData": [
@@ -43010,15 +43010,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.0934753417969,
+          "Close": 307.09344482421875,
           "Volume": 728698
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 565903
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 363119
         },
         {
@@ -43038,7 +43038,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.6504821777344,
+          "Close": 294.65045166015625,
           "Volume": 791784
         },
         {
@@ -63002,8 +63002,8 @@
       "targetLowPrice": 45.5,
       "targetMeanPrice": 45.5,
       "targetMedianPrice": 45.5,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 3.0,
+      "recommendationKey": "hold",
       "numberOfAnalystOpinions": 1,
       "beta": null,
       "historicalData": [
