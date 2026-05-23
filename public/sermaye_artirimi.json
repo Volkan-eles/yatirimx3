@@ -1,5 +1,32 @@
 [
   {
+    "code": "HEDEF",
+    "company": "HEDEF Hedef Holding A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%53,88",
+    "date": "21.05.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 1.050.544.100 TL"
+  },
+  {
+    "code": "LIDFA",
+    "company": "LIDFA Lider Faktoring A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%51,54",
+    "date": "22.05.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 561.198.000 TL"
+  },
+  {
+    "code": "AKFIS",
+    "company": "AKFIS Akfen İnşaat Turizm ve Ticaret A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%500",
+    "date": "18.05.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 3.182.920.390 TL"
+  },
+  {
     "code": "VAKFN",
     "company": "VAKFN Vakıf Finansal Kiralama A.Ş.",
     "type": "Bedelsiz",
@@ -160,15 +187,6 @@
     "date": "13.03.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "HEDEF",
-    "company": "HEDEF Hedef Holding A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%53,88",
-    "date": "09.03.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1.050.544.100 TL"
   },
   {
     "code": "DSTKF",
