@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-23T12:14:58.123023",
+  "last_update": "2026-05-23T14:11:46.716379",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -1738,7 +1738,7 @@
       "description": "Petkim Petrokimya Holding Anonim Sirketi operates as a petrochemical company in Turkey. It operates through the Petrochemical and Port segments. The company offers thermoplastics, such as low density polyethylene, high density polyethylene, polypropylene, masterbatches, and polyvinyl chloride; fiber raw materials, including acrylonitrile, mono-ethylene glycol, and pure terephthalic acid; aromatics, such as benzene, paraxylene, orthoxylene, and toluene; olefins comprising polymer and chemical purity propylene, and ethylene; and ACN, aromatic, LDPE, EO/EG, ethylene, chlor alkali, plastic processing, PA, PP, PTA, PVC, VCM, and HDPE plants products. Its products are used in plastics, chemicals, packaging, pipes, paints, construction, agriculture, automotive, electronics, textiles, pharmaceuticals, detergents, and cosmetics industries. The company was founded in 1965 and is based in Istanbul, Türkiye. Petkim Petrokimya Holding Anonim Sirketi is a subsidiary of Socar Turkey Petrokimya AS.",
       "pe": null,
       "forwardPE": 5.555024,
-      "priceToBook": 0.92004114,
+      "priceToBook": 0.86645025,
       "pegRatio": 1.24,
       "priceToSales": 0.63315725,
       "enterpriseToRevenue": 1.14,
@@ -1757,7 +1757,7 @@
       "quickRatio": 0.366,
       "eps": -2.59,
       "forwardEps": 4.18,
-      "bookValue": 25.238,
+      "bookValue": 26.799,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1525305600,
@@ -2333,8 +2333,8 @@
       "targetLowPrice": 249.5,
       "targetMeanPrice": 373.3909,
       "targetMedianPrice": 369.5,
-      "recommendationMean": 2.2,
-      "recommendationKey": "buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 11,
       "beta": 0.946,
       "historicalData": [
@@ -7425,7 +7425,7 @@
       "debtToEquity": 551.72,
       "currentRatio": 1.264,
       "quickRatio": 0.633,
-      "eps": -20.45,
+      "eps": -20.44,
       "forwardEps": null,
       "bookValue": 71.24,
       "dividendRate": null,
@@ -43010,15 +43010,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.09344482421875,
+          "Close": 307.0934753417969,
           "Volume": 728698
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 565903
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 363119
         },
         {
@@ -43038,7 +43038,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.65045166015625,
+          "Close": 294.6504821777344,
           "Volume": 791784
         },
         {
@@ -65996,7 +65996,7 @@
       "country": "Turkey",
       "phone": "90 212 227 55 55",
       "description": "MLP Saglik Hizmetleri A.S. provides healthcare services in Turkey and internationally. It provides treatment, laboratory, and hospital services, as well as trades in medical products. The company was formerly known as Medical Park. MLP Saglik Hizmetleri A.S. was founded in 1993 and is based in Istanbul, Turkey.",
-      "pe": 15.834174,
+      "pe": 15.850168,
       "forwardPE": 9.706185,
       "priceToBook": 2.7942328,
       "pegRatio": null,
@@ -66015,7 +66015,7 @@
       "debtToEquity": 49.96,
       "currentRatio": 1.194,
       "quickRatio": 1.035,
-      "eps": 29.73,
+      "eps": 29.7,
       "forwardEps": 48.5,
       "bookValue": 168.472,
       "dividendRate": null,
