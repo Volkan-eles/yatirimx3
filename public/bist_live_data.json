@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-24T07:39:16.725168",
+  "last_update": "2026-05-24T10:03:53.134265",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -43010,15 +43010,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.0934753417969,
+          "Close": 307.09344482421875,
           "Volume": 728698
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 565903
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 363119
         },
         {
@@ -43038,7 +43038,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.6504821777344,
+          "Close": 294.65045166015625,
           "Volume": 791784
         },
         {
@@ -92460,21 +92460,21 @@
       "forwardPE": 56.486485,
       "priceToBook": 0.5972623,
       "pegRatio": null,
-      "priceToSales": 0.26448762,
-      "enterpriseToRevenue": 0.587,
-      "enterpriseToEbitda": 4.198,
-      "profitMargins": 0.00815,
-      "grossMargins": 0.343,
+      "priceToSales": 0.26521575,
+      "enterpriseToRevenue": 0.589,
+      "enterpriseToEbitda": 3.861,
+      "profitMargins": 0.005,
+      "grossMargins": 0.34326,
       "operatingMargins": 0.00861,
-      "returnOnAssets": 0.04501,
-      "returnOnEquity": 0.01802,
-      "totalRevenue": 22720538624,
+      "returnOnAssets": 0.06384,
+      "returnOnEquity": 0.01204,
+      "totalRevenue": 22658162688,
       "revenuePerShare": null,
       "totalCash": 1161763712,
       "totalDebt": 8498631680,
       "debtToEquity": 71.397,
-      "currentRatio": 1.553,
-      "quickRatio": 0.572,
+      "currentRatio": 1.286,
+      "quickRatio": 0.521,
       "eps": 0.76,
       "forwardEps": 0.74,
       "bookValue": 69.986,
