@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-24T21:32:58.482876",
+  "last_update": "2026-05-24T23:03:42.551613",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.147694,
-      "targetLowPrice": 35.2831,
-      "targetMeanPrice": 44.534863,
-      "targetMedianPrice": 46.251938,
+      "targetHighPrice": 52.109356,
+      "targetLowPrice": 35.257164,
+      "targetMeanPrice": 44.50212,
+      "targetMedianPrice": 46.217937,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.3,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 584.03217,
-      "targetLowPrice": 379.47998,
-      "targetMeanPrice": 446.03763,
-      "targetMedianPrice": 430.9637,
+      "targetHighPrice": 587.2496,
+      "targetLowPrice": 381.57053,
+      "targetMeanPrice": 448.49484,
+      "targetMedianPrice": 433.3379,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -43010,15 +43010,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.09344482421875,
+          "Close": 307.0934753417969,
           "Volume": 728698
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 565903
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 363119
         },
         {
@@ -43038,7 +43038,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.65045166015625,
+          "Close": 294.6504821777344,
           "Volume": 791784
         },
         {
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.14845,
-      "targetLowPrice": 61.20718,
-      "targetMeanPrice": 66.581985,
-      "targetMedianPrice": 61.389885,
+      "targetHighPrice": 77.138824,
+      "targetLowPrice": 61.199543,
+      "targetMeanPrice": 66.573685,
+      "targetMedianPrice": 61.382225,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
