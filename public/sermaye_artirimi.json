@@ -1,5 +1,14 @@
 [
   {
+    "code": "ENTRA",
+    "company": "ENTRA Ic Enterra Yenilenebilir Enerji A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "01.06.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 01.06.2026"
+  },
+  {
     "code": "HEDEF",
     "company": "HEDEF Hedef Holding A.Ş.",
     "type": "Bedelsiz",
@@ -261,15 +270,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "ENTRA",
-    "company": "ENTRA Ic Enterra Yenilenebilir Enerji A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "23.09.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "REEDR",
     "company": "REEDR Reeder Teknoloji San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -286,6 +286,15 @@
     "date": "08.05.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "ENTRA",
+    "company": "ENTRA Ic Enterra Yenilenebilir Enerji A.Ş.",
+    "type": "Bedelli",
+    "rate": "%19",
+    "date": "01.06.2026 Bitiş : 15.06.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 01.06.2026 Bitiş : 15.06.2026 | Tutar: 350.550.000 TL"
   },
   {
     "code": "ALVES",
@@ -502,15 +511,6 @@
     "date": "24.09.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "ENTRA",
-    "company": "ENTRA Ic Enterra Yenilenebilir Enerji A.Ş.",
-    "type": "Bedelli",
-    "rate": "%19",
-    "date": "23.09.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 350.550.000 TL"
   },
   {
     "code": "BAGFS",
