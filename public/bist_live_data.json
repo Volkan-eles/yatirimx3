@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-05-28T12:34:53.583580",
+  "last_update": "2026-05-28T16:59:33.097598",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 500,
-  "successful": 500,
-  "failed": 31,
+  "total_stocks": 499,
+  "successful": 499,
+  "failed": 32,
   "stocks": [
     {
       "code": "GARAN",
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.36711,
-      "targetLowPrice": 35.43156,
-      "targetMeanPrice": 44.722248,
-      "targetMedianPrice": 46.44655,
+      "targetHighPrice": 52.365852,
+      "targetLowPrice": 35.43071,
+      "targetMeanPrice": 44.721172,
+      "targetMedianPrice": 46.445435,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.43,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 586.0315,
-      "targetLowPrice": 380.77905,
-      "targetMeanPrice": 443.99582,
-      "targetMedianPrice": 428.0629,
+      "targetHighPrice": 587.4027,
+      "targetLowPrice": 381.67,
+      "targetMeanPrice": 445.03467,
+      "targetMedianPrice": 429.06448,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -19282,195 +19282,6 @@
       ],
       "heldPercentInsiders": 0.84713995,
       "heldPercentInstitutions": 0.0092400005
-    },
-    {
-      "code": "BAYRK",
-      "symbol": "BAYRK.IS",
-      "name": "Bayrak EBT Taban Sanayi ve Ticaret Anonim Sirketi",
-      "shortName": "BAYRAK TABAN SANAYI",
-      "price": 5.35,
-      "change": -0.2,
-      "changeRate": -3.6,
-      "previousClose": 5.55,
-      "open": 5.55,
-      "dayLow": 5.34,
-      "dayHigh": 5.86,
-      "fiftyTwoWeekLow": 4.04,
-      "fiftyTwoWeekHigh": 9.33,
-      "fiftyDayAverage": 4.83,
-      "twoHundredDayAverage": 5.77,
-      "volume": "24,154,797",
-      "averageVolume": 17113832,
-      "averageVolume10days": 32201918,
-      "marketCap": 1337500032,
-      "enterpriseValue": 1519903360,
-      "sharesOutstanding": 249999992,
-      "sector": "Consumer Cyclical",
-      "industry": "Footwear & Accessories",
-      "website": "https://bayrakebt.com.tr",
-      "address": "Ikitelli OSB Mah.",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 886 46 70",
-      "description": "Bayrak EBT Taban Sanayi ve Ticaret Anonim Sirketi manufactures and sells PVC and thermo shoe soles in Turkey. The company offers faylon, single color, single painted sole, single TPU, bottom piece, painted base with bottom piece, TPU sole with bottom piece, and winter soles. It offers soles for men, women, and children. The company was incorporated in 1993 and is headquartered in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 6.3089623,
-      "pegRatio": null,
-      "priceToSales": 5.716917,
-      "enterpriseToRevenue": 6.497,
-      "enterpriseToEbitda": -24.045,
-      "profitMargins": -0.66869,
-      "grossMargins": 0.08845,
-      "operatingMargins": 0.00656,
-      "returnOnAssets": -0.11432999,
-      "returnOnEquity": -0.90307,
-      "totalRevenue": 233954768,
-      "revenuePerShare": 0.923,
-      "totalCash": 26157620,
-      "totalDebt": 208560992,
-      "debtToEquity": 87.66,
-      "currentRatio": 0.767,
-      "quickRatio": 0.323,
-      "eps": -0.78,
-      "forwardEps": null,
-      "bookValue": 0.848,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": null,
-      "historicalData": [
-        {
-          "Close": 4.679999828338623,
-          "Volume": 8657621
-        },
-        {
-          "Close": 4.619999885559082,
-          "Volume": 13274243
-        },
-        {
-          "Close": 4.730000019073486,
-          "Volume": 14768405
-        },
-        {
-          "Close": 4.920000076293945,
-          "Volume": 25481938
-        },
-        {
-          "Close": 5.070000171661377,
-          "Volume": 27012701
-        },
-        {
-          "Close": 5.079999923706055,
-          "Volume": 37258388
-        },
-        {
-          "Close": 4.909999847412109,
-          "Volume": 13164687
-        },
-        {
-          "Close": 4.920000076293945,
-          "Volume": 10595759
-        },
-        {
-          "Close": 4.800000190734863,
-          "Volume": 8103859
-        },
-        {
-          "Close": 4.769999980926514,
-          "Volume": 5034080
-        },
-        {
-          "Close": 4.78000020980835,
-          "Volume": 6070776
-        },
-        {
-          "Close": 4.599999904632568,
-          "Volume": 8838801
-        },
-        {
-          "Close": 4.599999904632568,
-          "Volume": 4228821
-        },
-        {
-          "Close": 4.920000076293945,
-          "Volume": 19166310
-        },
-        {
-          "Close": 4.920000076293945,
-          "Volume": 27241434
-        },
-        {
-          "Close": 4.869999885559082,
-          "Volume": 13464874
-        },
-        {
-          "Close": 5.0,
-          "Volume": 16709383
-        },
-        {
-          "Close": 5.050000190734863,
-          "Volume": 14155441
-        },
-        {
-          "Close": 5.090000152587891,
-          "Volume": 25719747
-        },
-        {
-          "Close": 5.010000228881836,
-          "Volume": 13176230
-        },
-        {
-          "Close": 5.010000228881836,
-          "Volume": 14877990
-        },
-        {
-          "Close": 4.849999904632568,
-          "Volume": 10994584
-        },
-        {
-          "Close": 4.909999847412109,
-          "Volume": 11821355
-        },
-        {
-          "Close": 5.139999866485596,
-          "Volume": 19397403
-        },
-        {
-          "Close": 5.03000020980835,
-          "Volume": 40720032
-        },
-        {
-          "Close": 5.079999923706055,
-          "Volume": 28988823
-        },
-        {
-          "Close": 5.099999904632568,
-          "Volume": 46429577
-        },
-        {
-          "Close": 5.610000133514404,
-          "Volume": 58574574
-        },
-        {
-          "Close": 5.550000190734863,
-          "Volume": 66060054
-        },
-        {
-          "Close": 5.349999904632568,
-          "Volume": 24154797
-        }
-      ],
-      "heldPercentInsiders": 0.24097,
-      "heldPercentInstitutions": 0.14163
     },
     {
       "code": "BEGYO",
@@ -45232,10 +45043,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.51953,
-      "targetLowPrice": 61.501583,
-      "targetMeanPrice": 66.902245,
-      "targetMedianPrice": 61.685165,
+      "targetHighPrice": 77.51649,
+      "targetLowPrice": 61.49917,
+      "targetMeanPrice": 66.89962,
+      "targetMedianPrice": 61.682747,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
@@ -52012,7 +51823,7 @@
       "description": "Jantsa Jant Sanayi ve Ticaret A.S. manufactures and sells wheels for commercial, agricultural, industrial, and military applications in Turkey, Europe, the United States, Canada, and internationally. The company offers agricultural and multi-purpose wheels for tractors, implements, trailers, forestry, harvesters, sprayers, and row-cop; industrial wheels for construction, material handling, earthmoving, and mining; commercial wheels for trucks, buses, and trailers; and military wheels. It also provides light commercial type and agricultural type rims, heavy duty rims, rim lock ring profile, rim ring profile, hydraulic press, and various mold production. The company was incorporated in 1977 and is headquartered in Aydin, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.8387029,
+      "priceToBook": 1.6976516,
       "pegRatio": null,
       "priceToSales": 1.912162,
       "enterpriseToRevenue": 1.945,
@@ -52031,7 +51842,7 @@
       "quickRatio": 1.81,
       "eps": -0.14,
       "forwardEps": null,
-      "bookValue": 9.436,
+      "bookValue": 10.22,
       "dividendRate": 0.03,
       "dividendYield": 0.18,
       "exDividendDate": 1746489600,
@@ -55414,7 +55225,7 @@
       "description": "Kaleseramik Canakkale Kalebodur Seramik Sanayi A.S. operates in the ceramic industry in Turkey. It offers floor and kitchen ceramics; urinals; kitchen countertops, faucets, and taps; sinks; shower heads; concealed cisterns; bathroom models, products, and accessories; armatures; bathroom cabinets, furniture, ceramics; and toilet seats under the Canakkale Ceramics, Kalebodur, T-ONE, and Kalekim brands. The company was founded in 1957 and is headquartered in Istanbul, Turkey. Kaleseramik Canakkale Kalebodur Seramik Sanayi A.S. operates as a subsidiary of Canakkale Seramik Fabrikalari A.S.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 7.684269,
+      "priceToBook": 7.142127,
       "pegRatio": null,
       "priceToSales": 0.9644381,
       "enterpriseToRevenue": 3.529,
@@ -55433,7 +55244,7 @@
       "quickRatio": 0.465,
       "eps": -2.17,
       "forwardEps": null,
-      "bookValue": 3.636,
+      "bookValue": 3.912,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1719273600,
