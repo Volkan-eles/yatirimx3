@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-28T04:52:55.345439",
+  "last_update": "2026-05-28T08:47:19.528181",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -192,7 +192,7 @@
         }
       ],
       "heldPercentInsiders": 0.85974,
-      "heldPercentInstitutions": 0.029790001
+      "heldPercentInstitutions": 0.02967
     },
     {
       "code": "AKBNK",
@@ -381,7 +381,7 @@
         }
       ],
       "heldPercentInsiders": 0.41277,
-      "heldPercentInstitutions": 0.20358999
+      "heldPercentInstitutions": 0.20378
     },
     {
       "code": "YKBNK",
@@ -437,7 +437,7 @@
       "bookValue": 32.097,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1712102400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 58.3,
       "targetLowPrice": 27.1,
@@ -570,7 +570,7 @@
         }
       ],
       "heldPercentInsiders": 0.61166,
-      "heldPercentInstitutions": 0.14607
+      "heldPercentInstitutions": 0.14603
     },
     {
       "code": "ISCTR",
@@ -626,7 +626,7 @@
       "bookValue": 16.842,
       "dividendRate": 0.54,
       "dividendYield": 4.11,
-      "exDividendDate": 1775001600,
+      "exDividendDate": null,
       "payoutRatio": 0.17709999,
       "targetHighPrice": 24.46,
       "targetLowPrice": 13.5,
@@ -759,7 +759,7 @@
         }
       ],
       "heldPercentInsiders": 0.66977996,
-      "heldPercentInstitutions": 0.06376
+      "heldPercentInstitutions": 0.06394
     },
     {
       "code": "VAKBN",
@@ -948,7 +948,7 @@
         }
       ],
       "heldPercentInsiders": 0.89539003,
-      "heldPercentInstitutions": 0.0094
+      "heldPercentInstitutions": 0.009430001
     },
     {
       "code": "HALKB",
@@ -1004,7 +1004,7 @@
       "bookValue": 31.464,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1534291200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 48.8,
       "targetLowPrice": 22.8,
@@ -1193,7 +1193,7 @@
       "bookValue": 15.808,
       "dividendRate": 6.88,
       "dividendYield": 2.32,
-      "exDividendDate": 1756771200,
+      "exDividendDate": null,
       "payoutRatio": 0.8053,
       "targetHighPrice": 650.0,
       "targetLowPrice": 320.0,
@@ -1571,7 +1571,7 @@
       "bookValue": 183.554,
       "dividendRate": 13.49,
       "dividendYield": 5.71,
-      "exDividendDate": 1790726400,
+      "exDividendDate": null,
       "payoutRatio": 1.0362,
       "targetHighPrice": 359.0,
       "targetLowPrice": 250.0,
@@ -1704,7 +1704,7 @@
         }
       ],
       "heldPercentInsiders": 0.50668997,
-      "heldPercentInstitutions": 0.11431
+      "heldPercentInstitutions": 0.11553001
     },
     {
       "code": "PETKM",
@@ -2082,7 +2082,7 @@
         }
       ],
       "heldPercentInsiders": 0.49542,
-      "heldPercentInstitutions": 0.083950005
+      "heldPercentInstitutions": 0.083979994
     },
     {
       "code": "KRDMD",
@@ -2138,12 +2138,12 @@
       "bookValue": 74.257,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1701129600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.366993,
-      "targetLowPrice": 35.43148,
-      "targetMeanPrice": 44.722145,
-      "targetMedianPrice": 46.446445,
+      "targetHighPrice": 52.364944,
+      "targetLowPrice": 35.43009,
+      "targetMeanPrice": 44.720394,
+      "targetMedianPrice": 46.444626,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -2271,7 +2271,7 @@
         }
       ],
       "heldPercentInsiders": 0.0,
-      "heldPercentInstitutions": 0.11455
+      "heldPercentInstitutions": 0.11665
     },
     {
       "code": "ASELS",
@@ -2648,8 +2648,8 @@
           "Volume": 6394478
         }
       ],
-      "heldPercentInsiders": 0.27548,
-      "heldPercentInstitutions": 0.2346
+      "heldPercentInsiders": 0.27561,
+      "heldPercentInstitutions": 0.23479
     },
     {
       "code": "MGROS",
@@ -2705,7 +2705,7 @@
       "bookValue": 487.937,
       "dividendRate": 15.05,
       "dividendYield": 2.28,
-      "exDividendDate": 1778630400,
+      "exDividendDate": null,
       "payoutRatio": 0.2588,
       "targetHighPrice": 1061.74,
       "targetLowPrice": 770.0,
@@ -2838,7 +2838,7 @@
         }
       ],
       "heldPercentInsiders": 0.49181998,
-      "heldPercentInstitutions": 0.097270004
+      "heldPercentInstitutions": 0.09809
     },
     {
       "code": "SOKM",
@@ -2894,7 +2894,7 @@
       "bookValue": 64.272,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1727740800,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 98.19,
       "targetLowPrice": 72.0,
@@ -3216,7 +3216,7 @@
         }
       ],
       "heldPercentInsiders": 0.8668,
-      "heldPercentInstitutions": 0.023440002
+      "heldPercentInstitutions": 0.02348
     },
     {
       "code": "TCELL",
@@ -3650,7 +3650,7 @@
       "bookValue": 120.811,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1695600000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 245.0,
       "targetLowPrice": 130.0,
@@ -3972,7 +3972,7 @@
         }
       ],
       "heldPercentInsiders": 0.5277,
-      "heldPercentInstitutions": 0.021470001
+      "heldPercentInstitutions": 0.023120001
     },
     {
       "code": "SAHOL",
@@ -4350,7 +4350,7 @@
         }
       ],
       "heldPercentInsiders": 0.57186,
-      "heldPercentInstitutions": 0.0866
+      "heldPercentInstitutions": 0.08632
     },
     {
       "code": "DOHOL",
@@ -4406,7 +4406,7 @@
       "bookValue": 32.543,
       "dividendRate": 0.31,
       "dividendYield": 1.3,
-      "exDividendDate": 1759190400,
+      "exDividendDate": null,
       "payoutRatio": 0.2805,
       "targetHighPrice": 31.9,
       "targetLowPrice": 25.98,
@@ -4595,7 +4595,7 @@
       "bookValue": 46.86,
       "dividendRate": 9.69,
       "dividendYield": 11.52,
-      "exDividendDate": 1773619200,
+      "exDividendDate": null,
       "payoutRatio": 1.0964,
       "targetHighPrice": 227.0,
       "targetLowPrice": 113.0,
@@ -4728,7 +4728,7 @@
         }
       ],
       "heldPercentInsiders": 0.79687,
-      "heldPercentInstitutions": 0.05632
+      "heldPercentInstitutions": 0.056160003
     },
     {
       "code": "TOASO",
@@ -4917,7 +4917,7 @@
         }
       ],
       "heldPercentInsiders": 0.75478995,
-      "heldPercentInstitutions": 0.05623
+      "heldPercentInstitutions": 0.056339998
     },
     {
       "code": "TMSN",
@@ -5106,7 +5106,7 @@
         }
       ],
       "heldPercentInsiders": 0.71305,
-      "heldPercentInstitutions": 0.0146
+      "heldPercentInstitutions": 0.01356
     },
     {
       "code": "TAVHL",
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.43,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 584.1079,
-      "targetLowPrice": 379.5292,
-      "targetMeanPrice": 442.53848,
-      "targetMedianPrice": 426.65784,
+      "targetHighPrice": 585.1204,
+      "targetLowPrice": 380.18707,
+      "targetMeanPrice": 443.30554,
+      "targetMedianPrice": 427.3974,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -5484,7 +5484,7 @@
         }
       ],
       "heldPercentInsiders": 0.49338,
-      "heldPercentInstitutions": 0.079619996
+      "heldPercentInstitutions": 0.07961
     },
     {
       "code": "ENJSA",
@@ -5673,7 +5673,7 @@
         }
       ],
       "heldPercentInsiders": 0.8,
-      "heldPercentInstitutions": 0.03264
+      "heldPercentInstitutions": 0.0327
     },
     {
       "code": "SASA",
@@ -5918,7 +5918,7 @@
       "bookValue": 89.218,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1469750400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -6107,7 +6107,7 @@
       "bookValue": 0.018,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1575244800,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 4.3,
       "targetLowPrice": 4.3,
@@ -6618,7 +6618,7 @@
         }
       ],
       "heldPercentInsiders": 0.354,
-      "heldPercentInstitutions": 0.10989001
+      "heldPercentInstitutions": 0.11061
     },
     {
       "code": "NETAS",
@@ -7185,7 +7185,7 @@
         }
       ],
       "heldPercentInsiders": 0.47233,
-      "heldPercentInstitutions": 0.085530005
+      "heldPercentInstitutions": 0.08586001
     },
     {
       "code": "TTRAK",
@@ -7241,7 +7241,7 @@
       "bookValue": 167.036,
       "dividendRate": 75.45,
       "dividendYield": 16.96,
-      "exDividendDate": 1743552000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 750.0,
       "targetLowPrice": 500.0,
@@ -7374,7 +7374,7 @@
         }
       ],
       "heldPercentInsiders": 0.75,
-      "heldPercentInstitutions": 0.05154
+      "heldPercentInstitutions": 0.05131
     },
     {
       "code": "OTKAR",
@@ -7412,25 +7412,25 @@
       "pegRatio": null,
       "priceToSales": 0.8666576,
       "enterpriseToRevenue": 1.502,
-      "enterpriseToEbitda": 182.071,
+      "enterpriseToEbitda": 306.099,
       "profitMargins": -0.04803,
       "grossMargins": 0.17312999,
-      "operatingMargins": -0.19264999,
-      "returnOnAssets": -0.0047999998,
+      "operatingMargins": -0.22148001,
+      "returnOnAssets": -0.0052300002,
       "returnOnEquity": -0.30212,
       "totalRevenue": 51092840448,
-      "revenuePerShare": 433.02,
+      "revenuePerShare": 425.774,
       "totalCash": 10726622208,
       "totalDebt": 43169148928,
       "debtToEquity": 551.72,
       "currentRatio": 1.264,
-      "quickRatio": 0.633,
+      "quickRatio": 0.683,
       "eps": -20.44,
       "forwardEps": null,
       "bookValue": 71.24,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1712102400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 700.0,
       "targetLowPrice": 460.0,
@@ -7439,7 +7439,7 @@
       "recommendationMean": 2.6,
       "recommendationKey": "hold",
       "numberOfAnalystOpinions": 4,
-      "beta": null,
+      "beta": 0.407,
       "historicalData": [
         {
           "Close": 394.0,
@@ -7563,7 +7563,7 @@
         }
       ],
       "heldPercentInsiders": 0.72186995,
-      "heldPercentInstitutions": 0.03985
+      "heldPercentInstitutions": 0.0398
     },
     {
       "code": "ALARK",
@@ -7619,7 +7619,7 @@
       "bookValue": 180.448,
       "dividendRate": 3.19,
       "dividendYield": 3.32,
-      "exDividendDate": 1777852800,
+      "exDividendDate": null,
       "payoutRatio": 0.6202,
       "targetHighPrice": 158.57,
       "targetLowPrice": 130.0,
@@ -7941,7 +7941,7 @@
         }
       ],
       "heldPercentInsiders": 0.27186,
-      "heldPercentInstitutions": 0.19073999
+      "heldPercentInstitutions": 0.19088
     },
     {
       "code": "KARSN",
@@ -8130,7 +8130,7 @@
         }
       ],
       "heldPercentInsiders": 0.58515,
-      "heldPercentInstitutions": 0.01713
+      "heldPercentInstitutions": 0.01764
     },
     {
       "code": "ODAS",
@@ -8186,7 +8186,7 @@
       "bookValue": 11.101,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1432857600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -8319,7 +8319,7 @@
         }
       ],
       "heldPercentInsiders": 0.21551001,
-      "heldPercentInstitutions": 0.05084
+      "heldPercentInstitutions": 0.05145
     },
     {
       "code": "SKBNK",
@@ -8508,7 +8508,7 @@
         }
       ],
       "heldPercentInsiders": 0.43174,
-      "heldPercentInstitutions": 0.15725
+      "heldPercentInstitutions": 0.15718001
     },
     {
       "code": "AGHOL",
@@ -8719,41 +8719,41 @@
       "averageVolume": 28463721,
       "averageVolume10days": 29253989,
       "marketCap": 40481697792,
-      "enterpriseValue": 64455573504,
+      "enterpriseValue": 60489162752,
       "sharesOutstanding": 3885000000,
       "sector": "Consumer Cyclical",
       "industry": "Textile Manufacturing",
       "website": "https://www.aksa.com",
-      "address": "Merkez Mahallesi Ali Raif Dinçkök Caddesi No:2",
+      "address": "Merkez Mahallesi Ali Raif Dinçkök Caddes",
       "city": "Yalova",
       "country": "Turkey",
       "phone": "90 226 353 25 45",
-      "description": "Aksa Akrilik Kimya Sanayii A.S., together with its subsidiaries, manufactures and sells textiles, chemicals, and other industrial products in Turkey and internationally. It operates through three segments: Fibers, Energy, and Other. The company offers acrylic fibers, textile fibers, outdoor fibers, industrial fibers, acrylic filament yarns, modacrylic, recycled fiber, knitting, hand knitting, carpet, home textiles and upholstery, toy/hi-pile, UV resistant, and technical application products, as well as protective garments. It also provides raw and auxiliary materials, as well as intermediate substances; artificial, synthetic and natural fibers, carbon fibers, and filament and polymers; and equipment, machinery, and spare parts used in production, processing, and storage activity. In addition, the company engages in marketing and trading activities; generation and sale of electricity; start-up and rental of energy generation pants; and import and export of its products to domestic, foreign, and international branches, as well as rents real estate. Aksa Akrilik Kimya Sanayii A.S. was founded in 1968 and is headquartered in Yalova, Turkey.",
+      "description": "Aksa Akrilik Kimya Sanayii A.S., together with its subsidiaries, manufactures and sells textiles, chemicals, and other industrial products in Turkey and internationally. It operates through Fibers, Energy, Advanced Material, and Other segments. The company offers acrylic fibers, textile fibers, outdoor fibers, industrial fibers, acrylic filament, modacrylic fibers, recycled fiber, aksafil yarn, acrybella, and polyethylene fiber. It also provides textile and technical textile raw materials for carpets, upholstery, sweaters, socks, velvet, rugs, blankets, tents, and industrial filters; carbon fiber and carbon fiber-reinforced composite solutions; artificial, synthetic, natural fibers, carbon fibers, filaments, yarns, and polymers. In addition, the company is involved in production, processing, storage, import, export, marketing, and trading of products, raw materials, auxiliary materials, and intermediates; production, supply, and trading of machinery, equipment, facilities, and spare parts; establishment, operation, and leasing of power generation facilities; production and sale of electricity, as well as production, supply, trading, import, export, and research and development activities related to aircraft, helicopters, display aircraft, gliders, motorized and non-motorized parachutes, and other equipment for the aviation and defense industries. Aksa Akrilik Kimya Sanayii A.S. was founded in 1968 and is headquartered in Yalova, Turkey.",
       "pe": 9.303572,
       "forwardPE": 16.806452,
-      "priceToBook": 1.2370889,
+      "priceToBook": 1.2029555,
       "pegRatio": 0.32,
-      "priceToSales": 1.247732,
-      "enterpriseToRevenue": 1.987,
-      "enterpriseToEbitda": 10.752,
-      "profitMargins": 0.123789996,
-      "grossMargins": 0.1519,
-      "operatingMargins": -0.03255,
-      "returnOnAssets": 0.026619999,
-      "returnOnEquity": 0.12087,
-      "totalRevenue": 32444223488,
-      "revenuePerShare": 8.351,
-      "totalCash": 5259785216,
-      "totalDebt": 26183315456,
-      "debtToEquity": 77.839,
-      "currentRatio": 0.848,
-      "quickRatio": 0.515,
+      "priceToSales": 1.186451,
+      "enterpriseToRevenue": 1.773,
+      "enterpriseToEbitda": 8.997,
+      "profitMargins": 0.12903,
+      "grossMargins": 0.15586,
+      "operatingMargins": 0.06914,
+      "returnOnAssets": 0.02851,
+      "returnOnEquity": 0.13522,
+      "totalRevenue": 34119991296,
+      "revenuePerShare": 8.782,
+      "totalCash": 9910402048,
+      "totalDebt": 28971091968,
+      "debtToEquity": 83.739,
+      "currentRatio": 0.89,
+      "quickRatio": 0.569,
       "eps": 1.12,
       "forwardEps": 0.62,
-      "bookValue": 8.423,
+      "bookValue": 8.662,
       "dividendRate": 0.58,
-      "dividendYield": 5.29,
-      "exDividendDate": 1775174400,
+      "dividendYield": 5.57,
+      "exDividendDate": null,
       "payoutRatio": 0.9464,
       "targetHighPrice": 15.5,
       "targetLowPrice": 14.7,
@@ -8886,7 +8886,7 @@
         }
       ],
       "heldPercentInsiders": 0.65073997,
-      "heldPercentInstitutions": 0.057729997
+      "heldPercentInstitutions": 0.05881
     },
     {
       "code": "AKSEN",
@@ -8942,7 +8942,7 @@
       "bookValue": 127.693,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1717632000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 117.5,
       "targetLowPrice": 75.4,
@@ -9320,7 +9320,7 @@
       "bookValue": 7.876,
       "dividendRate": 0.05,
       "dividendYield": 0.7,
-      "exDividendDate": 1778544000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -9453,7 +9453,7 @@
         }
       ],
       "heldPercentInsiders": 0.56214,
-      "heldPercentInstitutions": 0.00592
+      "heldPercentInstitutions": 0.0064600003
     },
     {
       "code": "ASUZU",
@@ -9698,7 +9698,7 @@
       "bookValue": 52.646,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1722297600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 45.0,
       "targetLowPrice": 40.3,
@@ -9831,7 +9831,7 @@
         }
       ],
       "heldPercentInsiders": 0.81557,
-      "heldPercentInstitutions": 0.01058
+      "heldPercentInstitutions": 0.010670001
     },
     {
       "code": "BAGFS",
@@ -10020,7 +10020,7 @@
         }
       ],
       "heldPercentInsiders": 0.43887,
-      "heldPercentInstitutions": 0.0207
+      "heldPercentInstitutions": 0.01865
     },
     {
       "code": "BIOEN",
@@ -10398,7 +10398,7 @@
         }
       ],
       "heldPercentInsiders": 0.69369006,
-      "heldPercentInstitutions": 0.0110599995
+      "heldPercentInstitutions": 0.00969
     },
     {
       "code": "BRISA",
@@ -10643,7 +10643,7 @@
       "bookValue": 1245.294,
       "dividendRate": 166.15,
       "dividendYield": 8.59,
-      "exDividendDate": 1775606400,
+      "exDividendDate": null,
       "payoutRatio": 0.35509998,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -10965,7 +10965,7 @@
         }
       ],
       "heldPercentInsiders": 0.54457,
-      "heldPercentInstitutions": 0.02384
+      "heldPercentInstitutions": 0.02419
     },
     {
       "code": "CEMTS",
@@ -11343,7 +11343,7 @@
         }
       ],
       "heldPercentInsiders": 0.63519,
-      "heldPercentInstitutions": 0.03827
+      "heldPercentInstitutions": 0.038039997
     },
     {
       "code": "ADEL",
@@ -11399,7 +11399,7 @@
       "bookValue": 4.678,
       "dividendRate": 0.58,
       "dividendYield": 1.74,
-      "exDividendDate": 1758844800,
+      "exDividendDate": null,
       "payoutRatio": 2.775,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -12099,7 +12099,7 @@
         }
       ],
       "heldPercentInsiders": 0.8,
-      "heldPercentInstitutions": 0.06607
+      "heldPercentInstitutions": 0.06638
     },
     {
       "code": "AKENR",
@@ -12121,7 +12121,7 @@
       "averageVolume": 14482349,
       "averageVolume10days": 39075936,
       "marketCap": 8939550720,
-      "enterpriseValue": 32321767424,
+      "enterpriseValue": 917337276416,
       "sharesOutstanding": 729164000,
       "sector": "Utilities",
       "industry": "Utilities - Regulated Electric",
@@ -12136,15 +12136,15 @@
       "priceToBook": 0.6944602,
       "pegRatio": 0.53,
       "priceToSales": 0.4303136,
-      "enterpriseToRevenue": 1.556,
-      "enterpriseToEbitda": 44.688,
+      "enterpriseToRevenue": 44.157,
+      "enterpriseToEbitda": 1235.253,
       "profitMargins": -0.24645,
       "grossMargins": -0.023440002,
-      "operatingMargins": 0.01244,
-      "returnOnAssets": -0.020450002,
+      "operatingMargins": 0.01386,
+      "returnOnAssets": -0.02014,
       "returnOnEquity": -0.34507,
       "totalRevenue": 20774502400,
-      "revenuePerShare": 31.146,
+      "revenuePerShare": 28.675,
       "totalCash": 528792000,
       "totalDebt": 23911008256,
       "debtToEquity": 164.304,
@@ -12164,7 +12164,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.518,
       "historicalData": [
         {
           "Close": 9.979999542236328,
@@ -12515,14 +12515,14 @@
       "pegRatio": null,
       "priceToSales": 4.195473,
       "enterpriseToRevenue": 6.104,
-      "enterpriseToEbitda": 11.387,
+      "enterpriseToEbitda": 11.38,
       "profitMargins": 0.22184,
-      "grossMargins": 0.28915,
+      "grossMargins": 0.29131,
       "operatingMargins": 0.13387999,
       "returnOnAssets": 0.01206,
       "returnOnEquity": 0.025929999,
       "totalRevenue": 6033978880,
-      "revenuePerShare": 4.865,
+      "revenuePerShare": 5.08,
       "totalCash": 1435590016,
       "totalDebt": 12802421760,
       "debtToEquity": 20.498,
@@ -12542,7 +12542,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": null,
+      "beta": -0.492,
       "historicalData": [
         {
           "Close": 22.600000381469727,
@@ -13800,7 +13800,7 @@
         }
       ],
       "heldPercentInsiders": 0.77,
-      "heldPercentInstitutions": 0.01121
+      "heldPercentInstitutions": 0.01158
     },
     {
       "code": "ALKA",
@@ -14423,7 +14423,7 @@
       "bookValue": 17.777,
       "dividendRate": 1.38,
       "dividendYield": 5.01,
-      "exDividendDate": 1775001600,
+      "exDividendDate": null,
       "payoutRatio": 0.1719,
       "targetHighPrice": 49.88,
       "targetLowPrice": 36.625,
@@ -14556,7 +14556,7 @@
         }
       ],
       "heldPercentInsiders": 0.64313006,
-      "heldPercentInstitutions": 0.04407
+      "heldPercentInstitutions": 0.044060003
     },
     {
       "code": "ARASE",
@@ -14612,7 +14612,7 @@
       "bookValue": 79.808,
       "dividendRate": 2.2,
       "dividendYield": 1.94,
-      "exDividendDate": 1755475200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -15557,7 +15557,7 @@
       "bookValue": -0.703,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1690329600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -15879,7 +15879,7 @@
         }
       ],
       "heldPercentInsiders": 0.57249,
-      "heldPercentInstitutions": 0.16818
+      "heldPercentInstitutions": 0.17021
     },
     {
       "code": "ATAGY",
@@ -16124,7 +16124,7 @@
       "bookValue": 49.316,
       "dividendRate": 0.7,
       "dividendYield": 1.29,
-      "exDividendDate": 1780531200,
+      "exDividendDate": null,
       "payoutRatio": 0.3667,
       "targetHighPrice": 69.05,
       "targetLowPrice": 69.05,
@@ -16313,7 +16313,7 @@
       "bookValue": 47.024,
       "dividendRate": 1.0,
       "dividendYield": 0.45,
-      "exDividendDate": 1781049600,
+      "exDividendDate": null,
       "payoutRatio": 0.0319,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -19526,7 +19526,7 @@
       "bookValue": 6.75,
       "dividendRate": 0.09,
       "dividendYield": 2.02,
-      "exDividendDate": 1776211200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -19715,7 +19715,7 @@
       "bookValue": 43.712,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1694995200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -19848,7 +19848,7 @@
         }
       ],
       "heldPercentInsiders": 0.083579995,
-      "heldPercentInstitutions": 0.06358
+      "heldPercentInstitutions": 0.064
     },
     {
       "code": "BEYAZ",
@@ -20093,7 +20093,7 @@
       "bookValue": 0.057,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1695686400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -20626,7 +20626,7 @@
       "averageVolume": 521079,
       "averageVolume10days": 526275,
       "marketCap": 2217920512,
-      "enterpriseValue": 3562920704,
+      "enterpriseValue": 3504442624,
       "sharesOutstanding": 80476074,
       "sector": "Consumer Cyclical",
       "industry": "Department Stores",
@@ -20641,20 +20641,20 @@
       "priceToBook": 6.6489744,
       "pegRatio": 0.92,
       "priceToSales": 0.05913612,
-      "enterpriseToRevenue": 0.095,
-      "enterpriseToEbitda": 6.152,
-      "profitMargins": -0.01702,
+      "enterpriseToRevenue": 0.093,
+      "enterpriseToEbitda": 5.178,
+      "profitMargins": -0.016970001,
       "grossMargins": 0.16542,
-      "operatingMargins": 0.025090002,
-      "returnOnAssets": -0.00873,
-      "returnOnEquity": -1.55211,
+      "operatingMargins": -0.011729999,
+      "returnOnAssets": -0.00189,
+      "returnOnEquity": -1.5520301,
       "totalRevenue": 37505343488,
-      "revenuePerShare": 489.722,
-      "totalCash": 616099968,
-      "totalDebt": 1961100032,
-      "debtToEquity": 2712.448,
+      "revenuePerShare": 466.043,
+      "totalCash": 616131264,
+      "totalDebt": 1961150592,
+      "debtToEquity": 2713.951,
       "currentRatio": 0.568,
-      "quickRatio": 0.206,
+      "quickRatio": 0.207,
       "eps": -7.91,
       "forwardEps": -7.64,
       "bookValue": 4.145,
@@ -20669,7 +20669,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": null,
+      "beta": -0.146,
       "historicalData": [
         {
           "Close": 27.100000381469727,
@@ -21227,7 +21227,7 @@
       "bookValue": 9.678,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1683072000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -21360,7 +21360,7 @@
         }
       ],
       "heldPercentInsiders": 0.5023,
-      "heldPercentInstitutions": 0.01726
+      "heldPercentInstitutions": 0.0174
     },
     {
       "code": "BNTAS",
@@ -21605,7 +21605,7 @@
       "bookValue": 17.418,
       "dividendRate": 0.4,
       "dividendYield": 2.14,
-      "exDividendDate": 1785888000,
+      "exDividendDate": null,
       "payoutRatio": 3.5386,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -22172,7 +22172,7 @@
       "bookValue": 8.233,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1465344000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -23061,7 +23061,7 @@
         }
       ],
       "heldPercentInsiders": 0.85553,
-      "heldPercentInstitutions": 0.01836
+      "heldPercentInstitutions": 0.019199999
     },
     {
       "code": "BSOKE",
@@ -24384,7 +24384,7 @@
         }
       ],
       "heldPercentInsiders": 0.205,
-      "heldPercentInstitutions": 0.035150003
+      "heldPercentInstitutions": 0.03574
     },
     {
       "code": "CASA",
@@ -24951,7 +24951,7 @@
         }
       ],
       "heldPercentInsiders": 0.7043,
-      "heldPercentInstitutions": 0.07998
+      "heldPercentInstitutions": 0.08006
     },
     {
       "code": "CELHA",
@@ -25385,7 +25385,7 @@
       "bookValue": 9.916,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1663200000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -25763,7 +25763,7 @@
       "bookValue": 182.778,
       "dividendRate": 8.18,
       "dividendYield": 2.52,
-      "exDividendDate": 1735171200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -26708,7 +26708,7 @@
       "bookValue": 10.295,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1655164800,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -26875,18 +26875,18 @@
       "description": "CVK Maden Isletmeleri Sanayi ve Ticaret Anonim Sirketi engages in production, marketing and sale of chrome, marble, lead, zinc, copper, silver, gold, and magnesite ores. The company was incorporated in 2006 and is based in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 7.4358573,
+      "priceToBook": 6.6190276,
       "pegRatio": null,
       "priceToSales": 21.458992,
       "enterpriseToRevenue": 22.494,
-      "enterpriseToEbitda": 75.125,
+      "enterpriseToEbitda": 67.467,
       "profitMargins": -0.01496,
       "grossMargins": 0.28026,
-      "operatingMargins": 0.07904,
-      "returnOnAssets": 0.01644,
+      "operatingMargins": 0.22282,
+      "returnOnAssets": 0.01974,
       "returnOnEquity": -0.01159,
       "totalRevenue": 3081971456,
-      "revenuePerShare": 2.708,
+      "revenuePerShare": 2.197,
       "totalCash": 906961536,
       "totalDebt": 3691816192,
       "debtToEquity": 35.505,
@@ -26894,7 +26894,7 @@
       "quickRatio": 0.145,
       "eps": -0.27,
       "forwardEps": null,
-      "bookValue": 6.353,
+      "bookValue": 7.137,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -26906,7 +26906,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.238,
       "historicalData": [
         {
           "Close": 36.099998474121094,
@@ -27597,7 +27597,7 @@
         }
       ],
       "heldPercentInsiders": 0.71245,
-      "heldPercentInstitutions": 0.063769996
+      "heldPercentInstitutions": 0.06376
     },
     {
       "code": "DARDL",
@@ -28409,7 +28409,7 @@
       "bookValue": 8.861,
       "dividendRate": 0.36,
       "dividendYield": 2.89,
-      "exDividendDate": 1790726400,
+      "exDividendDate": null,
       "payoutRatio": 0.2036,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -28976,7 +28976,7 @@
       "bookValue": 10.928,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1527552000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -29732,7 +29732,7 @@
       "bookValue": 10.981,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1651190400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -29921,7 +29921,7 @@
       "bookValue": 6.505,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1653264000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -30432,7 +30432,7 @@
         }
       ],
       "heldPercentInsiders": 0.605,
-      "heldPercentInstitutions": 0.06644
+      "heldPercentInstitutions": 0.06605
     },
     {
       "code": "DOCO",
@@ -30488,7 +30488,7 @@
       "bookValue": 40.825,
       "dividendRate": 93.98,
       "dividendYield": 0.93,
-      "exDividendDate": 1752710400,
+      "exDividendDate": null,
       "payoutRatio": 0.21120001,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -30621,7 +30621,7 @@
         }
       ],
       "heldPercentInsiders": 0.30118,
-      "heldPercentInstitutions": 0.39150003
+      "heldPercentInstitutions": 0.39143002
     },
     {
       "code": "DOFER",
@@ -30677,7 +30677,7 @@
       "bookValue": 26.71,
       "dividendRate": 0.19,
       "dividendYield": 0.53,
-      "exDividendDate": 1782950400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -31433,7 +31433,7 @@
       "bookValue": 24.577,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1680480000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -31777,7 +31777,7 @@
       "averageVolume": 6690928,
       "averageVolume10days": 5915163,
       "marketCap": 60919623680,
-      "enterpriseValue": 55810854912,
+      "enterpriseValue": 60768837632,
       "sharesOutstanding": 685260100,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
@@ -31791,27 +31791,27 @@
       "forwardPE": null,
       "priceToBook": 0.9980242,
       "pegRatio": null,
-      "priceToSales": 6.171547,
-      "enterpriseToRevenue": 5.654,
-      "enterpriseToEbitda": 6022.538,
-      "profitMargins": 0.21160999,
-      "grossMargins": 0.32865003,
-      "operatingMargins": 0.0383,
-      "returnOnAssets": -0.00598,
-      "returnOnEquity": 0.03486,
-      "totalRevenue": 9871045632,
-      "revenuePerShare": 14.405,
-      "totalCash": 4847953920,
-      "totalDebt": 3161652992,
-      "debtToEquity": 5.179,
-      "currentRatio": 2.009,
-      "quickRatio": 1.527,
+      "priceToSales": 6.194169,
+      "enterpriseToRevenue": 6.179,
+      "enterpriseToEbitda": 2022.661,
+      "profitMargins": -0.0863,
+      "grossMargins": 0.34004003,
+      "operatingMargins": -0.11121,
+      "returnOnAssets": -0.0053600003,
+      "returnOnEquity": -0.0145000005,
+      "totalRevenue": 9834995712,
+      "revenuePerShare": 14.352,
+      "totalCash": 4047663104,
+      "totalDebt": 3892954880,
+      "debtToEquity": 5.877,
+      "currentRatio": 1.729,
+      "quickRatio": 1.323,
       "eps": -1.24,
       "forwardEps": null,
       "bookValue": 89.076,
       "dividendRate": 1.75,
-      "dividendYield": 2.09,
-      "exDividendDate": 1778025600,
+      "dividendYield": 1.97,
+      "exDividendDate": null,
       "payoutRatio": 0.5742,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -31944,7 +31944,7 @@
         }
       ],
       "heldPercentInsiders": 0.81232,
-      "heldPercentInstitutions": 0.01234
+      "heldPercentInstitutions": 0.01227
     },
     {
       "code": "ECZYT",
@@ -32000,7 +32000,7 @@
       "bookValue": 264.545,
       "dividendRate": 5.71,
       "dividendYield": 1.59,
-      "exDividendDate": 1778025600,
+      "exDividendDate": null,
       "payoutRatio": 0.8536,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -32378,7 +32378,7 @@
       "bookValue": 104.896,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1093305600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -32700,7 +32700,7 @@
         }
       ],
       "heldPercentInsiders": 0.64205,
-      "heldPercentInstitutions": 0.0168
+      "heldPercentInstitutions": 0.01699
     },
     {
       "code": "EGEPO",
@@ -32888,7 +32888,7 @@
           "Volume": 1527849
         }
       ],
-      "heldPercentInsiders": 0.7893,
+      "heldPercentInsiders": 0.7843,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -33078,7 +33078,7 @@
         }
       ],
       "heldPercentInsiders": 0.5389,
-      "heldPercentInstitutions": 0.0072899996
+      "heldPercentInstitutions": 0.00728
     },
     {
       "code": "EGPRO",
@@ -33134,7 +33134,7 @@
       "bookValue": 16.302,
       "dividendRate": 1.28,
       "dividendYield": 3.19,
-      "exDividendDate": 1784160000,
+      "exDividendDate": null,
       "payoutRatio": 0.48459998,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -33323,7 +33323,7 @@
       "bookValue": 0.029,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1650240000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -35213,7 +35213,7 @@
       "bookValue": 175.595,
       "dividendRate": 2.7,
       "dividendYield": 1.43,
-      "exDividendDate": 1779235200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -35913,7 +35913,7 @@
         }
       ],
       "heldPercentInsiders": 0.75755,
-      "heldPercentInstitutions": 0.0092
+      "heldPercentInstitutions": 0.009380001
     },
     {
       "code": "ESCOM",
@@ -36291,7 +36291,7 @@
         }
       ],
       "heldPercentInsiders": 0.62508,
-      "heldPercentInstitutions": 0.13674
+      "heldPercentInstitutions": 0.13529
     },
     {
       "code": "ETILR",
@@ -36914,7 +36914,7 @@
       "bookValue": 1.31,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1691452800,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -37425,7 +37425,7 @@
         }
       ],
       "heldPercentInsiders": 0.4573,
-      "heldPercentInstitutions": 0.14629
+      "heldPercentInstitutions": 0.14669
     },
     {
       "code": "EUYO",
@@ -37481,7 +37481,7 @@
       "bookValue": 1.325,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1691452800,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -38048,7 +38048,7 @@
       "bookValue": 1.434,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1384473600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -38181,7 +38181,7 @@
         }
       ],
       "heldPercentInsiders": 0.62268,
-      "heldPercentInstitutions": 0.013830001
+      "heldPercentInstitutions": 0.01244
     },
     {
       "code": "FLAP",
@@ -38804,7 +38804,7 @@
       "bookValue": 2.067,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1576195200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -38993,7 +38993,7 @@
       "bookValue": 29.006,
       "dividendRate": 0.11,
       "dividendYield": 0.14,
-      "exDividendDate": 1733875200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -39938,7 +39938,7 @@
       "bookValue": 23.039,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1559001600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -40093,7 +40093,7 @@
       "averageVolume": 67163999,
       "averageVolume10days": 73475573,
       "marketCap": 42028945408,
-      "enterpriseValue": 77864861696,
+      "enterpriseValue": 45553631232,
       "sharesOutstanding": 4490272095,
       "sector": "Healthcare",
       "industry": "Drug Manufacturers - Specialty & Generic",
@@ -40108,15 +40108,15 @@
       "priceToBook": 7.2,
       "pegRatio": null,
       "priceToSales": 2.0248446,
-      "enterpriseToRevenue": 3.751,
-      "enterpriseToEbitda": 23.192,
+      "enterpriseToRevenue": 2.195,
+      "enterpriseToEbitda": 15.005,
       "profitMargins": 0.03715,
-      "grossMargins": 0.23451,
-      "operatingMargins": 0.18139,
-      "returnOnAssets": 0.09671,
+      "grossMargins": 0.23472,
+      "operatingMargins": 0.16996999,
+      "returnOnAssets": 0.08566,
       "returnOnEquity": 0.07626,
       "totalRevenue": 20756627456,
-      "revenuePerShare": 3.577,
+      "revenuePerShare": 3.87,
       "totalCash": 1370904064,
       "totalDebt": 4812770304,
       "debtToEquity": 40.992,
@@ -40136,7 +40136,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.052,
       "historicalData": [
         {
           "Close": 10.319999694824219,
@@ -41261,7 +41261,7 @@
       "bookValue": 30.405,
       "dividendRate": 2.51,
       "dividendYield": 4.28,
-      "exDividendDate": 1776038400,
+      "exDividendDate": null,
       "payoutRatio": 0.0907,
       "targetHighPrice": 118.79,
       "targetLowPrice": 107.0,
@@ -41639,7 +41639,7 @@
       "bookValue": 7.369,
       "dividendRate": 0.1,
       "dividendYield": 0.68,
-      "exDividendDate": 1798675200,
+      "exDividendDate": null,
       "payoutRatio": 0.023599999,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -41772,7 +41772,7 @@
         }
       ],
       "heldPercentInsiders": 0.27027,
-      "heldPercentInstitutions": 0.23819
+      "heldPercentInstitutions": 0.23847
     },
     {
       "code": "GMTAS",
@@ -42339,7 +42339,7 @@
         }
       ],
       "heldPercentInsiders": 0.40702,
-      "heldPercentInstitutions": 0.03391
+      "heldPercentInstitutions": 0.03461
     },
     {
       "code": "GOODY",
@@ -42773,7 +42773,7 @@
       "bookValue": 2.365,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1686182400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -43002,15 +43002,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.09344482421875,
+          "Close": 307.0934753417969,
           "Volume": 728698
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 565903
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 363119
         },
         {
@@ -43030,7 +43030,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.65045166015625,
+          "Close": 294.6504821777344,
           "Volume": 791784
         },
         {
@@ -44096,7 +44096,7 @@
       "bookValue": 24.836,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1621900800,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -44847,7 +44847,7 @@
       "debtToEquity": 37.763,
       "currentRatio": 1.155,
       "quickRatio": 0.368,
-      "eps": -1.12,
+      "eps": -1.31,
       "forwardEps": null,
       "bookValue": 10.038,
       "dividendRate": null,
@@ -45174,7 +45174,7 @@
         }
       ],
       "heldPercentInsiders": 0.79327005,
-      "heldPercentInstitutions": 0.00273
+      "heldPercentInstitutions": 0.0026
     },
     {
       "code": "HTTBT",
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.51817,
-      "targetLowPrice": 61.500507,
-      "targetMeanPrice": 66.90108,
-      "targetMedianPrice": 61.68409,
+      "targetHighPrice": 77.51851,
+      "targetLowPrice": 61.500774,
+      "targetMeanPrice": 66.90137,
+      "targetMedianPrice": 61.684357,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
@@ -45363,7 +45363,7 @@
         }
       ],
       "heldPercentInsiders": 0.73630995,
-      "heldPercentInstitutions": 0.06521
+      "heldPercentInstitutions": 0.06552
     },
     {
       "code": "HUBVC",
@@ -45419,7 +45419,7 @@
       "bookValue": 1.875,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1338336000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -46685,7 +46685,7 @@
           "Volume": 8289005
         }
       ],
-      "heldPercentInsiders": 0.30571,
+      "heldPercentInsiders": 0.35639998,
       "heldPercentInstitutions": 0.40056
     },
     {
@@ -47309,7 +47309,7 @@
       "bookValue": 1.897,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1117497600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -47464,7 +47464,7 @@
       "averageVolume": 30180930,
       "averageVolume10days": 21260674,
       "marketCap": 2010000000,
-      "enterpriseValue": 2086612736,
+      "enterpriseValue": 201076604928,
       "sharesOutstanding": 1000000000,
       "sector": "Real Estate",
       "industry": "Real Estate - Diversified",
@@ -47479,15 +47479,15 @@
       "priceToBook": 1.1598384,
       "pegRatio": null,
       "priceToSales": 1.152188,
-      "enterpriseToRevenue": 1.196,
-      "enterpriseToEbitda": -1.799,
+      "enterpriseToRevenue": 115.263,
+      "enterpriseToEbitda": -178.37,
       "profitMargins": 0.27458,
       "grossMargins": -0.31195,
-      "operatingMargins": -0.31622,
-      "returnOnAssets": -0.16183001,
+      "operatingMargins": -0.43310001,
+      "returnOnAssets": -0.15705,
       "returnOnEquity": 0.27539,
       "totalRevenue": 1744507136,
-      "revenuePerShare": 1.723,
+      "revenuePerShare": 1.745,
       "totalCash": 41805964,
       "totalDebt": 115649648,
       "debtToEquity": 5.265,
@@ -47507,7 +47507,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.606,
       "historicalData": [
         {
           "Close": 2.049999952316284,
@@ -47669,19 +47669,19 @@
       "pegRatio": null,
       "priceToSales": 0.22946508,
       "enterpriseToRevenue": 1.192,
-      "enterpriseToEbitda": -10.269,
+      "enterpriseToEbitda": -10.219,
       "profitMargins": -0.09866,
-      "grossMargins": 0.11638,
-      "operatingMargins": -0.21011999,
-      "returnOnAssets": -0.054840002,
+      "grossMargins": 0.11642,
+      "operatingMargins": -0.20979,
+      "returnOnAssets": -0.05527,
       "returnOnEquity": -0.053260002,
       "totalRevenue": 3353451520,
-      "revenuePerShare": 7.495,
+      "revenuePerShare": 7.453,
       "totalCash": 307077472,
       "totalDebt": 176263616,
       "debtToEquity": 4.409,
       "currentRatio": 2.031,
-      "quickRatio": 1.654,
+      "quickRatio": 1.649,
       "eps": -0.43,
       "forwardEps": null,
       "bookValue": 1.58,
@@ -47696,7 +47696,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.304,
       "historicalData": [
         {
           "Close": 1.8200000524520874,
@@ -48009,7 +48009,7 @@
         }
       ],
       "heldPercentInsiders": 0.32665002,
-      "heldPercentInstitutions": 0.02553
+      "heldPercentInstitutions": 0.027320001
     },
     {
       "code": "INDES",
@@ -48065,7 +48065,7 @@
       "bookValue": 8.914,
       "dividendRate": 0.22,
       "dividendYield": 1.89,
-      "exDividendDate": 1781481600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 14.59,
       "targetLowPrice": 14.0,
@@ -48254,7 +48254,7 @@
       "bookValue": 3.097,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1686787200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -48443,7 +48443,7 @@
       "bookValue": 80.825,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1683504000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -49199,7 +49199,7 @@
       "bookValue": 16.842,
       "dividendRate": 0.35,
       "dividendYield": 0.0,
-      "exDividendDate": 1775001600,
+      "exDividendDate": null,
       "payoutRatio": 0.161,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -49577,7 +49577,7 @@
       "bookValue": 16.842,
       "dividendRate": 2.04,
       "dividendYield": 0.0,
-      "exDividendDate": 1775001600,
+      "exDividendDate": null,
       "payoutRatio": 0.66870004,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -49955,7 +49955,7 @@
       "bookValue": 18.759,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1459123200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -50466,7 +50466,7 @@
         }
       ],
       "heldPercentInsiders": 0.52505,
-      "heldPercentInstitutions": 0.10436
+      "heldPercentInstitutions": 0.10484
     },
     {
       "code": "ISKPL",
@@ -50522,7 +50522,7 @@
       "bookValue": 1.901,
       "dividendRate": 0.0,
       "dividendYield": 0.0,
-      "exDividendDate": 1782432000,
+      "exDividendDate": null,
       "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -51089,7 +51089,7 @@
       "bookValue": 3.865,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1679875200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 67.9,
       "targetLowPrice": 67.9,
@@ -52034,7 +52034,7 @@
       "bookValue": 9.436,
       "dividendRate": 0.03,
       "dividendYield": 0.18,
-      "exDividendDate": 1746489600,
+      "exDividendDate": null,
       "payoutRatio": 2.4564,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -52545,7 +52545,7 @@
         }
       ],
       "heldPercentInsiders": 0.60058,
-      "heldPercentInstitutions": 0.0191
+      "heldPercentInstitutions": 0.01775
     },
     {
       "code": "KARTN",
@@ -52734,7 +52734,7 @@
         }
       ],
       "heldPercentInsiders": 0.77196,
-      "heldPercentInstitutions": 0.0066799996
+      "heldPercentInstitutions": 0.0004
     },
     {
       "code": "KATMR",
@@ -53112,7 +53112,7 @@
         }
       ],
       "heldPercentInsiders": 0.59215,
-      "heldPercentInstitutions": 0.01915
+      "heldPercentInstitutions": 0.01968
     },
     {
       "code": "KBORU",
@@ -53546,7 +53546,7 @@
       "bookValue": 22.035,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1453766400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -53924,7 +53924,7 @@
       "bookValue": 6.593,
       "dividendRate": 0.02,
       "dividendYield": 0.2,
-      "exDividendDate": 1777852800,
+      "exDividendDate": null,
       "payoutRatio": 0.1269,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -54246,7 +54246,7 @@
         }
       ],
       "heldPercentInsiders": 0.60309,
-      "heldPercentInstitutions": 0.073410004
+      "heldPercentInstitutions": 0.0736
     },
     {
       "code": "KIMMR",
@@ -54302,7 +54302,7 @@
       "bookValue": 18.352,
       "dividendRate": 0.42,
       "dividendYield": 2.45,
-      "exDividendDate": 1782777600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -54624,7 +54624,7 @@
         }
       ],
       "heldPercentInsiders": 0.53543997,
-      "heldPercentInstitutions": 0.00403
+      "heldPercentInstitutions": 0.00452
     },
     {
       "code": "KLKIM",
@@ -54662,11 +54662,11 @@
       "pegRatio": null,
       "priceToSales": 1.3712244,
       "enterpriseToRevenue": 1.25,
-      "enterpriseToEbitda": 6.206,
+      "enterpriseToEbitda": 6.18,
       "profitMargins": 0.09211001,
-      "grossMargins": 0.41195,
-      "operatingMargins": 0.103649996,
-      "returnOnAssets": 0.13442001,
+      "grossMargins": 0.41191003,
+      "operatingMargins": 0.094280005,
+      "returnOnAssets": 0.13539,
       "returnOnEquity": 0.15967,
       "totalRevenue": 10513523712,
       "revenuePerShare": 22.855,
@@ -54674,7 +54674,7 @@
       "totalDebt": 348804512,
       "debtToEquity": 4.632,
       "currentRatio": 2.34,
-      "quickRatio": 1.817,
+      "quickRatio": 1.765,
       "eps": 0.02,
       "forwardEps": null,
       "bookValue": 14.141,
@@ -54689,7 +54689,7 @@
       "recommendationMean": 1.75,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 4,
-      "beta": null,
+      "beta": -0.483,
       "historicalData": [
         {
           "Close": 37.2824821472168,
@@ -55058,7 +55058,7 @@
       "bookValue": 3.363,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1540857600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -55402,7 +55402,7 @@
       "averageVolume": 1893921,
       "averageVolume10days": 2600696,
       "marketCap": 14382915584,
-      "enterpriseValue": 54280007680,
+      "enterpriseValue": 52622815232,
       "sharesOutstanding": 514778661,
       "sector": "Industrials",
       "industry": "Building Products & Equipment",
@@ -55416,21 +55416,21 @@
       "forwardPE": null,
       "priceToBook": 7.684269,
       "pegRatio": null,
-      "priceToSales": 1.0227633,
-      "enterpriseToRevenue": 3.86,
-      "enterpriseToEbitda": -142.323,
-      "profitMargins": -0.25327,
-      "grossMargins": 0.11484,
-      "operatingMargins": -0.06785,
-      "returnOnAssets": -0.04428,
-      "returnOnEquity": -0.47607,
-      "totalRevenue": 14062800896,
-      "revenuePerShare": 8.544,
-      "totalCash": 564856640,
-      "totalDebt": 6820925952,
-      "debtToEquity": 114.695,
-      "currentRatio": 0.86,
-      "quickRatio": 0.462,
+      "priceToSales": 0.9644381,
+      "enterpriseToRevenue": 3.529,
+      "enterpriseToEbitda": 347.689,
+      "profitMargins": -0.18854,
+      "grossMargins": 0.14583999,
+      "operatingMargins": -0.05447,
+      "returnOnAssets": -0.030369999,
+      "returnOnEquity": -0.4298,
+      "totalRevenue": 14913259520,
+      "revenuePerShare": 9.061,
+      "totalCash": 626372352,
+      "totalDebt": 7338263552,
+      "debtToEquity": 115.337,
+      "currentRatio": 0.824,
+      "quickRatio": 0.465,
       "eps": -2.17,
       "forwardEps": null,
       "bookValue": 3.636,
@@ -55445,7 +55445,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -1.906,
+      "beta": null,
       "historicalData": [
         {
           "Close": 26.420000076293945,
@@ -55569,7 +55569,7 @@
         }
       ],
       "heldPercentInsiders": 0.61237,
-      "heldPercentInstitutions": 0.15277
+      "heldPercentInstitutions": 0.15303999
     },
     {
       "code": "KLSYN",
@@ -55947,7 +55947,7 @@
         }
       ],
       "heldPercentInsiders": 0.73208,
-      "heldPercentInstitutions": 0.010989999
+      "heldPercentInstitutions": 0.01155
     },
     {
       "code": "KNFRT",
@@ -56381,7 +56381,7 @@
       "bookValue": 922.012,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1526947200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -57326,7 +57326,7 @@
       "bookValue": 74.257,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1701129600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -57459,7 +57459,7 @@
         }
       ],
       "heldPercentInsiders": 0.0,
-      "heldPercentInstitutions": 0.112749994
+      "heldPercentInstitutions": 0.115030006
     },
     {
       "code": "KRDMB",
@@ -57515,7 +57515,7 @@
       "bookValue": 74.257,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1701129600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -57893,7 +57893,7 @@
       "bookValue": 4.322,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1493942400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -58082,7 +58082,7 @@
       "bookValue": 4.98,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1700179200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -58782,7 +58782,7 @@
         }
       ],
       "heldPercentInsiders": 0.60855997,
-      "heldPercentInstitutions": 0.01972
+      "heldPercentInstitutions": 0.02311
     },
     {
       "code": "KSTUR",
@@ -59027,7 +59027,7 @@
       "bookValue": 5.499,
       "dividendRate": 0.39,
       "dividendYield": 0.31,
-      "exDividendDate": 1782172800,
+      "exDividendDate": null,
       "payoutRatio": 0.066,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -59216,7 +59216,7 @@
       "bookValue": 124.374,
       "dividendRate": 6.52,
       "dividendYield": 5.71,
-      "exDividendDate": 1767139200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -60105,7 +60105,7 @@
         }
       ],
       "heldPercentInsiders": 0.65199995,
-      "heldPercentInstitutions": 0.017380001
+      "heldPercentInstitutions": 0.0176
     },
     {
       "code": "KZGYO",
@@ -60483,7 +60483,7 @@
         }
       ],
       "heldPercentInsiders": 0.69091004,
-      "heldPercentInstitutions": 0.06689
+      "heldPercentInstitutions": 0.06711
     },
     {
       "code": "LINK",
@@ -60672,7 +60672,7 @@
         }
       ],
       "heldPercentInsiders": 0.43304002,
-      "heldPercentInstitutions": 0.04459
+      "heldPercentInstitutions": 0.04206
     },
     {
       "code": "LKMNH",
@@ -61106,7 +61106,7 @@
       "bookValue": 53.375,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1685318400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -61862,7 +61862,7 @@
       "bookValue": 10.029,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1697587200,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -62429,7 +62429,7 @@
       "bookValue": 10.396,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1717977600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -62996,7 +62996,7 @@
       "bookValue": 24.418,
       "dividendRate": 0.45,
       "dividendYield": 1.51,
-      "exDividendDate": 1785283200,
+      "exDividendDate": null,
       "payoutRatio": 1.0961,
       "targetHighPrice": 45.5,
       "targetLowPrice": 45.5,
@@ -66153,7 +66153,7 @@
         }
       ],
       "heldPercentInsiders": 0.56124,
-      "heldPercentInstitutions": 0.12913
+      "heldPercentInstitutions": 0.12938
     },
     {
       "code": "MRGYO",
@@ -66209,7 +66209,7 @@
       "bookValue": 10.185,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1346198400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -66587,7 +66587,7 @@
       "bookValue": 10.208,
       "dividendRate": 0.43,
       "dividendYield": 7.23,
-      "exDividendDate": 1777334400,
+      "exDividendDate": null,
       "payoutRatio": 2.1697,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -66776,7 +66776,7 @@
       "bookValue": 9.773,
       "dividendRate": 0.2,
       "dividendYield": 0.78,
-      "exDividendDate": 1778803200,
+      "exDividendDate": null,
       "payoutRatio": 0.0495,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -66965,7 +66965,7 @@
       "bookValue": 10.805,
       "dividendRate": 0.05,
       "dividendYield": 0.53,
-      "exDividendDate": 1765152000,
+      "exDividendDate": null,
       "payoutRatio": 0.0231,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -68421,7 +68421,7 @@
         }
       ],
       "heldPercentInsiders": 0.60447,
-      "heldPercentInstitutions": 0.03277
+      "heldPercentInstitutions": 0.03283
     },
     {
       "code": "OBASE",
@@ -69044,7 +69044,7 @@
       "bookValue": 17.065,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1699401600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -69422,7 +69422,7 @@
       "bookValue": 2.968,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1698278400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -70556,7 +70556,7 @@
       "bookValue": 12.949,
       "dividendRate": 1.0,
       "dividendYield": 4.8,
-      "exDividendDate": 1761782400,
+      "exDividendDate": null,
       "payoutRatio": 0.5556,
       "targetHighPrice": 38.92,
       "targetLowPrice": 33.35,
@@ -71312,7 +71312,7 @@
       "bookValue": 7.158,
       "dividendRate": 0.02,
       "dividendYield": 0.78,
-      "exDividendDate": 1778544000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -71690,7 +71690,7 @@
       "bookValue": 4.423,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1557878400,
+      "exDividendDate": null,
       "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -72957,7 +72957,7 @@
         }
       ],
       "heldPercentInsiders": 0.51153,
-      "heldPercentInstitutions": 0.18591999
+      "heldPercentInstitutions": 0.18701
     },
     {
       "code": "PCILT",
@@ -73713,7 +73713,7 @@
         }
       ],
       "heldPercentInsiders": 0.29167,
-      "heldPercentInstitutions": 0.34694
+      "heldPercentInstitutions": 0.34555
     },
     {
       "code": "PETUN",
@@ -74525,7 +74525,7 @@
       "bookValue": 35.128,
       "dividendRate": 0.76,
       "dividendYield": 3.19,
-      "exDividendDate": 1762992000,
+      "exDividendDate": null,
       "payoutRatio": 0.2622,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -75225,7 +75225,7 @@
         }
       ],
       "heldPercentInsiders": 0.70819,
-      "heldPercentInstitutions": 0.01368
+      "heldPercentInstitutions": 0.013789999
     },
     {
       "code": "POLTK",
@@ -75659,7 +75659,7 @@
       "bookValue": 4.206,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1684972800,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -75848,7 +75848,7 @@
       "bookValue": 32.284,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1721692800,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -76415,7 +76415,7 @@
       "bookValue": 6.65,
       "dividendRate": 0.01,
       "dividendYield": 0.32,
-      "exDividendDate": 1782777600,
+      "exDividendDate": null,
       "payoutRatio": 0.016,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -76548,7 +76548,7 @@
         }
       ],
       "heldPercentInsiders": 0.49356,
-      "heldPercentInstitutions": 0.16839
+      "heldPercentInstitutions": 0.16869
     },
     {
       "code": "QUAGR",
@@ -76737,7 +76737,7 @@
         }
       ],
       "heldPercentInsiders": 0.449,
-      "heldPercentInstitutions": 0.16576
+      "heldPercentInstitutions": 0.16447
     },
     {
       "code": "RALYH",
@@ -76926,7 +76926,7 @@
         }
       ],
       "heldPercentInsiders": 0.59411997,
-      "heldPercentInstitutions": 0.0239
+      "heldPercentInstitutions": 0.02428
     },
     {
       "code": "RAYSG",
@@ -77304,7 +77304,7 @@
         }
       ],
       "heldPercentInsiders": 0.397,
-      "heldPercentInstitutions": 0.0278
+      "heldPercentInstitutions": 0.0286
     },
     {
       "code": "RGYAS",
@@ -77493,7 +77493,7 @@
         }
       ],
       "heldPercentInsiders": 0.89019996,
-      "heldPercentInstitutions": 0.0078100003
+      "heldPercentInstitutions": 0.007900001
     },
     {
       "code": "RNPOL",
@@ -78494,7 +78494,7 @@
       "bookValue": 43.088,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1306800000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 33.0,
       "targetLowPrice": 33.0,
@@ -78665,19 +78665,19 @@
       "pegRatio": null,
       "priceToSales": 3.4790807,
       "enterpriseToRevenue": 4.538,
-      "enterpriseToEbitda": 11.278,
+      "enterpriseToEbitda": 11.207,
       "profitMargins": 0.26376,
-      "grossMargins": 0.37436,
-      "operatingMargins": 0.25369,
-      "returnOnAssets": 0.06682,
+      "grossMargins": 0.37432998,
+      "operatingMargins": 0.25761,
+      "returnOnAssets": 0.06729,
       "returnOnEquity": 0.15819,
       "totalRevenue": 12761992192,
-      "revenuePerShare": 6.243,
+      "revenuePerShare": 6.381,
       "totalCash": 6904969216,
       "totalDebt": 10888848384,
       "debtToEquity": 29.754,
       "currentRatio": 1.219,
-      "quickRatio": 1.185,
+      "quickRatio": 1.175,
       "eps": 1.86,
       "forwardEps": null,
       "bookValue": 12.114,
@@ -78692,7 +78692,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.082,
       "historicalData": [
         {
           "Close": 21.700000762939453,
@@ -80384,7 +80384,7 @@
       "bookValue": 28.026,
       "dividendRate": 0.61,
       "dividendYield": 1.28,
-      "exDividendDate": 1743638400,
+      "exDividendDate": null,
       "payoutRatio": 0.383,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -80539,7 +80539,7 @@
       "averageVolume": 16437886,
       "averageVolume10days": 7408003,
       "marketCap": 3745266176,
-      "enterpriseValue": 4028823296,
+      "enterpriseValue": 3993990144,
       "sharesOutstanding": 803705241,
       "sector": "Real Estate",
       "industry": "REIT - Diversified",
@@ -80554,15 +80554,15 @@
       "priceToBook": 0.5818454,
       "pegRatio": null,
       "priceToSales": 9.434458,
-      "enterpriseToRevenue": 10.149,
-      "enterpriseToEbitda": -2.67,
+      "enterpriseToRevenue": 10.061,
+      "enterpriseToEbitda": -2.646,
       "profitMargins": 0.0,
       "grossMargins": 0.0,
       "operatingMargins": -4.7712297,
       "returnOnAssets": -0.12591,
       "returnOnEquity": -0.22171,
       "totalRevenue": 396977344,
-      "revenuePerShare": 0.527,
+      "revenuePerShare": 0.489,
       "totalCash": 34123408,
       "totalDebt": 283429152,
       "debtToEquity": 4.196,
@@ -80582,7 +80582,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.64,
       "historicalData": [
         {
           "Close": 4.989999771118164,
@@ -80762,7 +80762,7 @@
       "bookValue": 9.445,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1712534400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -81707,7 +81707,7 @@
       "bookValue": 4.572,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1430697600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -81896,7 +81896,7 @@
       "bookValue": 4.509,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1338422400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -82785,7 +82785,7 @@
         }
       ],
       "heldPercentInsiders": 0.63455003,
-      "heldPercentInstitutions": 0.01523
+      "heldPercentInstitutions": 0.0159
     },
     {
       "code": "SNGYO",
@@ -82974,7 +82974,7 @@
         }
       ],
       "heldPercentInsiders": 0.42703998,
-      "heldPercentInstitutions": 0.023529999
+      "heldPercentInstitutions": 0.02372
     },
     {
       "code": "SNICA",
@@ -83408,7 +83408,7 @@
       "bookValue": 1.516,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1681257600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -83975,7 +83975,7 @@
       "bookValue": 75.722,
       "dividendRate": 2.17,
       "dividendYield": 0.59,
-      "exDividendDate": 1790726400,
+      "exDividendDate": null,
       "payoutRatio": 0.8333,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -84297,7 +84297,7 @@
         }
       ],
       "heldPercentInsiders": 0.69389,
-      "heldPercentInstitutions": 0.026010001
+      "heldPercentInstitutions": 0.02623
     },
     {
       "code": "SUWEN",
@@ -84486,7 +84486,7 @@
         }
       ],
       "heldPercentInsiders": 0.34974,
-      "heldPercentInstitutions": 0.18593
+      "heldPercentInstitutions": 0.18356001
     },
     {
       "code": "TARKM",
@@ -86432,7 +86432,7 @@
       "bookValue": 3.592,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1427241600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": 74.4,
       "targetLowPrice": 38.26,
@@ -86621,7 +86621,7 @@
       "bookValue": 84.827,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1671753600,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -86810,7 +86810,7 @@
       "bookValue": 58.898,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1654646400,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -86999,7 +86999,7 @@
       "bookValue": 55.395,
       "dividendRate": 3.41,
       "dividendYield": 7.41,
-      "exDividendDate": 1778630400,
+      "exDividendDate": null,
       "payoutRatio": 0.3323,
       "targetHighPrice": 88.0,
       "targetLowPrice": 88.0,
@@ -87321,7 +87321,7 @@
         }
       ],
       "heldPercentInsiders": 0.85276,
-      "heldPercentInstitutions": 0.020450002
+      "heldPercentInstitutions": 0.02002
     },
     {
       "code": "TRILC",
@@ -87888,7 +87888,7 @@
         }
       ],
       "heldPercentInsiders": 0.56058,
-      "heldPercentInstitutions": 0.07312
+      "heldPercentInstitutions": 0.07314
     },
     {
       "code": "TSPOR",
@@ -88455,7 +88455,7 @@
         }
       ],
       "heldPercentInsiders": 0.43447,
-      "heldPercentInstitutions": 0.12362
+      "heldPercentInstitutions": 0.12163
     },
     {
       "code": "TUREX",
@@ -89989,7 +89989,7 @@
       "averageVolume": 2081053,
       "averageVolume10days": 2553681,
       "marketCap": 2314495744,
-      "enterpriseValue": 2799364352,
+      "enterpriseValue": 3817492224,
       "sharesOutstanding": 175740000,
       "sector": "Financial Services",
       "industry": "Capital Markets",
@@ -90003,21 +90003,21 @@
       "forwardPE": null,
       "priceToBook": 0.7777253,
       "pegRatio": null,
-      "priceToSales": 0.048159663,
-      "enterpriseToRevenue": 0.058,
+      "priceToSales": 0.055496834,
+      "enterpriseToRevenue": 0.092,
       "enterpriseToEbitda": null,
-      "profitMargins": -0.00429,
-      "grossMargins": 0.0125899995,
-      "operatingMargins": 0.0037200002,
-      "returnOnAssets": -0.03767,
-      "returnOnEquity": -0.07027,
-      "totalRevenue": 48058802176,
+      "profitMargins": -0.00521,
+      "grossMargins": 0.01525,
+      "operatingMargins": -0.02194,
+      "returnOnAssets": -0.041550003,
+      "returnOnEquity": -0.08208,
+      "totalRevenue": 41705005056,
       "revenuePerShare": 277.214,
-      "totalCash": 1471372288,
-      "totalDebt": 1955109248,
-      "debtToEquity": 69.454,
-      "currentRatio": 1.339,
-      "quickRatio": 1.141,
+      "totalCash": 830075904,
+      "totalDebt": 2458277888,
+      "debtToEquity": 85.193,
+      "currentRatio": 1.005,
+      "quickRatio": 0.974,
       "eps": -1.27,
       "forwardEps": null,
       "bookValue": 16.934,
@@ -90032,7 +90032,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.079,
+      "beta": null,
       "historicalData": [
         {
           "Close": 13.380000114440918,
@@ -90401,7 +90401,7 @@
       "bookValue": 1.491,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 810864000,
+      "exDividendDate": null,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -91157,7 +91157,7 @@
       "bookValue": 88.381,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1731628800,
+      "exDividendDate": null,
       "payoutRatio": 0.0382,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -91668,7 +91668,7 @@
         }
       ],
       "heldPercentInsiders": 0.77331,
-      "heldPercentInstitutions": 0.011469999
+      "heldPercentInstitutions": 0.012259999
     },
     {
       "code": "VKFYO",
@@ -92613,7 +92613,7 @@
         }
       ],
       "heldPercentInsiders": 0.21252,
-      "heldPercentInstitutions": 0.04976
+      "heldPercentInstitutions": 0.052410003
     },
     {
       "code": "YESIL",
@@ -93180,7 +93180,7 @@
         }
       ],
       "heldPercentInsiders": 0.2,
-      "heldPercentInstitutions": 0.03694
+      "heldPercentInstitutions": 0.03733
     },
     {
       "code": "YKSLN",
@@ -93425,7 +93425,7 @@
       "bookValue": 9.183,
       "dividendRate": 0.37,
       "dividendYield": 3.6,
-      "exDividendDate": 1777248000,
+      "exDividendDate": null,
       "payoutRatio": 0.0454,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -94249,7 +94249,7 @@
       "bookValue": 16.901,
       "dividendRate": 0.09,
       "dividendYield": 0.57,
-      "exDividendDate": 1782777600,
+      "exDividendDate": null,
       "payoutRatio": 0.0369,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -94382,7 +94382,7 @@
         }
       ],
       "heldPercentInsiders": 0.81058997,
-      "heldPercentInstitutions": 0.17122
+      "heldPercentInstitutions": 0.1713
     }
   ]
 }
