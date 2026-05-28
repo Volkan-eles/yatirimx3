@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-05-28T16:59:33.097598",
+  "last_update": "2026-05-28T19:42:34.581281",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 499,
-  "successful": 499,
-  "failed": 32,
+  "total_stocks": 500,
+  "successful": 500,
+  "failed": 31,
   "stocks": [
     {
       "code": "GARAN",
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.365852,
-      "targetLowPrice": 35.43071,
-      "targetMeanPrice": 44.721172,
-      "targetMedianPrice": 46.445435,
+      "targetHighPrice": 52.36289,
+      "targetLowPrice": 35.428703,
+      "targetMeanPrice": 44.718643,
+      "targetMedianPrice": 46.442806,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.43,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 587.4027,
-      "targetLowPrice": 381.67,
-      "targetMeanPrice": 445.03467,
-      "targetMedianPrice": 429.06448,
+      "targetHighPrice": 587.0135,
+      "targetLowPrice": 381.4171,
+      "targetMeanPrice": 444.7398,
+      "targetMedianPrice": 428.78018,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -19282,6 +19282,195 @@
       ],
       "heldPercentInsiders": 0.84713995,
       "heldPercentInstitutions": 0.0092400005
+    },
+    {
+      "code": "BAYRK",
+      "symbol": "BAYRK.IS",
+      "name": "Bayrak EBT Taban Sanayi ve Ticaret Anonim Sirketi",
+      "shortName": "BAYRAK TABAN SANAYI",
+      "price": 5.35,
+      "change": -0.2,
+      "changeRate": -3.6,
+      "previousClose": 5.55,
+      "open": 5.55,
+      "dayLow": 5.34,
+      "dayHigh": 5.86,
+      "fiftyTwoWeekLow": 4.04,
+      "fiftyTwoWeekHigh": 9.33,
+      "fiftyDayAverage": 4.83,
+      "twoHundredDayAverage": 5.77,
+      "volume": "24,154,797",
+      "averageVolume": 17113832,
+      "averageVolume10days": 32201918,
+      "marketCap": 1337500032,
+      "enterpriseValue": 1519903360,
+      "sharesOutstanding": 249999992,
+      "sector": "Consumer Cyclical",
+      "industry": "Footwear & Accessories",
+      "website": "https://bayrakebt.com.tr",
+      "address": "Ikitelli OSB Mah.",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "phone": "90 212 886 46 70",
+      "description": "Bayrak EBT Taban Sanayi ve Ticaret Anonim Sirketi manufactures and sells PVC and thermo shoe soles in Turkey. The company offers faylon, single color, single painted sole, single TPU, bottom piece, painted base with bottom piece, TPU sole with bottom piece, and winter soles. It offers soles for men, women, and children. The company was incorporated in 1993 and is headquartered in Istanbul, Turkey.",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": 6.3089623,
+      "pegRatio": null,
+      "priceToSales": 5.716917,
+      "enterpriseToRevenue": 6.497,
+      "enterpriseToEbitda": -24.045,
+      "profitMargins": -0.66869,
+      "grossMargins": 0.08845,
+      "operatingMargins": 0.00656,
+      "returnOnAssets": -0.11432999,
+      "returnOnEquity": -0.90307,
+      "totalRevenue": 233954768,
+      "revenuePerShare": 0.923,
+      "totalCash": 26157620,
+      "totalDebt": 208560992,
+      "debtToEquity": 87.66,
+      "currentRatio": 0.767,
+      "quickRatio": 0.323,
+      "eps": -0.78,
+      "forwardEps": null,
+      "bookValue": 0.848,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": null,
+      "historicalData": [
+        {
+          "Close": 4.679999828338623,
+          "Volume": 8657621
+        },
+        {
+          "Close": 4.619999885559082,
+          "Volume": 13274243
+        },
+        {
+          "Close": 4.730000019073486,
+          "Volume": 14768405
+        },
+        {
+          "Close": 4.920000076293945,
+          "Volume": 25481938
+        },
+        {
+          "Close": 5.070000171661377,
+          "Volume": 27012701
+        },
+        {
+          "Close": 5.079999923706055,
+          "Volume": 37258388
+        },
+        {
+          "Close": 4.909999847412109,
+          "Volume": 13164687
+        },
+        {
+          "Close": 4.920000076293945,
+          "Volume": 10595759
+        },
+        {
+          "Close": 4.800000190734863,
+          "Volume": 8103859
+        },
+        {
+          "Close": 4.769999980926514,
+          "Volume": 5034080
+        },
+        {
+          "Close": 4.78000020980835,
+          "Volume": 6070776
+        },
+        {
+          "Close": 4.599999904632568,
+          "Volume": 8838801
+        },
+        {
+          "Close": 4.599999904632568,
+          "Volume": 4228821
+        },
+        {
+          "Close": 4.920000076293945,
+          "Volume": 19166310
+        },
+        {
+          "Close": 4.920000076293945,
+          "Volume": 27241434
+        },
+        {
+          "Close": 4.869999885559082,
+          "Volume": 13464874
+        },
+        {
+          "Close": 5.0,
+          "Volume": 16709383
+        },
+        {
+          "Close": 5.050000190734863,
+          "Volume": 14155441
+        },
+        {
+          "Close": 5.090000152587891,
+          "Volume": 25719747
+        },
+        {
+          "Close": 5.010000228881836,
+          "Volume": 13176230
+        },
+        {
+          "Close": 5.010000228881836,
+          "Volume": 14877990
+        },
+        {
+          "Close": 4.849999904632568,
+          "Volume": 10994584
+        },
+        {
+          "Close": 4.909999847412109,
+          "Volume": 11821355
+        },
+        {
+          "Close": 5.139999866485596,
+          "Volume": 19397403
+        },
+        {
+          "Close": 5.03000020980835,
+          "Volume": 40720032
+        },
+        {
+          "Close": 5.079999923706055,
+          "Volume": 28988823
+        },
+        {
+          "Close": 5.099999904632568,
+          "Volume": 46429577
+        },
+        {
+          "Close": 5.610000133514404,
+          "Volume": 58574574
+        },
+        {
+          "Close": 5.550000190734863,
+          "Volume": 66060054
+        },
+        {
+          "Close": 5.349999904632568,
+          "Volume": 24154797
+        }
+      ],
+      "heldPercentInsiders": 0.24097,
+      "heldPercentInstitutions": 0.14163
     },
     {
       "code": "BEGYO",
@@ -45043,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.51649,
-      "targetLowPrice": 61.49917,
-      "targetMeanPrice": 66.89962,
-      "targetMedianPrice": 61.682747,
+      "targetHighPrice": 77.511086,
+      "targetLowPrice": 61.49488,
+      "targetMeanPrice": 66.89495,
+      "targetMedianPrice": 61.678444,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
@@ -80551,7 +80740,7 @@
       "description": "Seker Finansal Kiralama A.S. provides equipment financing and leasing services. It offers leasing services for the purchase of production machinery, construction equipment and forklifts, logistics transportation and transportation equipment, commercial/passenger vehicles, agriculture equipment, medical devices, yachts and boats, real estate, and energy production and technology packages, as well as real estate comprising business premises, offices, factory buildings, lands, etc. The company also provides operational leasing, SME, women entrepreneurs, start-up, and sales lease back packages; and insurance services. Seker Finansal Kiralama A.S. was incorporated in 1997 and is headquartered in Istanbul, Turkey.",
       "pe": 5.213198,
       "forwardPE": null,
-      "priceToBook": 1.0873479,
+      "priceToBook": 1.0085437,
       "pegRatio": null,
       "priceToSales": 1.6463584,
       "enterpriseToRevenue": 7.272,
@@ -80570,7 +80759,7 @@
       "quickRatio": 0.908,
       "eps": 1.97,
       "forwardEps": null,
-      "bookValue": 9.445,
+      "bookValue": 10.183,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1712534400,
