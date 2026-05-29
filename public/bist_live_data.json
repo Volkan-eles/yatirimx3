@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-29T14:13:20.205840",
+  "last_update": "2026-05-29T17:53:17.043729",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.355587,
-      "targetLowPrice": 35.42376,
-      "targetMeanPrice": 44.712402,
-      "targetMedianPrice": 46.43633,
+      "targetHighPrice": 52.358322,
+      "targetLowPrice": 35.425613,
+      "targetMeanPrice": 44.71474,
+      "targetMedianPrice": 46.438755,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.43,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 587.3803,
-      "targetLowPrice": 381.65546,
-      "targetMeanPrice": 445.0177,
-      "targetMedianPrice": 429.0481,
+      "targetHighPrice": 588.2763,
+      "targetLowPrice": 382.23767,
+      "targetMeanPrice": 445.6966,
+      "targetMedianPrice": 429.7026,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -36136,7 +36136,7 @@
       "description": "Esenboga Elektrik Üretim A.S. engages in the establishment, commissioning, production, and sale of electricity in Turkey. The company owns solar power plants; and is involved in solar power plant contracting business. It also provides operation and maintenance solutions; and project development and turnkey engineering, procurement and installation for solar energy projects. Esenboga Elektrik Üretim A.S. was incorporated in 2015 and is headquartered in Ankara, Turkey. Esenboga Elektrik Üretim A.S. is a subsidiary of Naturel Yenilenebilir Enerji Ticaret A.S.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.63201797,
+      "priceToBook": 0.5906161,
       "pegRatio": null,
       "priceToSales": 5.0378118,
       "enterpriseToRevenue": 13.138,
@@ -36155,7 +36155,7 @@
       "quickRatio": 0.2,
       "eps": -0.19,
       "forwardEps": null,
-      "bookValue": 6.234,
+      "bookValue": 6.671,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1681257600,
@@ -44641,7 +44641,7 @@
       "description": "Hedef Holding A.S, an investment company, engages in the investment business in Turkey. The company offers investment consultancy, portfolio management, and corporate finance services to individual and corporate investors; and brokerage services capital market instruments. It also manages portfolios of domestic and foreign investment funds, investment partnerships, domestic and foreign private and legal entities, and investment companies. The company serves finance, technology, fintech, healthcare, energy, real estate, and other sectors. Hedef Holding A.S was founded in 1996 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 48.257195,
+      "priceToBook": 45.632004,
       "pegRatio": null,
       "priceToSales": 105.48166,
       "enterpriseToRevenue": 105.485,
@@ -44660,7 +44660,7 @@
       "quickRatio": 0.023,
       "eps": -0.2,
       "forwardEps": null,
-      "bookValue": 2.955,
+      "bookValue": 3.125,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.50128,
-      "targetLowPrice": 61.487106,
-      "targetMeanPrice": 66.8865,
-      "targetMedianPrice": 61.670647,
+      "targetHighPrice": 77.506355,
+      "targetLowPrice": 61.491127,
+      "targetMeanPrice": 66.89087,
+      "targetMedianPrice": 61.674683,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
@@ -59039,15 +59039,15 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 83.03742218017578,
+          "Close": 83.03742980957031,
           "Volume": 95193098
         },
         {
-          "Close": 83.6362533569336,
+          "Close": 83.63626098632812,
           "Volume": 23538711
         },
         {
-          "Close": 83.83586120605469,
+          "Close": 83.83586883544922,
           "Volume": 17753965
         },
         {
@@ -59055,7 +59055,7 @@
           "Volume": 30996680
         },
         {
-          "Close": 92.71847534179688,
+          "Close": 92.71846771240234,
           "Volume": 47842338
         },
         {
