@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-29T17:53:17.043729",
+  "last_update": "2026-05-29T20:34:11.978465",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.358322,
-      "targetLowPrice": 35.425613,
-      "targetMeanPrice": 44.71474,
-      "targetMedianPrice": 46.438755,
+      "targetHighPrice": 52.356155,
+      "targetLowPrice": 35.42415,
+      "targetMeanPrice": 44.71289,
+      "targetMedianPrice": 46.436832,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.43,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 588.2763,
-      "targetLowPrice": 382.23767,
-      "targetMeanPrice": 445.6966,
-      "targetMedianPrice": 429.7026,
+      "targetHighPrice": 587.7411,
+      "targetLowPrice": 381.8899,
+      "targetMeanPrice": 445.29108,
+      "targetMedianPrice": 429.31168,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -8948,7 +8948,7 @@
       "targetLowPrice": 75.4,
       "targetMeanPrice": 101.72,
       "targetMedianPrice": 110.0,
-      "recommendationMean": 1.66667,
+      "recommendationMean": 1.8,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 5,
       "beta": null,
@@ -25741,7 +25741,7 @@
       "description": "Çimentas Izmir Çimento Fabrikasi Türk A.S., together with its subsidiaries, engages in the production, trading, sale, and transportation of bulk and bagged cement in Turkey. The company offers cement, ready mixed concrete, and aggregate products. It is also involved in waste management and sale of fuel. The company was founded in 1947 and is headquartered in Izmir, Turkey. Çimentas Izmir Çimento Fabrikasi Türk A.S. operates as a subsidiary of Aalborg Portland Espana SL.",
       "pe": 22.2783,
       "forwardPE": null,
-      "priceToBook": 1.6905755,
+      "priceToBook": 1.5953904,
       "pegRatio": null,
       "priceToSales": 1.6914289,
       "enterpriseToRevenue": 1.895,
@@ -25760,7 +25760,7 @@
       "quickRatio": 1.373,
       "eps": 13.87,
       "forwardEps": null,
-      "bookValue": 182.778,
+      "bookValue": 193.683,
       "dividendRate": 8.18,
       "dividendYield": 2.52,
       "exDividendDate": 1735171200,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.506355,
-      "targetLowPrice": 61.491127,
-      "targetMeanPrice": 66.89087,
-      "targetMedianPrice": 61.674683,
+      "targetHighPrice": 77.50128,
+      "targetLowPrice": 61.487106,
+      "targetMeanPrice": 66.8865,
+      "targetMedianPrice": 61.670647,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
@@ -59039,15 +59039,15 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 83.03742980957031,
+          "Close": 83.03742218017578,
           "Volume": 95193098
         },
         {
-          "Close": 83.63626098632812,
+          "Close": 83.6362533569336,
           "Volume": 23538711
         },
         {
-          "Close": 83.83586883544922,
+          "Close": 83.83586120605469,
           "Volume": 17753965
         },
         {
@@ -59055,7 +59055,7 @@
           "Volume": 30996680
         },
         {
-          "Close": 92.71846771240234,
+          "Close": 92.71847534179688,
           "Volume": 47842338
         },
         {
