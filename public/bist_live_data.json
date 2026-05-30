@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-30T07:45:16.407991",
+  "last_update": "2026-05-30T10:08:11.817345",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -570,7 +570,7 @@
         }
       ],
       "heldPercentInsiders": 0.61166,
-      "heldPercentInstitutions": 0.14531
+      "heldPercentInstitutions": 0.14532
     },
     {
       "code": "ISCTR",
@@ -759,7 +759,7 @@
         }
       ],
       "heldPercentInsiders": 0.66977996,
-      "heldPercentInstitutions": 0.0635
+      "heldPercentInstitutions": 0.0626
     },
     {
       "code": "VAKBN",
@@ -1326,7 +1326,7 @@
         }
       ],
       "heldPercentInsiders": 0.49122003,
-      "heldPercentInstitutions": 0.085360005
+      "heldPercentInstitutions": 0.08529
     },
     {
       "code": "PGSUS",
@@ -1704,7 +1704,7 @@
         }
       ],
       "heldPercentInsiders": 0.50668997,
-      "heldPercentInstitutions": 0.11603
+      "heldPercentInstitutions": 0.11635
     },
     {
       "code": "PETKM",
@@ -30621,7 +30621,7 @@
         }
       ],
       "heldPercentInsiders": 0.30118,
-      "heldPercentInstitutions": 0.39124
+      "heldPercentInstitutions": 0.39096
     },
     {
       "code": "DOFER",
@@ -31944,7 +31944,7 @@
         }
       ],
       "heldPercentInsiders": 0.81232,
-      "heldPercentInstitutions": 0.01227
+      "heldPercentInstitutions": 0.012259999
     },
     {
       "code": "ECZYT",
@@ -45414,7 +45414,7 @@
       "debtToEquity": 0.001,
       "currentRatio": 1.093,
       "quickRatio": 0.989,
-      "eps": -1.97,
+      "eps": -2.06,
       "forwardEps": null,
       "bookValue": 1.875,
       "dividendRate": null,
@@ -55380,7 +55380,7 @@
         }
       ],
       "heldPercentInsiders": 0.79,
-      "heldPercentInstitutions": 0.07486
+      "heldPercentInstitutions": 0.07482
     },
     {
       "code": "KLSER",
@@ -57459,7 +57459,7 @@
         }
       ],
       "heldPercentInsiders": 0.0,
-      "heldPercentInstitutions": 0.115030006
+      "heldPercentInstitutions": 0.11504
     },
     {
       "code": "KRDMB",
@@ -59039,11 +59039,11 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 83.63626098632812,
+          "Close": 83.6362533569336,
           "Volume": 23538711
         },
         {
-          "Close": 83.83586883544922,
+          "Close": 83.83586120605469,
           "Volume": 17753965
         },
         {
@@ -59051,7 +59051,7 @@
           "Volume": 30996680
         },
         {
-          "Close": 92.71846771240234,
+          "Close": 92.71847534179688,
           "Volume": 47842338
         },
         {
@@ -80555,7 +80555,7 @@
       "pegRatio": null,
       "priceToSales": 9.434458,
       "enterpriseToRevenue": 10.061,
-      "enterpriseToEbitda": -2.647,
+      "enterpriseToEbitda": -2.646,
       "profitMargins": 0.0,
       "grossMargins": 0.0,
       "operatingMargins": -4.7712297,
