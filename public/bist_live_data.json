@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-30T04:37:35.917003",
+  "last_update": "2026-05-30T07:45:16.407991",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -192,7 +192,7 @@
         }
       ],
       "heldPercentInsiders": 0.85974,
-      "heldPercentInstitutions": 0.02943
+      "heldPercentInstitutions": 0.028169999
     },
     {
       "code": "AKBNK",
@@ -381,7 +381,7 @@
         }
       ],
       "heldPercentInsiders": 0.41277,
-      "heldPercentInstitutions": 0.2034
+      "heldPercentInstitutions": 0.20336
     },
     {
       "code": "YKBNK",
@@ -2082,7 +2082,7 @@
         }
       ],
       "heldPercentInsiders": 0.49542,
-      "heldPercentInstitutions": 0.084
+      "heldPercentInstitutions": 0.08403
     },
     {
       "code": "KRDMD",
@@ -2460,7 +2460,7 @@
         }
       ],
       "heldPercentInsiders": 0.74195,
-      "heldPercentInstitutions": 0.09333
+      "heldPercentInstitutions": 0.0928
     },
     {
       "code": "BIMAS",
@@ -2649,7 +2649,7 @@
         }
       ],
       "heldPercentInsiders": 0.27561,
-      "heldPercentInstitutions": 0.23622
+      "heldPercentInstitutions": 0.2362
     },
     {
       "code": "MGROS",
@@ -3405,7 +3405,7 @@
         }
       ],
       "heldPercentInsiders": 0.46,
-      "heldPercentInstitutions": 0.13198
+      "heldPercentInstitutions": 0.13202
     },
     {
       "code": "SISE",
@@ -4161,7 +4161,7 @@
         }
       ],
       "heldPercentInsiders": 0.34595,
-      "heldPercentInstitutions": 0.12911001
+      "heldPercentInstitutions": 0.12913
     },
     {
       "code": "KCHOL",
@@ -4350,7 +4350,7 @@
         }
       ],
       "heldPercentInsiders": 0.57186,
-      "heldPercentInstitutions": 0.08609
+      "heldPercentInstitutions": 0.08612
     },
     {
       "code": "DOHOL",
@@ -5295,7 +5295,7 @@
         }
       ],
       "heldPercentInsiders": 0.5017,
-      "heldPercentInstitutions": 0.18961
+      "heldPercentInstitutions": 0.18959999
     },
     {
       "code": "EKGYO",
@@ -5484,7 +5484,7 @@
         }
       ],
       "heldPercentInsiders": 0.49338,
-      "heldPercentInstitutions": 0.07964
+      "heldPercentInstitutions": 0.079629995
     },
     {
       "code": "ENJSA",
@@ -7941,7 +7941,7 @@
         }
       ],
       "heldPercentInsiders": 0.27186,
-      "heldPercentInstitutions": 0.18899
+      "heldPercentInstitutions": 0.18874
     },
     {
       "code": "KARSN",
@@ -11381,14 +11381,14 @@
       "pegRatio": null,
       "priceToSales": 3.3603337,
       "enterpriseToRevenue": 3.995,
-      "enterpriseToEbitda": 110.717,
+      "enterpriseToEbitda": 98.599,
       "profitMargins": -0.10731,
       "grossMargins": 0.37887,
-      "operatingMargins": -0.02243,
-      "returnOnAssets": 0.00064000004,
+      "operatingMargins": -0.02626,
+      "returnOnAssets": 0.0016500001,
       "returnOnEquity": -0.20416,
       "totalRevenue": 2559823872,
-      "revenuePerShare": 8.079,
+      "revenuePerShare": 9.85,
       "totalCash": 295563008,
       "totalDebt": 1921261952,
       "debtToEquity": 147.934,
@@ -11408,7 +11408,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.395,
       "historicalData": [
         {
           "Close": 43.599998474121094,
@@ -18563,14 +18563,14 @@
       "pegRatio": 1.91,
       "priceToSales": 0.47868723,
       "enterpriseToRevenue": 0.438,
-      "enterpriseToEbitda": -5.629,
+      "enterpriseToEbitda": -5.298,
       "profitMargins": -0.12422,
       "grossMargins": -0.01756,
-      "operatingMargins": -0.110319994,
-      "returnOnAssets": -0.11461,
+      "operatingMargins": -0.10442001,
+      "returnOnAssets": -0.117989995,
       "returnOnEquity": -0.34789002,
       "totalRevenue": 31343089664,
-      "revenuePerShare": 334.845,
+      "revenuePerShare": 313.357,
       "totalCash": 6003714048,
       "totalDebt": 4741070848,
       "debtToEquity": 41.639,
@@ -18590,7 +18590,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.165,
       "historicalData": [
         {
           "Close": 162.39999389648438,
@@ -24951,7 +24951,7 @@
         }
       ],
       "heldPercentInsiders": 0.7043,
-      "heldPercentInstitutions": 0.08008
+      "heldPercentInstitutions": 0.07925
     },
     {
       "code": "CELHA",
@@ -27219,7 +27219,7 @@
         }
       ],
       "heldPercentInsiders": 0.60861,
-      "heldPercentInstitutions": 0.15366
+      "heldPercentInstitutions": 0.15365
     },
     {
       "code": "DAGI",
@@ -31966,7 +31966,7 @@
       "averageVolume": 568176,
       "averageVolume10days": 351355,
       "marketCap": 37642498048,
-      "enterpriseValue": 36841598976,
+      "enterpriseValue": 36830392320,
       "sharesOutstanding": 105000000,
       "sector": "Industrials",
       "industry": "Conglomerates",
@@ -31982,19 +31982,19 @@
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": null,
-      "enterpriseToEbitda": -909.759,
+      "enterpriseToEbitda": -800.602,
       "profitMargins": 0.0,
       "grossMargins": 0.0,
       "operatingMargins": 0.0,
-      "returnOnAssets": -0.00091,
-      "returnOnEquity": 0.03004,
+      "returnOnAssets": -0.00106,
+      "returnOnEquity": -0.00341,
       "totalRevenue": null,
       "revenuePerShare": null,
-      "totalCash": 800942336,
-      "totalDebt": 41366,
+      "totalCash": 812173504,
+      "totalDebt": 64766,
       "debtToEquity": 0.0,
-      "currentRatio": 70.882,
-      "quickRatio": 70.779,
+      "currentRatio": 38.878,
+      "quickRatio": 38.779,
       "eps": -0.86,
       "forwardEps": null,
       "bookValue": 264.545,
@@ -42550,7 +42550,7 @@
       "averageVolume": 2129362,
       "averageVolume10days": 1625620,
       "marketCap": 7384300032,
-      "enterpriseValue": 7373030400,
+      "enterpriseValue": 8678755328,
       "sharesOutstanding": 385000000,
       "sector": "Financial Services",
       "industry": "Asset Management",
@@ -42565,18 +42565,18 @@
       "priceToBook": 0.27736002,
       "pegRatio": null,
       "priceToSales": 15917.184,
-      "enterpriseToRevenue": 15892.892,
-      "enterpriseToEbitda": 12.287,
+      "enterpriseToRevenue": 18707.44,
+      "enterpriseToEbitda": -68.444,
       "profitMargins": 0.0,
       "grossMargins": 1.0,
-      "operatingMargins": 1293.0255,
-      "returnOnAssets": 0.01318,
+      "operatingMargins": -273.78583,
+      "returnOnAssets": -0.00279,
       "returnOnEquity": -0.22162001,
       "totalRevenue": 463920,
       "revenuePerShare": 0.001,
       "totalCash": 897289,
-      "totalDebt": 0,
-      "debtToEquity": null,
+      "totalDebt": 1295352960,
+      "debtToEquity": 4.872,
       "currentRatio": 0.763,
       "quickRatio": 0.748,
       "eps": -14.91,
@@ -42593,7 +42593,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.179,
       "historicalData": [
         {
           "Close": 20.239999771118164,
@@ -42990,15 +42990,15 @@
           "Volume": 381060
         },
         {
-          "Close": 307.0934753417969,
+          "Close": 307.09344482421875,
           "Volume": 728698
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 565903
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 363119
         },
         {
@@ -43018,7 +43018,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.6504821777344,
+          "Close": 294.65045166015625,
           "Volume": 791784
         },
         {
@@ -44267,19 +44267,19 @@
       "pegRatio": null,
       "priceToSales": 2.8060882,
       "enterpriseToRevenue": 2.863,
-      "enterpriseToEbitda": 105.624,
+      "enterpriseToEbitda": 80.092,
       "profitMargins": -0.07642,
-      "grossMargins": -0.02954,
-      "operatingMargins": -0.19676,
-      "returnOnAssets": -0.02096,
+      "grossMargins": -0.029560002,
+      "operatingMargins": -0.20121999,
+      "returnOnAssets": -0.01747,
       "returnOnEquity": -0.06131,
       "totalRevenue": 4582206464,
-      "revenuePerShare": 21.35,
+      "revenuePerShare": 20.687,
       "totalCash": 679009792,
       "totalDebt": 940627712,
       "debtToEquity": 14.896,
       "currentRatio": 1.172,
-      "quickRatio": 0.524,
+      "quickRatio": 0.523,
       "eps": -1.58,
       "forwardEps": null,
       "bookValue": 26.198,
@@ -44294,7 +44294,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.224,
       "historicalData": [
         {
           "Close": 40.47999954223633,
@@ -48992,7 +48992,7 @@
       "pegRatio": null,
       "priceToSales": 87.977936,
       "enterpriseToRevenue": 85.297,
-      "enterpriseToEbitda": 23.629,
+      "enterpriseToEbitda": 23.626,
       "profitMargins": 2.68375,
       "grossMargins": 3.65189,
       "operatingMargins": 0.99036,
@@ -59039,11 +59039,11 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 83.6362533569336,
+          "Close": 83.63626098632812,
           "Volume": 23538711
         },
         {
-          "Close": 83.83586120605469,
+          "Close": 83.83586883544922,
           "Volume": 17753965
         },
         {
@@ -59051,7 +59051,7 @@
           "Volume": 30996680
         },
         {
-          "Close": 92.71847534179688,
+          "Close": 92.71846771240234,
           "Volume": 47842338
         },
         {
@@ -65986,7 +65986,7 @@
       "averageVolume": 674086,
       "averageVolume10days": 569926,
       "marketCap": 86229164032,
-      "enterpriseValue": 0,
+      "enterpriseValue": 103855955968,
       "sharesOutstanding": 102122233,
       "sector": "Healthcare",
       "industry": "Medical Care Facilities",
@@ -66001,11 +66001,11 @@
       "priceToBook": 2.688874,
       "pegRatio": null,
       "priceToSales": 1.5651573,
-      "enterpriseToRevenue": null,
-      "enterpriseToEbitda": null,
+      "enterpriseToRevenue": 1.885,
+      "enterpriseToEbitda": 6.825,
       "profitMargins": 0.1005,
       "grossMargins": 0.28112,
-      "operatingMargins": 0.15487,
+      "operatingMargins": 0.15696,
       "returnOnAssets": 0.10258,
       "returnOnEquity": 0.20549,
       "totalRevenue": 55092969472,
@@ -80177,14 +80177,14 @@
       "pegRatio": null,
       "priceToSales": 5.958269,
       "enterpriseToRevenue": 6.134,
-      "enterpriseToEbitda": 38.532,
+      "enterpriseToEbitda": 41.896,
       "profitMargins": 0.04994,
       "grossMargins": 0.26775,
-      "operatingMargins": 0.25475,
-      "returnOnAssets": 0.056760002,
+      "operatingMargins": 0.22555,
+      "returnOnAssets": 0.05392,
       "returnOnEquity": 0.053049996,
       "totalRevenue": 2443326976,
-      "revenuePerShare": 37.238,
+      "revenuePerShare": 42.126,
       "totalCash": 160349648,
       "totalDebt": 584482176,
       "debtToEquity": 21.675,
@@ -80204,7 +80204,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.698,
       "historicalData": [
         {
           "Close": 211.3000030517578,
@@ -86414,14 +86414,14 @@
       "pegRatio": null,
       "priceToSales": 0.049295038,
       "enterpriseToRevenue": 0.136,
-      "enterpriseToEbitda": -17.704,
+      "enterpriseToEbitda": -17.241,
       "profitMargins": -0.025969999,
-      "grossMargins": 0.1304,
-      "operatingMargins": -0.03523,
-      "returnOnAssets": -0.04656,
+      "grossMargins": 0.13045,
+      "operatingMargins": -0.03391,
+      "returnOnAssets": -0.04701,
       "returnOnEquity": -1.81153,
       "totalRevenue": 84159381504,
-      "revenuePerShare": 415.519,
+      "revenuePerShare": 418.22,
       "totalCash": 615337984,
       "totalDebt": 7908787200,
       "debtToEquity": 2438.914,
@@ -86441,7 +86441,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
-      "beta": null,
+      "beta": 0.006,
       "historicalData": [
         {
           "Close": 22.760000228881836,
@@ -87321,7 +87321,7 @@
         }
       ],
       "heldPercentInsiders": 0.85276,
-      "heldPercentInstitutions": 0.02002
+      "heldPercentInstitutions": 0.02001
     },
     {
       "code": "TRILC",
@@ -88865,7 +88865,7 @@
       "country": "Turkey",
       "phone": "90 850 202 20 20",
       "description": "Türkiye Sigorta A.S. operates as a non-life insurance company in Turkey. It offers auto and non-auto accident, fire, transportation, engineering, health, agriculture, liability, financial losses, credit, and legal protection insurance products. Türkiye Sigorta A.S. was formerly known as Günes Sigorta Anonim Sirketi and changed its name to Türkiye Sigorta A.S. in August 2020. The company was incorporated in 1957 and is based in Istanbul, Turkey. Türkiye Sigorta A.S. operates as a subsidiary of TVF Finansal Yatirimlar AS.",
-      "pe": 6.4717946,
+      "pe": 7.4674554,
       "forwardPE": 3.6057143,
       "priceToBook": 2.5417924,
       "pegRatio": null,
@@ -88884,7 +88884,7 @@
       "debtToEquity": 0.239,
       "currentRatio": 1.36,
       "quickRatio": 1.2,
-      "eps": 1.95,
+      "eps": 1.69,
       "forwardEps": 3.5,
       "bookValue": 4.965,
       "dividendRate": 0.3,
@@ -89044,7 +89044,7 @@
       "averageVolume": 25879,
       "averageVolume10days": 20553,
       "marketCap": 55623516160,
-      "enterpriseValue": 64882851840,
+      "enterpriseValue": 6488265326592,
       "sharesOutstanding": 40161382,
       "sector": "Real Estate",
       "industry": "Real Estate Services",
@@ -89060,11 +89060,11 @@
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": null,
-      "enterpriseToEbitda": -3043.305,
+      "enterpriseToEbitda": -315764.56,
       "profitMargins": 0.0,
       "grossMargins": 0.0,
       "operatingMargins": 0.0,
-      "returnOnAssets": -0.00567,
+      "returnOnAssets": -0.00546,
       "returnOnEquity": 0.24258,
       "totalRevenue": null,
       "revenuePerShare": null,
@@ -89087,7 +89087,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.162,
       "historicalData": [
         {
           "Close": 1533.0,
@@ -91501,7 +91501,7 @@
       "averageVolume": 7231006,
       "averageVolume10days": 5909988,
       "marketCap": 10832000000,
-      "enterpriseValue": 35169148928,
+      "enterpriseValue": 36339056640,
       "sharesOutstanding": 1600000000,
       "sector": "Consumer Cyclical",
       "industry": "Furnishings, Fixtures & Appliances",
@@ -91516,18 +91516,18 @@
       "priceToBook": 0.29534942,
       "pegRatio": 2.6,
       "priceToSales": 0.1705641,
-      "enterpriseToRevenue": 0.554,
-      "enterpriseToEbitda": 41.537,
+      "enterpriseToRevenue": 0.572,
+      "enterpriseToEbitda": 46.202,
       "profitMargins": -0.10009,
       "grossMargins": 0.05387,
-      "operatingMargins": -0.17346,
-      "returnOnAssets": -0.01667,
+      "operatingMargins": -0.11338,
+      "returnOnAssets": -0.01731,
       "returnOnEquity": -0.16941,
       "totalRevenue": 63506915328,
-      "revenuePerShare": 46.475,
-      "totalCash": 268768992,
-      "totalDebt": 24605917184,
-      "debtToEquity": 63.042,
+      "revenuePerShare": 39.692,
+      "totalCash": 279668992,
+      "totalDebt": 25786726400,
+      "debtToEquity": 66.067,
       "currentRatio": 0.825,
       "quickRatio": 0.556,
       "eps": -3.97,
@@ -91544,7 +91544,7 @@
       "recommendationMean": 3.0,
       "recommendationKey": "hold",
       "numberOfAnalystOpinions": 2,
-      "beta": null,
+      "beta": 0.341,
       "historicalData": [
         {
           "Close": 7.300000190734863,
