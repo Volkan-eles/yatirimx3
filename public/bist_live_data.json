@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-31T18:47:42.859324",
+  "last_update": "2026-05-31T20:19:54.642715",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.309486,
-      "targetLowPrice": 35.39257,
-      "targetMeanPrice": 44.673035,
-      "targetMedianPrice": 46.39544,
+      "targetHighPrice": 51.89713,
+      "targetLowPrice": 35.11357,
+      "targetMeanPrice": 44.320877,
+      "targetMedianPrice": 46.029705,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.43,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 587.49884,
-      "targetLowPrice": 381.7325,
-      "targetMeanPrice": 445.10754,
-      "targetMedianPrice": 429.13474,
+      "targetHighPrice": 587.97986,
+      "targetLowPrice": 382.045,
+      "targetMeanPrice": 445.47195,
+      "targetMedianPrice": 429.48605,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.43271,
-      "targetLowPrice": 61.4327,
-      "targetMeanPrice": 66.82732,
-      "targetMedianPrice": 61.61608,
+      "targetHighPrice": 76.8223,
+      "targetLowPrice": 60.948425,
+      "targetMeanPrice": 66.300514,
+      "targetMedianPrice": 61.13036,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
@@ -59039,11 +59039,11 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 83.6362533569336,
+          "Close": 83.63626098632812,
           "Volume": 23538711
         },
         {
-          "Close": 83.83586120605469,
+          "Close": 83.83586883544922,
           "Volume": 17753965
         },
         {
@@ -59051,7 +59051,7 @@
           "Volume": 30996680
         },
         {
-          "Close": 92.71847534179688,
+          "Close": 92.71846771240234,
           "Volume": 47842338
         },
         {
