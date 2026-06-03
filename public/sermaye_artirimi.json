@@ -5,7 +5,7 @@
     "type": "Bedelsiz",
     "rate": "%53,88",
     "date": "03.06.2026",
-    "status": "Onaylandı",
+    "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 03.06.2026 | Tutar: 1.050.544.100 TL"
   },
   {
@@ -16,6 +16,15 @@
     "date": "01.06.2026",
     "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 01.06.2026"
+  },
+  {
+    "code": "BLCYT",
+    "company": "BLCYT Bilici Yatırım San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%900",
+    "date": "02.06.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "KONKA",
@@ -315,6 +324,15 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
+    "code": "IHLAS",
+    "company": "IHLAS İhlas Holding A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "02.06.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
+  },
+  {
     "code": "TEKTU",
     "company": "TEKTU Tek-Art İnşaat Ticaret Turizm Sanayi ve Yatırımlar A.Ş.",
     "type": "Bedelli",
@@ -470,15 +488,6 @@
   {
     "code": "YESIL",
     "company": "YESIL Yeşil Yatırım Holding A.Ş.",
-    "type": "Bedelli",
-    "rate": "%200",
-    "date": "01.12.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "IHLAS",
-    "company": "IHLAS İhlas Holding A.Ş.",
     "type": "Bedelli",
     "rate": "%200",
     "date": "01.12.2025",
