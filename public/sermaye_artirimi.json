@@ -1,14 +1,5 @@
 [
   {
-    "code": "HEDEF",
-    "company": "HEDEF Hedef Holding A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%53,88",
-    "date": "03.06.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 03.06.2026 | Tutar: 1.050.544.100 TL"
-  },
-  {
     "code": "ENTRA",
     "company": "ENTRA Ic Enterra Yenilenebilir Enerji A.Ş.",
     "type": "Bedelsiz",
@@ -16,6 +7,15 @@
     "date": "01.06.2026",
     "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 01.06.2026"
+  },
+  {
+    "code": "HEDEF",
+    "company": "HEDEF Hedef Holding A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%53,88",
+    "date": "03.06.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 03.06.2026 | Tutar: 1.050.544.100 TL"
   },
   {
     "code": "BLCYT",
