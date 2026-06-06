@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-06T09:30:45.814268",
+  "last_update": "2026-06-06T11:08:11.251419",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -25739,7 +25739,7 @@
       "country": "Turkey",
       "phone": "90 232 472 10 50",
       "description": "Çimentas Izmir Çimento Fabrikasi Türk A.S., together with its subsidiaries, engages in the production, trading, sale, and transportation of bulk and bagged cement in Turkey. The company offers cement, ready mixed concrete, and aggregate products. It is also involved in waste management and sale of fuel. The company was founded in 1947 and is headquartered in Izmir, Turkey. Çimentas Izmir Çimento Fabrikasi Türk A.S. operates as a subsidiary of Aalborg Portland Espana SL.",
-      "pe": 21.428572,
+      "pe": 21.413122,
       "forwardPE": null,
       "priceToBook": 1.5334336,
       "pegRatio": null,
@@ -25758,7 +25758,7 @@
       "debtToEquity": 2.185,
       "currentRatio": 2.086,
       "quickRatio": 1.373,
-      "eps": 13.86,
+      "eps": 13.87,
       "forwardEps": null,
       "bookValue": 193.683,
       "dividendRate": 8.18,
@@ -42974,11 +42974,11 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 565903
         },
         {
-          "Close": 300.6230773925781,
+          "Close": 300.62310791015625,
           "Volume": 363119
         },
         {
@@ -42998,7 +42998,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.65045166015625,
+          "Close": 294.6504821777344,
           "Volume": 791784
         },
         {
@@ -53541,7 +53541,7 @@
       "debtToEquity": 8.649,
       "currentRatio": 1.254,
       "quickRatio": 0.918,
-      "eps": -1.67,
+      "eps": -1.66,
       "forwardEps": null,
       "bookValue": 22.035,
       "dividendRate": null,
@@ -56357,7 +56357,7 @@
       "country": "Turkey",
       "phone": "90 332 346 03 55",
       "description": "Konya Çimento Sanayii Anonim Sirketi manufactures and sells cement, Portland cement, clinker, and ready mixed concrete in Central Anatolia and the Mediterranean Region. It also offers labor, testing and analysis services, as well as engages in collecting, transforming, and evaluating waste for material and energy industry. The company was founded in 1954 and is based in Konya, Turkey. Konya Çimento Sanayii Anonim Sirketi is a subsidiary of Parficim S.A.S.",
-      "pe": 69.90221,
+      "pe": 69.927536,
       "forwardPE": null,
       "priceToBook": 4.1864963,
       "pegRatio": null,
@@ -56376,7 +56376,7 @@
       "debtToEquity": 13.276,
       "currentRatio": 1.428,
       "quickRatio": 0.653,
-      "eps": 55.22,
+      "eps": 55.2,
       "forwardEps": null,
       "bookValue": 922.012,
       "dividendRate": null,
@@ -57143,8 +57143,8 @@
       "targetLowPrice": 26.62,
       "targetMeanPrice": 26.62,
       "targetMedianPrice": 26.62,
-      "recommendationMean": 1.0,
-      "recommendationKey": "strong_buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
       "beta": 0.417,
       "historicalData": [
