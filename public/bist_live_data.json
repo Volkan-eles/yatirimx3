@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-07T19:57:54.412047",
+  "last_update": "2026-06-07T21:21:03.030878",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.56553,
-      "targetLowPrice": 35.15118,
-      "targetMeanPrice": 44.832268,
-      "targetMedianPrice": 46.62253,
+      "targetHighPrice": 52.301502,
+      "targetLowPrice": 34.97462,
+      "targetMeanPrice": 44.607082,
+      "targetMedianPrice": 46.388355,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.4,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 576.8391,
-      "targetLowPrice": 378.4247,
-      "targetMeanPrice": 440.74414,
-      "targetMedianPrice": 425.4162,
+      "targetHighPrice": 577.5863,
+      "targetLowPrice": 378.9149,
+      "targetMeanPrice": 441.31503,
+      "targetMedianPrice": 425.96722,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -8326,10 +8326,10 @@
       "symbol": "SKBNK.IS",
       "name": "Sekerbank T.A.S.",
       "shortName": "SEKERBANK",
-      "price": 12.77,
+      "price": 12.71,
       "change": -0.17,
       "changeRate": -1.31,
-      "previousClose": 12.94,
+      "previousClose": 12.88,
       "open": 13.0,
       "dayLow": 12.67,
       "dayHigh": 13.02,
@@ -8387,123 +8387,123 @@
       "beta": 0.742,
       "historicalData": [
         {
-          "Close": 13.010000228881836,
+          "Close": 12.94479751586914,
           "Volume": 36094084
         },
         {
-          "Close": 12.649999618530273,
+          "Close": 12.586601257324219,
           "Volume": 30031675
         },
         {
-          "Close": 12.529999732971191,
+          "Close": 12.467203140258789,
           "Volume": 24232222
         },
         {
-          "Close": 12.699999809265137,
+          "Close": 12.636350631713867,
           "Volume": 42376074
         },
         {
-          "Close": 12.239999771118164,
+          "Close": 12.178656578063965,
           "Volume": 71974999
         },
         {
-          "Close": 12.270000457763672,
+          "Close": 12.20850658416748,
           "Volume": 29906875
         },
         {
-          "Close": 12.449999809265137,
+          "Close": 12.387603759765625,
           "Volume": 37792882
         },
         {
-          "Close": 12.800000190734863,
+          "Close": 12.73585033416748,
           "Volume": 30568863
         },
         {
-          "Close": 12.899999618530273,
+          "Close": 12.835348129272461,
           "Volume": 35049521
         },
         {
-          "Close": 14.1899995803833,
+          "Close": 14.11888313293457,
           "Volume": 60420290
         },
         {
-          "Close": 14.029999732971191,
+          "Close": 13.959685325622559,
           "Volume": 59166302
         },
         {
-          "Close": 13.859999656677246,
+          "Close": 13.790536880493164,
           "Volume": 34095761
         },
         {
-          "Close": 13.670000076293945,
+          "Close": 13.601490020751953,
           "Volume": 18573918
         },
         {
-          "Close": 13.729999542236328,
+          "Close": 13.661188125610352,
           "Volume": 20773768
         },
         {
-          "Close": 14.75,
+          "Close": 14.676076889038086,
           "Volume": 65897957
         },
         {
-          "Close": 14.729999542236328,
+          "Close": 14.656176567077637,
           "Volume": 25931447
         },
         {
-          "Close": 14.449999809265137,
+          "Close": 14.377580642700195,
           "Volume": 28342001
         },
         {
-          "Close": 14.100000381469727,
+          "Close": 14.029335021972656,
           "Volume": 28376879
         },
         {
-          "Close": 12.6899995803833,
+          "Close": 12.6264009475708,
           "Volume": 23106831
         },
         {
-          "Close": 13.539999961853027,
+          "Close": 13.47214126586914,
           "Volume": 48313442
         },
         {
-          "Close": 13.609999656677246,
+          "Close": 13.541790008544922,
           "Volume": 17184799
         },
         {
-          "Close": 13.170000076293945,
+          "Close": 13.103995323181152,
           "Volume": 9913627
         },
         {
-          "Close": 13.170000076293945,
+          "Close": 13.103995323181152,
           "Volume": 0
         },
         {
-          "Close": 13.170000076293945,
+          "Close": 13.103995323181152,
           "Volume": 0
         },
         {
-          "Close": 13.170000076293945,
+          "Close": 13.103995323181152,
           "Volume": 0
         },
         {
-          "Close": 12.84000015258789,
+          "Close": 12.775649070739746,
           "Volume": 29729431
         },
         {
-          "Close": 13.270000457763672,
+          "Close": 13.203495025634766,
           "Volume": 39522633
         },
         {
-          "Close": 13.0,
+          "Close": 12.934847831726074,
           "Volume": 30317956
         },
         {
-          "Close": 12.9399995803833,
+          "Close": 12.875147819519043,
           "Volume": 24446125
         },
         {
-          "Close": 12.770000457763672,
+          "Close": 12.706000328063965,
           "Volume": 16781522
         }
       ],
@@ -42974,11 +42974,11 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 565903
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 363119
         },
         {
@@ -42998,7 +42998,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.6504821777344,
+          "Close": 294.65045166015625,
           "Volume": 791784
         },
         {
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.81172,
-      "targetLowPrice": 61.7334,
-      "targetMeanPrice": 67.15442,
-      "targetMedianPrice": 61.917675,
+      "targetHighPrice": 77.206215,
+      "targetLowPrice": 61.25301,
+      "targetMeanPrice": 66.63184,
+      "targetMedianPrice": 61.435852,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
