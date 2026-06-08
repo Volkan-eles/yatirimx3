@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-07T22:41:04.932922",
+  "last_update": "2026-06-08T00:18:00.076528",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 500,
   "successful": 500,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.583786,
-      "targetLowPrice": 35.16339,
-      "targetMeanPrice": 44.84784,
-      "targetMedianPrice": 46.63873,
+      "targetHighPrice": 52.579792,
+      "targetLowPrice": 35.160717,
+      "targetMeanPrice": 44.844433,
+      "targetMedianPrice": 46.635185,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.4,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 577.50854,
-      "targetLowPrice": 378.86386,
-      "targetMeanPrice": 441.2556,
-      "targetMedianPrice": 425.90988,
+      "targetHighPrice": 577.9539,
+      "targetLowPrice": 379.15607,
+      "targetMeanPrice": 441.59592,
+      "targetMedianPrice": 426.23834,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -42974,11 +42974,11 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 565903
         },
         {
-          "Close": 300.62310791015625,
+          "Close": 300.6230773925781,
           "Volume": 363119
         },
         {
@@ -42998,7 +42998,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.6504821777344,
+          "Close": 294.65045166015625,
           "Volume": 791784
         },
         {
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.848885,
-      "targetLowPrice": 61.762882,
-      "targetMeanPrice": 67.18649,
-      "targetMedianPrice": 61.947247,
+      "targetHighPrice": 77.834526,
+      "targetLowPrice": 61.751488,
+      "targetMeanPrice": 67.174095,
+      "targetMedianPrice": 61.935818,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -70912,7 +70912,7 @@
       "description": "Oylum Sinai Yatirimlar Anonim Sirketi produces general foodstuffs in Turkey. It offers biscuits, chocolate, wafers, chocolate coated biscuits, waffles, cakes, crackers, chewing gum, candy, turkish delight, halva, jam, etc. all kinds of floury and sugary, cakes, crackers, chewing gum, halva, fibrous biscuits, cream biscuits, marshmallows, spreadable creams, and jam etc. The company is also involved in buying, selling, importing, and exporting substances. The company was founded in 1969 and is headquartered in Kayseri, Turkey.",
       "pe": 106.75,
       "forwardPE": null,
-      "priceToBook": 0.67382044,
+      "priceToBook": 0.6363636,
       "pegRatio": null,
       "priceToSales": 0.9216992,
       "enterpriseToRevenue": 0.882,
@@ -70931,7 +70931,7 @@
       "quickRatio": 1.494,
       "eps": 0.08,
       "forwardEps": null,
-      "bookValue": 12.674,
+      "bookValue": 13.42,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
