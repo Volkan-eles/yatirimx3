@@ -1,11 +1,29 @@
 [
   {
+    "code": "TURSG",
+    "company": "TURSG Türkiye Sigorta A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "10.06.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "GOODY",
+    "company": "GOODY Goodyear Lastikleri T.A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%462,96",
+    "date": "10.06.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "ULUFA",
     "company": "ULUFA Ulusal Faktoring A.Ş.",
     "type": "Bedelsiz",
     "rate": "%100",
     "date": "11.06.2026",
-    "status": "Onaylandı",
+    "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 11.06.2026"
   },
   {
@@ -180,15 +198,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "GOODY",
-    "company": "GOODY Goodyear Lastikleri T.A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%462,96",
-    "date": "25.03.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "ISGSY",
     "company": "ISGSY İş Girişim Sermayesi Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
@@ -203,15 +212,6 @@
     "type": "Bedelsiz",
     "rate": "%133,80",
     "date": "17.03.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "TURSG",
-    "company": "TURSG Türkiye Sigorta A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "13.03.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
   },
@@ -322,6 +322,15 @@
     "date": "01.06.2026 Bitiş : 15.06.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 01.06.2026 Bitiş : 15.06.2026 | Tutar: 350.550.000 TL"
+  },
+  {
+    "code": "MERKO",
+    "company": "MERKO Merko Gıda San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "10.06.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
   {
     "code": "ALVES",
