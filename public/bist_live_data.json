@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-06-13T20:05:33.045218",
+  "last_update": "2026-06-13T21:49:44.779232",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 497,
-  "successful": 497,
-  "failed": 34,
+  "total_stocks": 499,
+  "successful": 499,
+  "failed": 32,
   "stocks": [
     {
       "code": "GARAN",
@@ -2851,7 +2851,7 @@
       "previousClose": 47.9,
       "open": 48.74,
       "dayLow": 48.38,
-      "dayHigh": 49.72,
+      "dayHigh": 49.7,
       "fiftyTwoWeekLow": 31.64,
       "fiftyTwoWeekHigh": 70.25,
       "fiftyDayAverage": 50.66,
@@ -10032,7 +10032,7 @@
       "changeRate": -1.39,
       "previousClose": 17.95,
       "open": 18.03,
-      "dayLow": 17.7,
+      "dayLow": 17.72,
       "dayHigh": 18.62,
       "fiftyTwoWeekLow": 14.67,
       "fiftyTwoWeekHigh": 27.96,
@@ -10410,7 +10410,7 @@
       "changeRate": -1.05,
       "previousClose": 90.75,
       "open": 91.5,
-      "dayLow": 89.5,
+      "dayLow": 89.75,
       "dayHigh": 96.35,
       "fiftyTwoWeekLow": 66.25,
       "fiftyTwoWeekHigh": 104.0,
@@ -12489,7 +12489,7 @@
       "changeRate": -1.06,
       "previousClose": 26.38,
       "open": 26.38,
-      "dayLow": 25.68,
+      "dayLow": 25.74,
       "dayHigh": 26.76,
       "fiftyTwoWeekLow": 15.32,
       "fiftyTwoWeekHigh": 29.34,
@@ -14379,7 +14379,7 @@
       "changeRate": -0.07,
       "previousClose": 27.94,
       "open": 27.96,
-      "dayLow": 27.34,
+      "dayLow": 27.36,
       "dayHigh": 28.24,
       "fiftyTwoWeekLow": 19.95,
       "fiftyTwoWeekHigh": 31.52,
@@ -16270,7 +16270,7 @@
       "previousClose": 233.0,
       "open": 237.8,
       "dayLow": 237.8,
-      "dayHigh": 251.0,
+      "dayHigh": 250.75,
       "fiftyTwoWeekLow": 71.7,
       "fiftyTwoWeekHigh": 266.5,
       "fiftyDayAverage": 179.73,
@@ -20805,7 +20805,7 @@
       "changeRate": 0.41,
       "previousClose": 24.52,
       "open": 24.9,
-      "dayLow": 24.3,
+      "dayLow": 24.32,
       "dayHigh": 25.6,
       "fiftyTwoWeekLow": 15.15,
       "fiftyTwoWeekHigh": 61.9,
@@ -22128,7 +22128,7 @@
       "changeRate": 0.0,
       "previousClose": 6.36,
       "open": 6.4,
-      "dayLow": 6.28,
+      "dayLow": 6.29,
       "dayHigh": 6.46,
       "fiftyTwoWeekLow": 5.56,
       "fiftyTwoWeekHigh": 8.42,
@@ -23451,7 +23451,7 @@
       "changeRate": -1.41,
       "previousClose": 42.64,
       "open": 42.76,
-      "dayLow": 41.36,
+      "dayLow": 41.6,
       "dayHigh": 43.6,
       "fiftyTwoWeekLow": 13.97,
       "fiftyTwoWeekHigh": 84.8,
@@ -24963,7 +24963,7 @@
       "changeRate": -7.25,
       "previousClose": 16.0,
       "open": 16.02,
-      "dayLow": 14.76,
+      "dayLow": 14.77,
       "dayHigh": 16.37,
       "fiftyTwoWeekLow": 7.11,
       "fiftyTwoWeekHigh": 20.82,
@@ -26098,7 +26098,7 @@
       "previousClose": 155.9,
       "open": 152.0,
       "dayLow": 152.0,
-      "dayHigh": 157.9,
+      "dayHigh": 157.5,
       "fiftyTwoWeekLow": 101.0,
       "fiftyTwoWeekHigh": 312.75,
       "fiftyDayAverage": 196.88,
@@ -26475,7 +26475,7 @@
       "changeRate": -2.95,
       "previousClose": 152.4,
       "open": 153.0,
-      "dayLow": 145.6,
+      "dayLow": 147.4,
       "dayHigh": 155.5,
       "fiftyTwoWeekLow": 71.45,
       "fiftyTwoWeekHigh": 200.8,
@@ -26853,7 +26853,7 @@
       "changeRate": 1.93,
       "previousClose": 39.46,
       "open": 40.3,
-      "dayLow": 39.68,
+      "dayLow": 39.72,
       "dayHigh": 41.56,
       "fiftyTwoWeekLow": 10.99,
       "fiftyTwoWeekHigh": 49.04,
@@ -27031,6 +27031,195 @@
       ],
       "heldPercentInsiders": 0.70001,
       "heldPercentInstitutions": 0.0141900005
+    },
+    {
+      "code": "CWENE",
+      "symbol": "CWENE.IS",
+      "name": "CW Enerji Mühendislik Ticaret ve Sanayi Anonim Sirketi",
+      "shortName": "CW ENERJI",
+      "price": 36.18,
+      "change": 0.38,
+      "changeRate": 1.06,
+      "previousClose": 35.8,
+      "open": 36.4,
+      "dayLow": 35.58,
+      "dayHigh": 36.84,
+      "fiftyTwoWeekLow": 12.34,
+      "fiftyTwoWeekHigh": 45.14,
+      "fiftyDayAverage": 36.31,
+      "twoHundredDayAverage": 28.92,
+      "volume": "12,319,372",
+      "averageVolume": 33472701,
+      "averageVolume10days": 34706258,
+      "marketCap": 39012532224,
+      "enterpriseValue": 47082618880,
+      "sharesOutstanding": 1078290009,
+      "sector": "Technology",
+      "industry": "Solar",
+      "website": "https://cw-enerji.com",
+      "address": "Antalya Organize Sanayi Bölgesi 1. Kisim Atatürk Bulvari No:20",
+      "city": "Antalya",
+      "country": "Turkey",
+      "phone": "90 242 229 00 54",
+      "description": "CW Enerji Mühendislik Ticaret ve Sanayi Anonim Sirketi operates in the photovoltaic power generation sector in Turkey. It provides solar panels; solar packs; heating, cooling, and hot water products; inverters; solar equipment; electric vehicle chargers; charge controllers; energy storage solutions; and solar lighting solutions. The company also offers solar powered camera systems and signages, LED lighting systems, solar-powered irrigation systems, off-grid and on-grid solutions, technical service and maintenance agreement, and application and follow-up counseling services. CW Enerji Mühendislik Ticaret ve Sanayi Anonim Sirketi was incorporated in 2010 and is headquartered in Antalya, Turkey.",
+      "pe": 15.075,
+      "forwardPE": null,
+      "priceToBook": 2.422173,
+      "pegRatio": null,
+      "priceToSales": 2.243811,
+      "enterpriseToRevenue": 2.708,
+      "enterpriseToEbitda": 15.023,
+      "profitMargins": 0.14849,
+      "grossMargins": 0.25329,
+      "operatingMargins": 0.16279,
+      "returnOnAssets": 0.0626,
+      "returnOnEquity": 0.19688,
+      "totalRevenue": 17386729472,
+      "revenuePerShare": 16.124,
+      "totalCash": 908852096,
+      "totalDebt": 8978937856,
+      "debtToEquity": 55.748,
+      "currentRatio": 1.194,
+      "quickRatio": 0.632,
+      "eps": 2.4,
+      "forwardEps": null,
+      "bookValue": 14.937,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": 1724889600,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": 0.551,
+      "historicalData": [
+        {
+          "Close": 36.63999938964844,
+          "Volume": 40481648
+        },
+        {
+          "Close": 35.79999923706055,
+          "Volume": 22398301
+        },
+        {
+          "Close": 36.400001525878906,
+          "Volume": 32108988
+        },
+        {
+          "Close": 38.880001068115234,
+          "Volume": 43952057
+        },
+        {
+          "Close": 37.79999923706055,
+          "Volume": 28636829
+        },
+        {
+          "Close": 37.599998474121094,
+          "Volume": 23908002
+        },
+        {
+          "Close": 40.0,
+          "Volume": 43359382
+        },
+        {
+          "Close": 40.20000076293945,
+          "Volume": 28733372
+        },
+        {
+          "Close": 38.34000015258789,
+          "Volume": 25313421
+        },
+        {
+          "Close": 39.459999084472656,
+          "Volume": 22963235
+        },
+        {
+          "Close": 37.5,
+          "Volume": 11849086
+        },
+        {
+          "Close": 35.720001220703125,
+          "Volume": 13148577
+        },
+        {
+          "Close": 36.900001525878906,
+          "Volume": 23725099
+        },
+        {
+          "Close": 33.439998626708984,
+          "Volume": 17237755
+        },
+        {
+          "Close": 36.02000045776367,
+          "Volume": 49065067
+        },
+        {
+          "Close": 39.619998931884766,
+          "Volume": 59976079
+        },
+        {
+          "Close": 39.41999816894531,
+          "Volume": 26054266
+        },
+        {
+          "Close": 39.41999816894531,
+          "Volume": 0
+        },
+        {
+          "Close": 39.41999816894531,
+          "Volume": 0
+        },
+        {
+          "Close": 39.41999816894531,
+          "Volume": 0
+        },
+        {
+          "Close": 41.5,
+          "Volume": 58096267
+        },
+        {
+          "Close": 43.0,
+          "Volume": 122324258
+        },
+        {
+          "Close": 40.900001525878906,
+          "Volume": 38338750
+        },
+        {
+          "Close": 39.939998626708984,
+          "Volume": 22520317
+        },
+        {
+          "Close": 40.540000915527344,
+          "Volume": 27747478
+        },
+        {
+          "Close": 38.599998474121094,
+          "Volume": 17669020
+        },
+        {
+          "Close": 37.060001373291016,
+          "Volume": 15764790
+        },
+        {
+          "Close": 36.70000076293945,
+          "Volume": 18761312
+        },
+        {
+          "Close": 35.79999923706055,
+          "Volume": 13521025
+        },
+        {
+          "Close": 36.18000030517578,
+          "Volume": 12319372
+        }
+      ],
+      "heldPercentInsiders": 0.60861,
+      "heldPercentInstitutions": 0.15368
     },
     {
       "code": "DAGI",
@@ -28744,7 +28933,7 @@
       "previousClose": 118.3,
       "open": 118.4,
       "dayLow": 115.3,
-      "dayHigh": 130.1,
+      "dayHigh": 129.5,
       "fiftyTwoWeekLow": 58.3,
       "fiftyTwoWeekHigh": 135.2,
       "fiftyDayAverage": 97.1,
@@ -30633,7 +30822,7 @@
       "changeRate": -3.05,
       "previousClose": 101.5,
       "open": 103.7,
-      "dayLow": 95.05,
+      "dayLow": 96.55,
       "dayHigh": 103.7,
       "fiftyTwoWeekLow": 15.9,
       "fiftyTwoWeekHigh": 146.5,
@@ -31965,7 +32154,7 @@
       "volume": "12,431,121",
       "averageVolume": 9182812,
       "averageVolume10days": 9604630,
-      "marketCap": 7464274944,
+      "marketCap": 8000543232,
       "enterpriseValue": 7149379584,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -31980,7 +32169,7 @@
       "forwardPE": null,
       "priceToBook": 8.390597,
       "pegRatio": null,
-      "priceToSales": 3.1274354,
+      "priceToSales": 3.352125,
       "enterpriseToRevenue": 2.995,
       "enterpriseToEbitda": 170.15,
       "profitMargins": -0.03031,
@@ -33847,7 +34036,7 @@
       "previousClose": 37.82,
       "open": 38.06,
       "dayLow": 36.92,
-      "dayHigh": 39.0,
+      "dayHigh": 38.98,
       "fiftyTwoWeekLow": 27.02,
       "fiftyTwoWeekHigh": 44.7,
       "fiftyDayAverage": 34.87,
@@ -35359,7 +35548,7 @@
       "previousClose": 27.6,
       "open": 27.6,
       "dayLow": 27.4,
-      "dayHigh": 28.34,
+      "dayHigh": 28.2,
       "fiftyTwoWeekLow": 14.15,
       "fiftyTwoWeekHigh": 30.2,
       "fiftyDayAverage": 26.37,
@@ -36107,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
+      "name": "ETILER GIDA",
       "shortName": "ETILER GIDA",
       "price": 5.18,
       "change": 0.01,
@@ -36123,9 +36312,9 @@
       "volume": "8,553,133",
       "averageVolume": 21286548,
       "averageVolume10days": 15941349,
-      "marketCap": 1243200000,
+      "marketCap": 0,
       "enterpriseValue": 1771814272,
-      "sharesOutstanding": 240000000,
+      "sharesOutstanding": 0,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -36138,7 +36327,7 @@
       "forwardPE": null,
       "priceToBook": 2.3428314,
       "pegRatio": null,
-      "priceToSales": 0.67447525,
+      "priceToSales": null,
       "enterpriseToRevenue": 0.961,
       "enterpriseToEbitda": 7.045,
       "profitMargins": -0.00974,
@@ -38593,7 +38782,7 @@
       "description": "Formet Metal ve Cam Sanayi A.S. engages in the manufacture and sale of steel doors primarily in Turkey. The company also provides steel, aluminum, wood, PVC, plastic, other materials; metal doors and windows, and their parts made of metal; and alloy and other materials, as well as door, shutters, stairs, verandas, railings, durable consumer goods, cookers, heaters, and electric appliances. It exports its products to Europe, Asia, America, Africa, and the Middle East. Formet Metal ve Cam Sanayi A.S. was formerly known as Formet Celik Kapi Sanayi ve Ticaret A.S. and changed its name to Formet Metal ve Cam Sanayi A.S. in July 2021. The company was founded in 2005 and is based in Kayseri, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.1575726,
+      "priceToBook": 1.09821,
       "pegRatio": null,
       "priceToSales": 2.7998066,
       "enterpriseToRevenue": 2.56,
@@ -38612,7 +38801,7 @@
       "quickRatio": 0.134,
       "eps": -0.43,
       "forwardEps": null,
-      "bookValue": 1.961,
+      "bookValue": 2.067,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1576195200,
@@ -39138,7 +39327,7 @@
       "changeRate": 0.73,
       "previousClose": 17.82,
       "open": 18.2,
-      "dayLow": 17.51,
+      "dayLow": 17.52,
       "dayHigh": 18.76,
       "fiftyTwoWeekLow": 7.99,
       "fiftyTwoWeekHigh": 20.2,
@@ -42789,7 +42978,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.65045166015625,
+          "Close": 294.6504821777344,
           "Volume": 791784
         },
         {
@@ -42918,7 +43107,7 @@
       "changeRate": -8.26,
       "previousClose": 14.4,
       "open": 14.55,
-      "dayLow": 13.05,
+      "dayLow": 13.06,
       "dayHigh": 14.9,
       "fiftyTwoWeekLow": 7.89,
       "fiftyTwoWeekHigh": 18.88,
@@ -43675,7 +43864,7 @@
       "previousClose": 62.6,
       "open": 64.0,
       "dayLow": 63.05,
-      "dayHigh": 68.85,
+      "dayHigh": 68.65,
       "fiftyTwoWeekLow": 41.56,
       "fiftyTwoWeekHigh": 330.25,
       "fiftyDayAverage": 68.62,
@@ -44431,7 +44620,7 @@
       "previousClose": 115.0,
       "open": 114.9,
       "dayLow": 113.9,
-      "dayHigh": 116.6,
+      "dayHigh": 116.5,
       "fiftyTwoWeekLow": 5.27,
       "fiftyTwoWeekHigh": 117.0,
       "fiftyDayAverage": 96.46,
@@ -44998,7 +45187,7 @@
       "previousClose": 39.8,
       "open": 40.76,
       "dayLow": 40.1,
-      "dayHigh": 41.28,
+      "dayHigh": 41.26,
       "fiftyTwoWeekLow": 35.6,
       "fiftyTwoWeekHigh": 53.95,
       "fiftyDayAverage": 40.84,
@@ -45753,7 +45942,7 @@
       "changeRate": -2.92,
       "previousClose": 21.26,
       "open": 21.7,
-      "dayLow": 20.22,
+      "dayLow": 20.24,
       "dayHigh": 21.98,
       "fiftyTwoWeekLow": 12.31,
       "fiftyTwoWeekHigh": 28.08,
@@ -48799,7 +48988,7 @@
       "description": "Investco Holding A.S. operates as an investment company in Europe, the Middle East, Asia, Africa, North and South America, and Turkey. The company invests in companies operating in renewable energy, mining, chemistry, iron-steel, technology and software, venture capital, food, and healthcare industries. The company was incorporated in 2011 and is based in Istanbul, Turkey.",
       "pe": 34.96,
       "forwardPE": null,
-      "priceToBook": 4.5585413,
+      "priceToBook": 5.226272,
       "pegRatio": null,
       "priceToSales": 93.7716,
       "enterpriseToRevenue": 91.091,
@@ -48818,7 +49007,7 @@
       "quickRatio": 9.584,
       "eps": 18.75,
       "forwardEps": null,
-      "bookValue": 143.796,
+      "bookValue": 125.424,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -52957,7 +53146,7 @@
       "description": "Kuzey Boru Anonim Sirketi produces and sells plastic pipes and fittings in Turkey and internationally. It provides steel, drawn pipes, concrete pipes, polyethylene pipes, polypropylene pipes, ductile pipes, and related products. The company also offers infrastructure pipe systems, such as GRP pipe and fittings, corrugated pipe and fittings, HDPE pipe and fittings, telecommunication pipes and fittings and superstructure pipe systems, including PPR pipe and fittings, PVC-U pipe and fittings, and underfloor heating pipes and fittings. Additionally, it provides logistics, engineering services, after-sales services, accredited laboratory services, and project specific production. The company was founded in 2001 and is based in Aksaray, Turkey.",
       "pe": 23.38,
       "forwardPE": null,
-      "priceToBook": 3.154344,
+      "priceToBook": 2.7338634,
       "pegRatio": null,
       "priceToSales": 2.3834841,
       "enterpriseToRevenue": 2.958,
@@ -52976,7 +53165,7 @@
       "quickRatio": 0.577,
       "eps": 1.0,
       "forwardEps": null,
-      "bookValue": 7.412,
+      "bookValue": 8.552,
       "dividendRate": 0.02,
       "dividendYield": 0.09,
       "exDividendDate": 1794268800,
@@ -55393,7 +55582,7 @@
       "previousClose": 13.5,
       "open": 13.5,
       "dayLow": 13.5,
-      "dayHigh": 14.6,
+      "dayHigh": 14.55,
       "fiftyTwoWeekLow": 5.11,
       "fiftyTwoWeekHigh": 14.63,
       "fiftyDayAverage": 11.54,
@@ -58427,7 +58616,7 @@
       "averageVolume10days": 14657585,
       "marketCap": 6415086080,
       "enterpriseValue": 11984828416,
-      "sharesOutstanding": 2159961700,
+      "sharesOutstanding": 2159961660,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
       "website": "https://kervangida.com",
@@ -60685,7 +60874,7 @@
       "previousClose": 3.31,
       "open": 3.36,
       "dayLow": 3.33,
-      "dayHigh": 3.5,
+      "dayHigh": 3.48,
       "fiftyTwoWeekLow": 3.24,
       "fiftyTwoWeekHigh": 7.8,
       "fiftyDayAverage": 3.67,
@@ -65589,6 +65778,195 @@
       "heldPercentInstitutions": 0.0
     },
     {
+      "code": "MOGAN",
+      "symbol": "MOGAN.IS",
+      "name": "MOGAN ENERJI",
+      "shortName": "MOGAN ENERJI",
+      "price": 13.16,
+      "change": -0.15,
+      "changeRate": -1.13,
+      "previousClose": 13.31,
+      "open": 13.5,
+      "dayLow": 13.04,
+      "dayHigh": 14.0,
+      "fiftyTwoWeekLow": 7.66,
+      "fiftyTwoWeekHigh": 16.2,
+      "fiftyDayAverage": 13.72,
+      "twoHundredDayAverage": 10.46,
+      "volume": "51,281,933",
+      "averageVolume": 33704609,
+      "averageVolume10days": 30414199,
+      "marketCap": 32111820800,
+      "enterpriseValue": 76151668736,
+      "sharesOutstanding": 2440108000,
+      "sector": "Utilities",
+      "industry": "Utilities - Renewable",
+      "website": "https://mogan.com.tr",
+      "address": "Ankara Caddesi No:222",
+      "city": "Ankara",
+      "country": "Turkey",
+      "phone": "90 312 484 05 70",
+      "description": "Mogan Enerji Yatirim Holding Anonim Sirketi engages in the renewable energy business in Turkey. It generates and sells energy through geothermal, hydroelectric, wind, and solar power plants. Mogan Enerji Yatirim Holding Anonim Sirketi was founded in 1980 and is headquartered in Ankara, Turkey.",
+      "pe": 15.855422,
+      "forwardPE": 7.9757576,
+      "priceToBook": 0.38292548,
+      "pegRatio": null,
+      "priceToSales": 2.4877565,
+      "enterpriseToRevenue": 5.9,
+      "enterpriseToEbitda": 10.597,
+      "profitMargins": -0.65677,
+      "grossMargins": -0.12114,
+      "operatingMargins": -0.1191,
+      "returnOnAssets": -0.011080001,
+      "returnOnEquity": -0.11372,
+      "totalRevenue": 12907943936,
+      "revenuePerShare": 5.29,
+      "totalCash": 1408099584,
+      "totalDebt": 31503310848,
+      "debtToEquity": 32.21,
+      "currentRatio": 0.224,
+      "quickRatio": 0.168,
+      "eps": 0.83,
+      "forwardEps": null,
+      "bookValue": 34.367,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": 0.0,
+      "targetHighPrice": 16.6,
+      "targetLowPrice": 16.6,
+      "targetMeanPrice": 16.6,
+      "targetMedianPrice": 16.6,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 1,
+      "beta": -0.185,
+      "historicalData": [
+        {
+          "Close": 14.5600004196167,
+          "Volume": 14397792
+        },
+        {
+          "Close": 14.729999542236328,
+          "Volume": 28376366
+        },
+        {
+          "Close": 15.800000190734863,
+          "Volume": 34433701
+        },
+        {
+          "Close": 15.529999732971191,
+          "Volume": 22523225
+        },
+        {
+          "Close": 15.020000457763672,
+          "Volume": 17990515
+        },
+        {
+          "Close": 15.119999885559082,
+          "Volume": 15111799
+        },
+        {
+          "Close": 15.770000457763672,
+          "Volume": 24320840
+        },
+        {
+          "Close": 15.300000190734863,
+          "Volume": 21232261
+        },
+        {
+          "Close": 15.40999984741211,
+          "Volume": 30716658
+        },
+        {
+          "Close": 15.039999961853027,
+          "Volume": 16453623
+        },
+        {
+          "Close": 14.850000381469727,
+          "Volume": 19661612
+        },
+        {
+          "Close": 14.010000228881836,
+          "Volume": 51512512
+        },
+        {
+          "Close": 13.3100004196167,
+          "Volume": 23249418
+        },
+        {
+          "Close": 11.979999542236328,
+          "Volume": 16964186
+        },
+        {
+          "Close": 12.279999732971191,
+          "Volume": 29009668
+        },
+        {
+          "Close": 12.770000457763672,
+          "Volume": 31020825
+        },
+        {
+          "Close": 12.470000267028809,
+          "Volume": 7445496
+        },
+        {
+          "Close": 12.470000267028809,
+          "Volume": 0
+        },
+        {
+          "Close": 12.470000267028809,
+          "Volume": 0
+        },
+        {
+          "Close": 12.470000267028809,
+          "Volume": 0
+        },
+        {
+          "Close": 12.630000114440918,
+          "Volume": 26905392
+        },
+        {
+          "Close": 12.899999618530273,
+          "Volume": 21494592
+        },
+        {
+          "Close": 12.819999694824219,
+          "Volume": 35791986
+        },
+        {
+          "Close": 12.5,
+          "Volume": 10828584
+        },
+        {
+          "Close": 12.279999732971191,
+          "Volume": 18368618
+        },
+        {
+          "Close": 12.600000381469727,
+          "Volume": 27571959
+        },
+        {
+          "Close": 13.100000381469727,
+          "Volume": 52658020
+        },
+        {
+          "Close": 12.640000343322754,
+          "Volume": 26264294
+        },
+        {
+          "Close": 13.3100004196167,
+          "Volume": 32976615
+        },
+        {
+          "Close": 13.15999984741211,
+          "Volume": 51281933
+        }
+      ],
+      "heldPercentInsiders": 0.89388,
+      "heldPercentInstitutions": 0.00247
+    },
+    {
       "code": "MPARK",
       "symbol": "MPARK.IS",
       "name": "MLP Saglik Hizmetleri A.S.",
@@ -66544,7 +66922,7 @@
       "previousClose": 10.1,
       "open": 10.1,
       "dayLow": 9.97,
-      "dayHigh": 10.8,
+      "dayHigh": 10.75,
       "fiftyTwoWeekLow": 6.0,
       "fiftyTwoWeekHigh": 14.13,
       "fiftyDayAverage": 9.81,
@@ -67299,7 +67677,7 @@
       "changeRate": -1.59,
       "previousClose": 12.54,
       "open": 12.54,
-      "dayLow": 12.3,
+      "dayLow": 12.32,
       "dayHigh": 12.65,
       "fiftyTwoWeekLow": 8.02,
       "fiftyTwoWeekHigh": 13.89,
@@ -67677,7 +68055,7 @@
       "changeRate": 0.79,
       "previousClose": 10.1,
       "open": 10.36,
-      "dayLow": 10.06,
+      "dayLow": 10.07,
       "dayHigh": 10.36,
       "fiftyTwoWeekLow": 6.94,
       "fiftyTwoWeekHigh": 13.86,
@@ -68433,7 +68811,7 @@
       "changeRate": -4.08,
       "previousClose": 60.0,
       "open": 60.15,
-      "dayLow": 57.4,
+      "dayLow": 57.45,
       "dayHigh": 60.35,
       "fiftyTwoWeekLow": 37.44,
       "fiftyTwoWeekHigh": 81.2,
@@ -69946,7 +70324,7 @@
       "previousClose": 200.8,
       "open": 212.1,
       "dayLow": 208.1,
-      "dayHigh": 220.8,
+      "dayHigh": 220.7,
       "fiftyTwoWeekLow": 196.0,
       "fiftyTwoWeekHigh": 585.0,
       "fiftyDayAverage": 285.61,
@@ -70701,7 +71079,7 @@
       "changeRate": -0.23,
       "previousClose": 42.72,
       "open": 43.0,
-      "dayLow": 41.78,
+      "dayLow": 41.8,
       "dayHigh": 43.5,
       "fiftyTwoWeekLow": 27.3,
       "fiftyTwoWeekHigh": 75.95,
@@ -71457,7 +71835,7 @@
       "changeRate": -0.57,
       "previousClose": 27.84,
       "open": 28.3,
-      "dayLow": 27.56,
+      "dayLow": 27.62,
       "dayHigh": 28.6,
       "fiftyTwoWeekLow": 16.53,
       "fiftyTwoWeekHigh": 31.86,
@@ -73180,7 +73558,7 @@
       "description": "Penta Teknoloji Urunleri Dagitim Ticaret A.S. distributes computer, hardware, and software products in Turkey. It offers Bazinet V3, a B2B e-commerce platform; Penta technology center, which provides demos, PoCs, hardware and software presentations, and end-to-end business solutions; and printing technology center that offers printing solutions and digital printing machines. The company also offers Penta subscription management solution, which helps to display and manage subscriptions; Penta Mywarehouse, for physical storage and online management; Penta Integration, a system for storage, logistics, sales, and marketing services; Penta OnAir, a communication platform to reach resellers and customers; and 10 to 10 delivery service. It also exports its products. Penta Teknoloji Urunleri Dagitim Ticaret A.S. was founded in 1990 and is headquartered in Istanbul, Turkey.",
       "pe": 62.750004,
       "forwardPE": null,
-      "priceToBook": 1.3958663,
+      "priceToBook": 1.3424853,
       "pegRatio": null,
       "priceToSales": 0.17368941,
       "enterpriseToRevenue": 0.177,
@@ -73199,7 +73577,7 @@
       "quickRatio": 0.896,
       "eps": 0.24,
       "forwardEps": null,
-      "bookValue": 10.789,
+      "bookValue": 11.218,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -73726,7 +74104,7 @@
       "previousClose": 117.1,
       "open": 120.0,
       "dayLow": 117.6,
-      "dayHigh": 128.8,
+      "dayHigh": 128.4,
       "fiftyTwoWeekLow": 60.0,
       "fiftyTwoWeekHigh": 185.0,
       "fiftyDayAverage": 123.22,
@@ -75237,7 +75615,7 @@
       "changeRate": -0.96,
       "previousClose": 39.7,
       "open": 41.6,
-      "dayLow": 39.1,
+      "dayLow": 39.14,
       "dayHigh": 41.6,
       "fiftyTwoWeekLow": 24.98,
       "fiftyTwoWeekHigh": 70.95,
@@ -77316,7 +77694,7 @@
       "changeRate": -0.74,
       "previousClose": 26.94,
       "open": 27.12,
-      "dayLow": 26.08,
+      "dayLow": 26.1,
       "dayHigh": 27.32,
       "fiftyTwoWeekLow": 15.12,
       "fiftyTwoWeekHigh": 35.36,
@@ -81663,7 +82041,7 @@
       "changeRate": -1.32,
       "previousClose": 13.61,
       "open": 13.84,
-      "dayLow": 13.33,
+      "dayLow": 13.34,
       "dayHigh": 14.14,
       "fiftyTwoWeekLow": 10.77,
       "fiftyTwoWeekHigh": 19.1,
@@ -84687,7 +85065,7 @@
       "changeRate": 0.07,
       "previousClose": 15.0,
       "open": 15.0,
-      "dayLow": 14.6,
+      "dayLow": 14.62,
       "dayHigh": 15.42,
       "fiftyTwoWeekLow": 12.21,
       "fiftyTwoWeekHigh": 42.56,
@@ -84876,7 +85254,7 @@
       "changeRate": -0.9,
       "previousClose": 10.0,
       "open": 10.15,
-      "dayLow": 9.81,
+      "dayLow": 9.82,
       "dayHigh": 10.3,
       "fiftyTwoWeekLow": 5.72,
       "fiftyTwoWeekHigh": 32.9,
@@ -85633,7 +86011,7 @@
       "previousClose": 138.1,
       "open": 140.9,
       "dayLow": 134.6,
-      "dayHigh": 142.6,
+      "dayHigh": 142.5,
       "fiftyTwoWeekLow": 67.0,
       "fiftyTwoWeekHigh": 159.9,
       "fiftyDayAverage": 132.29,
@@ -88489,7 +88867,7 @@
       "description": "UFUK Yatirim Yonetim ve Gayrimenkul A.S. engages in the financial leasing business in Turkey. It also offers business management and consultancy services, such as advisory on strategic, financial, marketing, business processes, and project services, as well as on trademark and franchise issues. The company was formerly known as Fon Sinai Yatirimlar A.S. and changed its name to UFUK Yatirim Yonetim ve Gayrimenkul A.S. in May 2016. UFUK Yatirim Yonetim ve Gayrimenkul A.S. was founded in 1995 and is headquartered in Istanbul, Turkey. UFUK Yatirim Yonetim ve Gayrimenkul A.S. operates as a subsidiary of Lydia Holding A.S.",
       "pe": 116.27907,
       "forwardPE": null,
-      "priceToBook": 22.665064,
+      "priceToBook": 24.845194,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": null,
@@ -88508,7 +88886,7 @@
       "quickRatio": 2.553,
       "eps": 11.18,
       "forwardEps": null,
-      "bookValue": 57.357,
+      "bookValue": 52.324,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -91869,7 +92247,7 @@
       "changeRate": 0.36,
       "previousClose": 39.38,
       "open": 39.44,
-      "dayLow": 39.4,
+      "dayLow": 39.42,
       "dayHigh": 40.34,
       "fiftyTwoWeekLow": 23.94,
       "fiftyTwoWeekHigh": 49.0,
@@ -93004,7 +93382,7 @@
       "previousClose": 11.1,
       "open": 11.25,
       "dayLow": 11.11,
-      "dayHigh": 11.54,
+      "dayHigh": 11.53,
       "fiftyTwoWeekLow": 9.09,
       "fiftyTwoWeekHigh": 14.61,
       "fiftyDayAverage": 11.67,
