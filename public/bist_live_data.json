@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-06-14T21:20:08.923654",
+  "last_update": "2026-06-14T22:45:46.068922",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 499,
-  "successful": 499,
-  "failed": 32,
+  "total_stocks": 497,
+  "successful": 497,
+  "failed": 34,
   "stocks": [
     {
       "code": "GARAN",
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.76771,
-      "targetLowPrice": 35.286385,
-      "targetMeanPrice": 45.004707,
-      "targetMedianPrice": 46.80186,
+      "targetHighPrice": 52.76943,
+      "targetLowPrice": 35.287533,
+      "targetMeanPrice": 45.00617,
+      "targetMedianPrice": 46.80338,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.31,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 582.2978,
-      "targetLowPrice": 382.00577,
-      "targetMeanPrice": 444.91492,
-      "targetMedianPrice": 429.44193,
+      "targetHighPrice": 584.5437,
+      "targetLowPrice": 383.47916,
+      "targetMeanPrice": 446.63095,
+      "targetMedianPrice": 431.09827,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -30466,7 +30466,7 @@
       "description": "DO & CO Aktiengesellschaft provides catering services in Austria, Turkey, Great Britain, the United States, Spain, Germany, and internationally. It operates through three divisions: Airline Catering; International Event Catering; and Restaurants, Lounges & Hotel. The company offers airline catering services; and event catering, infrastructure, and planning services. The company also engages in the operation of lounges, retail stores, airport catering, restaurants and Demel café, hotels, and staff restaurants. It operates restaurants and cafes under the DO & CO, Hédiard, HENRY, AIOLI, and Demel brands. The company was founded in 1981 and is headquartered in Vienna, Austria.",
       "pe": 21.231567,
       "forwardPE": 26.367424,
-      "priceToBook": 248.69199,
+      "priceToBook": 266.62582,
       "pegRatio": null,
       "priceToSales": 48.984413,
       "enterpriseToRevenue": 48.315,
@@ -30485,7 +30485,7 @@
       "quickRatio": 1.129,
       "eps": 512.68,
       "forwardEps": 412.82,
-      "bookValue": 43.769,
+      "bookValue": 40.825,
       "dividendRate": 133.59,
       "dividendYield": 1.23,
       "exDividendDate": 1785196800,
@@ -32154,7 +32154,7 @@
       "volume": "12,431,121",
       "averageVolume": 9182812,
       "averageVolume10days": 9604630,
-      "marketCap": 8000543232,
+      "marketCap": 7464274944,
       "enterpriseValue": 7149379584,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +32169,7 @@
       "forwardPE": null,
       "priceToBook": 8.390597,
       "pegRatio": null,
-      "priceToSales": 3.352125,
+      "priceToSales": 3.1274354,
       "enterpriseToRevenue": 2.995,
       "enterpriseToEbitda": 170.15,
       "profitMargins": -0.03031,
@@ -36296,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "ETILER GIDA",
+      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
       "shortName": "ETILER GIDA",
       "price": 5.18,
       "change": 0.01,
@@ -36312,9 +36312,9 @@
       "volume": "8,553,133",
       "averageVolume": 21286548,
       "averageVolume10days": 15941349,
-      "marketCap": 0,
+      "marketCap": 1243200000,
       "enterpriseValue": 1771814272,
-      "sharesOutstanding": 0,
+      "sharesOutstanding": 240000000,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -36327,7 +36327,7 @@
       "forwardPE": null,
       "priceToBook": 2.3428314,
       "pegRatio": null,
-      "priceToSales": null,
+      "priceToSales": 0.67447525,
       "enterpriseToRevenue": 0.961,
       "enterpriseToEbitda": 7.045,
       "profitMargins": -0.00974,
@@ -38782,7 +38782,7 @@
       "description": "Formet Metal ve Cam Sanayi A.S. engages in the manufacture and sale of steel doors primarily in Turkey. The company also provides steel, aluminum, wood, PVC, plastic, other materials; metal doors and windows, and their parts made of metal; and alloy and other materials, as well as door, shutters, stairs, verandas, railings, durable consumer goods, cookers, heaters, and electric appliances. It exports its products to Europe, Asia, America, Africa, and the Middle East. Formet Metal ve Cam Sanayi A.S. was formerly known as Formet Celik Kapi Sanayi ve Ticaret A.S. and changed its name to Formet Metal ve Cam Sanayi A.S. in July 2021. The company was founded in 2005 and is based in Kayseri, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.09821,
+      "priceToBook": 1.1575726,
       "pegRatio": null,
       "priceToSales": 2.7998066,
       "enterpriseToRevenue": 2.56,
@@ -38801,7 +38801,7 @@
       "quickRatio": 0.134,
       "eps": -0.43,
       "forwardEps": null,
-      "bookValue": 2.067,
+      "bookValue": 1.961,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1576195200,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 78.10459,
-      "targetLowPrice": 61.965755,
-      "targetMeanPrice": 67.40718,
-      "targetMedianPrice": 62.150726,
+      "targetHighPrice": 78.12503,
+      "targetLowPrice": 61.981968,
+      "targetMeanPrice": 67.42481,
+      "targetMedianPrice": 62.16699,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -47634,195 +47634,6 @@
       "heldPercentInstitutions": 0.0
     },
     {
-      "code": "IHYAY",
-      "symbol": "IHYAY.IS",
-      "name": "Ihlas Yayin Holding A.S.",
-      "shortName": "IHLAS YAYIN HOLDING",
-      "price": 1.62,
-      "change": 0.01,
-      "changeRate": 0.62,
-      "previousClose": 1.61,
-      "open": 1.63,
-      "dayLow": 1.6,
-      "dayHigh": 1.64,
-      "fiftyTwoWeekLow": 1.58,
-      "fiftyTwoWeekHigh": 3.52,
-      "fiftyDayAverage": 1.77,
-      "twoHundredDayAverage": 2.08,
-      "volume": "6,222,669",
-      "averageVolume": 7898464,
-      "averageVolume10days": 4855415,
-      "marketCap": 729000000,
-      "enterpriseValue": 3955499008,
-      "sharesOutstanding": 450000000,
-      "sector": "Communication Services",
-      "industry": "Publishing",
-      "website": "https://www.ihlasyayinholding.com.tr",
-      "address": "Merkez Mahallesi 29 Ekim Caddesi",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 454 24 22",
-      "description": "Ihlas Yayin Holding A.S., through its subsidiaries, engages in media, publishing, and advertising businesses in Turkey. It publishes newspaper under the Türkiye Newspaper name; operates news agency, which provides video news service and news reporting and content production services to private corporations in Turkey; and produces and publishes special news through TGRT News TV. The company also broadcasts live news and programs, television and radio broadcasting, production, shooting, dubbing of television films, videos and advertising programs, television channels, renting and establishing radio stations through digital platforms, such as Türksat Cable TV and D-smart, as well as over the internet through tgrthaber.com.tr website; and broadcasts educational, relaxing, and informative documentaries. In addition, it provides integrated services, including prepress, printing, and post-press services for various products, such as newspapers, magazines, promotional materials, and books, as well as broadcasts programming through TGRT FM radio. Further, the company engages in the digital assets business that offers web design, mobile content and applications, internet software, and social media management services. Ihlas Yayin Holding A.S. was incorporated in 2003 and is headquartered in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 1.0253165,
-      "pegRatio": null,
-      "priceToSales": 0.21738796,
-      "enterpriseToRevenue": 1.18,
-      "enterpriseToEbitda": -10.115,
-      "profitMargins": -0.09866,
-      "grossMargins": 0.11642,
-      "operatingMargins": -0.20979,
-      "returnOnAssets": -0.05527,
-      "returnOnEquity": -0.053260002,
-      "totalRevenue": 3353451520,
-      "revenuePerShare": 7.453,
-      "totalCash": 307077472,
-      "totalDebt": 176263616,
-      "debtToEquity": 4.409,
-      "currentRatio": 2.031,
-      "quickRatio": 1.649,
-      "eps": -0.43,
-      "forwardEps": null,
-      "bookValue": 1.58,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.242,
-      "historicalData": [
-        {
-          "Close": 1.809999942779541,
-          "Volume": 8270235
-        },
-        {
-          "Close": 1.8200000524520874,
-          "Volume": 8864735
-        },
-        {
-          "Close": 1.8200000524520874,
-          "Volume": 6773963
-        },
-        {
-          "Close": 1.8600000143051147,
-          "Volume": 8088422
-        },
-        {
-          "Close": 1.8799999952316284,
-          "Volume": 8383971
-        },
-        {
-          "Close": 1.8899999856948853,
-          "Volume": 7996463
-        },
-        {
-          "Close": 1.8700000047683716,
-          "Volume": 4839278
-        },
-        {
-          "Close": 1.850000023841858,
-          "Volume": 7987698
-        },
-        {
-          "Close": 1.7899999618530273,
-          "Volume": 8918435
-        },
-        {
-          "Close": 1.8200000524520874,
-          "Volume": 6603778
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 5130761
-        },
-        {
-          "Close": 1.75,
-          "Volume": 7001179
-        },
-        {
-          "Close": 1.75,
-          "Volume": 5288309
-        },
-        {
-          "Close": 1.649999976158142,
-          "Volume": 4934584
-        },
-        {
-          "Close": 1.7000000476837158,
-          "Volume": 6742227
-        },
-        {
-          "Close": 1.7200000286102295,
-          "Volume": 5167890
-        },
-        {
-          "Close": 1.7100000381469727,
-          "Volume": 2988723
-        },
-        {
-          "Close": 1.7100000381469727,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7100000381469727,
-          "Volume": 0
-        },
-        {
-          "Close": 1.7100000381469727,
-          "Volume": 0
-        },
-        {
-          "Close": 1.75,
-          "Volume": 6639754
-        },
-        {
-          "Close": 1.7699999809265137,
-          "Volume": 3543012
-        },
-        {
-          "Close": 1.7400000095367432,
-          "Volume": 7328448
-        },
-        {
-          "Close": 1.75,
-          "Volume": 3953199
-        },
-        {
-          "Close": 1.7100000381469727,
-          "Volume": 5310743
-        },
-        {
-          "Close": 1.7000000476837158,
-          "Volume": 3492357
-        },
-        {
-          "Close": 1.649999976158142,
-          "Volume": 5249580
-        },
-        {
-          "Close": 1.6299999952316284,
-          "Volume": 3680105
-        },
-        {
-          "Close": 1.6100000143051147,
-          "Volume": 3134284
-        },
-        {
-          "Close": 1.6200000047683716,
-          "Volume": 6222669
-        }
-      ],
-      "heldPercentInsiders": 0.26059,
-      "heldPercentInstitutions": 0.0
-    },
-    {
       "code": "IMASM",
       "symbol": "IMASM.IS",
       "name": "Imas Makina Sanayi A.S.",
@@ -48988,7 +48799,7 @@
       "description": "Investco Holding A.S. operates as an investment company in Europe, the Middle East, Asia, Africa, North and South America, and Turkey. The company invests in companies operating in renewable energy, mining, chemistry, iron-steel, technology and software, venture capital, food, and healthcare industries. The company was incorporated in 2011 and is based in Istanbul, Turkey.",
       "pe": 34.96,
       "forwardPE": null,
-      "priceToBook": 5.226272,
+      "priceToBook": 4.5585413,
       "pegRatio": null,
       "priceToSales": 93.7716,
       "enterpriseToRevenue": 91.091,
@@ -49007,7 +48818,7 @@
       "quickRatio": 9.584,
       "eps": 18.75,
       "forwardEps": null,
-      "bookValue": 125.424,
+      "bookValue": 143.796,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -53146,7 +52957,7 @@
       "description": "Kuzey Boru Anonim Sirketi produces and sells plastic pipes and fittings in Turkey and internationally. It provides steel, drawn pipes, concrete pipes, polyethylene pipes, polypropylene pipes, ductile pipes, and related products. The company also offers infrastructure pipe systems, such as GRP pipe and fittings, corrugated pipe and fittings, HDPE pipe and fittings, telecommunication pipes and fittings and superstructure pipe systems, including PPR pipe and fittings, PVC-U pipe and fittings, and underfloor heating pipes and fittings. Additionally, it provides logistics, engineering services, after-sales services, accredited laboratory services, and project specific production. The company was founded in 2001 and is based in Aksaray, Turkey.",
       "pe": 23.38,
       "forwardPE": null,
-      "priceToBook": 2.7338634,
+      "priceToBook": 3.154344,
       "pegRatio": null,
       "priceToSales": 2.3834841,
       "enterpriseToRevenue": 2.958,
@@ -53165,7 +52976,7 @@
       "quickRatio": 0.577,
       "eps": 1.0,
       "forwardEps": null,
-      "bookValue": 8.552,
+      "bookValue": 7.412,
       "dividendRate": 0.02,
       "dividendYield": 0.09,
       "exDividendDate": 1794268800,
@@ -53869,195 +53680,6 @@
       ],
       "heldPercentInsiders": 0.62057,
       "heldPercentInstitutions": 0.0
-    },
-    {
-      "code": "KFEIN",
-      "symbol": "KFEIN.IS",
-      "name": "Kafein Yazilim Hizmetleri Ticaret A.S.",
-      "shortName": "KAFEIN YAZILIM",
-      "price": 10.98,
-      "change": 0.99,
-      "changeRate": 9.91,
-      "previousClose": 9.99,
-      "open": 10.22,
-      "dayLow": 10.22,
-      "dayHigh": 10.98,
-      "fiftyTwoWeekLow": 8.09,
-      "fiftyTwoWeekHigh": 12.54,
-      "fiftyDayAverage": 9.43,
-      "twoHundredDayAverage": 9.36,
-      "volume": "23,357,606",
-      "averageVolume": 9590580,
-      "averageVolume10days": 22484953,
-      "marketCap": 2168549888,
-      "enterpriseValue": 1940313344,
-      "sharesOutstanding": 197500000,
-      "sector": "Technology",
-      "industry": "Software - Application",
-      "website": "https://www.kafein.com.tr",
-      "address": "YTU Davutpasa Campus",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 924 20 30",
-      "description": "Kafein Yazilim Hizmetleri Ticaret A.S. provides various software and technology management solutions, services, and products in Turkey and internationally. The company offers Data Focus, a data governance tool to manage enterprise-structured data; Data Touch, a platform for sensitive data monitoring and data usage analytics; Test Data Management, a solution that enables controlled creation, transfer, and management of data required in software development and testing processes; and Dataskope, a database activity monitoring and security solution. It also provides Infraskope, an enterprise security information and event management platform that collects, analyzes, and correlates logs generated from an organization's entire IT infrastructure; APIFORT, a cybersecurity product; Corporate Portal which facilitates intra-corporate processes; and ERPGuard, a solution designed to enhance the security of SAP systems and optimize compliance processes. In addition, the company offers turnkey projects, cyber security solutions, google security operations, cloud solutions, data virtualization consulting, robotic process automation service, data privacy and protection services, outsourcing services, data decision management systems consultancy, test management consultancy, digital transformation consultancy, data warehouse consulting, managed technology services, software development, advanced analytics solutions, and IT operation management services. It serves technology, banking, telecommunications, tourism, services, retail, and insurance sectors. The company was incorporated in 2005 and is headquartered in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 1.6654027,
-      "pegRatio": null,
-      "priceToSales": 0.7234514,
-      "enterpriseToRevenue": 0.647,
-      "enterpriseToEbitda": 8.893,
-      "profitMargins": 0.01749,
-      "grossMargins": 0.17872,
-      "operatingMargins": 0.05041,
-      "returnOnAssets": 0.07337,
-      "returnOnEquity": 0.054899998,
-      "totalRevenue": 2997506048,
-      "revenuePerShare": 14.401,
-      "totalCash": 270672032,
-      "totalDebt": 17499584,
-      "debtToEquity": 1.216,
-      "currentRatio": 2.154,
-      "quickRatio": 2.005,
-      "eps": -1.18,
-      "forwardEps": null,
-      "bookValue": 6.593,
-      "dividendRate": 0.02,
-      "dividendYield": 0.18,
-      "exDividendDate": 1777852800,
-      "payoutRatio": 0.1269,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": null,
-      "historicalData": [
-        {
-          "Close": 8.710000038146973,
-          "Volume": 2882265
-        },
-        {
-          "Close": 8.970000267028809,
-          "Volume": 5000545
-        },
-        {
-          "Close": 9.119999885559082,
-          "Volume": 7098279
-        },
-        {
-          "Close": 9.15999984741211,
-          "Volume": 5168322
-        },
-        {
-          "Close": 9.40999984741211,
-          "Volume": 6478268
-        },
-        {
-          "Close": 9.34000015258789,
-          "Volume": 5506993
-        },
-        {
-          "Close": 9.6899995803833,
-          "Volume": 9011661
-        },
-        {
-          "Close": 9.3100004196167,
-          "Volume": 7807305
-        },
-        {
-          "Close": 9.180000305175781,
-          "Volume": 4487490
-        },
-        {
-          "Close": 9.430000305175781,
-          "Volume": 5081107
-        },
-        {
-          "Close": 9.220000267028809,
-          "Volume": 4223772
-        },
-        {
-          "Close": 10.140000343322754,
-          "Volume": 20450021
-        },
-        {
-          "Close": 9.649999618530273,
-          "Volume": 58124198
-        },
-        {
-          "Close": 8.6899995803833,
-          "Volume": 26865359
-        },
-        {
-          "Close": 9.329999923706055,
-          "Volume": 19722643
-        },
-        {
-          "Close": 9.529999732971191,
-          "Volume": 15823916
-        },
-        {
-          "Close": 10.180000305175781,
-          "Volume": 18145629
-        },
-        {
-          "Close": 10.180000305175781,
-          "Volume": 0
-        },
-        {
-          "Close": 10.180000305175781,
-          "Volume": 0
-        },
-        {
-          "Close": 10.180000305175781,
-          "Volume": 0
-        },
-        {
-          "Close": 11.1899995803833,
-          "Volume": 21738783
-        },
-        {
-          "Close": 12.0,
-          "Volume": 45541340
-        },
-        {
-          "Close": 11.65999984741211,
-          "Volume": 36764375
-        },
-        {
-          "Close": 11.199999809265137,
-          "Volume": 15601332
-        },
-        {
-          "Close": 11.239999771118164,
-          "Volume": 22231685
-        },
-        {
-          "Close": 11.029999732971191,
-          "Volume": 12670880
-        },
-        {
-          "Close": 10.489999771118164,
-          "Volume": 15034487
-        },
-        {
-          "Close": 10.130000114440918,
-          "Volume": 10149912
-        },
-        {
-          "Close": 9.989999771118164,
-          "Volume": 21759130
-        },
-        {
-          "Close": 10.979999542236328,
-          "Volume": 23357606
-        }
-      ],
-      "heldPercentInsiders": 0.25139,
-      "heldPercentInstitutions": 0.00090000004
     },
     {
       "code": "KGYO",
@@ -58616,7 +58238,7 @@
       "averageVolume10days": 14657585,
       "marketCap": 6415086080,
       "enterpriseValue": 11984828416,
-      "sharesOutstanding": 2159961660,
+      "sharesOutstanding": 2159961700,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
       "website": "https://kervangida.com",
@@ -73558,7 +73180,7 @@
       "description": "Penta Teknoloji Urunleri Dagitim Ticaret A.S. distributes computer, hardware, and software products in Turkey. It offers Bazinet V3, a B2B e-commerce platform; Penta technology center, which provides demos, PoCs, hardware and software presentations, and end-to-end business solutions; and printing technology center that offers printing solutions and digital printing machines. The company also offers Penta subscription management solution, which helps to display and manage subscriptions; Penta Mywarehouse, for physical storage and online management; Penta Integration, a system for storage, logistics, sales, and marketing services; Penta OnAir, a communication platform to reach resellers and customers; and 10 to 10 delivery service. It also exports its products. Penta Teknoloji Urunleri Dagitim Ticaret A.S. was founded in 1990 and is headquartered in Istanbul, Turkey.",
       "pe": 62.750004,
       "forwardPE": null,
-      "priceToBook": 1.3424853,
+      "priceToBook": 1.3958663,
       "pegRatio": null,
       "priceToSales": 0.17368941,
       "enterpriseToRevenue": 0.177,
@@ -73577,7 +73199,7 @@
       "quickRatio": 0.896,
       "eps": 0.24,
       "forwardEps": null,
-      "bookValue": 11.218,
+      "bookValue": 10.789,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -88867,7 +88489,7 @@
       "description": "UFUK Yatirim Yonetim ve Gayrimenkul A.S. engages in the financial leasing business in Turkey. It also offers business management and consultancy services, such as advisory on strategic, financial, marketing, business processes, and project services, as well as on trademark and franchise issues. The company was formerly known as Fon Sinai Yatirimlar A.S. and changed its name to UFUK Yatirim Yonetim ve Gayrimenkul A.S. in May 2016. UFUK Yatirim Yonetim ve Gayrimenkul A.S. was founded in 1995 and is headquartered in Istanbul, Turkey. UFUK Yatirim Yonetim ve Gayrimenkul A.S. operates as a subsidiary of Lydia Holding A.S.",
       "pe": 116.27907,
       "forwardPE": null,
-      "priceToBook": 24.845194,
+      "priceToBook": 22.665064,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": null,
@@ -88886,7 +88508,7 @@
       "quickRatio": 2.553,
       "eps": 11.18,
       "forwardEps": null,
-      "bookValue": 52.324,
+      "bookValue": 57.357,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
