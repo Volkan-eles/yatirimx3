@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-13T23:13:08.372580",
+  "last_update": "2026-06-14T01:59:30.946283",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -42940,7 +42940,7 @@
       "description": "Gür-Sel Turizm Tasimacilik ve Servis Ticaret A.S. provides transportation services in Turkey. It provides personnel transportation; student transportation; passenger car, minibus, bus rental services; urban public transport; and intercity transportation services. The company was founded in 1993 and is headquartered in Istanbul, Turkey.",
       "pe": 15.745998,
       "forwardPE": null,
-      "priceToBook": 2.9655125,
+      "priceToBook": 2.5104327,
       "pegRatio": null,
       "priceToSales": 2.6889963,
       "enterpriseToRevenue": 2.57,
@@ -42959,7 +42959,7 @@
       "quickRatio": 2.096,
       "eps": 19.37,
       "forwardEps": null,
-      "bookValue": 102.849,
+      "bookValue": 121.493,
       "dividendRate": 1.47,
       "dividendYield": 0.48,
       "exDividendDate": 1779062400,
@@ -42978,7 +42978,7 @@
           "Volume": 1137888
         },
         {
-          "Close": 294.6504821777344,
+          "Close": 294.65045166015625,
           "Volume": 791784
         },
         {
@@ -88658,13 +88658,13 @@
       "open": 13.0,
       "dayLow": 12.79,
       "dayHigh": 13.15,
-      "fiftyTwoWeekLow": 6.21,
-      "fiftyTwoWeekHigh": 14.99,
-      "fiftyDayAverage": 12.52,
-      "twoHundredDayAverage": 11.8,
+      "fiftyTwoWeekLow": 3.84,
+      "fiftyTwoWeekHigh": 13.15,
+      "fiftyDayAverage": 6.74,
+      "twoHundredDayAverage": 6.06,
       "volume": "156,928,452",
-      "averageVolume": 47077846,
-      "averageVolume10days": 80165493,
+      "averageVolume": 82963133,
+      "averageVolume10days": 95414140,
       "marketCap": 128900005888,
       "enterpriseValue": 25804789760,
       "sharesOutstanding": 10000000000,
@@ -88712,96 +88712,96 @@
       "beta": 0.172,
       "historicalData": [
         {
-          "Close": 14.0600004196167,
-          "Volume": 18557417
+          "Close": 7.005000114440918,
+          "Volume": 47341704
         },
         {
-          "Close": 14.010000228881836,
-          "Volume": 23670852
+          "Close": 7.050000190734863,
+          "Volume": 62447972
         },
         {
-          "Close": 14.100000381469727,
-          "Volume": 31223986
+          "Close": 7.059999942779541,
+          "Volume": 63748658
         },
         {
-          "Close": 14.119999885559082,
-          "Volume": 31874329
+          "Close": 7.440000057220459,
+          "Volume": 74159216
         },
         {
-          "Close": 14.880000114440918,
-          "Volume": 37079608
+          "Close": 7.284999847412109,
+          "Volume": 34369788
         },
         {
-          "Close": 14.569999694824219,
-          "Volume": 17184894
+          "Close": 7.269999980926514,
+          "Volume": 24049104
         },
         {
-          "Close": 14.539999961853027,
-          "Volume": 12024552
+          "Close": 7.074999809265137,
+          "Volume": 32350724
         },
         {
-          "Close": 14.149999618530273,
-          "Volume": 16175362
+          "Close": 7.28000020980835,
+          "Volume": 53409752
         },
         {
-          "Close": 14.5600004196167,
-          "Volume": 26704876
+          "Close": 7.375,
+          "Volume": 64183860
         },
         {
-          "Close": 14.75,
-          "Volume": 32091930
+          "Close": 6.855000019073486,
+          "Volume": 663365822
         },
         {
-          "Close": 13.710000038146973,
-          "Volume": 331682911
+          "Close": 6.849999904632568,
+          "Volume": 170593546
         },
         {
-          "Close": 13.699999809265137,
-          "Volume": 85296773
-        },
-        {
-          "Close": 13.449999809265137,
-          "Volume": 90143751
-        },
-        {
-          "Close": 12.109999656677246,
-          "Volume": 40135269
-        },
-        {
-          "Close": 13.069999694824219,
-          "Volume": 90765100
-        },
-        {
-          "Close": 12.949999809265137,
-          "Volume": 29416650
-        },
-        {
-          "Close": 12.619999885559082,
-          "Volume": 25973686
-        },
-        {
-          "Close": 12.619999885559082,
+          "Close": 6.849999904632568,
           "Volume": 0
         },
         {
-          "Close": 12.619999885559082,
+          "Close": 6.724999904632568,
+          "Volume": 180287502
+        },
+        {
+          "Close": 6.054999828338623,
+          "Volume": 80270538
+        },
+        {
+          "Close": 6.534999847412109,
+          "Volume": 181530200
+        },
+        {
+          "Close": 6.474999904632568,
+          "Volume": 58833300
+        },
+        {
+          "Close": 6.309999942779541,
+          "Volume": 51947372
+        },
+        {
+          "Close": 6.309999942779541,
           "Volume": 0
         },
         {
-          "Close": 12.619999885559082,
+          "Close": 6.309999942779541,
           "Volume": 0
         },
         {
-          "Close": 12.359999656677246,
-          "Volume": 54793298
+          "Close": 6.309999942779541,
+          "Volume": 0
         },
         {
-          "Close": 12.779999732971191,
-          "Volume": 48189469
+          "Close": 6.179999828338623,
+          "Volume": 109586596
         },
         {
-          "Close": 12.619999885559082,
-          "Volume": 49503702
+          "Close": 6.389999866485596,
+          "Volume": 96378938
+        },
+        {
+          "Close": 6.309999942779541,
+          "Volume": 99007404
         },
         {
           "Close": 6.400000095367432,
