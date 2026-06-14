@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-14T19:52:56.395793",
+  "last_update": "2026-06-14T21:20:08.923654",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.76543,
-      "targetLowPrice": 35.28486,
-      "targetMeanPrice": 45.00276,
-      "targetMedianPrice": 46.799835,
+      "targetHighPrice": 52.76771,
+      "targetLowPrice": 35.286385,
+      "targetMeanPrice": 45.004707,
+      "targetMedianPrice": 46.80186,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.31,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 582.42834,
-      "targetLowPrice": 382.0914,
-      "targetMeanPrice": 445.01465,
-      "targetMedianPrice": 429.53818,
+      "targetHighPrice": 582.2978,
+      "targetLowPrice": 382.00577,
+      "targetMeanPrice": 444.91492,
+      "targetMedianPrice": 429.44193,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -6436,10 +6436,10 @@
       "symbol": "LOGO.IS",
       "name": "Logo Yazilim Sanayi ve Ticaret A.S.",
       "shortName": "LOGO YAZILIM",
-      "price": 145.6,
-      "change": 2.9,
+      "price": 140.34,
+      "change": 2.8,
       "changeRate": 2.03,
-      "previousClose": 142.7,
+      "previousClose": 137.54,
       "open": 145.0,
       "dayLow": 143.4,
       "dayHigh": 148.0,
@@ -6497,123 +6497,123 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 143.60000610351562,
+          "Close": 138.40914916992188,
           "Volume": 825033
         },
         {
-          "Close": 148.5,
+          "Close": 143.13201904296875,
           "Volume": 1379905
         },
         {
-          "Close": 153.10000610351562,
+          "Close": 147.56573486328125,
           "Volume": 1316171
         },
         {
-          "Close": 155.0,
+          "Close": 149.3970489501953,
           "Volume": 1374474
         },
         {
-          "Close": 155.89999389648438,
+          "Close": 150.26451110839844,
           "Volume": 1345586
         },
         {
-          "Close": 162.89999389648438,
+          "Close": 157.011474609375,
           "Volume": 1299374
         },
         {
-          "Close": 167.0,
+          "Close": 160.96327209472656,
           "Volume": 1076917
         },
         {
-          "Close": 164.0,
+          "Close": 158.07171630859375,
           "Volume": 2292618
         },
         {
-          "Close": 157.0,
+          "Close": 151.3247528076172,
           "Volume": 825923
         },
         {
-          "Close": 160.89999389648438,
+          "Close": 155.08377075195312,
           "Volume": 777981
         },
         {
-          "Close": 159.0,
+          "Close": 153.25245666503906,
           "Volume": 595000
         },
         {
-          "Close": 155.0,
+          "Close": 149.3970489501953,
           "Volume": 1042378
         },
         {
-          "Close": 153.39999389648438,
+          "Close": 147.85487365722656,
           "Volume": 938818
         },
         {
-          "Close": 142.1999969482422,
+          "Close": 137.0597381591797,
           "Volume": 865027
         },
         {
-          "Close": 151.0,
+          "Close": 145.54164123535156,
           "Volume": 1031176
         },
         {
-          "Close": 152.89999389648438,
+          "Close": 147.37295532226562,
           "Volume": 483892
         },
         {
-          "Close": 158.1999969482422,
+          "Close": 152.4813690185547,
           "Volume": 435213
         },
         {
-          "Close": 158.1999969482422,
+          "Close": 152.4813690185547,
           "Volume": 0
         },
         {
-          "Close": 158.1999969482422,
+          "Close": 152.4813690185547,
           "Volume": 0
         },
         {
-          "Close": 158.1999969482422,
+          "Close": 152.4813690185547,
           "Volume": 0
         },
         {
-          "Close": 163.0,
+          "Close": 157.1078643798828,
           "Volume": 1431760
         },
         {
-          "Close": 164.1999969482422,
+          "Close": 158.2644805908203,
           "Volume": 1072522
         },
         {
-          "Close": 157.1999969482422,
+          "Close": 151.51751708984375,
           "Volume": 1196985
         },
         {
-          "Close": 151.0,
+          "Close": 145.54164123535156,
           "Volume": 781541
         },
         {
-          "Close": 147.60000610351562,
+          "Close": 142.26455688476562,
           "Volume": 881461
         },
         {
-          "Close": 143.39999389648438,
+          "Close": 138.2163543701172,
           "Volume": 1382793
         },
         {
-          "Close": 145.3000030517578,
+          "Close": 140.0476837158203,
           "Volume": 552722
         },
         {
-          "Close": 142.0,
+          "Close": 136.86697387695312,
           "Volume": 660466
         },
         {
-          "Close": 142.6999969482422,
+          "Close": 137.5416717529297,
           "Volume": 892266
         },
         {
-          "Close": 145.60000610351562,
+          "Close": 140.33685302734375,
           "Volume": 1103786
         }
       ],
@@ -30466,7 +30466,7 @@
       "description": "DO & CO Aktiengesellschaft provides catering services in Austria, Turkey, Great Britain, the United States, Spain, Germany, and internationally. It operates through three divisions: Airline Catering; International Event Catering; and Restaurants, Lounges & Hotel. The company offers airline catering services; and event catering, infrastructure, and planning services. The company also engages in the operation of lounges, retail stores, airport catering, restaurants and Demel café, hotels, and staff restaurants. It operates restaurants and cafes under the DO & CO, Hédiard, HENRY, AIOLI, and Demel brands. The company was founded in 1981 and is headquartered in Vienna, Austria.",
       "pe": 21.231567,
       "forwardPE": 26.367424,
-      "priceToBook": 266.62582,
+      "priceToBook": 248.69199,
       "pegRatio": null,
       "priceToSales": 48.984413,
       "enterpriseToRevenue": 48.315,
@@ -30485,7 +30485,7 @@
       "quickRatio": 1.129,
       "eps": 512.68,
       "forwardEps": 412.82,
-      "bookValue": 40.825,
+      "bookValue": 43.769,
       "dividendRate": 133.59,
       "dividendYield": 1.23,
       "exDividendDate": 1785196800,
@@ -32154,7 +32154,7 @@
       "volume": "12,431,121",
       "averageVolume": 9182812,
       "averageVolume10days": 9604630,
-      "marketCap": 7464274944,
+      "marketCap": 8000543232,
       "enterpriseValue": 7149379584,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +32169,7 @@
       "forwardPE": null,
       "priceToBook": 8.390597,
       "pegRatio": null,
-      "priceToSales": 3.1274354,
+      "priceToSales": 3.352125,
       "enterpriseToRevenue": 2.995,
       "enterpriseToEbitda": 170.15,
       "profitMargins": -0.03031,
@@ -36296,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
+      "name": "ETILER GIDA",
       "shortName": "ETILER GIDA",
       "price": 5.18,
       "change": 0.01,
@@ -36312,9 +36312,9 @@
       "volume": "8,553,133",
       "averageVolume": 21286548,
       "averageVolume10days": 15941349,
-      "marketCap": 1243200000,
+      "marketCap": 0,
       "enterpriseValue": 1771814272,
-      "sharesOutstanding": 240000000,
+      "sharesOutstanding": 0,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -36327,7 +36327,7 @@
       "forwardPE": null,
       "priceToBook": 2.3428314,
       "pegRatio": null,
-      "priceToSales": 0.67447525,
+      "priceToSales": null,
       "enterpriseToRevenue": 0.961,
       "enterpriseToEbitda": 7.045,
       "profitMargins": -0.00974,
@@ -38782,7 +38782,7 @@
       "description": "Formet Metal ve Cam Sanayi A.S. engages in the manufacture and sale of steel doors primarily in Turkey. The company also provides steel, aluminum, wood, PVC, plastic, other materials; metal doors and windows, and their parts made of metal; and alloy and other materials, as well as door, shutters, stairs, verandas, railings, durable consumer goods, cookers, heaters, and electric appliances. It exports its products to Europe, Asia, America, Africa, and the Middle East. Formet Metal ve Cam Sanayi A.S. was formerly known as Formet Celik Kapi Sanayi ve Ticaret A.S. and changed its name to Formet Metal ve Cam Sanayi A.S. in July 2021. The company was founded in 2005 and is based in Kayseri, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.1575726,
+      "priceToBook": 1.09821,
       "pegRatio": null,
       "priceToSales": 2.7998066,
       "enterpriseToRevenue": 2.56,
@@ -38801,7 +38801,7 @@
       "quickRatio": 0.134,
       "eps": -0.43,
       "forwardEps": null,
-      "bookValue": 1.961,
+      "bookValue": 2.067,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1576195200,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 78.107635,
-      "targetLowPrice": 61.968166,
-      "targetMeanPrice": 67.409805,
-      "targetMedianPrice": 62.153145,
+      "targetHighPrice": 78.10459,
+      "targetLowPrice": 61.965755,
+      "targetMeanPrice": 67.40718,
+      "targetMedianPrice": 62.150726,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -48988,7 +48988,7 @@
       "description": "Investco Holding A.S. operates as an investment company in Europe, the Middle East, Asia, Africa, North and South America, and Turkey. The company invests in companies operating in renewable energy, mining, chemistry, iron-steel, technology and software, venture capital, food, and healthcare industries. The company was incorporated in 2011 and is based in Istanbul, Turkey.",
       "pe": 34.96,
       "forwardPE": null,
-      "priceToBook": 4.5585413,
+      "priceToBook": 5.226272,
       "pegRatio": null,
       "priceToSales": 93.7716,
       "enterpriseToRevenue": 91.091,
@@ -49007,7 +49007,7 @@
       "quickRatio": 9.584,
       "eps": 18.75,
       "forwardEps": null,
-      "bookValue": 143.796,
+      "bookValue": 125.424,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -53146,7 +53146,7 @@
       "description": "Kuzey Boru Anonim Sirketi produces and sells plastic pipes and fittings in Turkey and internationally. It provides steel, drawn pipes, concrete pipes, polyethylene pipes, polypropylene pipes, ductile pipes, and related products. The company also offers infrastructure pipe systems, such as GRP pipe and fittings, corrugated pipe and fittings, HDPE pipe and fittings, telecommunication pipes and fittings and superstructure pipe systems, including PPR pipe and fittings, PVC-U pipe and fittings, and underfloor heating pipes and fittings. Additionally, it provides logistics, engineering services, after-sales services, accredited laboratory services, and project specific production. The company was founded in 2001 and is based in Aksaray, Turkey.",
       "pe": 23.38,
       "forwardPE": null,
-      "priceToBook": 3.154344,
+      "priceToBook": 2.7338634,
       "pegRatio": null,
       "priceToSales": 2.3834841,
       "enterpriseToRevenue": 2.958,
@@ -53165,7 +53165,7 @@
       "quickRatio": 0.577,
       "eps": 1.0,
       "forwardEps": null,
-      "bookValue": 7.412,
+      "bookValue": 8.552,
       "dividendRate": 0.02,
       "dividendYield": 0.09,
       "exDividendDate": 1794268800,
@@ -58616,7 +58616,7 @@
       "averageVolume10days": 14657585,
       "marketCap": 6415086080,
       "enterpriseValue": 11984828416,
-      "sharesOutstanding": 2159961700,
+      "sharesOutstanding": 2159961660,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
       "website": "https://kervangida.com",
@@ -73558,7 +73558,7 @@
       "description": "Penta Teknoloji Urunleri Dagitim Ticaret A.S. distributes computer, hardware, and software products in Turkey. It offers Bazinet V3, a B2B e-commerce platform; Penta technology center, which provides demos, PoCs, hardware and software presentations, and end-to-end business solutions; and printing technology center that offers printing solutions and digital printing machines. The company also offers Penta subscription management solution, which helps to display and manage subscriptions; Penta Mywarehouse, for physical storage and online management; Penta Integration, a system for storage, logistics, sales, and marketing services; Penta OnAir, a communication platform to reach resellers and customers; and 10 to 10 delivery service. It also exports its products. Penta Teknoloji Urunleri Dagitim Ticaret A.S. was founded in 1990 and is headquartered in Istanbul, Turkey.",
       "pe": 62.750004,
       "forwardPE": null,
-      "priceToBook": 1.3958663,
+      "priceToBook": 1.3424853,
       "pegRatio": null,
       "priceToSales": 0.17368941,
       "enterpriseToRevenue": 0.177,
@@ -73577,7 +73577,7 @@
       "quickRatio": 0.896,
       "eps": 0.24,
       "forwardEps": null,
-      "bookValue": 10.789,
+      "bookValue": 11.218,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -88867,7 +88867,7 @@
       "description": "UFUK Yatirim Yonetim ve Gayrimenkul A.S. engages in the financial leasing business in Turkey. It also offers business management and consultancy services, such as advisory on strategic, financial, marketing, business processes, and project services, as well as on trademark and franchise issues. The company was formerly known as Fon Sinai Yatirimlar A.S. and changed its name to UFUK Yatirim Yonetim ve Gayrimenkul A.S. in May 2016. UFUK Yatirim Yonetim ve Gayrimenkul A.S. was founded in 1995 and is headquartered in Istanbul, Turkey. UFUK Yatirim Yonetim ve Gayrimenkul A.S. operates as a subsidiary of Lydia Holding A.S.",
       "pe": 116.27907,
       "forwardPE": null,
-      "priceToBook": 22.665064,
+      "priceToBook": 24.845194,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": null,
@@ -88886,7 +88886,7 @@
       "quickRatio": 2.553,
       "eps": 11.18,
       "forwardEps": null,
-      "bookValue": 57.357,
+      "bookValue": 52.324,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
