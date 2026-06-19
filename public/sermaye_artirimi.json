@@ -1,5 +1,23 @@
 [
   {
+    "code": "OSTIM",
+    "company": "OSTIM Ostim Endüstriyel Yatırımlar ve İşletme A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%35",
+    "date": "17.06.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "BMSTL",
+    "company": "BMSTL Bms Birleşik Metal San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "17.06.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "GOODY",
     "company": "GOODY Goodyear Lastikleri T.A.Ş.",
     "type": "Bedelsiz",
@@ -61,6 +79,15 @@
     "date": "03.07.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "MHRGY",
+    "company": "MHRGY Mhr Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%50",
+    "date": "25.05.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 620.250.000 TL"
   },
   {
     "code": "LIDFA",
@@ -169,24 +196,6 @@
     "date": "10.04.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 188.490.000 TL"
-  },
-  {
-    "code": "OSTIM",
-    "company": "OSTIM Ostim Endüstriyel Yatırımlar ve İşletme A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%35",
-    "date": "07.04.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "BMSTL",
-    "company": "BMSTL Bms Birleşik Metal San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "06.04.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "KTLEV",
