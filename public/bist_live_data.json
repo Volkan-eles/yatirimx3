@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-24T15:53:55.154590",
+  "last_update": "2026-06-24T18:03:11.123645",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -1583,6 +1583,10 @@
       "beta": 0.228,
       "historicalData": [
         {
+          "Close": 255.0,
+          "Volume": 26346926
+        },
+        {
           "Close": 250.75,
           "Volume": 21811439
         },
@@ -1689,10 +1693,6 @@
         {
           "Close": 226.89999389648438,
           "Volume": 22166113
-        },
-        {
-          "Close": 220.6999969482422,
-          "Volume": 17162322
         },
         {
           "Close": 220.39999389648438,
@@ -2140,15 +2140,19 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 53.047832,
-      "targetLowPrice": 36.450043,
-      "targetMeanPrice": 46.319916,
-      "targetMedianPrice": 47.05031,
+      "targetHighPrice": 53.043495,
+      "targetLowPrice": 36.447063,
+      "targetMeanPrice": 46.31613,
+      "targetMedianPrice": 47.046463,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
       "beta": 0.375,
       "historicalData": [
+        {
+          "Close": 44.91999816894531,
+          "Volume": 146778647
+        },
         {
           "Close": 42.7599983215332,
           "Volume": 97818795
@@ -2256,10 +2260,6 @@
         {
           "Close": 40.779998779296875,
           "Volume": 50530519
-        },
-        {
-          "Close": 41.31999969482422,
-          "Volume": 43943466
         },
         {
           "Close": 40.0,
@@ -4929,7 +4929,7 @@
       "changeRate": -1.36,
       "previousClose": 91.7,
       "open": 91.8,
-      "dayLow": 90.0,
+      "dayLow": 90.25,
       "dayHigh": 92.2,
       "fiftyTwoWeekLow": 88.25,
       "fiftyTwoWeekHigh": 138.9,
@@ -5164,15 +5164,19 @@
       "dividendYield": 1.27,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 506.4585,
-      "targetLowPrice": 376.76797,
-      "targetMeanPrice": 432.64578,
-      "targetMedianPrice": 423.5537,
+      "targetHighPrice": 506.26138,
+      "targetLowPrice": 376.62134,
+      "targetMeanPrice": 432.47742,
+      "targetMedianPrice": 423.3889,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 11,
       "beta": -0.091,
       "historicalData": [
+        {
+          "Close": 269.25,
+          "Volume": 3332620
+        },
         {
           "Close": 264.0,
           "Volume": 2814300
@@ -5280,10 +5284,6 @@
         {
           "Close": 297.0,
           "Volume": 5458289
-        },
-        {
-          "Close": 288.0,
-          "Volume": 3926031
         },
         {
           "Close": 285.0,
@@ -5930,6 +5930,10 @@
       "beta": 0.707,
       "historicalData": [
         {
+          "Close": 599.0,
+          "Volume": 1665591
+        },
+        {
           "Close": 590.5,
           "Volume": 1516378
         },
@@ -6036,10 +6040,6 @@
         {
           "Close": 490.0,
           "Volume": 3302223
-        },
-        {
-          "Close": 509.0,
-          "Volume": 2992708
         },
         {
           "Close": 478.25,
@@ -6630,7 +6630,7 @@
       "changeRate": -2.8,
       "previousClose": 67.95,
       "open": 67.6,
-      "dayLow": 65.3,
+      "dayLow": 65.4,
       "dayHigh": 68.5,
       "fiftyTwoWeekLow": 44.74,
       "fiftyTwoWeekHigh": 94.95,
@@ -7597,7 +7597,7 @@
       "description": "Alarko Holding A.S., together with its subsidiaries, engages in contracting, energy, industry and trade, tourism, land development, investment, and agriculture businesses in Turkey. The company undertakes in the construction of refineries, chemical, petrochemical plants, power, industrial, and water and wastewater treatment plants, as well as pipelines, transportation, and housing projects. It also produces, distributes, sells, and trades energy; manufactures heating, ventilating, and air conditioning, as well as sells heating, RLC products, and provides marketing, repair, and maintenance services. In addition, the company operates hotels, sports center, spa centers, and movie theatres; residential land development activities; invest in public and private companies; and venture capital activities. Further, it is involved in greenhouse, fertilizer, seed, and food industry activities. The company was founded in 1954 and is based in Istanbul, Turkey.",
       "pe": 24.343676,
       "forwardPE": 3.9890497,
-      "priceToBook": 0.5652598,
+      "priceToBook": 0.5105182,
       "pegRatio": null,
       "priceToSales": 4.870226,
       "enterpriseToRevenue": 6.582,
@@ -7616,7 +7616,7 @@
       "quickRatio": 0.621,
       "eps": 4.19,
       "forwardEps": 25.57,
-      "bookValue": 180.448,
+      "bookValue": 199.797,
       "dividendRate": 3.19,
       "dividendYield": 3.19,
       "exDividendDate": 1777852800,
@@ -8142,7 +8142,7 @@
       "changeRate": -9.99,
       "previousClose": 9.51,
       "open": 9.55,
-      "dayLow": 8.56,
+      "dayLow": 8.57,
       "dayHigh": 9.58,
       "fiftyTwoWeekLow": 4.75,
       "fiftyTwoWeekHigh": 9.71,
@@ -8332,9 +8332,9 @@
       "previousClose": 16.47,
       "open": 16.6,
       "dayLow": 16.32,
-      "dayHigh": 17.0,
+      "dayHigh": 16.99,
       "fiftyTwoWeekLow": 5.49,
-      "fiftyTwoWeekHigh": 17.0,
+      "fiftyTwoWeekHigh": 16.99,
       "fiftyDayAverage": 13.51,
       "twoHundredDayAverage": 9.9,
       "volume": "29,431,175",
@@ -8520,7 +8520,7 @@
       "changeRate": -0.18,
       "previousClose": 32.84,
       "open": 33.0,
-      "dayLow": 32.5,
+      "dayLow": 32.52,
       "dayHigh": 33.18,
       "fiftyTwoWeekLow": 23.9,
       "fiftyTwoWeekHigh": 37.78,
@@ -9844,7 +9844,7 @@
       "previousClose": 27.6,
       "open": 27.48,
       "dayLow": 27.22,
-      "dayHigh": 28.0,
+      "dayHigh": 27.88,
       "fiftyTwoWeekLow": 24.28,
       "fiftyTwoWeekHigh": 41.78,
       "fiftyDayAverage": 30.96,
@@ -11222,6 +11222,10 @@
       "beta": -0.317,
       "historicalData": [
         {
+          "Close": 55.400001525878906,
+          "Volume": 6693453
+        },
+        {
           "Close": 54.650001525878906,
           "Volume": 3825715
         },
@@ -11328,10 +11332,6 @@
         {
           "Close": 49.7599983215332,
           "Volume": 5730035
-        },
-        {
-          "Close": 50.650001525878906,
-          "Volume": 5995948
         },
         {
           "Close": 49.880001068115234,
@@ -14569,7 +14569,7 @@
       "previousClose": 114.2,
       "open": 114.6,
       "dayLow": 113.4,
-      "dayHigh": 116.2,
+      "dayHigh": 116.1,
       "fiftyTwoWeekLow": 46.54,
       "fiftyTwoWeekHigh": 129.7,
       "fiftyDayAverage": 110.64,
@@ -15513,7 +15513,7 @@
       "changeRate": -4.65,
       "previousClose": 2.15,
       "open": 2.17,
-      "dayLow": 2.04,
+      "dayLow": 2.05,
       "dayHigh": 2.17,
       "fiftyTwoWeekLow": 2.03,
       "fiftyTwoWeekHigh": 5.72,
@@ -17592,7 +17592,7 @@
       "changeRate": -2.22,
       "previousClose": 631.0,
       "open": 627.5,
-      "dayLow": 614.0,
+      "dayLow": 614.5,
       "dayHigh": 660.0,
       "fiftyTwoWeekLow": 392.0,
       "fiftyTwoWeekHigh": 1327.0,
@@ -19693,7 +19693,7 @@
       "description": "Bera Holding A.S. operates in the paper and cardboard, machinery, oil, construction and building materials, marble, textiles, tourism, and food sectors worldwide. It offers paper, printing, and packaging products under the KOMEKS OKUL DEFTERLERI, Konya Kagit Sanayi ve Ticaret A.S., MURATLI KARTON, Speed, Ultra copy, ekstra copy, Konya Kagit Günesli Isletmesi, and KONKA AMBALAJ brands; machinery products under the MPG, WAGNER, and SPARK brands; petroleum products under the KONGAZ and afrapetrol brands; food, livestock, and marketing products under the GOLDA, kardelen, MELDA, and ANATOLi brands; and construction and building materials under the DivaMDF, Bauplast, Divalam, FENSTERBAU, KOMPEN, KOMYAPI, komline, mialime, Laodica, and Divapan brands. The company also offers marble and minerals under the adaçal, Hisar, and KOMBASSAN MERMER brands; textile products under the KOVEKA brand; tourism and hotel management products under the Bera Alanya and Bera Konya brands; and rollers under the ART BEARINGS, URB, and mgm brands. The company was formerly known as Kombassan Holding A.S. and changed its name to Bera Holding A.S. in July 2017. The company was founded in 1988 and is based in Konya, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.3699213,
+      "priceToBook": 0.34012747,
       "pegRatio": null,
       "priceToSales": 0.57188106,
       "enterpriseToRevenue": 0.756,
@@ -19712,7 +19712,7 @@
       "quickRatio": 1.578,
       "eps": -0.92,
       "forwardEps": null,
-      "bookValue": 43.712,
+      "bookValue": 47.541,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1694995200,
@@ -20805,7 +20805,7 @@
       "changeRate": -5.53,
       "previousClose": 26.02,
       "open": 26.3,
-      "dayLow": 24.52,
+      "dayLow": 24.66,
       "dayHigh": 26.42,
       "fiftyTwoWeekLow": 15.41,
       "fiftyTwoWeekHigh": 61.9,
@@ -22317,7 +22317,7 @@
       "changeRate": -1.61,
       "previousClose": 8.09,
       "open": 8.08,
-      "dayLow": 7.7,
+      "dayLow": 7.71,
       "dayHigh": 8.13,
       "fiftyTwoWeekLow": 6.34,
       "fiftyTwoWeekHigh": 11.39,
@@ -23829,7 +23829,7 @@
       "changeRate": -0.74,
       "previousClose": 121.7,
       "open": 121.8,
-      "dayLow": 120.6,
+      "dayLow": 120.8,
       "dayHigh": 124.1,
       "fiftyTwoWeekLow": 85.0,
       "fiftyTwoWeekHigh": 165.5,
@@ -25152,7 +25152,7 @@
       "changeRate": -4.03,
       "previousClose": 4.96,
       "open": 4.97,
-      "dayLow": 4.75,
+      "dayLow": 4.76,
       "dayHigh": 4.99,
       "fiftyTwoWeekLow": 3.95,
       "fiftyTwoWeekHigh": 12.27,
@@ -26664,7 +26664,7 @@
       "changeRate": -0.99,
       "previousClose": 24.28,
       "open": 24.28,
-      "dayLow": 23.9,
+      "dayLow": 23.96,
       "dayHigh": 24.4,
       "fiftyTwoWeekLow": 18.74,
       "fiftyTwoWeekHigh": 40.84,
@@ -28933,7 +28933,7 @@
       "previousClose": 115.0,
       "open": 116.6,
       "dayLow": 114.6,
-      "dayHigh": 117.4,
+      "dayHigh": 117.0,
       "fiftyTwoWeekLow": 58.3,
       "fiftyTwoWeekHigh": 135.2,
       "fiftyDayAverage": 103.38,
@@ -30311,6 +30311,10 @@
       "beta": -0.09,
       "historicalData": [
         {
+          "Close": 184.5,
+          "Volume": 1771101
+        },
+        {
           "Close": 181.89999389648438,
           "Volume": 1268317
         },
@@ -30417,10 +30421,6 @@
         {
           "Close": 199.0,
           "Volume": 1266748
-        },
-        {
-          "Close": 193.8000030517578,
-          "Volume": 1260506
         },
         {
           "Close": 189.0,
@@ -32154,7 +32154,7 @@
       "volume": "5,280,804",
       "averageVolume": 9099375,
       "averageVolume10days": 11768146,
-      "marketCap": 7444166656,
+      "marketCap": 7978990592,
       "enterpriseValue": 7044815360,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +32169,7 @@
       "forwardPE": null,
       "priceToBook": 8.367993,
       "pegRatio": null,
-      "priceToSales": 3.1190102,
+      "priceToSales": 3.3430946,
       "enterpriseToRevenue": 2.952,
       "enterpriseToEbitda": 167.661,
       "profitMargins": -0.03031,
@@ -33335,6 +33335,10 @@
       "beta": null,
       "historicalData": [
         {
+          "Close": 3.7300000190734863,
+          "Volume": 14834486
+        },
+        {
           "Close": 3.490000009536743,
           "Volume": 9313932
         },
@@ -33441,10 +33445,6 @@
         {
           "Close": 3.3399999141693115,
           "Volume": 8355389
-        },
-        {
-          "Close": 3.450000047683716,
-          "Volume": 11622691
         },
         {
           "Close": 3.490000009536743,
@@ -35225,6 +35225,10 @@
       "beta": -0.16,
       "historicalData": [
         {
+          "Close": 212.6999969482422,
+          "Volume": 231313
+        },
+        {
           "Close": 205.3000030517578,
           "Volume": 127921
         },
@@ -35331,10 +35335,6 @@
         {
           "Close": 182.6999969482422,
           "Volume": 22243
-        },
-        {
-          "Close": 181.3000030517578,
-          "Volume": 38263
         },
         {
           "Close": 179.89999389648438,
@@ -35736,7 +35736,7 @@
       "changeRate": 0.16,
       "previousClose": 49.22,
       "open": 49.22,
-      "dayLow": 48.84,
+      "dayLow": 48.86,
       "dayHigh": 50.55,
       "fiftyTwoWeekLow": 18.46,
       "fiftyTwoWeekHigh": 72.0,
@@ -36296,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
+      "name": "ETILER GIDA",
       "shortName": "ETILER GIDA",
       "price": 5.61,
       "change": -0.32,
@@ -36312,9 +36312,9 @@
       "volume": "7,646,713",
       "averageVolume": 22046037,
       "averageVolume10days": 12336500,
-      "marketCap": 1346400000,
+      "marketCap": 0,
       "enterpriseValue": 1951814272,
-      "sharesOutstanding": 240000000,
+      "sharesOutstanding": 0,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -36327,7 +36327,7 @@
       "forwardPE": null,
       "priceToBook": 2.5373135,
       "pegRatio": null,
-      "priceToSales": 0.7304645,
+      "priceToSales": null,
       "enterpriseToRevenue": 1.059,
       "enterpriseToEbitda": 7.761,
       "profitMargins": -0.00974,
@@ -39706,7 +39706,7 @@
       "previousClose": 6.7,
       "open": 6.74,
       "dayLow": 6.74,
-      "dayHigh": 7.37,
+      "dayHigh": 7.36,
       "fiftyTwoWeekLow": 4.95,
       "fiftyTwoWeekHigh": 10.91,
       "fiftyDayAverage": 6.29,
@@ -40328,6 +40328,10 @@
       "beta": null,
       "historicalData": [
         {
+          "Close": 8.880000114440918,
+          "Volume": 24255697
+        },
+        {
           "Close": 8.40999984741211,
           "Volume": 14368832
         },
@@ -40434,10 +40438,6 @@
         {
           "Close": 6.929999828338623,
           "Volume": 4895193
-        },
-        {
-          "Close": 6.900000095367432,
-          "Volume": 6135554
         },
         {
           "Close": 6.769999980926514,
@@ -41407,7 +41407,7 @@
       "previousClose": 3.26,
       "open": 3.27,
       "dayLow": 3.23,
-      "dayHigh": 3.38,
+      "dayHigh": 3.37,
       "fiftyTwoWeekLow": 3.16,
       "fiftyTwoWeekHigh": 5.15,
       "fiftyDayAverage": 3.78,
@@ -42218,6 +42218,10 @@
       "beta": null,
       "historicalData": [
         {
+          "Close": 371.25,
+          "Volume": 202658
+        },
+        {
           "Close": 369.75,
           "Volume": 153512
         },
@@ -42326,10 +42330,6 @@
           "Volume": 68719
         },
         {
-          "Close": 328.25,
-          "Volume": 55877
-        },
-        {
           "Close": 322.5,
           "Volume": 114106
         },
@@ -42352,9 +42352,9 @@
       "previousClose": 20.1,
       "open": 20.52,
       "dayLow": 20.46,
-      "dayHigh": 22.1,
+      "dayHigh": 22.08,
       "fiftyTwoWeekLow": 13.51,
-      "fiftyTwoWeekHigh": 22.1,
+      "fiftyTwoWeekHigh": 22.08,
       "fiftyDayAverage": 16.27,
       "twoHundredDayAverage": 15.9,
       "volume": "16,782,617",
@@ -44808,7 +44808,7 @@
       "changeRate": -2.61,
       "previousClose": 13.8,
       "open": 13.92,
-      "dayLow": 13.41,
+      "dayLow": 13.42,
       "dayHigh": 13.92,
       "fiftyTwoWeekLow": 9.92,
       "fiftyTwoWeekHigh": 17.22,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 78.528366,
-      "targetLowPrice": 62.30196,
-      "targetMeanPrice": 67.7729,
-      "targetMedianPrice": 62.487934,
+      "targetHighPrice": 78.518906,
+      "targetLowPrice": 62.294456,
+      "targetMeanPrice": 67.76475,
+      "targetMedianPrice": 62.480408,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -47321,6 +47321,10 @@
       "beta": null,
       "historicalData": [
         {
+          "Close": 2.2100000381469727,
+          "Volume": 76639902
+        },
+        {
           "Close": 2.109999895095825,
           "Volume": 50349477
         },
@@ -47429,10 +47433,6 @@
           "Volume": 89809881
         },
         {
-          "Close": 1.3200000524520874,
-          "Volume": 73042288
-        },
-        {
           "Close": 1.2799999713897705,
           "Volume": 890370157
         },
@@ -47509,6 +47509,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.503,
       "historicalData": [
+        {
+          "Close": 2.309999942779541,
+          "Volume": 23513240
+        },
         {
           "Close": 2.180000066757202,
           "Volume": 33140282
@@ -47616,10 +47620,6 @@
         {
           "Close": 1.850000023841858,
           "Volume": 13325037
-        },
-        {
-          "Close": 2.0299999713897705,
-          "Volume": 51067218
         },
         {
           "Close": 1.9600000381469727,
@@ -48988,7 +48988,7 @@
       "description": "Investco Holding A.S. operates as an investment company in Europe, the Middle East, Asia, Africa, North and South America, and Turkey. The company invests in companies operating in renewable energy, mining, chemistry, iron-steel, technology and software, venture capital, food, and healthcare industries. The company was incorporated in 2011 and is based in Istanbul, Turkey.",
       "pe": 37.793175,
       "forwardPE": null,
-      "priceToBook": 4.930596,
+      "priceToBook": 5.6528254,
       "pegRatio": null,
       "priceToSales": 101.424965,
       "enterpriseToRevenue": 97.457,
@@ -49007,7 +49007,7 @@
       "quickRatio": 9.584,
       "eps": 18.76,
       "forwardEps": null,
-      "bookValue": 143.796,
+      "bookValue": 125.424,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -58616,7 +58616,7 @@
       "averageVolume10days": 10325058,
       "marketCap": 6285488640,
       "enterpriseValue": 11920029696,
-      "sharesOutstanding": 2159961700,
+      "sharesOutstanding": 2159961660,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
       "website": "https://kervangida.com",
@@ -59173,7 +59173,7 @@
       "previousClose": 97.1,
       "open": 97.2,
       "dayLow": 97.2,
-      "dayHigh": 106.8,
+      "dayHigh": 106.7,
       "fiftyTwoWeekLow": 56.75,
       "fiftyTwoWeekHigh": 151.0,
       "fiftyDayAverage": 113.28,
@@ -61118,6 +61118,10 @@
       "beta": 0.507,
       "historicalData": [
         {
+          "Close": 114.5999984741211,
+          "Volume": 192010
+        },
+        {
           "Close": 109.19999694824219,
           "Volume": 181553
         },
@@ -61224,10 +61228,6 @@
         {
           "Close": 110.30000305175781,
           "Volume": 224854
-        },
-        {
-          "Close": 114.5,
-          "Volume": 332031
         },
         {
           "Close": 112.19999694824219,
@@ -62197,7 +62197,7 @@
       "previousClose": 28.38,
       "open": 28.6,
       "dayLow": 27.64,
-      "dayHigh": 29.74,
+      "dayHigh": 29.72,
       "fiftyTwoWeekLow": 4.9,
       "fiftyTwoWeekHigh": 32.24,
       "fiftyDayAverage": 26.43,
@@ -68244,7 +68244,7 @@
       "changeRate": -2.22,
       "previousClose": 225.0,
       "open": 222.3,
-      "dayLow": 217.9,
+      "dayLow": 218.0,
       "dayHigh": 225.0,
       "fiftyTwoWeekLow": 203.0,
       "fiftyTwoWeekHigh": 353.0,
@@ -70701,7 +70701,7 @@
       "changeRate": -2.42,
       "previousClose": 50.5,
       "open": 50.05,
-      "dayLow": 48.28,
+      "dayLow": 48.3,
       "dayHigh": 51.45,
       "fiftyTwoWeekLow": 23.58,
       "fiftyTwoWeekHigh": 70.7,
@@ -73558,7 +73558,7 @@
       "description": "Penta Teknoloji Urunleri Dagitim Ticaret A.S. distributes computer, hardware, and software products in Turkey. It offers Bazinet V3, a B2B e-commerce platform; Penta technology center, which provides demos, PoCs, hardware and software presentations, and end-to-end business solutions; and printing technology center that offers printing solutions and digital printing machines. The company also offers Penta subscription management solution, which helps to display and manage subscriptions; Penta Mywarehouse, for physical storage and online management; Penta Integration, a system for storage, logistics, sales, and marketing services; Penta OnAir, a communication platform to reach resellers and customers; and 10 to 10 delivery service. It also exports its products. Penta Teknoloji Urunleri Dagitim Ticaret A.S. was founded in 1990 and is headquartered in Istanbul, Turkey.",
       "pe": 58.625,
       "forwardPE": null,
-      "priceToBook": 1.3041061,
+      "priceToBook": 1.2542342,
       "pegRatio": null,
       "priceToSales": 0.16227156,
       "enterpriseToRevenue": 0.169,
@@ -73577,7 +73577,7 @@
       "quickRatio": 0.896,
       "eps": 0.24,
       "forwardEps": null,
-      "bookValue": 10.789,
+      "bookValue": 11.218,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -76013,7 +76013,7 @@
       "country": "Turkey",
       "phone": "90 212 771 46 36",
       "description": "Prizma Pres Matbaacilik Yayincilik Sanayi ve Ticaret A.S. engages in the printing and publishing activities in Turkey. The company offers printing services for textbooks and supplementary textbooks, children's story and fairy tale books, and question banks and test books. It also engages in the purchasing and selling of paper; publishing and distribution of books, newspapers, and magazines; and importing and selling of printing machines. Prizma Pres Matbaacilik Yayincilik Sanayi ve Ticaret A.S. was founded in 1975 and is headquartered in Istanbul, Turkey.",
-      "pe": 69.90323,
+      "pe": 68.79365,
       "forwardPE": null,
       "priceToBook": 6.2657223,
       "pegRatio": null,
@@ -76032,7 +76032,7 @@
       "debtToEquity": 3.552,
       "currentRatio": 3.17,
       "quickRatio": 0.361,
-      "eps": 0.62,
+      "eps": 0.63,
       "forwardEps": null,
       "bookValue": 6.917,
       "dividendRate": null,
@@ -76582,7 +76582,7 @@
       "description": "QUA Granite Hayal Yapi ve Ürünleri Sanayi Ticaret A.S. manufactures, exports, and sells ceramics, floor tiles, tile materials, and granite in Turkey, Europe, the United States, and internationally. It also offers bathroom, kitchen, garden, interior, and exterior tiles. The company was incorporated in 2015 and is based in Aydin, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.0552486,
+      "priceToBook": 1.0076497,
       "pegRatio": null,
       "priceToSales": 0.97831994,
       "enterpriseToRevenue": 1.39,
@@ -76599,9 +76599,9 @@
       "debtToEquity": 41.512,
       "currentRatio": 0.986,
       "quickRatio": 0.607,
-      "eps": -0.34,
+      "eps": -0.33,
       "forwardEps": null,
-      "bookValue": 3.62,
+      "bookValue": 3.791,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -78829,7 +78829,7 @@
       "previousClose": 7.9,
       "open": 8.09,
       "dayLow": 7.11,
-      "dayHigh": 8.59,
+      "dayHigh": 8.55,
       "fiftyTwoWeekLow": 5.09,
       "fiftyTwoWeekHigh": 9.15,
       "fiftyDayAverage": 6.21,
@@ -79585,7 +79585,7 @@
       "previousClose": 28.04,
       "open": 28.04,
       "dayLow": 27.84,
-      "dayHigh": 28.78,
+      "dayHigh": 28.76,
       "fiftyTwoWeekLow": 10.37,
       "fiftyTwoWeekHigh": 51.6,
       "fiftyDayAverage": 28.59,
@@ -82041,7 +82041,7 @@
       "changeRate": -3.47,
       "previousClose": 14.41,
       "open": 14.42,
-      "dayLow": 13.85,
+      "dayLow": 13.86,
       "dayHigh": 14.64,
       "fiftyTwoWeekLow": 10.8,
       "fiftyTwoWeekHigh": 19.1,
@@ -88867,7 +88867,7 @@
       "description": "UFUK Yatirim Yonetim ve Gayrimenkul A.S. engages in the financial leasing business in Turkey. It also offers business management and consultancy services, such as advisory on strategic, financial, marketing, business processes, and project services, as well as on trademark and franchise issues. The company was formerly known as Fon Sinai Yatirimlar A.S. and changed its name to UFUK Yatirim Yonetim ve Gayrimenkul A.S. in May 2016. UFUK Yatirim Yonetim ve Gayrimenkul A.S. was founded in 1995 and is headquartered in Istanbul, Turkey. UFUK Yatirim Yonetim ve Gayrimenkul A.S. operates as a subsidiary of Lydia Holding A.S.",
       "pe": 149.28699,
       "forwardPE": null,
-      "priceToBook": 29.203062,
+      "priceToBook": 32.012077,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": null,
@@ -88886,7 +88886,7 @@
       "quickRatio": 2.553,
       "eps": 11.22,
       "forwardEps": null,
-      "bookValue": 57.357,
+      "bookValue": 52.324,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -89791,7 +89791,7 @@
       "previousClose": 13.44,
       "open": 13.44,
       "dayLow": 13.4,
-      "dayHigh": 14.49,
+      "dayHigh": 14.45,
       "fiftyTwoWeekLow": 12.12,
       "fiftyTwoWeekHigh": 19.34,
       "fiftyDayAverage": 13.37,
@@ -90035,6 +90035,10 @@
       "beta": null,
       "historicalData": [
         {
+          "Close": 1.7300000190734863,
+          "Volume": 137266638
+        },
+        {
           "Close": 1.7000000476837158,
           "Volume": 112656538
         },
@@ -90141,10 +90145,6 @@
         {
           "Close": 1.5099999904632568,
           "Volume": 81132115
-        },
-        {
-          "Close": 1.5700000524520874,
-          "Volume": 118752841
         },
         {
           "Close": 1.6399999856948853,
@@ -91491,7 +91491,7 @@
       "changeRate": -1.21,
       "previousClose": 28.0,
       "open": 28.0,
-      "dayLow": 26.8,
+      "dayLow": 26.9,
       "dayHigh": 28.16,
       "fiftyTwoWeekLow": 16.0,
       "fiftyTwoWeekHigh": 60.85,
@@ -91513,7 +91513,7 @@
       "description": "Vakif Menkul Kiymet Yatirim Ortakligi A.S. operates a portfolio of capital market instruments and gold and other precious metals traded on national and international stock exchanges or organized over-the-counter markets in Turkey. The company was formerly known as Vakif B Tipi Menkul Kiymetler Yatirim Ortakligi A.S. and changed its name to Vakif Menkul Kiymet Yatirim Ortakligi A.S. in April 2014. Vakif Menkul Kiymet Yatirim Ortakligi A.S. was incorporated in 1991 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 15.0,
+      "priceToBook": 14.99187,
       "pegRatio": null,
       "priceToSales": 4.693192,
       "enterpriseToRevenue": 4.437,
@@ -91532,7 +91532,7 @@
       "quickRatio": 44.939,
       "eps": -0.35,
       "forwardEps": null,
-      "bookValue": 1.844,
+      "bookValue": 1.845,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1698192000,
@@ -92626,7 +92626,7 @@
       "previousClose": 105.0,
       "open": 106.2,
       "dayLow": 102.8,
-      "dayHigh": 108.7,
+      "dayHigh": 108.6,
       "fiftyTwoWeekLow": 32.3,
       "fiftyTwoWeekHigh": 124.0,
       "fiftyDayAverage": 89.05,
