@@ -1,12 +1,12 @@
 [
   {
-    "code": "OSTIM",
-    "company": "OSTIM Ostim Endüstriyel Yatırımlar ve İşletme A.Ş.",
+    "code": "ISGSY",
+    "company": "ISGSY İş Girişim Sermayesi Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%35",
+    "rate": "%487,89",
     "date": "24.06.2026",
     "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 24.06.2026"
+    "description": "SPK Onayı Alındı | Tutar: 414.951.158 TL"
   },
   {
     "code": "BMSTL",
@@ -25,6 +25,15 @@
     "date": "10.06.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "OSTIM",
+    "company": "OSTIM Ostim Endüstriyel Yatırımlar ve İşletme A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%35",
+    "date": "24.06.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 24.06.2026"
   },
   {
     "code": "FLAP",
@@ -232,15 +241,6 @@
     "date": "23.03.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "ISGSY",
-    "company": "ISGSY İş Girişim Sermayesi Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%487,89",
-    "date": "24.03.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 414.951.158 TL"
   },
   {
     "code": "YEOTK",
