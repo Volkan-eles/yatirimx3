@@ -1,5 +1,14 @@
 [
   {
+    "code": "GOODY",
+    "company": "GOODY Goodyear Lastikleri T.A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%462,96",
+    "date": "02.07.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 02.07.2026"
+  },
+  {
     "code": "ISGSY",
     "company": "ISGSY İş Girişim Sermayesi Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
@@ -14,15 +23,6 @@
     "type": "Bedelsiz",
     "rate": "%100",
     "date": "17.06.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "GOODY",
-    "company": "GOODY Goodyear Lastikleri T.A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%462,96",
-    "date": "10.06.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı"
   },
