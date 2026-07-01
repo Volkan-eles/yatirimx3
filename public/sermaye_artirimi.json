@@ -1,5 +1,14 @@
 [
   {
+    "code": "BMSTL",
+    "company": "BMSTL Bms Birleşik Metal San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "01.07.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 01.07.2026"
+  },
+  {
     "code": "GOODY",
     "company": "GOODY Goodyear Lastikleri T.A.Ş.",
     "type": "Bedelsiz",
@@ -18,13 +27,22 @@
     "description": "SPK Onayı Alındı | Tutar: 414.951.158 TL"
   },
   {
-    "code": "BMSTL",
-    "company": "BMSTL Bms Birleşik Metal San. ve Tic. A.Ş.",
+    "code": "KLRHO",
+    "company": "KLRHO Kiler Holding A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "17.06.2026",
+    "rate": "%80",
+    "date": "30.06.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
+    "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "CGCAM",
+    "company": "CGCAM Çağdaş Cam San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1300",
+    "date": "30.06.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "INFO",
