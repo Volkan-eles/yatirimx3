@@ -28,7 +28,7 @@
       "price": "30,26 TL",
       "dates": "1-2-3 Temmuz 202609:00-17:00",
       "distributionType": "Eşit Dağıtım **",
-      "lotCount": "161.999.998 Lot"
+      "lotCount": "162.000.000 Lot"
     },
     {
       "company": "GOLDA",
@@ -43,31 +43,31 @@
     {
       "company": "SOHOE",
       "link": "https://halkarz.com/soho-giyim-ve-enerji-a-s/",
-      "status": "İşlem Görüyor",
+      "status": "Onaylı",
       "code": "SOHOE",
       "price": "15,00 TL",
-      "dates": "30 Haziran, 1 Temmuz 202610:30-13:00",
+      "dates": "Tarih Bekleniyor",
       "distributionType": "Eşit Dağıtım **",
       "lotCount": "100.000.000 Lot"
     },
     {
       "company": "ORZAX",
       "link": "https://halkarz.com/orzaks-ilac-ve-kimya-san-tic-a-s/",
-      "status": "İşlem Görüyor",
+      "status": "Onaylı",
       "code": "ORZAX",
       "price": "69,00 TL",
-      "dates": "29-30 Haziran, 1 Temmuz 202609:00-17:00",
+      "dates": "Tarih Bekleniyor",
       "distributionType": "Eşit Dağıtım **",
       "lotCount": "52.500.000 Lot"
     },
     {
       "company": "BETAE",
       "link": "https://halkarz.com/beta-enerji-ve-teknoloji-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "BETAE",
       "price": "40,00 TL",
       "dates": "1 Temmuz 2026",
-      "distributionType": "Eşit Dağıtım **",
+      "distributionType": "Eşit Dağıtım",
       "lotCount": "60.750.000 Lot"
     },
     {
@@ -4483,7 +4483,7 @@
     {
       "company": "DUNYH",
       "link": "https://halkarz.com/dunya-holding-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "DUNYH",
       "price": "3.000 TL *YTL Öncesi",
       "dates": "1 Temmuz 1998",

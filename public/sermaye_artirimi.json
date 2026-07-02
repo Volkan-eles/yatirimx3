@@ -1,5 +1,23 @@
 [
   {
+    "code": "GOODY",
+    "company": "GOODY Goodyear Lastikleri T.A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%462,96",
+    "date": "02.07.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 02.07.2026"
+  },
+  {
+    "code": "ISGSY",
+    "company": "ISGSY İş Girişim Sermayesi Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%487,89",
+    "date": "03.07.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 03.07.2026 | Tutar: 414.951.158 TL"
+  },
+  {
     "code": "BMSTL",
     "company": "BMSTL Bms Birleşik Metal San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -9,22 +27,13 @@
     "description": "Bölünme Tarihi: 01.07.2026"
   },
   {
-    "code": "GOODY",
-    "company": "GOODY Goodyear Lastikleri T.A.Ş.",
+    "code": "BYDNR",
+    "company": "BYDNR Baydöner Restoranları A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%462,96",
-    "date": "02.07.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 02.07.2026"
-  },
-  {
-    "code": "ISGSY",
-    "company": "ISGSY İş Girişim Sermayesi Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%487,89",
-    "date": "24.06.2026",
+    "rate": "%615",
+    "date": "01.07.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 414.951.158 TL"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "KLRHO",
