@@ -11,6 +11,16 @@
       "lotCount": "%26.66"
     },
     {
+      "company": "SSAAT",
+      "link": "https://halkarz.com/saat-ve-saat-san-ve-tic-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "SSAAT",
+      "price": "56,00 TL",
+      "dates": "6-7-8 Temmuz 202609:00-17:00",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "13.388.991 Lot"
+    },
+    {
       "company": "ISVEA",
       "link": "https://halkarz.com/isvea-seramik-ve-banyo-urunleri-sanayi-a-s/",
       "status": "Talep Toplanıyor",
@@ -33,30 +43,30 @@
     {
       "company": "GOLDA",
       "link": "https://halkarz.com/golda-gida-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "Onaylı",
       "code": "GOLDA",
       "price": "9,20 TL",
-      "dates": "1-2 Temmuz 202610:30-13:00",
+      "dates": "Tarih Bekleniyor",
       "distributionType": "Eşit Dağıtım **",
       "lotCount": "87.499.998 Lot"
     },
     {
       "company": "SOHOE",
       "link": "https://halkarz.com/soho-giyim-ve-enerji-a-s/",
-      "status": "Onaylı",
+      "status": "Talep Toplanıyor",
       "code": "SOHOE",
       "price": "15,00 TL",
-      "dates": "Tarih Bekleniyor",
+      "dates": "6 Temmuz 2026",
       "distributionType": "Eşit Dağıtım **",
       "lotCount": "100.000.000 Lot"
     },
     {
       "company": "ORZAX",
       "link": "https://halkarz.com/orzaks-ilac-ve-kimya-san-tic-a-s/",
-      "status": "Onaylı",
+      "status": "Talep Toplanıyor",
       "code": "ORZAX",
       "price": "69,00 TL",
-      "dates": "Tarih Bekleniyor",
+      "dates": "7 Temmuz 2026",
       "distributionType": "Eşit Dağıtım **",
       "lotCount": "52.500.000 Lot"
     },
@@ -68,7 +78,7 @@
       "price": "40,00 TL",
       "dates": "1 Temmuz 2026",
       "distributionType": "Eşit Dağıtım",
-      "lotCount": "60.750.000 Lot"
+      "lotCount": "%14.99"
     },
     {
       "company": "EKDMR",
@@ -4473,7 +4483,7 @@
     {
       "company": "ARSAN",
       "link": "https://halkarz.com/arsan-holding-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "ARSAN",
       "price": "9.200 TL *YTL Öncesi",
       "dates": "2 Temmuz 1998",
@@ -6162,6 +6172,16 @@
     }
   ],
   "draft_ipos": [
+    {
+      "company": "BLSMD",
+      "link": "https://halkarz.com/bulls-yatirim-menkul-degerler-a-s/",
+      "status": "Taslak",
+      "code": "BLSMD",
+      "price": "Hazırlanıyor...",
+      "dates": "Tarih Bekleniyor",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "100.000.000 Lot"
+    },
     {
       "company": "ALNUS",
       "link": "https://halkarz.com/alnus-yatirim-menkul-degerler-a-s/",
