@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-07-04T16:35:32.911649",
+  "last_update": "2026-07-04T18:08:04.668700",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 497,
-  "successful": 497,
-  "failed": 34,
+  "total_stocks": 499,
+  "successful": 499,
+  "failed": 32,
   "stocks": [
     {
       "code": "GARAN",
@@ -5674,6 +5674,195 @@
       ],
       "heldPercentInsiders": 0.8,
       "heldPercentInstitutions": 0.03287
+    },
+    {
+      "code": "SASA",
+      "symbol": "SASA.IS",
+      "name": "Sasa Polyester Sanayi A.S.",
+      "shortName": "SASA POLYESTER",
+      "price": 2.4,
+      "change": 0.0,
+      "changeRate": 0.0,
+      "previousClose": 2.4,
+      "open": 2.42,
+      "dayLow": 2.37,
+      "dayHigh": 2.43,
+      "fiftyTwoWeekLow": 2.13,
+      "fiftyTwoWeekHigh": 5.66,
+      "fiftyDayAverage": 2.78,
+      "twoHundredDayAverage": 2.79,
+      "volume": "981,504,350",
+      "averageVolume": 148541509,
+      "averageVolume10days": 483847753,
+      "marketCap": 111013486592,
+      "enterpriseValue": 248075157504,
+      "sharesOutstanding": 46255615357,
+      "sector": "Consumer Cyclical",
+      "industry": "Textile Manufacturing",
+      "website": "https://www.sasa.com.tr",
+      "address": "Sarihamzali Mah.",
+      "city": "Adana",
+      "country": "Turkey",
+      "phone": "90 322 441 00 53",
+      "description": "Sasa Polyester Sanayi A.S. engages in the production and marketing of polyester fibers and chips, yarns, and related products in Turkey and internationally. The company offers fiberfill, nonwoven, and textile fibers. It also provides texturized yarns, partially oriented yarns, polyethylene terephthalate resin and chips, and purified terephthalic acid. The company was incorporated in 1966 and is headquartered in Adana, Turkey. Sasa Polyester Sanayi A.S. operates as a subsidiary of Erdemoglu Holding Anonim Sirketi.",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": 0.681431,
+      "pegRatio": null,
+      "priceToSales": 1.9336872,
+      "enterpriseToRevenue": 4.321,
+      "enterpriseToEbitda": 28.155,
+      "profitMargins": -0.38531,
+      "grossMargins": 0.07692,
+      "operatingMargins": 0.05731,
+      "returnOnAssets": 0.00119,
+      "returnOnEquity": -0.14666,
+      "totalRevenue": 57410260992,
+      "revenuePerShare": 1.31,
+      "totalCash": 5766568960,
+      "totalDebt": 148684242944,
+      "debtToEquity": 86.599,
+      "currentRatio": 0.627,
+      "quickRatio": 0.314,
+      "eps": -0.5,
+      "forwardEps": null,
+      "bookValue": 3.522,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": 1560729600,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": -0.491,
+      "historicalData": [
+        {
+          "Close": 2.700000047683716,
+          "Volume": 0
+        },
+        {
+          "Close": 2.640000104904175,
+          "Volume": 794323182
+        },
+        {
+          "Close": 2.640000104904175,
+          "Volume": 0
+        },
+        {
+          "Close": 2.640000104904175,
+          "Volume": 0
+        },
+        {
+          "Close": 2.640000104904175,
+          "Volume": 0
+        },
+        {
+          "Close": 2.690000057220459,
+          "Volume": 0
+        },
+        {
+          "Close": 2.75,
+          "Volume": 0
+        },
+        {
+          "Close": 2.630000114440918,
+          "Volume": 0
+        },
+        {
+          "Close": 2.5899999141693115,
+          "Volume": 0
+        },
+        {
+          "Close": 2.490000009536743,
+          "Volume": 0
+        },
+        {
+          "Close": 2.5899999141693115,
+          "Volume": 0
+        },
+        {
+          "Close": 2.5,
+          "Volume": 0
+        },
+        {
+          "Close": 2.5,
+          "Volume": 0
+        },
+        {
+          "Close": 2.630000114440918,
+          "Volume": 0
+        },
+        {
+          "Close": 2.5999999046325684,
+          "Volume": 0
+        },
+        {
+          "Close": 2.690000057220459,
+          "Volume": 0
+        },
+        {
+          "Close": 2.7100000381469727,
+          "Volume": 0
+        },
+        {
+          "Close": 2.740000009536743,
+          "Volume": 0
+        },
+        {
+          "Close": 2.7799999713897705,
+          "Volume": 0
+        },
+        {
+          "Close": 2.7300000190734863,
+          "Volume": 942317914
+        },
+        {
+          "Close": 2.740000009536743,
+          "Volume": 0
+        },
+        {
+          "Close": 2.640000104904175,
+          "Volume": 0
+        },
+        {
+          "Close": 2.5399999618530273,
+          "Volume": 1043631461
+        },
+        {
+          "Close": 2.509999990463257,
+          "Volume": 641243557
+        },
+        {
+          "Close": 2.5199999809265137,
+          "Volume": 646953922
+        },
+        {
+          "Close": 2.450000047683716,
+          "Volume": 750275395
+        },
+        {
+          "Close": 2.450000047683716,
+          "Volume": 0
+        },
+        {
+          "Close": 2.430000066757202,
+          "Volume": 0
+        },
+        {
+          "Close": 2.4000000953674316,
+          "Volume": 774868849
+        },
+        {
+          "Close": 2.4000000953674316,
+          "Volume": 981504350
+        }
+      ],
+      "heldPercentInsiders": 0.47055,
+      "heldPercentInstitutions": 0.0672
     },
     {
       "code": "GUBRF",
@@ -49907,9 +50096,9 @@
       "name": "Is Girisim Sermayesi Yatirim Ortakligi AS",
       "shortName": "IS GIRISIM",
       "price": 20.9,
-      "change": -0.79,
-      "changeRate": -3.63,
-      "previousClose": 21.69,
+      "change": 0.0,
+      "changeRate": 0.0,
+      "previousClose": 20.9,
       "open": 21.78,
       "dayLow": 20.7,
       "dayHigh": 22.48,
@@ -49965,128 +50154,7 @@
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
       "beta": 0.025,
-      "historicalData": [
-        {
-          "Close": 18.55765724182129,
-          "Volume": 5128564
-        },
-        {
-          "Close": 17.656139373779297,
-          "Volume": 4970284
-        },
-        {
-          "Close": 18.55765724182129,
-          "Volume": 8347596
-        },
-        {
-          "Close": 18.28550148010254,
-          "Volume": 5687508
-        },
-        {
-          "Close": 18.302509307861328,
-          "Volume": 2072849
-        },
-        {
-          "Close": 19.0849609375,
-          "Volume": 9076465
-        },
-        {
-          "Close": 19.425155639648438,
-          "Volume": 5093589
-        },
-        {
-          "Close": 18.982900619506836,
-          "Volume": 5788044
-        },
-        {
-          "Close": 18.982900619506836,
-          "Volume": 4283749
-        },
-        {
-          "Close": 18.268491744995117,
-          "Volume": 3929629
-        },
-        {
-          "Close": 18.28550148010254,
-          "Volume": 3934080
-        },
-        {
-          "Close": 17.86025619506836,
-          "Volume": 3784954
-        },
-        {
-          "Close": 17.639129638671875,
-          "Volume": 3294589
-        },
-        {
-          "Close": 18.013343811035156,
-          "Volume": 4865439
-        },
-        {
-          "Close": 17.639129638671875,
-          "Volume": 5392636
-        },
-        {
-          "Close": 19.391136169433594,
-          "Volume": 7202225
-        },
-        {
-          "Close": 19.510204315185547,
-          "Volume": 21872771
-        },
-        {
-          "Close": 18.965890884399414,
-          "Volume": 5060603
-        },
-        {
-          "Close": 20.853975296020508,
-          "Volume": 15286309
-        },
-        {
-          "Close": 21.551376342773438,
-          "Volume": 30628482
-        },
-        {
-          "Close": 21.772502899169922,
-          "Volume": 12376546
-        },
-        {
-          "Close": 22.571962356567383,
-          "Volume": 15428445
-        },
-        {
-          "Close": 21.381277084350586,
-          "Volume": 6547619
-        },
-        {
-          "Close": 22.674020767211914,
-          "Volume": 30731475
-        },
-        {
-          "Close": 21.721473693847656,
-          "Volume": 11424593
-        },
-        {
-          "Close": 20.547800064086914,
-          "Volume": 8767184
-        },
-        {
-          "Close": 21.075103759765625,
-          "Volume": 9204622
-        },
-        {
-          "Close": 21.177160263061523,
-          "Volume": 8743011
-        },
-        {
-          "Close": 21.687454223632812,
-          "Volume": 7485433
-        },
-        {
-          "Close": 20.899999618530273,
-          "Volume": 7088235
-        }
-      ],
+      "historicalData": [],
       "heldPercentInsiders": 1.70437,
       "heldPercentInstitutions": 2.1403399
     },
@@ -50474,9 +50542,9 @@
       "name": "Türkiye Is Bankasi A.S.",
       "shortName": "IS BANKASI (KUR.)",
       "price": 4125000.0,
-      "change": 375000.0,
-      "changeRate": 10.0,
-      "previousClose": 3750000.0,
+      "change": 0.0,
+      "changeRate": 0.0,
+      "previousClose": 4125000.0,
       "open": 4125000.0,
       "dayLow": 4125000.0,
       "dayHigh": 4125000.0,
@@ -50532,128 +50600,7 @@
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
       "beta": 0.164,
-      "historicalData": [
-        {
-          "Close": 3900000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 4000000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3600000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3240000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3100000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3000000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2702500.0,
-          "Volume": 1
-        },
-        {
-          "Close": NaN,
-          "Volume": 0
-        },
-        {
-          "Close": 2702492.5,
-          "Volume": 2
-        },
-        {
-          "Close": 2703002.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2433000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2676300.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2499997.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2351112.5,
-          "Volume": 2
-        },
-        {
-          "Close": 2499987.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2499987.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2749985.0,
-          "Volume": 2
-        },
-        {
-          "Close": 2475017.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2702000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2702000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2431800.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2431802.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2431802.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2650000.0,
-          "Volume": 2
-        },
-        {
-          "Close": 2915000.0,
-          "Volume": 3
-        },
-        {
-          "Close": 2950000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3245000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3560000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3750000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 4125000.0,
-          "Volume": 2
-        }
-      ],
+      "historicalData": [],
       "heldPercentInsiders": 0.0,
       "heldPercentInstitutions": 0.0
     },
@@ -59924,9 +59871,9 @@
       "name": "Kuzugrup Gayrimenkul Yatirim Ortakligi A.S.",
       "shortName": "KUZUGRUP GMYO",
       "price": 22.86,
-      "change": 0.08,
-      "changeRate": 0.35,
-      "previousClose": 22.78,
+      "change": 0.0,
+      "changeRate": 0.0,
+      "previousClose": 22.86,
       "open": 23.0,
       "dayLow": 22.64,
       "dayHigh": 23.32,
@@ -59982,128 +59929,7 @@
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
       "beta": 0.038,
-      "historicalData": [
-        {
-          "Close": 23.739999771118164,
-          "Volume": 1469796
-        },
-        {
-          "Close": 22.559999465942383,
-          "Volume": 1071064
-        },
-        {
-          "Close": 23.899999618530273,
-          "Volume": 2343063
-        },
-        {
-          "Close": 24.479999542236328,
-          "Volume": 969551
-        },
-        {
-          "Close": 24.399999618530273,
-          "Volume": 394238
-        },
-        {
-          "Close": 25.18000030517578,
-          "Volume": 1391466
-        },
-        {
-          "Close": 25.100000381469727,
-          "Volume": 1520849
-        },
-        {
-          "Close": 24.920000076293945,
-          "Volume": 1788188
-        },
-        {
-          "Close": 24.920000076293945,
-          "Volume": 2881837
-        },
-        {
-          "Close": 24.18000030517578,
-          "Volume": 1724744
-        },
-        {
-          "Close": 24.0,
-          "Volume": 1105102
-        },
-        {
-          "Close": 24.020000457763672,
-          "Volume": 1598320
-        },
-        {
-          "Close": 23.81999969482422,
-          "Volume": 1980383
-        },
-        {
-          "Close": 23.3799991607666,
-          "Volume": 2423255
-        },
-        {
-          "Close": 23.459999084472656,
-          "Volume": 1682384
-        },
-        {
-          "Close": 23.959999084472656,
-          "Volume": 1410924
-        },
-        {
-          "Close": 23.200000762939453,
-          "Volume": 1604996
-        },
-        {
-          "Close": 22.959999084472656,
-          "Volume": 1568888
-        },
-        {
-          "Close": 23.219999313354492,
-          "Volume": 1111886
-        },
-        {
-          "Close": 22.940000534057617,
-          "Volume": 1301787
-        },
-        {
-          "Close": 22.81999969482422,
-          "Volume": 1229669
-        },
-        {
-          "Close": 23.239999771118164,
-          "Volume": 1093167
-        },
-        {
-          "Close": 22.6200008392334,
-          "Volume": 1235513
-        },
-        {
-          "Close": 22.299999237060547,
-          "Volume": 1093851
-        },
-        {
-          "Close": 22.360000610351562,
-          "Volume": 1120569
-        },
-        {
-          "Close": 22.3799991607666,
-          "Volume": 704859
-        },
-        {
-          "Close": 22.68000030517578,
-          "Volume": 2445607
-        },
-        {
-          "Close": 22.700000762939453,
-          "Volume": 824092
-        },
-        {
-          "Close": 22.780000686645508,
-          "Volume": 1187974
-        },
-        {
-          "Close": 22.860000610351562,
-          "Volume": 1017194
-        }
-      ],
+      "historicalData": [],
       "heldPercentInsiders": 0.75,
       "heldPercentInstitutions": 0.0
     },
@@ -68613,6 +68439,195 @@
       "heldPercentInstitutions": 0.11564
     },
     {
+      "code": "OFSYM",
+      "symbol": "OFSYM.IS",
+      "name": "Ofis Yem Gida Sanayi ve Ticaret A.S.",
+      "shortName": "OFIS YEM GIDA",
+      "price": 57.45,
+      "change": -1.75,
+      "changeRate": -2.96,
+      "previousClose": 59.2,
+      "open": 59.05,
+      "dayLow": 57.45,
+      "dayHigh": 59.55,
+      "fiftyTwoWeekLow": 42.86,
+      "fiftyTwoWeekHigh": 81.2,
+      "fiftyDayAverage": 58.76,
+      "twoHundredDayAverage": 64.19,
+      "volume": "952,095",
+      "averageVolume": 1701542,
+      "averageVolume10days": 1524950,
+      "marketCap": 8402062848,
+      "enterpriseValue": 13379849216,
+      "sharesOutstanding": 146250000,
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "website": "https://www.ofisyem.com.tr",
+      "address": "Mustafa Kemal Mah. Dumlupinar Bulv.",
+      "city": "Ankara",
+      "country": "Turkey",
+      "phone": "90 312 284 61 05",
+      "description": "Ofis Yem Gida Sanayi ve Ticaret A.S. engages in the manufacturing, wholesale or retail purchase, import, export, and sale of processed or unprocessed feeds in Turkey. It produces vitamin supplements for live animals; engages in cattle breeding; and offers ovine, calf, fattening, dairy, and poultry feeds. The company was incorporated in 1997 and is headquartered in Ankara, Turkey.",
+      "pe": 30.721926,
+      "forwardPE": null,
+      "priceToBook": 1.8607287,
+      "pegRatio": null,
+      "priceToSales": 0.47433284,
+      "enterpriseToRevenue": 0.755,
+      "enterpriseToEbitda": 8.127,
+      "profitMargins": 0.01549,
+      "grossMargins": 0.11419,
+      "operatingMargins": 0.07653,
+      "returnOnAssets": 0.10035,
+      "returnOnEquity": 0.07639,
+      "totalRevenue": 17713432576,
+      "revenuePerShare": 121.117,
+      "totalCash": 186048976,
+      "totalDebt": 4922626048,
+      "debtToEquity": 103.488,
+      "currentRatio": 1.551,
+      "quickRatio": 1.027,
+      "eps": 1.87,
+      "forwardEps": null,
+      "bookValue": 30.875,
+      "dividendRate": 0.84,
+      "dividendYield": 1.46,
+      "exDividendDate": 1790121600,
+      "payoutRatio": 0.4456,
+      "targetHighPrice": 69.3,
+      "targetLowPrice": 69.3,
+      "targetMeanPrice": 69.3,
+      "targetMedianPrice": 69.3,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 1,
+      "beta": -0.006,
+      "historicalData": [
+        {
+          "Close": 59.29999923706055,
+          "Volume": 987771
+        },
+        {
+          "Close": 58.349998474121094,
+          "Volume": 273722
+        },
+        {
+          "Close": 58.349998474121094,
+          "Volume": 0
+        },
+        {
+          "Close": 58.349998474121094,
+          "Volume": 0
+        },
+        {
+          "Close": 58.349998474121094,
+          "Volume": 0
+        },
+        {
+          "Close": 58.650001525878906,
+          "Volume": 651872
+        },
+        {
+          "Close": 58.70000076293945,
+          "Volume": 720206
+        },
+        {
+          "Close": 58.849998474121094,
+          "Volume": 1372410
+        },
+        {
+          "Close": 59.95000076293945,
+          "Volume": 1347923
+        },
+        {
+          "Close": 57.900001525878906,
+          "Volume": 781805
+        },
+        {
+          "Close": 57.650001525878906,
+          "Volume": 561107
+        },
+        {
+          "Close": 56.650001525878906,
+          "Volume": 458660
+        },
+        {
+          "Close": 62.29999923706055,
+          "Volume": 4715195
+        },
+        {
+          "Close": 60.0,
+          "Volume": 16442715
+        },
+        {
+          "Close": 57.54999923706055,
+          "Volume": 4021141
+        },
+        {
+          "Close": 57.95000076293945,
+          "Volume": 1201961
+        },
+        {
+          "Close": 60.20000076293945,
+          "Volume": 3249866
+        },
+        {
+          "Close": 59.70000076293945,
+          "Volume": 1858509
+        },
+        {
+          "Close": 62.099998474121094,
+          "Volume": 2276349
+        },
+        {
+          "Close": 60.099998474121094,
+          "Volume": 1167060
+        },
+        {
+          "Close": 59.849998474121094,
+          "Volume": 2286267
+        },
+        {
+          "Close": 59.099998474121094,
+          "Volume": 1016000
+        },
+        {
+          "Close": 57.650001525878906,
+          "Volume": 1382326
+        },
+        {
+          "Close": 57.349998474121094,
+          "Volume": 754919
+        },
+        {
+          "Close": 56.900001525878906,
+          "Volume": 585752
+        },
+        {
+          "Close": 56.54999923706055,
+          "Volume": 533934
+        },
+        {
+          "Close": 55.25,
+          "Volume": 711633
+        },
+        {
+          "Close": 56.79999923706055,
+          "Volume": 1770818
+        },
+        {
+          "Close": 59.20000076293945,
+          "Volume": 5255762
+        },
+        {
+          "Close": 57.45000076293945,
+          "Volume": 952095
+        }
+      ],
+      "heldPercentInsiders": 0.83556,
+      "heldPercentInstitutions": 0.0
+    },
+    {
       "code": "ONCSM",
       "symbol": "ONCSM.IS",
       "name": "Oncosem Onkolojik Sistemler Sanayi Ve Ticaret Anonim Sirketi",
@@ -72023,61 +72038,61 @@
       "change": -1.3,
       "changeRate": -1.51,
       "previousClose": 86.3,
-      "open": 85.0,
-      "dayLow": 83.3,
-      "dayHigh": 86.7,
+      "open": 86.35,
+      "dayLow": 85.0,
+      "dayHigh": 86.9,
       "fiftyTwoWeekLow": 76.9,
       "fiftyTwoWeekHigh": 112.8,
       "fiftyDayAverage": 86.23,
       "twoHundredDayAverage": 90.33,
       "volume": "406,804",
-      "averageVolume": 406804,
-      "averageVolume10days": 406804,
+      "averageVolume": 678704,
+      "averageVolume10days": 824984,
       "marketCap": 7377041408,
-      "enterpriseValue": 0,
+      "enterpriseValue": 13533189120,
       "sharesOutstanding": 86788722,
-      "sector": "Diğer",
-      "industry": "",
-      "website": "",
-      "address": "",
-      "city": "",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "website": "https://www.parsan.com",
+      "address": "Güzelyali Mah.Parsan Çikmazi Sok.No: 2/1",
+      "city": "Istanbul",
       "country": "Turkey",
-      "phone": "",
-      "description": "",
+      "phone": "90 216 493 12 66",
+      "description": "Parsan Makina Parçalari Sanayii A.S. produces and sells forging parts and components for light, medium, and heavy vehicle manufacturers in Turkey. The company provides rear axle shafts, front axles, assembled front axles, axons, arms, gear blanks, driveshafts, and other automotive products. It serves automotive, defense, and mining sectors.Parsan Makina Parçalari Sanayii A.S. was founded in 1968 and is based in Istanbul, Turkey. Parsan Makina Parçalari Sanayii A.S. is a subsidiary of Celik Holding A.S.",
       "pe": null,
       "forwardPE": null,
       "priceToBook": 48.37792,
       "pegRatio": null,
-      "priceToSales": null,
-      "enterpriseToRevenue": null,
-      "enterpriseToEbitda": null,
-      "profitMargins": null,
-      "grossMargins": null,
-      "operatingMargins": null,
-      "returnOnAssets": null,
-      "returnOnEquity": null,
-      "totalRevenue": null,
-      "revenuePerShare": null,
-      "totalCash": null,
-      "totalDebt": null,
-      "debtToEquity": null,
-      "currentRatio": null,
-      "quickRatio": null,
-      "eps": null,
+      "priceToSales": 1.3247547,
+      "enterpriseToRevenue": 2.43,
+      "enterpriseToEbitda": 94.522,
+      "profitMargins": -0.20988001,
+      "grossMargins": 0.05692,
+      "operatingMargins": -0.07767,
+      "returnOnAssets": -0.01622,
+      "returnOnEquity": -0.084960006,
+      "totalRevenue": 5568609280,
+      "revenuePerShare": 62.423,
+      "totalCash": 154835568,
+      "totalDebt": 6311873536,
+      "debtToEquity": 41.816,
+      "currentRatio": 0.428,
+      "quickRatio": 0.195,
+      "eps": -13.5,
       "forwardEps": null,
       "bookValue": 1.757,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
       "targetMedianPrice": null,
       "recommendationMean": null,
-      "recommendationKey": "",
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.166,
       "historicalData": [
         {
           "Close": 83.5999984741211,
@@ -72200,8 +72215,8 @@
           "Volume": 406804
         }
       ],
-      "heldPercentInsiders": null,
-      "heldPercentInstitutions": null
+      "heldPercentInsiders": 0.59293,
+      "heldPercentInstitutions": 0.0029199999
     },
     {
       "code": "PASEU",
@@ -88652,9 +88667,9 @@
       "name": "Ulusal Faktoring A.S.",
       "shortName": "ULUSAL FAKTORING",
       "price": 1.79,
-      "change": -0.02,
-      "changeRate": -1.1,
-      "previousClose": 1.81,
+      "change": 0.0,
+      "changeRate": 0.0,
+      "previousClose": 1.79,
       "open": 1.81,
       "dayLow": 1.79,
       "dayHigh": 1.82,
@@ -88710,128 +88725,7 @@
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
       "beta": -0.617,
-      "historicalData": [
-        {
-          "Close": 1.9199999570846558,
-          "Volume": 45741400
-        },
-        {
-          "Close": 1.8300000429153442,
-          "Volume": 30014760
-        },
-        {
-          "Close": 1.8899999856948853,
-          "Volume": 42352020
-        },
-        {
-          "Close": 1.934999942779541,
-          "Volume": 14292114
-        },
-        {
-          "Close": 1.934999942779541,
-          "Volume": 5171968
-        },
-        {
-          "Close": 1.9049999713897705,
-          "Volume": 22717660
-        },
-        {
-          "Close": 1.934999942779541,
-          "Volume": 14204424
-        },
-        {
-          "Close": 1.9249999523162842,
-          "Volume": 20302420
-        },
-        {
-          "Close": 1.934999942779541,
-          "Volume": 12265704
-        },
-        {
-          "Close": 1.9500000476837158,
-          "Volume": 93470920
-        },
-        {
-          "Close": 1.9249999523162842,
-          "Volume": 31013536
-        },
-        {
-          "Close": 1.8899999856948853,
-          "Volume": 26279060
-        },
-        {
-          "Close": 1.909999966621399,
-          "Volume": 46850700
-        },
-        {
-          "Close": 1.8600000143051147,
-          "Volume": 39833700
-        },
-        {
-          "Close": 1.8700000047683716,
-          "Volume": 25034130
-        },
-        {
-          "Close": 1.9500000476837158,
-          "Volume": 32463780
-        },
-        {
-          "Close": 1.9500000476837158,
-          "Volume": 22250770
-        },
-        {
-          "Close": 1.8899999856948853,
-          "Volume": 18527160
-        },
-        {
-          "Close": 1.9600000381469727,
-          "Volume": 34110610
-        },
-        {
-          "Close": 1.9299999475479126,
-          "Volume": 13445450
-        },
-        {
-          "Close": 1.9299999475479126,
-          "Volume": 12806490
-        },
-        {
-          "Close": 1.9199999570846558,
-          "Volume": 28048496
-        },
-        {
-          "Close": 1.9199999570846558,
-          "Volume": 14335541
-        },
-        {
-          "Close": 1.8899999856948853,
-          "Volume": 24419875
-        },
-        {
-          "Close": 1.8700000047683716,
-          "Volume": 13086581
-        },
-        {
-          "Close": 1.850000023841858,
-          "Volume": 10236559
-        },
-        {
-          "Close": 1.8300000429153442,
-          "Volume": 22411732
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 16299577
-        },
-        {
-          "Close": 1.809999942779541,
-          "Volume": 11706398
-        },
-        {
-          "Close": 1.7899999618530273,
-          "Volume": 11282094
-        }
-      ],
+      "historicalData": [],
       "heldPercentInsiders": 0.39026,
       "heldPercentInstitutions": 0.0
     },
