@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-04T07:25:47.150338",
+  "last_update": "2026-07-04T09:40:04.211961",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -192,7 +192,7 @@
         }
       ],
       "heldPercentInsiders": 0.85974,
-      "heldPercentInstitutions": 0.02615
+      "heldPercentInstitutions": 0.02616
     },
     {
       "code": "AKBNK",
@@ -381,7 +381,7 @@
         }
       ],
       "heldPercentInsiders": 0.41277,
-      "heldPercentInstitutions": 0.19976
+      "heldPercentInstitutions": 0.19790001
     },
     {
       "code": "YKBNK",
@@ -570,7 +570,7 @@
         }
       ],
       "heldPercentInsiders": 0.61166,
-      "heldPercentInstitutions": 0.14314
+      "heldPercentInstitutions": 0.14308
     },
     {
       "code": "ISCTR",
@@ -629,12 +629,12 @@
       "exDividendDate": 1775001600,
       "payoutRatio": 0.17709999,
       "targetHighPrice": 24.46,
-      "targetLowPrice": 13.5,
-      "targetMeanPrice": 19.90538,
-      "targetMedianPrice": 19.86,
-      "recommendationMean": 1.53846,
-      "recommendationKey": "buy",
-      "numberOfAnalystOpinions": 13,
+      "targetLowPrice": 17.0,
+      "targetMeanPrice": 20.43917,
+      "targetMedianPrice": 20.03,
+      "recommendationMean": 1.41667,
+      "recommendationKey": "strong_buy",
+      "numberOfAnalystOpinions": 12,
       "beta": 0.164,
       "historicalData": [
         {
@@ -759,7 +759,7 @@
         }
       ],
       "heldPercentInsiders": 0.66977996,
-      "heldPercentInstitutions": 0.06362
+      "heldPercentInstitutions": 0.06382
     },
     {
       "code": "VAKBN",
@@ -771,7 +771,7 @@
       "changeRate": -4.78,
       "previousClose": 33.48,
       "open": 33.8,
-      "dayLow": 31.72,
+      "dayLow": 31.74,
       "dayHigh": 33.8,
       "fiftyTwoWeekLow": 21.38,
       "fiftyTwoWeekHigh": 43.06,
@@ -791,7 +791,7 @@
       "country": "Turkey",
       "phone": "90 216 724 10 00",
       "description": "Türkiye Vakiflar Bankasi Türk Anonim Ortakligi, together with its subsidiaries, provides corporate, commercial, SME, agricultural, and modern banking products and services in Turkey and internationally. It offers time, demand, and term deposits accounts; mortgage, car, personal, and private banking yacht loans; housing, comprehensive, motor, compulsory traffic, travel and complementary health, and compulsory earthquake insurance; and individual pension contract, private pension agreement, and life insurance products. The company also provides investment products, such as investment funds, Government Bonds and treasury bills, eurobond, bank bonds, gold trading, VakifBank Gold, stocks, VIOP, safe deposit boxes, options, dual currency deposit, contingent option, currency swap, and forward agreements. In addition, it offers export / import transactions, foreign currency transfer, Eximbank Loans, and foreign trade solutions; money transfer services; and factoring and leasing services, as well as digital banking services. The company was incorporated in 1954 and is headquartered in Istanbul, Turkey.",
-      "pe": 4.1510415,
+      "pe": 4.1456437,
       "forwardPE": 5.7235184,
       "priceToBook": 0.96232796,
       "pegRatio": 0.45,
@@ -810,7 +810,7 @@
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
-      "eps": 7.68,
+      "eps": 7.69,
       "forwardEps": 5.57,
       "bookValue": 33.128,
       "dividendRate": null,
@@ -960,7 +960,7 @@
       "changeRate": -4.25,
       "previousClose": 45.7,
       "open": 45.98,
-      "dayLow": 43.64,
+      "dayLow": 43.66,
       "dayHigh": 45.98,
       "fiftyTwoWeekLow": 23.38,
       "fiftyTwoWeekHigh": 52.5,
@@ -1326,7 +1326,7 @@
         }
       ],
       "heldPercentInsiders": 0.49122003,
-      "heldPercentInstitutions": 0.08484
+      "heldPercentInstitutions": 0.08472
     },
     {
       "code": "PGSUS",
@@ -1515,7 +1515,7 @@
         }
       ],
       "heldPercentInsiders": 0.52811,
-      "heldPercentInstitutions": 0.059860002
+      "heldPercentInstitutions": 0.05565
     },
     {
       "code": "TUPRS",
@@ -1704,7 +1704,7 @@
         }
       ],
       "heldPercentInsiders": 0.50668997,
-      "heldPercentInstitutions": 0.11332
+      "heldPercentInstitutions": 0.11361
     },
     {
       "code": "PETKM",
@@ -1755,7 +1755,7 @@
       "debtToEquity": 76.699,
       "currentRatio": 0.555,
       "quickRatio": 0.366,
-      "eps": -2.6,
+      "eps": -2.59,
       "forwardEps": 4.18,
       "bookValue": 26.799,
       "dividendRate": null,
@@ -1893,7 +1893,7 @@
         }
       ],
       "heldPercentInsiders": 0.51,
-      "heldPercentInstitutions": 0.041300002
+      "heldPercentInstitutions": 0.04133
     },
     {
       "code": "EREGL",
@@ -2082,7 +2082,7 @@
         }
       ],
       "heldPercentInsiders": 0.49699003,
-      "heldPercentInstitutions": 0.087869994
+      "heldPercentInstitutions": 0.087910004
     },
     {
       "code": "KRDMD",
@@ -2460,7 +2460,7 @@
         }
       ],
       "heldPercentInsiders": 0.74195,
-      "heldPercentInstitutions": 0.09382
+      "heldPercentInstitutions": 0.09357
     },
     {
       "code": "BIMAS",
@@ -2838,7 +2838,7 @@
         }
       ],
       "heldPercentInsiders": 0.49181998,
-      "heldPercentInstitutions": 0.100430004
+      "heldPercentInstitutions": 0.10276
     },
     {
       "code": "SOKM",
@@ -3027,7 +3027,7 @@
         }
       ],
       "heldPercentInsiders": 0.24271,
-      "heldPercentInstitutions": 0.40904
+      "heldPercentInstitutions": 0.40634
     },
     {
       "code": "TTKOM",
@@ -3059,7 +3059,7 @@
       "country": "Turkey",
       "phone": "90 444 1 444",
       "description": "Türk Telekomünikasyon Anonim Sirketi, together with its subsidiaries, operates as an integrated telecommunication company in Turkey. The company operates in two segments, Fixed Line and Mobile. The company offers mobile, Internet, phone and TV products and services under the Türk Telekom brand. It also provides PSTN and wholesale broadband services; retail internet services, IPTV, satellite TV, Web TV, mobile TV, and smart TV services; convergence technologies; IT solutions; online education software; call center services; project development and corporate venture capital services; electric supply and sales services; combined facilities support services; wholesale data and capacity services; and financial technology services. In addition, the company offers TV broadcasting and VOD services; telecommunications devices; payment and e-money services; and web portal and computer programming services. The company was founded in 1840 and is headquartered in Ankara, Turkey. Türk Telekomünikasyon Anonim Sirketi is a subsidiary of LYY Telekomünikasyon A.S.",
-      "pe": 8.020969,
+      "pe": 8.010471,
       "forwardPE": 8.303935,
       "priceToBook": 0.87919664,
       "pegRatio": 0.78,
@@ -3078,7 +3078,7 @@
       "debtToEquity": 58.283,
       "currentRatio": 1.008,
       "quickRatio": 0.636,
-      "eps": 7.63,
+      "eps": 7.64,
       "forwardEps": 7.37,
       "bookValue": 69.609,
       "dividendRate": null,
@@ -3248,7 +3248,7 @@
       "country": "Turkey",
       "phone": "90 212 313 18 88",
       "description": "Turkcell Iletisim Hizmetleri A.S., together with its subsidiaries, engages in establishing and operating a global system for mobile communications (GSM) network in Turkey, Belarus, Turkish Republic of Northern Cyprus, Germany, and the Netherlands. It operates through the Turkcell Turkiye, Turkcell International, and Techfin segments. The company is involved in information technology, value added GSM, and entertainment investment, as well as research and development, digital and insurance agency, property investments, electricity energy trade, and wholesale and retail electricity sales activities. It also provides telecommunications, television, and content; digitalization; sales, delivery, and digital sales; consumer financing; cloud solutions; online radio, television, and on-demand streaming; telecommunications infrastructure; electronic payment; and develop software products and services. In addition, the company offers customer relations and human resources management; directory assistance; payment services and e-money; internet search engine and browser; venture capital investment fund; meal coupons and cards; data processing; data center and cloud; programming and technical support; and digital education services. Further, it provides training software developers. Turkcell Iletisim Hizmetleri A.S. was incorporated in 1993 and is headquartered in Istanbul, Turkey.",
-      "pe": 12.822967,
+      "pe": 12.686391,
       "forwardPE": 8.548644,
       "priceToBook": 0.801777,
       "pegRatio": 1.63,
@@ -3267,7 +3267,7 @@
       "debtToEquity": 70.932,
       "currentRatio": 1.692,
       "quickRatio": 1.531,
-      "eps": 8.36,
+      "eps": 8.45,
       "forwardEps": 12.54,
       "bookValue": 133.703,
       "dividendRate": 4.0,
@@ -3405,7 +3405,7 @@
         }
       ],
       "heldPercentInsiders": 0.46,
-      "heldPercentInstitutions": 0.133
+      "heldPercentInstitutions": 0.13076
     },
     {
       "code": "SISE",
@@ -3594,7 +3594,7 @@
         }
       ],
       "heldPercentInsiders": 0.59785,
-      "heldPercentInstitutions": 0.03666
+      "heldPercentInstitutions": 0.03665
     },
     {
       "code": "ARCLK",
@@ -3783,7 +3783,7 @@
         }
       ],
       "heldPercentInsiders": 0.6614,
-      "heldPercentInstitutions": 0.028280001
+      "heldPercentInstitutions": 0.02826
     },
     {
       "code": "VESTL",
@@ -4004,7 +4004,7 @@
       "country": "Turkey",
       "phone": "90 212 385 80 80",
       "description": "Haci Ömer Sabanci Holding A.S., together with its subsidiaries, engages in the management and coordination of companies in the finance, manufacturing, and trade sectors in Turkey and internationally. The company operates through six segments: Banking, Financial Services, Energy, Material Technologies, Digital, and Others. It offers corporate, retail, investment, private, and digital banking services, as well as payment systems, insurance products, and private pension plans; and generates, distributes, and digitalizes electricity from wind, solar, hydroelectric, and other renewable energy sources. The company also provides alternative fuels, building materials, and white cement, as well as mobility solutions and tire reinforcement services; and engages in digital marketing technologies and services, cloud and technology services, and digital transformation products. In addition, it is involved in the trading of various products; after-sales, service, and spare parts activities for passenger and commercial vehicles; retailing of consumer electronics, imaging, information technology, telecommunications products, and home appliances; and operation of hotel chains. The company was incorporated in 1967 and is headquartered in Istanbul, Turkey.",
-      "pe": 25.2,
+      "pe": 24.418606,
       "forwardPE": 3.4140172,
       "priceToBook": 0.5117652,
       "pegRatio": 0.59,
@@ -4023,7 +4023,7 @@
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
-      "eps": 3.75,
+      "eps": 3.87,
       "forwardEps": 27.68,
       "bookValue": 184.655,
       "dividendRate": 1.41,
@@ -4350,7 +4350,7 @@
         }
       ],
       "heldPercentInsiders": 0.57186,
-      "heldPercentInstitutions": 0.09205
+      "heldPercentInstitutions": 0.09203
     },
     {
       "code": "DOHOL",
@@ -4728,7 +4728,7 @@
         }
       ],
       "heldPercentInsiders": 0.79687,
-      "heldPercentInstitutions": 0.04324
+      "heldPercentInstitutions": 0.04068
     },
     {
       "code": "TOASO",
@@ -4917,7 +4917,7 @@
         }
       ],
       "heldPercentInsiders": 0.75478995,
-      "heldPercentInstitutions": 0.058130004
+      "heldPercentInstitutions": 0.05801
     },
     {
       "code": "TMSN",
@@ -5106,7 +5106,7 @@
         }
       ],
       "heldPercentInsiders": 0.71305,
-      "heldPercentInstitutions": 0.01356
+      "heldPercentInstitutions": 0.0135699995
     },
     {
       "code": "TAVHL",
@@ -5295,7 +5295,7 @@
         }
       ],
       "heldPercentInsiders": 0.5017,
-      "heldPercentInstitutions": 0.18506001
+      "heldPercentInstitutions": 0.18505
     },
     {
       "code": "EKGYO",
@@ -5673,7 +5673,7 @@
         }
       ],
       "heldPercentInsiders": 0.8,
-      "heldPercentInstitutions": 0.03267
+      "heldPercentInstitutions": 0.03287
     },
     {
       "code": "SASA",
@@ -6240,7 +6240,7 @@
         }
       ],
       "heldPercentInsiders": 0.55367,
-      "heldPercentInstitutions": 0.03422
+      "heldPercentInstitutions": 0.03421
     },
     {
       "code": "CLEBI",
@@ -6487,12 +6487,12 @@
       "dividendYield": 3.8,
       "exDividendDate": 1782777600,
       "payoutRatio": 0.73,
-      "targetHighPrice": 245.4,
+      "targetHighPrice": 243.0,
       "targetLowPrice": 211.41,
-      "targetMeanPrice": 232.4125,
-      "targetMedianPrice": 236.42,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "targetMeanPrice": 229.4625,
+      "targetMedianPrice": 231.72,
+      "recommendationMean": 1.0,
+      "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 4,
       "beta": 0.529,
       "historicalData": [
@@ -6996,7 +6996,7 @@
         }
       ],
       "heldPercentInsiders": 0.67047995,
-      "heldPercentInstitutions": 0.04932
+      "heldPercentInstitutions": 0.04911
     },
     {
       "code": "ULKER",
@@ -7374,7 +7374,7 @@
         }
       ],
       "heldPercentInsiders": 0.75,
-      "heldPercentInstitutions": 0.054250002
+      "heldPercentInstitutions": 0.05424
     },
     {
       "code": "OTKAR",
@@ -7752,7 +7752,7 @@
         }
       ],
       "heldPercentInsiders": 0.59765,
-      "heldPercentInstitutions": 0.03403
+      "heldPercentInstitutions": 0.03401
     },
     {
       "code": "MAVI",
@@ -7941,7 +7941,7 @@
         }
       ],
       "heldPercentInsiders": 0.27186,
-      "heldPercentInstitutions": 0.18683
+      "heldPercentInstitutions": 0.18537001
     },
     {
       "code": "KARSN",
@@ -8351,7 +8351,7 @@
       "country": "Turkey",
       "phone": "90 212 319 70 00",
       "description": "Sekerbank T.A.S. provides agricultural, business, SME, corporate, and retail banking services in Turkey and internationally. It operates through Corporate/Commercial, SME, Retail, Treasury/Investment, and Other segments. The company offers personal loans, ECOcredit, vehicle and home loans, and completing accounts; and credit and individual bank cards, and cash advance. It also provides deposit products, including term and demand deposits; investment products, such as investment accounts, FX trading platforms, repo transactions, treasury bill/government bonds, Eurobonds, gold transactions, stocks, private sector debt instruments, foreign stock exchanges, investment funds, derivative products, and electronic product certificates; gold deposit products; retirement and private banking; home, business, vehicle, health and personal accident, liability, cargo, engineering, agricultural, credit and refundable life, and other insurance products; and card and diamond card campaigns. In addition, the company offers agricultural business and investment loans, as well as family farming; TMO and harvest cards; Harvest POS; small business, enterprise, and SME loans; member merchant/POS; and cash management services. In addition, the company offers financial inclusion and women's banking; corporate loans, including cash and non-cash loans, project financing, financing production, and e-invoice financing; foreign trade and financing; business, commercial debit, visa business, and bonus business cards; and sectoral support and collaboration products. Further, it provides digital banking services, including internet, mobile, open, ATM, and telephone banking; money transfer; digital POS slips; and buying and selling transactions, brokerage, custody, and consultancy services. The company was formerly known as Pancar Kooperatifleri Bankasi A.S. and changed its name to Sekerbank T.A.S. in 1956. Sekerbank T.A.S. was incorporated in 1953 and is headquartered in Istanbul, Turkey.",
-      "pe": 15.391305,
+      "pe": 15.258622,
       "forwardPE": null,
       "priceToBook": 2.2089107,
       "pegRatio": 7.76,
@@ -8370,7 +8370,7 @@
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
-      "eps": 1.15,
+      "eps": 1.16,
       "forwardEps": null,
       "bookValue": 8.013,
       "dividendRate": 0.06,
@@ -8886,7 +8886,7 @@
         }
       ],
       "heldPercentInsiders": 0.65785,
-      "heldPercentInstitutions": 0.05913
+      "heldPercentInstitutions": 0.059169997
     },
     {
       "code": "AKSEN",
@@ -9264,7 +9264,7 @@
         }
       ],
       "heldPercentInsiders": 0.53394,
-      "heldPercentInstitutions": 0.05884
+      "heldPercentInstitutions": 0.05885
     },
     {
       "code": "ALGYO",
@@ -10977,7 +10977,7 @@
       "changeRate": -0.5,
       "previousClose": 9.95,
       "open": 9.93,
-      "dayLow": 9.81,
+      "dayLow": 9.82,
       "dayHigh": 10.07,
       "fiftyTwoWeekLow": 9.61,
       "fiftyTwoWeekHigh": 13.31,
@@ -12150,7 +12150,7 @@
       "debtToEquity": 164.304,
       "currentRatio": 0.113,
       "quickRatio": 0.083,
-      "eps": -7.05,
+      "eps": -7.02,
       "forwardEps": -0.94,
       "bookValue": 19.958,
       "dividendRate": null,
@@ -14380,7 +14380,7 @@
       "previousClose": 26.8,
       "open": 26.84,
       "dayLow": 26.6,
-      "dayHigh": 27.2,
+      "dayHigh": 27.18,
       "fiftyTwoWeekLow": 20.28,
       "fiftyTwoWeekHigh": 31.52,
       "fiftyDayAverage": 28.56,
@@ -14745,7 +14745,7 @@
         }
       ],
       "heldPercentInsiders": 0.82515,
-      "heldPercentInstitutions": 0.00447
+      "heldPercentInstitutions": 0.00476
     },
     {
       "code": "ARDYZ",
@@ -14947,7 +14947,7 @@
       "previousClose": 27.86,
       "open": 27.84,
       "dayLow": 27.68,
-      "dayHigh": 28.38,
+      "dayHigh": 28.34,
       "fiftyTwoWeekLow": 23.66,
       "fiftyTwoWeekHigh": 45.0,
       "fiftyDayAverage": 31.29,
@@ -15325,7 +15325,7 @@
       "previousClose": 42.68,
       "open": 42.64,
       "dayLow": 42.42,
-      "dayHigh": 43.62,
+      "dayHigh": 43.6,
       "fiftyTwoWeekLow": 27.36,
       "fiftyTwoWeekHigh": 58.0,
       "fiftyDayAverage": 42.71,
@@ -15879,7 +15879,7 @@
         }
       ],
       "heldPercentInsiders": 0.37249002,
-      "heldPercentInstitutions": 0.21079999
+      "heldPercentInstitutions": 0.21143
     },
     {
       "code": "ATAGY",
@@ -16291,7 +16291,7 @@
       "description": "ATP Yazilim ve Teknoloji Anonim Sirketi, together with its subsidiaries, develops enterprise software and system solutions in Turkey, the Netherlands, Malta, China, and Europe. The company offers restaurant POS, customer experience, O2O and delivery, restaurant management, and MDM and support center services under the Zenia brand; brokerage software, portfolio management, RPA and automation, mobile and virtual branch, finance applications, and market connectivity solutions under the Tradesoft brand; CRM, ERP and e-accounting, custom business solutions, and corporate support services under the Digital brand; green and carbon certificates trading under the GreenX brand; and autonomous robots under the RobotX brand. It also provides cloud computing and artificial intelligence solutions; business solutions, including ERP, CRM, and BI ve HR, e-transformation, capital markets, and robotic; infrastructure and security solutions, such as data security, and threat and system management; system solutions comprising database, switchboard, data leak prevention, payment and barcode, and UPS systems; and IT services, which include licensing, integration, and research and development consultancy, as well as managed, professional, and field services. It serves hospitality, finance, retail, energy, and logistics sectors. The company was formerly known as ATP Ticari Bilgisayar Agi ve Elektrik Guc Kaynaklari Uretim Pazarlama ve Ticaret A.S. and changed its name to ATP Yazilim ve Teknoloji Anonim Sirketi in April 2023. ATP Yazilim ve Teknoloji Anonim Sirketi was founded in 1997 and is headquartered in Istanbul, Turkey.",
       "pe": 9.680511,
       "forwardPE": null,
-      "priceToBook": 3.782637,
+      "priceToBook": 4.510463,
       "pegRatio": null,
       "priceToSales": 0.7662586,
       "enterpriseToRevenue": 3.531,
@@ -16310,7 +16310,7 @@
       "quickRatio": 1.989,
       "eps": 21.91,
       "forwardEps": null,
-      "bookValue": 56.072,
+      "bookValue": 47.024,
       "dividendRate": 1.0,
       "dividendYield": 0.47,
       "exDividendDate": 1781049600,
@@ -17403,7 +17403,7 @@
       "changeRate": -0.18,
       "previousClose": 16.3,
       "open": 16.15,
-      "dayLow": 16.0,
+      "dayLow": 16.01,
       "dayHigh": 16.3,
       "fiftyTwoWeekLow": 10.67,
       "fiftyTwoWeekHigh": 22.76,
@@ -17781,7 +17781,7 @@
       "changeRate": -1.62,
       "previousClose": 35.82,
       "open": 35.98,
-      "dayLow": 35.06,
+      "dayLow": 35.08,
       "dayHigh": 36.14,
       "fiftyTwoWeekLow": 24.0,
       "fiftyTwoWeekHigh": 45.8,
@@ -20226,7 +20226,7 @@
         }
       ],
       "heldPercentInsiders": 0.84498,
-      "heldPercentInstitutions": 0.00153
+      "heldPercentInstitutions": 0.00155
     },
     {
       "code": "BIGCH",
@@ -20806,7 +20806,7 @@
       "previousClose": 22.08,
       "open": 22.16,
       "dayLow": 22.02,
-      "dayHigh": 23.74,
+      "dayHigh": 23.72,
       "fiftyTwoWeekLow": 16.76,
       "fiftyTwoWeekHigh": 61.9,
       "fiftyDayAverage": 30.71,
@@ -21359,8 +21359,8 @@
           "Volume": 2566230
         }
       ],
-      "heldPercentInsiders": 1.0029399,
-      "heldPercentInstitutions": 0.03505
+      "heldPercentInsiders": 0.50146997,
+      "heldPercentInstitutions": 0.01752
     },
     {
       "code": "BNTAS",
@@ -23073,7 +23073,7 @@
       "changeRate": 0.65,
       "previousClose": 36.96,
       "open": 37.18,
-      "dayLow": 36.1,
+      "dayLow": 36.14,
       "dayHigh": 37.26,
       "fiftyTwoWeekLow": 13.44,
       "fiftyTwoWeekHigh": 40.0,
@@ -23451,7 +23451,7 @@
       "changeRate": -0.05,
       "previousClose": 41.24,
       "open": 41.3,
-      "dayLow": 40.6,
+      "dayLow": 40.7,
       "dayHigh": 41.7,
       "fiftyTwoWeekLow": 15.36,
       "fiftyTwoWeekHigh": 84.8,
@@ -23641,7 +23641,7 @@
       "previousClose": 965.5,
       "open": 956.0,
       "dayLow": 914.0,
-      "dayHigh": 967.5,
+      "dayHigh": 962.5,
       "fiftyTwoWeekLow": 97.0,
       "fiftyTwoWeekHigh": 1350.0,
       "fiftyDayAverage": 1109.0,
@@ -25531,7 +25531,7 @@
       "previousClose": 1709.0,
       "open": 1708.0,
       "dayLow": 1700.0,
-      "dayHigh": 1879.0,
+      "dayHigh": 1877.0,
       "fiftyTwoWeekLow": 1485.0,
       "fiftyTwoWeekHigh": 2647.5,
       "fiftyDayAverage": 1638.82,
@@ -27631,7 +27631,7 @@
       "description": "Dardanel Onentas Gida Sanayi A.S. engages in the seafood business in Turkey and internationally. The company produces and sells canned food, including tuna, salmon, sardines, mackerel, anchovy, and other seafood; frozen food comprising mussels and other seafood; and fish by-products, such as fish meal and oil. Dardanel Onentas Gida Sanayi A.S. was incorporated in 1981 and is headquartered in Canakkale, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.6132512,
+      "priceToBook": 0.65417486,
       "pegRatio": null,
       "priceToSales": 0.3542083,
       "enterpriseToRevenue": 0.733,
@@ -27650,7 +27650,7 @@
       "quickRatio": 0.262,
       "eps": -0.12,
       "forwardEps": null,
-      "bookValue": 3.245,
+      "bookValue": 3.042,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -27786,7 +27786,7 @@
         }
       ],
       "heldPercentInsiders": 0.51542,
-      "heldPercentInstitutions": 0.1776
+      "heldPercentInstitutions": 0.17762
     },
     {
       "code": "DENGE",
@@ -28555,7 +28555,7 @@
       "previousClose": 42.96,
       "open": 42.74,
       "dayLow": 42.74,
-      "dayHigh": 43.8,
+      "dayHigh": 43.66,
       "fiftyTwoWeekLow": 36.98,
       "fiftyTwoWeekHigh": 69.0,
       "fiftyDayAverage": 44.38,
@@ -28743,7 +28743,7 @@
       "changeRate": 0.82,
       "previousClose": 73.1,
       "open": 73.1,
-      "dayLow": 73.0,
+      "dayLow": 73.05,
       "dayHigh": 75.3,
       "fiftyTwoWeekLow": 57.5,
       "fiftyTwoWeekHigh": 81.75,
@@ -28782,7 +28782,7 @@
       "debtToEquity": 23.136,
       "currentRatio": 1.995,
       "quickRatio": 1.278,
-      "eps": -4.64,
+      "eps": -4.6,
       "forwardEps": null,
       "bookValue": 144.209,
       "dividendRate": null,
@@ -29121,7 +29121,7 @@
       "changeRate": 0.32,
       "previousClose": 38.0,
       "open": 38.48,
-      "dayLow": 37.0,
+      "dayLow": 37.02,
       "dayHigh": 38.74,
       "fiftyTwoWeekLow": 26.5,
       "fiftyTwoWeekHigh": 49.3,
@@ -29864,7 +29864,7 @@
           "Volume": 16680673
         }
       ],
-      "heldPercentInsiders": 0.34120998,
+      "heldPercentInsiders": 0.67418,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -30621,7 +30621,7 @@
         }
       ],
       "heldPercentInsiders": 0.30122,
-      "heldPercentInstitutions": 0.38591
+      "heldPercentInstitutions": 0.38619
     },
     {
       "code": "DOFER",
@@ -30633,7 +30633,7 @@
       "changeRate": 0.13,
       "previousClose": 31.68,
       "open": 31.82,
-      "dayLow": 31.02,
+      "dayLow": 31.04,
       "dayHigh": 32.0,
       "fiftyTwoWeekLow": 29.16,
       "fiftyTwoWeekHigh": 66.2,
@@ -31012,7 +31012,7 @@
       "previousClose": 24.08,
       "open": 24.1,
       "dayLow": 24.1,
-      "dayHigh": 24.78,
+      "dayHigh": 24.76,
       "fiftyTwoWeekLow": 20.1,
       "fiftyTwoWeekHigh": 35.84,
       "fiftyDayAverage": 26.29,
@@ -31943,7 +31943,7 @@
           "Volume": 2845437
         }
       ],
-      "heldPercentInsiders": 0.81232,
+      "heldPercentInsiders": 0.77948,
       "heldPercentInstitutions": 0.0136
     },
     {
@@ -32145,7 +32145,7 @@
       "changeRate": 1.31,
       "previousClose": 18.36,
       "open": 18.75,
-      "dayLow": 18.0,
+      "dayLow": 18.05,
       "dayHigh": 18.75,
       "fiftyTwoWeekLow": 4.08,
       "fiftyTwoWeekHigh": 26.18,
@@ -32154,7 +32154,7 @@
       "volume": "2,532,930",
       "averageVolume": 7456642,
       "averageVolume10days": 5454270,
-      "marketCap": 7480361984,
+      "marketCap": 8017786368,
       "enterpriseValue": 7165466624,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +32169,7 @@
       "forwardPE": null,
       "priceToBook": 8.136483,
       "pegRatio": null,
-      "priceToSales": 3.1341755,
+      "priceToSales": 3.3593495,
       "enterpriseToRevenue": 3.002,
       "enterpriseToEbitda": 125.28,
       "profitMargins": -0.03031,
@@ -33091,7 +33091,7 @@
       "previousClose": 37.7,
       "open": 37.7,
       "dayLow": 37.1,
-      "dayHigh": 38.2,
+      "dayHigh": 38.18,
       "fiftyTwoWeekLow": 19.02,
       "fiftyTwoWeekHigh": 47.5,
       "fiftyDayAverage": 40.36,
@@ -34602,7 +34602,7 @@
       "changeRate": -5.8,
       "previousClose": 10.17,
       "open": 10.0,
-      "dayLow": 9.28,
+      "dayLow": 9.29,
       "dayHigh": 10.0,
       "fiftyTwoWeekLow": 6.83,
       "fiftyTwoWeekHigh": 11.93,
@@ -34792,7 +34792,7 @@
       "previousClose": 5.64,
       "open": 5.67,
       "dayLow": 5.61,
-      "dayHigh": 5.82,
+      "dayHigh": 5.81,
       "fiftyTwoWeekLow": 4.56,
       "fiftyTwoWeekHigh": 38.92,
       "fiftyDayAverage": 11.07,
@@ -36296,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
+      "name": "ETILER GIDA",
       "shortName": "ETILER GIDA",
       "price": 5.32,
       "change": 0.03,
@@ -36312,9 +36312,9 @@
       "volume": "4,797,006",
       "averageVolume": 21520162,
       "averageVolume10days": 8029303,
-      "marketCap": 1276800000,
+      "marketCap": 0,
       "enterpriseValue": 1805414272,
-      "sharesOutstanding": 240000000,
+      "sharesOutstanding": 0,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -36327,7 +36327,7 @@
       "forwardPE": null,
       "priceToBook": 2.4061513,
       "pegRatio": null,
-      "priceToSales": 0.6927043,
+      "priceToSales": null,
       "enterpriseToRevenue": 0.979,
       "enterpriseToEbitda": 7.179,
       "profitMargins": -0.00974,
@@ -37802,7 +37802,7 @@
           "Volume": 6919203
         }
       ],
-      "heldPercentInsiders": 0.64492995,
+      "heldPercentInsiders": 0.61493,
       "heldPercentInstitutions": 0.049640004
     },
     {
@@ -37816,7 +37816,7 @@
       "previousClose": 15.05,
       "open": 15.1,
       "dayLow": 15.02,
-      "dayHigh": 16.55,
+      "dayHigh": 16.54,
       "fiftyTwoWeekLow": 12.26,
       "fiftyTwoWeekHigh": 18.6,
       "fiftyDayAverage": 16.09,
@@ -38193,7 +38193,7 @@
       "changeRate": -1.93,
       "previousClose": 11.42,
       "open": 11.42,
-      "dayLow": 10.85,
+      "dayLow": 10.92,
       "dayHigh": 11.42,
       "fiftyTwoWeekLow": 8.33,
       "fiftyTwoWeekHigh": 16.6,
@@ -39895,7 +39895,7 @@
       "previousClose": 30.88,
       "open": 30.96,
       "dayLow": 30.82,
-      "dayHigh": 32.4,
+      "dayHigh": 32.18,
       "fiftyTwoWeekLow": 21.4,
       "fiftyTwoWeekHigh": 40.26,
       "fiftyDayAverage": 32.52,
@@ -40259,7 +40259,7 @@
           "Volume": 29520431
         }
       ],
-      "heldPercentInsiders": 0.73332,
+      "heldPercentInsiders": 0.72505,
       "heldPercentInstitutions": 0.03964
     },
     {
@@ -41015,7 +41015,7 @@
           "Volume": 1573470
         }
       ],
-      "heldPercentInsiders": 0.5764,
+      "heldPercentInsiders": 0.57616,
       "heldPercentInstitutions": 0.0018000001
     },
     {
@@ -42527,8 +42527,8 @@
           "Volume": 19709194
         }
       ],
-      "heldPercentInsiders": 0.746,
-      "heldPercentInstitutions": 1.0000001e-05
+      "heldPercentInsiders": 4.19972,
+      "heldPercentInstitutions": 8.0000005e-05
     },
     {
       "code": "GOZDE",
@@ -43662,7 +43662,7 @@
         }
       ],
       "heldPercentInsiders": 0.60008997,
-      "heldPercentInstitutions": 0.00045000002
+      "heldPercentInstitutions": 0.00046999997
     },
     {
       "code": "GWIND",
@@ -44795,7 +44795,7 @@
           "Volume": 1459329
         }
       ],
-      "heldPercentInsiders": 0.93027997,
+      "heldPercentInsiders": 0.92053,
       "heldPercentInstitutions": 0.00011
     },
     {
@@ -45551,7 +45551,7 @@
           "Volume": 1519187
         }
       ],
-      "heldPercentInsiders": 0.21398,
+      "heldPercentInsiders": 0.21045,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -46686,7 +46686,7 @@
         }
       ],
       "heldPercentInsiders": 0.36551,
-      "heldPercentInstitutions": 0.33601
+      "heldPercentInstitutions": 0.33595002
     },
     {
       "code": "IHAAS",
@@ -50122,7 +50122,7 @@
       "description": "Is Girisim Sermayesi Yatirim Ortakligi AS is private equity and venture capital arm of Turkiye Is Bankasi AS specializing in mezzanine, early venture, mid venture, late venture, development, emerging growth, mature, middle market, and expansion stages and considers acquisitions, management buyout, workout or turnaround, growth capital recapitalization, restructurings, and privatization investments in small and medium sized enterprises. It seeks to make investments in companies operating in the retail; branded FMCG; services with a focus on catering, security, facility management, and logistics; healthcare and pharmaceuticals; building materials; chemicals; education; tourism; energy; TMT (technology, media, telecom); and information technology, materials, industrials, consumer discretionary, consumer staples, energy; media; food, beverage and tobacco sectors. The firm seeks to invest in companies based in Turkey, and in international markets. It typically invests between TRY 10 million ($0.31 million) and TRY 40 million ($1.24 million) per project. The firm may seek co-investor for higher investments and takes both minority and majority stakes in its portfolio companies. The firm's investments through equity investment, convertible debt, or structured debt-equity mix, are generally made by means of growth capital or project-based restructuring transactions. It typically invests in equity or convertible bonds and exits its investments between three years and seven years through an initial public offering, strategic sale, or sale back to the original shareholders. Is Girisim Sermayesi Yatirim Ortakligi AS was founded in 2000 and is based in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.16563639,
+      "priceToBook": 0.1501221,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": 2.024,
@@ -50141,7 +50141,7 @@
       "quickRatio": 0.018,
       "eps": -0.036,
       "forwardEps": null,
-      "bookValue": 126.18,
+      "bookValue": 139.22,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -50276,8 +50276,8 @@
           "Volume": 7088235
         }
       ],
-      "heldPercentInsiders": 0.28991,
-      "heldPercentInstitutions": 0.36407003
+      "heldPercentInsiders": 1.70437,
+      "heldPercentInstitutions": 2.1403399
     },
     {
       "code": "ISGYO",
@@ -51600,7 +51600,7 @@
         }
       ],
       "heldPercentInsiders": 0.022720002,
-      "heldPercentInstitutions": 0.33675
+      "heldPercentInstitutions": 0.33675998
     },
     {
       "code": "IZINV",
@@ -52923,7 +52923,7 @@
         }
       ],
       "heldPercentInsiders": 0.092580006,
-      "heldPercentInstitutions": 0.08595
+      "heldPercentInstitutions": 0.08598
     },
     {
       "code": "KAYSE",
@@ -54280,7 +54280,7 @@
       "description": "Ersan Alisveris Hizmetleri ve Gida Sanayi Ticaret A.S. operates a chain of supermarkets and hypermarkets under the KIM brand in Turkey. The company also offers cleaning products comprising toilet paper, paper towels, concentrated fabric softeners, bleach, liquid dish detergents, dish lemons, glass cleaners, liquid soap, softener, and surface cleaners; and wheat for ashure, kidney bean, sweet corn, bean, rice, lentil, bulgur wheat, chickpeas, and granulated sugar under the under the KIMI brand. In addition, it engages in import and export activities. Ersan Alisveris Hizmetleri ve Gida Sanayi Ticaret A.S. was incorporated in 1997 and is headquartered in Istanbul, Turkey.",
       "pe": 5.6774197,
       "forwardPE": null,
-      "priceToBook": 0.7569893,
+      "priceToBook": 0.8631212,
       "pegRatio": null,
       "priceToSales": 0.26310852,
       "enterpriseToRevenue": 0.294,
@@ -54299,7 +54299,7 @@
       "quickRatio": 0.677,
       "eps": 2.79,
       "forwardEps": null,
-      "bookValue": 20.925,
+      "bookValue": 18.352,
       "dividendRate": 0.42,
       "dividendYield": 2.63,
       "exDividendDate": 1790726400,
@@ -57472,7 +57472,7 @@
       "previousClose": 135.8,
       "open": 135.8,
       "dayLow": 133.6,
-      "dayHigh": 139.9,
+      "dayHigh": 139.7,
       "fiftyTwoWeekLow": 21.4,
       "fiftyTwoWeekHigh": 141.5,
       "fiftyDayAverage": 106.12,
@@ -58616,7 +58616,7 @@
       "averageVolume10days": 7602599,
       "marketCap": 6091091456,
       "enterpriseValue": 11660833792,
-      "sharesOutstanding": 2159961700,
+      "sharesOutstanding": 2159961660,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
       "website": "https://kervangida.com",
@@ -60684,7 +60684,7 @@
       "changeRate": -1.61,
       "previousClose": 15.51,
       "open": 15.48,
-      "dayLow": 15.16,
+      "dayLow": 15.17,
       "dayHigh": 15.63,
       "fiftyTwoWeekLow": 14.0,
       "fiftyTwoWeekHigh": 21.8,
@@ -60730,12 +60730,12 @@
       "dividendYield": 3.03,
       "exDividendDate": 1790553600,
       "payoutRatio": 0.643,
-      "targetHighPrice": 25.5,
+      "targetHighPrice": 25.27,
       "targetLowPrice": 20.0,
-      "targetMeanPrice": 22.75,
-      "targetMedianPrice": 22.75,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "targetMeanPrice": 22.635,
+      "targetMedianPrice": 22.635,
+      "recommendationMean": 2.0,
+      "recommendationKey": "buy",
       "numberOfAnalystOpinions": 2,
       "beta": null,
       "historicalData": [
@@ -61629,7 +61629,7 @@
       "changeRate": 0.8,
       "previousClose": 32.7,
       "open": 32.5,
-      "dayLow": 31.5,
+      "dayLow": 31.52,
       "dayHigh": 34.22,
       "fiftyTwoWeekLow": 12.88,
       "fiftyTwoWeekHigh": 68.7,
@@ -64464,7 +64464,7 @@
       "changeRate": -3.03,
       "previousClose": 9.25,
       "open": 9.3,
-      "dayLow": 8.91,
+      "dayLow": 8.92,
       "dayHigh": 9.47,
       "fiftyTwoWeekLow": 2.99,
       "fiftyTwoWeekHigh": 9.65,
@@ -64864,7 +64864,7 @@
       "description": "MIA Teknoloji Anonim Sirketi provides software development services to public and private organizations in Turkey. The company offers Pizzy, an integrated facility management software; BIO-ID, a biometric data management software; MIA-SOFT, a multimodal biometric authentication and identification software; MBIS, a multi biometric identification system; Surveillance, an environmental surveillance and face recognition system; MIA-MED, a hospital information management system software; traffic monitoring; WorkARia Zero Carbon, a carbon emission reporting technologies; and ID-100B, a multi biometric identification unit. It also provides identification and authentication; environmental surveillance; facility security and management; critical facility security and management; city, cyber, and border securities; defense, mining,  and immersive technologies; health informatics technologies; intelligent traffic inspection; public transportation safety; and e-vehicle charging network solutions. In addition, the company offers sustainable and zero carbon; sustainable agriculture and food safety; and renewable energy solutions. Further, it developed kiosk, a user interface with sensor that detects hand movements; and control videos, images, and texts available in the system regarding the subject. The company was incorporated in 2006 and is headquartered in Ankara, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 3.187265,
+      "priceToBook": 3.2956495,
       "pegRatio": null,
       "priceToSales": 7.223102,
       "enterpriseToRevenue": 7.695,
@@ -64883,7 +64883,7 @@
       "quickRatio": 1.013,
       "eps": -2.01,
       "forwardEps": null,
-      "bookValue": 11.433,
+      "bookValue": 11.057,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -65976,7 +65976,7 @@
       "changeRate": 1.49,
       "previousClose": 420.25,
       "open": 421.75,
-      "dayLow": 415.75,
+      "dayLow": 416.0,
       "dayHigh": 426.5,
       "fiftyTwoWeekLow": 304.0,
       "fiftyTwoWeekHigh": 514.0,
@@ -66026,8 +66026,8 @@
       "targetLowPrice": 500.0,
       "targetMeanPrice": 587.5157,
       "targetMedianPrice": 570.0,
-      "recommendationMean": 1.42857,
-      "recommendationKey": "strong_buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
       "beta": null,
       "historicalData": [
@@ -66153,7 +66153,7 @@
         }
       ],
       "heldPercentInsiders": 0.56124,
-      "heldPercentInstitutions": 0.13119
+      "heldPercentInstitutions": 0.13185
     },
     {
       "code": "MRGYO",
@@ -67476,7 +67476,7 @@
         }
       ],
       "heldPercentInsiders": 0.55,
-      "heldPercentInstitutions": 0.00324
+      "heldPercentInstitutions": 0.0034
     },
     {
       "code": "NIBAS",
@@ -68264,7 +68264,7 @@
       "country": "Turkey",
       "phone": "90 262 316 20 00",
       "description": "Nuh Çimento Sanayi A.S. produces and sells cement, clinker, and mineral additives in Turkey. It offers ready-mixed concrete, and lime and gas concrete products; and port services, including cargo handling services. The company also engages in the construction and contracting works; and extraction, loading, and shipping agency activities. It offers its products through a dealer network and direct sales system. The company also exports its products to Africa, South and North America, Togo, Nigeria, Ivory Coast, Algeria, Italy, France, Spain, Belgium, Albania, Holland, Ireland, Portugal, Brazil, Canada, the United States, Georgia, Israel, Egypt, Lebanon, Gambia, Ghana, Senegal, Tunis, TRNC, and Mauritius. Nuh Çimento Sanayi A.S. was incorporated in 1966 and is based in Istanbul, Turkey.",
-      "pe": 464.0816,
+      "pe": 454.8,
       "forwardPE": null,
       "priceToBook": 1.5008415,
       "pegRatio": 1.64,
@@ -68283,7 +68283,7 @@
       "debtToEquity": 6.684,
       "currentRatio": 3.013,
       "quickRatio": 2.391,
-      "eps": 0.49,
+      "eps": 0.5,
       "forwardEps": null,
       "bookValue": 151.515,
       "dividendRate": 22.5,
@@ -68609,7 +68609,7 @@
           "Volume": 299215
         }
       ],
-      "heldPercentInsiders": 0.68571,
+      "heldPercentInsiders": 0.66309,
       "heldPercentInstitutions": 0.00052
     },
     {
@@ -69190,7 +69190,7 @@
       "previousClose": 64.8,
       "open": 65.95,
       "dayLow": 64.55,
-      "dayHigh": 70.65,
+      "dayHigh": 70.5,
       "fiftyTwoWeekLow": 54.8,
       "fiftyTwoWeekHigh": 97.9,
       "fiftyDayAverage": 68.56,
@@ -70310,8 +70310,8 @@
           "Volume": 30572129
         }
       ],
-      "heldPercentInsiders": 0.075500004,
-      "heldPercentInstitutions": 0.0041
+      "heldPercentInsiders": 0.10192,
+      "heldPercentInstitutions": 0.0055400003
     },
     {
       "code": "OTTO",
@@ -72213,7 +72213,7 @@
       "changeRate": -1.58,
       "previousClose": 15.18,
       "open": 15.18,
-      "dayLow": 14.8,
+      "dayLow": 14.85,
       "dayHigh": 15.27,
       "fiftyTwoWeekLow": 14.27,
       "fiftyTwoWeekHigh": 31.64,
@@ -72768,7 +72768,7 @@
         }
       ],
       "heldPercentInsiders": 0.4725,
-      "heldPercentInstitutions": 0.20922
+      "heldPercentInstitutions": 0.20918
     },
     {
       "code": "PATEK",
@@ -73558,7 +73558,7 @@
       "description": "Penta Teknoloji Urunleri Dagitim Ticaret A.S. distributes computer, hardware, and software products in Turkey. It offers Bazinet V3, a B2B e-commerce platform; Penta technology center, which provides demos, PoCs, hardware and software presentations, and end-to-end business solutions; and printing technology center that offers printing solutions and digital printing machines. The company also offers Penta subscription management solution, which helps to display and manage subscriptions; Penta Mywarehouse, for physical storage and online management; Penta Integration, a system for storage, logistics, sales, and marketing services; Penta OnAir, a communication platform to reach resellers and customers; and 10 to 10 delivery service. It also exports its products. Penta Teknoloji Urunleri Dagitim Ticaret A.S. was founded in 1990 and is headquartered in Istanbul, Turkey.",
       "pe": 57.083332,
       "forwardPE": null,
-      "priceToBook": 1.2698119,
+      "priceToBook": 1.2212515,
       "pegRatio": null,
       "priceToSales": 0.15800428,
       "enterpriseToRevenue": 0.161,
@@ -73577,7 +73577,7 @@
       "quickRatio": 0.896,
       "eps": 0.24,
       "forwardEps": null,
-      "bookValue": 10.789,
+      "bookValue": 11.218,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -76015,7 +76015,7 @@
       "description": "Prizma Pres Matbaacilik Yayincilik Sanayi ve Ticaret A.S. engages in the printing and publishing activities in Turkey. The company offers printing services for textbooks and supplementary textbooks, children's story and fairy tale books, and question banks and test books. It also engages in the purchasing and selling of paper; publishing and distribution of books, newspapers, and magazines; and importing and selling of printing machines. Prizma Pres Matbaacilik Yayincilik Sanayi ve Ticaret A.S. was founded in 1975 and is headquartered in Istanbul, Turkey.",
       "pe": 69.72477,
       "forwardPE": null,
-      "priceToBook": 10.987423,
+      "priceToBook": 10.201343,
       "pegRatio": null,
       "priceToSales": 51.539413,
       "enterpriseToRevenue": 51.696,
@@ -76034,7 +76034,7 @@
       "quickRatio": 0.361,
       "eps": 1.09,
       "forwardEps": null,
-      "bookValue": 6.917,
+      "bookValue": 7.45,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -77128,7 +77128,7 @@
       "previousClose": 6.47,
       "open": 6.51,
       "dayLow": 6.42,
-      "dayHigh": 6.6,
+      "dayHigh": 6.59,
       "fiftyTwoWeekLow": 5.69,
       "fiftyTwoWeekHigh": 12.42,
       "fiftyDayAverage": 7.32,
@@ -77714,7 +77714,7 @@
       "country": "Turkey",
       "phone": "90 212 875 07 41",
       "description": "Rodrigo Tekstil Sanayi ve Ticaret A.S., together with its subsidiaries, engages in the textile business in Turkey and internationally. The company offers various men clothing under the Rodrigo brand name. It sells its products through stores and online. The company was incorporated in 1997 and is based in Istanbul, Turkey.",
-      "pe": 181.99998,
+      "pe": 195.0,
       "forwardPE": null,
       "priceToBook": 11.115635,
       "pegRatio": null,
@@ -77733,7 +77733,7 @@
       "debtToEquity": 17.493,
       "currentRatio": 1.388,
       "quickRatio": 0.1,
-      "eps": 0.15,
+      "eps": 0.14,
       "forwardEps": null,
       "bookValue": 2.456,
       "dividendRate": null,
@@ -78072,7 +78072,7 @@
       "changeRate": 0.0,
       "previousClose": 22.7,
       "open": 22.8,
-      "dayLow": 22.2,
+      "dayLow": 22.22,
       "dayHigh": 22.86,
       "fiftyTwoWeekLow": 18.77,
       "fiftyTwoWeekHigh": 49.14,
@@ -78816,7 +78816,7 @@
         }
       ],
       "heldPercentInsiders": 0.28982002,
-      "heldPercentInstitutions": 0.04632
+      "heldPercentInstitutions": 0.04636
     },
     {
       "code": "SAMAT",
@@ -79584,7 +79584,7 @@
       "changeRate": -1.23,
       "previousClose": 27.6,
       "open": 27.6,
-      "dayLow": 27.18,
+      "dayLow": 27.2,
       "dayHigh": 28.22,
       "fiftyTwoWeekLow": 10.37,
       "fiftyTwoWeekHigh": 51.6,
@@ -80327,7 +80327,7 @@
           "Volume": 10593402
         }
       ],
-      "heldPercentInsiders": 0.31806,
+      "heldPercentInsiders": 0.30688998,
       "heldPercentInstitutions": 0.00051
     },
     {
@@ -81663,7 +81663,7 @@
       "changeRate": -0.53,
       "previousClose": 3.75,
       "open": 3.77,
-      "dayLow": 3.69,
+      "dayLow": 3.7,
       "dayHigh": 3.93,
       "fiftyTwoWeekLow": 2.79,
       "fiftyTwoWeekHigh": 6.08,
@@ -84108,7 +84108,7 @@
         }
       ],
       "heldPercentInsiders": 0.76131,
-      "heldPercentInstitutions": 0.026349999
+      "heldPercentInstitutions": 0.02636
     },
     {
       "code": "SUWEN",
@@ -85620,7 +85620,7 @@
         }
       ],
       "heldPercentInsiders": 0.65586996,
-      "heldPercentInstitutions": 0.073709995
+      "heldPercentInstitutions": 0.07369
     },
     {
       "code": "TEZOL",
@@ -86410,7 +86410,7 @@
       "description": "Trabzon Liman Isletmeciligi Anonim Sirketi operates the port of Trabzon. It engages in the loading, unloading, transfer, and handling operations; supplying water to ships; loading, unloading, and transferring fuel; pilotage services to ships, water, and fuel; transportation services; and porterage work and establishing facilities. The company was incorporated in 2003 and is based in Trabzon, Turkey.",
       "pe": 33.86617,
       "forwardPE": null,
-      "priceToBook": 1.0393255,
+      "priceToBook": 1.0739504,
       "pegRatio": null,
       "priceToSales": 2.5891867,
       "enterpriseToRevenue": 2.067,
@@ -86429,7 +86429,7 @@
       "quickRatio": 5.849,
       "eps": 2.69,
       "forwardEps": null,
-      "bookValue": 87.653,
+      "bookValue": 84.827,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1671753600,
@@ -87132,7 +87132,7 @@
         }
       ],
       "heldPercentInsiders": 0.85276,
-      "heldPercentInstitutions": 0.01566
+      "heldPercentInstitutions": 0.01498
     },
     {
       "code": "TRILC",
@@ -88832,8 +88832,8 @@
           "Volume": 73357838
         }
       ],
-      "heldPercentInsiders": 0.38050997,
-      "heldPercentInstitutions": 0.01268
+      "heldPercentInsiders": 0.76101995,
+      "heldPercentInstitutions": 0.02611
     },
     {
       "code": "UFUK",
@@ -88865,7 +88865,7 @@
       "country": "Turkey",
       "phone": "90 533 895 99 60",
       "description": "UFUK Yatirim Yonetim ve Gayrimenkul A.S. engages in the financial leasing business in Turkey. It also offers business management and consultancy services, such as advisory on strategic, financial, marketing, business processes, and project services, as well as on trademark and franchise issues. The company was formerly known as Fon Sinai Yatirimlar A.S. and changed its name to UFUK Yatirim Yonetim ve Gayrimenkul A.S. in May 2016. UFUK Yatirim Yonetim ve Gayrimenkul A.S. was founded in 1995 and is headquartered in Istanbul, Turkey. UFUK Yatirim Yonetim ve Gayrimenkul A.S. operates as a subsidiary of Lydia Holding A.S.",
-      "pe": 148.91891,
+      "pe": 147.06406,
       "forwardPE": null,
       "priceToBook": 28.8195,
       "pegRatio": null,
@@ -88884,7 +88884,7 @@
       "debtToEquity": null,
       "currentRatio": 25.314,
       "quickRatio": 2.553,
-      "eps": 11.1,
+      "eps": 11.24,
       "forwardEps": null,
       "bookValue": 57.357,
       "dividendRate": null,
@@ -89210,7 +89210,7 @@
           "Volume": 11282094
         }
       ],
-      "heldPercentInsiders": 0.19513,
+      "heldPercentInsiders": 0.39026,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -91680,7 +91680,7 @@
       "changeRate": 0.08,
       "previousClose": 24.6,
       "open": 24.6,
-      "dayLow": 23.98,
+      "dayLow": 24.14,
       "dayHigh": 24.74,
       "fiftyTwoWeekLow": 22.8,
       "fiftyTwoWeekHigh": 48.78,
@@ -92802,7 +92802,7 @@
         }
       ],
       "heldPercentInsiders": 0.6077,
-      "heldPercentInstitutions": 0.01661
+      "heldPercentInstitutions": 0.01658
     },
     {
       "code": "YGGYO",
@@ -92991,7 +92991,7 @@
         }
       ],
       "heldPercentInsiders": 0.2,
-      "heldPercentInstitutions": 0.042540003
+      "heldPercentInstitutions": 0.042529996
     },
     {
       "code": "YKSLN",
@@ -94193,7 +94193,7 @@
         }
       ],
       "heldPercentInsiders": 0.81058997,
-      "heldPercentInstitutions": 0.17073
+      "heldPercentInstitutions": 0.17072001
     }
   ]
 }
