@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-05T19:54:17.636130",
+  "last_update": "2026-07-05T21:09:05.160898",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 53.382713,
-      "targetLowPrice": 36.680145,
-      "targetMeanPrice": 46.612328,
-      "targetMedianPrice": 47.34733,
+      "targetHighPrice": 53.367085,
+      "targetLowPrice": 36.669407,
+      "targetMeanPrice": 46.59868,
+      "targetMedianPrice": 47.333466,
       "recommendationMean": 1.85714,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.31,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 513.4887,
-      "targetLowPrice": 381.99792,
-      "targetMeanPrice": 435.43906,
-      "targetMedianPrice": 429.4331,
+      "targetHighPrice": 513.53284,
+      "targetLowPrice": 382.03076,
+      "targetMeanPrice": 435.47647,
+      "targetMedianPrice": 429.47,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -32923,7 +32923,7 @@
       "description": "Ege Gübre Sanayii A.S. primarily provides port services. The company operates through Chemical Fertilizers and Port Services segments. It offers port services, including container handling, storage, container stuffing/unloading, container repair/cleaning, yard stacking, and OFFDOCK services; loading and terminal services; terminal management services; and insurance brokerage services. The company also provides compound, supply, and specialized fertilizers, as well as organic solvents. Ege Gübre Sanayii A.S. was incorporated in 1973 and is headquartered in Izmir, Turkey.",
       "pe": 14.335664,
       "forwardPE": null,
-      "priceToBook": 1.1990547,
+      "priceToBook": 1.0730737,
       "pegRatio": null,
       "priceToSales": 2.897988,
       "enterpriseToRevenue": 2.883,
@@ -32942,7 +32942,7 @@
       "quickRatio": 2.306,
       "eps": 7.15,
       "forwardEps": null,
-      "bookValue": 85.484,
+      "bookValue": 95.52,
       "dividendRate": 2.5,
       "dividendYield": 2.44,
       "exDividendDate": 1777852800,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.01614,
-      "targetLowPrice": 62.688953,
-      "targetMeanPrice": 68.19388,
-      "targetMedianPrice": 62.87608,
+      "targetHighPrice": 79.007034,
+      "targetLowPrice": 62.68172,
+      "targetMeanPrice": 68.18601,
+      "targetMedianPrice": 62.868828,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -71830,10 +71830,10 @@
       "symbol": "OZSUB.IS",
       "name": "Özsu Balik Üretim Anonim Sirketi",
       "shortName": "OZSU BALIK",
-      "price": 31.54,
-      "change": -0.96,
+      "price": 30.92,
+      "change": -0.94,
       "changeRate": -2.95,
-      "previousClose": 32.5,
+      "previousClose": 31.86,
       "open": 32.48,
       "dayLow": 31.42,
       "dayHigh": 33.18,
@@ -71891,123 +71891,123 @@
       "beta": 0.003,
       "historicalData": [
         {
-          "Close": 28.200000762939453,
+          "Close": 27.648637771606445,
           "Volume": 1612063
         },
         {
-          "Close": 28.8799991607666,
+          "Close": 28.31534194946289,
           "Volume": 689258
         },
         {
-          "Close": 28.8799991607666,
+          "Close": 28.31534194946289,
           "Volume": 0
         },
         {
-          "Close": 28.8799991607666,
+          "Close": 28.31534194946289,
           "Volume": 0
         },
         {
-          "Close": 28.8799991607666,
+          "Close": 28.31534194946289,
           "Volume": 0
         },
         {
-          "Close": 30.100000381469727,
+          "Close": 29.511489868164062,
           "Volume": 4473650
         },
         {
-          "Close": 31.0,
+          "Close": 30.393892288208008,
           "Volume": 2196492
         },
         {
-          "Close": 30.84000015258789,
+          "Close": 30.23702049255371,
           "Volume": 3350764
         },
         {
-          "Close": 30.760000228881836,
+          "Close": 30.158584594726562,
           "Volume": 3071680
         },
         {
-          "Close": 29.399999618530273,
+          "Close": 28.82517433166504,
           "Volume": 3832960
         },
         {
-          "Close": 30.079999923706055,
+          "Close": 29.491880416870117,
           "Volume": 1819219
         },
         {
-          "Close": 28.8799991607666,
+          "Close": 28.31534194946289,
           "Volume": 2091472
         },
         {
-          "Close": 28.219999313354492,
+          "Close": 27.668245315551758,
           "Volume": 1391860
         },
         {
-          "Close": 27.84000015258789,
+          "Close": 27.29567527770996,
           "Volume": 995131
         },
         {
-          "Close": 27.68000030517578,
+          "Close": 27.138805389404297,
           "Volume": 1880636
         },
         {
-          "Close": 29.84000015258789,
+          "Close": 29.256572723388672,
           "Volume": 3202856
         },
         {
-          "Close": 29.520000457763672,
+          "Close": 28.942829132080078,
           "Volume": 2296628
         },
         {
-          "Close": 29.5,
+          "Close": 28.923219680786133,
           "Volume": 715752
         },
         {
-          "Close": 30.0,
+          "Close": 29.41344451904297,
           "Volume": 908087
         },
         {
-          "Close": 30.84000015258789,
+          "Close": 30.23702049255371,
           "Volume": 2224306
         },
         {
-          "Close": 32.060001373291016,
+          "Close": 31.433168411254883,
           "Volume": 3027497
         },
         {
-          "Close": 33.31999969482422,
+          "Close": 32.66852951049805,
           "Volume": 2859560
         },
         {
-          "Close": 32.70000076293945,
+          "Close": 32.06065368652344,
           "Volume": 3476994
         },
         {
-          "Close": 32.97999954223633,
+          "Close": 32.33517837524414,
           "Volume": 2333868
         },
         {
-          "Close": 32.779998779296875,
+          "Close": 32.13908767700195,
           "Volume": 1906145
         },
         {
-          "Close": 32.619998931884766,
+          "Close": 31.98221778869629,
           "Volume": 2097435
         },
         {
-          "Close": 31.559999465942383,
+          "Close": 30.942941665649414,
           "Volume": 2205382
         },
         {
-          "Close": 32.2599983215332,
+          "Close": 31.629255294799805,
           "Volume": 1015525
         },
         {
-          "Close": 32.5,
+          "Close": 31.864564895629883,
           "Volume": 2853119
         },
         {
-          "Close": 31.540000915527344,
+          "Close": 30.9233341217041,
           "Volume": 2192753
         }
       ],
