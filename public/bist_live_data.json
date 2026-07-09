@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-07-09T18:02:56.940308",
+  "last_update": "2026-07-09T20:02:19.954086",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 496,
-  "successful": 496,
-  "failed": 35,
+  "total_stocks": 499,
+  "successful": 499,
+  "failed": 32,
   "stocks": [
     {
       "code": "GARAN",
@@ -1383,7 +1383,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": 305.5,
       "targetLowPrice": 187.0,
       "targetMeanPrice": 249.73334,
@@ -1569,10 +1569,10 @@
       "eps": 17.19,
       "forwardEps": 20.74,
       "bookValue": 183.554,
-      "dividendRate": 13.49,
-      "dividendYield": 5.26,
-      "exDividendDate": 1790726400,
-      "payoutRatio": 1.0362,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": 359.0,
       "targetLowPrice": 255.8,
       "targetMeanPrice": 306.7543,
@@ -2138,12 +2138,12 @@
       "bookValue": 8.381,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1701129600,
-      "payoutRatio": 0.0,
-      "targetHighPrice": 53.475475,
-      "targetLowPrice": 36.74388,
-      "targetMeanPrice": 46.69332,
-      "targetMedianPrice": 47.429604,
+      "exDividendDate": null,
+      "payoutRatio": null,
+      "targetHighPrice": 53.47536,
+      "targetLowPrice": 36.743805,
+      "targetMeanPrice": 46.693226,
+      "targetMedianPrice": 47.429504,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -2303,7 +2303,7 @@
       "country": "Turkey",
       "phone": "90 312 592 10 00",
       "description": "ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi engages in research, development, engineering, production, testing, assembly, integration, sale, support, consultancy, and trading of software, equipment, systems, tools, materials, and platforms in turkey. It operates in six divisions: Communication and Information Technologies; Microelectronics, Guidance & Electro-Optics; Avionics and Guidance Systems Vice Presidency; Integrated Defence Systems Technologies; Radar and Electronic Warfare Systems; and Transportation, Security, Energy, Automation and Healthcare Systems. The company offers military communication and information, mission critical communication, avionics and navigation, electro-optic, guidance and seeker, land and weapon, naval and underwater, air and missile, transportation and energy, and security and health systems; satellite and space technologies; radar technologies; electronic warfare system technologies; and command, control, communication and computer systems. It also provides geographic information system; business development and repair services; and consultancy services, as well as operates in the fields of augmented reality, artificial intelligence, simulation software, research, development, and design and engineering. In addition, the company is involved in serial production, maintenance and repair activities of visible precision optical and electro optical devices; designing of electronic industry and integrated circuit; marketing and business development business; research, designing, development, and engineering activities of weapons and weapons systems; after-sales services of electronic components within the field of military power electronics; and commercial and industrial activities related to electromechanical industrial products and slip ring. The company was incorporated in 1975 and is headquartered in Ankara, Turkey. ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi is a subsidiary of Turkish Armed Forces Foundation.",
-      "pe": 50.38624,
+      "pe": 50.315567,
       "forwardPE": 17.548227,
       "priceToBook": 5.820179,
       "pegRatio": null,
@@ -2322,7 +2322,7 @@
       "debtToEquity": 18.777,
       "currentRatio": 1.54,
       "quickRatio": 0.588,
-      "eps": 7.12,
+      "eps": 7.13,
       "forwardEps": null,
       "bookValue": 61.639,
       "dividendRate": 0.43,
@@ -4593,10 +4593,10 @@
       "eps": 8.84,
       "forwardEps": 183.63,
       "bookValue": 46.86,
-      "dividendRate": 9.69,
-      "dividendYield": 11.99,
-      "exDividendDate": 1773619200,
-      "payoutRatio": 1.0964,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": 227.0,
       "targetLowPrice": 120.0,
       "targetMeanPrice": 145.44545,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.37,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 515.3388,
-      "targetLowPrice": 381.38617,
-      "targetMeanPrice": 433.68625,
-      "targetMedianPrice": 430.98035,
+      "targetHighPrice": 514.7045,
+      "targetLowPrice": 380.9168,
+      "targetMeanPrice": 433.1525,
+      "targetMedianPrice": 430.44992,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -8186,8 +8186,8 @@
       "bookValue": 11.194,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1432857600,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -8942,8 +8942,8 @@
       "bookValue": 52.304,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1717632000,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": 120.3,
       "targetLowPrice": 75.4,
       "targetMeanPrice": 104.81667,
@@ -9318,10 +9318,10 @@
       "eps": -1.12,
       "forwardEps": null,
       "bookValue": 8.668,
-      "dividendRate": 0.05,
-      "dividendYield": 1.45,
-      "exDividendDate": 1778544000,
-      "payoutRatio": 0.0,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -10641,10 +10641,10 @@
       "eps": 164.98,
       "forwardEps": null,
       "bookValue": 1269.207,
-      "dividendRate": 166.15,
-      "dividendYield": 9.13,
-      "exDividendDate": 1775606400,
-      "payoutRatio": 0.35509998,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -11155,6 +11155,195 @@
       ],
       "heldPercentInsiders": 0.66476995,
       "heldPercentInstitutions": 0.00569
+    },
+    {
+      "code": "CIMSA",
+      "symbol": "CIMSA.IS",
+      "name": "Çimsa Çimento Sanayi ve Ticaret A.S.",
+      "shortName": "CIMSA",
+      "price": 45.8,
+      "change": -0.78,
+      "changeRate": -1.67,
+      "previousClose": 46.58,
+      "open": 46.78,
+      "dayLow": 45.48,
+      "dayHigh": 46.9,
+      "fiftyTwoWeekLow": 41.18,
+      "fiftyTwoWeekHigh": 60.0,
+      "fiftyDayAverage": 51.76,
+      "twoHundredDayAverage": 48.94,
+      "volume": "6,697,381",
+      "averageVolume": 6418716,
+      "averageVolume10days": 7208150,
+      "marketCap": 43308072960,
+      "enterpriseValue": 77799841792,
+      "sharesOutstanding": 945591094,
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "website": "https://cimsa.com.tr",
+      "address": "Allianz Tower",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "phone": "90 216 651 53 00",
+      "description": "Çimsa Çimento Sanayi ve Ticaret A.S., together with its subsidiaries, engages in the production and sale of cement and building materials in Turkey and internationally. The company offers white, grey, and calcium aluminate cement; cement-based products; ready-mixed concrete; clinkers; aggregates; and insulation and recycled plastic packaging materials under the Çimsa brand name. It exports its products. The company was incorporated in 1972 and is headquartered in Istanbul, Turkey. Çimsa Çimento Sanayi ve Ticaret A.S. operates as a subsidiary of Haci Ömer Sabanci Holding A.S.",
+      "pe": 12.793296,
+      "forwardPE": 7.633333,
+      "priceToBook": 1.2458855,
+      "pegRatio": 1.85,
+      "priceToSales": 0.9438301,
+      "enterpriseToRevenue": 1.696,
+      "enterpriseToEbitda": 9.26,
+      "profitMargins": 0.07383,
+      "grossMargins": 0.19284001,
+      "operatingMargins": 0.03325,
+      "returnOnAssets": 0.03313,
+      "returnOnEquity": 0.10502,
+      "totalRevenue": 45885456384,
+      "revenuePerShare": 48.526,
+      "totalCash": 5181907968,
+      "totalDebt": 28511752192,
+      "debtToEquity": 63.1,
+      "currentRatio": 0.965,
+      "quickRatio": 0.602,
+      "eps": 3.58,
+      "forwardEps": 6.0,
+      "bookValue": 36.761,
+      "dividendRate": 0.74,
+      "dividendYield": 1.59,
+      "exDividendDate": 1775001600,
+      "payoutRatio": 0.2068,
+      "targetHighPrice": 80.28,
+      "targetLowPrice": 65.0,
+      "targetMeanPrice": 72.19667,
+      "targetMedianPrice": 71.025,
+      "recommendationMean": 1.33333,
+      "recommendationKey": "strong_buy",
+      "numberOfAnalystOpinions": 6,
+      "beta": -0.306,
+      "historicalData": [
+        {
+          "Close": 50.650001525878906,
+          "Volume": 0
+        },
+        {
+          "Close": 51.150001525878906,
+          "Volume": 3325271
+        },
+        {
+          "Close": 53.79999923706055,
+          "Volume": 4940399
+        },
+        {
+          "Close": 52.20000076293945,
+          "Volume": 5643850
+        },
+        {
+          "Close": 51.400001525878906,
+          "Volume": 4297318
+        },
+        {
+          "Close": 49.52000045776367,
+          "Volume": 6535090
+        },
+        {
+          "Close": 49.58000183105469,
+          "Volume": 5518497
+        },
+        {
+          "Close": 49.5,
+          "Volume": 5006987
+        },
+        {
+          "Close": 49.31999969482422,
+          "Volume": 4073737
+        },
+        {
+          "Close": 48.560001373291016,
+          "Volume": 6381466
+        },
+        {
+          "Close": 50.099998474121094,
+          "Volume": 9652636
+        },
+        {
+          "Close": 51.400001525878906,
+          "Volume": 4438137
+        },
+        {
+          "Close": 51.20000076293945,
+          "Volume": 4776885
+        },
+        {
+          "Close": 49.900001525878906,
+          "Volume": 4498923
+        },
+        {
+          "Close": 50.70000076293945,
+          "Volume": 3675261
+        },
+        {
+          "Close": 49.7599983215332,
+          "Volume": 5730035
+        },
+        {
+          "Close": 50.650001525878906,
+          "Volume": 5995948
+        },
+        {
+          "Close": 49.880001068115234,
+          "Volume": 3822848
+        },
+        {
+          "Close": 49.29999923706055,
+          "Volume": 3011005
+        },
+        {
+          "Close": 49.02000045776367,
+          "Volume": 4762771
+        },
+        {
+          "Close": 49.040000915527344,
+          "Volume": 4493834
+        },
+        {
+          "Close": 47.939998626708984,
+          "Volume": 9095713
+        },
+        {
+          "Close": 47.099998474121094,
+          "Volume": 7022533
+        },
+        {
+          "Close": 47.70000076293945,
+          "Volume": 7301139
+        },
+        {
+          "Close": 47.20000076293945,
+          "Volume": 5196747
+        },
+        {
+          "Close": 48.619998931884766,
+          "Volume": 10819432
+        },
+        {
+          "Close": 48.2400016784668,
+          "Volume": 7911095
+        },
+        {
+          "Close": 48.540000915527344,
+          "Volume": 8657360
+        },
+        {
+          "Close": 46.58000183105469,
+          "Volume": 6820880
+        },
+        {
+          "Close": 45.79999923706055,
+          "Volume": 6697381
+        }
+      ],
+      "heldPercentInsiders": 0.63519,
+      "heldPercentInstitutions": 0.037609998
     },
     {
       "code": "ADEL",
@@ -13290,7 +13479,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -16122,10 +16311,10 @@
       "eps": 21.9,
       "forwardEps": null,
       "bookValue": 47.024,
-      "dividendRate": 1.0,
-      "dividendYield": 0.47,
-      "exDividendDate": 1781049600,
-      "payoutRatio": 0.0319,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -21414,10 +21603,10 @@
       "eps": -3.46,
       "forwardEps": null,
       "bookValue": 17.936,
-      "dividendRate": 0.4,
-      "dividendYield": 2.12,
-      "exDividendDate": 1785888000,
-      "payoutRatio": 3.5386,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -24251,8 +24440,8 @@
       "bookValue": 36.95,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1640908800,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -25574,8 +25763,8 @@
       "bookValue": 193.683,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1735171200,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -25764,7 +25953,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -26519,8 +26708,8 @@
       "bookValue": 10.379,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1655164800,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -26709,7 +26898,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -33134,8 +33323,8 @@
       "bookValue": 2.885,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1650240000,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -35022,10 +35211,10 @@
       "eps": -0.76,
       "forwardEps": null,
       "bookValue": 187.754,
-      "dividendRate": 2.7,
-      "dividendYield": 1.59,
-      "exDividendDate": 1779235200,
-      "payoutRatio": 0.0,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -40506,7 +40695,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -41070,10 +41259,10 @@
       "eps": 3.96,
       "forwardEps": null,
       "bookValue": 30.405,
-      "dividendRate": 2.51,
-      "dividendYield": 4.61,
-      "exDividendDate": 1776038400,
-      "payoutRatio": 0.0907,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": 118.79,
       "targetLowPrice": 107.0,
       "targetMeanPrice": 112.895,
@@ -41448,10 +41637,10 @@
       "eps": 2.71,
       "forwardEps": null,
       "bookValue": 8.281,
-      "dividendRate": 0.1,
-      "dividendYield": 0.58,
-      "exDividendDate": 1798675200,
-      "payoutRatio": 0.023599999,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -45043,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.15668,
-      "targetLowPrice": 62.80044,
-      "targetMeanPrice": 68.31516,
-      "targetMedianPrice": 62.987904,
+      "targetHighPrice": 79.158195,
+      "targetLowPrice": 62.80165,
+      "targetMeanPrice": 68.316475,
+      "targetMedianPrice": 62.989113,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -46932,7 +47121,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -47120,8 +47309,8 @@
       "bookValue": 1.897,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1117497600,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -47499,7 +47688,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -48254,8 +48443,8 @@
       "bookValue": 83.412,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1683504000,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -52737,6 +52926,195 @@
       "heldPercentInstitutions": 0.085480005
     },
     {
+      "code": "KAYSE",
+      "symbol": "KAYSE.IS",
+      "name": "Kayseri Seker Fabrikasi Anonim Sirketi",
+      "shortName": "KAYSERI SEKER FABRIKASI",
+      "price": 4.16,
+      "change": -0.04,
+      "changeRate": -0.95,
+      "previousClose": 4.2,
+      "open": 4.21,
+      "dayLow": 4.13,
+      "dayHigh": 4.26,
+      "fiftyTwoWeekLow": 4.04,
+      "fiftyTwoWeekHigh": 6.39,
+      "fiftyDayAverage": 4.6,
+      "twoHundredDayAverage": 4.61,
+      "volume": "5,628,319",
+      "averageVolume": 17115180,
+      "averageVolume10days": 8047667,
+      "marketCap": 12480000000,
+      "enterpriseValue": 14175832064,
+      "sharesOutstanding": 3000000000,
+      "sector": "Consumer Defensive",
+      "industry": "Confectioners",
+      "website": "https://www.kayseriseker.com.tr",
+      "address": "Seker Mahallesi Osman Kavuncu Bulvari No: 314",
+      "city": "Kayseri",
+      "country": "Turkey",
+      "phone": "90 352 331 24 00",
+      "description": "Kayseri Seker Fabrikasi Anonim Sirketi engages in the sugar business in Turkey. The company operates in two segments, Sugar Production Activities and Other Activities. It is involved in the production of crystal sugar from beet under the Kayseri Seker brand name. The company was incorporated in 1955 and is based in Kayseri, Turkey.",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": 0.13589442,
+      "pegRatio": null,
+      "priceToSales": 0.6387336,
+      "enterpriseToRevenue": 0.726,
+      "enterpriseToEbitda": 18.713,
+      "profitMargins": -0.088649996,
+      "grossMargins": 0.08061,
+      "operatingMargins": -2.03147,
+      "returnOnAssets": 0.00318,
+      "returnOnEquity": -0.04815,
+      "totalRevenue": 19538661376,
+      "revenuePerShare": 13.642,
+      "totalCash": 273500096,
+      "totalDebt": 8915330048,
+      "debtToEquity": 22.103,
+      "currentRatio": 1.303,
+      "quickRatio": 0.058,
+      "eps": -294.15,
+      "forwardEps": null,
+      "bookValue": 30.612,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": 1701129600,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": 0.43,
+      "historicalData": [
+        {
+          "Close": 4.699999809265137,
+          "Volume": 0
+        },
+        {
+          "Close": 4.690000057220459,
+          "Volume": 13851931
+        },
+        {
+          "Close": 4.760000228881836,
+          "Volume": 10553089
+        },
+        {
+          "Close": 4.679999828338623,
+          "Volume": 15190192
+        },
+        {
+          "Close": 4.679999828338623,
+          "Volume": 11559466
+        },
+        {
+          "Close": 4.630000114440918,
+          "Volume": 14551255
+        },
+        {
+          "Close": 4.599999904632568,
+          "Volume": 9374456
+        },
+        {
+          "Close": 4.5,
+          "Volume": 9772207
+        },
+        {
+          "Close": 4.460000038146973,
+          "Volume": 6905292
+        },
+        {
+          "Close": 4.440000057220459,
+          "Volume": 9358508
+        },
+        {
+          "Close": 4.489999771118164,
+          "Volume": 9622298
+        },
+        {
+          "Close": 4.570000171661377,
+          "Volume": 9064975
+        },
+        {
+          "Close": 4.53000020980835,
+          "Volume": 10152345
+        },
+        {
+          "Close": 4.480000019073486,
+          "Volume": 7653396
+        },
+        {
+          "Close": 4.510000228881836,
+          "Volume": 7467444
+        },
+        {
+          "Close": 4.46999979019165,
+          "Volume": 7024568
+        },
+        {
+          "Close": 4.460000038146973,
+          "Volume": 7053459
+        },
+        {
+          "Close": 4.409999847412109,
+          "Volume": 8915540
+        },
+        {
+          "Close": 4.369999885559082,
+          "Volume": 8725435
+        },
+        {
+          "Close": 4.340000152587891,
+          "Volume": 10517616
+        },
+        {
+          "Close": 4.340000152587891,
+          "Volume": 5031122
+        },
+        {
+          "Close": 4.340000152587891,
+          "Volume": 6043979
+        },
+        {
+          "Close": 4.360000133514404,
+          "Volume": 11389382
+        },
+        {
+          "Close": 4.349999904632568,
+          "Volume": 7002705
+        },
+        {
+          "Close": 4.369999885559082,
+          "Volume": 6086111
+        },
+        {
+          "Close": 4.369999885559082,
+          "Volume": 9703850
+        },
+        {
+          "Close": 4.320000171661377,
+          "Volume": 6949580
+        },
+        {
+          "Close": 4.369999885559082,
+          "Volume": 8155017
+        },
+        {
+          "Close": 4.199999809265137,
+          "Volume": 9597316
+        },
+        {
+          "Close": 4.159999847412109,
+          "Volume": 5628319
+        }
+      ],
+      "heldPercentInsiders": 0.59215,
+      "heldPercentInstitutions": 0.01968
+    },
+    {
       "code": "KBORU",
       "symbol": "KBORU.IS",
       "name": "KUZEY BORU",
@@ -53544,10 +53922,10 @@
       "eps": -1.18,
       "forwardEps": null,
       "bookValue": 6.593,
-      "dividendRate": 0.02,
-      "dividendYield": 0.23,
-      "exDividendDate": 1777852800,
-      "payoutRatio": 0.1269,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -53922,10 +54300,10 @@
       "eps": 2.79,
       "forwardEps": null,
       "bookValue": 18.352,
-      "dividendRate": 0.42,
-      "dividendYield": 2.79,
-      "exDividendDate": 1790726400,
-      "payoutRatio": 0.0,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -54680,8 +55058,8 @@
       "bookValue": 3.589,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1540857600,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -56003,8 +56381,8 @@
       "bookValue": 984.049,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1526947200,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -56570,8 +56948,8 @@
       "bookValue": 89.211,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1680048000,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": 77.8,
       "targetLowPrice": 67.5,
       "targetMeanPrice": 71.76667,
@@ -56948,8 +57326,8 @@
       "bookValue": 8.381,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1701129600,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -57137,8 +57515,8 @@
       "bookValue": 8.381,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1701129600,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -57704,8 +58082,8 @@
       "bookValue": 4.98,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1700179200,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -58647,10 +59025,10 @@
       "eps": 1.46,
       "forwardEps": null,
       "bookValue": 7.127,
-      "dividendRate": 0.39,
-      "dividendYield": 0.2,
-      "exDividendDate": 1784592000,
-      "payoutRatio": 0.066,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -60728,8 +61106,8 @@
       "bookValue": 58.567,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1685318400,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -61484,8 +61862,8 @@
       "bookValue": 11.039,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1697587200,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -61674,7 +62052,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -62430,7 +62808,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -63186,7 +63564,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -63699,6 +64077,195 @@
       "heldPercentInstitutions": 0.06802
     },
     {
+      "code": "MERIT",
+      "symbol": "MERIT.IS",
+      "name": "Merit Turizm Yatirim ve Isletme Anonim Sirketi",
+      "shortName": "MERIT TURIZM",
+      "price": 18.1,
+      "change": 0.08,
+      "changeRate": 0.44,
+      "previousClose": 18.02,
+      "open": 18.02,
+      "dayLow": 17.73,
+      "dayHigh": 18.2,
+      "fiftyTwoWeekLow": 14.31,
+      "fiftyTwoWeekHigh": 25.0,
+      "fiftyDayAverage": 16.95,
+      "twoHundredDayAverage": 17.74,
+      "volume": "2,674,033",
+      "averageVolume": 4652848,
+      "averageVolume10days": 5301669,
+      "marketCap": 6092460032,
+      "enterpriseValue": 6059805696,
+      "sharesOutstanding": 336600000,
+      "sector": "Consumer Cyclical",
+      "industry": "Resorts & Casinos",
+      "website": "https://www.meritturizm.com",
+      "address": "Etiler Mahallesi, Bade Sokak No.9",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "phone": "90 212 358 04 44",
+      "description": "Merit Turizm Yatirim ve Isletme Anonim Sirketi, together with its subsidiaries, engages in the operation and management of hotels in Turkey and internationally. It operates hotels under the Merit Lefkosa, Merit Crystal Cove, Merit Park, Merit Royal, Liman Hotel by Merit, Merit Royal Diamond Hotel, Merit Royal Gardens, Merit Starlit, and Merit Grand Mosta brands. The company was incorporated in 1988 and is based in Istanbul, Turkey. Merit Turizm Yatirim ve Isletme Anonim Sirketi operates as a subsidiary of Net Holding A.S.",
+      "pe": 8.044445,
+      "forwardPE": null,
+      "priceToBook": 0.31992364,
+      "pegRatio": null,
+      "priceToSales": 18.347225,
+      "enterpriseToRevenue": 18.249,
+      "enterpriseToEbitda": null,
+      "profitMargins": 2.28811,
+      "grossMargins": 0.96239996,
+      "operatingMargins": -0.04044,
+      "returnOnAssets": 0.0074299998,
+      "returnOnEquity": 0.05095,
+      "totalRevenue": 332064384,
+      "revenuePerShare": 0.987,
+      "totalCash": 5726490,
+      "totalDebt": 0,
+      "debtToEquity": null,
+      "currentRatio": 7.943,
+      "quickRatio": 6.859,
+      "eps": 2.25,
+      "forwardEps": null,
+      "bookValue": 56.576,
+      "dividendRate": 0.14,
+      "dividendYield": 0.81,
+      "exDividendDate": 1750032000,
+      "payoutRatio": 0.0622,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": 0.236,
+      "historicalData": [
+        {
+          "Close": 16.0,
+          "Volume": 0
+        },
+        {
+          "Close": 16.399999618530273,
+          "Volume": 4433470
+        },
+        {
+          "Close": 16.780000686645508,
+          "Volume": 3196701
+        },
+        {
+          "Close": 16.520000457763672,
+          "Volume": 2414972
+        },
+        {
+          "Close": 16.65999984741211,
+          "Volume": 2445147
+        },
+        {
+          "Close": 16.40999984741211,
+          "Volume": 1640199
+        },
+        {
+          "Close": 17.049999237060547,
+          "Volume": 6188043
+        },
+        {
+          "Close": 17.729999542236328,
+          "Volume": 13121239
+        },
+        {
+          "Close": 17.149999618530273,
+          "Volume": 5272055
+        },
+        {
+          "Close": 16.729999542236328,
+          "Volume": 4084360
+        },
+        {
+          "Close": 16.760000228881836,
+          "Volume": 3511531
+        },
+        {
+          "Close": 17.229999542236328,
+          "Volume": 5271466
+        },
+        {
+          "Close": 17.75,
+          "Volume": 5797910
+        },
+        {
+          "Close": 17.43000030517578,
+          "Volume": 3749603
+        },
+        {
+          "Close": 17.940000534057617,
+          "Volume": 6111270
+        },
+        {
+          "Close": 18.899999618530273,
+          "Volume": 9947645
+        },
+        {
+          "Close": 18.969999313354492,
+          "Volume": 8823638
+        },
+        {
+          "Close": 18.639999389648438,
+          "Volume": 3723436
+        },
+        {
+          "Close": 17.780000686645508,
+          "Volume": 4357557
+        },
+        {
+          "Close": 17.540000915527344,
+          "Volume": 3750667
+        },
+        {
+          "Close": 17.040000915527344,
+          "Volume": 3640055
+        },
+        {
+          "Close": 17.139999389648438,
+          "Volume": 4373033
+        },
+        {
+          "Close": 17.010000228881836,
+          "Volume": 3141344
+        },
+        {
+          "Close": 17.280000686645508,
+          "Volume": 9496533
+        },
+        {
+          "Close": 17.450000762939453,
+          "Volume": 6499605
+        },
+        {
+          "Close": 18.0,
+          "Volume": 7471125
+        },
+        {
+          "Close": 17.649999618530273,
+          "Volume": 4432207
+        },
+        {
+          "Close": 18.110000610351562,
+          "Volume": 4444374
+        },
+        {
+          "Close": 18.020000457763672,
+          "Volume": 5767748
+        },
+        {
+          "Close": 18.100000381469727,
+          "Volume": 2674033
+        }
+      ],
+      "heldPercentInsiders": 0.7094,
+      "heldPercentInstitutions": 0.00093000004
+    },
+    {
       "code": "MERKO",
       "symbol": "MERKO.IS",
       "name": "Merko Gida Sanayi ve Ticaret A.S.",
@@ -63753,7 +64320,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -64698,7 +65265,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -68477,8 +69044,8 @@
       "bookValue": 17.065,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1699401600,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -68855,8 +69422,8 @@
       "bookValue": 3.3,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1698278400,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -69987,10 +70554,10 @@
       "eps": 1.8,
       "forwardEps": null,
       "bookValue": 14.274,
-      "dividendRate": 1.0,
-      "dividendYield": 5.02,
-      "exDividendDate": 1761782400,
-      "payoutRatio": 0.5556,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": 38.92,
       "targetLowPrice": 33.35,
       "targetMeanPrice": 36.16,
@@ -70743,10 +71310,10 @@
       "eps": 0.05,
       "forwardEps": null,
       "bookValue": 7.158,
-      "dividendRate": 0.02,
-      "dividendYield": 0.81,
-      "exDividendDate": 1778544000,
-      "payoutRatio": 0.0,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -71123,7 +71690,7 @@
       "bookValue": 4.423,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1557878400,
+      "exDividendDate": null,
       "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -72069,7 +72636,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -72258,7 +72825,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -73956,10 +74523,10 @@
       "eps": 2.27,
       "forwardEps": null,
       "bookValue": 38.42,
-      "dividendRate": 0.76,
-      "dividendYield": 3.42,
-      "exDividendDate": 1762992000,
-      "payoutRatio": 0.3352,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -75092,8 +75659,8 @@
       "bookValue": 4.027,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1684972800,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -75281,8 +75848,8 @@
       "bookValue": 34.358,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1721692800,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -75471,7 +76038,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -77738,8 +78305,8 @@
       "bookValue": 47.721,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1306800000,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": 33.0,
       "targetLowPrice": 33.0,
       "targetMeanPrice": 33.0,
@@ -78446,9 +79013,9 @@
       "name": "San-el Mühendislik Elektrik Taahhüt Sanayi ve Ticaret A.S.",
       "shortName": "SANEL MUHENDISLIK",
       "price": 80.85,
-      "change": 0.0,
-      "changeRate": 0.0,
-      "previousClose": 80.85,
+      "change": 7.35,
+      "changeRate": 10.0,
+      "previousClose": 73.5,
       "open": 78.5,
       "dayLow": 78.5,
       "dayHigh": 80.85,
@@ -78504,7 +79071,128 @@
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
       "beta": -0.253,
-      "historicalData": [],
+      "historicalData": [
+        {
+          "Close": 40.63999938964844,
+          "Volume": 0
+        },
+        {
+          "Close": 44.70000076293945,
+          "Volume": 813710
+        },
+        {
+          "Close": 49.15999984741211,
+          "Volume": 994742
+        },
+        {
+          "Close": 54.04999923706055,
+          "Volume": 1221048
+        },
+        {
+          "Close": 52.900001525878906,
+          "Volume": 1285416
+        },
+        {
+          "Close": 58.150001525878906,
+          "Volume": 1019438
+        },
+        {
+          "Close": 56.75,
+          "Volume": 1120171
+        },
+        {
+          "Close": 55.0,
+          "Volume": 966073
+        },
+        {
+          "Close": 50.20000076293945,
+          "Volume": 696358
+        },
+        {
+          "Close": 53.849998474121094,
+          "Volume": 692736
+        },
+        {
+          "Close": 53.0,
+          "Volume": 618620
+        },
+        {
+          "Close": 50.099998474121094,
+          "Volume": 538412
+        },
+        {
+          "Close": 51.0,
+          "Volume": 379016
+        },
+        {
+          "Close": 56.099998474121094,
+          "Volume": 660279
+        },
+        {
+          "Close": 61.70000076293945,
+          "Volume": 590844
+        },
+        {
+          "Close": 67.8499984741211,
+          "Volume": 1393087
+        },
+        {
+          "Close": 74.5999984741211,
+          "Volume": 1358032
+        },
+        {
+          "Close": 72.94999694824219,
+          "Volume": 1213973
+        },
+        {
+          "Close": 70.69999694824219,
+          "Volume": 884079
+        },
+        {
+          "Close": 71.25,
+          "Volume": 396897
+        },
+        {
+          "Close": 64.1500015258789,
+          "Volume": 440945
+        },
+        {
+          "Close": 70.55000305175781,
+          "Volume": 700482
+        },
+        {
+          "Close": 72.19999694824219,
+          "Volume": 827957
+        },
+        {
+          "Close": 79.0999984741211,
+          "Volume": 1137405
+        },
+        {
+          "Close": 85.9000015258789,
+          "Volume": 966923
+        },
+        {
+          "Close": 83.8499984741211,
+          "Volume": 663954
+        },
+        {
+          "Close": 75.5,
+          "Volume": 222887
+        },
+        {
+          "Close": 69.8499984741211,
+          "Volume": 357824
+        },
+        {
+          "Close": 73.5,
+          "Volume": 199464
+        },
+        {
+          "Close": 80.8499984741211,
+          "Volume": 277925
+        }
+      ],
       "heldPercentInsiders": 0.20251,
       "heldPercentInstitutions": 0.0
     },
@@ -79505,10 +80193,10 @@
       "eps": 1.2,
       "forwardEps": null,
       "bookValue": 30.996,
-      "dividendRate": 0.61,
-      "dividendYield": 1.28,
-      "exDividendDate": 1743638400,
-      "payoutRatio": 0.0,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -79885,8 +80573,8 @@
       "bookValue": 10.183,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1712534400,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -84611,7 +85299,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": 0.0,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -85933,8 +86621,8 @@
       "bookValue": 58.898,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": 1654646400,
-      "payoutRatio": 0.0,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -86120,10 +86808,10 @@
       "eps": 5.55,
       "forwardEps": 1.36,
       "bookValue": 55.395,
-      "dividendRate": 3.41,
-      "dividendYield": 8.32,
-      "exDividendDate": 1778630400,
-      "payoutRatio": 0.3323,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": 88.0,
       "targetLowPrice": 88.0,
       "targetMeanPrice": 88.0,
@@ -91957,7 +92645,7 @@
       "country": "Turkey",
       "phone": "90 216 494 26 76",
       "description": "Yeo Teknoloji Enerji Ve Endustri Anonim Sirketi engages in the design, engineering, procurement, integration, installation, and commissioning of automation, electrification, and digitization solutions in Turkey and internationally. It offers turnkey construction services comprising engineering, procurement, construction, assembly, testing, and commissioning processes for air and gas-insulated high-voltage substations and transmission lines; wind energy services in the fields of electrification, control systems, and construction; engages in the energy investment business; engineering, procurement, construction, and finance solutions; and end-to-end solutions for renewable energy. It also undertakes solar projects. In addition, it engages in energy storage and battery production business. Yeo Teknoloji Enerji Ve Endustri Anonim Sirketi was founded in 2004 and is based in Istanbul, Turkey.",
-      "pe": 19.536423,
+      "pe": 19.579645,
       "forwardPE": null,
       "priceToBook": 6.904353,
       "pegRatio": null,
@@ -91976,7 +92664,7 @@
       "debtToEquity": 174.719,
       "currentRatio": 1.039,
       "quickRatio": 0.785,
-      "eps": 4.53,
+      "eps": 4.52,
       "forwardEps": null,
       "bookValue": 12.818,
       "dividendRate": null,
@@ -92546,10 +93234,10 @@
       "eps": 0.84,
       "forwardEps": null,
       "bookValue": 10.167,
-      "dividendRate": 0.37,
-      "dividendYield": 4.15,
-      "exDividendDate": 1777248000,
-      "payoutRatio": 0.0454,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
