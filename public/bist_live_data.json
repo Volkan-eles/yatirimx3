@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-07-10T19:07:39.836567",
+  "last_update": "2026-07-10T20:55:34.323733",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 498,
-  "successful": 498,
-  "failed": 33,
+  "total_stocks": 499,
+  "successful": 499,
+  "failed": 32,
   "stocks": [
     {
       "code": "GARAN",
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 53.600986,
-      "targetLowPrice": 36.830124,
-      "targetMeanPrice": 46.802914,
-      "targetMedianPrice": 47.540924,
+      "targetHighPrice": 53.58581,
+      "targetLowPrice": 36.8197,
+      "targetMeanPrice": 46.789665,
+      "targetMedianPrice": 47.527466,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.37,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 514.60474,
-      "targetLowPrice": 380.84293,
-      "targetMeanPrice": 433.06848,
-      "targetMedianPrice": 430.36642,
+      "targetHighPrice": 514.13226,
+      "targetLowPrice": 380.4933,
+      "targetMeanPrice": 432.6709,
+      "targetMedianPrice": 429.9713,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -12667,6 +12667,195 @@
       ],
       "heldPercentInsiders": 0.71564,
       "heldPercentInstitutions": 0.01753
+    },
+    {
+      "code": "AKSGY",
+      "symbol": "AKSGY.IS",
+      "name": "Akis Gayrimenkul Yatirim Ortakligi A.S.",
+      "shortName": "AKIS GMYO",
+      "price": 9.66,
+      "change": 0.28,
+      "changeRate": 2.99,
+      "previousClose": 9.38,
+      "open": 9.37,
+      "dayLow": 9.37,
+      "dayHigh": 9.76,
+      "fiftyTwoWeekLow": 6.82,
+      "fiftyTwoWeekHigh": 10.0,
+      "fiftyDayAverage": 9.32,
+      "twoHundredDayAverage": 8.45,
+      "volume": "4,990,123",
+      "averageVolume": 4967842,
+      "averageVolume10days": 4079472,
+      "marketCap": 23328901120,
+      "enterpriseValue": 21797758976,
+      "sharesOutstanding": 2415000000,
+      "sector": "Real Estate",
+      "industry": "REIT - Diversified",
+      "website": "https://www.akisgyo.com",
+      "address": "Akasya AVM",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "phone": "90 212 393 01 00",
+      "description": "Akis Gayrimenkul Yatirim A.S is based in Turkey.",
+      "pe": 7.3181815,
+      "forwardPE": null,
+      "priceToBook": 0.47288036,
+      "pegRatio": null,
+      "priceToSales": 5.1096034,
+      "enterpriseToRevenue": 4.774,
+      "enterpriseToEbitda": 7.019,
+      "profitMargins": 0.69421995,
+      "grossMargins": 0.75835997,
+      "operatingMargins": 0.63485,
+      "returnOnAssets": 0.03765,
+      "returnOnEquity": 0.07501,
+      "totalRevenue": 4565697024,
+      "revenuePerShare": 1.893,
+      "totalCash": 2738508032,
+      "totalDebt": 1930466048,
+      "debtToEquity": 3.921,
+      "currentRatio": 2.902,
+      "quickRatio": 1.902,
+      "eps": 1.32,
+      "forwardEps": null,
+      "bookValue": 20.428,
+      "dividendRate": 0.46,
+      "dividendYield": 4.86,
+      "exDividendDate": 1776643200,
+      "payoutRatio": 0.0941,
+      "targetHighPrice": 14.03,
+      "targetLowPrice": 12.0,
+      "targetMeanPrice": 13.015,
+      "targetMedianPrice": 13.015,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 2,
+      "beta": -0.092,
+      "historicalData": [
+        {
+          "Close": 9.260000228881836,
+          "Volume": 6680278
+        },
+        {
+          "Close": 9.25,
+          "Volume": 5848273
+        },
+        {
+          "Close": 9.239999771118164,
+          "Volume": 3414102
+        },
+        {
+          "Close": 9.170000076293945,
+          "Volume": 3003833
+        },
+        {
+          "Close": 9.170000076293945,
+          "Volume": 4469738
+        },
+        {
+          "Close": 9.180000305175781,
+          "Volume": 7302994
+        },
+        {
+          "Close": 9.15999984741211,
+          "Volume": 9632597
+        },
+        {
+          "Close": 9.15999984741211,
+          "Volume": 1617704
+        },
+        {
+          "Close": 9.0600004196167,
+          "Volume": 9943938
+        },
+        {
+          "Close": 9.119999885559082,
+          "Volume": 3288322
+        },
+        {
+          "Close": 9.390000343322754,
+          "Volume": 5651295
+        },
+        {
+          "Close": 9.359999656677246,
+          "Volume": 6547934
+        },
+        {
+          "Close": 9.319999694824219,
+          "Volume": 2037410
+        },
+        {
+          "Close": 9.4399995803833,
+          "Volume": 1801300
+        },
+        {
+          "Close": 9.4399995803833,
+          "Volume": 1679264
+        },
+        {
+          "Close": 9.430000305175781,
+          "Volume": 1627618
+        },
+        {
+          "Close": 9.359999656677246,
+          "Volume": 2843466
+        },
+        {
+          "Close": 9.729999542236328,
+          "Volume": 8975582
+        },
+        {
+          "Close": 9.789999961853027,
+          "Volume": 11327316
+        },
+        {
+          "Close": 9.800000190734863,
+          "Volume": 17235120
+        },
+        {
+          "Close": 9.489999771118164,
+          "Volume": 5664071
+        },
+        {
+          "Close": 9.399999618530273,
+          "Volume": 3530285
+        },
+        {
+          "Close": 9.510000228881836,
+          "Volume": 2091468
+        },
+        {
+          "Close": 9.550000190734863,
+          "Volume": 3146246
+        },
+        {
+          "Close": 9.609999656677246,
+          "Volume": 3938944
+        },
+        {
+          "Close": 9.579999923706055,
+          "Volume": 1351437
+        },
+        {
+          "Close": 9.579999923706055,
+          "Volume": 1885912
+        },
+        {
+          "Close": 9.399999618530273,
+          "Volume": 949160
+        },
+        {
+          "Close": 9.380000114440918,
+          "Volume": 1002084
+        },
+        {
+          "Close": 9.65999984741211,
+          "Volume": 4990123
+        }
+      ],
+      "heldPercentInsiders": 0.52757,
+      "heldPercentInstitutions": 0.030539999
     },
     {
       "code": "AKSUE",
@@ -33490,7 +33679,7 @@
       "description": "Ekos Teknoloji ve Elektrik Anonim Sirketi operates as a technology and service provider company for electrical infrastructure in Turkey and internationally. The company provides medium-voltage switchgears, compact transformer substations, control and automation panels, mobile transformer substations, NTP/PTP time servers, and EKOS mobility solutions, as well as transformer preventive maintenance sensors and software, automation products, medium voltage capacitors, gas-insulated switching products (GIS) up to 20Kv. It also resells products of energy sector. It serves power producers, network operators, and industrial and commercial consumers. The company was incorporated in 2000 and is headquartered in Balikesir, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 2.2234118,
+      "priceToBook": 2.1025987,
       "pegRatio": null,
       "priceToSales": 2.8056223,
       "enterpriseToRevenue": 2.914,
@@ -33509,7 +33698,7 @@
       "quickRatio": 0.623,
       "eps": -0.39,
       "forwardEps": null,
-      "bookValue": 2.802,
+      "bookValue": 2.963,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -45043,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.34381,
-      "targetLowPrice": 62.948914,
-      "targetMeanPrice": 68.47667,
-      "targetMedianPrice": 63.136818,
+      "targetHighPrice": 79.32017,
+      "targetLowPrice": 62.930153,
+      "targetMeanPrice": 68.45626,
+      "targetMedianPrice": 63.118,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -85087,7 +85276,7 @@
       "description": "Tek-Art Insaat Ticaret Turizm Sanayi ve Yatirimlar Anonim Sirketi engages in the tourism business in Turkey and internationally. The company invests, builds, and operates hotels, holiday villages, resorts, golf facilities, restaurants, cafeterias, casinos and entertainment venues, beaches, amusement parks, marinas, yacht docks, tourist goods outlets, and regulation schools and related facilities. It conducts hotel management activities at the Zigana Hotel resort. In addition, the company offers tourism transportation and rental car operations, as well as acts as a travel agent. Further, it operates stores, display areas, and warehouses in ports and free zones. Tek-Art Insaat Ticaret Turizm Sanayi ve Yatirimlar Anonim Sirketi was incorporated in 1987 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.5387523,
+      "priceToBook": 0.5011896,
       "pegRatio": null,
       "priceToSales": 23.62724,
       "enterpriseToRevenue": 23.224,
@@ -85106,7 +85295,7 @@
       "quickRatio": 0.568,
       "eps": -2.48,
       "forwardEps": null,
-      "bookValue": 17.986,
+      "bookValue": 19.334,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
