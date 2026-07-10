@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-07-10T17:25:11.311020",
+  "last_update": "2026-07-10T19:07:39.836567",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 499,
-  "successful": 499,
-  "failed": 32,
+  "total_stocks": 498,
+  "successful": 498,
+  "failed": 33,
   "stocks": [
     {
       "code": "GARAN",
@@ -791,7 +791,7 @@
       "country": "Turkey",
       "phone": "90 216 724 10 00",
       "description": "Türkiye Vakiflar Bankasi Türk Anonim Ortakligi, together with its subsidiaries, provides corporate, commercial, SME, agricultural, and modern banking products and services in Turkey and internationally. It offers time, demand, and term deposits accounts; mortgage, car, personal, and private banking yacht loans; housing, comprehensive, motor, compulsory traffic, travel and complementary health, and compulsory earthquake insurance; and individual pension contract, private pension agreement, and life insurance products. The company also provides investment products, such as investment funds, Government Bonds and treasury bills, eurobond, bank bonds, gold trading, VakifBank Gold, stocks, VIOP, safe deposit boxes, options, dual currency deposit, contingent option, currency swap, and forward agreements. In addition, it offers export / import transactions, foreign currency transfer, Eximbank Loans, and foreign trade solutions; money transfer services; and factoring and leasing services, as well as digital banking services. The company was incorporated in 1954 and is headquartered in Istanbul, Turkey.",
-      "pe": 4.059896,
+      "pe": 4.0546165,
       "forwardPE": 5.5978456,
       "priceToBook": 0.9411978,
       "pegRatio": 0.45,
@@ -810,7 +810,7 @@
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
-      "eps": 7.68,
+      "eps": 7.69,
       "forwardEps": 5.57,
       "bookValue": 33.128,
       "dividendRate": null,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 53.595055,
-      "targetLowPrice": 36.826046,
-      "targetMeanPrice": 46.797737,
-      "targetMedianPrice": 47.535664,
+      "targetHighPrice": 53.600986,
+      "targetLowPrice": 36.830124,
+      "targetMeanPrice": 46.802914,
+      "targetMedianPrice": 47.540924,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -3059,7 +3059,7 @@
       "country": "Turkey",
       "phone": "90 444 1 444",
       "description": "Türk Telekomünikasyon Anonim Sirketi, together with its subsidiaries, operates as an integrated telecommunication company in Turkey. The company operates in two segments, Fixed Line and Mobile. The company offers mobile, Internet, phone and TV products and services under the Türk Telekom brand. It also provides PSTN and wholesale broadband services; retail internet services, IPTV, satellite TV, Web TV, mobile TV, and smart TV services; convergence technologies; IT solutions; online education software; call center services; project development and corporate venture capital services; electric supply and sales services; combined facilities support services; wholesale data and capacity services; and financial technology services. In addition, the company offers TV broadcasting and VOD services; telecommunications devices; payment and e-money services; and web portal and computer programming services. The company was founded in 1840 and is headquartered in Ankara, Turkey. Türk Telekomünikasyon Anonim Sirketi is a subsidiary of LYY Telekomünikasyon A.S.",
-      "pe": 7.6015725,
+      "pe": 7.5916233,
       "forwardPE": 7.8697424,
       "priceToBook": 0.83322555,
       "pegRatio": 0.78,
@@ -3078,7 +3078,7 @@
       "debtToEquity": 58.283,
       "currentRatio": 1.008,
       "quickRatio": 0.636,
-      "eps": 7.63,
+      "eps": 7.64,
       "forwardEps": 7.37,
       "bookValue": 69.609,
       "dividendRate": null,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.37,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 514.9237,
-      "targetLowPrice": 381.079,
-      "targetMeanPrice": 433.33694,
-      "targetMedianPrice": 430.6332,
+      "targetHighPrice": 514.60474,
+      "targetLowPrice": 380.84293,
+      "targetMeanPrice": 433.06848,
+      "targetMedianPrice": 430.36642,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -5546,8 +5546,8 @@
       "targetLowPrice": 120.0,
       "targetMeanPrice": 136.40334,
       "targetMedianPrice": 131.0,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 2.2,
+      "recommendationKey": "buy",
       "numberOfAnalystOpinions": 6,
       "beta": 0.455,
       "historicalData": [
@@ -12667,195 +12667,6 @@
       ],
       "heldPercentInsiders": 0.71564,
       "heldPercentInstitutions": 0.01753
-    },
-    {
-      "code": "AKSGY",
-      "symbol": "AKSGY.IS",
-      "name": "Akis Gayrimenkul Yatirim Ortakligi A.S.",
-      "shortName": "AKIS GMYO",
-      "price": 9.66,
-      "change": 0.28,
-      "changeRate": 2.99,
-      "previousClose": 9.38,
-      "open": 9.37,
-      "dayLow": 9.37,
-      "dayHigh": 9.76,
-      "fiftyTwoWeekLow": 6.82,
-      "fiftyTwoWeekHigh": 10.0,
-      "fiftyDayAverage": 9.32,
-      "twoHundredDayAverage": 8.45,
-      "volume": "4,990,123",
-      "averageVolume": 4967842,
-      "averageVolume10days": 4079472,
-      "marketCap": 23328901120,
-      "enterpriseValue": 21797758976,
-      "sharesOutstanding": 2415000000,
-      "sector": "Real Estate",
-      "industry": "REIT - Diversified",
-      "website": "https://www.akisgyo.com",
-      "address": "Akasya AVM",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 393 01 00",
-      "description": "Akis Gayrimenkul Yatirim A.S is based in Turkey.",
-      "pe": 7.3181815,
-      "forwardPE": null,
-      "priceToBook": 0.47288036,
-      "pegRatio": null,
-      "priceToSales": 5.1096034,
-      "enterpriseToRevenue": 4.774,
-      "enterpriseToEbitda": 7.019,
-      "profitMargins": 0.69421995,
-      "grossMargins": 0.75835997,
-      "operatingMargins": 0.63485,
-      "returnOnAssets": 0.03765,
-      "returnOnEquity": 0.07501,
-      "totalRevenue": 4565697024,
-      "revenuePerShare": 1.893,
-      "totalCash": 2738508032,
-      "totalDebt": 1930466048,
-      "debtToEquity": 3.921,
-      "currentRatio": 2.902,
-      "quickRatio": 1.902,
-      "eps": 1.32,
-      "forwardEps": null,
-      "bookValue": 20.428,
-      "dividendRate": 0.46,
-      "dividendYield": 4.86,
-      "exDividendDate": 1776643200,
-      "payoutRatio": 0.0941,
-      "targetHighPrice": 14.03,
-      "targetLowPrice": 12.0,
-      "targetMeanPrice": 13.015,
-      "targetMedianPrice": 13.015,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 2,
-      "beta": -0.092,
-      "historicalData": [
-        {
-          "Close": 9.260000228881836,
-          "Volume": 6680278
-        },
-        {
-          "Close": 9.25,
-          "Volume": 5848273
-        },
-        {
-          "Close": 9.239999771118164,
-          "Volume": 3414102
-        },
-        {
-          "Close": 9.170000076293945,
-          "Volume": 3003833
-        },
-        {
-          "Close": 9.170000076293945,
-          "Volume": 4469738
-        },
-        {
-          "Close": 9.180000305175781,
-          "Volume": 7302994
-        },
-        {
-          "Close": 9.15999984741211,
-          "Volume": 9632597
-        },
-        {
-          "Close": 9.15999984741211,
-          "Volume": 1617704
-        },
-        {
-          "Close": 9.0600004196167,
-          "Volume": 9943938
-        },
-        {
-          "Close": 9.119999885559082,
-          "Volume": 3288322
-        },
-        {
-          "Close": 9.390000343322754,
-          "Volume": 5651295
-        },
-        {
-          "Close": 9.359999656677246,
-          "Volume": 6547934
-        },
-        {
-          "Close": 9.319999694824219,
-          "Volume": 2037410
-        },
-        {
-          "Close": 9.4399995803833,
-          "Volume": 1801300
-        },
-        {
-          "Close": 9.4399995803833,
-          "Volume": 1679264
-        },
-        {
-          "Close": 9.430000305175781,
-          "Volume": 1627618
-        },
-        {
-          "Close": 9.359999656677246,
-          "Volume": 2843466
-        },
-        {
-          "Close": 9.729999542236328,
-          "Volume": 8975582
-        },
-        {
-          "Close": 9.789999961853027,
-          "Volume": 11327316
-        },
-        {
-          "Close": 9.800000190734863,
-          "Volume": 17235120
-        },
-        {
-          "Close": 9.489999771118164,
-          "Volume": 5664071
-        },
-        {
-          "Close": 9.399999618530273,
-          "Volume": 3530285
-        },
-        {
-          "Close": 9.510000228881836,
-          "Volume": 2091468
-        },
-        {
-          "Close": 9.550000190734863,
-          "Volume": 3146246
-        },
-        {
-          "Close": 9.609999656677246,
-          "Volume": 3938944
-        },
-        {
-          "Close": 9.579999923706055,
-          "Volume": 1351437
-        },
-        {
-          "Close": 9.579999923706055,
-          "Volume": 1885912
-        },
-        {
-          "Close": 9.399999618530273,
-          "Volume": 949160
-        },
-        {
-          "Close": 9.380000114440918,
-          "Volume": 1002084
-        },
-        {
-          "Close": 9.65999984741211,
-          "Volume": 4990123
-        }
-      ],
-      "heldPercentInsiders": 0.52757,
-      "heldPercentInstitutions": 0.030539999
     },
     {
       "code": "AKSUE",
@@ -45232,10 +45043,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.33706,
-      "targetLowPrice": 62.943554,
-      "targetMeanPrice": 68.47084,
-      "targetMedianPrice": 63.131443,
+      "targetHighPrice": 79.34381,
+      "targetLowPrice": 62.948914,
+      "targetMeanPrice": 68.47667,
+      "targetMedianPrice": 63.136818,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -62802,7 +62613,7 @@
       "debtToEquity": 32.29,
       "currentRatio": 0.541,
       "quickRatio": 0.439,
-      "eps": -0.38,
+      "eps": -0.39,
       "forwardEps": null,
       "bookValue": 4.863,
       "dividendRate": null,
