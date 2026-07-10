@@ -23,10 +23,10 @@
     {
       "company": "SSAAT",
       "link": "https://halkarz.com/saat-ve-saat-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "Onaylı",
       "code": "SSAAT",
       "price": "56,00 TL",
-      "dates": "6-7-8 Temmuz 202609:00-17:00",
+      "dates": "Tarih Bekleniyor",
       "distributionType": "Eşit Dağıtım **",
       "lotCount": "13.388.991 Lot"
     },
@@ -37,28 +37,28 @@
       "code": "ISVEA",
       "price": "20,90 TL",
       "dates": "10 Temmuz 2026",
-      "distributionType": "Eşit Dağıtım **",
+      "distributionType": "Eşit Dağıtım",
       "lotCount": "67.000.000 Lot"
     },
     {
       "company": "EKIM",
       "link": "https://halkarz.com/ekim-turizm-tic-ve-san-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "EKIM",
       "price": "30,26 TL",
       "dates": "9 Temmuz 2026",
-      "distributionType": "Eşit Dağıtım **",
+      "distributionType": "Eşit Dağıtım",
       "lotCount": "162.000.000 Lot"
     },
     {
       "company": "GOLDA",
       "link": "https://halkarz.com/golda-gida-san-ve-tic-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "GOLDA",
       "price": "9,20 TL",
       "dates": "8 Temmuz 2026",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "87.499.998 Lot"
+      "distributionType": "Eşit Dağıtım",
+      "lotCount": "%34,99"
     },
     {
       "company": "SOHOE",
@@ -77,8 +77,8 @@
       "code": "ORZAX",
       "price": "69,00 TL",
       "dates": "7 Temmuz 2026",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "52.500.000 Lot"
+      "distributionType": "Eşit Dağıtım",
+      "lotCount": "%14,39"
     },
     {
       "company": "BETAE",
@@ -4693,7 +4693,7 @@
     {
       "company": "SAHOL",
       "link": "https://halkarz.com/haci-omer-sabanci-holding-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "SAHOL",
       "price": "5.400 TL *YTL Öncesi",
       "dates": "8 Temmuz 1997",
@@ -4853,7 +4853,7 @@
     {
       "company": "AVGYO",
       "link": "https://halkarz.com/avrasya-gayrimenkul-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "AVGYO",
       "price": "1.000 TL  *YTL Öncesi",
       "dates": "8 Temmuz 1996",
@@ -5633,7 +5633,7 @@
     {
       "company": "PETKM",
       "link": "https://halkarz.com/petkim-petrokimya-holding-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "PETKM",
       "price": "2.500 TL *YTL Öncesi",
       "dates": "9 Temmuz 1990",
