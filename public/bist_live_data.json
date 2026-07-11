@@ -1,199 +1,10 @@
 {
-  "last_update": "2026-07-11T20:57:37.015957",
+  "last_update": "2026-07-11T21:57:14.610445",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 499,
-  "successful": 499,
-  "failed": 32,
+  "total_stocks": 498,
+  "successful": 498,
+  "failed": 33,
   "stocks": [
-    {
-      "code": "GARAN",
-      "symbol": "GARAN.IS",
-      "name": "Turkiye Garanti Bankasi A.S.",
-      "shortName": "GARANTI BANKASI",
-      "price": 129.0,
-      "change": -1.1,
-      "changeRate": -0.85,
-      "previousClose": 130.1,
-      "open": 130.0,
-      "dayLow": 127.4,
-      "dayHigh": 132.2,
-      "fiftyTwoWeekLow": 115.4,
-      "fiftyTwoWeekHigh": 169.7,
-      "fiftyDayAverage": 132.57,
-      "twoHundredDayAverage": 138.32,
-      "volume": "30,166,209",
-      "averageVolume": 30553896,
-      "averageVolume10days": 27046977,
-      "marketCap": 541800005632,
-      "enterpriseValue": 491308351488,
-      "sharesOutstanding": 4200000000,
-      "sector": "Financial Services",
-      "industry": "Banks - Regional",
-      "website": "https://www.garantibbva.com.tr",
-      "address": "Levent Nispetiye Neighborhood, Aytar Street No:2",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 318 18 18",
-      "description": "Turkiye Garanti Bankasi A.S. provides various banking products and services in Turkey. It offers current, savings, time deposit, e-savings, YUVAM, NET, ELMA, overdraft, and gold accounts; SME general purpose, auto, mortgage, commercial, foreign currency spot, installment loans, and project loans, as well as IBOR reforms and foreign trade financing; investment funds, stocks, derivatives, Garanti BBVA e-trader platform, time barred deposit and investment lists, and derivative instruments; credit and debit cards, BonusFlas, and POS and e-commerce products; and insurance and pension products. The company also provides payment systems and services; private banking services; banking services for salary payments/entrepreneurship and women entrepreneurs; leasing fleet factoring services; investment banking and financing services; mobile and internet banking services; and ATM and cash management services. The company was founded in 1946 and is headquartered in Istanbul, Turkey. Turkiye Garanti Bankasi A.S. is a subsidiary of Banco Bilbao Vizcaya Argentaria, S.A.",
-      "pe": 4.595654,
-      "forwardPE": 3.8120568,
-      "priceToBook": 1.201744,
-      "pegRatio": 0.78,
-      "priceToSales": 1.4931941,
-      "enterpriseToRevenue": 1.354,
-      "enterpriseToEbitda": null,
-      "profitMargins": 0.32486,
-      "grossMargins": 0.0,
-      "operatingMargins": 0.45462,
-      "returnOnAssets": 0.028859999,
-      "returnOnEquity": 0.30111998,
-      "totalRevenue": 362846322688,
-      "revenuePerShare": 86.392,
-      "totalCash": 627404767232,
-      "totalDebt": 574670635008,
-      "debtToEquity": null,
-      "currentRatio": null,
-      "quickRatio": null,
-      "eps": 28.07,
-      "forwardEps": 33.84,
-      "bookValue": 107.344,
-      "dividendRate": 5.27,
-      "dividendYield": 4.08,
-      "exDividendDate": 1775520000,
-      "payoutRatio": 0.1876,
-      "targetHighPrice": 205.73,
-      "targetLowPrice": 160.0,
-      "targetMeanPrice": 185.22643,
-      "targetMedianPrice": 187.5,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 14,
-      "beta": 0.487,
-      "historicalData": [
-        {
-          "Close": 123.0999984741211,
-          "Volume": 29144689
-        },
-        {
-          "Close": 128.8000030517578,
-          "Volume": 27336972
-        },
-        {
-          "Close": 125.9000015258789,
-          "Volume": 28021323
-        },
-        {
-          "Close": 129.5,
-          "Volume": 34663394
-        },
-        {
-          "Close": 125.0,
-          "Volume": 27324337
-        },
-        {
-          "Close": 129.3000030517578,
-          "Volume": 32688674
-        },
-        {
-          "Close": 130.39999389648438,
-          "Volume": 29060981
-        },
-        {
-          "Close": 128.1999969482422,
-          "Volume": 22178509
-        },
-        {
-          "Close": 129.0,
-          "Volume": 30160639
-        },
-        {
-          "Close": 135.89999389648438,
-          "Volume": 61924913
-        },
-        {
-          "Close": 141.0,
-          "Volume": 42802777
-        },
-        {
-          "Close": 140.1999969482422,
-          "Volume": 30872322
-        },
-        {
-          "Close": 141.0,
-          "Volume": 25916912
-        },
-        {
-          "Close": 144.0,
-          "Volume": 48151372
-        },
-        {
-          "Close": 143.6999969482422,
-          "Volume": 37003568
-        },
-        {
-          "Close": 143.6999969482422,
-          "Volume": 23789135
-        },
-        {
-          "Close": 140.6999969482422,
-          "Volume": 23429822
-        },
-        {
-          "Close": 140.39999389648438,
-          "Volume": 17364392
-        },
-        {
-          "Close": 137.60000610351562,
-          "Volume": 30811428
-        },
-        {
-          "Close": 138.39999389648438,
-          "Volume": 15148665
-        },
-        {
-          "Close": 137.3000030517578,
-          "Volume": 19195726
-        },
-        {
-          "Close": 138.0,
-          "Volume": 26154176
-        },
-        {
-          "Close": 138.5,
-          "Volume": 34988961
-        },
-        {
-          "Close": 138.60000610351562,
-          "Volume": 27151226
-        },
-        {
-          "Close": 133.5,
-          "Volume": 34940065
-        },
-        {
-          "Close": 133.6999969482422,
-          "Volume": 19909940
-        },
-        {
-          "Close": 134.39999389648438,
-          "Volume": 26815700
-        },
-        {
-          "Close": 130.39999389648438,
-          "Volume": 32437081
-        },
-        {
-          "Close": 130.10000610351562,
-          "Volume": 18710694
-        },
-        {
-          "Close": 129.0,
-          "Volume": 30166209
-        }
-      ],
-      "heldPercentInsiders": 0.85974,
-      "heldPercentInstitutions": 0.023759998
-    },
     {
       "code": "AKBNK",
       "symbol": "AKBNK.IS",
@@ -1755,7 +1566,7 @@
       "debtToEquity": 76.699,
       "currentRatio": 0.555,
       "quickRatio": 0.366,
-      "eps": -2.63,
+      "eps": -2.59,
       "forwardEps": 4.18,
       "bookValue": 26.799,
       "dividendRate": null,
@@ -84707,7 +84518,7 @@
       "country": "Turkey",
       "phone": "90 216 430 00 00",
       "description": "Tat Gida Sanayi A.S., together with its subsidiaries, manufactures and sells tomato products in Turkey and internationally. The company offers tomato paste, ketchup sauces, convenience food, pickles, canned food, and ready meals. It also engages in the production, distribution, marketing, trading, and brokerage of commercial goods; food; beverages; agricultural and animal food products in frozen, dried, and powdered forms; raw materials; auxiliary and additive materials; sugary and sugar-free juices and preserves; and semi-finished and finished products. The company exports its products. The company was formerly known as Tat Konserve Sanayii AS. and changed its name to Tat Gida Sanayi A.S. in November 2013. Tat Gida Sanayi A.S. was founded in 1967 and is headquartered in Istanbul, Turkey.",
-      "pe": 12.465754,
+      "pe": 12.638889,
       "forwardPE": null,
       "priceToBook": 0.5874948,
       "pegRatio": null,
@@ -84726,7 +84537,7 @@
       "debtToEquity": 59.751,
       "currentRatio": 1.459,
       "quickRatio": 0.598,
-      "eps": 1.46,
+      "eps": 1.44,
       "forwardEps": null,
       "bookValue": 30.979,
       "dividendRate": null,
