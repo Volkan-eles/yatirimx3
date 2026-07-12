@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-07-12T11:00:06.963529",
+  "last_update": "2026-07-12T12:05:02.133708",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 498,
-  "successful": 498,
-  "failed": 33,
+  "total_stocks": 499,
+  "successful": 499,
+  "failed": 32,
   "stocks": [
     {
       "code": "GARAN",
@@ -18715,6 +18715,195 @@
       ],
       "heldPercentInsiders": 0.91705,
       "heldPercentInstitutions": 0.00021
+    },
+    {
+      "code": "BARMA",
+      "symbol": "BARMA.IS",
+      "name": "Barem Ambalaj Sanayi ve Ticaret Anonim Sirketi",
+      "shortName": "BAREM AMBALAJ",
+      "price": 69.7,
+      "change": 0.0,
+      "changeRate": 0.0,
+      "previousClose": 69.7,
+      "open": 71.0,
+      "dayLow": 68.8,
+      "dayHigh": 71.0,
+      "fiftyTwoWeekLow": 17.65,
+      "fiftyTwoWeekHigh": 82.0,
+      "fiftyDayAverage": 65.19,
+      "twoHundredDayAverage": 43.82,
+      "volume": "1,378,044",
+      "averageVolume": 3084716,
+      "averageVolume10days": 2186470,
+      "marketCap": 18296248320,
+      "enterpriseValue": 25731690496,
+      "sharesOutstanding": 262500000,
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "website": "https://www.baremambalaj.com",
+      "address": "Ibni Melek OSB Mahallesi TOSBI Yol 4",
+      "city": "Izmir",
+      "country": "Turkey",
+      "phone": "90 232 513 51 40",
+      "description": "Barem Ambalaj Sanayi ve Ticaret Anonim Sirketi manufactures and markets packaging solutions in Turkey. It offers corrugated cardboard, sheet, box paper, and offset printed box products. The company serves food, cosmetics, textiles, and electronics. It also exports its products. Barem Ambalaj Sanayi ve Ticaret Anonim Sirketi was incorporated in 1993 and is headquartered in Izmir, Turkey.",
+      "pe": 83.9759,
+      "forwardPE": null,
+      "priceToBook": 3.8504033,
+      "pegRatio": null,
+      "priceToSales": 5.0803204,
+      "enterpriseToRevenue": 7.145,
+      "enterpriseToEbitda": 50.44,
+      "profitMargins": -0.0272,
+      "grossMargins": 0.26803,
+      "operatingMargins": 0.076079994,
+      "returnOnAssets": 0.01204,
+      "returnOnEquity": -0.02316,
+      "totalRevenue": 3601396736,
+      "revenuePerShare": 13.72,
+      "totalCash": 55453248,
+      "totalDebt": 7490893312,
+      "debtToEquity": 157.648,
+      "currentRatio": 0.448,
+      "quickRatio": 0.278,
+      "eps": 0.83,
+      "forwardEps": null,
+      "bookValue": 18.102,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": 0.067,
+      "historicalData": [
+        {
+          "Close": 60.20000076293945,
+          "Volume": 2175312
+        },
+        {
+          "Close": 60.20000076293945,
+          "Volume": 2174188
+        },
+        {
+          "Close": 60.29999923706055,
+          "Volume": 2738913
+        },
+        {
+          "Close": 59.099998474121094,
+          "Volume": 1519867
+        },
+        {
+          "Close": 60.650001525878906,
+          "Volume": 2736265
+        },
+        {
+          "Close": 66.69999694824219,
+          "Volume": 9220216
+        },
+        {
+          "Close": 66.0,
+          "Volume": 7976789
+        },
+        {
+          "Close": 67.1500015258789,
+          "Volume": 6076154
+        },
+        {
+          "Close": 68.19999694824219,
+          "Volume": 4436663
+        },
+        {
+          "Close": 73.0999984741211,
+          "Volume": 3536749
+        },
+        {
+          "Close": 75.0,
+          "Volume": 4250705
+        },
+        {
+          "Close": 76.0,
+          "Volume": 4458718
+        },
+        {
+          "Close": 74.0,
+          "Volume": 2607645
+        },
+        {
+          "Close": 76.0,
+          "Volume": 2278297
+        },
+        {
+          "Close": 70.3499984741211,
+          "Volume": 4016436
+        },
+        {
+          "Close": 71.1500015258789,
+          "Volume": 2247417
+        },
+        {
+          "Close": 72.0,
+          "Volume": 10287116
+        },
+        {
+          "Close": 71.94999694824219,
+          "Volume": 1518686
+        },
+        {
+          "Close": 73.1500015258789,
+          "Volume": 1227096
+        },
+        {
+          "Close": 74.05000305175781,
+          "Volume": 1079541
+        },
+        {
+          "Close": 72.30000305175781,
+          "Volume": 2603345
+        },
+        {
+          "Close": 66.44999694824219,
+          "Volume": 8015855
+        },
+        {
+          "Close": 67.1500015258789,
+          "Volume": 1831354
+        },
+        {
+          "Close": 70.44999694824219,
+          "Volume": 2117345
+        },
+        {
+          "Close": 69.5999984741211,
+          "Volume": 1063869
+        },
+        {
+          "Close": 70.4000015258789,
+          "Volume": 1370605
+        },
+        {
+          "Close": 70.55000305175781,
+          "Volume": 2294658
+        },
+        {
+          "Close": 69.75,
+          "Volume": 791806
+        },
+        {
+          "Close": 69.69999694824219,
+          "Volume": 397823
+        },
+        {
+          "Close": 69.69999694824219,
+          "Volume": 1378044
+        }
+      ],
+      "heldPercentInsiders": 0.7021,
+      "heldPercentInstitutions": 0.0
     },
     {
       "code": "BASCM",
