@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-12T20:58:51.953342",
+  "last_update": "2026-07-12T21:58:11.530364",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.34,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 511.5964,
-      "targetLowPrice": 377.33636,
-      "targetMeanPrice": 429.95486,
-      "targetMedianPrice": 427.85056,
+      "targetHighPrice": 511.7767,
+      "targetLowPrice": 377.46933,
+      "targetMeanPrice": 430.10638,
+      "targetMedianPrice": 428.00134,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -49339,10 +49339,10 @@
       "symbol": "ISBIR.IS",
       "name": "Isbir Holding A.S.",
       "shortName": "ISBIR HOLDING",
-      "price": 69.0,
-      "change": 2.5,
+      "price": 68.0,
+      "change": 2.46,
       "changeRate": 3.76,
-      "previousClose": 66.5,
+      "previousClose": 65.54,
       "open": 67.0,
       "dayLow": 67.0,
       "dayHigh": 69.0,
@@ -49400,123 +49400,123 @@
       "beta": 0.596,
       "historicalData": [
         {
-          "Close": 78.0,
+          "Close": 76.86956787109375,
           "Volume": 33097
         },
         {
-          "Close": 78.19999694824219,
+          "Close": 77.06666564941406,
           "Volume": 30062
         },
         {
-          "Close": 77.5,
+          "Close": 76.3768081665039,
           "Volume": 24362
         },
         {
-          "Close": 77.25,
+          "Close": 76.13043212890625,
           "Volume": 35519
         },
         {
-          "Close": 76.3499984741211,
+          "Close": 75.24347686767578,
           "Volume": 20058
         },
         {
-          "Close": 75.5,
+          "Close": 74.40579986572266,
           "Volume": 30232
         },
         {
-          "Close": 75.5,
+          "Close": 74.40579986572266,
           "Volume": 25699
         },
         {
-          "Close": 74.9000015258789,
+          "Close": 73.81449127197266,
           "Volume": 13160
         },
         {
-          "Close": 73.0,
+          "Close": 71.94203186035156,
           "Volume": 32408
         },
         {
-          "Close": 74.0,
+          "Close": 72.92753601074219,
           "Volume": 24369
         },
         {
-          "Close": 75.0999984741211,
+          "Close": 74.0115966796875,
           "Volume": 35838
         },
         {
-          "Close": 75.0,
+          "Close": 73.91304016113281,
           "Volume": 22262
         },
         {
-          "Close": 73.94999694824219,
+          "Close": 72.87825775146484,
           "Volume": 39325
         },
         {
-          "Close": 73.5,
+          "Close": 72.43478393554688,
           "Volume": 27772
         },
         {
-          "Close": 73.3499984741211,
+          "Close": 72.28695678710938,
           "Volume": 19776
         },
         {
-          "Close": 73.5,
+          "Close": 72.43478393554688,
           "Volume": 29062
         },
         {
-          "Close": 72.5,
+          "Close": 71.44927215576172,
           "Volume": 21062
         },
         {
-          "Close": 71.5,
+          "Close": 70.4637680053711,
           "Volume": 31673
         },
         {
-          "Close": 72.0,
+          "Close": 70.9565200805664,
           "Volume": 19684
         },
         {
-          "Close": 71.0,
+          "Close": 69.97101593017578,
           "Volume": 14233
         },
         {
-          "Close": 70.0,
+          "Close": 68.98550415039062,
           "Volume": 24449
         },
         {
-          "Close": 69.5,
+          "Close": 68.49275207519531,
           "Volume": 30455
         },
         {
-          "Close": 70.0,
+          "Close": 68.98550415039062,
           "Volume": 24331
         },
         {
-          "Close": 69.9000015258789,
+          "Close": 68.88695526123047,
           "Volume": 18383
         },
         {
-          "Close": 69.80000305175781,
+          "Close": 68.78840637207031,
           "Volume": 19183
         },
         {
-          "Close": 68.5,
+          "Close": 67.50724792480469,
           "Volume": 37002
         },
         {
-          "Close": 69.5,
+          "Close": 68.49275207519531,
           "Volume": 22318
         },
         {
-          "Close": 65.0999984741211,
+          "Close": 64.1565170288086,
           "Volume": 49409
         },
         {
-          "Close": 66.5,
+          "Close": 65.5362319946289,
           "Volume": 40137
         },
         {
-          "Close": 69.0,
+          "Close": 68.0,
           "Volume": 30562
         }
       ],
