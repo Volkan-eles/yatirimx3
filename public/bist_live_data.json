@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-07-12T15:38:50.634728",
+  "last_update": "2026-07-12T17:05:36.056803",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 496,
-  "successful": 496,
-  "failed": 35,
+  "total_stocks": 499,
+  "successful": 499,
+  "failed": 32,
   "stocks": [
     {
       "code": "GARAN",
@@ -17016,6 +17016,195 @@
       "heldPercentInstitutions": 0.0
     },
     {
+      "code": "AVHOL",
+      "symbol": "AVHOL.IS",
+      "name": "Avrupa Yatirim Holding A.S.",
+      "shortName": "AVRUPA YATIRIM HOLDING",
+      "price": 38.56,
+      "change": 0.5,
+      "changeRate": 1.31,
+      "previousClose": 38.06,
+      "open": 38.08,
+      "dayLow": 37.92,
+      "dayHigh": 39.0,
+      "fiftyTwoWeekLow": 33.8,
+      "fiftyTwoWeekHigh": 57.2,
+      "fiftyDayAverage": 41.7,
+      "twoHundredDayAverage": 39.83,
+      "volume": "1,103,417",
+      "averageVolume": 2363077,
+      "averageVolume10days": 1666621,
+      "marketCap": 1436360064,
+      "enterpriseValue": 1737817856,
+      "sharesOutstanding": 37250000,
+      "sector": "Financial Services",
+      "industry": "Asset Management",
+      "website": "https://avrupayatirim.com.tr",
+      "address": "Levent Neighborhood",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "phone": "90 212 934 09 09",
+      "description": "Avrupa Yatirim Holding A.S. provides healthcare and telecommunication services in Turkey. The company operates, equips, rents, and leases private hospitals, medical centers, dialysis centers, medical analysis and x-ray laboratories, and other healthcare facilities. It also owns, purchases, sells, transfers, and rentals communication facilities, including telephone, telex, and fax. The company was formerly known as Baysan Trafo Radyatorleri Sanayi ve Ticaret A.S. and changed its name to Avrupa Yatirim Holding A.S. in December 2014. The company was incorporated in 1998 and is based in Istanbul, Turkey.",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": 1.6203723,
+      "pegRatio": null,
+      "priceToSales": 3.837828,
+      "enterpriseToRevenue": 4.643,
+      "enterpriseToEbitda": -17.856,
+      "profitMargins": -2.46438,
+      "grossMargins": -0.07667,
+      "operatingMargins": -0.07062,
+      "returnOnAssets": -0.03154,
+      "returnOnEquity": -0.62990004,
+      "totalRevenue": 374263808,
+      "revenuePerShare": 10.047,
+      "totalCash": 403941536,
+      "totalDebt": 283014656,
+      "debtToEquity": 21.623,
+      "currentRatio": 1.15,
+      "quickRatio": 0.932,
+      "eps": -0.09,
+      "forwardEps": null,
+      "bookValue": 23.797,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": null,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": 0.297,
+      "historicalData": [
+        {
+          "Close": 43.2599983215332,
+          "Volume": 3236580
+        },
+        {
+          "Close": 44.060001373291016,
+          "Volume": 1887622
+        },
+        {
+          "Close": 45.599998474121094,
+          "Volume": 2224690
+        },
+        {
+          "Close": 50.150001525878906,
+          "Volume": 10509901
+        },
+        {
+          "Close": 49.279998779296875,
+          "Volume": 11433146
+        },
+        {
+          "Close": 49.0,
+          "Volume": 6050931
+        },
+        {
+          "Close": 49.900001525878906,
+          "Volume": 5927793
+        },
+        {
+          "Close": 49.13999938964844,
+          "Volume": 5504569
+        },
+        {
+          "Close": 50.5,
+          "Volume": 6181601
+        },
+        {
+          "Close": 49.099998474121094,
+          "Volume": 3788481
+        },
+        {
+          "Close": 47.5,
+          "Volume": 4260010
+        },
+        {
+          "Close": 43.5,
+          "Volume": 4391982
+        },
+        {
+          "Close": 43.400001525878906,
+          "Volume": 2110975
+        },
+        {
+          "Close": 43.29999923706055,
+          "Volume": 1893837
+        },
+        {
+          "Close": 43.5,
+          "Volume": 1775743
+        },
+        {
+          "Close": 43.5,
+          "Volume": 1855256
+        },
+        {
+          "Close": 41.79999923706055,
+          "Volume": 1981046
+        },
+        {
+          "Close": 40.79999923706055,
+          "Volume": 1466158
+        },
+        {
+          "Close": 41.599998474121094,
+          "Volume": 1021502
+        },
+        {
+          "Close": 39.36000061035156,
+          "Volume": 1588278
+        },
+        {
+          "Close": 37.400001525878906,
+          "Volume": 2120400
+        },
+        {
+          "Close": 37.68000030517578,
+          "Volume": 1776180
+        },
+        {
+          "Close": 37.70000076293945,
+          "Volume": 1507868
+        },
+        {
+          "Close": 37.619998931884766,
+          "Volume": 799080
+        },
+        {
+          "Close": 39.0,
+          "Volume": 1224374
+        },
+        {
+          "Close": 39.0,
+          "Volume": 1192937
+        },
+        {
+          "Close": 38.20000076293945,
+          "Volume": 657974
+        },
+        {
+          "Close": 38.20000076293945,
+          "Volume": 4455013
+        },
+        {
+          "Close": 38.060001373291016,
+          "Volume": 1828973
+        },
+        {
+          "Close": 38.560001373291016,
+          "Volume": 1103417
+        }
+      ],
+      "heldPercentInsiders": 0.28596002,
+      "heldPercentInstitutions": 0.0
+    },
+    {
       "code": "AVOD",
       "symbol": "AVOD.IS",
       "name": "A.V.O.D Kurutulmus Gida ve Tarim Ürünleri Sanayi Ticaret Anonim Sirketi",
@@ -20048,61 +20237,61 @@
       "change": 0.17,
       "changeRate": 2.6,
       "previousClose": 6.53,
-      "open": 6.55,
-      "dayLow": 6.55,
-      "dayHigh": 6.85,
+      "open": 6.7,
+      "dayLow": 6.57,
+      "dayHigh": 6.83,
       "fiftyTwoWeekLow": 5.73,
       "fiftyTwoWeekHigh": 15.0,
       "fiftyDayAverage": 6.92,
       "twoHundredDayAverage": 9.18,
       "volume": "6,749,004",
-      "averageVolume": 9899204,
-      "averageVolume10days": 10481893,
+      "averageVolume": 6749004,
+      "averageVolume10days": 6749004,
       "marketCap": 3584499968,
-      "enterpriseValue": 4241154560,
+      "enterpriseValue": 0,
       "sharesOutstanding": 535000000,
-      "sector": "Consumer Cyclical",
-      "industry": "Restaurants",
-      "website": "https://www.bigchefs.com.tr",
-      "address": "Fatih Sultan Mehmet Mahallesi",
-      "city": "Istanbul",
+      "sector": "Diğer",
+      "industry": "",
+      "website": "",
+      "address": "",
+      "city": "",
       "country": "Turkey",
-      "phone": "90 850 214 73 05",
-      "description": "Büyük Sefler Gida Turizm Tekstil Danismanlik Organizasyon Egitim Sanayi Ve Ticaret A.S., together with its subsidiaries, operates a chain of restaurants in Turkey and internationally. The company operates restaurants under the BigChefs, Numnum, Numnum Streetfood, Buselik, and Akademi BigChefs brands. It also franchises its restaurants. The company was founded in 2007 and is headquartered in Istanbul, Turkey.",
+      "phone": "",
+      "description": "",
       "pe": 223.33333,
       "forwardPE": null,
       "priceToBook": 2.561162,
       "pegRatio": null,
-      "priceToSales": 0.7664563,
-      "enterpriseToRevenue": 0.907,
-      "enterpriseToEbitda": 5.815,
-      "profitMargins": 0.0028600001,
-      "grossMargins": 0.21577999,
-      "operatingMargins": -0.015369999,
-      "returnOnAssets": 0.05491,
-      "returnOnEquity": 0.010190001,
-      "totalRevenue": 4676718080,
-      "revenuePerShare": 8.742,
-      "totalCash": 123784592,
-      "totalDebt": 889036032,
-      "debtToEquity": 65.499,
-      "currentRatio": 0.659,
-      "quickRatio": 0.451,
-      "eps": 0.03,
+      "priceToSales": null,
+      "enterpriseToRevenue": null,
+      "enterpriseToEbitda": null,
+      "profitMargins": null,
+      "grossMargins": null,
+      "operatingMargins": null,
+      "returnOnAssets": null,
+      "returnOnEquity": null,
+      "totalRevenue": null,
+      "revenuePerShare": null,
+      "totalCash": null,
+      "totalDebt": null,
+      "debtToEquity": null,
+      "currentRatio": null,
+      "quickRatio": null,
+      "eps": null,
       "forwardEps": null,
       "bookValue": 2.616,
       "dividendRate": 0.1,
       "dividendYield": 1.49,
-      "exDividendDate": 1789689600,
-      "payoutRatio": 5.7399,
-      "targetHighPrice": 20.28,
-      "targetLowPrice": 20.28,
-      "targetMeanPrice": 20.28,
-      "targetMedianPrice": 20.28,
+      "exDividendDate": null,
+      "payoutRatio": null,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
       "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 1,
-      "beta": 0.38,
+      "recommendationKey": "",
+      "numberOfAnalystOpinions": 0,
+      "beta": null,
       "historicalData": [
         {
           "Close": 6.699999809265137,
@@ -20225,8 +20414,8 @@
           "Volume": 6749004
         }
       ],
-      "heldPercentInsiders": 0.44354,
-      "heldPercentInstitutions": 0.06743
+      "heldPercentInsiders": null,
+      "heldPercentInstitutions": null
     },
     {
       "code": "BINHO",
@@ -29490,6 +29679,195 @@
       "heldPercentInstitutions": 0.0
     },
     {
+      "code": "DITAS",
+      "symbol": "DITAS.IS",
+      "name": "Ditas Dogan Yedek Parça Imalat ve Teknik A.S.",
+      "shortName": "DITAS BDY",
+      "price": 26.66,
+      "change": -1.22,
+      "changeRate": -4.38,
+      "previousClose": 27.88,
+      "open": 27.82,
+      "dayLow": 26.66,
+      "dayHigh": 28.14,
+      "fiftyTwoWeekLow": 23.92,
+      "fiftyTwoWeekHigh": 57.0,
+      "fiftyDayAverage": 36.74,
+      "twoHundredDayAverage": 37.94,
+      "volume": "2,253,923",
+      "averageVolume": 5136530,
+      "averageVolume10days": 5053132,
+      "marketCap": 4532199936,
+      "enterpriseValue": 4839575040,
+      "sharesOutstanding": 170000000,
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "website": "https://www.ditas.com.tr",
+      "address": "Ilhanli Mah. Kayseri Yolu 3.Km",
+      "city": "Nigde",
+      "country": "Turkey",
+      "phone": "90 388 232 41 00",
+      "description": "Ditas Dogan Yedek Parça Imalat ve Teknik A.S. manufactures and sells steering and suspension parts for vehicle manufacturers in Turkey and internationally. It offers rod ends, torque rods, idler arms, axial joints, pitman arms, drag links, ball joints, track control arms, stabilizer links, and v-torque rods for commercial vehicles and passenger cars. The company was incorporated in 1972 and is based in Nigde, Turkey. Ditas Dogan Yedek Parça Imalat ve Teknik A.S. operates as a subsidiary of BDY Group Insaat A.S.",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": 3.9690337,
+      "pegRatio": null,
+      "priceToSales": 2.0197,
+      "enterpriseToRevenue": 2.157,
+      "enterpriseToEbitda": -47.485,
+      "profitMargins": -0.11999,
+      "grossMargins": 0.05782,
+      "operatingMargins": -0.035940003,
+      "returnOnAssets": -0.06442,
+      "returnOnEquity": -0.4316,
+      "totalRevenue": 2243996672,
+      "revenuePerShare": 26.074,
+      "totalCash": 58323124,
+      "totalDebt": 359880928,
+      "debtToEquity": 31.359,
+      "currentRatio": 0.616,
+      "quickRatio": 0.358,
+      "eps": -0.75,
+      "forwardEps": null,
+      "bookValue": 6.717,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": 1651190400,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": -0.807,
+      "historicalData": [
+        {
+          "Close": 36.619998931884766,
+          "Volume": 3410526
+        },
+        {
+          "Close": 36.79999923706055,
+          "Volume": 6667476
+        },
+        {
+          "Close": 36.2400016784668,
+          "Volume": 5419507
+        },
+        {
+          "Close": 39.86000061035156,
+          "Volume": 16035350
+        },
+        {
+          "Close": 42.08000183105469,
+          "Volume": 12486562
+        },
+        {
+          "Close": 44.86000061035156,
+          "Volume": 15558429
+        },
+        {
+          "Close": 44.15999984741211,
+          "Volume": 7192947
+        },
+        {
+          "Close": 44.68000030517578,
+          "Volume": 9481040
+        },
+        {
+          "Close": 43.939998626708984,
+          "Volume": 6864188
+        },
+        {
+          "Close": 42.08000183105469,
+          "Volume": 4094821
+        },
+        {
+          "Close": 44.0,
+          "Volume": 3380231
+        },
+        {
+          "Close": 48.400001525878906,
+          "Volume": 8550982
+        },
+        {
+          "Close": 51.45000076293945,
+          "Volume": 10333199
+        },
+        {
+          "Close": 47.900001525878906,
+          "Volume": 3888295
+        },
+        {
+          "Close": 47.099998474121094,
+          "Volume": 2530011
+        },
+        {
+          "Close": 47.68000030517578,
+          "Volume": 2412306
+        },
+        {
+          "Close": 42.91999816894531,
+          "Volume": 10099233
+        },
+        {
+          "Close": 38.63999938964844,
+          "Volume": 87135
+        },
+        {
+          "Close": 34.779998779296875,
+          "Volume": 78276
+        },
+        {
+          "Close": 34.81999969482422,
+          "Volume": 26460620
+        },
+        {
+          "Close": 31.34000015258789,
+          "Volume": 4197798
+        },
+        {
+          "Close": 28.219999313354492,
+          "Volume": 5045454
+        },
+        {
+          "Close": 27.860000610351562,
+          "Volume": 7464430
+        },
+        {
+          "Close": 30.639999389648438,
+          "Volume": 4453253
+        },
+        {
+          "Close": 30.079999923706055,
+          "Volume": 16680673
+        },
+        {
+          "Close": 29.899999618530273,
+          "Volume": 4784089
+        },
+        {
+          "Close": 28.520000457763672,
+          "Volume": 2228367
+        },
+        {
+          "Close": 28.200000762939453,
+          "Volume": 1940168
+        },
+        {
+          "Close": 27.8799991607666,
+          "Volume": 1483173
+        },
+        {
+          "Close": 26.65999984741211,
+          "Volume": 2253923
+        }
+      ],
+      "heldPercentInsiders": 0.67418,
+      "heldPercentInstitutions": 0.0
+    },
+    {
       "code": "DMSAS",
       "symbol": "DMSAS.IS",
       "name": "Demisas Döküm Emaye Mamülleri Sanayi Anonim Sirketi",
@@ -30810,6 +31188,195 @@
         }
       ],
       "heldPercentInsiders": 0.90101,
+      "heldPercentInstitutions": 0.0
+    },
+    {
+      "code": "DURDO",
+      "symbol": "DURDO.IS",
+      "name": "Duran Dogan Basim ve Ambalaj Sanayi A.S.",
+      "shortName": "DURAN DOGAN BASIM",
+      "price": 5.03,
+      "change": 0.03,
+      "changeRate": 0.6,
+      "previousClose": 5.0,
+      "open": 5.0,
+      "dayLow": 5.0,
+      "dayHigh": 5.07,
+      "fiftyTwoWeekLow": 3.12,
+      "fiftyTwoWeekHigh": 5.67,
+      "fiftyDayAverage": 5.12,
+      "twoHundredDayAverage": 4.11,
+      "volume": "705,930",
+      "averageVolume": 4315919,
+      "averageVolume10days": 2593770,
+      "marketCap": 2515000064,
+      "enterpriseValue": 2557840384,
+      "sharesOutstanding": 500000000,
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "website": "https://www.durandogan.com",
+      "address": "Hadimköy",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "phone": "90 212 771 46 06",
+      "description": "Duran Dogan Basim ve Ambalaj Sanayi A.S., together with its subsidiaries, provides packaging products in Turkey. The company offers paper, cardboard, and various plastic materials in rolls and sheets to produce various packaging, printing, chiseling, cutting, gluing, and laminating works on aluminum, metal, tin, etc. It offers packaging products for food, boutique, medical, home and personal care, and boutique sectors. Duran Dogan Basim ve Ambalaj Sanayi A.S. was founded in 1934 and is based in Istanbul, Turkey.",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": 1.2292278,
+      "pegRatio": null,
+      "priceToSales": 0.97176003,
+      "enterpriseToRevenue": 0.988,
+      "enterpriseToEbitda": 11.929,
+      "profitMargins": -0.09623,
+      "grossMargins": 0.21127,
+      "operatingMargins": -0.05847,
+      "returnOnAssets": 0.010880001,
+      "returnOnEquity": -0.16749,
+      "totalRevenue": 2588087552,
+      "revenuePerShare": 7.323,
+      "totalCash": 275832800,
+      "totalDebt": 908494144,
+      "debtToEquity": 58.008,
+      "currentRatio": 1.058,
+      "quickRatio": 0.686,
+      "eps": -0.74,
+      "forwardEps": null,
+      "bookValue": 4.092,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": 1721692800,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": 0.029,
+      "historicalData": [
+        {
+          "Close": 5.199999809265137,
+          "Volume": 3455664
+        },
+        {
+          "Close": 5.320000171661377,
+          "Volume": 2597500
+        },
+        {
+          "Close": 5.329999923706055,
+          "Volume": 2299178
+        },
+        {
+          "Close": 5.400000095367432,
+          "Volume": 2799701
+        },
+        {
+          "Close": 5.400000095367432,
+          "Volume": 2790739
+        },
+        {
+          "Close": 5.519999980926514,
+          "Volume": 3017558
+        },
+        {
+          "Close": 5.46999979019165,
+          "Volume": 2414884
+        },
+        {
+          "Close": 5.400000095367432,
+          "Volume": 7192554
+        },
+        {
+          "Close": 5.150000095367432,
+          "Volume": 11695142
+        },
+        {
+          "Close": 5.199999809265137,
+          "Volume": 2953056
+        },
+        {
+          "Close": 5.320000171661377,
+          "Volume": 2392235
+        },
+        {
+          "Close": 5.300000190734863,
+          "Volume": 4332138
+        },
+        {
+          "Close": 5.5,
+          "Volume": 3661531
+        },
+        {
+          "Close": 5.269999980926514,
+          "Volume": 7521895
+        },
+        {
+          "Close": 5.28000020980835,
+          "Volume": 4402471
+        },
+        {
+          "Close": 5.340000152587891,
+          "Volume": 2170201
+        },
+        {
+          "Close": 5.199999809265137,
+          "Volume": 1747070
+        },
+        {
+          "Close": 5.179999828338623,
+          "Volume": 1127672
+        },
+        {
+          "Close": 5.21999979019165,
+          "Volume": 933808
+        },
+        {
+          "Close": 5.260000228881836,
+          "Volume": 1758319
+        },
+        {
+          "Close": 5.210000038146973,
+          "Volume": 1956284
+        },
+        {
+          "Close": 5.210000038146973,
+          "Volume": 3963949
+        },
+        {
+          "Close": 5.119999885559082,
+          "Volume": 3876391
+        },
+        {
+          "Close": 5.269999980926514,
+          "Volume": 3509201
+        },
+        {
+          "Close": 5.099999904632568,
+          "Volume": 3142391
+        },
+        {
+          "Close": 5.099999904632568,
+          "Volume": 3069221
+        },
+        {
+          "Close": 5.099999904632568,
+          "Volume": 1418959
+        },
+        {
+          "Close": 5.0,
+          "Volume": 3097283
+        },
+        {
+          "Close": 5.0,
+          "Volume": 1198094
+        },
+        {
+          "Close": 5.03000020980835,
+          "Volume": 705930
+        }
+      ],
+      "heldPercentInsiders": 0.6915,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -49910,61 +50477,61 @@
       "change": -0.13,
       "changeRate": -2.01,
       "previousClose": 6.48,
-      "open": 6.55,
-      "dayLow": 6.32,
-      "dayHigh": 6.77,
+      "open": 6.35,
+      "dayLow": 6.22,
+      "dayHigh": 6.48,
       "fiftyTwoWeekLow": 4.2,
       "fiftyTwoWeekHigh": 23.8,
       "fiftyDayAverage": 13.09,
       "twoHundredDayAverage": 12.06,
       "volume": "78,129,693",
-      "averageVolume": 80406273,
-      "averageVolume10days": 65067001,
+      "averageVolume": 78129693,
+      "averageVolume10days": 78129693,
       "marketCap": 9525000192,
-      "enterpriseValue": 11329639424,
+      "enterpriseValue": 0,
       "sharesOutstanding": 1500000000,
-      "sector": "Industrials",
-      "industry": "Specialty Business Services",
-      "website": "https://www.isikplastik.com.tr",
-      "address": "Tahtakale Mahallesi Uzunçarsi Caddesi No:216/1",
-      "city": "Istanbul",
+      "sector": "Diğer",
+      "industry": "",
+      "website": "",
+      "address": "",
+      "city": "",
       "country": "Turkey",
-      "phone": "90 212 513 66 17",
-      "description": "Isik Plastik Sanayi ve Dis Ticaret Pazarlama Anonim Sirketi manufactures and sells plastic products in Turkey and internationally. It provides disposable containers, food packaging, industrial plates, compounds, and masterbatches from plastic raw materials. The company also solid polycarbonate and acrylic sheets, pet-G sheets, multiwall sheets, noise barriers, non-glare sheets, flame retardant sheets, and accessories; and drinking cups, plates, yogurt and ayran cups, deli pots, and lids. Isik Plastik Sanayi ve Dis Ticaret Pazarlama Anonim Sirketi was incorporated in 1988 and is based in Istanbul, Turkey.",
+      "phone": "",
+      "description": "",
       "pe": 18.955223,
       "forwardPE": null,
       "priceToBook": 3.340347,
       "pegRatio": null,
-      "priceToSales": 3.6148105,
-      "enterpriseToRevenue": 4.3,
-      "enterpriseToEbitda": 31.887,
-      "profitMargins": 0.085030004,
-      "grossMargins": 0.30802,
-      "operatingMargins": 0.08898,
-      "returnOnAssets": 0.02755,
-      "returnOnEquity": 0.08528,
-      "totalRevenue": 2634992896,
-      "revenuePerShare": 1.757,
-      "totalCash": 36061408,
-      "totalDebt": 1840701056,
-      "debtToEquity": 58.782,
-      "currentRatio": 1.121,
-      "quickRatio": 0.672,
-      "eps": 0.335,
+      "priceToSales": null,
+      "enterpriseToRevenue": null,
+      "enterpriseToEbitda": null,
+      "profitMargins": null,
+      "grossMargins": null,
+      "operatingMargins": null,
+      "returnOnAssets": null,
+      "returnOnEquity": null,
+      "totalRevenue": null,
+      "revenuePerShare": null,
+      "totalCash": null,
+      "totalDebt": null,
+      "debtToEquity": null,
+      "currentRatio": null,
+      "quickRatio": null,
+      "eps": null,
       "forwardEps": null,
       "bookValue": 1.901,
       "dividendRate": 0.0,
       "dividendYield": 0.01,
-      "exDividendDate": 1782432000,
+      "exDividendDate": null,
       "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
       "targetMedianPrice": null,
       "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationKey": "",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.188,
+      "beta": null,
       "historicalData": [
         {
           "Close": 12.699219703674316,
@@ -50087,8 +50654,8 @@
           "Volume": 78129693
         }
       ],
-      "heldPercentInsiders": 0.60401,
-      "heldPercentInstitutions": 0.105629995
+      "heldPercentInsiders": null,
+      "heldPercentInstitutions": null
     },
     {
       "code": "ISKUR",
@@ -53312,61 +53879,61 @@
       "change": 0.33,
       "changeRate": 3.86,
       "previousClose": 8.55,
-      "open": 8.8,
-      "dayLow": 8.5,
-      "dayHigh": 8.95,
+      "open": 8.88,
+      "dayLow": 8.7,
+      "dayHigh": 9.06,
       "fiftyTwoWeekLow": 8.09,
       "fiftyTwoWeekHigh": 12.54,
       "fiftyDayAverage": 9.86,
       "twoHundredDayAverage": 9.31,
       "volume": "6,474,523",
-      "averageVolume": 10996066,
-      "averageVolume10days": 5538503,
+      "averageVolume": 6474523,
+      "averageVolume10days": 6474523,
       "marketCap": 1753800064,
-      "enterpriseValue": 1529062016,
+      "enterpriseValue": 0,
       "sharesOutstanding": 197500000,
-      "sector": "Technology",
-      "industry": "Software - Application",
-      "website": "https://www.kafein.com.tr",
-      "address": "YTU Davutpasa Campus",
-      "city": "Istanbul",
+      "sector": "Diğer",
+      "industry": "",
+      "website": "",
+      "address": "",
+      "city": "",
       "country": "Turkey",
-      "phone": "90 212 924 20 30",
-      "description": "Kafein Yazilim Hizmetleri Ticaret A.S. provides various software and technology management solutions, services, and products in Turkey and internationally. The company offers Data Focus, a data governance tool to manage enterprise-structured data; Data Touch, a platform for sensitive data monitoring and data usage analytics; Test Data Management, a solution that enables controlled creation, transfer, and management of data required in software development and testing processes; and Dataskope, a database activity monitoring and security solution. It also provides Infraskope, an enterprise security information and event management platform that collects, analyzes, and correlates logs generated from an organization's entire IT infrastructure; APIFORT, a cybersecurity product; Corporate Portal which facilitates intra-corporate processes; and ERPGuard, a solution designed to enhance the security of SAP systems and optimize compliance processes. In addition, the company offers turnkey projects, cyber security solutions, google security operations, cloud solutions, data virtualization consulting, robotic process automation service, data privacy and protection services, outsourcing services, data decision management systems consultancy, test management consultancy, digital transformation consultancy, data warehouse consulting, managed technology services, software development, advanced analytics solutions, and IT operation management services. It serves technology, banking, telecommunications, tourism, services, retail, and insurance sectors. The company was incorporated in 2005 and is headquartered in Istanbul, Turkey.",
+      "phone": "",
+      "description": "",
       "pe": null,
       "forwardPE": null,
       "priceToBook": 1.346883,
       "pegRatio": null,
-      "priceToSales": 0.5850864,
-      "enterpriseToRevenue": 0.51,
-      "enterpriseToEbitda": 6.473,
-      "profitMargins": 0.01749,
-      "grossMargins": 0.17872,
-      "operatingMargins": 0.042529996,
-      "returnOnAssets": 0.075830005,
-      "returnOnEquity": 0.054899998,
-      "totalRevenue": 2997506048,
-      "revenuePerShare": 15.177,
-      "totalCash": 270672032,
-      "totalDebt": 17499584,
-      "debtToEquity": 1.216,
-      "currentRatio": 2.154,
-      "quickRatio": 2.005,
-      "eps": -1.18,
+      "priceToSales": null,
+      "enterpriseToRevenue": null,
+      "enterpriseToEbitda": null,
+      "profitMargins": null,
+      "grossMargins": null,
+      "operatingMargins": null,
+      "returnOnAssets": null,
+      "returnOnEquity": null,
+      "totalRevenue": null,
+      "revenuePerShare": null,
+      "totalCash": null,
+      "totalDebt": null,
+      "debtToEquity": null,
+      "currentRatio": null,
+      "quickRatio": null,
+      "eps": null,
       "forwardEps": null,
       "bookValue": 6.593,
       "dividendRate": 0.02,
       "dividendYield": 0.24,
-      "exDividendDate": 1777852800,
-      "payoutRatio": 0.1269,
+      "exDividendDate": null,
+      "payoutRatio": null,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
       "targetMedianPrice": null,
       "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationKey": "",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.222,
+      "beta": null,
       "historicalData": [
         {
           "Close": 11.1899995803833,
@@ -53489,8 +54056,8 @@
           "Volume": 6474523
         }
       ],
-      "heldPercentInsiders": 0.25139,
-      "heldPercentInstitutions": 0.00090000004
+      "heldPercentInsiders": null,
+      "heldPercentInstitutions": null
     },
     {
       "code": "KGYO",
