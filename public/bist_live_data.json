@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-13T16:08:46.575037",
+  "last_update": "2026-07-13T18:21:25.504898",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 53.617416,
-      "targetLowPrice": 36.84141,
-      "targetMeanPrice": 46.81726,
-      "targetMedianPrice": 47.555496,
+      "targetHighPrice": 53.623695,
+      "targetLowPrice": 36.845726,
+      "targetMeanPrice": 46.822742,
+      "targetMedianPrice": 47.561066,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.34,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 514.4125,
-      "targetLowPrice": 379.4134,
-      "targetMeanPrice": 432.32156,
-      "targetMedianPrice": 430.2057,
+      "targetHighPrice": 513.72906,
+      "targetLowPrice": 378.90933,
+      "targetMeanPrice": 431.7472,
+      "targetMedianPrice": 429.6341,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.38013,
-      "targetLowPrice": 62.977722,
-      "targetMeanPrice": 68.50801,
-      "targetMedianPrice": 63.165714,
+      "targetHighPrice": 79.3754,
+      "targetLowPrice": 62.97397,
+      "targetMeanPrice": 68.50393,
+      "targetMedianPrice": 63.16195,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -66539,9 +66539,9 @@
       "name": "Mistral Gayrimenkul Yatirim Ortakligi A.S.",
       "shortName": "MISTRAL GMYO",
       "price": 5.95,
-      "change": NaN,
-      "changeRate": 0,
-      "previousClose": NaN,
+      "change": -0.18,
+      "changeRate": -2.94,
+      "previousClose": 6.13,
       "open": 6.14,
       "dayLow": 5.89,
       "dayHigh": 6.15,
@@ -66597,7 +66597,128 @@
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
       "beta": 0.264,
-      "historicalData": [],
+      "historicalData": [
+        {
+          "Close": 6.5,
+          "Volume": 7151565
+        },
+        {
+          "Close": 6.599999904632568,
+          "Volume": 10427334
+        },
+        {
+          "Close": 6.699999809265137,
+          "Volume": 4454608
+        },
+        {
+          "Close": 6.420000076293945,
+          "Volume": 3498495
+        },
+        {
+          "Close": 6.340000152587891,
+          "Volume": 3586613
+        },
+        {
+          "Close": 6.070000171661377,
+          "Volume": 2987349
+        },
+        {
+          "Close": 6.079999923706055,
+          "Volume": 2669930
+        },
+        {
+          "Close": 6.03000020980835,
+          "Volume": 2054231
+        },
+        {
+          "Close": 6.099999904632568,
+          "Volume": 2485058
+        },
+        {
+          "Close": 6.699999809265137,
+          "Volume": 8775688
+        },
+        {
+          "Close": 6.699999809265137,
+          "Volume": 6858255
+        },
+        {
+          "Close": 7.090000152587891,
+          "Volume": 12895380
+        },
+        {
+          "Close": 7.050000190734863,
+          "Volume": 5812747
+        },
+        {
+          "Close": 6.739999771118164,
+          "Volume": 3362523
+        },
+        {
+          "Close": 6.800000190734863,
+          "Volume": 5819451
+        },
+        {
+          "Close": 6.46999979019165,
+          "Volume": 3623045
+        },
+        {
+          "Close": 6.449999809265137,
+          "Volume": 2464762
+        },
+        {
+          "Close": 6.320000171661377,
+          "Volume": 1606374
+        },
+        {
+          "Close": 6.260000228881836,
+          "Volume": 978642
+        },
+        {
+          "Close": 6.210000038146973,
+          "Volume": 1958252
+        },
+        {
+          "Close": 6.150000095367432,
+          "Volume": 2341213
+        },
+        {
+          "Close": 6.309999942779541,
+          "Volume": 3962437
+        },
+        {
+          "Close": 6.25,
+          "Volume": 1370493
+        },
+        {
+          "Close": 6.239999771118164,
+          "Volume": 998235
+        },
+        {
+          "Close": 6.03000020980835,
+          "Volume": 1230802
+        },
+        {
+          "Close": 6.309999942779541,
+          "Volume": 5538536
+        },
+        {
+          "Close": 6.110000133514404,
+          "Volume": 2109061
+        },
+        {
+          "Close": 6.150000095367432,
+          "Volume": 1378706
+        },
+        {
+          "Close": 6.130000114440918,
+          "Volume": 1110123
+        },
+        {
+          "Close": 5.949999809265137,
+          "Volume": 1904737
+        }
+      ],
       "heldPercentInsiders": 0.55896,
       "heldPercentInstitutions": 0.0
     },
