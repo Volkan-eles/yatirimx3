@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-07-12T22:59:48.073716",
+  "last_update": "2026-07-13T00:04:38.471597",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 496,
-  "successful": 496,
-  "failed": 35,
+  "total_stocks": 499,
+  "successful": 499,
+  "failed": 32,
   "stocks": [
     {
       "code": "GARAN",
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 53.420826,
-      "targetLowPrice": 36.706333,
-      "targetMeanPrice": 46.645603,
-      "targetMedianPrice": 47.38113,
+      "targetHighPrice": 53.617874,
+      "targetLowPrice": 36.84173,
+      "targetMeanPrice": 46.81766,
+      "targetMedianPrice": 47.555904,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.34,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 512.46246,
-      "targetLowPrice": 377.97513,
-      "targetMeanPrice": 430.6827,
-      "targetMedianPrice": 428.57486,
+      "targetHighPrice": 514.74316,
+      "targetLowPrice": 379.65732,
+      "targetMeanPrice": 432.5995,
+      "targetMedianPrice": 430.48224,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -18904,6 +18904,195 @@
       ],
       "heldPercentInsiders": 0.7021,
       "heldPercentInstitutions": 0.0
+    },
+    {
+      "code": "BASCM",
+      "symbol": "BASCM.IS",
+      "name": "Bastas Baskent Cimento Sanayi ve Ticaret A.S.",
+      "shortName": "BASTAS BASKENT CIMENTO",
+      "price": 14.2,
+      "change": 0.03,
+      "changeRate": 0.21,
+      "previousClose": 14.17,
+      "open": 14.2,
+      "dayLow": 14.18,
+      "dayHigh": 14.2,
+      "fiftyTwoWeekLow": 11.3,
+      "fiftyTwoWeekHigh": 20.2,
+      "fiftyDayAverage": 14.53,
+      "twoHundredDayAverage": 14.63,
+      "volume": "85,066",
+      "averageVolume": 113818,
+      "averageVolume10days": 88884,
+      "marketCap": 9372000256,
+      "enterpriseValue": 9085127680,
+      "sharesOutstanding": 660000000,
+      "sector": "Basic Materials",
+      "industry": "Building Materials",
+      "website": "https://www.bastas.com.tr",
+      "address": "Ankara-Samsun Highway, 35th km.",
+      "city": "Ankara",
+      "country": "Turkey",
+      "phone": "90 312 864 01 00",
+      "description": "Bastas Baskent Cimento Sanayi ve Ticaret A.S. produces and sells ready-mixed concrete and cement products in Turkey. The company was incorporated in 1967 and is based in Ankara, Turkey. Bastas Baskent Cimento Sanayi ve Ticaret A.S. is a subsidiary of Parficim S.A.",
+      "pe": 24.067797,
+      "forwardPE": null,
+      "priceToBook": 1.1960917,
+      "pegRatio": null,
+      "priceToSales": 0.832726,
+      "enterpriseToRevenue": 0.807,
+      "enterpriseToEbitda": 6.756,
+      "profitMargins": 0.03483,
+      "grossMargins": 0.15722999,
+      "operatingMargins": 0.09507,
+      "returnOnAssets": 0.05629,
+      "returnOnEquity": 0.051269997,
+      "totalRevenue": 11254602752,
+      "revenuePerShare": 17.052,
+      "totalCash": 347152416,
+      "totalDebt": 60280252,
+      "debtToEquity": 0.769,
+      "currentRatio": 2.157,
+      "quickRatio": 1.556,
+      "eps": 0.59,
+      "forwardEps": null,
+      "bookValue": 11.872,
+      "dividendRate": 1.06,
+      "dividendYield": 7.47,
+      "exDividendDate": 1792540800,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": -0.409,
+      "historicalData": [
+        {
+          "Close": 14.949999809265137,
+          "Volume": 233390
+        },
+        {
+          "Close": 15.0,
+          "Volume": 306948
+        },
+        {
+          "Close": 14.75,
+          "Volume": 120428
+        },
+        {
+          "Close": 15.0,
+          "Volume": 252207
+        },
+        {
+          "Close": 15.890000343322754,
+          "Volume": 149561
+        },
+        {
+          "Close": 16.549999237060547,
+          "Volume": 265766
+        },
+        {
+          "Close": 16.520000457763672,
+          "Volume": 115030
+        },
+        {
+          "Close": 17.0,
+          "Volume": 292506
+        },
+        {
+          "Close": 16.5,
+          "Volume": 110434
+        },
+        {
+          "Close": 16.0,
+          "Volume": 65660
+        },
+        {
+          "Close": 15.5,
+          "Volume": 196724
+        },
+        {
+          "Close": 15.479999542236328,
+          "Volume": 65740
+        },
+        {
+          "Close": 14.859999656677246,
+          "Volume": 144312
+        },
+        {
+          "Close": 15.100000381469727,
+          "Volume": 64047
+        },
+        {
+          "Close": 14.550000190734863,
+          "Volume": 73242
+        },
+        {
+          "Close": 14.489999771118164,
+          "Volume": 99975
+        },
+        {
+          "Close": 14.350000381469727,
+          "Volume": 79695
+        },
+        {
+          "Close": 14.279999732971191,
+          "Volume": 40497
+        },
+        {
+          "Close": 14.279999732971191,
+          "Volume": 69067
+        },
+        {
+          "Close": 14.510000228881836,
+          "Volume": 70265
+        },
+        {
+          "Close": 14.399999618530273,
+          "Volume": 67548
+        },
+        {
+          "Close": 14.149999618530273,
+          "Volume": 103172
+        },
+        {
+          "Close": 14.0,
+          "Volume": 109619
+        },
+        {
+          "Close": 14.149999618530273,
+          "Volume": 80739
+        },
+        {
+          "Close": 14.1899995803833,
+          "Volume": 97482
+        },
+        {
+          "Close": 14.1899995803833,
+          "Volume": 49204
+        },
+        {
+          "Close": 14.180000305175781,
+          "Volume": 57321
+        },
+        {
+          "Close": 14.140000343322754,
+          "Volume": 145067
+        },
+        {
+          "Close": 14.170000076293945,
+          "Volume": 93627
+        },
+        {
+          "Close": 14.199999809265137,
+          "Volume": 85066
+        }
+      ],
+      "heldPercentInsiders": null,
+      "heldPercentInstitutions": null
     },
     {
       "code": "BASGZ",
@@ -45043,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.077805,
-      "targetLowPrice": 62.737865,
-      "targetMeanPrice": 68.24709,
-      "targetMedianPrice": 62.92514,
+      "targetHighPrice": 79.36341,
+      "targetLowPrice": 62.96446,
+      "targetMeanPrice": 68.493576,
+      "targetMedianPrice": 63.15241,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -46319,61 +46508,61 @@
       "change": 0.9,
       "changeRate": 0.57,
       "previousClose": 158.1,
-      "open": 159.0,
-      "dayLow": 155.82,
-      "dayHigh": 162.18,
+      "open": 159.1,
+      "dayLow": 159.0,
+      "dayHigh": 160.9,
       "fiftyTwoWeekLow": 11.42,
       "fiftyTwoWeekHigh": 160.9,
       "fiftyDayAverage": 123.77,
       "twoHundredDayAverage": 81.5,
       "volume": "6,287,397",
-      "averageVolume": 6287397,
-      "averageVolume10days": 6287397,
+      "averageVolume": 6891167,
+      "averageVolume10days": 9785972,
       "marketCap": 86431719424,
-      "enterpriseValue": 0,
+      "enterpriseValue": 86928097280,
       "sharesOutstanding": 543595733,
-      "sector": "Diğer",
-      "industry": "",
-      "website": "",
-      "address": "",
-      "city": "",
+      "sector": "Consumer Cyclical",
+      "industry": "Textile Manufacturing",
+      "website": "https://www.isiklarenerjiyapiholding.com.tr",
+      "address": "Çubuklu Mah.Yakut Sok.",
+      "city": "Istanbul",
       "country": "Turkey",
-      "phone": "",
-      "description": "",
+      "phone": "90 216 537 00 00",
+      "description": "Isiklar Enerji ve Yapi Holding A.S., together with its subsidiaries, engages in the production of yarn and home textiles in Turkey and internationally. The company operates in service, construction, casting, packaging, contracting and energy works. The company operates three river type hydroelectric power plants. It manufactures and sells industrial type paper bags; constructs water structures, irrigation and drainage system, bridges, tunnels, roads, factories, treatment plants, infra-structure facilities, pipelines, houses, and commercial buildings; and alloyed grinding products to cement and mining companies. In addition, the company manufactures pressed, coating, and floor bricks; and facade systems. It exports its products. The company was formerly known as Metem Enerji ve Tekstil Sanayi Ticaret Anonim Sirketi and changed its name Isiklar Enerji ve Yapi Holding A.S. in February 2012. The company was incorporated in 1982 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
       "priceToBook": 38.452236,
       "pegRatio": null,
-      "priceToSales": null,
-      "enterpriseToRevenue": null,
-      "enterpriseToEbitda": null,
-      "profitMargins": null,
-      "grossMargins": null,
-      "operatingMargins": null,
-      "returnOnAssets": null,
-      "returnOnEquity": null,
-      "totalRevenue": null,
-      "revenuePerShare": null,
-      "totalCash": null,
-      "totalDebt": null,
-      "debtToEquity": null,
-      "currentRatio": null,
-      "quickRatio": null,
-      "eps": null,
+      "priceToSales": 43.644787,
+      "enterpriseToRevenue": 43.895,
+      "enterpriseToEbitda": -628.702,
+      "profitMargins": -0.40771,
+      "grossMargins": 0.12272,
+      "operatingMargins": -0.28775,
+      "returnOnAssets": -0.02639,
+      "returnOnEquity": -0.32529998,
+      "totalRevenue": 1980344576,
+      "revenuePerShare": 3.643,
+      "totalCash": 17793146,
+      "totalDebt": 366430656,
+      "debtToEquity": 15.297,
+      "currentRatio": 1.25,
+      "quickRatio": 0.552,
+      "eps": -1220.95,
       "forwardEps": null,
       "bookValue": 4.135,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
       "targetMedianPrice": null,
       "recommendationMean": null,
-      "recommendationKey": "",
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.3,
       "historicalData": [
         {
           "Close": 116.5,
@@ -46496,8 +46685,8 @@
           "Volume": 6287397
         }
       ],
-      "heldPercentInsiders": null,
-      "heldPercentInstitutions": null
+      "heldPercentInsiders": 0.36551,
+      "heldPercentInstitutions": 0.33585998
     },
     {
       "code": "IHAAS",
@@ -81087,6 +81276,195 @@
       "heldPercentInstitutions": 0.0
     },
     {
+      "code": "SEYKM",
+      "symbol": "SEYKM.IS",
+      "name": "Seyitler Kimya Sanayi A.S.",
+      "shortName": "SEYITLER KIMYA",
+      "price": 5.68,
+      "change": -0.17,
+      "changeRate": -2.91,
+      "previousClose": 5.85,
+      "open": 5.72,
+      "dayLow": 5.44,
+      "dayHigh": 6.1,
+      "fiftyTwoWeekLow": 3.11,
+      "fiftyTwoWeekHigh": 7.95,
+      "fiftyDayAverage": 5.14,
+      "twoHundredDayAverage": 5.32,
+      "volume": "7,095,027",
+      "averageVolume": 3278472,
+      "averageVolume10days": 4499531,
+      "marketCap": 1136000000,
+      "enterpriseValue": 866032640,
+      "sharesOutstanding": 200000000,
+      "sector": "Healthcare",
+      "industry": "Medical Instruments & Supplies",
+      "website": "https://www.seyitler.com",
+      "address": "Turgutlu 1. OSB 2007 Cad. No:5-7",
+      "city": "Turgutlu",
+      "country": "Turkey",
+      "phone": "90 236 314 83 83",
+      "description": "Seyitler Kimya Sanayi A.S. develops and sells medical adhesive tape products in Turkey, the Middle East, Africa, Europe, and the Americas. The company offers surgical tapes, injection series, wound care, skin closure strip and eye pads, first aid strips, dialysis sets, heat patches, compress and swab, ointments, hemostatic series, and silicone products. Seyitler Kimya Sanayi A.S. was incorporated in 1991 and is headquartered in Turgutlu, Turkey.",
+      "pe": 189.33333,
+      "forwardPE": null,
+      "priceToBook": 2.2949495,
+      "pegRatio": null,
+      "priceToSales": 4.532837,
+      "enterpriseToRevenue": 3.456,
+      "enterpriseToEbitda": 222.43,
+      "profitMargins": 0.03174,
+      "grossMargins": 0.29433,
+      "operatingMargins": -0.06361,
+      "returnOnAssets": -0.01775,
+      "returnOnEquity": 0.01577,
+      "totalRevenue": 250615680,
+      "revenuePerShare": 1.253,
+      "totalCash": 270094528,
+      "totalDebt": 127201,
+      "debtToEquity": 0.022,
+      "currentRatio": 6.824,
+      "quickRatio": 4.967,
+      "eps": 0.03,
+      "forwardEps": null,
+      "bookValue": 2.475,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": 1513814400,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": 0.927,
+      "historicalData": [
+        {
+          "Close": 5.400000095367432,
+          "Volume": 3718747
+        },
+        {
+          "Close": 5.420000076293945,
+          "Volume": 2339512
+        },
+        {
+          "Close": 5.199999809265137,
+          "Volume": 2336386
+        },
+        {
+          "Close": 5.079999923706055,
+          "Volume": 1904506
+        },
+        {
+          "Close": 5.019999980926514,
+          "Volume": 2812062
+        },
+        {
+          "Close": 4.940000057220459,
+          "Volume": 1561898
+        },
+        {
+          "Close": 4.840000152587891,
+          "Volume": 2745039
+        },
+        {
+          "Close": 4.690000057220459,
+          "Volume": 1854681
+        },
+        {
+          "Close": 4.639999866485596,
+          "Volume": 1548935
+        },
+        {
+          "Close": 4.619999885559082,
+          "Volume": 1000799
+        },
+        {
+          "Close": 4.659999847412109,
+          "Volume": 1840191
+        },
+        {
+          "Close": 4.869999885559082,
+          "Volume": 2089764
+        },
+        {
+          "Close": 4.730000019073486,
+          "Volume": 1598625
+        },
+        {
+          "Close": 4.710000038146973,
+          "Volume": 1715660
+        },
+        {
+          "Close": 4.630000114440918,
+          "Volume": 1802984
+        },
+        {
+          "Close": 4.849999904632568,
+          "Volume": 2496200
+        },
+        {
+          "Close": 4.849999904632568,
+          "Volume": 2532894
+        },
+        {
+          "Close": 4.789999961853027,
+          "Volume": 1628880
+        },
+        {
+          "Close": 4.730000019073486,
+          "Volume": 1404500
+        },
+        {
+          "Close": 4.630000114440918,
+          "Volume": 883846
+        },
+        {
+          "Close": 4.889999866485596,
+          "Volume": 2792457
+        },
+        {
+          "Close": 4.889999866485596,
+          "Volume": 1333796
+        },
+        {
+          "Close": 4.800000190734863,
+          "Volume": 1787727
+        },
+        {
+          "Close": 4.730000019073486,
+          "Volume": 1428677
+        },
+        {
+          "Close": 4.690000057220459,
+          "Volume": 1163745
+        },
+        {
+          "Close": 4.639999866485596,
+          "Volume": 1547530
+        },
+        {
+          "Close": 5.099999904632568,
+          "Volume": 5101212
+        },
+        {
+          "Close": 5.610000133514404,
+          "Volume": 12034030
+        },
+        {
+          "Close": 5.849999904632568,
+          "Volume": 10711115
+        },
+        {
+          "Close": 5.679999828338623,
+          "Volume": 7095027
+        }
+      ],
+      "heldPercentInsiders": 0.09536,
+      "heldPercentInstitutions": 0.15244001
+    },
+    {
       "code": "SILVR",
       "symbol": "SILVR.IS",
       "name": "Silverline Endustri ve Ticaret A.S.",
@@ -85064,61 +85442,61 @@
       "change": 5.4,
       "changeRate": 3.55,
       "previousClose": 152.2,
-      "open": 157.6,
-      "dayLow": 154.45,
-      "dayHigh": 160.75,
+      "open": 152.2,
+      "dayLow": 150.5,
+      "dayHigh": 157.8,
       "fiftyTwoWeekLow": 73.24,
       "fiftyTwoWeekHigh": 401.25,
       "fiftyDayAverage": 200.38,
       "twoHundredDayAverage": 239.39,
       "volume": "11,088,884",
-      "averageVolume": 11088884,
-      "averageVolume10days": 11088884,
+      "averageVolume": 15290916,
+      "averageVolume10days": 17857753,
       "marketCap": 110320001024,
-      "enterpriseValue": 0,
+      "enterpriseValue": 36182777856,
       "sharesOutstanding": 700000000,
-      "sector": "Diğer",
-      "industry": "",
-      "website": "",
-      "address": "",
-      "city": "",
+      "sector": "Financial Services",
+      "industry": "Capital Markets",
+      "website": "https://www.terayatirim.com",
+      "address": "Eski Büyükdere Cad.",
+      "city": "Istanbul",
       "country": "Turkey",
-      "phone": "",
-      "description": "",
+      "phone": "90 212 365 10 00",
+      "description": "Tera Yatirim Menkul Degerler A.S. engages in investment banking and brokerage activities in Turkey. The company offers institutional sales and trading services for mutual funds, hedge funds, and alpha capture funds investors; private sales and trading services, as well as personalized financial advisory services, stocks, bonds, and funds; and investment banking services, such as initial public offering underwriting, debt instrument issuance facilitation, capital increase support, company valuation, financing options, and merger and acquisition consultancy. It is also involved in facilitating share purchase offers, exit rights, and rights to withdraw from partnership/sell; and managing the process of wholesale market transactions and the process of sales to corporate and qualified investors. The company was incorporated in 1990 and is headquartered in Istanbul, Turkey.",
       "pe": 17.511112,
       "forwardPE": null,
       "priceToBook": 1.8344779,
       "pegRatio": null,
-      "priceToSales": null,
-      "enterpriseToRevenue": null,
+      "priceToSales": 0.26248607,
+      "enterpriseToRevenue": 0.086,
       "enterpriseToEbitda": null,
-      "profitMargins": null,
-      "grossMargins": null,
-      "operatingMargins": null,
-      "returnOnAssets": null,
-      "returnOnEquity": null,
-      "totalRevenue": null,
-      "revenuePerShare": null,
-      "totalCash": null,
-      "totalDebt": null,
-      "debtToEquity": null,
-      "currentRatio": null,
-      "quickRatio": null,
-      "eps": null,
+      "profitMargins": 0.10938,
+      "grossMargins": 0.056700002,
+      "operatingMargins": -0.00644,
+      "returnOnAssets": 0.42668,
+      "returnOnEquity": 1.30597,
+      "totalRevenue": 420288987136,
+      "revenuePerShare": 600.413,
+      "totalCash": 89971007488,
+      "totalDebt": 15754975232,
+      "debtToEquity": 26.164,
+      "currentRatio": 1.549,
+      "quickRatio": 0.93,
+      "eps": 9.0,
       "forwardEps": null,
       "bookValue": 85.91,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
       "targetMedianPrice": null,
       "recommendationMean": null,
-      "recommendationKey": "",
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.542,
       "historicalData": [
         {
           "Close": 199.89999389648438,
@@ -85241,8 +85619,8 @@
           "Volume": 11088884
         }
       ],
-      "heldPercentInsiders": null,
-      "heldPercentInstitutions": null
+      "heldPercentInsiders": 0.65586996,
+      "heldPercentInstitutions": 0.13168
     },
     {
       "code": "TEZOL",
@@ -90356,61 +90734,61 @@
       "change": 0.42,
       "changeRate": 1.37,
       "previousClose": 30.56,
-      "open": 30.98,
-      "dayLow": 30.36,
-      "dayHigh": 31.6,
+      "open": 30.68,
+      "dayLow": 30.58,
+      "dayHigh": 32.06,
       "fiftyTwoWeekLow": 15.02,
       "fiftyTwoWeekHigh": 35.46,
       "fiftyDayAverage": 27.63,
       "twoHundredDayAverage": 20.99,
       "volume": "2,914,130",
-      "averageVolume": 2914130,
-      "averageVolume10days": 2914130,
+      "averageVolume": 4186448,
+      "averageVolume10days": 2819146,
       "marketCap": 3624659968,
-      "enterpriseValue": 0,
+      "enterpriseValue": 3970289920,
       "sharesOutstanding": 117000000,
-      "sector": "Diğer",
-      "industry": "",
-      "website": "",
-      "address": "",
-      "city": "",
+      "sector": "Technology",
+      "industry": "Information Technology Services",
+      "website": "https://www.vbt.com.tr",
+      "address": "Quick Tower",
+      "city": "Istanbul",
       "country": "Turkey",
-      "phone": "",
-      "description": "",
+      "phone": "90 216 577 69 21",
+      "description": "VBT Yazilim Anonim Sirketi provides software, hardware, and consultancy services in Turkey. The company offers Heroty, an integrated human resources management platform; Flerpi commercial accounting software; e-transformation services; and VizyonIK, a web-based payroll and human resources management software. It also provides training, operating systems support, database support, application development, information systems service management consultancy, project management, process consultancy services, and modernization services. The company was incorporated in 1993 and is headquartered in Istanbul, Turkey.",
       "pe": 27.909908,
       "forwardPE": null,
       "priceToBook": 3.4300268,
       "pegRatio": null,
-      "priceToSales": null,
-      "enterpriseToRevenue": null,
-      "enterpriseToEbitda": null,
-      "profitMargins": null,
-      "grossMargins": null,
-      "operatingMargins": null,
-      "returnOnAssets": null,
-      "returnOnEquity": null,
-      "totalRevenue": null,
-      "revenuePerShare": null,
-      "totalCash": null,
-      "totalDebt": null,
-      "debtToEquity": null,
-      "currentRatio": null,
-      "quickRatio": null,
-      "eps": null,
+      "priceToSales": 1.42641,
+      "enterpriseToRevenue": 1.562,
+      "enterpriseToEbitda": 5.753,
+      "profitMargins": 0.05119,
+      "grossMargins": 0.31438,
+      "operatingMargins": 0.076069996,
+      "returnOnAssets": 0.0945,
+      "returnOnEquity": 0.12678,
+      "totalRevenue": 2541106688,
+      "revenuePerShare": 21.719,
+      "totalCash": 340270528,
+      "totalDebt": 692895168,
+      "debtToEquity": 66.006,
+      "currentRatio": 1.657,
+      "quickRatio": 1.084,
+      "eps": 1.11,
       "forwardEps": null,
       "bookValue": 9.032,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1685059200,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
       "targetMedianPrice": null,
       "recommendationMean": null,
-      "recommendationKey": "",
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 1.226,
       "historicalData": [
         {
           "Close": 28.700000762939453,
@@ -90533,8 +90911,8 @@
           "Volume": 2914130
         }
       ],
-      "heldPercentInsiders": null,
-      "heldPercentInstitutions": null
+      "heldPercentInsiders": 0.49703997,
+      "heldPercentInstitutions": 0.00041
     },
     {
       "code": "VERTU",
@@ -92803,6 +93181,195 @@
       ],
       "heldPercentInsiders": 0.60422003,
       "heldPercentInstitutions": 0.0
+    },
+    {
+      "code": "YUNSA",
+      "symbol": "YUNSA.IS",
+      "name": "Yünsa Yünlü Sanayi ve Ticaret A.S.",
+      "shortName": "YUNSA",
+      "price": 9.21,
+      "change": 0.21,
+      "changeRate": 2.33,
+      "previousClose": 9.0,
+      "open": 9.0,
+      "dayLow": 8.99,
+      "dayHigh": 9.26,
+      "fiftyTwoWeekLow": 5.17,
+      "fiftyTwoWeekHigh": 11.2,
+      "fiftyDayAverage": 9.78,
+      "twoHundredDayAverage": 8.7,
+      "volume": "2,147,531",
+      "averageVolume": 8443784,
+      "averageVolume10days": 3282303,
+      "marketCap": 4420800000,
+      "enterpriseValue": 4193500672,
+      "sharesOutstanding": 480000000,
+      "sector": "Consumer Cyclical",
+      "industry": "Textile Manufacturing",
+      "website": "https://www.yunsa.com",
+      "address": "Vadistanbul 1B Blok Kat: 23",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "phone": "90 212 365 65 00",
+      "description": "Yünsa Yünlü Sanayi ve Ticaret A.S. engages in the production and marketing of woolen textile products in Turkey and internationally. The company offers men and women fabrics; premium fabrics; corporate wear fabrics; and upholstery fabrics primarily used in commercial vehicle industry. It also provides wool blends, such as cashmere, silk, viscose, and other products. Yünsa Yünlü Sanayi ve Ticaret A.S. was incorporated in 1973 and is headquartered in Istanbul, Turkey. Yünsa Yünlü Sanayi ve Ticaret A.S. operates as a subsidiary of Sürmegöz Tekstil Yatirim A.S.",
+      "pe": 10.964286,
+      "forwardPE": null,
+      "priceToBook": 0.905872,
+      "pegRatio": null,
+      "priceToSales": 1.3556044,
+      "enterpriseToRevenue": 1.286,
+      "enterpriseToEbitda": 8.469,
+      "profitMargins": 0.12394,
+      "grossMargins": 0.20183,
+      "operatingMargins": 0.20257999,
+      "returnOnAssets": 0.043470003,
+      "returnOnEquity": 0.09368,
+      "totalRevenue": 3261128448,
+      "revenuePerShare": 6.794,
+      "totalCash": 582651200,
+      "totalDebt": 355351872,
+      "debtToEquity": 7.281,
+      "currentRatio": 2.518,
+      "quickRatio": 1.399,
+      "eps": 0.84,
+      "forwardEps": null,
+      "bookValue": 10.167,
+      "dividendRate": 0.37,
+      "dividendYield": 4.06,
+      "exDividendDate": 1777248000,
+      "payoutRatio": 0.0454,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": -0.421,
+      "historicalData": [
+        {
+          "Close": 10.5600004196167,
+          "Volume": 16853534
+        },
+        {
+          "Close": 11.050000190734863,
+          "Volume": 13896636
+        },
+        {
+          "Close": 10.600000381469727,
+          "Volume": 17398056
+        },
+        {
+          "Close": 10.40999984741211,
+          "Volume": 6516442
+        },
+        {
+          "Close": 10.1899995803833,
+          "Volume": 7394403
+        },
+        {
+          "Close": 10.180000305175781,
+          "Volume": 6917330
+        },
+        {
+          "Close": 10.220000267028809,
+          "Volume": 6101603
+        },
+        {
+          "Close": 10.489999771118164,
+          "Volume": 8698610
+        },
+        {
+          "Close": 10.619999885559082,
+          "Volume": 10022737
+        },
+        {
+          "Close": 10.539999961853027,
+          "Volume": 5330261
+        },
+        {
+          "Close": 10.640000343322754,
+          "Volume": 9271955
+        },
+        {
+          "Close": 10.529999732971191,
+          "Volume": 5025776
+        },
+        {
+          "Close": 10.300000190734863,
+          "Volume": 4607821
+        },
+        {
+          "Close": 10.25,
+          "Volume": 9414308
+        },
+        {
+          "Close": 10.369999885559082,
+          "Volume": 8604560
+        },
+        {
+          "Close": 10.329999923706055,
+          "Volume": 3212415
+        },
+        {
+          "Close": 10.300000190734863,
+          "Volume": 3791911
+        },
+        {
+          "Close": 10.289999961853027,
+          "Volume": 3446646
+        },
+        {
+          "Close": 10.25,
+          "Volume": 3792107
+        },
+        {
+          "Close": 10.039999961853027,
+          "Volume": 3400725
+        },
+        {
+          "Close": 9.760000228881836,
+          "Volume": 4659517
+        },
+        {
+          "Close": 9.539999961853027,
+          "Volume": 4458668
+        },
+        {
+          "Close": 9.40999984741211,
+          "Volume": 2762579
+        },
+        {
+          "Close": 9.420000076293945,
+          "Volume": 3542681
+        },
+        {
+          "Close": 9.279999732971191,
+          "Volume": 1818495
+        },
+        {
+          "Close": 9.09000015258789,
+          "Volume": 3893688
+        },
+        {
+          "Close": 9.0600004196167,
+          "Volume": 3102546
+        },
+        {
+          "Close": 8.8100004196167,
+          "Volume": 3206199
+        },
+        {
+          "Close": 9.0,
+          "Volume": 3231134
+        },
+        {
+          "Close": 9.210000038146973,
+          "Volume": 2147531
+        }
+      ],
+      "heldPercentInsiders": 0.57882,
+      "heldPercentInstitutions": 0.0002
     },
     {
       "code": "YYLGD",
