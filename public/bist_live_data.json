@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-07-16T23:03:15.082859",
+  "last_update": "2026-07-17T01:05:12.837334",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 499,
-  "successful": 499,
-  "failed": 32,
+  "total_stocks": 489,
+  "successful": 489,
+  "failed": 42,
   "stocks": [
     {
       "code": "GARAN",
@@ -57,10 +57,10 @@
       "eps": 28.07,
       "forwardEps": 33.84,
       "bookValue": 107.344,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 5.27,
+      "dividendYield": 4.09,
+      "exDividendDate": 1775520000,
+      "payoutRatio": 0.1876,
       "targetHighPrice": 205.73,
       "targetLowPrice": 155.0,
       "targetMeanPrice": 184.79787,
@@ -246,10 +246,10 @@
       "eps": 12.05,
       "forwardEps": 17.48,
       "bookValue": 58.193,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 2.2,
+      "dividendYield": 3.19,
+      "exDividendDate": 1774483200,
+      "payoutRatio": 0.18270001,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 53.659863,
-      "targetLowPrice": 36.87058,
-      "targetMeanPrice": 46.854324,
-      "targetMedianPrice": 47.593143,
+      "targetHighPrice": 53.772026,
+      "targetLowPrice": 36.947647,
+      "targetMeanPrice": 46.952263,
+      "targetMedianPrice": 47.692627,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -2272,195 +2272,6 @@
       ],
       "heldPercentInsiders": 0.0,
       "heldPercentInstitutions": 0.1088
-    },
-    {
-      "code": "ASELS",
-      "symbol": "ASELS.IS",
-      "name": "ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi",
-      "shortName": "ASELSAN",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 348.5,
-      "open": 349.0,
-      "dayLow": 349.0,
-      "dayHigh": 363.0,
-      "fiftyTwoWeekLow": 160.4,
-      "fiftyTwoWeekHigh": 450.0,
-      "fiftyDayAverage": 387.73,
-      "twoHundredDayAverage": 302.28,
-      "volume": "39,755,676",
-      "averageVolume": 28385930,
-      "averageVolume10days": 47540395,
-      "marketCap": 1607400030208,
-      "enterpriseValue": 1631148179456,
-      "sharesOutstanding": 4560000000,
-      "sector": "Industrials",
-      "industry": "Aerospace & Defense",
-      "website": "https://www.aselsan.com",
-      "address": "Mehmet Akif Ersoy Mahallesi",
-      "city": "Ankara",
-      "country": "Turkey",
-      "phone": "90 312 592 10 00",
-      "description": "ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi engages in research, development, engineering, production, testing, assembly, integration, sale, support, consultancy, and trading of software, equipment, systems, tools, materials, and platforms in turkey. It operates in six divisions: Communication and Information Technologies; Microelectronics, Guidance & Electro-Optics; Avionics and Guidance Systems Vice Presidency; Integrated Defence Systems Technologies; Radar and Electronic Warfare Systems; and Transportation, Security, Energy, Automation and Healthcare Systems. The company offers military communication and information, mission critical communication, avionics and navigation, electro-optic, guidance and seeker, land and weapon, naval and underwater, air and missile, transportation and energy, and security and health systems; satellite and space technologies; radar technologies; electronic warfare system technologies; and command, control, communication and computer systems. It also provides geographic information system; business development and repair services; and consultancy services, as well as operates in the fields of augmented reality, artificial intelligence, simulation software, research, development, and design and engineering. In addition, the company is involved in serial production, maintenance and repair activities of visible precision optical and electro optical devices; designing of electronic industry and integrated circuit; marketing and business development business; research, designing, development, and engineering activities of weapons and weapons systems; after-sales services of electronic components within the field of military power electronics; and commercial and industrial activities related to electromechanical industrial products and slip ring. The company was incorporated in 1975 and is headquartered in Ankara, Turkey. ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi is a subsidiary of Turkish Armed Forces Foundation.",
-      "pe": 49.369747,
-      "forwardPE": 17.242508,
-      "priceToBook": 5.718782,
-      "pegRatio": null,
-      "priceToSales": 8.692145,
-      "enterpriseToRevenue": 8.821,
-      "enterpriseToEbitda": 33.528,
-      "profitMargins": 0.17581,
-      "grossMargins": 0.31925,
-      "operatingMargins": 0.20516,
-      "returnOnAssets": 0.070989996,
-      "returnOnEquity": 0.14837,
-      "totalRevenue": 184925585408,
-      "revenuePerShare": 40.554,
-      "totalCash": 31005730816,
-      "totalDebt": 53089816576,
-      "debtToEquity": 18.777,
-      "currentRatio": 1.54,
-      "quickRatio": 0.588,
-      "eps": 7.14,
-      "forwardEps": null,
-      "bookValue": 61.639,
-      "dividendRate": 0.43,
-      "dividendYield": 0.12,
-      "exDividendDate": 1795478400,
-      "payoutRatio": 0.032899998,
-      "targetHighPrice": 495.0,
-      "targetLowPrice": 249.5,
-      "targetMeanPrice": 380.66364,
-      "targetMedianPrice": 387.0,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 11,
-      "beta": 0.836,
-      "historicalData": [
-        {
-          "Close": 362.25,
-          "Volume": 44493259
-        },
-        {
-          "Close": 363.0,
-          "Volume": 24157367
-        },
-        {
-          "Close": 368.0,
-          "Volume": 28237277
-        },
-        {
-          "Close": 357.25,
-          "Volume": 19113351
-        },
-        {
-          "Close": 376.75,
-          "Volume": 36066569
-        },
-        {
-          "Close": 377.75,
-          "Volume": 24887395
-        },
-        {
-          "Close": 371.25,
-          "Volume": 26510524
-        },
-        {
-          "Close": 375.75,
-          "Volume": 30445838
-        },
-        {
-          "Close": 394.0,
-          "Volume": 30390789
-        },
-        {
-          "Close": 395.0,
-          "Volume": 22440362
-        },
-        {
-          "Close": 410.75,
-          "Volume": 25136272
-        },
-        {
-          "Close": 402.5,
-          "Volume": 19250277
-        },
-        {
-          "Close": 394.75,
-          "Volume": 15420310
-        },
-        {
-          "Close": 392.0,
-          "Volume": 15103312
-        },
-        {
-          "Close": 367.5,
-          "Volume": 25534326
-        },
-        {
-          "Close": 373.5,
-          "Volume": 30370634
-        },
-        {
-          "Close": 361.5,
-          "Volume": 30569254
-        },
-        {
-          "Close": 357.5,
-          "Volume": 27586033
-        },
-        {
-          "Close": 345.0,
-          "Volume": 45256637
-        },
-        {
-          "Close": 371.25,
-          "Volume": 51344130
-        },
-        {
-          "Close": 384.75,
-          "Volume": 48201664
-        },
-        {
-          "Close": 399.5,
-          "Volume": 42574152
-        },
-        {
-          "Close": 401.75,
-          "Volume": 53832210
-        },
-        {
-          "Close": 383.0,
-          "Volume": 65463431
-        },
-        {
-          "Close": 377.0,
-          "Volume": 46688381
-        },
-        {
-          "Close": 358.75,
-          "Volume": 39044596
-        },
-        {
-          "Close": 370.0,
-          "Volume": 54713081
-        },
-        {
-          "Close": 352.5,
-          "Volume": 35331632
-        },
-        {
-          "Close": 348.5,
-          "Volume": 38210676
-        },
-        {
-          "Close": NaN,
-          "Volume": 39755676
-        }
-      ],
-      "heldPercentInsiders": 0.74195,
-      "heldPercentInstitutions": 0.092980005
     },
     {
       "code": "BIMAS",
@@ -4215,10 +4026,10 @@
       "eps": 9.61,
       "forwardEps": 29.89,
       "bookValue": 281.881,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 6.83,
+      "dividendYield": 3.57,
+      "exDividendDate": 1774396800,
+      "payoutRatio": 1.4259,
       "targetHighPrice": 333.0,
       "targetLowPrice": 272.6,
       "targetMeanPrice": 301.846,
@@ -4731,195 +4542,6 @@
       "heldPercentInstitutions": 0.039189998
     },
     {
-      "code": "TOASO",
-      "symbol": "TOASO.IS",
-      "name": "Tofas Türk Otomobil Fabrikasi Anonim Sirketi",
-      "shortName": "TOFAS OTO. FAB.",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 295.0,
-      "open": 290.0,
-      "dayLow": 290.0,
-      "dayHigh": 305.75,
-      "fiftyTwoWeekLow": 202.7,
-      "fiftyTwoWeekHigh": 358.25,
-      "fiftyDayAverage": 306.49,
-      "twoHundredDayAverage": 283.52,
-      "volume": "3,734,235",
-      "averageVolume": 3393489,
-      "averageVolume10days": 3312652,
-      "marketCap": 152499994624,
-      "enterpriseValue": 200715927552,
-      "sharesOutstanding": 500000000,
-      "sector": "Consumer Cyclical",
-      "industry": "Auto Manufacturers",
-      "website": "https://www.tofas.com.tr",
-      "address": "Büyükdere Cad. No: 145",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 275 33 90",
-      "description": "Tofas Türk Otomobil Fabrikasi Anonim Sirketi engages in manufacturing, exporting, and selling passenger cars\nand light commercial vehicles in Turkey. It also produces various automotive spare parts, as well as trades in automobile and spare parts; and provides consumer financing and insurance services. The company offers its products under the Peugeout, Citroen, Opel, Fiat, Jeep, Alfa Romeo, DS, Maserati, Ferrari, and Transit brands. It also exports its products. The company was incorporated in 1968 and is headquartered in Istanbul, Turkey.",
-      "pe": 13.2206335,
-      "forwardPE": 9.618417,
-      "priceToBook": 2.58628,
-      "pegRatio": 1.03,
-      "priceToSales": 0.38334253,
-      "enterpriseToRevenue": 0.505,
-      "enterpriseToEbitda": 22.51,
-      "profitMargins": 0.028970001,
-      "grossMargins": 0.06461,
-      "operatingMargins": 0.00955,
-      "returnOnAssets": 0.02036,
-      "returnOnEquity": 0.22183001,
-      "totalRevenue": 397816528896,
-      "revenuePerShare": 795.633,
-      "totalCash": 21156831232,
-      "totalDebt": 69372747776,
-      "debtToEquity": 117.651,
-      "currentRatio": 1.569,
-      "quickRatio": 1.179,
-      "eps": 23.07,
-      "forwardEps": 31.71,
-      "bookValue": 117.93,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
-      "targetHighPrice": 451.0,
-      "targetLowPrice": 320.0,
-      "targetMeanPrice": 401.18637,
-      "targetMedianPrice": 415.0,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 11,
-      "beta": 0.615,
-      "historicalData": [
-        {
-          "Close": 297.5,
-          "Volume": 2260449
-        },
-        {
-          "Close": 294.0,
-          "Volume": 1681088
-        },
-        {
-          "Close": 291.0,
-          "Volume": 2218686
-        },
-        {
-          "Close": 295.0,
-          "Volume": 2448221
-        },
-        {
-          "Close": 290.0,
-          "Volume": 2617527
-        },
-        {
-          "Close": 283.0,
-          "Volume": 3369188
-        },
-        {
-          "Close": 295.5,
-          "Volume": 3808752
-        },
-        {
-          "Close": 315.25,
-          "Volume": 2628925
-        },
-        {
-          "Close": 324.0,
-          "Volume": 3354974
-        },
-        {
-          "Close": 329.25,
-          "Volume": 4253924
-        },
-        {
-          "Close": 332.0,
-          "Volume": 2705703
-        },
-        {
-          "Close": 327.75,
-          "Volume": 2085294
-        },
-        {
-          "Close": 331.75,
-          "Volume": 5998848
-        },
-        {
-          "Close": 345.0,
-          "Volume": 5293257
-        },
-        {
-          "Close": 341.0,
-          "Volume": 7269274
-        },
-        {
-          "Close": 335.5,
-          "Volume": 3500657
-        },
-        {
-          "Close": 325.0,
-          "Volume": 2851463
-        },
-        {
-          "Close": 313.5,
-          "Volume": 3642249
-        },
-        {
-          "Close": 308.0,
-          "Volume": 4783357
-        },
-        {
-          "Close": 305.0,
-          "Volume": 4593541
-        },
-        {
-          "Close": 306.25,
-          "Volume": 3344125
-        },
-        {
-          "Close": 302.0,
-          "Volume": 3098666
-        },
-        {
-          "Close": 301.5,
-          "Volume": 2821162
-        },
-        {
-          "Close": 299.0,
-          "Volume": 3162582
-        },
-        {
-          "Close": 297.75,
-          "Volume": 3763351
-        },
-        {
-          "Close": 295.0,
-          "Volume": 2946137
-        },
-        {
-          "Close": 302.75,
-          "Volume": 3287662
-        },
-        {
-          "Close": 301.5,
-          "Volume": 3032983
-        },
-        {
-          "Close": 295.0,
-          "Volume": 3076317
-        },
-        {
-          "Close": NaN,
-          "Volume": 3734235
-        }
-      ],
-      "heldPercentInsiders": 0.75478995,
-      "heldPercentInstitutions": 0.05825
-    },
-    {
       "code": "TMSN",
       "symbol": "TMSN.IS",
       "name": "Tümosan Motor ve Traktör Sanayi A.S.",
@@ -5164,10 +4786,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": null,
-      "targetHighPrice": 517.4287,
-      "targetLowPrice": 381.63806,
-      "targetMeanPrice": 434.85645,
-      "targetMedianPrice": 432.72815,
+      "targetHighPrice": 517.8603,
+      "targetLowPrice": 381.9564,
+      "targetMeanPrice": 435.21915,
+      "targetMedianPrice": 433.08908,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -5349,10 +4971,10 @@
       "eps": 0.08,
       "forwardEps": 0.02,
       "bookValue": 37.941,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.6,
+      "dividendYield": 2.85,
+      "exDividendDate": 1782259200,
+      "payoutRatio": 5.0524,
       "targetHighPrice": 34.0,
       "targetLowPrice": 24.2,
       "targetMeanPrice": 31.1875,
@@ -5538,10 +5160,10 @@
       "eps": 4.42,
       "forwardEps": 6.29,
       "bookValue": 85.286,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 5.08,
+      "dividendYield": 5.11,
+      "exDividendDate": 1776038400,
+      "payoutRatio": 0.6493,
       "targetHighPrice": 169.3,
       "targetLowPrice": 120.0,
       "targetMeanPrice": 136.40334,
@@ -5729,8 +5351,8 @@
       "bookValue": 3.919,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1560729600,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -6483,10 +6105,10 @@
       "eps": 7.21,
       "forwardEps": 13.18,
       "bookValue": 52.539,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 5.26,
+      "dividendYield": 3.88,
+      "exDividendDate": 1782777600,
+      "payoutRatio": 0.73,
       "targetHighPrice": 243.0,
       "targetLowPrice": 211.41,
       "targetMeanPrice": 229.4625,
@@ -8373,10 +7995,10 @@
       "eps": 1.16,
       "forwardEps": null,
       "bookValue": 8.013,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.06,
+      "dividendYield": 0.34,
+      "exDividendDate": 1780876800,
+      "payoutRatio": 0.0433,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -8570,8 +8192,8 @@
       "targetLowPrice": 40.87,
       "targetMeanPrice": 47.25167,
       "targetMedianPrice": 47.37,
-      "recommendationMean": 1.0,
-      "recommendationKey": "strong_buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 6,
       "beta": -0.029,
       "historicalData": [
@@ -9887,8 +9509,8 @@
       "bookValue": 59.592,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1688947200,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -10830,10 +10452,10 @@
       "eps": -0.45,
       "forwardEps": null,
       "bookValue": 11.391,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.07,
+      "dividendYield": 1.12,
+      "exDividendDate": 1750204800,
+      "payoutRatio": 2.6667001,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -11019,10 +10641,10 @@
       "eps": -0.37,
       "forwardEps": null,
       "bookValue": 13.529,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.3,
+      "dividendYield": 3.23,
+      "exDividendDate": 1782259200,
+      "payoutRatio": 5.6122,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -11775,10 +11397,10 @@
       "eps": 0.6,
       "forwardEps": null,
       "bookValue": 19.163,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 1.5,
+      "dividendYield": 11.66,
+      "exDividendDate": 1775001600,
+      "payoutRatio": 1.6667,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -11972,8 +11594,8 @@
       "targetLowPrice": 300.0,
       "targetMeanPrice": 344.82,
       "targetMedianPrice": 328.24,
-      "recommendationMean": 1.2,
-      "recommendationKey": "strong_buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 5,
       "beta": 0.435,
       "historicalData": [
@@ -12345,7 +11967,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -12534,7 +12156,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": 27.21,
       "targetLowPrice": 27.21,
       "targetMeanPrice": 27.21,
@@ -13100,8 +12722,8 @@
       "bookValue": 2.616,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1546214400,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -13665,10 +13287,10 @@
       "eps": 0.18,
       "forwardEps": null,
       "bookValue": 15.957,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.16,
+      "dividendYield": 0.36,
+      "exDividendDate": 1759190400,
+      "payoutRatio": 0.8885,
       "targetHighPrice": 64.4,
       "targetLowPrice": 64.4,
       "targetMeanPrice": 64.4,
@@ -14045,8 +13667,8 @@
       "bookValue": 8.593,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1596499200,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -15179,8 +14801,8 @@
       "bookValue": 6.91,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1656892800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -15935,8 +15557,8 @@
       "bookValue": 16.654,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1399852800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -16502,8 +16124,8 @@
       "bookValue": 327.975,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1571788800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -16689,10 +16311,10 @@
       "eps": 1.42,
       "forwardEps": null,
       "bookValue": 9.59,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.03,
+      "dividendYield": 0.35,
+      "exDividendDate": 1765152000,
+      "payoutRatio": 0.0202,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -17070,7 +16692,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -17447,8 +17069,8 @@
       "bookValue": 29.071,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1193270400,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -17637,7 +17259,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -17823,10 +17445,10 @@
       "eps": 0.83,
       "forwardEps": null,
       "bookValue": 67.337,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 2.28,
+      "dividendYield": 6.66,
+      "exDividendDate": 1776729600,
+      "payoutRatio": 1.7955999,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -18203,8 +17825,8 @@
       "bookValue": 38.294,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1655769600,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -18581,8 +18203,8 @@
       "bookValue": 113.834,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1306800000,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -19902,10 +19524,10 @@
       "eps": -1633.79,
       "forwardEps": null,
       "bookValue": 13.103,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.3,
+      "dividendYield": 1.26,
+      "exDividendDate": 1778630400,
+      "payoutRatio": 0.0832,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -21981,10 +21603,10 @@
       "eps": -0.35,
       "forwardEps": null,
       "bookValue": 7.872,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.21,
+      "dividendYield": 3.62,
+      "exDividendDate": 1764028800,
+      "payoutRatio": 0.45270002,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -22359,10 +21981,10 @@
       "eps": 0.33,
       "forwardEps": null,
       "bookValue": 9.211,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.12,
+      "dividendYield": 1.54,
+      "exDividendDate": 1788480000,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -22739,8 +22361,8 @@
       "bookValue": 0.279,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1116892800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -22928,8 +22550,8 @@
       "bookValue": 277.783,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1559260800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -23117,8 +22739,8 @@
       "bookValue": 8.408,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1432684800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -23306,8 +22928,8 @@
       "bookValue": 4.242,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1465171200,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -23685,7 +23307,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -24060,10 +23682,10 @@
       "eps": -0.97,
       "forwardEps": null,
       "bookValue": 19.128,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.71,
+      "dividendYield": 1.75,
+      "exDividendDate": 1767139200,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -24252,7 +23874,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -24816,10 +24438,10 @@
       "eps": 6.3,
       "forwardEps": 9.35,
       "bookValue": 29.82,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 1.43,
+      "dividendYield": 1.7,
+      "exDividendDate": 1778544000,
+      "payoutRatio": 0.1701,
       "targetHighPrice": 120.3,
       "targetLowPrice": 93.0,
       "targetMeanPrice": 103.03083,
@@ -26330,8 +25952,8 @@
       "bookValue": 6.132,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1577750400,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -27600,195 +27222,6 @@
       "heldPercentInstitutions": 0.06497
     },
     {
-      "code": "DARDL",
-      "symbol": "DARDL.IS",
-      "name": "Dardanel Onentas Gida Sanayi A.S.",
-      "shortName": "DARDANEL",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 1.92,
-      "open": 1.93,
-      "dayLow": 1.92,
-      "dayHigh": 1.98,
-      "fiftyTwoWeekLow": 1.88,
-      "fiftyTwoWeekHigh": 3.12,
-      "fiftyDayAverage": 2.16,
-      "twoHundredDayAverage": 2.24,
-      "volume": "15,903,062",
-      "averageVolume": 25543039,
-      "averageVolume10days": 13085235,
-      "marketCap": 4595018240,
-      "enterpriseValue": 9587467264,
-      "sharesOutstanding": 2344397132,
-      "sector": "Consumer Defensive",
-      "industry": "Packaged Foods",
-      "website": "https://www.dardanel.com.tr",
-      "address": "Izmir Road 4. km",
-      "city": "Canakkale",
-      "country": "Turkey",
-      "phone": "90 212 223 88 30",
-      "description": "Dardanel Onentas Gida Sanayi A.S. engages in the seafood business in Turkey and internationally. The company produces and sells canned food, including tuna, salmon, sardines, mackerel, anchovy, and other seafood; frozen food comprising mussels and other seafood; and fish by-products, such as fish meal and oil. Dardanel Onentas Gida Sanayi A.S. was incorporated in 1981 and is headquartered in Canakkale, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 0.6040062,
-      "pegRatio": null,
-      "priceToSales": 0.3488685,
-      "enterpriseToRevenue": 0.728,
-      "enterpriseToEbitda": 17.084,
-      "profitMargins": -0.08445,
-      "grossMargins": 0.32179,
-      "operatingMargins": 0.05091,
-      "returnOnAssets": 0.01289,
-      "returnOnEquity": -0.16303,
-      "totalRevenue": 13171205120,
-      "revenuePerShare": 6.891,
-      "totalCash": 245767120,
-      "totalDebt": 5238216192,
-      "debtToEquity": 68.861,
-      "currentRatio": 0.934,
-      "quickRatio": 0.262,
-      "eps": -0.12,
-      "forwardEps": null,
-      "bookValue": 3.245,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.016,
-      "historicalData": [
-        {
-          "Close": 2.299999952316284,
-          "Volume": 19312379
-        },
-        {
-          "Close": 2.299999952316284,
-          "Volume": 28877280
-        },
-        {
-          "Close": 2.2300000190734863,
-          "Volume": 23854262
-        },
-        {
-          "Close": 2.130000114440918,
-          "Volume": 20673749
-        },
-        {
-          "Close": 2.0799999237060547,
-          "Volume": 18854674
-        },
-        {
-          "Close": 2.069999933242798,
-          "Volume": 14800969
-        },
-        {
-          "Close": 2.119999885559082,
-          "Volume": 23358615
-        },
-        {
-          "Close": 2.180000066757202,
-          "Volume": 18319376
-        },
-        {
-          "Close": 2.109999895095825,
-          "Volume": 18820504
-        },
-        {
-          "Close": 2.0899999141693115,
-          "Volume": 9598914
-        },
-        {
-          "Close": 2.0999999046325684,
-          "Volume": 12363275
-        },
-        {
-          "Close": 2.049999952316284,
-          "Volume": 14264317
-        },
-        {
-          "Close": 2.069999933242798,
-          "Volume": 9570645
-        },
-        {
-          "Close": 2.069999933242798,
-          "Volume": 14701162
-        },
-        {
-          "Close": 2.0299999713897705,
-          "Volume": 11023822
-        },
-        {
-          "Close": 2.0,
-          "Volume": 22316436
-        },
-        {
-          "Close": 2.0,
-          "Volume": 12127558
-        },
-        {
-          "Close": 1.9600000381469727,
-          "Volume": 18599991
-        },
-        {
-          "Close": 1.9600000381469727,
-          "Volume": 12321187
-        },
-        {
-          "Close": 1.9600000381469727,
-          "Volume": 12268344
-        },
-        {
-          "Close": 1.9800000190734863,
-          "Volume": 23157429
-        },
-        {
-          "Close": 1.9900000095367432,
-          "Volume": 8271804
-        },
-        {
-          "Close": 1.9900000095367432,
-          "Volume": 9018501
-        },
-        {
-          "Close": 1.9500000476837158,
-          "Volume": 7146911
-        },
-        {
-          "Close": 1.8899999856948853,
-          "Volume": 16085838
-        },
-        {
-          "Close": 1.8899999856948853,
-          "Volume": 12096145
-        },
-        {
-          "Close": 1.9500000476837158,
-          "Volume": 12847968
-        },
-        {
-          "Close": 1.909999966621399,
-          "Volume": 18159415
-        },
-        {
-          "Close": 1.9199999570846558,
-          "Volume": 11800000
-        },
-        {
-          "Close": NaN,
-          "Volume": 15903062
-        }
-      ],
-      "heldPercentInsiders": 0.51542,
-      "heldPercentInstitutions": 0.17754999
-    },
-    {
       "code": "DENGE",
       "symbol": "DENGE.IS",
       "name": "Denge Yatirim Holding A.S.",
@@ -28356,195 +27789,6 @@
       "heldPercentInstitutions": 0.0
     },
     {
-      "code": "DESA",
-      "symbol": "DESA.IS",
-      "name": "Desa Deri Sanayi ve Ticaret A.S.",
-      "shortName": "DESA DERI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 10.52,
-      "open": 10.53,
-      "dayLow": 10.41,
-      "dayHigh": 10.56,
-      "fiftyTwoWeekLow": 9.91,
-      "fiftyTwoWeekHigh": 16.91,
-      "fiftyDayAverage": 12.14,
-      "twoHundredDayAverage": 12.65,
-      "volume": "1,453,174",
-      "averageVolume": 1676260,
-      "averageVolume10days": 1886409,
-      "marketCap": 5144999936,
-      "enterpriseValue": 3653474560,
-      "sharesOutstanding": 490000000,
-      "sector": "Consumer Cyclical",
-      "industry": "Footwear & Accessories",
-      "website": "https://www.desa.com.tr",
-      "address": "Inönü Mah. Halkali Cad. No: 208",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 473 18 00",
-      "description": "Desa Deri Sanayi ve Ticaret A.S. manufactures, sells, exports, and imports leather garments in Turkey. The company offers leather jackets, clothing, shoes, bags and accessories, backpacks, saddlery products, and other leather accessories for men and women. The company markets and sells its products through wholesale and retail sales channels, as well as through online stores. It also exports its products. The company was founded in 1972 and is headquartered in Istanbul, Turkey. Desa Deri Sanayi ve Ticaret A.S. is a subsidiary of Çelet Holding A.S.",
-      "pe": 9.722221,
-      "forwardPE": null,
-      "priceToBook": 1.1849679,
-      "pegRatio": null,
-      "priceToSales": 1.3629067,
-      "enterpriseToRevenue": 0.968,
-      "enterpriseToEbitda": 7.051,
-      "profitMargins": 0.14107001,
-      "grossMargins": 0.59466,
-      "operatingMargins": 0.12470999,
-      "returnOnAssets": 0.07565,
-      "returnOnEquity": 0.1441,
-      "totalRevenue": 3775019776,
-      "revenuePerShare": 7.704,
-      "totalCash": 1840694400,
-      "totalDebt": 349168832,
-      "debtToEquity": 8.041,
-      "currentRatio": 3.136,
-      "quickRatio": 1.771,
-      "eps": 1.08,
-      "forwardEps": null,
-      "bookValue": 8.861,
-      "dividendRate": 0.36,
-      "dividendYield": 3.42,
-      "exDividendDate": 1790726400,
-      "payoutRatio": 0.2223,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.361,
-      "historicalData": [
-        {
-          "Close": 12.680000305175781,
-          "Volume": 1169048
-        },
-        {
-          "Close": 12.270000457763672,
-          "Volume": 720055
-        },
-        {
-          "Close": 12.260000228881836,
-          "Volume": 610065
-        },
-        {
-          "Close": 12.199999809265137,
-          "Volume": 1073200
-        },
-        {
-          "Close": 12.100000381469727,
-          "Volume": 693166
-        },
-        {
-          "Close": 11.970000267028809,
-          "Volume": 470444
-        },
-        {
-          "Close": 12.15999984741211,
-          "Volume": 787236
-        },
-        {
-          "Close": 12.460000038146973,
-          "Volume": 915158
-        },
-        {
-          "Close": 12.1899995803833,
-          "Volume": 856258
-        },
-        {
-          "Close": 12.0600004196167,
-          "Volume": 559813
-        },
-        {
-          "Close": 12.300000190734863,
-          "Volume": 1021554
-        },
-        {
-          "Close": 12.029999732971191,
-          "Volume": 451588
-        },
-        {
-          "Close": 12.069999694824219,
-          "Volume": 724157
-        },
-        {
-          "Close": 12.039999961853027,
-          "Volume": 367123
-        },
-        {
-          "Close": 11.670000076293945,
-          "Volume": 1485981
-        },
-        {
-          "Close": 11.300000190734863,
-          "Volume": 1472594
-        },
-        {
-          "Close": 10.739999771118164,
-          "Volume": 3587598
-        },
-        {
-          "Close": 10.5,
-          "Volume": 1658661
-        },
-        {
-          "Close": 11.550000190734863,
-          "Volume": 2169788
-        },
-        {
-          "Close": 10.930000305175781,
-          "Volume": 5721809
-        },
-        {
-          "Close": 10.720000267028809,
-          "Volume": 2109398
-        },
-        {
-          "Close": 10.970000267028809,
-          "Volume": 1433733
-        },
-        {
-          "Close": 10.899999618530273,
-          "Volume": 1456120
-        },
-        {
-          "Close": 10.600000381469727,
-          "Volume": 2478932
-        },
-        {
-          "Close": 10.5,
-          "Volume": 1474618
-        },
-        {
-          "Close": 10.5,
-          "Volume": 716837
-        },
-        {
-          "Close": 10.489999771118164,
-          "Volume": 1237650
-        },
-        {
-          "Close": 10.489999771118164,
-          "Volume": 934768
-        },
-        {
-          "Close": 10.520000457763672,
-          "Volume": 1300226
-        },
-        {
-          "Close": NaN,
-          "Volume": 1453174
-        }
-      ],
-      "heldPercentInsiders": 0.82835,
-      "heldPercentInstitutions": 0.04434
-    },
-    {
       "code": "DESPC",
       "symbol": "DESPC.IS",
       "name": "Despec Bilgisayar Pazarlama ve Ticaret Anonim Sirketi",
@@ -28598,8 +27842,8 @@
       "bookValue": 18.193,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1559001600,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -29166,7 +28410,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -31055,8 +30299,8 @@
       "bookValue": 21.027,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1434585600,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -31622,8 +30866,8 @@
       "bookValue": 15.615,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1369958400,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -32565,10 +31809,10 @@
       "eps": 189.72,
       "forwardEps": null,
       "bookValue": 2682.771,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 53.0,
+      "dividendYield": 0.94,
+      "exDividendDate": 1743120000,
+      "payoutRatio": 0.31219998,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -35025,7 +34269,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -35403,7 +34647,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -36158,8 +35402,8 @@
       "bookValue": 6.671,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1681257600,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -36296,7 +35540,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "ETILER GIDA",
+      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
       "shortName": "ETILER GIDA",
       "price": NaN,
       "change": NaN,
@@ -36536,8 +35780,8 @@
       "bookValue": 1.155,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1691452800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -37104,7 +36348,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -37860,7 +37104,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -38235,10 +37479,10 @@
       "eps": -0.44,
       "forwardEps": null,
       "bookValue": 11.408,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.07,
+      "dividendYield": 0.65,
+      "exDividendDate": 1757635200,
+      "payoutRatio": 0.3807,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -38424,10 +37668,10 @@
       "eps": 7.0,
       "forwardEps": null,
       "bookValue": 45.297,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 4.76,
+      "dividendYield": 1.63,
+      "exDividendDate": 1774569600,
+      "payoutRatio": 0.6794,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -39183,7 +38427,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -39561,7 +38805,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -40506,7 +39750,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -40881,10 +40125,10 @@
       "eps": 16.63,
       "forwardEps": null,
       "bookValue": 26.88,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.03,
+      "dividendYield": 0.05,
+      "exDividendDate": 1790035200,
+      "payoutRatio": 0.0638,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -43529,8 +42773,8 @@
       "bookValue": 1.181,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1288569600,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -45232,10 +44476,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.52846,
-      "targetLowPrice": 63.0954,
-      "targetMeanPrice": 68.636024,
-      "targetMedianPrice": 63.283745,
+      "targetHighPrice": 79.59834,
+      "targetLowPrice": 63.15085,
+      "targetMeanPrice": 68.69634,
+      "targetMedianPrice": 63.339355,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -45797,8 +45041,8 @@
       "bookValue": 3.874,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1275264000,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -46365,7 +45609,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -46931,8 +46175,8 @@
       "bookValue": 6.257,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1702339200,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -47499,7 +46743,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -48821,8 +48065,8 @@
       "bookValue": 10.277,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1338422400,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -50331,10 +49575,10 @@
       "eps": -0.99,
       "forwardEps": 0.43,
       "bookValue": 56.943,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.08,
+      "dividendYield": 0.31,
+      "exDividendDate": 1774915200,
+      "payoutRatio": 0.0,
       "targetHighPrice": 27.2,
       "targetLowPrice": 15.9,
       "targetMeanPrice": 21.55,
@@ -50898,10 +50142,10 @@
       "eps": -3.8,
       "forwardEps": null,
       "bookValue": 14.813,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.04,
+      "dividendYield": 0.56,
+      "exDividendDate": 1782777600,
+      "payoutRatio": 0.036199998,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -51657,7 +50901,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -52223,8 +51467,8 @@
       "bookValue": 99.094,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1660780800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -53736,7 +52980,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -54814,195 +54058,6 @@
       ],
       "heldPercentInsiders": 0.68671995,
       "heldPercentInstitutions": 0.00932
-    },
-    {
-      "code": "KLMSN",
-      "symbol": "KLMSN.IS",
-      "name": "Klimasan Klima Sanayi ve Ticaret A.S.",
-      "shortName": "KLIMASAN KLIMA",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 29.92,
-      "open": 29.92,
-      "dayLow": 29.92,
-      "dayHigh": 31.14,
-      "fiftyTwoWeekLow": 25.14,
-      "fiftyTwoWeekHigh": 55.25,
-      "fiftyDayAverage": 32.88,
-      "twoHundredDayAverage": 32.2,
-      "volume": "921,959",
-      "averageVolume": 1523550,
-      "averageVolume10days": 2366127,
-      "marketCap": 2428271872,
-      "enterpriseValue": 6013646848,
-      "sharesOutstanding": 79200000,
-      "sector": "Industrials",
-      "industry": "Specialty Industrial Machinery",
-      "website": "https://www.klimasan.com.tr",
-      "address": "Manisa Organize Sanayi Bölgesi 1",
-      "city": "Manisa",
-      "country": "Turkey",
-      "phone": "90 236 236 22 33",
-      "description": "Klimasan Klima Sanayi ve Ticaret A.S. engages in the production and sale of industrial type refrigerators and freezers in Turkey and internationally. The company offers beverage coolers, such as counter tops; back bars; single, double, and triple door; horizontal, and sub zero coolers; supermarket cabinets and wine coolers; and freezers, including chest, vertical, and ice cream and frozen food freezers under the Metalfrio, Klimasan, and Senocak brands. It serves beverage, ice cream, and food service/retail sector. Klimasan Klima Sanayi ve Ticaret A.S. was founded in 1915 and is based in Manisa, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 0.60939735,
-      "pegRatio": null,
-      "priceToSales": 0.3325579,
-      "enterpriseToRevenue": 0.824,
-      "enterpriseToEbitda": 24.315,
-      "profitMargins": -0.05503,
-      "grossMargins": 0.13871999,
-      "operatingMargins": 0.021289999,
-      "returnOnAssets": 0.00426,
-      "returnOnEquity": -0.10491,
-      "totalRevenue": 7301801984,
-      "revenuePerShare": 92.194,
-      "totalCash": 425524192,
-      "totalDebt": 4010899200,
-      "debtToEquity": 100.657,
-      "currentRatio": 1.114,
-      "quickRatio": 0.744,
-      "eps": -5.07,
-      "forwardEps": null,
-      "bookValue": 50.312,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.423,
-      "historicalData": [
-        {
-          "Close": 34.779998779296875,
-          "Volume": 2137233
-        },
-        {
-          "Close": 33.560001373291016,
-          "Volume": 737310
-        },
-        {
-          "Close": 33.5,
-          "Volume": 855039
-        },
-        {
-          "Close": 33.0,
-          "Volume": 581494
-        },
-        {
-          "Close": 32.220001220703125,
-          "Volume": 458582
-        },
-        {
-          "Close": 31.399999618530273,
-          "Volume": 582338
-        },
-        {
-          "Close": 31.8799991607666,
-          "Volume": 558223
-        },
-        {
-          "Close": 32.70000076293945,
-          "Volume": 558180
-        },
-        {
-          "Close": 32.47999954223633,
-          "Volume": 634111
-        },
-        {
-          "Close": 32.20000076293945,
-          "Volume": 591263
-        },
-        {
-          "Close": 32.15999984741211,
-          "Volume": 664381
-        },
-        {
-          "Close": 32.220001220703125,
-          "Volume": 607698
-        },
-        {
-          "Close": 31.760000228881836,
-          "Volume": 448467
-        },
-        {
-          "Close": 31.5,
-          "Volume": 470921
-        },
-        {
-          "Close": 31.360000610351562,
-          "Volume": 402769
-        },
-        {
-          "Close": 31.020000457763672,
-          "Volume": 570845
-        },
-        {
-          "Close": 31.139999389648438,
-          "Volume": 524824
-        },
-        {
-          "Close": 34.2400016784668,
-          "Volume": 3437631
-        },
-        {
-          "Close": 33.599998474121094,
-          "Volume": 6643149
-        },
-        {
-          "Close": 33.02000045776367,
-          "Volume": 1359923
-        },
-        {
-          "Close": 33.880001068115234,
-          "Volume": 1865874
-        },
-        {
-          "Close": 33.119998931884766,
-          "Volume": 723197
-        },
-        {
-          "Close": 34.900001525878906,
-          "Volume": 8166566
-        },
-        {
-          "Close": 33.02000045776367,
-          "Volume": 5268749
-        },
-        {
-          "Close": 31.200000762939453,
-          "Volume": 2451041
-        },
-        {
-          "Close": 30.84000015258789,
-          "Volume": 978738
-        },
-        {
-          "Close": 31.260000228881836,
-          "Volume": 1038469
-        },
-        {
-          "Close": 29.860000610351562,
-          "Volume": 920809
-        },
-        {
-          "Close": 29.920000076293945,
-          "Volume": 887905
-        },
-        {
-          "Close": NaN,
-          "Volume": 921959
-        }
-      ],
-      "heldPercentInsiders": 0.68274003,
-      "heldPercentInstitutions": 0.0
     },
     {
       "code": "KLNMA",
@@ -58272,7 +57327,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -58460,8 +57515,8 @@
       "bookValue": 52.126,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1338422400,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -58647,10 +57702,10 @@
       "eps": 0.15,
       "forwardEps": null,
       "bookValue": 3.487,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.04,
+      "dividendYield": 1.32,
+      "exDividendDate": 1781740800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -59405,8 +58460,8 @@
       "bookValue": 120.471,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1545264000,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -59538,195 +58593,6 @@
         }
       ],
       "heldPercentInsiders": 0.74097,
-      "heldPercentInstitutions": 0.0
-    },
-    {
-      "code": "KUVVA",
-      "symbol": "KUVVA.IS",
-      "name": "Kuvva Gida Ticaret Ve Sanayi Yatirimlari Anonim Sirketi",
-      "shortName": "KUVVA GIDA",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 135.3,
-      "open": 137.9,
-      "dayLow": 132.1,
-      "dayHigh": 137.9,
-      "fiftyTwoWeekLow": 82.35,
-      "fiftyTwoWeekHigh": 175.0,
-      "fiftyDayAverage": 147.63,
-      "twoHundredDayAverage": 138.17,
-      "volume": "50,132",
-      "averageVolume": 150727,
-      "averageVolume10days": 94579,
-      "marketCap": 4150316288,
-      "enterpriseValue": 4723043840,
-      "sharesOutstanding": 31042007,
-      "sector": "Consumer Defensive",
-      "industry": "Food Distribution",
-      "website": "https://www.serve.com.tr",
-      "address": "SOegUetlUeCesme Mah. 1. Fevzi Cakmak",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 258 34 64",
-      "description": "Kuvva Gida Ticaret Ve Sanayi Yatirimlari Anonim Sirketi produces, manufactures, and distributes food products in Turkey. Kuvva Gida Ticaret Ve Sanayi Yatirimlari Anonim Sirketi was formerly known as Serve Film Prodüksiyon Eglence A.S. and changed its name to Kuvva Gida Ticaret Ve Sanayi Yatirimlari Anonim Sirketi in September 2022. The company was incorporated in 1996 and is based in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 9.116323,
-      "pegRatio": null,
-      "priceToSales": 4.933792,
-      "enterpriseToRevenue": 5.615,
-      "enterpriseToEbitda": 11.971,
-      "profitMargins": -0.38395,
-      "grossMargins": 0.11684,
-      "operatingMargins": -0.057340004,
-      "returnOnAssets": 0.0086900005,
-      "returnOnEquity": -0.47353,
-      "totalRevenue": 841202112,
-      "revenuePerShare": 27.099,
-      "totalCash": 2873114,
-      "totalDebt": 551314240,
-      "debtToEquity": 114.962,
-      "currentRatio": 0.283,
-      "quickRatio": 0.214,
-      "eps": -10.4,
-      "forwardEps": null,
-      "bookValue": 14.666,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.734,
-      "historicalData": [
-        {
-          "Close": 150.0,
-          "Volume": 198974
-        },
-        {
-          "Close": 152.0,
-          "Volume": 84890
-        },
-        {
-          "Close": 166.0,
-          "Volume": 317072
-        },
-        {
-          "Close": 164.39999389648438,
-          "Volume": 190763
-        },
-        {
-          "Close": 157.1999969482422,
-          "Volume": 137718
-        },
-        {
-          "Close": 152.10000610351562,
-          "Volume": 114962
-        },
-        {
-          "Close": 147.8000030517578,
-          "Volume": 112074
-        },
-        {
-          "Close": 146.0,
-          "Volume": 96023
-        },
-        {
-          "Close": 148.6999969482422,
-          "Volume": 75111
-        },
-        {
-          "Close": 151.39999389648438,
-          "Volume": 90118
-        },
-        {
-          "Close": 147.0,
-          "Volume": 52866
-        },
-        {
-          "Close": 146.3000030517578,
-          "Volume": 129063
-        },
-        {
-          "Close": 140.6999969482422,
-          "Volume": 141970
-        },
-        {
-          "Close": 139.8000030517578,
-          "Volume": 92797
-        },
-        {
-          "Close": 132.0,
-          "Volume": 121454
-        },
-        {
-          "Close": 128.60000610351562,
-          "Volume": 83473
-        },
-        {
-          "Close": 139.5,
-          "Volume": 187516
-        },
-        {
-          "Close": 135.89999389648438,
-          "Volume": 79208
-        },
-        {
-          "Close": 143.10000610351562,
-          "Volume": 232947
-        },
-        {
-          "Close": 141.60000610351562,
-          "Volume": 119242
-        },
-        {
-          "Close": 139.1999969482422,
-          "Volume": 53350
-        },
-        {
-          "Close": 140.1999969482422,
-          "Volume": 63281
-        },
-        {
-          "Close": 135.1999969482422,
-          "Volume": 61378
-        },
-        {
-          "Close": 134.0,
-          "Volume": 78784
-        },
-        {
-          "Close": 130.8000030517578,
-          "Volume": 111308
-        },
-        {
-          "Close": 130.0,
-          "Volume": 150824
-        },
-        {
-          "Close": 135.89999389648438,
-          "Volume": 163743
-        },
-        {
-          "Close": 133.8000030517578,
-          "Volume": 59641
-        },
-        {
-          "Close": 135.3000030517578,
-          "Volume": 84240
-        },
-        {
-          "Close": NaN,
-          "Volume": 50132
-        }
-      ],
-      "heldPercentInsiders": 0.04542,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -59973,7 +58839,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -60539,8 +59405,8 @@
       "bookValue": 2.205,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1681084800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -61482,10 +60348,10 @@
       "eps": 3.94,
       "forwardEps": null,
       "bookValue": 8.181,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 3.6,
+      "dividendYield": 10.8,
+      "exDividendDate": 1790035200,
+      "payoutRatio": 0.2792,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -62754,384 +61620,6 @@
       "heldPercentInstitutions": 0.0
     },
     {
-      "code": "MARTI",
-      "symbol": "MARTI.IS",
-      "name": "Marti Otel Isletmeleri A.S.",
-      "shortName": "MARTI OTEL",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 1.6,
-      "open": 1.6,
-      "dayLow": 1.6,
-      "dayHigh": 1.66,
-      "fiftyTwoWeekLow": 1.29,
-      "fiftyTwoWeekHigh": 4.76,
-      "fiftyDayAverage": 1.86,
-      "twoHundredDayAverage": 2.37,
-      "volume": "31,664,654",
-      "averageVolume": 89801011,
-      "averageVolume10days": 33314973,
-      "marketCap": 2457835776,
-      "enterpriseValue": 16895385600,
-      "sharesOutstanding": 1498680327,
-      "sector": "Consumer Cyclical",
-      "industry": "Lodging",
-      "website": "https://yatirimci.marti.com.tr",
-      "address": "Omer Avni Mah.Dumen Sok.Dumen Apt.No:3",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 334 88 50",
-      "description": "Marti Otel Isletmeleri A.S. operates and leases hotels, motels, holiday villages, marinas, restaurants, and other touristic facilities in Turkey. Marti Otel Isletmeleri A.S. was founded in 1967 and is based in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 0.3372404,
-      "pegRatio": null,
-      "priceToSales": 1.5284791,
-      "enterpriseToRevenue": 10.507,
-      "enterpriseToEbitda": -1031.818,
-      "profitMargins": -0.2361,
-      "grossMargins": 0.32502,
-      "operatingMargins": -1.4023199,
-      "returnOnAssets": -0.0052300002,
-      "returnOnEquity": -0.0163,
-      "totalRevenue": 1608027136,
-      "revenuePerShare": 1.073,
-      "totalCash": 949239488,
-      "totalDebt": 5534622208,
-      "debtToEquity": 32.29,
-      "currentRatio": 0.541,
-      "quickRatio": 0.439,
-      "eps": -0.39,
-      "forwardEps": null,
-      "bookValue": 4.863,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.014,
-      "historicalData": [
-        {
-          "Close": 1.9600000381469727,
-          "Volume": 80162807
-        },
-        {
-          "Close": 1.9600000381469727,
-          "Volume": 107833084
-        },
-        {
-          "Close": 1.9500000476837158,
-          "Volume": 48330411
-        },
-        {
-          "Close": 1.850000023841858,
-          "Volume": 61443752
-        },
-        {
-          "Close": 1.7899999618530273,
-          "Volume": 55690918
-        },
-        {
-          "Close": 1.850000023841858,
-          "Volume": 61212563
-        },
-        {
-          "Close": 1.8799999952316284,
-          "Volume": 57664882
-        },
-        {
-          "Close": 1.8799999952316284,
-          "Volume": 48515853
-        },
-        {
-          "Close": 1.8600000143051147,
-          "Volume": 41416800
-        },
-        {
-          "Close": 1.8200000524520874,
-          "Volume": 40341463
-        },
-        {
-          "Close": 1.7999999523162842,
-          "Volume": 49009617
-        },
-        {
-          "Close": 1.7799999713897705,
-          "Volume": 39672241
-        },
-        {
-          "Close": 1.840000033378601,
-          "Volume": 70041010
-        },
-        {
-          "Close": 1.909999966621399,
-          "Volume": 70274031
-        },
-        {
-          "Close": 1.8200000524520874,
-          "Volume": 53627433
-        },
-        {
-          "Close": 1.7799999713897705,
-          "Volume": 32626519
-        },
-        {
-          "Close": 1.7599999904632568,
-          "Volume": 29701151
-        },
-        {
-          "Close": 1.7100000381469727,
-          "Volume": 50104917
-        },
-        {
-          "Close": 1.7000000476837158,
-          "Volume": 46650342
-        },
-        {
-          "Close": 1.690000057220459,
-          "Volume": 31362002
-        },
-        {
-          "Close": 1.690000057220459,
-          "Volume": 25121885
-        },
-        {
-          "Close": 1.6799999475479126,
-          "Volume": 30340687
-        },
-        {
-          "Close": 1.6299999952316284,
-          "Volume": 36543618
-        },
-        {
-          "Close": 1.649999976158142,
-          "Volume": 42796038
-        },
-        {
-          "Close": 1.6100000143051147,
-          "Volume": 43409062
-        },
-        {
-          "Close": 1.590000033378601,
-          "Volume": 37832234
-        },
-        {
-          "Close": 1.6100000143051147,
-          "Volume": 26817911
-        },
-        {
-          "Close": 1.5800000429153442,
-          "Volume": 37566801
-        },
-        {
-          "Close": 1.600000023841858,
-          "Volume": 21359499
-        },
-        {
-          "Close": NaN,
-          "Volume": 31664654
-        }
-      ],
-      "heldPercentInsiders": 0.24222,
-      "heldPercentInstitutions": 0.08895001
-    },
-    {
-      "code": "MEDTR",
-      "symbol": "MEDTR.IS",
-      "name": "Meditera Tibbi Malzeme Sanayi ve Ticaret Anonim Sirketi",
-      "shortName": "MEDITERA TIBBI MALZEME",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 27.46,
-      "open": 27.46,
-      "dayLow": 27.2,
-      "dayHigh": 27.7,
-      "fiftyTwoWeekLow": 26.0,
-      "fiftyTwoWeekHigh": 37.96,
-      "fiftyDayAverage": 29.82,
-      "twoHundredDayAverage": 29.31,
-      "volume": "825,484",
-      "averageVolume": 787074,
-      "averageVolume10days": 383765,
-      "marketCap": 2591731712,
-      "enterpriseValue": 2830195456,
-      "sharesOutstanding": 94865725,
-      "sector": "Healthcare",
-      "industry": "Medical Devices",
-      "website": "https://www.meditera.com.tr",
-      "address": "Ibni Melek OSB Mahallesi, TOSBI Yol 4",
-      "city": "Izmir",
-      "country": "Turkey",
-      "phone": "90 232 513 5110",
-      "description": "Meditera Tibbi Malzeme Sanayi ve Ticaret Anonim Sirketi manufactures and sells medical devices in Turkey. The company offers two-way  and single-line Infusion Systems; Chemotherapy Preparation and Administration Systems, such as medoconco automated drug preparation, diana semi-automatic drug dispensing, and ICU medical chemotherapy drug delivery systems; and respiratory systems products, including respiratory circuits, respiratory filters, catheter mounts, gas sampling lines, accessories, masks, and connectors. It also provides hospital products, such as barrier cream, surgical hand brushes for skin disinfection, hand and skin antiseptics, and skin and mucosa antiseptics. In addition, the company provides surgical solutions, including absorbable and absorbable sutures, and hemostatic products; installation, operation, and design of oncology drug preparation and delivery systems; production, sales, and technical service of infusion pumps and sets; and manufacturing of biocidal products. It also exports its products to 80 countries under its Altech brand name. Meditera Tibbi Malzeme Sanayi ve Ticaret Anonim Sirketi was founded in 1983 and is headquartered in Izmir, Turkey.",
-      "pe": 118.78261,
-      "forwardPE": null,
-      "priceToBook": 1.1188468,
-      "pegRatio": null,
-      "priceToSales": 0.9479008,
-      "enterpriseToRevenue": 1.035,
-      "enterpriseToEbitda": 11.236,
-      "profitMargins": 0.01001,
-      "grossMargins": 0.29072002,
-      "operatingMargins": 0.00992,
-      "returnOnAssets": 0.01564,
-      "returnOnEquity": 0.0103400005,
-      "totalRevenue": 2734180352,
-      "revenuePerShare": 22.976,
-      "totalCash": 480088384,
-      "totalDebt": 31536868,
-      "debtToEquity": 0.994,
-      "currentRatio": 3.58,
-      "quickRatio": 2.276,
-      "eps": 0.23,
-      "forwardEps": null,
-      "bookValue": 24.418,
-      "dividendRate": 0.45,
-      "dividendYield": 1.65,
-      "exDividendDate": 1785283200,
-      "payoutRatio": 1.0961,
-      "targetHighPrice": 45.5,
-      "targetLowPrice": 45.5,
-      "targetMeanPrice": 45.5,
-      "targetMedianPrice": 45.5,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 1,
-      "beta": 0.385,
-      "historicalData": [
-        {
-          "Close": 30.079999923706055,
-          "Volume": 687031
-        },
-        {
-          "Close": 29.959999084472656,
-          "Volume": 660516
-        },
-        {
-          "Close": 29.899999618530273,
-          "Volume": 462527
-        },
-        {
-          "Close": 29.920000076293945,
-          "Volume": 1111842
-        },
-        {
-          "Close": 30.479999542236328,
-          "Volume": 908274
-        },
-        {
-          "Close": 30.020000457763672,
-          "Volume": 872448
-        },
-        {
-          "Close": 30.3799991607666,
-          "Volume": 536818
-        },
-        {
-          "Close": 30.059999465942383,
-          "Volume": 1389007
-        },
-        {
-          "Close": 30.0,
-          "Volume": 628240
-        },
-        {
-          "Close": 30.200000762939453,
-          "Volume": 1028233
-        },
-        {
-          "Close": 30.059999465942383,
-          "Volume": 797914
-        },
-        {
-          "Close": 30.079999923706055,
-          "Volume": 509092
-        },
-        {
-          "Close": 30.15999984741211,
-          "Volume": 881926
-        },
-        {
-          "Close": 30.18000030517578,
-          "Volume": 1101377
-        },
-        {
-          "Close": 29.899999618530273,
-          "Volume": 1068087
-        },
-        {
-          "Close": 29.3799991607666,
-          "Volume": 666543
-        },
-        {
-          "Close": 28.440000534057617,
-          "Volume": 578836
-        },
-        {
-          "Close": 28.6200008392334,
-          "Volume": 391207
-        },
-        {
-          "Close": 28.239999771118164,
-          "Volume": 366805
-        },
-        {
-          "Close": 28.920000076293945,
-          "Volume": 444028
-        },
-        {
-          "Close": 29.239999771118164,
-          "Volume": 423704
-        },
-        {
-          "Close": 28.860000610351562,
-          "Volume": 386847
-        },
-        {
-          "Close": 28.899999618530273,
-          "Volume": 290891
-        },
-        {
-          "Close": 29.600000381469727,
-          "Volume": 741953
-        },
-        {
-          "Close": 28.559999465942383,
-          "Volume": 472083
-        },
-        {
-          "Close": 28.020000457763672,
-          "Volume": 310520
-        },
-        {
-          "Close": 27.959999084472656,
-          "Volume": 238108
-        },
-        {
-          "Close": 27.6200008392334,
-          "Volume": 302052
-        },
-        {
-          "Close": 27.459999084472656,
-          "Volume": 227464
-        },
-        {
-          "Close": NaN,
-          "Volume": 825484
-        }
-      ],
-      "heldPercentInsiders": 0.79412,
-      "heldPercentInstitutions": 1.0000001e-05
-    },
-    {
       "code": "MEGAP",
       "symbol": "MEGAP.IS",
       "name": "Mega Polietilen Köpük Sanayi ve Ticaret Anonim Sirketi",
@@ -63319,195 +61807,6 @@
       ],
       "heldPercentInsiders": 0.08542,
       "heldPercentInstitutions": 0.0
-    },
-    {
-      "code": "MEGMT",
-      "symbol": "MEGMT.IS",
-      "name": "MEGA METAL",
-      "shortName": "MEGA METAL",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 66.0,
-      "open": 66.0,
-      "dayLow": 65.9,
-      "dayHigh": 68.8,
-      "fiftyTwoWeekLow": 27.42,
-      "fiftyTwoWeekHigh": 95.3,
-      "fiftyDayAverage": 79.61,
-      "twoHundredDayAverage": 63.25,
-      "volume": "3,624,555",
-      "averageVolume": 6697463,
-      "averageVolume10days": 3717755,
-      "marketCap": 18006749184,
-      "enterpriseValue": 24347691008,
-      "sharesOutstanding": 265000000,
-      "sector": "Industrials",
-      "industry": "Electrical Equipment & Parts",
-      "website": "https://www.megametal.com.tr",
-      "address": "Levent Karanfil Sokak, No:6",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 243 54 54",
-      "description": "Mega Metal Sanayi ve Ticaret A.S. manufactures and sells electrolytic copper wires in Turkey. It offers single and bunched copper wires, wire rods, multi wires, and braiding wires, as well as silver and tin plated, and uncoated and bare copper wires. The company also provides copper raw materials, copper concentrate, blister copper, anode/cathode copper, and enamel lathe, as well as wire scraps, electronic copper, copper wire rod, coppering, copper combustion, and other products. It serves energy generation and distribution, electricity, electronics, communication, renewable energy, electrical appliances, white goods, special industrial applications, aviation, and automotive sectors. The company exports its products. Mega Metal Sanayi ve Ticaret A.S. was incorporated in 2004 and is headquartered in Istanbul, Turkey.",
-      "pe": 10.066667,
-      "forwardPE": null,
-      "priceToBook": 3.909441,
-      "pegRatio": null,
-      "priceToSales": 0.68961924,
-      "enterpriseToRevenue": 0.932,
-      "enterpriseToEbitda": 16.687,
-      "profitMargins": 0.06837,
-      "grossMargins": 0.07949,
-      "operatingMargins": 0.045760002,
-      "returnOnAssets": 0.04217,
-      "returnOnEquity": 0.42449,
-      "totalRevenue": 26111145984,
-      "revenuePerShare": 98.533,
-      "totalCash": 1857666304,
-      "totalDebt": 8198608384,
-      "debtToEquity": 178.0,
-      "currentRatio": 1.074,
-      "quickRatio": 0.503,
-      "eps": 6.75,
-      "forwardEps": null,
-      "bookValue": 17.381,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.581,
-      "historicalData": [
-        {
-          "Close": 77.4000015258789,
-          "Volume": 7753912
-        },
-        {
-          "Close": 79.44999694824219,
-          "Volume": 10820802
-        },
-        {
-          "Close": 78.0999984741211,
-          "Volume": 8465842
-        },
-        {
-          "Close": 81.5999984741211,
-          "Volume": 11771146
-        },
-        {
-          "Close": 84.55000305175781,
-          "Volume": 6821368
-        },
-        {
-          "Close": 86.75,
-          "Volume": 5866534
-        },
-        {
-          "Close": 86.0,
-          "Volume": 8212173
-        },
-        {
-          "Close": 86.94999694824219,
-          "Volume": 6445677
-        },
-        {
-          "Close": 85.80000305175781,
-          "Volume": 3976442
-        },
-        {
-          "Close": 83.0999984741211,
-          "Volume": 2990636
-        },
-        {
-          "Close": 83.75,
-          "Volume": 5351691
-        },
-        {
-          "Close": 82.3499984741211,
-          "Volume": 4278894
-        },
-        {
-          "Close": 87.3499984741211,
-          "Volume": 13715730
-        },
-        {
-          "Close": 83.0,
-          "Volume": 5292477
-        },
-        {
-          "Close": 79.4000015258789,
-          "Volume": 4061847
-        },
-        {
-          "Close": 78.75,
-          "Volume": 4087554
-        },
-        {
-          "Close": 78.8499984741211,
-          "Volume": 1980041
-        },
-        {
-          "Close": 76.25,
-          "Volume": 4575089
-        },
-        {
-          "Close": 77.05000305175781,
-          "Volume": 4405723
-        },
-        {
-          "Close": 74.8499984741211,
-          "Volume": 4031550
-        },
-        {
-          "Close": 74.5999984741211,
-          "Volume": 2136752
-        },
-        {
-          "Close": 75.0,
-          "Volume": 3554690
-        },
-        {
-          "Close": 72.4000015258789,
-          "Volume": 4355918
-        },
-        {
-          "Close": 72.55000305175781,
-          "Volume": 3630305
-        },
-        {
-          "Close": 70.0,
-          "Volume": 3739010
-        },
-        {
-          "Close": 70.5,
-          "Volume": 3423844
-        },
-        {
-          "Close": 68.19999694824219,
-          "Volume": 3309536
-        },
-        {
-          "Close": 67.69999694824219,
-          "Volume": 3115710
-        },
-        {
-          "Close": 66.0,
-          "Volume": 5880235
-        },
-        {
-          "Close": NaN,
-          "Volume": 3624555
-        }
-      ],
-      "heldPercentInsiders": 0.59951,
-      "heldPercentInstitutions": 0.00196
     },
     {
       "code": "MEKAG",
@@ -64128,10 +62427,10 @@
       "eps": 2.25,
       "forwardEps": null,
       "bookValue": 56.576,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.14,
+      "dividendYield": 0.81,
+      "exDividendDate": 1750032000,
+      "payoutRatio": 0.0622,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -65643,7 +63942,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -66398,8 +64697,8 @@
       "bookValue": 103.525,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1275004800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -67532,8 +65831,8 @@
       "bookValue": 1.28,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1475193600,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -67910,8 +66209,8 @@
       "bookValue": 167.931,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1371686400,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -68099,8 +66398,8 @@
       "bookValue": 20.353,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1242777600,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -68853,10 +67152,10 @@
       "eps": 1.88,
       "forwardEps": null,
       "bookValue": 30.875,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.84,
+      "dividendYield": 1.6,
+      "exDividendDate": 1790121600,
+      "payoutRatio": 0.4456,
       "targetHighPrice": 69.3,
       "targetLowPrice": 69.3,
       "targetMeanPrice": 69.3,
@@ -72069,7 +70368,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -73011,10 +71310,10 @@
       "eps": 3.97,
       "forwardEps": null,
       "bookValue": 18.238,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 2.53,
+      "dividendYield": 7.7,
+      "exDividendDate": 1786320000,
+      "payoutRatio": 0.21280001,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -74147,8 +72446,8 @@
       "bookValue": 24.168,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1665964800,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -74337,7 +72636,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -77172,7 +75471,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -77307,195 +75606,6 @@
       "heldPercentInstitutions": 0.02874
     },
     {
-      "code": "RGYAS",
-      "symbol": "RGYAS.IS",
-      "name": "RONESANS GAYRIMENKUL YAT.",
-      "shortName": "RONESANS GAYRIMENKUL YAT.",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 198.2,
-      "open": 198.2,
-      "dayLow": 197.2,
-      "dayHigh": 205.0,
-      "fiftyTwoWeekLow": 130.0,
-      "fiftyTwoWeekHigh": 211.0,
-      "fiftyDayAverage": 194.53,
-      "twoHundredDayAverage": 165.54,
-      "volume": "1,470,778",
-      "averageVolume": 3268772,
-      "averageVolume10days": 1144356,
-      "marketCap": 67854999552,
-      "enterpriseValue": 93657612288,
-      "sharesOutstanding": 331000000,
-      "sector": "Real Estate",
-      "industry": "Real Estate - Development",
-      "website": "https://www.rgy.com.tr",
-      "address": "Cankaya Mah. Ataturk Bulvari No:144/146",
-      "city": "Ankara",
-      "country": "Turkey",
-      "phone": "90 312 840 10 00",
-      "description": "Ronesans Gayrimenkul Yatirim A.S., together with its subsidiaries, operates as the commercial real estate development and investment company in Türkiye. The company develops and manages shopping malls, office buildings, and other commercial real estate projects, as well as residential properties. It also provides management and consulting and asset management services, as well as rents investment properties. Ronesans Gayrimenkul Yatirim A.S. was founded in 2006 and is headquartered in Ankara, Turkey. Ronesans Gayrimenkul Yatirim A.S. operates as a subsidiary of Ronesans Varlik ve Proje Yatirimlari A.S.",
-      "pe": 3.6679192,
-      "forwardPE": null,
-      "priceToBook": 0.45497924,
-      "pegRatio": null,
-      "priceToSales": 4.9192863,
-      "enterpriseToRevenue": 6.79,
-      "enterpriseToEbitda": 10.408,
-      "profitMargins": 1.34153,
-      "grossMargins": 0.71045,
-      "operatingMargins": 0.71313006,
-      "returnOnAssets": 0.031519998,
-      "returnOnEquity": 0.14913,
-      "totalRevenue": 13793667072,
-      "revenuePerShare": 41.673,
-      "totalCash": 10778168320,
-      "totalDebt": 36580782080,
-      "debtToEquity": 24.528,
-      "currentRatio": 1.885,
-      "quickRatio": 1.749,
-      "eps": 55.89,
-      "forwardEps": null,
-      "bookValue": 450.57,
-      "dividendRate": 1.64,
-      "dividendYield": 0.83,
-      "exDividendDate": 1767139200,
-      "payoutRatio": 0.0293,
-      "targetHighPrice": 310.1,
-      "targetLowPrice": 265.0,
-      "targetMeanPrice": 280.26,
-      "targetMedianPrice": 265.68,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 3,
-      "beta": 0.91,
-      "historicalData": [
-        {
-          "Close": 195.0,
-          "Volume": 1660597
-        },
-        {
-          "Close": 195.3000030517578,
-          "Volume": 1848665
-        },
-        {
-          "Close": 195.89999389648438,
-          "Volume": 1396276
-        },
-        {
-          "Close": 199.39999389648438,
-          "Volume": 3611388
-        },
-        {
-          "Close": 197.8000030517578,
-          "Volume": 1580597
-        },
-        {
-          "Close": 198.89999389648438,
-          "Volume": 2142775
-        },
-        {
-          "Close": 205.5,
-          "Volume": 3043065
-        },
-        {
-          "Close": 203.39999389648438,
-          "Volume": 2576097
-        },
-        {
-          "Close": 198.8000030517578,
-          "Volume": 1393682
-        },
-        {
-          "Close": 200.0,
-          "Volume": 1545785
-        },
-        {
-          "Close": 198.39999389648438,
-          "Volume": 2070634
-        },
-        {
-          "Close": 200.0,
-          "Volume": 2278680
-        },
-        {
-          "Close": 199.5,
-          "Volume": 975597
-        },
-        {
-          "Close": 195.6999969482422,
-          "Volume": 1126483
-        },
-        {
-          "Close": 196.6999969482422,
-          "Volume": 1410875
-        },
-        {
-          "Close": 194.8000030517578,
-          "Volume": 885444
-        },
-        {
-          "Close": 192.10000610351562,
-          "Volume": 1372832
-        },
-        {
-          "Close": 192.0,
-          "Volume": 1080166
-        },
-        {
-          "Close": 193.39999389648438,
-          "Volume": 1133759
-        },
-        {
-          "Close": 191.6999969482422,
-          "Volume": 1307833
-        },
-        {
-          "Close": 191.5,
-          "Volume": 1753417
-        },
-        {
-          "Close": 191.89999389648438,
-          "Volume": 684043
-        },
-        {
-          "Close": 193.6999969482422,
-          "Volume": 626912
-        },
-        {
-          "Close": 196.0,
-          "Volume": 1035145
-        },
-        {
-          "Close": 194.3000030517578,
-          "Volume": 1379684
-        },
-        {
-          "Close": 197.1999969482422,
-          "Volume": 1651054
-        },
-        {
-          "Close": 197.89999389648438,
-          "Volume": 684130
-        },
-        {
-          "Close": 197.60000610351562,
-          "Volume": 654836
-        },
-        {
-          "Close": 198.1999969482422,
-          "Volume": 1666515
-        },
-        {
-          "Close": NaN,
-          "Volume": 1470778
-        }
-      ],
-      "heldPercentInsiders": 0.89019996,
-      "heldPercentInstitutions": 0.01051
-    },
-    {
       "code": "RNPOL",
       "symbol": "RNPOL.IS",
       "name": "Rainbow Polikarbonat Sanayi Ticaret Anonim Sirketi",
@@ -77550,7 +75660,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -77928,7 +76038,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -78495,7 +76605,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -78683,8 +76793,8 @@
       "bookValue": 6.291,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1554854400,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -79061,8 +77171,8 @@
       "bookValue": 11.084,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1475193600,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -79626,10 +77736,10 @@
       "eps": 0.35,
       "forwardEps": null,
       "bookValue": 12.91,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.35,
+      "dividendYield": 1.36,
+      "exDividendDate": 1779062400,
+      "payoutRatio": 0.71209997,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -82085,8 +80195,8 @@
       "bookValue": 7.661,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1711497600,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -83973,10 +82083,10 @@
       "eps": 1.26,
       "forwardEps": null,
       "bookValue": 16.21,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 1.09,
+      "dividendYield": 3.17,
+      "exDividendDate": 1762300800,
+      "payoutRatio": 0.8683,
       "targetHighPrice": 45.0,
       "targetLowPrice": 45.0,
       "targetMeanPrice": 45.0,
@@ -85674,10 +83784,10 @@
       "eps": 0.3,
       "forwardEps": null,
       "bookValue": 12.146,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.45,
+      "dividendYield": 2.8,
+      "exDividendDate": 1780272000,
+      "payoutRatio": 0.3326,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -86997,10 +85107,10 @@
       "eps": 8.37,
       "forwardEps": 40.96,
       "bookValue": 146.176,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 5.0,
+      "dividendYield": 4.98,
+      "exDividendDate": 1779321600,
+      "payoutRatio": 0.4182,
       "targetHighPrice": 156.97,
       "targetLowPrice": 97.0,
       "targetMeanPrice": 123.1925,
@@ -87378,7 +85488,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -87945,7 +86055,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -90024,7 +88134,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -91344,10 +89454,10 @@
       "eps": -3.97,
       "forwardEps": 4.54,
       "bookValue": 24.395,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.04,
+      "dividendYield": 0.69,
+      "exDividendDate": 1753315200,
+      "payoutRatio": 4.2702,
       "targetHighPrice": 11.5,
       "targetLowPrice": 8.9,
       "targetMeanPrice": 10.2,
@@ -92100,10 +90210,10 @@
       "eps": 0.06,
       "forwardEps": null,
       "bookValue": 2.527,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "dividendRate": 0.03,
+      "dividendYield": 0.22,
+      "exDividendDate": 1781049600,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -92669,8 +90779,8 @@
       "bookValue": 12.818,
       "dividendRate": null,
       "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": null,
+      "exDividendDate": 1658102400,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
@@ -93615,7 +91725,7 @@
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
-      "payoutRatio": null,
+      "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
       "targetMeanPrice": null,
