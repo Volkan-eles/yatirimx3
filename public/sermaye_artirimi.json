@@ -1,5 +1,23 @@
 [
   {
+    "code": "VAKFN",
+    "company": "VAKFN Vakıf Finansal Kiralama A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%20",
+    "date": "16.07.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "ONCSM",
+    "company": "ONCSM Oncosem Onkolojik Sistemler San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1200",
+    "date": "16.07.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı"
+  },
+  {
     "code": "AKFYE",
     "company": "AKFYE Akfen Yenilenebilir Enerji A.Ş.",
     "type": "Bedelsiz",
@@ -169,15 +187,6 @@
     "date": "18.05.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 3.182.920.390 TL"
-  },
-  {
-    "code": "VAKFN",
-    "company": "VAKFN Vakıf Finansal Kiralama A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%20",
-    "date": "13.05.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "VSNMD",
@@ -378,6 +387,15 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
+    "code": "SEKFK",
+    "company": "SEKFK Şeker Finansal Kiralama A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "16.07.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 1 TL"
+  },
+  {
     "code": "ALGYO",
     "company": "ALGYO Alarko Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelli",
@@ -500,15 +518,6 @@
     "type": "Bedelli",
     "rate": "%200",
     "date": "18.02.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "SEKFK",
-    "company": "SEKFK Şeker Finansal Kiralama A.Ş.",
-    "type": "Bedelli",
-    "rate": "%100",
-    "date": "06.02.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
