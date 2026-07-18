@@ -11,9 +11,39 @@
       "lotCount": "%26.66"
     },
     {
+      "company": "KARCL",
+      "link": "https://halkarz.com/kardemir-celik-sanayi-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "KARCL",
+      "price": "35,00 TL",
+      "dates": "22-23-24 Temmuz 202609:00-17:00",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "128.000.000 Lot"
+    },
+    {
+      "company": "MASFN",
+      "link": "https://halkarz.com/masfen-enerji-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "MASFN",
+      "price": "45,68 TL",
+      "dates": "22-23-24 Temmuz 202609:00-17:00",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "85.000.000 Lot"
+    },
+    {
+      "company": "METEN",
+      "link": "https://halkarz.com/metgun-enerji-yatirimlari-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "METEN",
+      "price": "20,00 TL",
+      "dates": "20-21-22 Temmuz 202609:00-17:00",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "135.579.000 Lot"
+    },
+    {
       "company": "SARAE",
       "link": "https://halkarz.com/sa-ra-enerji-insaat-tic-ve-san-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "SARAE",
       "price": "70,00 TL",
       "dates": "17 Temmuz 2026",
@@ -5413,7 +5443,7 @@
     {
       "company": "DURDO",
       "link": "https://halkarz.com/duran-dogan-basim-ve-ambalaj-san-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "DURDO",
       "price": "9.000 TL *YTL Öncesi",
       "dates": "17 Temmuz 1991",
@@ -5833,7 +5863,7 @@
     {
       "company": "OYAKC",
       "link": "https://halkarz.com/oyak-cimento-fabrikalari-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "OYAKC",
       "price": "Belirlenmedi",
       "dates": "17 Temmuz 1987",
