@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-07-18T04:10:42.728466",
+  "last_update": "2026-07-18T06:30:47.977838",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 499,
-  "successful": 499,
-  "failed": 32,
+  "total_stocks": 489,
+  "successful": 489,
+  "failed": 42,
   "stocks": [
     {
       "code": "GARAN",
@@ -63,9 +63,9 @@
       "payoutRatio": 0.1876,
       "targetHighPrice": 205.73,
       "targetLowPrice": 155.0,
-      "targetMeanPrice": 184.79787,
-      "targetMedianPrice": 187.5,
-      "recommendationMean": 1.35714,
+      "targetMeanPrice": 182.9407,
+      "targetMedianPrice": 187.25,
+      "recommendationMean": 1.5,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 14,
       "beta": 0.487,
@@ -3845,8 +3845,8 @@
       "targetLowPrice": 31.5,
       "targetMeanPrice": 35.6,
       "targetMedianPrice": 35.6,
-      "recommendationMean": 3.5,
-      "recommendationKey": "hold",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
       "beta": -0.143,
       "historicalData": [
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.35,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 517.1966,
-      "targetLowPrice": 381.46686,
-      "targetMeanPrice": 434.66138,
-      "targetMedianPrice": 432.53403,
+      "targetHighPrice": 517.39703,
+      "targetLowPrice": 381.6147,
+      "targetMeanPrice": 434.8298,
+      "targetMedianPrice": 432.70166,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -10968,195 +10968,6 @@
       "heldPercentInstitutions": 0.02429
     },
     {
-      "code": "CEMTS",
-      "symbol": "CEMTS.IS",
-      "name": "Çemtas Çelik Makina Sanayi ve Ticaret A.S.",
-      "shortName": "CEMTAS",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 9.51,
-      "open": 9.49,
-      "dayLow": 9.21,
-      "dayHigh": 9.49,
-      "fiftyTwoWeekLow": 9.21,
-      "fiftyTwoWeekHigh": 13.31,
-      "fiftyDayAverage": 10.29,
-      "twoHundredDayAverage": 10.95,
-      "volume": "2,083,922",
-      "averageVolume": 2919048,
-      "averageVolume10days": 2033840,
-      "marketCap": 4689999872,
-      "enterpriseValue": 4398347264,
-      "sharesOutstanding": 500000000,
-      "sector": "Basic Materials",
-      "industry": "Steel",
-      "website": "https://www.cemtas.com.tr",
-      "address": "FethiyeOSB Mahallesi",
-      "city": "Bursa",
-      "country": "Turkey",
-      "phone": "90 224 243 12 30",
-      "description": "Çemtas Çelik Makina Sanayi ve Ticaret A.S. produces and sell steel products in Turkey. The company provides specialty steel products, including spring steel flat, peeled round, and hot rolled round bars in various steel qualities, consisting of spring, carbon, quench and tempering, micro alloy, boron, case hardening, free cutting, stainless, carbon toll and bearing, and structural steel. It offers stabilizer bars. The company serves automotive supply, wind energy, machine manufacturing, and defense industries. It exports its products. The company was incorporated in 1970 and is headquartered in Bursa, Turkey. Çemtas Çelik Makina Sanayi ve Ticaret A.S. is a subsidiary of Bursa Cimento Fabrikasi A.S.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 0.69332546,
-      "pegRatio": 0.5,
-      "priceToSales": 0.76770973,
-      "enterpriseToRevenue": 0.72,
-      "enterpriseToEbitda": 5.772,
-      "profitMargins": -0.03006,
-      "grossMargins": 0.15976,
-      "operatingMargins": 0.01721,
-      "returnOnAssets": 0.03001,
-      "returnOnEquity": -0.030079998,
-      "totalRevenue": 6109079552,
-      "revenuePerShare": 12.218,
-      "totalCash": 2040396672,
-      "totalDebt": 1748743936,
-      "debtToEquity": 25.853,
-      "currentRatio": 4.412,
-      "quickRatio": 2.628,
-      "eps": -0.37,
-      "forwardEps": null,
-      "bookValue": 13.529,
-      "dividendRate": 0.3,
-      "dividendYield": 3.15,
-      "exDividendDate": 1782259200,
-      "payoutRatio": 5.6122,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.216,
-      "historicalData": [
-        {
-          "Close": 9.884927749633789,
-          "Volume": 3744320
-        },
-        {
-          "Close": 9.846087455749512,
-          "Volume": 2725393
-        },
-        {
-          "Close": 9.76840591430664,
-          "Volume": 1840094
-        },
-        {
-          "Close": 9.710144996643066,
-          "Volume": 2410691
-        },
-        {
-          "Close": 9.622753143310547,
-          "Volume": 1859943
-        },
-        {
-          "Close": 9.952898979187012,
-          "Volume": 3766992
-        },
-        {
-          "Close": 10.176231384277344,
-          "Volume": 2131683
-        },
-        {
-          "Close": 10.108261108398438,
-          "Volume": 1890988
-        },
-        {
-          "Close": 9.98202896118164,
-          "Volume": 1340762
-        },
-        {
-          "Close": 10.137391090393066,
-          "Volume": 1172839
-        },
-        {
-          "Close": 10.156811714172363,
-          "Volume": 2759476
-        },
-        {
-          "Close": 10.117971420288086,
-          "Volume": 1705991
-        },
-        {
-          "Close": 10.050000190734863,
-          "Volume": 2403376
-        },
-        {
-          "Close": 10.0,
-          "Volume": 1911453
-        },
-        {
-          "Close": 9.890000343322754,
-          "Volume": 2108935
-        },
-        {
-          "Close": 9.90999984741211,
-          "Volume": 1859630
-        },
-        {
-          "Close": 9.859999656677246,
-          "Volume": 2524698
-        },
-        {
-          "Close": 9.75,
-          "Volume": 1531113
-        },
-        {
-          "Close": 9.779999732971191,
-          "Volume": 2443521
-        },
-        {
-          "Close": 9.949999809265137,
-          "Volume": 1952181
-        },
-        {
-          "Close": 9.899999618530273,
-          "Volume": 1951716
-        },
-        {
-          "Close": 9.760000228881836,
-          "Volume": 1582857
-        },
-        {
-          "Close": 9.760000228881836,
-          "Volume": 2012496
-        },
-        {
-          "Close": 9.5600004196167,
-          "Volume": 2015859
-        },
-        {
-          "Close": 9.539999961853027,
-          "Volume": 1284274
-        },
-        {
-          "Close": 9.600000381469727,
-          "Volume": 2304094
-        },
-        {
-          "Close": 9.300000190734863,
-          "Volume": 2538863
-        },
-        {
-          "Close": 9.289999961853027,
-          "Volume": 2930245
-        },
-        {
-          "Close": 9.510000228881836,
-          "Volume": 1765821
-        },
-        {
-          "Close": NaN,
-          "Volume": 2083922
-        }
-      ],
-      "heldPercentInsiders": 0.66476995,
-      "heldPercentInstitutions": 0.00569
-    },
-    {
       "code": "CIMSA",
       "symbol": "CIMSA.IS",
       "name": "Çimsa Çimento Sanayi ve Ticaret A.S.",
@@ -13803,195 +13614,6 @@
       "heldPercentInstitutions": 0.01115
     },
     {
-      "code": "ALKA",
-      "symbol": "ALKA.IS",
-      "name": "Alkim Kagit Sanayi ve Ticaret AS",
-      "shortName": "ALKIM KAGIT",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 9.13,
-      "open": 9.08,
-      "dayLow": 8.95,
-      "dayHigh": 9.14,
-      "fiftyTwoWeekLow": 7.34,
-      "fiftyTwoWeekHigh": 17.1,
-      "fiftyDayAverage": 10.03,
-      "twoHundredDayAverage": 11.16,
-      "volume": "1,391,445",
-      "averageVolume": 4926104,
-      "averageVolume10days": 2396058,
-      "marketCap": 6615000064,
-      "enterpriseValue": 6814214656,
-      "sharesOutstanding": 735000000,
-      "sector": "Basic Materials",
-      "industry": "Paper & Paper Products",
-      "website": "https://www.alkimkagit.com.tr",
-      "address": "Kemalpasa O.S.B.",
-      "city": "Izmir",
-      "country": "Turkey",
-      "phone": "90 232 877 06 06",
-      "description": "Alkim Kagit Sanayi ve Ticaret AS manufactures and sells woodfree offset, coated, and office papers in Turkey. Its woodfree offset papers include offset white writing and printing papers, bristol, and copy quality offset white writing and printing papers; coated papers comprise glossy, matt, and one side coated papers, as well as label papers; and special papers include envelope, blueprint, drawing, map, optical reader, kraft shopping bag, ivory, chamois, white kraft, and wall papers, as well as office papers under the Platinum Copy, Gold Copy, Best Copy, and All Copy brand names. The company was founded in 1948 and is based in Izmir, Turkey. Alkim Kagit Sanayi ve Ticaret AS operates as a subsidiary of Alkim Alkali Kimya A.S.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 2.9930162,
-      "pegRatio": 4.12,
-      "priceToSales": 2.3910024,
-      "enterpriseToRevenue": 2.463,
-      "enterpriseToEbitda": 51.556,
-      "profitMargins": -0.04996,
-      "grossMargins": 0.11841,
-      "operatingMargins": -0.05263,
-      "returnOnAssets": 0.0154,
-      "returnOnEquity": -0.06876,
-      "totalRevenue": 2766621952,
-      "revenuePerShare": 3.764,
-      "totalCash": 158580320,
-      "totalDebt": 357795040,
-      "debtToEquity": 16.186,
-      "currentRatio": 0.907,
-      "quickRatio": 0.404,
-      "eps": -0.19,
-      "forwardEps": null,
-      "bookValue": 3.007,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1681084800,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.135,
-      "historicalData": [
-        {
-          "Close": 10.050000190734863,
-          "Volume": 3536159
-        },
-        {
-          "Close": 10.010000228881836,
-          "Volume": 2741252
-        },
-        {
-          "Close": 9.800000190734863,
-          "Volume": 3366612
-        },
-        {
-          "Close": 9.579999923706055,
-          "Volume": 4674225
-        },
-        {
-          "Close": 9.5,
-          "Volume": 3386429
-        },
-        {
-          "Close": 9.550000190734863,
-          "Volume": 2749978
-        },
-        {
-          "Close": 9.779999732971191,
-          "Volume": 2344300
-        },
-        {
-          "Close": 9.850000381469727,
-          "Volume": 3718140
-        },
-        {
-          "Close": 9.75,
-          "Volume": 4248819
-        },
-        {
-          "Close": 9.859999656677246,
-          "Volume": 2451565
-        },
-        {
-          "Close": 9.789999961853027,
-          "Volume": 2871932
-        },
-        {
-          "Close": 9.8100004196167,
-          "Volume": 1849384
-        },
-        {
-          "Close": 9.75,
-          "Volume": 2329207
-        },
-        {
-          "Close": 9.5,
-          "Volume": 2485769
-        },
-        {
-          "Close": 9.40999984741211,
-          "Volume": 3541252
-        },
-        {
-          "Close": 9.34000015258789,
-          "Volume": 1285217
-        },
-        {
-          "Close": 9.430000305175781,
-          "Volume": 2249871
-        },
-        {
-          "Close": 9.369999885559082,
-          "Volume": 1817801
-        },
-        {
-          "Close": 9.329999923706055,
-          "Volume": 2426308
-        },
-        {
-          "Close": 9.359999656677246,
-          "Volume": 1664109
-        },
-        {
-          "Close": 9.260000228881836,
-          "Volume": 2316284
-        },
-        {
-          "Close": 9.100000381469727,
-          "Volume": 2928714
-        },
-        {
-          "Close": 9.149999618530273,
-          "Volume": 2653764
-        },
-        {
-          "Close": 8.9399995803833,
-          "Volume": 1963927
-        },
-        {
-          "Close": 8.859999656677246,
-          "Volume": 2154717
-        },
-        {
-          "Close": 9.100000381469727,
-          "Volume": 1979341
-        },
-        {
-          "Close": 8.930000305175781,
-          "Volume": 1585792
-        },
-        {
-          "Close": 8.949999809265137,
-          "Volume": 2628124
-        },
-        {
-          "Close": 9.130000114440918,
-          "Volume": 4085810
-        },
-        {
-          "Close": NaN,
-          "Volume": 1391445
-        }
-      ],
-      "heldPercentInsiders": 0.8063,
-      "heldPercentInstitutions": 0.0
-    },
-    {
       "code": "ANELE",
       "symbol": "ANELE.IS",
       "name": "Anel Elektrik Proje Taahhüt ve Ticaret Anonim Sirketi",
@@ -14746,195 +14368,6 @@
       ],
       "heldPercentInsiders": 0.82515,
       "heldPercentInstitutions": 0.00476
-    },
-    {
-      "code": "ARDYZ",
-      "symbol": "ARDYZ.IS",
-      "name": "Ard Grup Bilisim Teknolojileri Anonim Sirketi",
-      "shortName": "ARD BILISIM TEKNOLOJILERI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 69.7,
-      "open": 69.7,
-      "dayLow": 68.0,
-      "dayHigh": 71.0,
-      "fiftyTwoWeekLow": 24.42,
-      "fiftyTwoWeekHigh": 76.5,
-      "fiftyDayAverage": 60.54,
-      "twoHundredDayAverage": 42.99,
-      "volume": "3,240,646",
-      "averageVolume": 5493513,
-      "averageVolume10days": 5436438,
-      "marketCap": 21365309440,
-      "enterpriseValue": 23571697664,
-      "sharesOutstanding": 310542259,
-      "sector": "Technology",
-      "industry": "Software - Infrastructure",
-      "website": "https://www.ardinformatics.com.tr",
-      "address": "Koç Towers, Block A",
-      "city": "Ankara",
-      "country": "Turkey",
-      "phone": "90 312 299 25 96",
-      "description": "Ard Grup Bilisim Teknolojileri Anonim Sirketi provides information technology solutions for the public and private sectors in Turkey. The company offers enterprise software solutions, including corporate information management system, corporate identity and access management systems, enterprise equipment tracking, enterprise equipment tracking systems, e-government projects, RFID-based software and integration solutions, vehicle tracking and security control systems, logistic warehouse and container tracking systems, textile tracking and process management solutions, and social media tracking systems, as well as staff, visitor, and person tracking systems. It also provides health system solutions, such as sterilization, patient, baby, hospital textile, hospital fixtures, medical equipment, and hospital warehouse tracking systems; and cloud services. In addition, the company information system solutions, which include server, virtualization disaster recovery center, traceability and process management applications, and components supply of enterprise information systems. Further, it offers various command center and security solutions; and smart technology solutions comprising smart highway, bridge, tunnel, secure campus, factory and manufacture, conference hall and meeting room, classroom, distance education, and city and traffic solutions. The company was incorporated in 2011 and is headquartered in Ankara, Turkey.",
-      "pe": 37.59563,
-      "forwardPE": null,
-      "priceToBook": 3.7715163,
-      "pegRatio": null,
-      "priceToSales": 3.8530018,
-      "enterpriseToRevenue": 4.251,
-      "enterpriseToEbitda": 12.684,
-      "profitMargins": 0.13173,
-      "grossMargins": 0.44798002,
-      "operatingMargins": 0.28579,
-      "returnOnAssets": 0.14925,
-      "returnOnEquity": 0.15125,
-      "totalRevenue": 5545107456,
-      "revenuePerShare": 15.388,
-      "totalCash": 90632600,
-      "totalDebt": 1445191552,
-      "debtToEquity": 24.397,
-      "currentRatio": 1.163,
-      "quickRatio": 0.72,
-      "eps": 1.83,
-      "forwardEps": null,
-      "bookValue": 18.242,
-      "dividendRate": 0.03,
-      "dividendYield": 0.05,
-      "exDividendDate": 1763337600,
-      "payoutRatio": 0.0178,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.5,
-      "historicalData": [
-        {
-          "Close": 66.1500015258789,
-          "Volume": 14543323
-        },
-        {
-          "Close": 64.3499984741211,
-          "Volume": 8629645
-        },
-        {
-          "Close": 61.20000076293945,
-          "Volume": 6114570
-        },
-        {
-          "Close": 58.849998474121094,
-          "Volume": 4904358
-        },
-        {
-          "Close": 58.5,
-          "Volume": 4947313
-        },
-        {
-          "Close": 58.25,
-          "Volume": 3910731
-        },
-        {
-          "Close": 62.04999923706055,
-          "Volume": 4759068
-        },
-        {
-          "Close": 59.20000076293945,
-          "Volume": 4214728
-        },
-        {
-          "Close": 57.29999923706055,
-          "Volume": 4721133
-        },
-        {
-          "Close": 57.79999923706055,
-          "Volume": 2449040
-        },
-        {
-          "Close": 57.45000076293945,
-          "Volume": 1530052
-        },
-        {
-          "Close": 56.099998474121094,
-          "Volume": 4077300
-        },
-        {
-          "Close": 56.650001525878906,
-          "Volume": 2525044
-        },
-        {
-          "Close": 56.04999923706055,
-          "Volume": 3799165
-        },
-        {
-          "Close": 54.75,
-          "Volume": 2414643
-        },
-        {
-          "Close": 56.45000076293945,
-          "Volume": 3075263
-        },
-        {
-          "Close": 56.5,
-          "Volume": 2628862
-        },
-        {
-          "Close": 60.0,
-          "Volume": 4656415
-        },
-        {
-          "Close": 61.79999923706055,
-          "Volume": 5090593
-        },
-        {
-          "Close": 59.20000076293945,
-          "Volume": 4518756
-        },
-        {
-          "Close": 58.79999923706055,
-          "Volume": 2583611
-        },
-        {
-          "Close": 63.349998474121094,
-          "Volume": 5085982
-        },
-        {
-          "Close": 68.5,
-          "Volume": 9509089
-        },
-        {
-          "Close": 63.79999923706055,
-          "Volume": 9587160
-        },
-        {
-          "Close": 67.69999694824219,
-          "Volume": 5390989
-        },
-        {
-          "Close": 65.0,
-          "Volume": 4059894
-        },
-        {
-          "Close": 67.55000305175781,
-          "Volume": 4057712
-        },
-        {
-          "Close": 66.05000305175781,
-          "Volume": 4334742
-        },
-        {
-          "Close": 69.69999694824219,
-          "Volume": 5236449
-        },
-        {
-          "Close": NaN,
-          "Volume": 3240646
-        }
-      ],
-      "heldPercentInsiders": 0.25131,
-      "heldPercentInstitutions": 0.05594
     },
     {
       "code": "ARENA",
@@ -32154,7 +31587,7 @@
       "volume": "2,442,030",
       "averageVolume": 7292305,
       "averageVolume10days": 2803041,
-      "marketCap": 6728303616,
+      "marketCap": 7211696640,
       "enterpriseValue": 6413408768,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +31602,7 @@
       "forwardPE": null,
       "priceToBook": 7.31846,
       "pegRatio": null,
-      "priceToSales": 2.819073,
+      "priceToSales": 3.0216084,
       "enterpriseToRevenue": 2.687,
       "enterpriseToEbitda": 112.131,
       "profitMargins": -0.03031,
@@ -36296,8 +35729,8 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
-      "shortName": "ETILER GIDA",
+      "name": "ETILR",
+      "shortName": "ETILR",
       "price": NaN,
       "change": NaN,
       "changeRate": NaN,
@@ -42164,7 +41597,7 @@
       "open": 322.0,
       "dayLow": 306.0,
       "dayHigh": 322.0,
-      "fiftyTwoWeekLow": 306.0,
+      "fiftyTwoWeekLow": 307.25,
       "fiftyTwoWeekHigh": 405.75,
       "fiftyDayAverage": 337.55,
       "twoHundredDayAverage": 340.8,
@@ -48232,7 +47665,7 @@
       "description": "Info Yatirim Menkul Degerler A.S. provides brokerage services in the capital market and managing portfolios composed of capital market instruments in Turkey. The company offers stocks; VIOP, a derivatives market operating on the Istanbul Stock Exchange; debt instruments; structured debt instruments; forex; foreign stock exchanges; options trading; investment funds; warrant trading; and certificate procedures. It also provides various services, such as live stock market; T+0 emergency cash; investment advisory; trainings; portfolio management; treasury options; special orders; and algorithmic portfolio management services. In addition, the company offers trading platforms comprising Infox, an AI-powered smart investment application; e-branch and infoweb; ideal data; infoTrade Pro, a mobile application to conduct transactions, participate in initial public offerings, and benefit from analytics; stock signal, a mobile application that offers algorithmic analysis to perform transactions; Fintables & Mobil, a platform for financial reports of companies traded on the Istanbul stock exchange; Trading View; Matrix Matrix IQ; and Forex. Further, it provides corporate finance services, including initial public offering, mergers and acquisitions, company review, financial restructuring, share purchase offer, issuance of debt instruments, financial consulting, and capital increase services. Info Yatirim Menkul Degerler A.S. was incorporated in 1990 and is headquartered in Istanbul, Turkey.",
       "pe": 5.803571,
       "forwardPE": null,
-      "priceToBook": 1.7444981,
+      "priceToBook": 2.0988054,
       "pegRatio": null,
       "priceToSales": 0.3198629,
       "enterpriseToRevenue": -0.308,
@@ -48251,7 +47684,7 @@
       "quickRatio": 1.054,
       "eps": 1.12,
       "forwardEps": null,
-      "bookValue": 3.726,
+      "bookValue": 3.097,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1686787200,
@@ -52359,195 +51792,6 @@
       "heldPercentInstitutions": 0.0
     },
     {
-      "code": "KAREL",
-      "symbol": "KAREL.IS",
-      "name": "Karel Elektronik Sanayi Ve Ticaret A.S.",
-      "shortName": "KAREL ELEKTRONIK",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 10.3,
-      "open": 10.3,
-      "dayLow": 10.19,
-      "dayHigh": 10.81,
-      "fiftyTwoWeekLow": 8.06,
-      "fiftyTwoWeekHigh": 14.0,
-      "fiftyDayAverage": 11.66,
-      "twoHundredDayAverage": 9.96,
-      "volume": "20,098,602",
-      "averageVolume": 25129279,
-      "averageVolume10days": 18829152,
-      "marketCap": 8518209536,
-      "enterpriseValue": 14676369408,
-      "sharesOutstanding": 805885530,
-      "sector": "Technology",
-      "industry": "Communication Equipment",
-      "website": "https://www.karel.com.tr",
-      "address": "Güzeltepe Mah. Zübeyde",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 355 48 00",
-      "description": "Karel Elektronik Sanayi Ve Ticaret A.S. designs, develops, produces, and sells communication systems in Türkiye. It offers communication products, such as PBX phone systems for small, medium, and large-scale businesses; IP based call center systems for public and private institutions; and IP, analog, wall, hotel, and feature phones, as well as direct station select modules, and operator phone headsets. The company also provides convergence and integration products, including conference products, GSM terminals, wireless (DECT) systems, auto-attendant and voicemail modules, call traffic control systems, VoIP and network products, call recording systems, nurse call systems, and other products, as well as vehicle tracking systems. In addition, it offers visual communication and security systems comprising security cameras, intruder alarm, and intercoms; cloud solutions with Internet applications that facilitate the business processes and provide economy and productivity for corporate users; and electronics manufacturing services, as well as undertakes telecommunication projects for fixed and mobile operators, and state institutions and organizations. Further, the company offers defense industry solutions, such as military tactical switches; alarm and announcement system for small boats and navy ships, phone and intercom PABX system, military gateway, and communications switching systems; electronic mirror; military computers; and inertial navigation systems. It provides its communication solutions for shopping malls, public institutions, medical institutions, educational institutions, production facilities, retail business, finance institutions, and transportation institutions. The company also exports its products and technologies to approximately 30 countries. Karel Elektronik Sanayi Ve Ticaret A.S. was incorporated in 1986 and is headquartered in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 7.715328,
-      "pegRatio": null,
-      "priceToSales": 0.46137437,
-      "enterpriseToRevenue": 0.795,
-      "enterpriseToEbitda": 14.979,
-      "profitMargins": -0.07,
-      "grossMargins": 0.116280004,
-      "operatingMargins": 0.00682,
-      "returnOnAssets": 0.02084,
-      "returnOnEquity": -0.65858,
-      "totalRevenue": 18462685184,
-      "revenuePerShare": 22.91,
-      "totalCash": 679834240,
-      "totalDebt": 6260306944,
-      "debtToEquity": 372.213,
-      "currentRatio": 0.768,
-      "quickRatio": 0.406,
-      "eps": -1.6,
-      "forwardEps": null,
-      "bookValue": 1.37,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": 15.0,
-      "targetLowPrice": 15.0,
-      "targetMeanPrice": 15.0,
-      "targetMedianPrice": 15.0,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 1,
-      "beta": 0.943,
-      "historicalData": [
-        {
-          "Close": 11.899999618530273,
-          "Volume": 17786389
-        },
-        {
-          "Close": 11.510000228881836,
-          "Volume": 19339476
-        },
-        {
-          "Close": 10.869999885559082,
-          "Volume": 28134765
-        },
-        {
-          "Close": 11.720000267028809,
-          "Volume": 58292294
-        },
-        {
-          "Close": 11.380000114440918,
-          "Volume": 43075288
-        },
-        {
-          "Close": 11.40999984741211,
-          "Volume": 24924007
-        },
-        {
-          "Close": 11.199999809265137,
-          "Volume": 25854653
-        },
-        {
-          "Close": 11.180000305175781,
-          "Volume": 24738485
-        },
-        {
-          "Close": 10.569999694824219,
-          "Volume": 34033560
-        },
-        {
-          "Close": 10.59000015258789,
-          "Volume": 17101920
-        },
-        {
-          "Close": 10.279999732971191,
-          "Volume": 15189629
-        },
-        {
-          "Close": 10.350000381469727,
-          "Volume": 13108423
-        },
-        {
-          "Close": 10.359999656677246,
-          "Volume": 12780088
-        },
-        {
-          "Close": 10.050000190734863,
-          "Volume": 22452487
-        },
-        {
-          "Close": 10.359999656677246,
-          "Volume": 21454324
-        },
-        {
-          "Close": 10.180000305175781,
-          "Volume": 11817389
-        },
-        {
-          "Close": 10.859999656677246,
-          "Volume": 30071969
-        },
-        {
-          "Close": 11.25,
-          "Volume": 34141495
-        },
-        {
-          "Close": 11.359999656677246,
-          "Volume": 25702106
-        },
-        {
-          "Close": 11.390000343322754,
-          "Volume": 43016518
-        },
-        {
-          "Close": 11.579999923706055,
-          "Volume": 19315173
-        },
-        {
-          "Close": 11.020000457763672,
-          "Volume": 19608093
-        },
-        {
-          "Close": 10.630000114440918,
-          "Volume": 16783031
-        },
-        {
-          "Close": 10.020000457763672,
-          "Volume": 13897725
-        },
-        {
-          "Close": 10.029999732971191,
-          "Volume": 13185673
-        },
-        {
-          "Close": 10.329999923706055,
-          "Volume": 16834382
-        },
-        {
-          "Close": 10.699999809265137,
-          "Volume": 12644468
-        },
-        {
-          "Close": 10.579999923706055,
-          "Volume": 13108577
-        },
-        {
-          "Close": 10.300000190734863,
-          "Volume": 19897888
-        },
-        {
-          "Close": NaN,
-          "Volume": 20098602
-        }
-      ],
-      "heldPercentInsiders": 0.60056996,
-      "heldPercentInstitutions": 0.01775
-    },
-    {
       "code": "KARTN",
       "symbol": "KARTN.IS",
       "name": "Kartonsan Karton Sanayi ve Ticaret A.S.",
@@ -54280,7 +53524,7 @@
       "description": "Ersan Alisveris Hizmetleri ve Gida Sanayi Ticaret A.S. operates a chain of supermarkets and hypermarkets under the KIM brand in Turkey. The company also offers cleaning products comprising toilet paper, paper towels, concentrated fabric softeners, bleach, liquid dish detergents, dish lemons, glass cleaners, liquid soap, softener, and surface cleaners; and wheat for ashure, kidney bean, sweet corn, bean, rice, lentil, bulgur wheat, chickpeas, and granulated sugar under the under the KIMI brand. In addition, it engages in import and export activities. Ersan Alisveris Hizmetleri ve Gida Sanayi Ticaret A.S. was incorporated in 1997 and is headquartered in Istanbul, Turkey.",
       "pe": 5.4946237,
       "forwardPE": null,
-      "priceToBook": 0.7326165,
+      "priceToBook": 0.8353313,
       "pegRatio": null,
       "priceToSales": 0.2546372,
       "enterpriseToRevenue": 0.285,
@@ -54299,7 +53543,7 @@
       "quickRatio": 0.677,
       "eps": 2.79,
       "forwardEps": null,
-      "bookValue": 20.925,
+      "bookValue": 18.352,
       "dividendRate": 0.42,
       "dividendYield": 2.73,
       "exDividendDate": 1790726400,
@@ -54638,7 +53882,7 @@
       "open": 27.9,
       "dayLow": 26.52,
       "dayHigh": 27.94,
-      "fiftyTwoWeekLow": 26.52,
+      "fiftyTwoWeekLow": 26.82,
       "fiftyTwoWeekHigh": 44.2,
       "fiftyDayAverage": 30.9,
       "twoHundredDayAverage": 34.56,
@@ -57474,7 +56718,7 @@
       "dayLow": 131.7,
       "dayHigh": 145.5,
       "fiftyTwoWeekLow": 21.4,
-      "fiftyTwoWeekHigh": 145.5,
+      "fiftyTwoWeekHigh": 141.7,
       "fiftyDayAverage": 115.44,
       "twoHundredDayAverage": 56.51,
       "volume": "1,994,300",
@@ -58616,7 +57860,7 @@
       "averageVolume10days": 4292249,
       "marketCap": 5896695296,
       "enterpriseValue": 11466437632,
-      "sharesOutstanding": 2159961700,
+      "sharesOutstanding": 2159961660,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
       "website": "https://kervangida.com",
@@ -64673,7 +63917,7 @@
       "country": "Turkey",
       "phone": "90 216 227 5800",
       "description": "MHR Gayrimenkul Yatirim Ortakligi Anonim Sirketi engages in real estate rental activities. The company was founded in 2021 and is based in Istanbul, Turkey.",
-      "pe": 3.4326923,
+      "pe": 3.4,
       "forwardPE": null,
       "priceToBook": 0.49493968,
       "pegRatio": null,
@@ -64692,7 +63936,7 @@
       "debtToEquity": 0.007,
       "currentRatio": 34.223,
       "quickRatio": 20.731,
-      "eps": 1.04,
+      "eps": 1.05,
       "forwardEps": null,
       "bookValue": 7.213,
       "dividendRate": 0.07,
@@ -65398,195 +64642,6 @@
       ],
       "heldPercentInsiders": 0.48224,
       "heldPercentInstitutions": 0.00141
-    },
-    {
-      "code": "MNDTR",
-      "symbol": "MNDTR.IS",
-      "name": "Mondi Tire Kutsan Kagit ve Ambalaj Sanayi A.S.",
-      "shortName": "MONDI TURKEY",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 5.72,
-      "open": 5.72,
-      "dayLow": 5.57,
-      "dayHigh": 5.72,
-      "fiftyTwoWeekLow": 5.31,
-      "fiftyTwoWeekHigh": 9.02,
-      "fiftyDayAverage": 5.85,
-      "twoHundredDayAverage": 6.53,
-      "volume": "853,663",
-      "averageVolume": 2215881,
-      "averageVolume10days": 1644051,
-      "marketCap": 5853647872,
-      "enterpriseValue": 6815837184,
-      "sharesOutstanding": 1049040806,
-      "sector": "Consumer Cyclical",
-      "industry": "Packaging & Containers",
-      "website": "https://www.mondigroup.com.tr",
-      "address": "Barbaros Mh. Begonya Sk. No:7",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 216 547 50 00",
-      "description": "Mondi Tire Kutsan Kagit ve Ambalaj Sanayi A.S., together with its subsidiaries, engages in the production and sale of corrugated containerboards in Turkey. The company offers fresh fruit and vegetable packaging solutions, pizza box, tray and hood solutions, wrap-around, bottle carrier, and standard box for the food and beverage retail sector. It also provides easy-pak, deppobox, kit module, octabin box, automotive and spare parts box, solar panel box, and tanker box for shipping and heavy-duty packaging; and envelope mailer, delight box, e-commerce packaging for online grocery shopping, and floral box for ecommerce applications. In addition, the company offers thinkbox, performance laboratory, and dangerous product transport certificates. The company was incorporated in 1974 and is headquartered in Istanbul, Turkey. Mondi Tire Kutsan Kagit ve Ambalaj Sanayi A.S. operates as a subsidiary of Mondi Corrugated B.V.",
-      "pe": 6.340909,
-      "forwardPE": null,
-      "priceToBook": 0.7377049,
-      "pegRatio": null,
-      "priceToSales": 0.3740633,
-      "enterpriseToRevenue": 0.436,
-      "enterpriseToEbitda": 250.091,
-      "profitMargins": -0.10932,
-      "grossMargins": 0.14689,
-      "operatingMargins": 0.01794,
-      "returnOnAssets": -0.03482,
-      "returnOnEquity": -0.21802999,
-      "totalRevenue": 15648816128,
-      "revenuePerShare": 14.917,
-      "totalCash": 199363568,
-      "totalDebt": 1161552768,
-      "debtToEquity": 14.639,
-      "currentRatio": 1.358,
-      "quickRatio": 1.016,
-      "eps": 0.88,
-      "forwardEps": null,
-      "bookValue": 7.564,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1180569600,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.171,
-      "historicalData": [
-        {
-          "Close": 5.78000020980835,
-          "Volume": 1864143
-        },
-        {
-          "Close": 5.769999980926514,
-          "Volume": 1509229
-        },
-        {
-          "Close": 5.639999866485596,
-          "Volume": 1538451
-        },
-        {
-          "Close": 5.630000114440918,
-          "Volume": 1121468
-        },
-        {
-          "Close": 5.789999961853027,
-          "Volume": 2575313
-        },
-        {
-          "Close": 5.840000152587891,
-          "Volume": 3864467
-        },
-        {
-          "Close": 5.929999828338623,
-          "Volume": 1870706
-        },
-        {
-          "Close": 5.96999979019165,
-          "Volume": 1293396
-        },
-        {
-          "Close": 5.860000133514404,
-          "Volume": 925159
-        },
-        {
-          "Close": 5.949999809265137,
-          "Volume": 1281828
-        },
-        {
-          "Close": 6.03000020980835,
-          "Volume": 1752000
-        },
-        {
-          "Close": 5.989999771118164,
-          "Volume": 1482353
-        },
-        {
-          "Close": 5.949999809265137,
-          "Volume": 1566394
-        },
-        {
-          "Close": 5.940000057220459,
-          "Volume": 2194209
-        },
-        {
-          "Close": 5.840000152587891,
-          "Volume": 1391336
-        },
-        {
-          "Close": 5.880000114440918,
-          "Volume": 2432722
-        },
-        {
-          "Close": 5.75,
-          "Volume": 2146760
-        },
-        {
-          "Close": 5.769999980926514,
-          "Volume": 1627525
-        },
-        {
-          "Close": 5.760000228881836,
-          "Volume": 1118266
-        },
-        {
-          "Close": 5.769999980926514,
-          "Volume": 1258561
-        },
-        {
-          "Close": 5.690000057220459,
-          "Volume": 1422559
-        },
-        {
-          "Close": 5.659999847412109,
-          "Volume": 1387195
-        },
-        {
-          "Close": 5.659999847412109,
-          "Volume": 829744
-        },
-        {
-          "Close": 5.599999904632568,
-          "Volume": 3454352
-        },
-        {
-          "Close": 5.429999828338623,
-          "Volume": 2840142
-        },
-        {
-          "Close": 5.579999923706055,
-          "Volume": 1582598
-        },
-        {
-          "Close": 5.550000190734863,
-          "Volume": 1246129
-        },
-        {
-          "Close": 5.519999980926514,
-          "Volume": 1011230
-        },
-        {
-          "Close": 5.71999979019165,
-          "Volume": 1408008
-        },
-        {
-          "Close": NaN,
-          "Volume": 853663
-        }
-      ],
-      "heldPercentInsiders": 0.84651,
-      "heldPercentInstitutions": 0.0
     },
     {
       "code": "MOBTL",
@@ -67112,7 +66167,7 @@
       "open": 5.63,
       "dayLow": 5.41,
       "dayHigh": 5.63,
-      "fiftyTwoWeekLow": 5.41,
+      "fiftyTwoWeekLow": 5.45,
       "fiftyTwoWeekHigh": 8.5,
       "fiftyDayAverage": 6.05,
       "twoHundredDayAverage": 6.37,
@@ -67477,195 +66532,6 @@
       ],
       "heldPercentInsiders": 0.55,
       "heldPercentInstitutions": 0.0034
-    },
-    {
-      "code": "NIBAS",
-      "symbol": "NIBAS.IS",
-      "name": "Nigbas Nigde Beton Sanayi Ve Ticaret A.S.",
-      "shortName": "NIGBAS NIGDE BETON",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 4.2,
-      "open": 4.16,
-      "dayLow": 4.06,
-      "dayHigh": 4.21,
-      "fiftyTwoWeekLow": 3.24,
-      "fiftyTwoWeekHigh": 11.6,
-      "fiftyDayAverage": 4.97,
-      "twoHundredDayAverage": 5.09,
-      "volume": "6,886,949",
-      "averageVolume": 16989495,
-      "averageVolume10days": 7102106,
-      "marketCap": 1318680064,
-      "enterpriseValue": 1309622144,
-      "sharesOutstanding": 324000000,
-      "sector": "Industrials",
-      "industry": "Engineering & Construction",
-      "website": "https://www.nigbas.com.tr",
-      "address": "Fertek Mah. Organized Industrial Zone",
-      "city": "Nigde",
-      "country": "Turkey",
-      "phone": "90 388 232 42 00",
-      "description": "Nigbas Nigde Beton Sanayi Ve Ticaret A.S. engages in the production and sale of prefabricated concrete products, concrete poles, and reinforced concrete structural elements in Turkey. The company offers precast elements for building applications; and construction chemicals. It also provides granite, marble, ceramic, tile, brick, polystyrene insulation board, adhesive mortars, joint filler mortars, aerated concrete and bricklaying mortars, ready-made plaster, insulation plaster, and concrete repair mortars; single and double-component waterproofing materials; and aerated concrete, insulation plaster, and hydraulic liming-based construction chemicals. Nigbas Nigde Beton Sanayi Ve Ticaret A.S. was incorporated in 1969 and is based in Nigde, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 3.1796877,
-      "pegRatio": null,
-      "priceToSales": 11.63359,
-      "enterpriseToRevenue": 11.554,
-      "enterpriseToEbitda": 194.975,
-      "profitMargins": 0.0,
-      "grossMargins": 0.38334,
-      "operatingMargins": -0.11638,
-      "returnOnAssets": 0.00195,
-      "returnOnEquity": -0.72498,
-      "totalRevenue": 113351088,
-      "revenuePerShare": 0.35,
-      "totalCash": 9057804,
-      "totalDebt": 0,
-      "debtToEquity": null,
-      "currentRatio": 0.285,
-      "quickRatio": 0.218,
-      "eps": -1.26,
-      "forwardEps": null,
-      "bookValue": 1.28,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1475193600,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.455,
-      "historicalData": [
-        {
-          "Close": 4.639999866485596,
-          "Volume": 13160464
-        },
-        {
-          "Close": 4.570000171661377,
-          "Volume": 13588151
-        },
-        {
-          "Close": 4.460000038146973,
-          "Volume": 10283701
-        },
-        {
-          "Close": 4.900000095367432,
-          "Volume": 62586659
-        },
-        {
-          "Close": 4.599999904632568,
-          "Volume": 32865417
-        },
-        {
-          "Close": 4.539999961853027,
-          "Volume": 9184213
-        },
-        {
-          "Close": 4.570000171661377,
-          "Volume": 9156473
-        },
-        {
-          "Close": 4.510000228881836,
-          "Volume": 7328853
-        },
-        {
-          "Close": 4.489999771118164,
-          "Volume": 7015146
-        },
-        {
-          "Close": 4.510000228881836,
-          "Volume": 6560473
-        },
-        {
-          "Close": 4.420000076293945,
-          "Volume": 6451642
-        },
-        {
-          "Close": 4.429999828338623,
-          "Volume": 8592850
-        },
-        {
-          "Close": 4.449999809265137,
-          "Volume": 19616018
-        },
-        {
-          "Close": 4.260000228881836,
-          "Volume": 8138142
-        },
-        {
-          "Close": 4.210000038146973,
-          "Volume": 7325207
-        },
-        {
-          "Close": 4.21999979019165,
-          "Volume": 13220920
-        },
-        {
-          "Close": 4.28000020980835,
-          "Volume": 10283619
-        },
-        {
-          "Close": 4.300000190734863,
-          "Volume": 6039595
-        },
-        {
-          "Close": 4.260000228881836,
-          "Volume": 7479330
-        },
-        {
-          "Close": 4.309999942779541,
-          "Volume": 19095193
-        },
-        {
-          "Close": 4.349999904632568,
-          "Volume": 5072711
-        },
-        {
-          "Close": 4.239999771118164,
-          "Volume": 6201859
-        },
-        {
-          "Close": 4.28000020980835,
-          "Volume": 8971191
-        },
-        {
-          "Close": 4.21999979019165,
-          "Volume": 5833618
-        },
-        {
-          "Close": 4.190000057220459,
-          "Volume": 4671033
-        },
-        {
-          "Close": 4.210000038146973,
-          "Volume": 5142643
-        },
-        {
-          "Close": 4.090000152587891,
-          "Volume": 5525357
-        },
-        {
-          "Close": 4.150000095367432,
-          "Volume": 5000849
-        },
-        {
-          "Close": 4.199999809265137,
-          "Volume": 5506608
-        },
-        {
-          "Close": NaN,
-          "Volume": 6886949
-        }
-      ],
-      "heldPercentInsiders": 0.34654,
-      "heldPercentInstitutions": 0.0
     },
     {
       "code": "NTGAZ",
@@ -71070,195 +69936,6 @@
       "heldPercentInstitutions": 0.0
     },
     {
-      "code": "OYYAT",
-      "symbol": "OYYAT.IS",
-      "name": "Oyak Yatirim Menkul Degerler A.S.",
-      "shortName": "OYAK YATIRIM MENKUL",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 40.64,
-      "open": 40.64,
-      "dayLow": 38.46,
-      "dayHigh": 40.64,
-      "fiftyTwoWeekLow": 35.72,
-      "fiftyTwoWeekHigh": 75.95,
-      "fiftyDayAverage": 46.02,
-      "twoHundredDayAverage": 49.27,
-      "volume": "274,171",
-      "averageVolume": 410587,
-      "averageVolume10days": 231435,
-      "marketCap": 11537999872,
-      "enterpriseValue": -290585216,
-      "sharesOutstanding": 300000000,
-      "sector": "Financial Services",
-      "industry": "Capital Markets",
-      "website": "https://www.oyakyatirim.com.tr",
-      "address": "Ayazaga Mahallesi Kemerburgaz Caddesi Vadi",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 319 12 00",
-      "description": "Oyak Yatirim Menkul Degerler A.S., together with its subsidiaries, provides research, brokerage, portfolio management, corporate finance, and fund operation services for the capital market instruments in Turkey. The company offers daily bulletin, technical bulletin, valuation chart, company reports, sector reports, strategy reports, stock recommendations, and macro reports; and stock exchange brokerage, fixed income securities, BIST futures and options market transactions, over the counter derivatives transactions, and investment funds transactions. It also provides portfolio management and investment advisory services; mergers and acquisitions, configurating debt/stock, initial public offering, debt instrument issuing, and financial consulting; and fund operation services. In addition, the company provides insurance brokerage services. The company serves finance, insurance, energy, telecommunications, food, fertilizer, mining, port, real estate, retail, media, iron and steel, cement, logistics, and chemistry sectors. The company was incorporated in 1982 and is headquartered in Istanbul, Turkey.",
-      "pe": 5.463068,
-      "forwardPE": null,
-      "priceToBook": 0.88803715,
-      "pegRatio": null,
-      "priceToSales": 0.44003394,
-      "enterpriseToRevenue": -0.011,
-      "enterpriseToEbitda": null,
-      "profitMargins": 0.071490005,
-      "grossMargins": 0.25287,
-      "operatingMargins": 0.23416,
-      "returnOnAssets": null,
-      "returnOnEquity": 0.18129,
-      "totalRevenue": 26220703744,
-      "revenuePerShare": 87.402,
-      "totalCash": 17355726848,
-      "totalDebt": 5441347584,
-      "debtToEquity": 41.605,
-      "currentRatio": 2.548,
-      "quickRatio": 2.542,
-      "eps": 7.04,
-      "forwardEps": null,
-      "bookValue": 43.309,
-      "dividendRate": 3.77,
-      "dividendYield": 9.29,
-      "exDividendDate": 1778025600,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.041,
-      "historicalData": [
-        {
-          "Close": 45.560001373291016,
-          "Volume": 218626
-        },
-        {
-          "Close": 45.65999984741211,
-          "Volume": 252300
-        },
-        {
-          "Close": 45.220001220703125,
-          "Volume": 182565
-        },
-        {
-          "Close": 44.08000183105469,
-          "Volume": 229944
-        },
-        {
-          "Close": 42.720001220703125,
-          "Volume": 330047
-        },
-        {
-          "Close": 42.619998931884766,
-          "Volume": 285974
-        },
-        {
-          "Close": 44.08000183105469,
-          "Volume": 373694
-        },
-        {
-          "Close": 44.86000061035156,
-          "Volume": 412815
-        },
-        {
-          "Close": 49.34000015258789,
-          "Volume": 2505286
-        },
-        {
-          "Close": 45.58000183105469,
-          "Volume": 1963808
-        },
-        {
-          "Close": 43.619998931884766,
-          "Volume": 593756
-        },
-        {
-          "Close": 44.540000915527344,
-          "Volume": 449372
-        },
-        {
-          "Close": 44.779998779296875,
-          "Volume": 371638
-        },
-        {
-          "Close": 43.13999938964844,
-          "Volume": 345418
-        },
-        {
-          "Close": 42.86000061035156,
-          "Volume": 345102
-        },
-        {
-          "Close": 42.779998779296875,
-          "Volume": 247598
-        },
-        {
-          "Close": 41.599998474121094,
-          "Volume": 305528
-        },
-        {
-          "Close": 40.939998626708984,
-          "Volume": 205467
-        },
-        {
-          "Close": 40.560001373291016,
-          "Volume": 385611
-        },
-        {
-          "Close": 41.099998474121094,
-          "Volume": 246357
-        },
-        {
-          "Close": 41.5,
-          "Volume": 227019
-        },
-        {
-          "Close": 40.5,
-          "Volume": 326279
-        },
-        {
-          "Close": 40.720001220703125,
-          "Volume": 255552
-        },
-        {
-          "Close": 39.84000015258789,
-          "Volume": 253444
-        },
-        {
-          "Close": 39.84000015258789,
-          "Volume": 269690
-        },
-        {
-          "Close": 40.79999923706055,
-          "Volume": 116633
-        },
-        {
-          "Close": 40.2599983215332,
-          "Volume": 129376
-        },
-        {
-          "Close": 39.119998931884766,
-          "Volume": 181579
-        },
-        {
-          "Close": 40.63999938964844,
-          "Volume": 308425
-        },
-        {
-          "Close": NaN,
-          "Volume": 274171
-        }
-      ],
-      "heldPercentInsiders": 0.69651,
-      "heldPercentInstitutions": 0.01349
-    },
-    {
       "code": "OZGYO",
       "symbol": "OZGYO.IS",
       "name": "Ozderici Gayrimenkul Yatirim Ortakligi A.S.",
@@ -73527,384 +72204,6 @@
       "heldPercentInstitutions": 0.0
     },
     {
-      "code": "PENTA",
-      "symbol": "PENTA.IS",
-      "name": "Penta Teknoloji Urunleri Dagitim Ticaret A.S.",
-      "shortName": "PENTA TEKNOLOJI URUNLERI DAGITI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 13.5,
-      "open": 13.51,
-      "dayLow": 13.2,
-      "dayHigh": 13.55,
-      "fiftyTwoWeekLow": 12.49,
-      "fiftyTwoWeekHigh": 19.5,
-      "fiftyDayAverage": 14.81,
-      "twoHundredDayAverage": 14.21,
-      "volume": "921,643",
-      "averageVolume": 3666243,
-      "averageVolume10days": 1586024,
-      "marketCap": 5221957632,
-      "enterpriseValue": 5640343040,
-      "sharesOutstanding": 393516000,
-      "sector": "Technology",
-      "industry": "Electronics & Computer Distribution",
-      "website": "https://www.penta.com.tr",
-      "address": "Dudullu Organize Sanayi Bölgesi 4",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 850 277 02 77",
-      "description": "Penta Teknoloji Urunleri Dagitim Ticaret A.S. distributes computer, hardware, and software products in Turkey. It offers Bazinet V3, a B2B e-commerce platform; Penta technology center, which provides demos, PoCs, hardware and software presentations, and end-to-end business solutions; and printing technology center that offers printing solutions and digital printing machines. The company also offers Penta subscription management solution, which helps to display and manage subscriptions; Penta Mywarehouse, for physical storage and online management; Penta Integration, a system for storage, logistics, sales, and marketing services; Penta OnAir, a communication platform to reach resellers and customers; and 10 to 10 delivery service. It also exports its products. Penta Teknoloji Urunleri Dagitim Ticaret A.S. was founded in 1990 and is headquartered in Istanbul, Turkey.",
-      "pe": 55.291668,
-      "forwardPE": null,
-      "priceToBook": 1.1829203,
-      "pegRatio": null,
-      "priceToSales": 0.15304504,
-      "enterpriseToRevenue": 0.165,
-      "enterpriseToEbitda": 5.262,
-      "profitMargins": 0.0026800002,
-      "grossMargins": 0.07016,
-      "operatingMargins": 0.03264,
-      "returnOnAssets": 0.048520003,
-      "returnOnEquity": 0.022550002,
-      "totalRevenue": 34120396800,
-      "revenuePerShare": 86.707,
-      "totalCash": 296896224,
-      "totalDebt": 715282176,
-      "debtToEquity": 16.203,
-      "currentRatio": 1.369,
-      "quickRatio": 0.896,
-      "eps": 0.24,
-      "forwardEps": null,
-      "bookValue": 11.218,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.129,
-      "historicalData": [
-        {
-          "Close": 15.880000114440918,
-          "Volume": 3066604
-        },
-        {
-          "Close": 15.470000267028809,
-          "Volume": 3370208
-        },
-        {
-          "Close": 14.829999923706055,
-          "Volume": 3264263
-        },
-        {
-          "Close": 14.600000381469727,
-          "Volume": 2836421
-        },
-        {
-          "Close": 14.319999694824219,
-          "Volume": 3747151
-        },
-        {
-          "Close": 15.0600004196167,
-          "Volume": 4354378
-        },
-        {
-          "Close": 15.1899995803833,
-          "Volume": 3034617
-        },
-        {
-          "Close": 15.109999656677246,
-          "Volume": 2108084
-        },
-        {
-          "Close": 14.729999542236328,
-          "Volume": 1722084
-        },
-        {
-          "Close": 14.920000076293945,
-          "Volume": 1658906
-        },
-        {
-          "Close": 14.399999618530273,
-          "Volume": 2285483
-        },
-        {
-          "Close": 14.510000228881836,
-          "Volume": 1459461
-        },
-        {
-          "Close": 14.380000114440918,
-          "Volume": 1738895
-        },
-        {
-          "Close": 14.069999694824219,
-          "Volume": 2194900
-        },
-        {
-          "Close": 13.930000305175781,
-          "Volume": 2086513
-        },
-        {
-          "Close": 13.789999961853027,
-          "Volume": 1251143
-        },
-        {
-          "Close": 13.609999656677246,
-          "Volume": 1387371
-        },
-        {
-          "Close": 13.619999885559082,
-          "Volume": 1572906
-        },
-        {
-          "Close": 13.5600004196167,
-          "Volume": 2428675
-        },
-        {
-          "Close": 13.789999961853027,
-          "Volume": 2450551
-        },
-        {
-          "Close": 13.699999809265137,
-          "Volume": 1584106
-        },
-        {
-          "Close": 13.470000267028809,
-          "Volume": 2454167
-        },
-        {
-          "Close": 13.34000015258789,
-          "Volume": 2039994
-        },
-        {
-          "Close": 13.1899995803833,
-          "Volume": 1447116
-        },
-        {
-          "Close": 13.149999618530273,
-          "Volume": 1094685
-        },
-        {
-          "Close": 13.329999923706055,
-          "Volume": 1287003
-        },
-        {
-          "Close": 13.300000190734863,
-          "Volume": 1643346
-        },
-        {
-          "Close": 13.170000076293945,
-          "Volume": 817085
-        },
-        {
-          "Close": 13.5,
-          "Volume": 1042193
-        },
-        {
-          "Close": NaN,
-          "Volume": 921643
-        }
-      ],
-      "heldPercentInsiders": 0.29167,
-      "heldPercentInstitutions": 0.34555
-    },
-    {
-      "code": "PETUN",
-      "symbol": "PETUN.IS",
-      "name": "Pinar Entegre Et ve Un Sanayii A.S.",
-      "shortName": "PINAR ET VE UN",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 11.68,
-      "open": 11.8,
-      "dayLow": 11.57,
-      "dayHigh": 11.81,
-      "fiftyTwoWeekLow": 9.8,
-      "fiftyTwoWeekHigh": 15.99,
-      "fiftyDayAverage": 12.7,
-      "twoHundredDayAverage": 12.18,
-      "volume": "865,812",
-      "averageVolume": 2139457,
-      "averageVolume10days": 1132973,
-      "marketCap": 3564303616,
-      "enterpriseValue": 7264155136,
-      "sharesOutstanding": 303345000,
-      "sector": "Consumer Defensive",
-      "industry": "Packaged Foods",
-      "website": "https://yatirim.pinaret.com.tr/yatirim.aspx?dil=EN",
-      "address": "Kemalpasa OSB Mahallesi",
-      "city": "Izmir",
-      "country": "Turkey",
-      "phone": "90 232 877 09 00",
-      "description": "Pinar Entegre Et ve Un Sanayii A.S. produces and sells meat and by-products of bovine and ovine animals, poultry, and fish, as well as frozen dough products and ready meals under the Pinar brand in Turkey and internationally. It offers delicatessen products, including soudjouks, salamis, sausages, hams, smoked meats, and smoked raw meat products; frozen meat products, such as burgers, meatballs, and doner kebabs; frozen dough products comprising pizzas, puff pastries, mantis, and boyoz products. The company also provides frozen seafood products consisting of shrimps and squids, as well as anchovy, sardine, tuna, and haddock products; and unprocessed meat products, such as unprocessed beef, turkey, and lamb products. It offers its products through stores and e-commerce platforms, as well as exports its products. The company was incorporated in 1981 and is headquartered in Izmir, Turkey. Pinar Entegre Et ve Un Sanayii A.S. operates as a subsidiary of Yasar Holding A.S.",
-      "pe": 17.028986,
-      "forwardPE": null,
-      "priceToBook": 0.33953652,
-      "pegRatio": null,
-      "priceToSales": 0.3346375,
-      "enterpriseToRevenue": 0.682,
-      "enterpriseToEbitda": 7.086,
-      "profitMargins": 0.01974,
-      "grossMargins": 0.17392999,
-      "operatingMargins": 0.042579997,
-      "returnOnAssets": 0.03017,
-      "returnOnEquity": 0.023510002,
-      "totalRevenue": 10651238400,
-      "revenuePerShare": 35.113,
-      "totalCash": 365004416,
-      "totalDebt": 4064855552,
-      "debtToEquity": 38.722,
-      "currentRatio": 1.319,
-      "quickRatio": 0.521,
-      "eps": 0.69,
-      "forwardEps": null,
-      "bookValue": 34.606,
-      "dividendRate": 0.49,
-      "dividendYield": 4.2,
-      "exDividendDate": 1789948800,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.048,
-      "historicalData": [
-        {
-          "Close": 12.390000343322754,
-          "Volume": 1693316
-        },
-        {
-          "Close": 12.449999809265137,
-          "Volume": 787287
-        },
-        {
-          "Close": 12.149999618530273,
-          "Volume": 987832
-        },
-        {
-          "Close": 12.149999618530273,
-          "Volume": 651468
-        },
-        {
-          "Close": 11.949999809265137,
-          "Volume": 2173470
-        },
-        {
-          "Close": 12.119999885559082,
-          "Volume": 1404118
-        },
-        {
-          "Close": 12.449999809265137,
-          "Volume": 1796411
-        },
-        {
-          "Close": 12.420000076293945,
-          "Volume": 1256936
-        },
-        {
-          "Close": 12.180000305175781,
-          "Volume": 1599266
-        },
-        {
-          "Close": 12.289999961853027,
-          "Volume": 1543374
-        },
-        {
-          "Close": 12.279999732971191,
-          "Volume": 1033968
-        },
-        {
-          "Close": 12.1899995803833,
-          "Volume": 1610057
-        },
-        {
-          "Close": 12.289999961853027,
-          "Volume": 1418869
-        },
-        {
-          "Close": 12.149999618530273,
-          "Volume": 1532066
-        },
-        {
-          "Close": 11.9399995803833,
-          "Volume": 1687614
-        },
-        {
-          "Close": 12.069999694824219,
-          "Volume": 1609572
-        },
-        {
-          "Close": 12.130000114440918,
-          "Volume": 1484387
-        },
-        {
-          "Close": 11.890000343322754,
-          "Volume": 1028104
-        },
-        {
-          "Close": 11.890000343322754,
-          "Volume": 1252301
-        },
-        {
-          "Close": 11.789999961853027,
-          "Volume": 1154955
-        },
-        {
-          "Close": 11.920000076293945,
-          "Volume": 959466
-        },
-        {
-          "Close": 11.8100004196167,
-          "Volume": 786708
-        },
-        {
-          "Close": 11.699999809265137,
-          "Volume": 720796
-        },
-        {
-          "Close": 11.350000381469727,
-          "Volume": 1834921
-        },
-        {
-          "Close": 11.260000228881836,
-          "Volume": 677036
-        },
-        {
-          "Close": 11.34000015258789,
-          "Volume": 692436
-        },
-        {
-          "Close": 11.289999961853027,
-          "Volume": 1101337
-        },
-        {
-          "Close": 11.430000305175781,
-          "Volume": 1554669
-        },
-        {
-          "Close": 11.680000305175781,
-          "Volume": 1847413
-        },
-        {
-          "Close": NaN,
-          "Volume": 865812
-        }
-      ],
-      "heldPercentInsiders": 0.66808,
-      "heldPercentInstitutions": 3.0000001e-05
-    },
-    {
       "code": "PINSU",
       "symbol": "PINSU.IS",
       "name": "Pinar Su ve Icecek Sanayi ve Ticaret A.S.",
@@ -74125,7 +72424,7 @@
       "description": "Plastikkart Akilli Kart Iletisim Sistemleri Sanayi ve Ticaret A.S. manufactures and sells smart cards in Turkey and internationally. It offers contact, contactless, and dual interface banking/payment cards; loyalty and transportation cards; e-government and ID cards; payphone and metering cards; SIM cards; and security solutions, such as PKI cards, readers, and tokens. The company also provides security printing; card personalization; card life cycle management and processing; server hosting; and consultancy services, including card-based projects management, printing design consultancy, and card technology training services. The company was incorporated in 2000 and is headquartered in Istanbul, Turkey. Plastikkart Akilli Kart Iletisim Sistemleri Sanayi ve Ticaret A.S. is a subsidiary of Gemalto B.V.",
       "pe": 34.10853,
       "forwardPE": null,
-      "priceToBook": 6.5440483,
+      "priceToBook": 5.4617677,
       "pegRatio": null,
       "priceToSales": 1.1794239,
       "enterpriseToRevenue": 1.155,
@@ -74144,7 +72443,7 @@
       "quickRatio": 1.477,
       "eps": 3.87,
       "forwardEps": null,
-      "bookValue": 20.171,
+      "bookValue": 24.168,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1665964800,
@@ -77527,7 +75826,7 @@
       "description": "Rainbow Polikarbonat Sanayi Ticaret Anonim Sirketi provides polycarbonate, polymer, plastic, and related products. It offers polycarbonate roof panels, polycarbonate H and U shape products, rainbow 27/200 products, and polycarbonate hollow sheets. Rainbow Polikarbonat Sanayi Ticaret Anonim Sirketi was incorporated in 1995 and is based in Kayseri, Türkiye.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.345733,
+      "priceToBook": 1.2879581,
       "pegRatio": null,
       "priceToSales": 0.8040452,
       "enterpriseToRevenue": 1.279,
@@ -77546,7 +75845,7 @@
       "quickRatio": 0.828,
       "eps": -0.05,
       "forwardEps": null,
-      "bookValue": 1.828,
+      "bookValue": 1.91,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -85434,195 +83733,6 @@
       "heldPercentInstitutions": 0.0
     },
     {
-      "code": "TERA",
-      "symbol": "TERA.IS",
-      "name": "Tera Yatirim Menkul Degerler A.S.",
-      "shortName": "TERA YATIRIM MENKUL DEGERLER",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 168.0,
-      "open": 168.0,
-      "dayLow": 159.7,
-      "dayHigh": 169.1,
-      "fiftyTwoWeekLow": 73.24,
-      "fiftyTwoWeekHigh": 401.25,
-      "fiftyDayAverage": 195.84,
-      "twoHundredDayAverage": 239.6,
-      "volume": "18,899,698",
-      "averageVolume": 16137405,
-      "averageVolume10days": 16870278,
-      "marketCap": 111789998080,
-      "enterpriseValue": 37652779008,
-      "sharesOutstanding": 700000000,
-      "sector": "Financial Services",
-      "industry": "Capital Markets",
-      "website": "https://www.terayatirim.com",
-      "address": "Eski Büyükdere Cad.",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 365 10 00",
-      "description": "Tera Yatirim Menkul Degerler A.S. engages in investment banking and brokerage activities in Turkey. The company offers institutional sales and trading services for mutual funds, hedge funds, and alpha capture funds investors; private sales and trading services, as well as personalized financial advisory services, stocks, bonds, and funds; and investment banking services, such as initial public offering underwriting, debt instrument issuance facilitation, capital increase support, company valuation, financing options, and merger and acquisition consultancy. It is also involved in facilitating share purchase offers, exit rights, and rights to withdraw from partnership/sell; and managing the process of wholesale market transactions and the process of sales to corporate and qualified investors. The company was incorporated in 1990 and is headquartered in Istanbul, Turkey.",
-      "pe": 17.744444,
-      "forwardPE": null,
-      "priceToBook": 1.858922,
-      "pegRatio": null,
-      "priceToSales": 0.26598364,
-      "enterpriseToRevenue": 0.09,
-      "enterpriseToEbitda": null,
-      "profitMargins": 0.10938,
-      "grossMargins": 0.056700002,
-      "operatingMargins": -0.00644,
-      "returnOnAssets": 0.42668,
-      "returnOnEquity": 1.30597,
-      "totalRevenue": 420288987136,
-      "revenuePerShare": 600.413,
-      "totalCash": 89971007488,
-      "totalDebt": 15754975232,
-      "debtToEquity": 26.164,
-      "currentRatio": 1.549,
-      "quickRatio": 0.93,
-      "eps": 9.0,
-      "forwardEps": null,
-      "bookValue": 85.91,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.542,
-      "historicalData": [
-        {
-          "Close": 200.10000610351562,
-          "Volume": 9519481
-        },
-        {
-          "Close": 208.0,
-          "Volume": 11065118
-        },
-        {
-          "Close": 200.10000610351562,
-          "Volume": 14517823
-        },
-        {
-          "Close": 204.10000610351562,
-          "Volume": 8379579
-        },
-        {
-          "Close": 224.5,
-          "Volume": 16674083
-        },
-        {
-          "Close": 217.5,
-          "Volume": 35209736
-        },
-        {
-          "Close": 195.8000030517578,
-          "Volume": 36310616
-        },
-        {
-          "Close": 176.3000030517578,
-          "Volume": 24686652
-        },
-        {
-          "Close": 161.5,
-          "Volume": 31973562
-        },
-        {
-          "Close": 162.8000030517578,
-          "Volume": 27400594
-        },
-        {
-          "Close": 164.5,
-          "Volume": 28393784
-        },
-        {
-          "Close": 158.8000030517578,
-          "Volume": 17283100
-        },
-        {
-          "Close": 159.39999389648438,
-          "Volume": 16424770
-        },
-        {
-          "Close": 159.5,
-          "Volume": 6487434
-        },
-        {
-          "Close": 160.89999389648438,
-          "Volume": 13925876
-        },
-        {
-          "Close": 162.0,
-          "Volume": 24499044
-        },
-        {
-          "Close": 164.5,
-          "Volume": 5540494
-        },
-        {
-          "Close": 177.0,
-          "Volume": 20297819
-        },
-        {
-          "Close": 179.3000030517578,
-          "Volume": 22784594
-        },
-        {
-          "Close": 161.39999389648438,
-          "Volume": 11531937
-        },
-        {
-          "Close": 148.6999969482422,
-          "Volume": 30423763
-        },
-        {
-          "Close": 149.5,
-          "Volume": 9856975
-        },
-        {
-          "Close": 147.10000610351562,
-          "Volume": 7354359
-        },
-        {
-          "Close": 156.1999969482422,
-          "Volume": 46482554
-        },
-        {
-          "Close": 152.1999969482422,
-          "Volume": 13216157
-        },
-        {
-          "Close": 157.60000610351562,
-          "Volume": 11088884
-        },
-        {
-          "Close": 161.0,
-          "Volume": 10957537
-        },
-        {
-          "Close": 161.5,
-          "Volume": 10570556
-        },
-        {
-          "Close": 168.0,
-          "Volume": 17220061
-        },
-        {
-          "Close": NaN,
-          "Volume": 18899698
-        }
-      ],
-      "heldPercentInsiders": 0.65586996,
-      "heldPercentInstitutions": 0.13167
-    },
-    {
       "code": "TEZOL",
       "symbol": "TEZOL.IS",
       "name": "Europap Tezol Kagit Sanayi ve Ticaret A.S.",
@@ -87922,7 +86032,7 @@
       "description": "Tugçelik Alüminyum Ve Metal Mamulleri Sanayi Ve Ticaret A.S. engages in the aluminum production in Turkey. It also involved melting, foundry, molding shop, CNC machining, and other processes activities. It serves automotive, white goods, telecommunication, agricultural equipment, electrical, and mechanical industries. Tugçelik Alüminyum Ve Metal Mamulleri Sanayi Ve Ticaret A.S. was founded in 1988 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.0619469,
+      "priceToBook": 0.40178573,
       "pegRatio": null,
       "priceToSales": 0.8063399,
       "enterpriseToRevenue": 2.288,
@@ -87941,7 +86051,7 @@
       "quickRatio": 0.615,
       "eps": -0.35,
       "forwardEps": null,
-      "bookValue": 3.729,
+      "bookValue": 9.856,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -89056,7 +87166,7 @@
       "description": "Ulusal Faktoring A.S. provides factoring services in Turkey. The company was incorporated in 1999 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.9644397,
+      "priceToBook": 0.48234975,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": 2.141,
@@ -89075,7 +87185,7 @@
       "quickRatio": 1.066,
       "eps": null,
       "forwardEps": null,
-      "bookValue": 1.856,
+      "bookValue": 3.711,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -91352,8 +89462,8 @@
       "targetLowPrice": 8.9,
       "targetMeanPrice": 10.2,
       "targetMedianPrice": 10.2,
-      "recommendationMean": 3.0,
-      "recommendationKey": "hold",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
       "beta": 0.299,
       "historicalData": [
@@ -92458,7 +90568,7 @@
       "description": "Yesil Yatirim Holding Anonim Sirketi provides technical planning, programming, budgeting, and project planning, and financial organization in Turkey. It also offers real estate valuation services; and consultancy in various areas, such as firm valuation, investment and research on commercial, and industrial and financial issues. The company was incorporated in 2003 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.59290385,
+      "priceToBook": 0.61145884,
       "pegRatio": null,
       "priceToSales": -318.41675,
       "enterpriseToRevenue": -318.325,
@@ -92477,7 +90587,7 @@
       "quickRatio": 76.606,
       "eps": -0.03,
       "forwardEps": null,
-      "bookValue": 2.142,
+      "bookValue": 2.077,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
