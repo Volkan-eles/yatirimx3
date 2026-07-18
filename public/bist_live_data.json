@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-07-18T08:27:17.323060",
+  "last_update": "2026-07-18T10:01:17.112032",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 499,
-  "successful": 499,
-  "failed": 32,
+  "total_stocks": 494,
+  "successful": 494,
+  "failed": 37,
   "stocks": [
     {
       "code": "GARAN",
@@ -1326,7 +1326,7 @@
         }
       ],
       "heldPercentInsiders": 0.49122003,
-      "heldPercentInstitutions": 0.08493
+      "heldPercentInstitutions": 0.0849
     },
     {
       "code": "PGSUS",
@@ -1704,7 +1704,7 @@
         }
       ],
       "heldPercentInsiders": 0.50668997,
-      "heldPercentInstitutions": 0.11447
+      "heldPercentInstitutions": 0.11444
     },
     {
       "code": "PETKM",
@@ -1948,7 +1948,7 @@
       "forwardEps": 6.16,
       "bookValue": 43.956,
       "dividendRate": 0.55,
-      "dividendYield": 1.25,
+      "dividendYield": 1.3,
       "exDividendDate": 1797292800,
       "payoutRatio": 3.5817,
       "targetHighPrice": 53.0,
@@ -2303,7 +2303,7 @@
       "country": "Turkey",
       "phone": "90 312 592 10 00",
       "description": "ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi engages in research, development, engineering, production, testing, assembly, integration, sale, support, consultancy, and trading of software, equipment, systems, tools, materials, and platforms in turkey. It operates in six divisions: Communication and Information Technologies; Microelectronics, Guidance & Electro-Optics; Avionics and Guidance Systems Vice Presidency; Integrated Defence Systems Technologies; Radar and Electronic Warfare Systems; and Transportation, Security, Energy, Automation and Healthcare Systems. The company offers military communication and information, mission critical communication, avionics and navigation, electro-optic, guidance and seeker, land and weapon, naval and underwater, air and missile, transportation and energy, and security and health systems; satellite and space technologies; radar technologies; electronic warfare system technologies; and command, control, communication and computer systems. It also provides geographic information system; business development and repair services; and consultancy services, as well as operates in the fields of augmented reality, artificial intelligence, simulation software, research, development, and design and engineering. In addition, the company is involved in serial production, maintenance and repair activities of visible precision optical and electro optical devices; designing of electronic industry and integrated circuit; marketing and business development business; research, designing, development, and engineering activities of weapons and weapons systems; after-sales services of electronic components within the field of military power electronics; and commercial and industrial activities related to electromechanical industrial products and slip ring. The company was incorporated in 1975 and is headquartered in Ankara, Turkey. ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi is a subsidiary of Turkish Armed Forces Foundation.",
-      "pe": 49.367977,
+      "pe": 49.507042,
       "forwardPE": 17.193594,
       "priceToBook": 5.7025585,
       "pegRatio": null,
@@ -2322,7 +2322,7 @@
       "debtToEquity": 18.777,
       "currentRatio": 1.54,
       "quickRatio": 0.588,
-      "eps": 7.12,
+      "eps": 7.1,
       "forwardEps": null,
       "bookValue": 61.639,
       "dividendRate": 0.43,
@@ -3059,7 +3059,7 @@
       "country": "Turkey",
       "phone": "90 444 1 444",
       "description": "Türk Telekomünikasyon Anonim Sirketi, together with its subsidiaries, operates as an integrated telecommunication company in Turkey. The company operates in two segments, Fixed Line and Mobile. The company offers mobile, Internet, phone and TV products and services under the Türk Telekom brand. It also provides PSTN and wholesale broadband services; retail internet services, IPTV, satellite TV, Web TV, mobile TV, and smart TV services; convergence technologies; IT solutions; online education software; call center services; project development and corporate venture capital services; electric supply and sales services; combined facilities support services; wholesale data and capacity services; and financial technology services. In addition, the company offers TV broadcasting and VOD services; telecommunications devices; payment and e-money services; and web portal and computer programming services. The company was founded in 1840 and is headquartered in Ankara, Turkey. Türk Telekomünikasyon Anonim Sirketi is a subsidiary of LYY Telekomünikasyon A.S.",
-      "pe": 7.611257,
+      "pe": 7.6816382,
       "forwardPE": 7.890095,
       "priceToBook": 0.8353805,
       "pegRatio": 0.78,
@@ -3078,7 +3078,7 @@
       "debtToEquity": 58.283,
       "currentRatio": 1.008,
       "quickRatio": 0.636,
-      "eps": 7.64,
+      "eps": 7.57,
       "forwardEps": 7.37,
       "bookValue": 69.609,
       "dividendRate": null,
@@ -3248,7 +3248,7 @@
       "country": "Turkey",
       "phone": "90 212 313 18 88",
       "description": "Turkcell Iletisim Hizmetleri A.S., together with its subsidiaries, engages in establishing and operating a global system for mobile communications (GSM) network in Turkey, Belarus, Turkish Republic of Northern Cyprus, Germany, and the Netherlands. It operates through the Turkcell Turkiye, Turkcell International, and Techfin segments. The company is involved in information technology, value added GSM, and entertainment investment, as well as research and development, digital and insurance agency, property investments, electricity energy trade, and wholesale and retail electricity sales activities. It also provides telecommunications, television, and content; digitalization; sales, delivery, and digital sales; consumer financing; cloud solutions; online radio, television, and on-demand streaming; telecommunications infrastructure; electronic payment; and develop software products and services. In addition, the company offers customer relations and human resources management; directory assistance; payment services and e-money; internet search engine and browser; venture capital investment fund; meal coupons and cards; data processing; data center and cloud; programming and technical support; and digital education services. Further, it provides training software developers. Turkcell Iletisim Hizmetleri A.S. was incorporated in 1993 and is headquartered in Istanbul, Turkey.",
-      "pe": 12.840237,
+      "pe": 13.280293,
       "forwardPE": 8.652312,
       "priceToBook": 0.8115001,
       "pegRatio": 1.63,
@@ -3267,7 +3267,7 @@
       "debtToEquity": 70.932,
       "currentRatio": 1.692,
       "quickRatio": 1.531,
-      "eps": 8.45,
+      "eps": 8.17,
       "forwardEps": 12.54,
       "bookValue": 133.703,
       "dividendRate": 4.0,
@@ -3834,7 +3834,7 @@
       "debtToEquity": 290.144,
       "currentRatio": 0.368,
       "quickRatio": 0.124,
-      "eps": -88.37,
+      "eps": -85.07,
       "forwardEps": 9.33,
       "bookValue": 78.625,
       "dividendRate": null,
@@ -3845,8 +3845,8 @@
       "targetLowPrice": 31.5,
       "targetMeanPrice": 35.6,
       "targetMedianPrice": 35.6,
-      "recommendationMean": 3.5,
-      "recommendationKey": "hold",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
       "beta": -0.143,
       "historicalData": [
@@ -4968,7 +4968,7 @@
       "debtToEquity": 53.08,
       "currentRatio": 2.4,
       "quickRatio": 1.191,
-      "eps": -39.9,
+      "eps": -39.29,
       "forwardEps": null,
       "bookValue": 134.288,
       "dividendRate": null,
@@ -6054,195 +6054,6 @@
       "heldPercentInstitutions": 0.01651
     },
     {
-      "code": "HEKTS",
-      "symbol": "HEKTS.IS",
-      "name": "Hektas Ticaret T.A.S.",
-      "shortName": "HEKTAS",
-      "price": 3.03,
-      "change": -0.13,
-      "changeRate": -4.11,
-      "previousClose": 3.16,
-      "open": 3.15,
-      "dayLow": 3.02,
-      "dayHigh": 3.16,
-      "fiftyTwoWeekLow": 2.76,
-      "fiftyTwoWeekHigh": 5.27,
-      "fiftyDayAverage": 3.82,
-      "twoHundredDayAverage": 3.35,
-      "volume": "339,320,233",
-      "averageVolume": 435347605,
-      "averageVolume10days": 444405284,
-      "marketCap": 25542899712,
-      "enterpriseValue": 36618866688,
-      "sharesOutstanding": 8430000000,
-      "sector": "Basic Materials",
-      "industry": "Agricultural Inputs",
-      "website": "https://hektas.com.tr",
-      "address": "GEBZE OSB MAHALLESI 700.",
-      "city": "Gebze",
-      "country": "Turkey",
-      "phone": "90 262 751 14 12",
-      "description": "Hektas Ticaret T.A.S. manufactures, imports, and markets agricultural products, fertilizers and veterinary medicines in Turkey. The company's crop protection products include fungicides, herbicides, insecticides, acaricides, fumigants and nemathists, harvesting aids and plant growth regulators, winter struggle medicines and summer oils, spreads-adhesives, biological products, and feromons. It also offers smart base, leaf, pure, and fertilizers; organominerals; drip irrigation; biological preparation; and other plant nutrition products. In addition, the company provides ruminant, poultry, and pet products, as well as environmental health and seeds products. Hektas Ticaret T.A.S. was incorporated in 1956 and is headquartered in Gebze, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 1.7108978,
-      "pegRatio": 0.85,
-      "priceToSales": 4.5483613,
-      "enterpriseToRevenue": 6.521,
-      "enterpriseToEbitda": -19.929,
-      "profitMargins": -0.63181996,
-      "grossMargins": -0.029849999,
-      "operatingMargins": -0.12465999,
-      "returnOnAssets": -0.06107,
-      "returnOnEquity": -0.23468,
-      "totalRevenue": 5615846912,
-      "revenuePerShare": 0.666,
-      "totalCash": 1976627840,
-      "totalDebt": 12002343936,
-      "debtToEquity": 75.094,
-      "currentRatio": 0.583,
-      "quickRatio": 0.322,
-      "eps": -0.42,
-      "forwardEps": null,
-      "bookValue": 1.771,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1575244800,
-      "payoutRatio": 0.0,
-      "targetHighPrice": 4.3,
-      "targetLowPrice": 4.3,
-      "targetMeanPrice": 4.3,
-      "targetMedianPrice": 4.3,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 1,
-      "beta": -0.214,
-      "historicalData": [
-        {
-          "Close": 4.139999866485596,
-          "Volume": 514611507
-        },
-        {
-          "Close": 4.239999771118164,
-          "Volume": 360885984
-        },
-        {
-          "Close": 3.819999933242798,
-          "Volume": 791343053
-        },
-        {
-          "Close": 3.6600000858306885,
-          "Volume": 435058432
-        },
-        {
-          "Close": 3.869999885559082,
-          "Volume": 120213539
-        },
-        {
-          "Close": 3.890000104904175,
-          "Volume": 583495505
-        },
-        {
-          "Close": 3.9800000190734863,
-          "Volume": 358132233
-        },
-        {
-          "Close": 3.9800000190734863,
-          "Volume": 445276962
-        },
-        {
-          "Close": 3.859999895095825,
-          "Volume": 315464092
-        },
-        {
-          "Close": 4.070000171661377,
-          "Volume": 590470095
-        },
-        {
-          "Close": 4.159999847412109,
-          "Volume": 656708704
-        },
-        {
-          "Close": 3.9800000190734863,
-          "Volume": 401748665
-        },
-        {
-          "Close": 3.990000009536743,
-          "Volume": 573593201
-        },
-        {
-          "Close": 3.6500000953674316,
-          "Volume": 607749604
-        },
-        {
-          "Close": 3.430000066757202,
-          "Volume": 1058676775
-        },
-        {
-          "Close": 3.4100000858306885,
-          "Volume": 385596973
-        },
-        {
-          "Close": 3.2699999809265137,
-          "Volume": 577353108
-        },
-        {
-          "Close": 3.299999952316284,
-          "Volume": 729719639
-        },
-        {
-          "Close": 3.240000009536743,
-          "Volume": 303450336
-        },
-        {
-          "Close": 3.2200000286102295,
-          "Volume": 498667046
-        },
-        {
-          "Close": 3.2899999618530273,
-          "Volume": 643739459
-        },
-        {
-          "Close": 3.1700000762939453,
-          "Volume": 397257695
-        },
-        {
-          "Close": 3.119999885559082,
-          "Volume": 331329565
-        },
-        {
-          "Close": 3.0,
-          "Volume": 262538303
-        },
-        {
-          "Close": 3.0,
-          "Volume": 358608138
-        },
-        {
-          "Close": 3.0299999713897705,
-          "Volume": 608518666
-        },
-        {
-          "Close": 3.0899999141693115,
-          "Volume": 625567391
-        },
-        {
-          "Close": 3.069999933242798,
-          "Volume": 306844000
-        },
-        {
-          "Close": 3.1600000858306885,
-          "Volume": 410982578
-        },
-        {
-          "Close": 3.0299999713897705,
-          "Volume": 339320233
-        }
-      ],
-      "heldPercentInsiders": 0.55367,
-      "heldPercentInstitutions": 0.03412
-    },
-    {
       "code": "CLEBI",
       "symbol": "CLEBI.IS",
       "name": "Çelebi Hava Servisi A.S.",
@@ -6272,7 +6083,7 @@
       "country": "Turkey",
       "phone": "90 212 952 92 00",
       "description": "Çelebi Hava Servisi A.S. provides ground handling and cargo warehouse services to domestic and foreign airlines, and private air cargo companies in Turkey. It offers ground handling services, such as representation, traffic, ramp, cargo, and flight operations. The company was founded in 1958 and is headquartered in Istanbul, Turkey. Çelebi Hava Servisi A.S. operates as a subsidiary of Çelebi Aviation Holding A.S.",
-      "pe": 11.238853,
+      "pe": 11.415525,
       "forwardPE": 164.3319,
       "priceToBook": 4.539366,
       "pegRatio": 4.88,
@@ -6291,7 +6102,7 @@
       "debtToEquity": 120.415,
       "currentRatio": 1.261,
       "quickRatio": 0.852,
-      "eps": 135.69,
+      "eps": 133.59,
       "forwardEps": 9.28,
       "bookValue": 335.95,
       "dividendRate": 103.0,
@@ -6669,7 +6480,7 @@
       "debtToEquity": null,
       "currentRatio": 0.777,
       "quickRatio": 0.687,
-      "eps": -5.39,
+      "eps": -5.3,
       "forwardEps": null,
       "bookValue": -5.487,
       "dividendRate": null,
@@ -6808,195 +6619,6 @@
       ],
       "heldPercentInsiders": 0.63051,
       "heldPercentInstitutions": 1.0000001e-05
-    },
-    {
-      "code": "AEFES",
-      "symbol": "AEFES.IS",
-      "name": "Anadolu Efes Biracilik ve Malt Sanayii Anonim Sirketi",
-      "shortName": "ANADOLU EFES",
-      "price": 20.8,
-      "change": 0.04,
-      "changeRate": 0.19,
-      "previousClose": 20.76,
-      "open": 20.76,
-      "dayLow": 20.58,
-      "dayHigh": 21.0,
-      "fiftyTwoWeekLow": 13.37,
-      "fiftyTwoWeekHigh": 23.28,
-      "fiftyDayAverage": 20.31,
-      "twoHundredDayAverage": 17.78,
-      "volume": "24,552,437",
-      "averageVolume": 37958802,
-      "averageVolume10days": 35228861,
-      "marketCap": 123157889024,
-      "enterpriseValue": 304175120384,
-      "sharesOutstanding": 5921052630,
-      "sector": "Consumer Defensive",
-      "industry": "Beverages - Non-Alcoholic",
-      "website": "https://www.anadoluefes.com",
-      "address": "Fatih Sultan Mehmet Mahallesi Balkan Caddesi",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 216 586 80 00",
-      "description": "Anadolu Efes Biracilik ve Malt Sanayii Anonim Sirketi, together with its subsidiaries, engages in the production, bottling, distribution, marketing, and sale of beer, malt, non-carbonated, and non-alcoholic beverages in Turkey and internationally. The company operates in two segments, Beer and Soft Drinks. It offers carbonated and low alcoholic drinks, water, fruit juice concentrates, purees and fresh fruit. The company also leases intellectual property and related products; and provides a range of sparkling and still beverages under the Coca-Cola Company trademark. Anadolu Efes Biracilik ve Malt Sanayii Anonim Sirketi was incorporated in 1966 and is based in Istanbul, Turkey.",
-      "pe": 14.149659,
-      "forwardPE": 0.68107396,
-      "priceToBook": 1.0321555,
-      "pegRatio": 1.32,
-      "priceToSales": 0.496127,
-      "enterpriseToRevenue": 1.225,
-      "enterpriseToEbitda": 7.412,
-      "profitMargins": 0.03508,
-      "grossMargins": 0.38138,
-      "operatingMargins": 0.06792,
-      "returnOnAssets": 0.04496,
-      "returnOnEquity": 0.08141,
-      "totalRevenue": 248238637056,
-      "revenuePerShare": 41.925,
-      "totalCash": 32113219584,
-      "totalDebt": 96605085696,
-      "debtToEquity": 40.961,
-      "currentRatio": 1.027,
-      "quickRatio": 0.638,
-      "eps": 1.47,
-      "forwardEps": 30.54,
-      "bookValue": 20.152,
-      "dividendRate": 0.34,
-      "dividendYield": 1.64,
-      "exDividendDate": 1791158400,
-      "payoutRatio": 0.0866,
-      "targetHighPrice": 31.6,
-      "targetLowPrice": 18.4,
-      "targetMeanPrice": 26.125,
-      "targetMedianPrice": 26.5,
-      "recommendationMean": 1.625,
-      "recommendationKey": "buy",
-      "numberOfAnalystOpinions": 8,
-      "beta": 0.496,
-      "historicalData": [
-        {
-          "Close": 20.360000610351562,
-          "Volume": 29617735
-        },
-        {
-          "Close": 20.299999237060547,
-          "Volume": 33548430
-        },
-        {
-          "Close": 20.299999237060547,
-          "Volume": 31258624
-        },
-        {
-          "Close": 19.959999084472656,
-          "Volume": 22286395
-        },
-        {
-          "Close": 20.219999313354492,
-          "Volume": 33138954
-        },
-        {
-          "Close": 20.399999618530273,
-          "Volume": 54837581
-        },
-        {
-          "Close": 21.299999237060547,
-          "Volume": 31543887
-        },
-        {
-          "Close": 21.260000228881836,
-          "Volume": 38686146
-        },
-        {
-          "Close": 21.059999465942383,
-          "Volume": 26948678
-        },
-        {
-          "Close": 21.520000457763672,
-          "Volume": 30275188
-        },
-        {
-          "Close": 21.020000457763672,
-          "Volume": 32147749
-        },
-        {
-          "Close": 21.059999465942383,
-          "Volume": 22291111
-        },
-        {
-          "Close": 20.540000915527344,
-          "Volume": 45929802
-        },
-        {
-          "Close": 20.639999389648438,
-          "Volume": 26179562
-        },
-        {
-          "Close": 20.719999313354492,
-          "Volume": 24776573
-        },
-        {
-          "Close": 21.260000228881836,
-          "Volume": 33874455
-        },
-        {
-          "Close": 21.34000015258789,
-          "Volume": 34009640
-        },
-        {
-          "Close": 21.040000915527344,
-          "Volume": 42740925
-        },
-        {
-          "Close": 20.860000610351562,
-          "Volume": 29527124
-        },
-        {
-          "Close": 20.5,
-          "Volume": 37936049
-        },
-        {
-          "Close": 20.5,
-          "Volume": 39082141
-        },
-        {
-          "Close": 20.219999313354492,
-          "Volume": 25539596
-        },
-        {
-          "Close": 20.520000457763672,
-          "Volume": 35362763
-        },
-        {
-          "Close": 20.139999389648438,
-          "Volume": 49050000
-        },
-        {
-          "Close": 19.709999084472656,
-          "Volume": 29484823
-        },
-        {
-          "Close": 20.459999084472656,
-          "Volume": 33490899
-        },
-        {
-          "Close": 20.079999923706055,
-          "Volume": 33646214
-        },
-        {
-          "Close": 20.020000457763672,
-          "Volume": 23939563
-        },
-        {
-          "Close": 20.760000228881836,
-          "Volume": 44756566
-        },
-        {
-          "Close": 20.799999237060547,
-          "Volume": 24552437
-        }
-      ],
-      "heldPercentInsiders": 0.67047995,
-      "heldPercentInstitutions": 0.048899997
     },
     {
       "code": "ULKER",
@@ -9107,7 +8729,7 @@
       "country": "Turkey",
       "phone": "90 216 666 01 01",
       "description": "Albaraka Türk Katilim Bankasi A.S. provides various banking products and services in Turkey. It provides participation, current, trend, and gold accounts. The company also offers housing, real estate, vehicle, consumer, dealer, and jet financing services; cards, including debit, trend, credit, and digital debit cards; insurance and pensions, such as private pensions, auto, home, health, life and personal accident; investment, comprising capital market and treasury products; payments and other banking services. In addition, it provides SME, commercial, and corporate cash and non-cash, leasing, credit guarantee fund, and dealer financing; foreign trade payments, financings, treasury products, electronic transfer notice form, other transactions; cash management, such as collections and payments, e-services, and intergrations; merchant and POS, including merchant member services, applications, products, and solutions; investment, which includes capital market products, treasury products, and electronic product certificate; insurance and pension for employees, responsibilities, assets, and farmers; and SME and chargeback cards. Further, the company offers digital banking; mobile banking; open banking; and internet branch services, as well as provides ATM banking and services. Albaraka Türk Katilim Bankasi A.S. was incorporated in 1984 and is headquartered in Ümraniye, Turkey.",
-      "pe": 2.439394,
+      "pe": 2.4617739,
       "forwardPE": 4.327957,
       "priceToBook": 0.68359375,
       "pegRatio": 0.37,
@@ -9126,11 +8748,11 @@
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
-      "eps": 3.3,
+      "eps": 3.27,
       "forwardEps": 1.86,
       "bookValue": 11.776,
       "dividendRate": 0.26,
-      "dividendYield": 3.22,
+      "dividendYield": 3.25,
       "exDividendDate": 1776211200,
       "payoutRatio": 0.0523,
       "targetHighPrice": 11.94,
@@ -10052,7 +9674,7 @@
       "country": "Turkey",
       "phone": "90 216 693 03 80",
       "description": "Biotrend Cevre ve Enerji Yatirimlari A.S. engages in integrated waste management-oriented renewable energy, circular raw materials, and fuel production activities in Turkey. It is involved in the waste disposal; mechanical sorting; recycled products; refuse-derived fuel; generation of electricity and heat from biogas, landfill gas, and biomass; carbon trading; composting; sanitary landfills; and greenhouse farming. The company also engages in production of energy using fermentation, , incineration technologies; operation of solid waste storage areas, mechanical separation plant, waste derived fuel preparation plant, leachate treatment plant, biological treatment plant, and landfill gas; and installation and operation of power generation plants, as well as provision of engineering, contracting, and consulting services. The company was founded in 2017 and is headquartered in Istanbul, Turkey. Biotrend Cevre ve Enerji Yatirimlari A.S. operates as a subsidiary of Doganlar Investment Holding A.S.",
-      "pe": 4.4934387,
+      "pe": 4.652174,
       "forwardPE": null,
       "priceToBook": 2.6137404,
       "pegRatio": null,
@@ -10071,7 +9693,7 @@
       "debtToEquity": 179.104,
       "currentRatio": 0.369,
       "quickRatio": 0.171,
-      "eps": 3.81,
+      "eps": 3.68,
       "forwardEps": null,
       "bookValue": 6.55,
       "dividendRate": null,
@@ -10260,7 +9882,7 @@
       "debtToEquity": 156.085,
       "currentRatio": 0.57,
       "quickRatio": 0.097,
-      "eps": -0.1,
+      "eps": -0.11,
       "forwardEps": null,
       "bookValue": 0.798,
       "dividendRate": null,
@@ -10449,7 +10071,7 @@
       "debtToEquity": 58.755,
       "currentRatio": 1.059,
       "quickRatio": 0.789,
-      "eps": -1.38,
+      "eps": -1.39,
       "forwardEps": 16.91,
       "bookValue": 85.454,
       "dividendRate": 2.13,
@@ -12150,7 +11772,7 @@
       "debtToEquity": 164.304,
       "currentRatio": 0.113,
       "quickRatio": 0.083,
-      "eps": -7.02,
+      "eps": -7.03,
       "forwardEps": -0.94,
       "bookValue": 19.958,
       "dividendRate": null,
@@ -12721,7 +12343,7 @@
       "forwardEps": null,
       "bookValue": 20.428,
       "dividendRate": 0.46,
-      "dividendYield": 4.72,
+      "dividendYield": 4.73,
       "exDividendDate": 1776643200,
       "payoutRatio": 0.0941,
       "targetHighPrice": 14.03,
@@ -12906,7 +12528,7 @@
       "debtToEquity": 0.891,
       "currentRatio": 1.762,
       "quickRatio": 1.537,
-      "eps": -0.57,
+      "eps": -0.56,
       "forwardEps": null,
       "bookValue": 14.996,
       "dividendRate": null,
@@ -13284,7 +12906,7 @@
       "debtToEquity": 95.336,
       "currentRatio": 1.526,
       "quickRatio": 0.851,
-      "eps": -43.71,
+      "eps": -42.84,
       "forwardEps": null,
       "bookValue": 188.258,
       "dividendRate": 63.22,
@@ -14210,7 +13832,7 @@
       "country": "Turkey",
       "phone": "90 212 317 70 70",
       "description": "Anadolu Hayat Emeklilik Anonim Sirketi provides private pension and life insurance products in Turkey. The company offers private pension products, including individual, non-sponsored group, employer-sponsored, and income drawdown plans; auto-enrolment plans; and life insurance products, such as savings and endowment, annuities, and term life. It also provides personal and group accident insurance products. In addition, the company provides conservative, balanced, dynamic, and aggressive pension funds. The company was formerly known as Anadolu Hayat Sigorta A.S. and changed its name to Anadolu Hayat Emeklilik Anonim Sirketi in 2003. Anadolu Hayat Emeklilik Anonim Sirketi was founded in 1990 and is headquartered in Istanbul, Turkey. Anadolu Hayat Emeklilik Anonim Sirketi is a subsidiary of Türkiye Is Bankasi A.S.",
-      "pe": 6.792328,
+      "pe": 6.7477,
       "forwardPE": 6.1240306,
       "priceToBook": 3.8932483,
       "pegRatio": 0.89,
@@ -14229,11 +13851,11 @@
       "debtToEquity": 3.152,
       "currentRatio": 7.516,
       "quickRatio": 7.396,
-      "eps": 15.12,
+      "eps": 15.22,
       "forwardEps": 16.77,
       "bookValue": 26.379,
       "dividendRate": 8.14,
-      "dividendYield": 7.98,
+      "dividendYield": 7.93,
       "exDividendDate": 1774483200,
       "payoutRatio": 0.5385,
       "targetHighPrice": 197.48,
@@ -14985,7 +14607,7 @@
       "debtToEquity": 227.292,
       "currentRatio": 1.107,
       "quickRatio": 0.869,
-      "eps": -9.1,
+      "eps": -9.13,
       "forwardEps": null,
       "bookValue": 20.804,
       "dividendRate": null,
@@ -16875,7 +16497,7 @@
       "debtToEquity": null,
       "currentRatio": 20.433,
       "quickRatio": 19.943,
-      "eps": -0.69,
+      "eps": -0.67,
       "forwardEps": null,
       "bookValue": 20.646,
       "dividendRate": null,
@@ -17253,7 +16875,7 @@
       "debtToEquity": 61.059,
       "currentRatio": 1.211,
       "quickRatio": 0.477,
-      "eps": -0.56,
+      "eps": -0.55,
       "forwardEps": null,
       "bookValue": 4.815,
       "dividendRate": null,
@@ -17990,7 +17612,7 @@
       "country": "Turkey",
       "phone": "90 531 260 88 82",
       "description": "Ayes Celik Hasir Ve Cit Sanayi A.S. produces wire mesh in Turkey. It offers wire meshes, such as Q type, R type, fence, and special wire meshes; prop reinforcement stands; panel fences and cage wire meshes; deformed bars, including coil bars and wire rods, cutted deformed bars, stirrup rebars, and steel rebars. The company also provides machinery manufacturing products comprising drawing, wire cutting, butt welding, and mesh bending machines. Ayes Celik Hasir Ve Cit Sanayi A.S. was incorporated in 1978 and is headquartered in Istanbul, Turkey.",
-      "pe": 4.710335,
+      "pe": 4.51325,
       "forwardPE": null,
       "priceToBook": 1.596763,
       "pegRatio": null,
@@ -18009,11 +17631,11 @@
       "debtToEquity": 52.654,
       "currentRatio": 1.357,
       "quickRatio": 0.986,
-      "eps": 6.87,
+      "eps": 7.17,
       "forwardEps": null,
       "bookValue": 20.266,
       "dividendRate": 0.35,
-      "dividendYield": 1.14,
+      "dividendYield": 1.09,
       "exDividendDate": 1780272000,
       "payoutRatio": 0.0128,
       "targetHighPrice": null,
@@ -18368,7 +17990,7 @@
       "country": "Turkey",
       "phone": "90 546 527 46 69",
       "description": "Balatacilar Balatacilik Sanayi Ve Ticaret A.S. provides automotive parts in Turkey. It manufactures, imports, and sells drums, brakes, and clutch linings. The company was incorporated in 1988 and is headquartered in Izmir, Turkey.",
-      "pe": 37.41706,
+      "pe": 36.050224,
       "forwardPE": null,
       "priceToBook": 21.677649,
       "pegRatio": null,
@@ -18387,7 +18009,7 @@
       "debtToEquity": null,
       "currentRatio": 1.29,
       "quickRatio": 0.725,
-      "eps": 2.11,
+      "eps": 2.19,
       "forwardEps": null,
       "bookValue": 3.642,
       "dividendRate": null,
@@ -19147,7 +18769,7 @@
       "forwardEps": null,
       "bookValue": 47.885,
       "dividendRate": 2.0,
-      "dividendYield": 4.29,
+      "dividendYield": 4.35,
       "exDividendDate": 1784505600,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
@@ -19332,7 +18954,7 @@
       "debtToEquity": 87.66,
       "currentRatio": 0.767,
       "quickRatio": 0.4,
-      "eps": -0.78,
+      "eps": -0.82,
       "forwardEps": null,
       "bookValue": 0.952,
       "dividendRate": null,
@@ -20655,7 +20277,7 @@
       "debtToEquity": 2713.951,
       "currentRatio": 0.568,
       "quickRatio": 0.207,
-      "eps": -7.91,
+      "eps": -7.84,
       "forwardEps": -7.64,
       "bookValue": 1.625,
       "dividendRate": null,
@@ -21789,7 +21411,7 @@
       "debtToEquity": null,
       "currentRatio": 0.474,
       "quickRatio": 0.397,
-      "eps": -5.57,
+      "eps": -5.3,
       "forwardEps": null,
       "bookValue": -1.55,
       "dividendRate": null,
@@ -23490,7 +23112,7 @@
       "debtToEquity": 21.933,
       "currentRatio": 0.986,
       "quickRatio": 0.294,
-      "eps": -0.63,
+      "eps": -0.62,
       "forwardEps": null,
       "bookValue": 14.149,
       "dividendRate": null,
@@ -25569,7 +25191,7 @@
       "debtToEquity": 177.587,
       "currentRatio": 0.621,
       "quickRatio": 0.579,
-      "eps": -205.22,
+      "eps": -201.57,
       "forwardEps": null,
       "bookValue": 134.86,
       "dividendRate": null,
@@ -28196,7 +27818,7 @@
       "country": "Turkey",
       "phone": "90 212 703 30 00",
       "description": "Derimod Konfeksiyon Ayakkabi Deri Sanayi ve Ticaret A.S. provides leather clothing, jackets, and shoes for men and women in Turkey and internationally. The company offers leather clothing products comprising suede clothing, leather jackets and coats, leather trench coats and overcoats, teddy bears, leather vests, and softwear; shoulder and handbags, crossbody bags, backpacks, clutch and portfolio bags, leather bags, box and woven bags, laptop and briefcase bags, messenger and waist bags, and travel bags; accessories, including wallets, card holders, belts, charms, socks, and care products; children's products; and shoes, such as sneakers, loafers, ballet shoes, flats, high heels, boots, sandals, slippers, espadrilles, flat and comfort shoes, and casual and classic shoes. It sells its products under the Derimod, D-Pack, Derimod Studio, Teddy, Geox, Caterpillar, Harley Davidson, Skechers, Alberto Guardiani, and Birkenstock brands through its leased stores, e-commerce, and dealerships. Derimod Konfeksiyon Ayakkabi Deri Sanayi ve Ticaret A.S. was incorporated in 1975 and is headquartered in Istanbul, Turkey.",
-      "pe": 20.930233,
+      "pe": 21.428572,
       "forwardPE": null,
       "priceToBook": 2.6867676,
       "pegRatio": null,
@@ -28215,7 +27837,7 @@
       "debtToEquity": 136.571,
       "currentRatio": 1.755,
       "quickRatio": 1.498,
-      "eps": 1.72,
+      "eps": 1.68,
       "forwardEps": null,
       "bookValue": 13.399,
       "dividendRate": null,
@@ -29349,7 +28971,7 @@
       "debtToEquity": 462.295,
       "currentRatio": 0.374,
       "quickRatio": 0.104,
-      "eps": -6.47,
+      "eps": -6.44,
       "forwardEps": null,
       "bookValue": 4.204,
       "dividendRate": null,
@@ -30298,7 +29920,7 @@
       "forwardEps": 108.59,
       "bookValue": 308.219,
       "dividendRate": 30.0,
-      "dividendYield": 16.08,
+      "dividendYield": 16.22,
       "exDividendDate": 1786579200,
       "payoutRatio": 2.0269,
       "targetHighPrice": 320.0,
@@ -31239,7 +30861,7 @@
       "debtToEquity": 58.008,
       "currentRatio": 1.058,
       "quickRatio": 0.686,
-      "eps": -0.74,
+      "eps": -0.75,
       "forwardEps": null,
       "bookValue": 4.092,
       "dividendRate": null,
@@ -32154,7 +31776,7 @@
       "volume": "2,442,030",
       "averageVolume": 7292305,
       "averageVolume10days": 2803041,
-      "marketCap": 6728303616,
+      "marketCap": 7211696640,
       "enterpriseValue": 6413408768,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32169,7 +31791,7 @@
       "forwardPE": null,
       "priceToBook": 7.31846,
       "pegRatio": null,
-      "priceToSales": 2.819073,
+      "priceToSales": 3.0216084,
       "enterpriseToRevenue": 2.687,
       "enterpriseToEbitda": 112.131,
       "profitMargins": -0.03031,
@@ -32921,7 +32543,7 @@
       "country": "Turkey",
       "phone": "",
       "description": "Ege Gübre Sanayii A.S. primarily provides port services. The company operates through Chemical Fertilizers and Port Services segments. It offers port services, including container handling, storage, container stuffing/unloading, container repair/cleaning, yard stacking, and OFFDOCK services; loading and terminal services; terminal management services; and insurance brokerage services. The company also provides compound, supply, and specialized fertilizers, as well as organic solvents. Ege Gübre Sanayii A.S. was incorporated in 1973 and is headquartered in Izmir, Turkey.",
-      "pe": 13.944056,
+      "pe": 14.202279,
       "forwardPE": null,
       "priceToBook": 1.0437604,
       "pegRatio": null,
@@ -32940,11 +32562,11 @@
       "debtToEquity": 13.81,
       "currentRatio": 2.515,
       "quickRatio": 2.306,
-      "eps": 7.15,
+      "eps": 7.02,
       "forwardEps": null,
       "bookValue": 95.52,
       "dividendRate": 2.5,
-      "dividendYield": 2.46,
+      "dividendYield": 2.51,
       "exDividendDate": 1777852800,
       "payoutRatio": 0.2517,
       "targetHighPrice": null,
@@ -33885,7 +33507,7 @@
       "debtToEquity": 105.457,
       "currentRatio": 1.331,
       "quickRatio": 0.679,
-      "eps": -0.34,
+      "eps": -0.35,
       "forwardEps": null,
       "bookValue": 4.212,
       "dividendRate": null,
@@ -34055,7 +33677,7 @@
       "country": "Turkey",
       "phone": "90 312 219 80 95",
       "description": "Elite Naturel Organik Gida Sanayi ve Ticaret A.S., together with its subsidiaries, produces and sells organic fruit and vegetable juices in Turkey and internationally. The company also provides pulps and concentrates; semi-finished and finished products of organic fruits, vegetables, and other food products; and carbonated, non-carbonated, and non-alcoholic beverages. It exports its products to approximately 30 countries. Elite Naturel Organik Gida Sanayi ve Ticaret A.S. was founded in 1975 and is based in Ankara, Turkey.",
-      "pe": 23.073528,
+      "pe": 23.41791,
       "forwardPE": null,
       "priceToBook": 1.6246439,
       "pegRatio": null,
@@ -34074,7 +33696,7 @@
       "debtToEquity": 8.452,
       "currentRatio": 3.15,
       "quickRatio": 2.054,
-      "eps": 1.36,
+      "eps": 1.34,
       "forwardEps": null,
       "bookValue": 19.315,
       "dividendRate": 0.05,
@@ -34244,7 +33866,7 @@
       "country": "Turkey",
       "phone": "90 312 398 01 81",
       "description": "Emek Elektrik Endustrisi Anonim Sirketi engages in the production, testing, marketing, and sale of transformers, capacitors, disconnectors, separators, and electromechanical equipment in Turkey and internationally. It offers oil and epoxy resin current and voltage transformers. The company was incorporated in 1969 and is based in Ankara, Turkey. Emek Elektrik Endustrisi Anonim Sirketi operates as a subsidiary of Emek Elektrik USA Inc.",
-      "pe": 60.411766,
+      "pe": 58.68572,
       "forwardPE": null,
       "priceToBook": 2.931773,
       "pegRatio": null,
@@ -34263,7 +33885,7 @@
       "debtToEquity": 38.106,
       "currentRatio": 1.311,
       "quickRatio": 0.548,
-      "eps": 0.34,
+      "eps": 0.35,
       "forwardEps": null,
       "bookValue": 7.006,
       "dividendRate": null,
@@ -35945,7 +35567,7 @@
       "country": "Turkey",
       "phone": "90 212 340 60 00",
       "description": "Escort Teknoloji Yatirim A.S. provides technology-based products, solutions, and services in Turkey. The company engages in the development of AI-powered product categorization, content enrichment, and conversion optimization solutions; credit card shipping; detection of damage during vehicle delivery and retrieval; production of mobile games and application software; AI-based recruitment management systems; optimization of game development processes; safe driving and accident prevention systems; video analysis services; and curriculum-based training and book content. It is also involved in the creation of operating systems; online environments for exercising; real-time case consultation applications for general practitioners; development of technology on liposomes; data analytics, scouting, and team management platforms; beauty and care products; protection and control of sensitive data; SaaS data analytics tools; a library of digital twins of building materials; medical devices to treat glaucoma and neurological disorders; marketplaces for digital advertising, marketing, and software projects, as well as for after-sales services; online platforms for secure counseling services; and mobile quiz applications. In addition, the company engages in the management of communication channels; solutions that digitize and optimize shift work personnel management processes; research and development on malware; social platforms to practice English; online psychological support platforms; wireless sensors and industrial IoT technology; payment processing; nickel-based cathodes; online software to invoice orders; digital beauty assistants; UX/UI, mobile/web application, API, service, and cloud and integration technology development services; mobile applications to order water; solar-based renewable energy; and complete passive network infrastructure products. Escort Teknoloji Yatirim A.S. was founded in 1991 and is based in Istanbul, Turkey.",
-      "pe": 3.0607736,
+      "pe": 3.183908,
       "forwardPE": null,
       "priceToBook": 1.0308894,
       "pegRatio": null,
@@ -35964,7 +35586,7 @@
       "debtToEquity": null,
       "currentRatio": 0.396,
       "quickRatio": 0.373,
-      "eps": 1.81,
+      "eps": 1.74,
       "forwardEps": null,
       "bookValue": 5.374,
       "dividendRate": null,
@@ -36296,8 +35918,8 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
-      "shortName": "ETILER GIDA",
+      "name": "ETILR",
+      "shortName": "ETILR",
       "price": 6.75,
       "change": 0.24,
       "changeRate": 3.69,
@@ -37665,11 +37287,11 @@
       "debtToEquity": 48.748,
       "currentRatio": 1.373,
       "quickRatio": 0.075,
-      "eps": -0.83,
+      "eps": -0.91,
       "forwardEps": null,
       "bookValue": 2.767,
       "dividendRate": 0.03,
-      "dividendYield": 1.18,
+      "dividendYield": 1.07,
       "exDividendDate": 1766620800,
       "payoutRatio": 0.048899997,
       "targetHighPrice": null,
@@ -40292,7 +39914,7 @@
       "country": "Turkey",
       "phone": "90 312 353 02 06",
       "description": "Gentas Dekoratif Yuzeyler Sanayi ve Ticaret A.S. engages in the production and sale of impregnated and laminate paper, table tops, school desks, chair, backrests, and building profiles in Turkey and internationally. The company was formerly known as Gentas Genel Metal Sanayi ve Ticaret A.S. and changed its name to Gentas Dekoratif Yuzeyler Sanayi ve Ticaret A.S. in April 2020. Gentas Dekoratif Yuzeyler Sanayi ve Ticaret A.S. was incorporated in 1972 and is headquartered in Ankara, Turkey.",
-      "pe": 8.577465,
+      "pe": 8.700001,
       "forwardPE": null,
       "priceToBook": 1.1103008,
       "pegRatio": null,
@@ -40311,11 +39933,11 @@
       "debtToEquity": 14.093,
       "currentRatio": 1.941,
       "quickRatio": 0.987,
-      "eps": 0.71,
+      "eps": 0.7,
       "forwardEps": null,
       "bookValue": 5.485,
       "dividendRate": 0.16,
-      "dividendYield": 2.52,
+      "dividendYield": 2.58,
       "exDividendDate": 1779235200,
       "payoutRatio": 0.16790001,
       "targetHighPrice": null,
@@ -41426,7 +41048,7 @@
       "country": "Turkey",
       "phone": "90 212 290 25 90",
       "description": "Güler Yatirim Holding A.S. engages in the investment activities in Turkey. It provides consultancy services on investment, financing, organization, and management issues. The company was formerly known as Baskent Menkul Kiymetler Yatirim Ortakligi A.S. and changed its name to Güler Yatirim Holding Anonim Sirketi in August 2011. Güler Yatirim Holding A.S. was founded in 2006 and is headquartered in Istanbul, Turkey.",
-      "pe": 2.9611652,
+      "pe": 3.0198019,
       "forwardPE": null,
       "priceToBook": 0.34745955,
       "pegRatio": null,
@@ -41445,7 +41067,7 @@
       "debtToEquity": 13.461,
       "currentRatio": 2.556,
       "quickRatio": 2.496,
-      "eps": 1.03,
+      "eps": 1.01,
       "forwardEps": null,
       "bookValue": 8.778,
       "dividendRate": null,
@@ -42016,7 +41638,7 @@
       "forwardEps": null,
       "bookValue": 31.101,
       "dividendRate": 1.23,
-      "dividendYield": 5.02,
+      "dividendYield": 5.03,
       "exDividendDate": 1786320000,
       "payoutRatio": 0.3065,
       "targetHighPrice": 36.11,
@@ -42164,7 +41786,7 @@
       "open": 322.0,
       "dayLow": 306.0,
       "dayHigh": 322.0,
-      "fiftyTwoWeekLow": 306.0,
+      "fiftyTwoWeekLow": 307.25,
       "fiftyTwoWeekHigh": 405.75,
       "fiftyDayAverage": 337.55,
       "twoHundredDayAverage": 340.8,
@@ -42205,7 +41827,7 @@
       "forwardEps": null,
       "bookValue": 584.865,
       "dividendRate": 4.17,
-      "dividendYield": 1.27,
+      "dividendYield": 1.33,
       "exDividendDate": 1784246400,
       "payoutRatio": 7.5788,
       "targetHighPrice": null,
@@ -42390,7 +42012,7 @@
       "debtToEquity": 82.455,
       "currentRatio": 0.803,
       "quickRatio": 0.456,
-      "eps": -1.99,
+      "eps": -1.95,
       "forwardEps": null,
       "bookValue": 1.529,
       "dividendRate": null,
@@ -42579,7 +42201,7 @@
       "debtToEquity": 4.872,
       "currentRatio": 0.763,
       "quickRatio": 0.748,
-      "eps": -14.91,
+      "eps": -14.44,
       "forwardEps": null,
       "bookValue": 69.054,
       "dividendRate": null,
@@ -43717,7 +43339,7 @@
       "forwardEps": null,
       "bookValue": 29.053,
       "dividendRate": 0.64,
-      "dividendYield": 2.59,
+      "dividendYield": 2.66,
       "exDividendDate": 1764115200,
       "payoutRatio": 0.4145,
       "targetHighPrice": 39.0,
@@ -43902,7 +43524,7 @@
       "debtToEquity": 97.597,
       "currentRatio": 0.975,
       "quickRatio": 0.406,
-      "eps": -3.5,
+      "eps": -3.39,
       "forwardEps": null,
       "bookValue": 20.806,
       "dividendRate": null,
@@ -45206,7 +44828,7 @@
       "country": "Turkey",
       "phone": "90 212 276 15 00",
       "description": "Hitit Bilgisayar Hizmetleri A.S. develops and sells airline and travel technology solutions under the Crane brand in Turkey and internationally. The company offers passenger service system (PSS), a suite of solutions comprising reservation and passenger services, internet booking engine, reservations and passenger service, mobile application, allotment manager, departure control system, weight and balance, baggage reconciliation itinerary, and loyalty layer; operations planning solutions consisting of crew tracking, schedule and capacity planning, strategic planning and operations control; and accounting solutions, such as revenue accounting, cost accounting, and business performance index. It also provides Crane TM, a travel marketplace platform that enables airlines to set up a travel marketplace for its tour operator and online travel agency (OTA) partners to create and sell leisure and business travel packages; travel solutions, including Crane OTA, multilingual and multi-currency online travel platform and Crane APP, an agent portal for airlines; and cargo solutions, such as reservation and cargo services, and domestic cargo services. In addition, the company offers technical infrastructure and hosting, consultancy and training, and after-sales support and maintenance services. It serves airlines, travel companies, and airports. The company was incorporated in 1994 and is headquartered in Istanbul, Turkey.",
-      "pe": 27.644444,
+      "pe": 27.850746,
       "forwardPE": 867.9069,
       "priceToBook": 3.5431502,
       "pegRatio": null,
@@ -45225,7 +44847,7 @@
       "debtToEquity": 1.859,
       "currentRatio": 2.64,
       "quickRatio": 2.24,
-      "eps": 1.35,
+      "eps": 1.34,
       "forwardEps": null,
       "bookValue": 10.533,
       "dividendRate": null,
@@ -45962,7 +45584,7 @@
       "country": "Turkey",
       "phone": "90 212 335 53 35",
       "description": "ICBC Turkey Bank A.S., together with its subsidiaries, provides various banking products and services in Turkey. The company provides savings deposit, daily time deposit, rates, and time deposit accounts. It also offers consumer loans; and online banking, campaigns, citizenship applications, cards, payments, investment, safe deposit boxes, life insurance, and individual pension system (IPS) for individuals. In addition, it provides domestic financing, export financing, eximbank loans, foreign credit, non-cash loans, trade finance and RMB loans; and money transfer, POS and merchant services, domestic financing, risk management, investment, organization, cash management, and insurance services for corporates. Further, it provides foreign currency loans, corporate deposit transactions, foreign exchange trading, clearing and custody services. The company was formerly known as Tekstil Bankasi Anonim Sirketi and changed its name to ICBC Turkey Bank A.S. in November 2015. The company was founded in 1986 and is headquartered in Istanbul, Turkey. ICBC Turkey Bank A.S. is a subsidiary of Industrial and Commercial Bank of China Limited.",
-      "pe": 13.291139,
+      "pe": 12.883435,
       "forwardPE": null,
       "priceToBook": 3.207086,
       "pegRatio": 1.96,
@@ -45981,7 +45603,7 @@
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
-      "eps": 1.58,
+      "eps": 1.63,
       "forwardEps": null,
       "bookValue": 6.548,
       "dividendRate": null,
@@ -46170,7 +45792,7 @@
       "debtToEquity": null,
       "currentRatio": 0.419,
       "quickRatio": 0.417,
-      "eps": -0.52,
+      "eps": -0.5,
       "forwardEps": null,
       "bookValue": 1.275,
       "dividendRate": null,
@@ -48232,7 +47854,7 @@
       "description": "Info Yatirim Menkul Degerler A.S. provides brokerage services in the capital market and managing portfolios composed of capital market instruments in Turkey. The company offers stocks; VIOP, a derivatives market operating on the Istanbul Stock Exchange; debt instruments; structured debt instruments; forex; foreign stock exchanges; options trading; investment funds; warrant trading; and certificate procedures. It also provides various services, such as live stock market; T+0 emergency cash; investment advisory; trainings; portfolio management; treasury options; special orders; and algorithmic portfolio management services. In addition, the company offers trading platforms comprising Infox, an AI-powered smart investment application; e-branch and infoweb; ideal data; infoTrade Pro, a mobile application to conduct transactions, participate in initial public offerings, and benefit from analytics; stock signal, a mobile application that offers algorithmic analysis to perform transactions; Fintables & Mobil, a platform for financial reports of companies traded on the Istanbul stock exchange; Trading View; Matrix Matrix IQ; and Forex. Further, it provides corporate finance services, including initial public offering, mergers and acquisitions, company review, financial restructuring, share purchase offer, issuance of debt instruments, financial consulting, and capital increase services. Info Yatirim Menkul Degerler A.S. was incorporated in 1990 and is headquartered in Istanbul, Turkey.",
       "pe": 5.803571,
       "forwardPE": null,
-      "priceToBook": 1.7444981,
+      "priceToBook": 2.0988054,
       "pegRatio": null,
       "priceToSales": 0.3198629,
       "enterpriseToRevenue": -0.308,
@@ -48251,7 +47873,7 @@
       "quickRatio": 1.054,
       "eps": 1.12,
       "forwardEps": null,
-      "bookValue": 3.726,
+      "bookValue": 3.097,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1686787200,
@@ -49364,7 +48986,7 @@
       "country": "Turkey",
       "phone": "90 312 418 10 43",
       "description": "Isbir Holding A.S. manufactures and sells sponges, mattresses, big bags, and carpet bases in Turkey and internationally. It operates through the Sponge and Mattress, and Synthetic Textile segments. The company offers polyurethane canvas, tarpaulin, greenhouse cover, carpet underlay, and lined and unlined valves. It is also involved in marketing, export, sale and import of all kinds of industrial goods produced by the group companies. The company offers its products for mattresses, armchairs, sofas and seating groups, as well as for the home textile, manufacturing sector, automotive, upholstery, packaging, and heat and sound insulation applications. It also exports its products. The company was incorporated in 1968 and is headquartered in Ankara, Turkey.",
-      "pe": 91.799995,
+      "pe": 93.040535,
       "forwardPE": null,
       "priceToBook": 0.30950496,
       "pegRatio": null,
@@ -49383,11 +49005,11 @@
       "debtToEquity": 54.332,
       "currentRatio": 1.399,
       "quickRatio": 0.708,
-      "eps": 0.75,
+      "eps": 0.74,
       "forwardEps": null,
       "bookValue": 222.452,
       "dividendRate": 1.0,
-      "dividendYield": 1.43,
+      "dividendYield": 1.45,
       "exDividendDate": 1783900800,
       "payoutRatio": 1.0235,
       "targetHighPrice": null,
@@ -51462,7 +51084,7 @@
       "debtToEquity": 21.932,
       "currentRatio": 2.376,
       "quickRatio": 1.27,
-      "eps": -0.28,
+      "eps": -0.26,
       "forwardEps": null,
       "bookValue": 2.27,
       "dividendRate": null,
@@ -51840,7 +51462,7 @@
       "debtToEquity": 104.721,
       "currentRatio": 0.65,
       "quickRatio": 0.258,
-      "eps": -1.14,
+      "eps": -1.2,
       "forwardEps": null,
       "bookValue": 12.72,
       "dividendRate": null,
@@ -52546,195 +52168,6 @@
       ],
       "heldPercentInsiders": 0.60056996,
       "heldPercentInstitutions": 0.01775
-    },
-    {
-      "code": "KARTN",
-      "symbol": "KARTN.IS",
-      "name": "Kartonsan Karton Sanayi ve Ticaret A.S.",
-      "shortName": "KARTONSAN",
-      "price": 215.5,
-      "change": 14.7,
-      "changeRate": 7.32,
-      "previousClose": 200.8,
-      "open": 207.5,
-      "dayLow": 197.4,
-      "dayHigh": 220.8,
-      "fiftyTwoWeekLow": 61.65,
-      "fiftyTwoWeekHigh": 220.8,
-      "fiftyDayAverage": 135.19,
-      "twoHundredDayAverage": 93.92,
-      "volume": "3,256,716",
-      "averageVolume": 1555289,
-      "averageVolume10days": 2035122,
-      "marketCap": 16162499584,
-      "enterpriseValue": 17217441792,
-      "sharesOutstanding": 75000000,
-      "sector": "Consumer Cyclical",
-      "industry": "Packaging & Containers",
-      "website": "https://www.kartonsan.com.tr",
-      "address": "Prof. Dr. Bülent Tarcan Caddesi No: 5",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 273 20 00",
-      "description": "Kartonsan Karton Sanayi ve Ticaret A.S. produces and trades in coated cardboards in Turkey and internationally. It provides normprint, exprint, and luxtriplex multi-coated cardboards from recycled paper. The company's products are used in the food, pharmaceuticals, cosmetics, advertising and promotion sectors. Kartonsan Karton Sanayi ve Ticaret A.S. was incorporated in 1967 and is headquartered in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 6.385374,
-      "pegRatio": null,
-      "priceToSales": 4.288751,
-      "enterpriseToRevenue": 4.569,
-      "enterpriseToEbitda": -19.157,
-      "profitMargins": -0.24796,
-      "grossMargins": -0.25439,
-      "operatingMargins": -0.23374,
-      "returnOnAssets": -0.20321,
-      "returnOnEquity": -0.35414,
-      "totalRevenue": 3768579584,
-      "revenuePerShare": 50.248,
-      "totalCash": 43812600,
-      "totalDebt": 1097334912,
-      "debtToEquity": 43.328,
-      "currentRatio": 1.022,
-      "quickRatio": 0.355,
-      "eps": -12.45,
-      "forwardEps": null,
-      "bookValue": 33.749,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1680652800,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.595,
-      "historicalData": [
-        {
-          "Close": 135.89999389648438,
-          "Volume": 868786
-        },
-        {
-          "Close": 133.6999969482422,
-          "Volume": 1396078
-        },
-        {
-          "Close": 130.39999389648438,
-          "Volume": 613823
-        },
-        {
-          "Close": 122.5,
-          "Volume": 511643
-        },
-        {
-          "Close": 120.5999984741211,
-          "Volume": 477334
-        },
-        {
-          "Close": 122.5,
-          "Volume": 2562141
-        },
-        {
-          "Close": 126.0999984741211,
-          "Volume": 2552663
-        },
-        {
-          "Close": 129.6999969482422,
-          "Volume": 1418645
-        },
-        {
-          "Close": 128.5,
-          "Volume": 1197904
-        },
-        {
-          "Close": 125.5,
-          "Volume": 1409802
-        },
-        {
-          "Close": 130.1999969482422,
-          "Volume": 1088040
-        },
-        {
-          "Close": 137.0,
-          "Volume": 1150208
-        },
-        {
-          "Close": 136.10000610351562,
-          "Volume": 832276
-        },
-        {
-          "Close": 142.5,
-          "Volume": 1515168
-        },
-        {
-          "Close": 136.1999969482422,
-          "Volume": 1255284
-        },
-        {
-          "Close": 137.0,
-          "Volume": 644081
-        },
-        {
-          "Close": 150.6999969482422,
-          "Volume": 2004513
-        },
-        {
-          "Close": 156.0,
-          "Volume": 1915071
-        },
-        {
-          "Close": 155.5,
-          "Volume": 861982
-        },
-        {
-          "Close": 156.6999969482422,
-          "Volume": 848295
-        },
-        {
-          "Close": 165.60000610351562,
-          "Volume": 1469963
-        },
-        {
-          "Close": 182.10000610351562,
-          "Volume": 2371197
-        },
-        {
-          "Close": 174.8000030517578,
-          "Volume": 4024058
-        },
-        {
-          "Close": 164.89999389648438,
-          "Volume": 1377368
-        },
-        {
-          "Close": 163.60000610351562,
-          "Volume": 899487
-        },
-        {
-          "Close": 179.89999389648438,
-          "Volume": 2372481
-        },
-        {
-          "Close": 184.5,
-          "Volume": 2066332
-        },
-        {
-          "Close": 202.89999389648438,
-          "Volume": 2529424
-        },
-        {
-          "Close": 200.8000030517578,
-          "Volume": 2392618
-        },
-        {
-          "Close": 215.5,
-          "Volume": 3256716
-        }
-      ],
-      "heldPercentInsiders": 0.7721,
-      "heldPercentInstitutions": 0.0
     },
     {
       "code": "KATMR",
@@ -54280,7 +53713,7 @@
       "description": "Ersan Alisveris Hizmetleri ve Gida Sanayi Ticaret A.S. operates a chain of supermarkets and hypermarkets under the KIM brand in Turkey. The company also offers cleaning products comprising toilet paper, paper towels, concentrated fabric softeners, bleach, liquid dish detergents, dish lemons, glass cleaners, liquid soap, softener, and surface cleaners; and wheat for ashure, kidney bean, sweet corn, bean, rice, lentil, bulgur wheat, chickpeas, and granulated sugar under the under the KIMI brand. In addition, it engages in import and export activities. Ersan Alisveris Hizmetleri ve Gida Sanayi Ticaret A.S. was incorporated in 1997 and is headquartered in Istanbul, Turkey.",
       "pe": 5.4946237,
       "forwardPE": null,
-      "priceToBook": 0.7326165,
+      "priceToBook": 0.8353313,
       "pegRatio": null,
       "priceToSales": 0.2546372,
       "enterpriseToRevenue": 0.285,
@@ -54299,7 +53732,7 @@
       "quickRatio": 0.677,
       "eps": 2.79,
       "forwardEps": null,
-      "bookValue": 20.925,
+      "bookValue": 18.352,
       "dividendRate": 0.42,
       "dividendYield": 2.73,
       "exDividendDate": 1790726400,
@@ -54638,7 +54071,7 @@
       "open": 27.9,
       "dayLow": 26.52,
       "dayHigh": 27.94,
-      "fiftyTwoWeekLow": 26.52,
+      "fiftyTwoWeekLow": 26.82,
       "fiftyTwoWeekHigh": 44.2,
       "fiftyDayAverage": 30.9,
       "twoHundredDayAverage": 34.56,
@@ -54679,7 +54112,7 @@
       "forwardEps": null,
       "bookValue": 15.494,
       "dividendRate": 0.65,
-      "dividendYield": 2.34,
+      "dividendYield": 2.44,
       "exDividendDate": 1778198400,
       "payoutRatio": 19.8531,
       "targetHighPrice": 59.35,
@@ -57474,7 +56907,7 @@
       "dayLow": 131.7,
       "dayHigh": 145.5,
       "fiftyTwoWeekLow": 21.4,
-      "fiftyTwoWeekHigh": 145.5,
+      "fiftyTwoWeekHigh": 141.7,
       "fiftyDayAverage": 115.44,
       "twoHundredDayAverage": 56.51,
       "volume": "1,994,300",
@@ -57680,7 +57113,7 @@
       "country": "Turkey",
       "phone": "90 444 68 05",
       "description": "Körfez Gayrimenkul Yatirim Ortakligi A.S. develops and markets real estate projects in Turkey. The company is headquartered in Istanbul, Turkey. Körfez Gayrimenkul Yatirim Ortakligi A.S. operates as a subsidiary of Kuveyt Türk Katilim Bankasi A.S.",
-      "pe": 10.869565,
+      "pe": 11.363636,
       "forwardPE": null,
       "priceToBook": 0.95347065,
       "pegRatio": null,
@@ -57699,7 +57132,7 @@
       "debtToEquity": null,
       "currentRatio": 9.52,
       "quickRatio": 6.151,
-      "eps": 0.23,
+      "eps": 0.22,
       "forwardEps": null,
       "bookValue": 2.622,
       "dividendRate": 0.04,
@@ -58616,7 +58049,7 @@
       "averageVolume10days": 4292249,
       "marketCap": 5896695296,
       "enterpriseValue": 11466437632,
-      "sharesOutstanding": 2159961700,
+      "sharesOutstanding": 2159961660,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
       "website": "https://kervangida.com",
@@ -58814,7 +58247,7 @@
       "country": "Turkey",
       "phone": "90 256 618 13 10",
       "description": "Kustur Kusadasi Turizm Endüstrisi A.S. constructs, purchases, operates, and rentals bungalows and villas in turkey. It also operates studio apartment blocks, hotels, motel rooms and similar tourist residence units, as well as buys and sells all kinds of touristic commodities. Kustur Kusadasi Turizm Endüstrisi A.S. was incorporated in 1966 and is headquartered in Aydin, Turkey.",
-      "pe": 9616.071,
+      "pe": 9972.222,
       "forwardPE": null,
       "priceToBook": 13.457454,
       "pegRatio": null,
@@ -58833,11 +58266,11 @@
       "debtToEquity": null,
       "currentRatio": 7.252,
       "quickRatio": 6.342,
-      "eps": 0.28,
+      "eps": 0.27,
       "forwardEps": null,
       "bookValue": 200.075,
       "dividendRate": 16.0,
-      "dividendYield": 0.58,
+      "dividendYield": 0.59,
       "exDividendDate": 1776643200,
       "payoutRatio": 38.081898,
       "targetHighPrice": null,
@@ -59589,7 +59022,7 @@
       "debtToEquity": 114.962,
       "currentRatio": 0.283,
       "quickRatio": 0.214,
-      "eps": -10.4,
+      "eps": -10.12,
       "forwardEps": null,
       "bookValue": 14.666,
       "dividendRate": null,
@@ -59759,7 +59192,7 @@
       "country": "Turkey",
       "phone": "90 212 603 32 00",
       "description": "Kuyas Yatirim A.S. engages in the real estate business in Turkey. Its portfolio includes hotel, additional workshop units, exhibition and conference areas, gold exchange building, and parking area, as well as providing human resource support to jewelry sector through training facilities. The company was incorporated in 2005 and is headquartered in Istanbul, Turkey.",
-      "pe": 78.16092,
+      "pe": 81.92771,
       "forwardPE": null,
       "priceToBook": 15.3533535,
       "pegRatio": null,
@@ -59778,7 +59211,7 @@
       "debtToEquity": 139.024,
       "currentRatio": 1.147,
       "quickRatio": 0.928,
-      "eps": 0.87,
+      "eps": 0.83,
       "forwardEps": null,
       "bookValue": 4.429,
       "dividendRate": null,
@@ -60912,7 +60345,7 @@
       "debtToEquity": 7.295,
       "currentRatio": 2.2,
       "quickRatio": 0.388,
-      "eps": -1.03,
+      "eps": -0.99,
       "forwardEps": null,
       "bookValue": 9.36,
       "dividendRate": null,
@@ -61668,7 +61101,7 @@
       "debtToEquity": 51.403,
       "currentRatio": 0.315,
       "quickRatio": 0.239,
-      "eps": -0.22,
+      "eps": -0.23,
       "forwardEps": null,
       "bookValue": 5.17,
       "dividendRate": null,
@@ -62187,195 +61620,6 @@
       "heldPercentInstitutions": 0.47711
     },
     {
-      "code": "MANAS",
-      "symbol": "MANAS.IS",
-      "name": "Manas Enerji Yonetimi Sanayi Ve Ticaret Anonim Sirketi",
-      "shortName": "MANAS ENERJI YONETIMI",
-      "price": 34.24,
-      "change": 1.8,
-      "changeRate": 5.55,
-      "previousClose": 32.44,
-      "open": 33.74,
-      "dayLow": 32.7,
-      "dayHigh": 34.98,
-      "fiftyTwoWeekLow": 5.38,
-      "fiftyTwoWeekHigh": 34.98,
-      "fiftyDayAverage": 27.91,
-      "twoHundredDayAverage": 18.22,
-      "volume": "55,216,023",
-      "averageVolume": 39780053,
-      "averageVolume10days": 22920779,
-      "marketCap": 11335358464,
-      "enterpriseValue": 12111389696,
-      "sharesOutstanding": 331056000,
-      "sector": "Industrials",
-      "industry": "Electrical Equipment & Parts",
-      "website": "https://www.manas.com.tr",
-      "address": "ASO 1. Organize Sanayi Bolgesi",
-      "city": "Sincan",
-      "country": "Turkey",
-      "phone": "90 444 76 67",
-      "description": "Manas Enerji Yonetimi Sanayi Ve Ticaret Anonim Sirketi develops smart metering systems and solutions in Turkey. The company offers measurement and detection products, including heat, electricity, water, and gas meters and modules, as well as gas regulators; networking and communication solutions, such as mobile meter reading, water supply management, and smart cities; and software and services comprising remote meter reading systems, prepaid systems, and analysis software. It also provides meter reading and allocation, meter inspection, repair and maintenance, and software support services. The company exports its products. It serves gas distribution companies, municipalities, water utilities, electricity distribution companies, and private and public institutions. The company was founded in 1996 and is based in Sincan, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 15.319912,
-      "pegRatio": null,
-      "priceToSales": 23.456644,
-      "enterpriseToRevenue": 25.063,
-      "enterpriseToEbitda": -236.716,
-      "profitMargins": -0.92661005,
-      "grossMargins": 0.24610001,
-      "operatingMargins": -0.5331,
-      "returnOnAssets": -0.03759,
-      "returnOnEquity": -0.57369,
-      "totalRevenue": 483247232,
-      "revenuePerShare": 2.489,
-      "totalCash": 18859380,
-      "totalDebt": 799820928,
-      "debtToEquity": 108.81,
-      "currentRatio": 0.952,
-      "quickRatio": 0.123,
-      "eps": -0.04,
-      "forwardEps": null,
-      "bookValue": 2.235,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": null,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.744,
-      "historicalData": [
-        {
-          "Close": 25.18000030517578,
-          "Volume": 20972819
-        },
-        {
-          "Close": 25.0,
-          "Volume": 18098084
-        },
-        {
-          "Close": 26.639999389648438,
-          "Volume": 40875291
-        },
-        {
-          "Close": 26.600000381469727,
-          "Volume": 32258002
-        },
-        {
-          "Close": 28.0,
-          "Volume": 33357076
-        },
-        {
-          "Close": 28.059999465942383,
-          "Volume": 35568381
-        },
-        {
-          "Close": 28.6200008392334,
-          "Volume": 44464541
-        },
-        {
-          "Close": 29.700000762939453,
-          "Volume": 31823249
-        },
-        {
-          "Close": 29.040000915527344,
-          "Volume": 21572302
-        },
-        {
-          "Close": 28.799999237060547,
-          "Volume": 26882386
-        },
-        {
-          "Close": 29.0,
-          "Volume": 22643719
-        },
-        {
-          "Close": 28.700000762939453,
-          "Volume": 20148341
-        },
-        {
-          "Close": 28.3799991607666,
-          "Volume": 32900978
-        },
-        {
-          "Close": 28.860000610351562,
-          "Volume": 25557739
-        },
-        {
-          "Close": 29.059999465942383,
-          "Volume": 20554038
-        },
-        {
-          "Close": 30.0,
-          "Volume": 35676089
-        },
-        {
-          "Close": 29.3799991607666,
-          "Volume": 29066605
-        },
-        {
-          "Close": 30.540000915527344,
-          "Volume": 76818435
-        },
-        {
-          "Close": 30.31999969482422,
-          "Volume": 30549044
-        },
-        {
-          "Close": 30.3799991607666,
-          "Volume": 60806453
-        },
-        {
-          "Close": 30.15999984741211,
-          "Volume": 14582153
-        },
-        {
-          "Close": 29.899999618530273,
-          "Volume": 13048791
-        },
-        {
-          "Close": 29.799999237060547,
-          "Volume": 20734973
-        },
-        {
-          "Close": 29.799999237060547,
-          "Volume": 17406111
-        },
-        {
-          "Close": 29.760000228881836,
-          "Volume": 16485983
-        },
-        {
-          "Close": 29.68000030517578,
-          "Volume": 15808262
-        },
-        {
-          "Close": 29.520000457763672,
-          "Volume": 11963668
-        },
-        {
-          "Close": 29.5,
-          "Volume": 10302423
-        },
-        {
-          "Close": 32.439998626708984,
-          "Volume": 48068974
-        },
-        {
-          "Close": 34.2400016784668,
-          "Volume": 55216023
-        }
-      ],
-      "heldPercentInsiders": 0.07269,
-      "heldPercentInstitutions": 0.12485
-    },
-    {
       "code": "MARBL",
       "symbol": "MARBL.IS",
       "name": "Tureks Turunc Madencilik Ic ve Dis Ticaret A.S.",
@@ -62613,7 +61857,7 @@
       "debtToEquity": null,
       "currentRatio": 0.615,
       "quickRatio": 0.44,
-      "eps": -15.2,
+      "eps": -15.35,
       "forwardEps": null,
       "bookValue": 9.829,
       "dividendRate": null,
@@ -63161,7 +62405,7 @@
       "country": "Turkey",
       "phone": "90 416 318 27 33",
       "description": "Mega Polietilen Köpük Sanayi ve Ticaret Anonim Sirketi produces and sells foam products in Turkey and internationally. The company manufactures, imports, and exports polyethylene and foam, EVA, natural and synthetic rubber, plastic products, auxiliary chemicals, dyes, polyethylene foam rubber, and industrial mineral oils. It also provides slippers, shoes, artificial and natural leather, fabric, yarn, insoles, leather adhesives, polyethylene plates, closed and open-cell foam plates, EVA plates, and EVA sole products. In addition, the company produces textiles and textile auxiliary materials, including knitted and apparel textile products, and manufactures outerwear, woven, knitted, and crocheted products such as coats, jackets, trousers, suits, dresses, anoraks, raincoats, and evening wear. The company was incorporated in 2005 and is headquartered in Adiyaman, Turkey.",
-      "pe": 2.4390244,
+      "pe": 2.5,
       "forwardPE": null,
       "priceToBook": 0.27628127,
       "pegRatio": null,
@@ -63180,7 +62424,7 @@
       "debtToEquity": 42.18,
       "currentRatio": 1.173,
       "quickRatio": 0.899,
-      "eps": 0.82,
+      "eps": 0.8,
       "forwardEps": null,
       "bookValue": 7.239,
       "dividendRate": null,
@@ -63917,7 +63161,7 @@
       "country": "Turkey",
       "phone": "90 258 371 65 71",
       "description": "Mercan Kimya Sanayi Ve Ticaret Anonim Sirketi produces, buys, and sells solid and liquid paraffin, emulsion, and Vaseline in Turkey and internationally. The company also offers stearic acid, woven paraffin, liquid paraffin 15, polyethylene wax, physical therapy paraffin, liquid paraffin 32, vaccine paraffin, pathology paraffin, microcrystalline wax, ski care paraffin, polywax, merwax antifrost, and disinfectants. Mercan Kimya Sanayi Ve Ticaret Anonim Sirketi was founded in 1977 and is headquartered in Denizli, Turkey.",
-      "pe": 32.607594,
+      "pe": 32.2,
       "forwardPE": null,
       "priceToBook": 1.8339741,
       "pegRatio": null,
@@ -63936,7 +63180,7 @@
       "debtToEquity": 62.193,
       "currentRatio": 1.267,
       "quickRatio": 0.763,
-      "eps": 0.79,
+      "eps": 0.8,
       "forwardEps": null,
       "bookValue": 14.046,
       "dividendRate": 0.21,
@@ -65429,7 +64673,7 @@
       "country": "Turkey",
       "phone": "90 216 547 50 00",
       "description": "Mondi Tire Kutsan Kagit ve Ambalaj Sanayi A.S., together with its subsidiaries, engages in the production and sale of corrugated containerboards in Turkey. The company offers fresh fruit and vegetable packaging solutions, pizza box, tray and hood solutions, wrap-around, bottle carrier, and standard box for the food and beverage retail sector. It also provides easy-pak, deppobox, kit module, octabin box, automotive and spare parts box, solar panel box, and tanker box for shipping and heavy-duty packaging; and envelope mailer, delight box, e-commerce packaging for online grocery shopping, and floral box for ecommerce applications. In addition, the company offers thinkbox, performance laboratory, and dangerous product transport certificates. The company was incorporated in 1974 and is headquartered in Istanbul, Turkey. Mondi Tire Kutsan Kagit ve Ambalaj Sanayi A.S. operates as a subsidiary of Mondi Corrugated B.V.",
-      "pe": 6.340909,
+      "pe": 6.488372,
       "forwardPE": null,
       "priceToBook": 0.7377049,
       "pegRatio": null,
@@ -65448,7 +64692,7 @@
       "debtToEquity": 14.639,
       "currentRatio": 1.358,
       "quickRatio": 1.016,
-      "eps": 0.88,
+      "eps": 0.86,
       "forwardEps": null,
       "bookValue": 7.564,
       "dividendRate": null,
@@ -67112,7 +66356,7 @@
       "open": 5.63,
       "dayLow": 5.41,
       "dayHigh": 5.63,
-      "fiftyTwoWeekLow": 5.41,
+      "fiftyTwoWeekLow": 5.45,
       "fiftyTwoWeekHigh": 8.5,
       "fiftyDayAverage": 6.05,
       "twoHundredDayAverage": 6.37,
@@ -67149,7 +66393,7 @@
       "debtToEquity": 5.286,
       "currentRatio": 0.609,
       "quickRatio": 0.261,
-      "eps": -0.91,
+      "eps": -0.9,
       "forwardEps": null,
       "bookValue": 0.566,
       "dividendRate": null,
@@ -68287,7 +67531,7 @@
       "forwardEps": null,
       "bookValue": 151.515,
       "dividendRate": 22.5,
-      "dividendYield": 10.13,
+      "dividendYield": 10.14,
       "exDividendDate": 1773705600,
       "payoutRatio": 45.9184,
       "targetHighPrice": null,
@@ -69965,7 +69209,7 @@
       "country": "Turkey",
       "phone": "90 212 366 88 00",
       "description": "Osmanli Yatirim Menkul Degerler A.S., together with its subsidiaries, provides various investment banking services in Turkey. The company offers asset and portfolio management; custody and investment advisory services; online capital market trading platforms; financial planning and consulting; brokerage; and banking transactions, including ETF and online bank transfer transactions, credit card and bills payments, and portfolio and statements. It also provides investment products, such stocks, warrants, futures and options trading, foreign exchange, mutual and pension funds, government and private sector bonds and debentures, public bond offerings, and structured derivative instruments, as well as retirement products. The company was formerly known as Osmanli Menkul Degerler A.S. and changed its name to Osmanli Yatirim Menkul Degerler A.S. in June 2016. Osmanli Yatirim Menkul Degerler A.S. was incorporated in 1996 and is headquartered in Istanbul, Turkey.",
-      "pe": 16.076923,
+      "pe": 16.392157,
       "forwardPE": null,
       "priceToBook": 1.1093419,
       "pegRatio": null,
@@ -69984,11 +69228,11 @@
       "debtToEquity": 65.508,
       "currentRatio": 1.765,
       "quickRatio": 1.721,
-      "eps": 0.52,
+      "eps": 0.51,
       "forwardEps": null,
       "bookValue": 7.536,
       "dividendRate": 0.17,
-      "dividendYield": 2.06,
+      "dividendYield": 2.09,
       "exDividendDate": 1785283200,
       "payoutRatio": 0.5076,
       "targetHighPrice": null,
@@ -74125,7 +73369,7 @@
       "description": "Plastikkart Akilli Kart Iletisim Sistemleri Sanayi ve Ticaret A.S. manufactures and sells smart cards in Turkey and internationally. It offers contact, contactless, and dual interface banking/payment cards; loyalty and transportation cards; e-government and ID cards; payphone and metering cards; SIM cards; and security solutions, such as PKI cards, readers, and tokens. The company also provides security printing; card personalization; card life cycle management and processing; server hosting; and consultancy services, including card-based projects management, printing design consultancy, and card technology training services. The company was incorporated in 2000 and is headquartered in Istanbul, Turkey. Plastikkart Akilli Kart Iletisim Sistemleri Sanayi ve Ticaret A.S. is a subsidiary of Gemalto B.V.",
       "pe": 34.10853,
       "forwardPE": null,
-      "priceToBook": 6.5440483,
+      "priceToBook": 5.4617677,
       "pegRatio": null,
       "priceToSales": 1.1794239,
       "enterpriseToRevenue": 1.155,
@@ -74144,7 +73388,7 @@
       "quickRatio": 1.477,
       "eps": 3.87,
       "forwardEps": null,
-      "bookValue": 20.171,
+      "bookValue": 24.168,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1665964800,
@@ -74690,7 +73934,7 @@
       "country": "Turkey",
       "phone": "90 312 342 03 82",
       "description": "Panelsan Cati Cephe Sistemleri Sanayi Ve Ticaret A.S. manufactures and sells sandwich panels, EPS insulation materials, and other products in Turkey. The company offers facade, roof, acoustic, and cold room panels; EPS products, including thermal insulation boards, injection sheets, EPS blocks, light filling products, mold injection products, decorative ceiling coverings, and geopans; trapezoidal overlays; solar power plant solutions; and complementary products. It is also involved in manufacturing, purchase, sale, import, and production of heating, ventilation, cooling, insulation, and roofing and facade cladding materials; production, import, export, purchase, sale, and domestic trade of prefabricated thermally insulated construction elements; and the manufacturing and trade of marble, iron, cement, ready-mixed concrete, and hardware materials. The company was incorporated in 2004 and is headquartered in Ankara, Turkey.",
-      "pe": 12.067709,
+      "pe": 12.730769,
       "forwardPE": null,
       "priceToBook": 1.0755733,
       "pegRatio": null,
@@ -74709,11 +73953,11 @@
       "debtToEquity": 9.321,
       "currentRatio": 1.221,
       "quickRatio": 0.781,
-      "eps": 3.84,
+      "eps": 3.64,
       "forwardEps": null,
       "bookValue": 43.084,
       "dividendRate": 0.69,
-      "dividendYield": 1.41,
+      "dividendYield": 1.48,
       "exDividendDate": 1783468800,
       "payoutRatio": 0.045700002,
       "targetHighPrice": null,
@@ -74898,7 +74142,7 @@
       "debtToEquity": 53.223,
       "currentRatio": 0.854,
       "quickRatio": 0.456,
-      "eps": -3.34,
+      "eps": -3.35,
       "forwardEps": 0.88,
       "bookValue": 37.371,
       "dividendRate": null,
@@ -75087,7 +74331,7 @@
       "debtToEquity": 14.576,
       "currentRatio": 0.874,
       "quickRatio": 0.539,
-      "eps": -1.08,
+      "eps": -1.1,
       "forwardEps": null,
       "bookValue": 3.862,
       "dividendRate": null,
@@ -76202,7 +75446,7 @@
       "country": "Turkey",
       "phone": "90 232 464 16 16",
       "description": "Pergamon Status Dis Ticaret A.S. operates as a mediate in the exports and imports of manufacturers in various industries. The company provides export mediation services; and tax and foreign trade consultancy services related to tax, other financial legislations, customs, foreign exchange, export, import, inward processing, factoring, and Exim loans in foreign trade. It also offers legislation and bulletin services, such as changes and developments in tax and other financial legislation, and foreign trade legislation. In addition, the company is involved in contact meetings and panels; and information sharing services, such as information about the seminars, panels, or conferences. The company was formerly known as Pergamos Dis Ticaret A.S. and changed its name to Pergamon Status Dis Ticaret A.S. as a result of its merger with Status Dis Ticaret A.S. in 2005. Pergamon Status Dis Ticaret A.S. was incorporated in 2001 and is headquartered in Izmir, Turkey.",
-      "pe": 23.3829,
+      "pe": 23.825758,
       "forwardPE": null,
       "priceToBook": 3.8770921,
       "pegRatio": null,
@@ -76221,7 +75465,7 @@
       "debtToEquity": 103.612,
       "currentRatio": 1.051,
       "quickRatio": 1.05,
-      "eps": 5.38,
+      "eps": 5.28,
       "forwardEps": null,
       "bookValue": 32.447,
       "dividendRate": 1.71,
@@ -76769,7 +76013,7 @@
       "country": "Turkey",
       "phone": "90 312 444 57 25",
       "description": "Ral Yatirim Holding A.S. engages in the construction, energy, properties, and education activities. It carries contracting works for residential projects, as well as large public projects. The company is also involved in the production and sale of renewable and clean energy; and produces calcites. Ral Yatirim Holding A.S. was incorporated in 1976 and is headquartered in Ankara, Turkey.",
-      "pe": 83.57388,
+      "pe": 81.88552,
       "forwardPE": null,
       "priceToBook": 11.454408,
       "pegRatio": null,
@@ -76788,7 +76032,7 @@
       "debtToEquity": 38.497,
       "currentRatio": 0.772,
       "quickRatio": 0.53,
-      "eps": 2.91,
+      "eps": 2.97,
       "forwardEps": null,
       "bookValue": 21.232,
       "dividendRate": null,
@@ -77336,7 +76580,7 @@
       "country": "Turkey",
       "phone": "90 312 840 10 00",
       "description": "Ronesans Gayrimenkul Yatirim A.S., together with its subsidiaries, operates as the commercial real estate development and investment company in Türkiye. The company develops and manages shopping malls, office buildings, and other commercial real estate projects, as well as residential properties. It also provides management and consulting and asset management services, as well as rents investment properties. Ronesans Gayrimenkul Yatirim A.S. was founded in 2006 and is headquartered in Ankara, Turkey. Ronesans Gayrimenkul Yatirim A.S. operates as a subsidiary of Ronesans Varlik ve Proje Yatirimlari A.S.",
-      "pe": 3.6314847,
+      "pe": 3.6669075,
       "forwardPE": null,
       "priceToBook": 0.45054042,
       "pegRatio": null,
@@ -77355,11 +76599,11 @@
       "debtToEquity": 24.528,
       "currentRatio": 1.885,
       "quickRatio": 1.749,
-      "eps": 55.9,
+      "eps": 55.36,
       "forwardEps": null,
       "bookValue": 450.57,
-      "dividendRate": 1.64,
-      "dividendYield": 0.8,
+      "dividendRate": 7.82,
+      "dividendYield": 3.85,
       "exDividendDate": 1767139200,
       "payoutRatio": 0.0293,
       "targetHighPrice": 310.1,
@@ -77527,7 +76771,7 @@
       "description": "Rainbow Polikarbonat Sanayi Ticaret Anonim Sirketi provides polycarbonate, polymer, plastic, and related products. It offers polycarbonate roof panels, polycarbonate H and U shape products, rainbow 27/200 products, and polycarbonate hollow sheets. Rainbow Polikarbonat Sanayi Ticaret Anonim Sirketi was incorporated in 1995 and is based in Kayseri, Türkiye.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.345733,
+      "priceToBook": 1.2879581,
       "pegRatio": null,
       "priceToSales": 0.8040452,
       "enterpriseToRevenue": 1.279,
@@ -77546,7 +76790,7 @@
       "quickRatio": 0.828,
       "eps": -0.05,
       "forwardEps": null,
-      "bookValue": 1.828,
+      "bookValue": 1.91,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -77714,7 +76958,7 @@
       "country": "Turkey",
       "phone": "90 212 875 07 41",
       "description": "Rodrigo Tekstil Sanayi ve Ticaret A.S., together with its subsidiaries, engages in the textile business in Turkey and internationally. The company offers various men clothing under the Rodrigo brand name. It sells its products through stores and online. The company was incorporated in 1997 and is based in Istanbul, Turkey.",
-      "pe": 165.06667,
+      "pe": 176.85715,
       "forwardPE": null,
       "priceToBook": 10.081433,
       "pegRatio": null,
@@ -77733,7 +76977,7 @@
       "debtToEquity": 17.493,
       "currentRatio": 1.388,
       "quickRatio": 0.1,
-      "eps": 0.15,
+      "eps": 0.14,
       "forwardEps": null,
       "bookValue": 2.456,
       "dividendRate": null,
@@ -79415,7 +78659,7 @@
       "country": "Turkey",
       "phone": "90 342 211 30 00",
       "description": "Sanko Pazarlama Ithalat Ihracat Anonim Sirketi develops, purchases, imports, exports, markets, and sells dyed and undyed yarns made from artificial and synthetic fibers in Turkey and internationally. The company offers hydrophilic cotton weaving, knitting, and garment industrial goods and other textile products. It also provides ring carded and combed, melange, slub, core spun, dyed, core twist, and organic cotton yarns; and knitted fabrics, such as single jersey, rib, interlock, two and three thread fleece, terry and towel, and pique fabrics, as well as knitted fabrics with elasthane. In addition, the company offers woven fabrics, including stretch, novelty, and overdyed denim fabrics; sportswear; cotton woven fabrics; cot-stretch fabrics; color woven products; and curduroy fabrics, as well as printed fabrics. The company was formerly known as Temko Pazarlama Sanayi ve Ticaret Anonim Sirketi and changed its name to Sanko Pazarlama Ithalat Ihracat Anonim Sirketi in March 1998. Sanko Pazarlama Ithalat Ihracat Anonim Sirketi was incorporated in 1992 and is headquartered in Gaziantep, Turkey.",
-      "pe": 7.732825,
+      "pe": 7.792308,
       "forwardPE": null,
       "priceToBook": 1.2379323,
       "pegRatio": null,
@@ -79434,7 +78678,7 @@
       "debtToEquity": null,
       "currentRatio": 1.556,
       "quickRatio": 1.551,
-      "eps": 2.62,
+      "eps": 2.6,
       "forwardEps": null,
       "bookValue": 16.366,
       "dividendRate": null,
@@ -79793,7 +79037,7 @@
       "country": "Turkey",
       "phone": "90 232 878 78 00",
       "description": "Say Yenilenebilir Enerji Ekipmanlari Sanayi ve Ticaret A.S. produces and sells renewable energy equipment in Turkey. The company offers steel, aluminum, and other materials for electricity generation; and material, components, and integrated parts, such as internal and external components of wind turbine towers; wind turbine generator components; and wind turbine component transport equipment. It also engages in trade, marketing, and sales activities; industrial advertising; visual communication of buildings and open spaces designing; manufacturing and assembly; interior and exterior furniture and decoration works; steel and reinforced concrete structure manufacturing, purchase, and sale; project contracting; and exterior industrial coating works. The company was formerly known as Say Reklamcilik Yapi Dekorasyon Proje Taahhüt Sanayi ve Ticaret A.S. and changed its name to Say Yenilenebilir Enerji Ekipmanlari Sanayi ve Ticaret A.S. in October 2020. Say Yenilenebilir Enerji Ekipmanlari Sanayi ve Ticaret A.S. was founded in 1989 and is headquartered in Izmir, Turkey.",
-      "pe": 14.433121,
+      "pe": 15.006622,
       "forwardPE": null,
       "priceToBook": 2.5476418,
       "pegRatio": null,
@@ -79812,7 +79056,7 @@
       "debtToEquity": 25.829,
       "currentRatio": 2.349,
       "quickRatio": 1.637,
-      "eps": 3.14,
+      "eps": 3.02,
       "forwardEps": null,
       "bookValue": 17.789,
       "dividendRate": null,
@@ -79982,7 +79226,7 @@
       "country": "Turkey",
       "phone": "90 312 210 10 15",
       "description": "SDT Uzay ve Savunma Teknolojileri Anonim Sirketi engages in the production, sale, import, and export of electrotechnical, electronic, and electromechanical and mechatronic products related to space and defense technologies in Turkey. The company offers radar, electronic warfare, and communication systems; mission systems, including platform management systems, digital data recorders, and weapon systems; and simulation systems and information technologies, such as air combat training, land combat training, and naval combat training systems, as well as information technologies. It also provides production programmes comprising RF jammer systems, munition guidance electronics, and integrated system solutions. The company was incorporated in 2005 and is headquartered in Ankara, Turkey.",
-      "pe": 115.571434,
+      "pe": 117.81554,
       "forwardPE": null,
       "priceToBook": 5.2319565,
       "pegRatio": null,
@@ -80001,7 +79245,7 @@
       "debtToEquity": 21.675,
       "currentRatio": 1.749,
       "quickRatio": 0.496,
-      "eps": 2.1,
+      "eps": 2.06,
       "forwardEps": null,
       "bookValue": 46.388,
       "dividendRate": 0.17,
@@ -80379,7 +79623,7 @@
       "debtToEquity": 4.196,
       "currentRatio": 17.157,
       "quickRatio": 0.279,
-      "eps": -1.79,
+      "eps": -1.77,
       "forwardEps": null,
       "bookValue": 8.328,
       "dividendRate": null,
@@ -80927,7 +80171,7 @@
       "country": "Turkey",
       "phone": "90 216 554 06 00",
       "description": "Selçuk Ecza Deposu Ticaret ve Sanayi A.S., together with its subsidiary, operates as a pharmacy depot in Turkey. In addition, the company is involved in operation of pharmaceutical warehouses; and distributes cosmetics, personal care, infant food, vitamins, medical, and other products. The company was founded in 1958 and is based in Istanbul, Turkey. Selçuk Ecza Deposu Ticaret ve Sanayi A.S. is a subsidiary of Selçuk Ecza Holding A.S.",
-      "pe": 141.08109,
+      "pe": 129.85075,
       "forwardPE": 31.445782,
       "priceToBook": 4.7027025,
       "pegRatio": 0.43,
@@ -80946,11 +80190,11 @@
       "debtToEquity": 17.653,
       "currentRatio": 1.366,
       "quickRatio": 0.52,
-      "eps": 1.85,
+      "eps": 2.01,
       "forwardEps": 8.3,
       "bookValue": 55.5,
       "dividendRate": 0.44,
-      "dividendYield": 0.18,
+      "dividendYield": 0.17,
       "exDividendDate": 1776384000,
       "payoutRatio": 0.2147,
       "targetHighPrice": 140.0,
@@ -81135,7 +80379,7 @@
       "debtToEquity": 45.136,
       "currentRatio": 0.439,
       "quickRatio": 0.157,
-      "eps": -0.88,
+      "eps": -0.87,
       "forwardEps": null,
       "bookValue": 2.417,
       "dividendRate": null,
@@ -82269,7 +81513,7 @@
       "debtToEquity": 25.009,
       "currentRatio": 0.182,
       "quickRatio": 0.135,
-      "eps": -1.33,
+      "eps": -1.32,
       "forwardEps": null,
       "bookValue": 14.057,
       "dividendRate": null,
@@ -83403,11 +82647,11 @@
       "debtToEquity": null,
       "currentRatio": 16.075,
       "quickRatio": 15.968,
-      "eps": -3.04,
+      "eps": -2.98,
       "forwardEps": null,
       "bookValue": 63.235,
       "dividendRate": 0.66,
-      "dividendYield": 0.49,
+      "dividendYield": 0.5,
       "exDividendDate": 1756166400,
       "payoutRatio": 0.2315,
       "targetHighPrice": null,
@@ -84163,7 +83407,7 @@
       "forwardEps": null,
       "bookValue": 2.942,
       "dividendRate": 0.18,
-      "dividendYield": 2.56,
+      "dividendYield": 2.61,
       "exDividendDate": 1788134400,
       "payoutRatio": 0.511,
       "targetHighPrice": null,
@@ -84919,7 +84163,7 @@
       "forwardEps": null,
       "bookValue": 77.969,
       "dividendRate": 7.99,
-      "dividendYield": 6.35,
+      "dividendYield": 6.31,
       "exDividendDate": 1754956800,
       "payoutRatio": 0.8702,
       "targetHighPrice": null,
@@ -85841,7 +85085,7 @@
       "country": "Turkey",
       "phone": "90 212 644 58 58",
       "description": "TGS Dis Ticaret Anonim Sirketi provides intermediary services to exporting companies in Turkey. Its primary activity is to mediate the export activities of the manufacturers and to collect the value-added tax refunds on behalf of its customers due to their export transactions in the textile, mining, and other sectors. The company was incorporated in 1999 and is headquartered in Istanbul, Turkey.",
-      "pe": 50.30471,
+      "pe": 51.01124,
       "forwardPE": null,
       "priceToBook": 7.5531344,
       "pegRatio": null,
@@ -85860,11 +85104,11 @@
       "debtToEquity": 4.457,
       "currentRatio": 1.016,
       "quickRatio": 0.996,
-      "eps": 3.61,
+      "eps": 3.56,
       "forwardEps": null,
       "bookValue": 24.043,
       "dividendRate": 0.3,
-      "dividendYield": 0.16,
+      "dividendYield": 0.17,
       "exDividendDate": 1787616000,
       "payoutRatio": 0.2779,
       "targetHighPrice": null,
@@ -86049,7 +85293,7 @@
       "debtToEquity": 42.773,
       "currentRatio": 0.772,
       "quickRatio": 0.395,
-      "eps": -14.86,
+      "eps": -15.07,
       "forwardEps": 13.82,
       "bookValue": 98.312,
       "dividendRate": 0.33,
@@ -87183,7 +86427,7 @@
       "debtToEquity": 207.615,
       "currentRatio": 0.993,
       "quickRatio": 0.486,
-      "eps": -0.5,
+      "eps": -0.45,
       "forwardEps": null,
       "bookValue": 1.915,
       "dividendRate": null,
@@ -87542,7 +86786,7 @@
       "country": "Turkey",
       "phone": "90 212 334 50 50",
       "description": "Türkiye Sinai Kalkinma Bankasi A.S. operates as a development and investment bank in Turkey. The company offers corporate loans for renewable energy, industrial investments, energy and resource efficiency, women's employment and equal opportunity, environmental investments, investments in developing regions, research and development and innovation, occupational health and safety, education and health investments, and working capital financing. It also provides project finance for energy generation and power plants, including hydroelectric, geothermal, wind, solar, biomass, and combined cycle natural gas plants; electricity and natural gas distribution projects; mergers and acquisitions; logistics, transportation, and telecommunications; and public - private partnership projects. In addition, the company offers other loan products, such as financial leasing, foreign trade finance, letter of guarantees/external guarantees/letter of credits, export credits / Eximbank aval credits, and country loans. Further, the company provides corporate finance products and services consisting of public offering preparation and brokerage, debt instrument issues, and mergers and acquisitions advisory; derivatives products comprising forward contracts, options, caps and floors, swap transactions, and swaptions; derivative transactions; brokerage for stock and bonds trading; currency exchange, repo, warrant, and foreign derivative transactions; securities loans; and portfolio management and investment consulting services. Additionally, it provides financial planning and strategy, feasibility, valuation, and restructuring services, as well as sectoral analysis studies; engineering and technical consultancy services; and financial technical advisory, real estate appraisal, economic research, and sustainability consultancy services. Türkiye Sinai Kalkinma Bankasi A.S. was incorporated in 1950 and is headquartered in Istanbul, Turkey.",
-      "pe": 3.0,
+      "pe": 3.0383632,
       "forwardPE": 3.5568864,
       "priceToBook": 0.7166124,
       "pegRatio": 0.7,
@@ -87561,7 +86805,7 @@
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
-      "eps": 3.96,
+      "eps": 3.91,
       "forwardEps": 3.34,
       "bookValue": 16.578,
       "dividendRate": 0.54,
@@ -87922,7 +87166,7 @@
       "description": "Tugçelik Alüminyum Ve Metal Mamulleri Sanayi Ve Ticaret A.S. engages in the aluminum production in Turkey. It also involved melting, foundry, molding shop, CNC machining, and other processes activities. It serves automotive, white goods, telecommunication, agricultural equipment, electrical, and mechanical industries. Tugçelik Alüminyum Ve Metal Mamulleri Sanayi Ve Ticaret A.S. was founded in 1988 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.0619469,
+      "priceToBook": 0.40178573,
       "pegRatio": null,
       "priceToSales": 0.8063399,
       "enterpriseToRevenue": 2.288,
@@ -87941,7 +87185,7 @@
       "quickRatio": 0.615,
       "eps": -0.35,
       "forwardEps": null,
-      "bookValue": 3.729,
+      "bookValue": 9.856,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -88676,7 +87920,7 @@
       "country": "Turkey",
       "phone": "90 850 202 20 20",
       "description": "Türkiye Sigorta A.S. operates as a non-life insurance company in Turkey. It offers auto and non-auto accident, fire, transportation, engineering, health, agriculture, liability, financial losses, credit, and legal protection insurance products. Türkiye Sigorta A.S. was formerly known as Günes Sigorta Anonim Sirketi and changed its name to Türkiye Sigorta A.S. in August 2020. The company was incorporated in 1957 and is based in Istanbul, Turkey. Türkiye Sigorta A.S. operates as a subsidiary of TVF Finansal Yatirimlar AS.",
-      "pe": 6.130841,
+      "pe": 6.1886797,
       "forwardPE": 1.8742857,
       "priceToBook": 2.3959095,
       "pegRatio": null,
@@ -88695,11 +87939,11 @@
       "debtToEquity": 0.239,
       "currentRatio": 1.36,
       "quickRatio": 1.2,
-      "eps": 1.07,
+      "eps": 1.06,
       "forwardEps": 3.5,
       "bookValue": 2.738,
       "dividendRate": 0.15,
-      "dividendYield": 2.26,
+      "dividendYield": 2.29,
       "exDividendDate": 1787788800,
       "payoutRatio": 0.0932,
       "targetHighPrice": 11.215,
@@ -89056,7 +88300,7 @@
       "description": "Ulusal Faktoring A.S. provides factoring services in Turkey. The company was incorporated in 1999 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.9644397,
+      "priceToBook": 0.48234975,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": 2.141,
@@ -89075,7 +88319,7 @@
       "quickRatio": 1.066,
       "eps": null,
       "forwardEps": null,
-      "bookValue": 1.856,
+      "bookValue": 3.711,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -89829,7 +89073,7 @@
       "debtToEquity": 85.193,
       "currentRatio": 1.261,
       "quickRatio": 1.057,
-      "eps": -1.27,
+      "eps": -1.22,
       "forwardEps": null,
       "bookValue": 16.643,
       "dividendRate": null,
@@ -90726,195 +89970,6 @@
       "heldPercentInstitutions": 0.06774
     },
     {
-      "code": "VBTYZ",
-      "symbol": "VBTYZ.IS",
-      "name": "VBT Yazilim Anonim Sirketi",
-      "shortName": "VBT YAZILIM",
-      "price": 28.86,
-      "change": -0.46,
-      "changeRate": -1.57,
-      "previousClose": 29.32,
-      "open": 29.24,
-      "dayLow": 28.08,
-      "dayHigh": 29.24,
-      "fiftyTwoWeekLow": 15.02,
-      "fiftyTwoWeekHigh": 35.46,
-      "fiftyDayAverage": 28.04,
-      "twoHundredDayAverage": 21.14,
-      "volume": "1,458,453",
-      "averageVolume": 4227832,
-      "averageVolume10days": 2726374,
-      "marketCap": 3376620032,
-      "enterpriseValue": 3722249984,
-      "sharesOutstanding": 117000000,
-      "sector": "Technology",
-      "industry": "Information Technology Services",
-      "website": "https://www.vbt.com.tr",
-      "address": "Quick Tower",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 216 577 69 21",
-      "description": "VBT Yazilim Anonim Sirketi provides software, hardware, and consultancy services in Turkey. The company offers Heroty, an integrated human resources management platform; Flerpi commercial accounting software; e-transformation services; and VizyonIK, a web-based payroll and human resources management software. It also provides training, operating systems support, database support, application development, information systems service management consultancy, project management, process consultancy services, and modernization services. The company was incorporated in 1993 and is headquartered in Istanbul, Turkey.",
-      "pe": 26.0,
-      "forwardPE": null,
-      "priceToBook": 3.1953058,
-      "pegRatio": null,
-      "priceToSales": 1.328799,
-      "enterpriseToRevenue": 1.465,
-      "enterpriseToEbitda": 5.393,
-      "profitMargins": 0.05119,
-      "grossMargins": 0.31438,
-      "operatingMargins": 0.076069996,
-      "returnOnAssets": 0.0945,
-      "returnOnEquity": 0.12678,
-      "totalRevenue": 2541106688,
-      "revenuePerShare": 21.719,
-      "totalCash": 340270528,
-      "totalDebt": 692895168,
-      "debtToEquity": 66.006,
-      "currentRatio": 1.657,
-      "quickRatio": 1.084,
-      "eps": 1.11,
-      "forwardEps": null,
-      "bookValue": 9.032,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1685059200,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 1.226,
-      "historicalData": [
-        {
-          "Close": 29.18000030517578,
-          "Volume": 6240349
-        },
-        {
-          "Close": 30.739999771118164,
-          "Volume": 6000337
-        },
-        {
-          "Close": 32.02000045776367,
-          "Volume": 9639792
-        },
-        {
-          "Close": 30.360000610351562,
-          "Volume": 4624571
-        },
-        {
-          "Close": 29.31999969482422,
-          "Volume": 3481576
-        },
-        {
-          "Close": 32.2400016784668,
-          "Volume": 1867375
-        },
-        {
-          "Close": 32.900001525878906,
-          "Volume": 11636949
-        },
-        {
-          "Close": 31.18000030517578,
-          "Volume": 5389412
-        },
-        {
-          "Close": 29.920000076293945,
-          "Volume": 4021241
-        },
-        {
-          "Close": 30.219999313354492,
-          "Volume": 2743209
-        },
-        {
-          "Close": 29.780000686645508,
-          "Volume": 2162556
-        },
-        {
-          "Close": 28.600000381469727,
-          "Volume": 4905264
-        },
-        {
-          "Close": 28.600000381469727,
-          "Volume": 2588966
-        },
-        {
-          "Close": 28.0,
-          "Volume": 2467523
-        },
-        {
-          "Close": 28.15999984741211,
-          "Volume": 3057323
-        },
-        {
-          "Close": 28.399999618530273,
-          "Volume": 2072286
-        },
-        {
-          "Close": 28.540000915527344,
-          "Volume": 1726094
-        },
-        {
-          "Close": 28.81999969482422,
-          "Volume": 2364698
-        },
-        {
-          "Close": 28.799999237060547,
-          "Volume": 2277240
-        },
-        {
-          "Close": 28.8799991607666,
-          "Volume": 1276330
-        },
-        {
-          "Close": 28.979999542236328,
-          "Volume": 1165258
-        },
-        {
-          "Close": 28.799999237060547,
-          "Volume": 2621230
-        },
-        {
-          "Close": 28.5,
-          "Volume": 2271769
-        },
-        {
-          "Close": 29.65999984741211,
-          "Volume": 7166775
-        },
-        {
-          "Close": 30.559999465942383,
-          "Volume": 4407936
-        },
-        {
-          "Close": 30.979999542236328,
-          "Volume": 2914130
-        },
-        {
-          "Close": 29.0,
-          "Volume": 2021524
-        },
-        {
-          "Close": 28.81999969482422,
-          "Volume": 1647158
-        },
-        {
-          "Close": 29.31999969482422,
-          "Volume": 1771632
-        },
-        {
-          "Close": 28.860000610351562,
-          "Volume": 1458453
-        }
-      ],
-      "heldPercentInsiders": 0.49703997,
-      "heldPercentInstitutions": 0.00041
-    },
-    {
       "code": "VERTU",
       "symbol": "VERTU.IS",
       "name": "Verusaturk Girisim Sermayesi Yatirim Ortakligi A.S.",
@@ -91152,7 +90207,7 @@
       "debtToEquity": 13.986,
       "currentRatio": 3.824,
       "quickRatio": 3.595,
-      "eps": -6.42,
+      "eps": -6.48,
       "forwardEps": null,
       "bookValue": 67.111,
       "dividendRate": null,
@@ -91352,8 +90407,8 @@
       "targetLowPrice": 8.9,
       "targetMeanPrice": 10.2,
       "targetMedianPrice": 10.2,
-      "recommendationMean": 3.0,
-      "recommendationKey": "hold",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
       "beta": 0.299,
       "historicalData": [
@@ -92458,7 +91513,7 @@
       "description": "Yesil Yatirim Holding Anonim Sirketi provides technical planning, programming, budgeting, and project planning, and financial organization in Turkey. It also offers real estate valuation services; and consultancy in various areas, such as firm valuation, investment and research on commercial, and industrial and financial issues. The company was incorporated in 2003 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.59290385,
+      "priceToBook": 0.61145884,
       "pegRatio": null,
       "priceToSales": -318.41675,
       "enterpriseToRevenue": -318.325,
@@ -92477,7 +91532,7 @@
       "quickRatio": 76.606,
       "eps": -0.03,
       "forwardEps": null,
-      "bookValue": 2.142,
+      "bookValue": 2.077,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -93023,7 +92078,7 @@
       "country": "Turkey",
       "phone": "90 444 2050",
       "description": "Yukselen Celik Anonim Sirketi manufactures and sells steel products in Turkey and internationally. The company is also involved in production, import, export, domestic purchase, and sale of all kinds of iron and steel products, including carbon, manufacturing, construction, alloyed and unalloyed, tool stainless, and qualified and unqualified. It serves machinery, automotive, mold, iron and steel, shipbuilding, construction, and railway industries. The company was formerly known as Yukselen Celik Ticaret Limited Sirketi and changed its name to Yukselen Celik Anonim Sirketi in January 2013. Yukselen Celik Anonim Sirketi was founded in 1989 and is based in Istanbul, Turkey.",
-      "pe": 4.184211,
+      "pe": 4.2972975,
       "forwardPE": null,
       "priceToBook": 1.6562501,
       "pegRatio": null,
@@ -93042,7 +92097,7 @@
       "debtToEquity": 48.63,
       "currentRatio": 1.369,
       "quickRatio": 0.506,
-      "eps": 0.76,
+      "eps": 0.74,
       "forwardEps": null,
       "bookValue": 1.92,
       "dividendRate": null,
@@ -93401,7 +92456,7 @@
       "country": "Turkey",
       "phone": "90 312 815 49 50",
       "description": "Yayla Agro Gida Sanayi ve Ticaret A.S. produces and sells various food and grains in Turkey and internationally. It involved in the supply of food products, including paddy, bulgur, pulses, and shelled lentils; production of packaged ready to cook mix food, such as rice and bulgur mixed with various super and natural foods, such as dried tomatoes, dried mushrooms, and eggplant and other vegetables; production of rice, wheat, black beans, maize, beans, chickpeas, kidney beans, bulgur, paddy, lentils, and corn; ready to eat products, which includes pilaki, meaty dried beans and chickpeas, soups, bulgur and rice pilafs, pasta, compotes, legume and olive oil dishes, and grain and legum salads; and engages in trading of unprocessed cereals, grains, and pulses such as wheat, corn, barley, rice, paddy, and lentils as commercial goods. It also provides boiled products comprising boiled chickpeas, beans, ashura wheat, mexican beans, peas, quinoa, and grain corn; and seeds, such as red, black, white, and mixed quinoa, bulghur, chia, white chia, white chia seeds, beluga lentils, mung beans, basmati, sushi, black, and risotto rice, buckwheat, teff, amaranth, and flaxseed. In addition, it offers ezogelin soup with einkorn bulgur; lentil soup with quinoa; gourmet lentil soup; and Ala Çiftçi gourmet fit products. It serves hotels, restaurants, catering companies, restaurants, cafes, cafeterias, education, and health institutions. Yayla Agro Gida Sanayi ve Ticaret A.S. was incorporated in 1996 and is based in Kahramankazan, Turkey.",
-      "pe": 21.3,
+      "pe": 22.1875,
       "forwardPE": null,
       "priceToBook": 0.7205683,
       "pegRatio": null,
@@ -93420,7 +92475,7 @@
       "debtToEquity": 98.553,
       "currentRatio": 1.121,
       "quickRatio": 0.546,
-      "eps": 0.5,
+      "eps": 0.48,
       "forwardEps": null,
       "bookValue": 14.78,
       "dividendRate": null,
