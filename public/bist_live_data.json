@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-21T23:05:57.568160",
+  "last_update": "2026-07-22T00:58:51.314203",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 53.852577,
-      "targetLowPrice": 37.002995,
-      "targetMeanPrice": 46.772923,
-      "targetMedianPrice": 47.764072,
+      "targetHighPrice": 53.858738,
+      "targetLowPrice": 37.00723,
+      "targetMeanPrice": 46.77827,
+      "targetMedianPrice": 47.769535,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -2482,7 +2482,7 @@
       "averageVolume": 10165521,
       "averageVolume10days": 11910417,
       "marketCap": 466011521024,
-      "enterpriseValue": 504246861824,
+      "enterpriseValue": 495946399744,
       "sharesOutstanding": 1185780000,
       "sector": "Consumer Defensive",
       "industry": "Grocery Stores",
@@ -2497,8 +2497,8 @@
       "priceToBook": 2.465975,
       "pegRatio": 1.35,
       "priceToSales": 0.6292292,
-      "enterpriseToRevenue": 0.681,
-      "enterpriseToEbitda": 15.886,
+      "enterpriseToRevenue": 0.67,
+      "enterpriseToEbitda": 15.624,
       "profitMargins": 0.0291,
       "grossMargins": 0.19339001,
       "operatingMargins": 0.01324,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.32,
       "exDividendDate": 1784592000,
       "payoutRatio": 0.0,
-      "targetHighPrice": 516.1828,
-      "targetLowPrice": 380.71915,
-      "targetMeanPrice": 433.80936,
-      "targetMedianPrice": 431.68622,
+      "targetHighPrice": 516.3419,
+      "targetLowPrice": 380.8365,
+      "targetMeanPrice": 433.94308,
+      "targetMedianPrice": 431.81927,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -7018,7 +7018,7 @@
       "averageVolume": 6080070,
       "averageVolume10days": 5109235,
       "marketCap": 35450494976,
-      "enterpriseValue": 76486238208,
+      "enterpriseValue": 75913863168,
       "sharesOutstanding": 369275855,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
@@ -7033,8 +7033,8 @@
       "priceToBook": 0.7231312,
       "pegRatio": 0.24,
       "priceToSales": 0.32074344,
-      "enterpriseToRevenue": 0.692,
-      "enterpriseToEbitda": 4.793,
+      "enterpriseToRevenue": 0.687,
+      "enterpriseToEbitda": 4.757,
       "profitMargins": 0.02987,
       "grossMargins": 0.27142,
       "operatingMargins": 0.13559,
@@ -9475,7 +9475,7 @@
       "averageVolume": 701661,
       "averageVolume10days": 410069,
       "marketCap": 13595400192,
-      "enterpriseValue": 25164986368,
+      "enterpriseValue": 24862584832,
       "sharesOutstanding": 41594434,
       "sector": "Consumer Cyclical",
       "industry": "Auto Manufacturers",
@@ -9490,8 +9490,8 @@
       "priceToBook": 0.8570975,
       "pegRatio": null,
       "priceToSales": 0.47835934,
-      "enterpriseToRevenue": 0.885,
-      "enterpriseToEbitda": 27.194,
+      "enterpriseToRevenue": 0.875,
+      "enterpriseToEbitda": 26.867,
       "profitMargins": 0.01113,
       "grossMargins": 0.13722,
       "operatingMargins": -0.0345,
@@ -18736,7 +18736,7 @@
       "averageVolume": 3256305,
       "averageVolume10days": 2280493,
       "marketCap": 13728749568,
-      "enterpriseValue": 22686689280,
+      "enterpriseValue": 21164189696,
       "sharesOutstanding": 262500000,
       "sector": "Consumer Cyclical",
       "industry": "Packaging & Containers",
@@ -18751,8 +18751,8 @@
       "priceToBook": 2.8891835,
       "pegRatio": null,
       "priceToSales": 3.8120625,
-      "enterpriseToRevenue": 6.299,
-      "enterpriseToEbitda": 44.471,
+      "enterpriseToRevenue": 5.877,
+      "enterpriseToEbitda": 41.487,
       "profitMargins": -0.0272,
       "grossMargins": 0.26803,
       "operatingMargins": 0.076079994,
@@ -26485,7 +26485,7 @@
       "averageVolume": 949115,
       "averageVolume10days": 739009,
       "marketCap": 20188256256,
-      "enterpriseValue": 41123610624,
+      "enterpriseValue": 41098055680,
       "sharesOutstanding": 127773766,
       "sector": "Consumer Defensive",
       "industry": "Grocery Stores",
@@ -26500,8 +26500,8 @@
       "priceToBook": -6.8006716,
       "pegRatio": null,
       "priceToSales": 0.24634342,
-      "enterpriseToRevenue": 0.502,
-      "enterpriseToEbitda": -85.537,
+      "enterpriseToRevenue": 0.501,
+      "enterpriseToEbitda": -85.483,
       "profitMargins": -0.0836,
       "grossMargins": 0.22771,
       "operatingMargins": -0.05692,
@@ -27430,7 +27430,7 @@
       "averageVolume": 126212193,
       "averageVolume10days": 129751962,
       "marketCap": 25546000384,
-      "enterpriseValue": 27217307648,
+      "enterpriseValue": 26819807232,
       "sharesOutstanding": 2650000000,
       "sector": "Real Estate",
       "industry": "Real Estate - Development",
@@ -27445,8 +27445,8 @@
       "priceToBook": 1.5767093,
       "pegRatio": null,
       "priceToSales": 2.9733627,
-      "enterpriseToRevenue": 3.168,
-      "enterpriseToEbitda": 4.603,
+      "enterpriseToRevenue": 3.122,
+      "enterpriseToEbitda": 4.535,
       "profitMargins": 0.125,
       "grossMargins": 0.74719,
       "operatingMargins": 0.69829005,
@@ -27997,7 +27997,7 @@
       "averageVolume": 7543534,
       "averageVolume10days": 3713367,
       "marketCap": 2247034368,
-      "enterpriseValue": 5401426944,
+      "enterpriseValue": 5369862144,
       "sharesOutstanding": 197281323,
       "sector": "Consumer Cyclical",
       "industry": "Apparel Manufacturing",
@@ -28012,8 +28012,8 @@
       "priceToBook": 1.1985688,
       "pegRatio": null,
       "priceToSales": 0.53357583,
-      "enterpriseToRevenue": 1.283,
-      "enterpriseToEbitda": 7.172,
+      "enterpriseToRevenue": 1.275,
+      "enterpriseToEbitda": 7.13,
       "profitMargins": -0.00179,
       "grossMargins": 0.28057,
       "operatingMargins": 0.18175,
@@ -30076,7 +30076,7 @@
       "averageVolume": 1668348,
       "averageVolume10days": 874315,
       "marketCap": 2444848384,
-      "enterpriseValue": 2333928192,
+      "enterpriseValue": 2345901056,
       "sharesOutstanding": 119728125,
       "sector": "Basic Materials",
       "industry": "Specialty Chemicals",
@@ -30091,8 +30091,8 @@
       "priceToBook": 1.6206349,
       "pegRatio": null,
       "priceToSales": 4.577871,
-      "enterpriseToRevenue": 4.37,
-      "enterpriseToEbitda": 33.8,
+      "enterpriseToRevenue": 4.393,
+      "enterpriseToEbitda": 33.973,
       "profitMargins": 0.07582,
       "grossMargins": 0.12543,
       "operatingMargins": -0.06183,
@@ -36296,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
+      "name": "ETILER GIDA",
       "shortName": "ETILER GIDA",
       "price": NaN,
       "change": NaN,
@@ -36312,9 +36312,9 @@
       "volume": "13,219,341",
       "averageVolume": 22057991,
       "averageVolume10days": 17473851,
-      "marketCap": 1569600000,
+      "marketCap": 0,
       "enterpriseValue": 2098214272,
-      "sharesOutstanding": 240000000,
+      "sharesOutstanding": 0,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -41038,7 +41038,7 @@
       "averageVolume": 519513,
       "averageVolume10days": 458603,
       "marketCap": 1559960064,
-      "enterpriseValue": 1631563648,
+      "enterpriseValue": 1598523648,
       "sharesOutstanding": 118000000,
       "sector": "Financial Services",
       "industry": "Capital Markets",
@@ -41053,7 +41053,7 @@
       "priceToBook": 2.6028745,
       "pegRatio": null,
       "priceToSales": 0.05640566,
-      "enterpriseToRevenue": 0.059,
+      "enterpriseToRevenue": 0.058,
       "enterpriseToEbitda": null,
       "profitMargins": -0.0036700002,
       "grossMargins": 0.01675,
@@ -44440,7 +44440,7 @@
       "averageVolume": 85588510,
       "averageVolume10days": 81653101,
       "marketCap": 3186599936,
-      "enterpriseValue": 2890572544,
+      "enterpriseValue": 3173072640,
       "sharesOutstanding": 1130000000,
       "sector": "Financial Services",
       "industry": "Asset Management",
@@ -44455,8 +44455,8 @@
       "priceToBook": 0.7772877,
       "pegRatio": null,
       "priceToSales": 2.691335,
-      "enterpriseToRevenue": 2.441,
-      "enterpriseToEbitda": 2.599,
+      "enterpriseToRevenue": 2.68,
+      "enterpriseToEbitda": 2.853,
       "profitMargins": 0.51635,
       "grossMargins": 1.0,
       "operatingMargins": 0.74635005,
@@ -44818,7 +44818,7 @@
       "averageVolume": 8094479,
       "averageVolume10days": 4106515,
       "marketCap": 1118249984,
-      "enterpriseValue": 1540059136,
+      "enterpriseValue": 1541109120,
       "sharesOutstanding": 105000000,
       "sector": "Industrials",
       "industry": "Specialty Industrial Machinery",
@@ -44833,8 +44833,8 @@
       "priceToBook": 1.0609683,
       "pegRatio": null,
       "priceToSales": 1.3424383,
-      "enterpriseToRevenue": 1.849,
-      "enterpriseToEbitda": 18.842,
+      "enterpriseToRevenue": 1.85,
+      "enterpriseToEbitda": 18.855,
       "profitMargins": -0.16454001,
       "grossMargins": 0.38115,
       "operatingMargins": -0.010039999,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 79.71624,
-      "targetLowPrice": 63.244385,
-      "targetMeanPrice": 68.79809,
-      "targetMedianPrice": 63.43317,
+      "targetHighPrice": 79.72317,
+      "targetLowPrice": 63.249878,
+      "targetMeanPrice": 68.80406,
+      "targetMedianPrice": 63.438683,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -51804,7 +51804,7 @@
       "dayLow": 12.3,
       "dayHigh": 13.42,
       "fiftyTwoWeekLow": 5.35,
-      "fiftyTwoWeekHigh": 13.44,
+      "fiftyTwoWeekHigh": 13.42,
       "fiftyDayAverage": 8.54,
       "twoHundredDayAverage": 7.23,
       "volume": "40,649,002",
@@ -55591,7 +55591,7 @@
       "averageVolume": 8542278,
       "averageVolume10days": 4278131,
       "marketCap": 6324614144,
-      "enterpriseValue": 6737904640,
+      "enterpriseValue": 6612792832,
       "sharesOutstanding": 431419816,
       "sector": "Consumer Cyclical",
       "industry": "Furnishings, Fixtures & Appliances",
@@ -55606,8 +55606,8 @@
       "priceToBook": 1.6628857,
       "pegRatio": null,
       "priceToSales": 3.3716056,
-      "enterpriseToRevenue": 3.592,
-      "enterpriseToEbitda": 23.737,
+      "enterpriseToRevenue": 3.525,
+      "enterpriseToEbitda": 23.296,
       "profitMargins": 0.05153,
       "grossMargins": 0.51768,
       "operatingMargins": 0.00769,
@@ -57103,7 +57103,7 @@
       "averageVolume": 5521681,
       "averageVolume10days": 15962470,
       "marketCap": 11391093760,
-      "enterpriseValue": 19666874368,
+      "enterpriseValue": 19600502784,
       "sharesOutstanding": 829650000,
       "sector": "Consumer Cyclical",
       "industry": "Apparel Manufacturing",
@@ -57118,8 +57118,8 @@
       "priceToBook": 1.6721469,
       "pegRatio": null,
       "priceToSales": 0.34717417,
-      "enterpriseToRevenue": 0.599,
-      "enterpriseToEbitda": 4.475,
+      "enterpriseToRevenue": 0.597,
+      "enterpriseToEbitda": 4.46,
       "profitMargins": -0.0222,
       "grossMargins": 0.55736,
       "operatingMargins": 0.052399997,
@@ -57285,7 +57285,7 @@
       "dayLow": 45.44,
       "dayHigh": 49.42,
       "fiftyTwoWeekLow": 23.24,
-      "fiftyTwoWeekHigh": 49.5,
+      "fiftyTwoWeekHigh": 49.42,
       "fiftyDayAverage": 39.57,
       "twoHundredDayAverage": 31.32,
       "volume": "23,894,732",
@@ -58616,7 +58616,7 @@
       "averageVolume10days": 4435319,
       "marketCap": 5896695296,
       "enterpriseValue": 11466437632,
-      "sharesOutstanding": 2159961700,
+      "sharesOutstanding": 2159961660,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
       "website": "https://kervangida.com",
@@ -59047,7 +59047,7 @@
           "Volume": 17099220
         },
         {
-          "Close": 166.82281494140625,
+          "Close": 166.8228302001953,
           "Volume": 27893890
         },
         {
@@ -59063,7 +59063,7 @@
           "Volume": 24399080
         },
         {
-          "Close": 176.912109375,
+          "Close": 176.91209411621094,
           "Volume": 28233813
         },
         {
@@ -80728,7 +80728,7 @@
       "averageVolume": 3388262,
       "averageVolume10days": 1054766,
       "marketCap": 2052796800,
-      "enterpriseValue": 2671929344,
+      "enterpriseValue": 2670052864,
       "sharesOutstanding": 187641391,
       "sector": "Consumer Cyclical",
       "industry": "Packaging & Containers",
@@ -80743,8 +80743,8 @@
       "priceToBook": 3.4445841,
       "pegRatio": null,
       "priceToSales": 1.2011229,
-      "enterpriseToRevenue": 1.563,
-      "enterpriseToEbitda": 13.227,
+      "enterpriseToRevenue": 1.562,
+      "enterpriseToEbitda": 13.218,
       "profitMargins": 0.025,
       "grossMargins": 0.18030001,
       "operatingMargins": 0.15525,
@@ -82618,7 +82618,7 @@
       "averageVolume": 26125104,
       "averageVolume10days": 16368832,
       "marketCap": 14148317184,
-      "enterpriseValue": 31874852864,
+      "enterpriseValue": 31474853888,
       "sharesOutstanding": 3996700000,
       "sector": "Real Estate",
       "industry": "REIT - Residential",
@@ -82633,8 +82633,8 @@
       "priceToBook": 0.24530524,
       "pegRatio": 0.34,
       "priceToSales": 2.097012,
-      "enterpriseToRevenue": 4.724,
-      "enterpriseToEbitda": 12.418,
+      "enterpriseToRevenue": 4.665,
+      "enterpriseToEbitda": 12.263,
       "profitMargins": 0.12945,
       "grossMargins": 0.48289,
       "operatingMargins": 0.37273997,
@@ -83563,7 +83563,7 @@
       "averageVolume": 30374587,
       "averageVolume10days": 13929607,
       "marketCap": 8352499200,
-      "enterpriseValue": 19558645760,
+      "enterpriseValue": 19363645440,
       "sharesOutstanding": 3250000000,
       "sector": "Real Estate",
       "industry": "REIT - Diversified",
@@ -83578,8 +83578,8 @@
       "priceToBook": 0.2996735,
       "pegRatio": null,
       "priceToSales": 2.0220888,
-      "enterpriseToRevenue": 4.735,
-      "enterpriseToEbitda": 7.846,
+      "enterpriseToRevenue": 4.688,
+      "enterpriseToEbitda": 7.768,
       "profitMargins": 0.59321,
       "grossMargins": 0.67595,
       "operatingMargins": 0.40868,
@@ -89056,7 +89056,7 @@
       "description": "Ulusal Faktoring A.S. provides factoring services in Turkey. The company was incorporated in 1999 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.94827586,
+      "priceToBook": 0.4742657,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": 2.137,
@@ -89075,7 +89075,7 @@
       "quickRatio": 1.066,
       "eps": null,
       "forwardEps": null,
-      "bookValue": 1.856,
+      "bookValue": 3.711,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -89233,7 +89233,7 @@
       "averageVolume": 666394,
       "averageVolume10days": 449316,
       "marketCap": 23640000512,
-      "enterpriseValue": 26923003904,
+      "enterpriseValue": 25043003392,
       "sharesOutstanding": 80000000,
       "sector": "Industrials",
       "industry": "Electrical Equipment & Parts",
@@ -89248,8 +89248,8 @@
       "priceToBook": 164.34927,
       "pegRatio": null,
       "priceToSales": 2.7570727,
-      "enterpriseToRevenue": 3.14,
-      "enterpriseToEbitda": 38.261,
+      "enterpriseToRevenue": 2.921,
+      "enterpriseToEbitda": 35.589,
       "profitMargins": 0.09511,
       "grossMargins": 0.18221001,
       "operatingMargins": 0.18277,
@@ -90163,10 +90163,10 @@
       "symbol": "VAKFN.IS",
       "name": "Vakif Finansal Kiralama A.S.",
       "shortName": "VAKIF FIN. KIR.",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 1.57,
+      "price": 1.31,
+      "change": 0.0,
+      "changeRate": 0.13,
+      "previousClose": 1.31,
       "open": 1.33,
       "dayLow": 1.3,
       "dayHigh": 1.34,
@@ -90188,7 +90188,7 @@
       "country": "Turkey",
       "phone": "90 216 285 92 00",
       "description": "Vakif Finansal Kiralama A.S. engages in the provision of financial leasing services in Turkey. It also offers financial intermediation to SMEs and investors. The company was founded in 1988 and is headquartered in Istanbul, Turkey. Vakif Finansal Kiralama A.S. is a subsidiary of Türkiye Vakiflar Bankasi Türk Anonim Ortakligi.",
-      "pe": 3.3589742,
+      "pe": 4.09375,
       "forwardPE": null,
       "priceToBook": 0.83333325,
       "pegRatio": null,
@@ -90207,7 +90207,7 @@
       "debtToEquity": 331.03,
       "currentRatio": 2.751,
       "quickRatio": 2.735,
-      "eps": 0.39,
+      "eps": 0.32,
       "forwardEps": null,
       "bookValue": 1.572,
       "dividendRate": null,
@@ -90224,123 +90224,123 @@
       "beta": 0.572,
       "historicalData": [
         {
-          "Close": 1.6699999570846558,
-          "Volume": 52728063
+          "Close": 1.391666054725647,
+          "Volume": 312721334
         },
         {
-          "Close": 1.6699999570846558,
-          "Volume": 260601112
+          "Close": 1.3833329677581787,
+          "Volume": 37012810
         },
         {
-          "Close": 1.659999966621399,
-          "Volume": 30844009
+          "Close": 1.416666030883789,
+          "Volume": 76076496
         },
         {
-          "Close": 1.7000000476837158,
-          "Volume": 63397080
+          "Close": 1.4416660070419312,
+          "Volume": 69488544
         },
         {
-          "Close": 1.7300000190734863,
-          "Volume": 57907120
+          "Close": 1.4333330392837524,
+          "Volume": 61006965
         },
         {
-          "Close": 1.7200000286102295,
-          "Volume": 50839138
+          "Close": 1.4083329439163208,
+          "Volume": 64186280
         },
         {
-          "Close": 1.690000057220459,
-          "Volume": 53488567
+          "Close": 1.4416660070419312,
+          "Volume": 52311703
         },
         {
-          "Close": 1.7300000190734863,
-          "Volume": 43593086
+          "Close": 1.4249999523162842,
+          "Volume": 51648169
         },
         {
-          "Close": 1.7100000381469727,
-          "Volume": 43040141
+          "Close": 1.416666030883789,
+          "Volume": 75876516
         },
         {
-          "Close": 1.7000000476837158,
-          "Volume": 63230430
+          "Close": 1.399999976158142,
+          "Volume": 26369835
         },
         {
-          "Close": 1.6799999475479126,
-          "Volume": 21974863
+          "Close": 1.391666054725647,
+          "Volume": 44809029
         },
         {
-          "Close": 1.6699999570846558,
-          "Volume": 37340858
+          "Close": 1.3666659593582153,
+          "Volume": 40825279
         },
         {
-          "Close": 1.6399999856948853,
-          "Volume": 34021066
+          "Close": 1.375,
+          "Volume": 43183058
         },
         {
-          "Close": 1.649999976158142,
-          "Volume": 35985882
+          "Close": 1.3583329916000366,
+          "Volume": 35157406
         },
         {
-          "Close": 1.6299999952316284,
-          "Volume": 29297839
+          "Close": 1.3583329916000366,
+          "Volume": 35892616
         },
         {
-          "Close": 1.6299999952316284,
-          "Volume": 29910514
+          "Close": 1.3666659593582153,
+          "Volume": 36441769
         },
         {
-          "Close": 1.6399999856948853,
-          "Volume": 30368141
+          "Close": 1.3583329916000366,
+          "Volume": 19676367
         },
         {
-          "Close": 1.6299999952316284,
-          "Volume": 16396973
+          "Close": 1.350000023841858,
+          "Volume": 27758412
         },
         {
-          "Close": 1.6200000047683716,
-          "Volume": 23132010
+          "Close": 1.3416659832000732,
+          "Volume": 29454260
         },
         {
-          "Close": 1.6100000143051147,
-          "Volume": 24545217
+          "Close": 1.3333330154418945,
+          "Volume": 28839142
         },
         {
-          "Close": 1.600000023841858,
-          "Volume": 24032619
+          "Close": 1.2833329439163208,
+          "Volume": 43963045
         },
         {
-          "Close": 1.5399999618530273,
-          "Volume": 36635871
+          "Close": 1.274999976158142,
+          "Volume": 35228343
         },
         {
-          "Close": 1.5299999713897705,
-          "Volume": 29356953
+          "Close": 1.291666030883789,
+          "Volume": 58389645
         },
         {
-          "Close": 1.5499999523162842,
-          "Volume": 48658038
+          "Close": 1.266666054725647,
+          "Volume": 74068470
         },
         {
-          "Close": 1.5199999809265137,
-          "Volume": 61723725
+          "Close": 1.2999999523162842,
+          "Volume": 68237605
         },
         {
-          "Close": 1.559999942779541,
-          "Volume": 56864671
+          "Close": 1.2999999523162842,
+          "Volume": 0
         },
         {
-          "Close": 1.5700000524520874,
-          "Volume": 26843102
+          "Close": 1.3083330392837524,
+          "Volume": 32211722
         },
         {
-          "Close": 1.5499999523162842,
-          "Volume": 17076281
+          "Close": 1.291666030883789,
+          "Volume": 20491537
         },
         {
-          "Close": 1.5700000524520874,
-          "Volume": 39578590
+          "Close": 1.3083330392837524,
+          "Volume": 47494308
         },
         {
-          "Close": NaN,
+          "Close": 1.309999942779541,
           "Volume": 32158529
         }
       ],
@@ -90556,7 +90556,7 @@
       "averageVolume": 276981,
       "averageVolume10days": 201812,
       "marketCap": 2277499904,
-      "enterpriseValue": 2259188480,
+      "enterpriseValue": 2276688384,
       "sharesOutstanding": 25000000,
       "sector": "Consumer Defensive",
       "industry": "Food Distribution",
@@ -90571,8 +90571,8 @@
       "priceToBook": 4.38339,
       "pegRatio": null,
       "priceToSales": 15.763759,
-      "enterpriseToRevenue": 15.637,
-      "enterpriseToEbitda": -994.126,
+      "enterpriseToRevenue": 15.758,
+      "enterpriseToEbitda": -1001.826,
       "profitMargins": 1.57921,
       "grossMargins": 0.05511,
       "operatingMargins": 0.13797,
@@ -91501,7 +91501,7 @@
       "averageVolume": 348572,
       "averageVolume10days": 517216,
       "marketCap": 792000000,
-      "enterpriseValue": 741893184,
+      "enterpriseValue": 736493184,
       "sharesOutstanding": 30000000,
       "sector": "Financial Services",
       "industry": "Asset Management",
@@ -91516,8 +91516,8 @@
       "priceToBook": 14.308943,
       "pegRatio": null,
       "priceToSales": 4.4794025,
-      "enterpriseToRevenue": 4.196,
-      "enterpriseToEbitda": 685.152,
+      "enterpriseToRevenue": 4.165,
+      "enterpriseToEbitda": 680.165,
       "profitMargins": -0.059899997,
       "grossMargins": 0.11567,
       "operatingMargins": -0.09665,
@@ -93837,7 +93837,7 @@
       "averageVolume": 65693258,
       "averageVolume10days": 56459098,
       "marketCap": 12999999488,
-      "enterpriseValue": 69922897920,
+      "enterpriseValue": 69872893952,
       "sharesOutstanding": 5000000000,
       "sector": "Utilities",
       "industry": "Utilities - Renewable",
@@ -93852,8 +93852,8 @@
       "priceToBook": 0.21283562,
       "pegRatio": 0.3,
       "priceToSales": 0.38096467,
-      "enterpriseToRevenue": 2.049,
-      "enterpriseToEbitda": 14.299,
+      "enterpriseToRevenue": 2.048,
+      "enterpriseToEbitda": 14.289,
       "profitMargins": -0.3932,
       "grossMargins": 0.08093,
       "operatingMargins": -0.11153,
