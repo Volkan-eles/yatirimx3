@@ -1,5 +1,23 @@
 [
   {
+    "code": "YEOTK",
+    "company": "YEOTK Yeo Teknoloji Enerji ve Endüstri A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%133,80",
+    "date": "23.07.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "VKGYO",
+    "company": "VKGYO Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%27.53",
+    "date": "23.07.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "VAKFN",
     "company": "VAKFN Vakıf Finansal Kiralama A.Ş.",
     "type": "Bedelsiz",
@@ -7,6 +25,15 @@
     "date": "21.07.2026",
     "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 21.07.2026"
+  },
+  {
+    "code": "RALYH",
+    "company": "RALYH Ral Yatırım Holding A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%148",
+    "date": "23.08.2026",
+    "status": "YKK Kararı",
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "PSDTC",
@@ -293,24 +320,6 @@
     "type": "Bedelsiz",
     "rate": "%238,16",
     "date": "06.04.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "VKGYO",
-    "company": "VKGYO Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%27.53",
-    "date": "23.03.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "YEOTK",
-    "company": "YEOTK Yeo Teknoloji Enerji ve Endüstri A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%133,80",
-    "date": "17.03.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
   },
