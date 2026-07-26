@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-25T23:34:53.437786",
+  "last_update": "2026-07-26T03:27:58.647948",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -3271,7 +3271,7 @@
       "forwardEps": 12.54,
       "bookValue": 133.703,
       "dividendRate": 4.0,
-      "dividendYield": 3.81,
+      "dividendYield": 3.86,
       "exDividendDate": 1796774400,
       "payoutRatio": 0.4303,
       "targetHighPrice": 174.4,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.39,
       "exDividendDate": 1790035200,
       "payoutRatio": 0.0,
-      "targetHighPrice": 509.966,
-      "targetLowPrice": 369.969,
-      "targetMeanPrice": 431.607,
-      "targetMedianPrice": 431.89075,
+      "targetHighPrice": 509.62692,
+      "targetLowPrice": 369.723,
+      "targetMeanPrice": 431.32,
+      "targetMedianPrice": 431.60358,
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -59051,7 +59051,7 @@
           "Volume": 24399080
         },
         {
-          "Close": 176.91209411621094,
+          "Close": 176.912109375,
           "Volume": 28233813
         },
         {
