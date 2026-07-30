@@ -1,5 +1,14 @@
 [
   {
+    "code": "KTLEV",
+    "company": "KTLEV Katılımevim Tasarruf Finansman A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%238,16",
+    "date": "29.07.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "YEOTK",
     "company": "YEOTK Yeo Teknoloji Enerji ve Endüstri A.Ş.",
     "type": "Bedelsiz",
@@ -315,15 +324,6 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 188.490.000 TL"
   },
   {
-    "code": "KTLEV",
-    "company": "KTLEV Katılımevim Tasarruf Finansman A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%238,16",
-    "date": "06.04.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "DSTKF",
     "company": "DSTKF Destek Finans Faktoring A.Ş.",
     "type": "Bedelsiz",
@@ -414,6 +414,24 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
+    "code": "CVKMD",
+    "company": "CVKMD Cvk Maden İşletmeleri San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%170",
+    "date": "29.07.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 1 TL"
+  },
+  {
+    "code": "KRTEK",
+    "company": "KRTEK Karsu Tekstil San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%300",
+    "date": "29.07.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 105.301.495 TL"
+  },
+  {
     "code": "SEKFK",
     "company": "SEKFK Şeker Finansal Kiralama A.Ş.",
     "type": "Bedelli",
@@ -457,15 +475,6 @@
     "date": "11.05.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "KRTEK",
-    "company": "KRTEK Karsu Tekstil San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%300",
-    "date": "11.05.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 105.301.495 TL"
   },
   {
     "code": "HDFGS",
@@ -572,15 +581,6 @@
     "type": "Bedelli",
     "rate": "%250",
     "date": "17.12.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "CVKMD",
-    "company": "CVKMD Cvk Maden İşletmeleri San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%170",
-    "date": "12.12.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
