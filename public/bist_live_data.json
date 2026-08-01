@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-01T17:36:47.069836",
+  "last_update": "2026-08-01T19:18:00.369007",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -1333,9 +1333,9 @@
       "symbol": "PGSUS.IS",
       "name": "Pegasus Hava Tasimaciligi Anonim Sirketi",
       "shortName": "PEGASUS",
-      "price": 153.0,
-      "change": 4.3,
-      "changeRate": 2.89,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 148.7,
       "open": 149.6,
       "dayLow": 149.3,
@@ -1344,7 +1344,7 @@
       "fiftyTwoWeekHigh": 274.5,
       "fiftyDayAverage": 170.29,
       "twoHundredDayAverage": 189.71,
-      "volume": "10,782,986",
+      "volume": "10,897,362",
       "averageVolume": 11367511,
       "averageVolume10days": 10730065,
       "marketCap": 76500000768,
@@ -1510,8 +1510,8 @@
           "Volume": 12530607
         },
         {
-          "Close": 153.0,
-          "Volume": 10782986
+          "Close": NaN,
+          "Volume": 10897362
         }
       ],
       "heldPercentInsiders": 0.52811,
@@ -1522,9 +1522,9 @@
       "symbol": "TUPRS.IS",
       "name": "Türkiye Petrol Rafinerileri A.S.",
       "shortName": "TUPRAS",
-      "price": 295.25,
-      "change": 7.25,
-      "changeRate": 2.52,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 288.0,
       "open": 288.0,
       "dayLow": 285.75,
@@ -1533,7 +1533,7 @@
       "fiftyTwoWeekHigh": 320.25,
       "fiftyDayAverage": 252.54,
       "twoHundredDayAverage": 230.63,
-      "volume": "22,052,293",
+      "volume": "22,233,122",
       "averageVolume": 23668764,
       "averageVolume10days": 25895373,
       "marketCap": 568886427648,
@@ -1699,8 +1699,8 @@
           "Volume": 22983322
         },
         {
-          "Close": 295.25,
-          "Volume": 22052293
+          "Close": NaN,
+          "Volume": 22233122
         }
       ],
       "heldPercentInsiders": 0.50668997,
@@ -2656,9 +2656,9 @@
       "symbol": "MGROS.IS",
       "name": "Migros Ticaret A.S.",
       "shortName": "MIGROS TICARET",
-      "price": 625.5,
-      "change": 2.5,
-      "changeRate": 0.4,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 623.0,
       "open": 623.5,
       "dayLow": 611.0,
@@ -2667,7 +2667,7 @@
       "fiftyTwoWeekHigh": 727.0,
       "fiftyDayAverage": 657.12,
       "twoHundredDayAverage": 604.45,
-      "volume": "3,813,797",
+      "volume": "3,838,841",
       "averageVolume": 2277856,
       "averageVolume10days": 2368966,
       "marketCap": 111396618240,
@@ -2833,8 +2833,8 @@
           "Volume": 2625158
         },
         {
-          "Close": 625.5,
-          "Volume": 3813797
+          "Close": NaN,
+          "Volume": 3838841
         }
       ],
       "heldPercentInsiders": 0.49181998,
@@ -4168,9 +4168,9 @@
       "symbol": "KCHOL.IS",
       "name": "Koç Holding A.S.",
       "shortName": "KOC HOLDING",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 196.9,
+      "change": 5.4,
+      "changeRate": 2.82,
       "previousClose": 191.5,
       "open": 192.1,
       "dayLow": 191.6,
@@ -4179,7 +4179,7 @@
       "fiftyTwoWeekHigh": 229.1,
       "fiftyDayAverage": 192.81,
       "twoHundredDayAverage": 189.76,
-      "volume": "18,546,595",
+      "volume": "18,259,732",
       "averageVolume": 19303325,
       "averageVolume10days": 18936218,
       "marketCap": 499142950912,
@@ -4345,8 +4345,8 @@
           "Volume": 15667099
         },
         {
-          "Close": NaN,
-          "Volume": 18546595
+          "Close": 196.89999389648438,
+          "Volume": 18259732
         }
       ],
       "heldPercentInsiders": 0.57186,
@@ -4968,7 +4968,7 @@
       "debtToEquity": 53.08,
       "currentRatio": 2.4,
       "quickRatio": 1.191,
-      "eps": -37.72,
+      "eps": -39.9,
       "forwardEps": null,
       "bookValue": 134.288,
       "dividendRate": null,
@@ -5869,9 +5869,9 @@
       "symbol": "GUBRF.IS",
       "name": "Gübre Fabrikalari Türk Anonim Sirketi",
       "shortName": "GUBRE FABRIK.",
-      "price": 398.5,
-      "change": -2.5,
-      "changeRate": -0.62,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 401.0,
       "open": 405.0,
       "dayLow": 395.0,
@@ -5880,7 +5880,7 @@
       "fiftyTwoWeekHigh": 625.5,
       "fiftyDayAverage": 472.38,
       "twoHundredDayAverage": 442.79,
-      "volume": "2,328,052",
+      "volume": "2,302,664",
       "averageVolume": 2406553,
       "averageVolume10days": 2018612,
       "marketCap": 133099003904,
@@ -6046,8 +6046,8 @@
           "Volume": 1554514
         },
         {
-          "Close": 398.5,
-          "Volume": 2328052
+          "Close": NaN,
+          "Volume": 2302664
         }
       ],
       "heldPercentInsiders": 0.78729,
@@ -6436,9 +6436,9 @@
       "symbol": "LOGO.IS",
       "name": "Logo Yazilim Sanayi ve Ticaret A.S.",
       "shortName": "LOGO YAZILIM",
-      "price": 136.0,
-      "change": 2.3,
-      "changeRate": 1.72,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 133.7,
       "open": 133.1,
       "dayLow": 133.1,
@@ -6447,7 +6447,7 @@
       "fiftyTwoWeekHigh": 194.9,
       "fiftyDayAverage": 142.52,
       "twoHundredDayAverage": 150.03,
-      "volume": "738,410",
+      "volume": "746,203",
       "averageVolume": 806096,
       "averageVolume10days": 498676,
       "marketCap": 12920000512,
@@ -6613,8 +6613,8 @@
           "Volume": 383729
         },
         {
-          "Close": 136.0,
-          "Volume": 738410
+          "Close": NaN,
+          "Volume": 746203
         }
       ],
       "heldPercentInsiders": 0.354,
@@ -7425,7 +7425,7 @@
       "debtToEquity": 551.72,
       "currentRatio": 1.264,
       "quickRatio": 0.683,
-      "eps": -20.46,
+      "eps": -20.44,
       "forwardEps": null,
       "bookValue": 65.204,
       "dividendRate": null,
@@ -8893,9 +8893,9 @@
       "symbol": "AKSEN.IS",
       "name": "Aksa Enerji Üretim A.S.",
       "shortName": "AKSA ENERJI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 94.15,
+      "change": -2.85,
+      "changeRate": -2.94,
       "previousClose": 97.0,
       "open": 97.0,
       "dayLow": 92.2,
@@ -8904,7 +8904,7 @@
       "fiftyTwoWeekHigh": 117.5,
       "fiftyDayAverage": 87.89,
       "twoHundredDayAverage": 73.24,
-      "volume": "6,953,490",
+      "volume": "6,927,072",
       "averageVolume": 7824162,
       "averageVolume10days": 11129429,
       "marketCap": 115459743744,
@@ -9070,8 +9070,8 @@
           "Volume": 5729440
         },
         {
-          "Close": NaN,
-          "Volume": 6953490
+          "Close": 94.1500015258789,
+          "Volume": 6927072
         }
       ],
       "heldPercentInsiders": 0.80129,
@@ -15508,9 +15508,9 @@
       "symbol": "ARZUM.IS",
       "name": "Arzum Elektrikli Ev Aletleri Sanayi ve Ticaret A.S.",
       "shortName": "ARZUM EV ALETLERI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 1.67,
+      "change": -0.04,
+      "changeRate": -2.34,
       "previousClose": 1.71,
       "open": 1.64,
       "dayLow": 1.63,
@@ -15519,7 +15519,7 @@
       "fiftyTwoWeekHigh": 5.72,
       "fiftyDayAverage": 2.09,
       "twoHundredDayAverage": 2.57,
-      "volume": "17,945,938",
+      "volume": "17,689,772",
       "averageVolume": 20058266,
       "averageVolume10days": 18218875,
       "marketCap": 1002000000,
@@ -15685,8 +15685,8 @@
           "Volume": 15617319
         },
         {
-          "Close": NaN,
-          "Volume": 17945938
+          "Close": 1.6699999570846558,
+          "Volume": 17689772
         }
       ],
       "heldPercentInsiders": 0.28476,
@@ -15697,9 +15697,9 @@
       "symbol": "ASTOR.IS",
       "name": "Astor Enerji A.S.",
       "shortName": "ASTOR ENERJI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 295.5,
+      "change": 8.0,
+      "changeRate": 2.78,
       "previousClose": 287.5,
       "open": 290.25,
       "dayLow": 287.25,
@@ -15708,7 +15708,7 @@
       "fiftyTwoWeekHigh": 385.75,
       "fiftyDayAverage": 305.04,
       "twoHundredDayAverage": 199.42,
-      "volume": "32,019,247",
+      "volume": "31,915,978",
       "averageVolume": 34285931,
       "averageVolume10days": 27645677,
       "marketCap": 294908985344,
@@ -15874,8 +15874,8 @@
           "Volume": 21684022
         },
         {
-          "Close": NaN,
-          "Volume": 32019247
+          "Close": 295.5,
+          "Volume": 31915978
         }
       ],
       "heldPercentInsiders": 0.37249002,
@@ -19288,9 +19288,9 @@
       "symbol": "BAYRK.IS",
       "name": "Bayrak EBT Taban Sanayi ve Ticaret Anonim Sirketi",
       "shortName": "BAYRAK TABAN SANAYI",
-      "price": 4.27,
-      "change": 0.12,
-      "changeRate": 2.89,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 4.15,
       "open": 4.18,
       "dayLow": 4.16,
@@ -19299,7 +19299,7 @@
       "fiftyTwoWeekHigh": 9.33,
       "fiftyDayAverage": 4.88,
       "twoHundredDayAverage": 5.23,
-      "volume": "11,996,402",
+      "volume": "12,048,228",
       "averageVolume": 16034397,
       "averageVolume10days": 8188049,
       "marketCap": 1067499968,
@@ -19465,8 +19465,8 @@
           "Volume": 3572568
         },
         {
-          "Close": 4.269999980926514,
-          "Volume": 11996402
+          "Close": NaN,
+          "Volume": 12048228
         }
       ],
       "heldPercentInsiders": 0.24097,
@@ -24958,9 +24958,9 @@
       "symbol": "CELHA.IS",
       "name": "Çelik Halat ve Tel Sanayii A.S.",
       "shortName": "CELIK HALAT",
-      "price": 24.56,
-      "change": 0.56,
-      "changeRate": 2.33,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 24.0,
       "open": 23.4,
       "dayLow": 23.4,
@@ -24969,7 +24969,7 @@
       "fiftyTwoWeekHigh": 26.22,
       "fiftyDayAverage": 19.41,
       "twoHundredDayAverage": 12.66,
-      "volume": "1,203,858",
+      "volume": "1,205,632",
       "averageVolume": 11002485,
       "averageVolume10days": 1814767,
       "marketCap": 9467871232,
@@ -25135,8 +25135,8 @@
           "Volume": 995205
         },
         {
-          "Close": 24.559999465942383,
-          "Volume": 1203858
+          "Close": NaN,
+          "Volume": 1205632
         }
       ],
       "heldPercentInsiders": 0.0,
@@ -25525,9 +25525,9 @@
       "symbol": "CMBTN.IS",
       "name": "Cimbeton Hazir Beton ve Prefabrik Yapi Elemanlari Sanayi ve Ticaret Anonim Sirketi",
       "shortName": "CIMBETON",
-      "price": 1561.0,
-      "change": 31.0,
-      "changeRate": 2.03,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 1530.0,
       "open": 1525.0,
       "dayLow": 1525.0,
@@ -25536,7 +25536,7 @@
       "fiftyTwoWeekHigh": 2647.5,
       "fiftyDayAverage": 1598.32,
       "twoHundredDayAverage": 1845.52,
-      "volume": "50,339",
+      "volume": "50,413",
       "averageVolume": 29729,
       "averageVolume10days": 33966,
       "marketCap": 2762970112,
@@ -25702,8 +25702,8 @@
           "Volume": 22889
         },
         {
-          "Close": 1561.0,
-          "Volume": 50339
+          "Close": NaN,
+          "Volume": 50413
         }
       ],
       "heldPercentInsiders": 0.50285,
@@ -26470,9 +26470,9 @@
       "symbol": "CRFSA.IS",
       "name": "CarrefourSA Carrefour Sabanci Ticaret Merkezi A.S.",
       "shortName": "CARREFOURSA",
-      "price": 181.4,
-      "change": 12.4,
-      "changeRate": 7.34,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 169.0,
       "open": 169.2,
       "dayLow": 161.3,
@@ -26481,7 +26481,7 @@
       "fiftyTwoWeekHigh": 200.8,
       "fiftyDayAverage": 147.7,
       "twoHundredDayAverage": 133.35,
-      "volume": "2,293,878",
+      "volume": "2,303,697",
       "averageVolume": 892379,
       "averageVolume10days": 841225,
       "marketCap": 23178160128,
@@ -26647,8 +26647,8 @@
           "Volume": 1927506
         },
         {
-          "Close": 181.39999389648438,
-          "Volume": 2293878
+          "Close": NaN,
+          "Volume": 2303697
         }
       ],
       "heldPercentInsiders": 0.89288,
@@ -27226,9 +27226,9 @@
       "symbol": "DAGI.IS",
       "name": "Dagi Giyim Sanayi ve Ticaret A.S.",
       "shortName": "DAGI GIYIM",
-      "price": 8.98,
-      "change": -0.01,
-      "changeRate": -0.11,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 8.99,
       "open": 9.04,
       "dayLow": 8.77,
@@ -27237,7 +27237,7 @@
       "fiftyTwoWeekHigh": 11.75,
       "fiftyDayAverage": 8.37,
       "twoHundredDayAverage": 7.27,
-      "volume": "6,409,174",
+      "volume": "6,557,197",
       "averageVolume": 12225477,
       "averageVolume10days": 12916553,
       "marketCap": 3591999744,
@@ -27403,8 +27403,8 @@
           "Volume": 14627441
         },
         {
-          "Close": 8.979999542236328,
-          "Volume": 6409174
+          "Close": NaN,
+          "Volume": 6557197
         }
       ],
       "heldPercentInsiders": 0.56174,
@@ -27604,9 +27604,9 @@
       "symbol": "DARDL.IS",
       "name": "Dardanel Onentas Gida Sanayi A.S.",
       "shortName": "DARDANEL",
-      "price": 1.68,
-      "change": 0.01,
-      "changeRate": 0.6,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 1.67,
       "open": 1.67,
       "dayLow": 1.63,
@@ -27615,7 +27615,7 @@
       "fiftyTwoWeekHigh": 3.12,
       "fiftyDayAverage": 2.05,
       "twoHundredDayAverage": 2.2,
-      "volume": "18,944,072",
+      "volume": "19,300,307",
       "averageVolume": 23875816,
       "averageVolume10days": 25034938,
       "marketCap": 3938586880,
@@ -27781,8 +27781,8 @@
           "Volume": 14730695
         },
         {
-          "Close": 1.6799999475479126,
-          "Volume": 18944072
+          "Close": NaN,
+          "Volume": 19300307
         }
       ],
       "heldPercentInsiders": 0.51542,
@@ -29683,9 +29683,9 @@
       "symbol": "DITAS.IS",
       "name": "Ditas BDY Yedek Parca Imalat and Teknik A.S.",
       "shortName": "DITAS BDY",
-      "price": 23.62,
-      "change": -0.58,
-      "changeRate": -2.4,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 24.2,
       "open": 24.28,
       "dayLow": 23.28,
@@ -29694,7 +29694,7 @@
       "fiftyTwoWeekHigh": 57.0,
       "fiftyDayAverage": 33.8,
       "twoHundredDayAverage": 37.7,
-      "volume": "1,740,578",
+      "volume": "1,752,725",
       "averageVolume": 5739389,
       "averageVolume10days": 6222275,
       "marketCap": 4015400192,
@@ -29860,8 +29860,8 @@
           "Volume": 2266801
         },
         {
-          "Close": 23.6200008392334,
-          "Volume": 1740578
+          "Close": NaN,
+          "Volume": 1752725
         }
       ],
       "heldPercentInsiders": 0.67418,
@@ -30628,9 +30628,9 @@
       "symbol": "DOFER.IS",
       "name": "Dofer Yapi Malzemeleri Sanayi ve Ticaret A.S.",
       "shortName": "DOFER YAPI MALZEMELERI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 27.44,
+      "change": -0.56,
+      "changeRate": -2.0,
       "previousClose": 28.0,
       "open": 28.1,
       "dayLow": 27.0,
@@ -30639,7 +30639,7 @@
       "fiftyTwoWeekHigh": 66.2,
       "fiftyDayAverage": 32.37,
       "twoHundredDayAverage": 40.43,
-      "volume": "462,965",
+      "volume": "457,560",
       "averageVolume": 1051861,
       "averageVolume10days": 458661,
       "marketCap": 1529779968,
@@ -30805,8 +30805,8 @@
           "Volume": 484692
         },
         {
-          "Close": NaN,
-          "Volume": 462965
+          "Close": 27.440000534057617,
+          "Volume": 457560
         }
       ],
       "heldPercentInsiders": 0.64481,
@@ -31384,9 +31384,9 @@
       "symbol": "DYOBY.IS",
       "name": "DYO Boya Fabrikalari Sanayi ve Ticaret A.S.",
       "shortName": "DYO BOYA",
-      "price": 12.72,
-      "change": 0.22,
-      "changeRate": 1.76,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 12.5,
       "open": 12.51,
       "dayLow": 12.49,
@@ -31395,7 +31395,7 @@
       "fiftyTwoWeekHigh": 22.8,
       "fiftyDayAverage": 14.52,
       "twoHundredDayAverage": 14.28,
-      "volume": "792,400",
+      "volume": "807,883",
       "averageVolume": 6440657,
       "averageVolume10days": 1523692,
       "marketCap": 3816000000,
@@ -31561,8 +31561,8 @@
           "Volume": 805976
         },
         {
-          "Close": 12.720000267028809,
-          "Volume": 792400
+          "Close": NaN,
+          "Volume": 807883
         }
       ],
       "heldPercentInsiders": 0.74531,
@@ -32896,9 +32896,9 @@
       "symbol": "EGGUB.IS",
       "name": "Ege Gübre Sanayii A.S.",
       "shortName": "EGE GUBRE",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 94.05,
+      "change": 2.4,
+      "changeRate": 2.62,
       "previousClose": 91.65,
       "open": 92.5,
       "dayLow": 91.4,
@@ -32907,7 +32907,7 @@
       "fiftyTwoWeekHigh": 142.3,
       "fiftyDayAverage": 101.91,
       "twoHundredDayAverage": 104.15,
-      "volume": "337,902",
+      "volume": "274,262",
       "averageVolume": 818590,
       "averageVolume10days": 389161,
       "marketCap": 9405000704,
@@ -33073,8 +33073,8 @@
           "Volume": 531158
         },
         {
-          "Close": NaN,
-          "Volume": 337902
+          "Close": 94.05000305175781,
+          "Volume": 274262
         }
       ],
       "heldPercentInsiders": 0.5389,
@@ -33085,9 +33085,9 @@
       "symbol": "EGPRO.IS",
       "name": "Ege Profil Ticaret ve Sanayi Anonim Sirketi",
       "shortName": "EGE PROFIL",
-      "price": 33.46,
-      "change": -0.14,
-      "changeRate": -0.42,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 33.6,
       "open": 33.58,
       "dayLow": 33.0,
@@ -33096,7 +33096,7 @@
       "fiftyTwoWeekHigh": 47.5,
       "fiftyDayAverage": 38.06,
       "twoHundredDayAverage": 31.2,
-      "volume": "1,079,295",
+      "volume": "1,083,088",
       "averageVolume": 1894971,
       "averageVolume10days": 865844,
       "marketCap": 18235699200,
@@ -33262,8 +33262,8 @@
           "Volume": 720085
         },
         {
-          "Close": 33.459999084472656,
-          "Volume": 1079295
+          "Close": NaN,
+          "Volume": 1083088
         }
       ],
       "heldPercentInsiders": 0.86862,
@@ -35353,9 +35353,9 @@
       "symbol": "ERCB.IS",
       "name": "Erciyas Çelik Boru Sanayi A.S.",
       "shortName": "ERCIYAS CELIK BORU",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 48.14,
+      "change": -0.76,
+      "changeRate": -1.55,
       "previousClose": 48.9,
       "open": 49.94,
       "dayLow": 47.76,
@@ -35364,7 +35364,7 @@
       "fiftyTwoWeekHigh": 105.0,
       "fiftyDayAverage": 54.89,
       "twoHundredDayAverage": 63.47,
-      "volume": "774,907",
+      "volume": "761,204",
       "averageVolume": 1325525,
       "averageVolume10days": 1211088,
       "marketCap": 3743870976,
@@ -35530,8 +35530,8 @@
           "Volume": 642339
         },
         {
-          "Close": NaN,
-          "Volume": 774907
+          "Close": 48.13999938964844,
+          "Volume": 761204
         }
       ],
       "heldPercentInsiders": 0.49558,
@@ -35542,9 +35542,9 @@
       "symbol": "ERSU.IS",
       "name": "Ersu Meyve ve Gida Sanayii A.S.",
       "shortName": "ERSU GIDA",
-      "price": 23.2,
-      "change": -0.38,
-      "changeRate": -1.61,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 23.58,
       "open": 24.0,
       "dayLow": 22.7,
@@ -35553,7 +35553,7 @@
       "fiftyTwoWeekHigh": 30.2,
       "fiftyDayAverage": 24.86,
       "twoHundredDayAverage": 21.78,
-      "volume": "266,772",
+      "volume": "276,953",
       "averageVolume": 466826,
       "averageVolume10days": 413860,
       "marketCap": 835200000,
@@ -35719,8 +35719,8 @@
           "Volume": 184082
         },
         {
-          "Close": 23.200000762939453,
-          "Volume": 266772
+          "Close": NaN,
+          "Volume": 276953
         }
       ],
       "heldPercentInsiders": 0.34332,
@@ -35731,9 +35731,9 @@
       "symbol": "ESCAR.IS",
       "name": "Escar Filo Kiralama Hizmetleri A.S.",
       "shortName": "ESCAR FILO",
-      "price": 45.98,
-      "change": -0.62,
-      "changeRate": -1.33,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 46.6,
       "open": 46.72,
       "dayLow": 45.6,
@@ -35742,7 +35742,7 @@
       "fiftyTwoWeekHigh": 57.0,
       "fiftyDayAverage": 48.26,
       "twoHundredDayAverage": 34.93,
-      "volume": "1,215,034",
+      "volume": "1,228,735",
       "averageVolume": 3303021,
       "averageVolume10days": 2354655,
       "marketCap": 22990000128,
@@ -35908,8 +35908,8 @@
           "Volume": 3433876
         },
         {
-          "Close": 45.97999954223633,
-          "Volume": 1215034
+          "Close": NaN,
+          "Volume": 1228735
         }
       ],
       "heldPercentInsiders": 0.79613,
@@ -37054,9 +37054,9 @@
       "symbol": "EUPWR.IS",
       "name": "Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret Anonim Sirketi",
       "shortName": "EUROPOWER ENERJI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 85.1,
+      "change": -0.75,
+      "changeRate": -0.87,
       "previousClose": 85.85,
       "open": 85.9,
       "dayLow": 84.7,
@@ -37065,7 +37065,7 @@
       "fiftyTwoWeekHigh": 108.6,
       "fiftyDayAverage": 87.93,
       "twoHundredDayAverage": 50.22,
-      "volume": "7,573,846",
+      "volume": "7,496,930",
       "averageVolume": 33165121,
       "averageVolume10days": 20757822,
       "marketCap": 56165998592,
@@ -37231,8 +37231,8 @@
           "Volume": 17732102
         },
         {
-          "Close": NaN,
-          "Volume": 7573846
+          "Close": 85.0999984741211,
+          "Volume": 7496930
         }
       ],
       "heldPercentInsiders": 0.64123,
@@ -37243,9 +37243,9 @@
       "symbol": "EUREN.IS",
       "name": "Europen Endustri Insaat Sanayi ve Ticaret A.S.",
       "shortName": "EUROPEN ENDUSTRI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 3.93,
+      "change": 0.06,
+      "changeRate": 1.55,
       "previousClose": 3.87,
       "open": 3.89,
       "dayLow": 3.86,
@@ -37254,7 +37254,7 @@
       "fiftyTwoWeekHigh": 11.4,
       "fiftyDayAverage": 4.45,
       "twoHundredDayAverage": 5.53,
-      "volume": "23,158,583",
+      "volume": "22,846,653",
       "averageVolume": 45609752,
       "averageVolume10days": 31642280,
       "marketCap": 8253000192,
@@ -37420,8 +37420,8 @@
           "Volume": 67104716
         },
         {
-          "Close": NaN,
-          "Volume": 23158583
+          "Close": 3.930000066757202,
+          "Volume": 22846653
         }
       ],
       "heldPercentInsiders": 0.4573,
@@ -39133,9 +39133,9 @@
       "symbol": "FRIGO.IS",
       "name": "Frigo-Pak Gida Maddeleri Sanayi ve Ticaret A.S.",
       "shortName": "FRIGO PAK GIDA",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 2.13,
+      "change": -0.02,
+      "changeRate": -0.93,
       "previousClose": 2.15,
       "open": 2.15,
       "dayLow": 2.06,
@@ -39144,7 +39144,7 @@
       "fiftyTwoWeekHigh": 3.66,
       "fiftyDayAverage": 2.41,
       "twoHundredDayAverage": 2.67,
-      "volume": "15,181,968",
+      "volume": "15,150,580",
       "averageVolume": 52343155,
       "averageVolume10days": 43299219,
       "marketCap": 1810500096,
@@ -39310,8 +39310,8 @@
           "Volume": 24334211
         },
         {
-          "Close": NaN,
-          "Volume": 15181968
+          "Close": 2.130000114440918,
+          "Volume": 15150580
         }
       ],
       "heldPercentInsiders": 0.20668,
@@ -40078,9 +40078,9 @@
       "symbol": "GENIL.IS",
       "name": "Gen Ilac Ve Saglik Urunleri Sanayi Ve Ticaret Anonim Sirketi",
       "shortName": "GEN ILAC",
-      "price": 9.32,
-      "change": 0.27,
-      "changeRate": 2.98,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 9.05,
       "open": 9.08,
       "dayLow": 9.02,
@@ -40089,7 +40089,7 @@
       "fiftyTwoWeekHigh": 14.93,
       "fiftyDayAverage": 9.03,
       "twoHundredDayAverage": 10.13,
-      "volume": "27,818,116",
+      "volume": "28,150,528",
       "averageVolume": 63379594,
       "averageVolume10days": 33401832,
       "marketCap": 41849335808,
@@ -40255,8 +40255,8 @@
           "Volume": 20899711
         },
         {
-          "Close": 9.319999694824219,
-          "Volume": 27818116
+          "Close": NaN,
+          "Volume": 28150528
         }
       ],
       "heldPercentInsiders": 0.72505,
@@ -44047,9 +44047,9 @@
       "symbol": "HATEK.IS",
       "name": "Hateks Hatay Tekstil Isletmeleri A.S.",
       "shortName": "HATAY TEKSTIL",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 13.25,
+      "change": -1.47,
+      "changeRate": -9.99,
       "previousClose": 14.72,
       "open": 14.57,
       "dayLow": 13.25,
@@ -44058,7 +44058,7 @@
       "fiftyTwoWeekHigh": 25.2,
       "fiftyDayAverage": 16.02,
       "twoHundredDayAverage": 16.14,
-      "volume": "12,853,625",
+      "volume": "12,852,617",
       "averageVolume": 2960451,
       "averageVolume10days": 5951602,
       "marketCap": 834750016,
@@ -44224,8 +44224,8 @@
           "Volume": 14738227
         },
         {
-          "Close": NaN,
-          "Volume": 12853625
+          "Close": 13.25,
+          "Volume": 12852617
         }
       ],
       "heldPercentInsiders": 0.40308,
@@ -44803,9 +44803,9 @@
       "symbol": "HKTM.IS",
       "name": "Hidropar Hareket Kontrol Teknolojileri Merkezi Sanayi ve Ticaret A.S.",
       "shortName": "HIDROPAR HAREKET KONTROL",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 10.78,
+      "change": 0.01,
+      "changeRate": 0.09,
       "previousClose": 10.77,
       "open": 10.79,
       "dayLow": 10.62,
@@ -44814,7 +44814,7 @@
       "fiftyTwoWeekHigh": 17.22,
       "fiftyDayAverage": 12.45,
       "twoHundredDayAverage": 12.38,
-      "volume": "2,592,834",
+      "volume": "2,567,949",
       "averageVolume": 6224184,
       "averageVolume10days": 3736695,
       "marketCap": 1131900032,
@@ -44980,8 +44980,8 @@
           "Volume": 2888733
         },
         {
-          "Close": NaN,
-          "Volume": 2592834
+          "Close": 10.779999732971191,
+          "Volume": 2567949
         }
       ],
       "heldPercentInsiders": 0.22764,
@@ -45181,9 +45181,9 @@
       "symbol": "HTTBT.IS",
       "name": "Hitit Bilgisayar Hizmetleri A.S.",
       "shortName": "HITIT BILGISAYAR",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 36.44,
+      "change": 0.44,
+      "changeRate": 1.22,
       "previousClose": 36.0,
       "open": 36.26,
       "dayLow": 35.26,
@@ -45192,7 +45192,7 @@
       "fiftyTwoWeekHigh": 53.95,
       "fiftyDayAverage": 39.41,
       "twoHundredDayAverage": 42.39,
-      "volume": "675,282",
+      "volume": "674,503",
       "averageVolume": 633533,
       "averageVolume10days": 528761,
       "marketCap": 10931999744,
@@ -45358,8 +45358,8 @@
           "Volume": 395536
         },
         {
-          "Close": NaN,
-          "Volume": 675282
+          "Close": 36.439998626708984,
+          "Volume": 674503
         }
       ],
       "heldPercentInsiders": 0.72398,
@@ -45370,9 +45370,9 @@
       "symbol": "HUBVC.IS",
       "name": "Hub Girisim Sermayesi Yatirim Ortakligi A.S.",
       "shortName": "HUB GIRISIM",
-      "price": 2.78,
-      "change": 0.0,
-      "changeRate": 0.0,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 2.78,
       "open": 2.77,
       "dayLow": 2.71,
@@ -45381,7 +45381,7 @@
       "fiftyTwoWeekHigh": 5.4,
       "fiftyDayAverage": 3.1,
       "twoHundredDayAverage": 3.38,
-      "volume": "1,038,930",
+      "volume": "1,038,935",
       "averageVolume": 2678485,
       "averageVolume10days": 2394847,
       "marketCap": 778400000,
@@ -45547,8 +45547,8 @@
           "Volume": 2005200
         },
         {
-          "Close": 2.7799999713897705,
-          "Volume": 1038930
+          "Close": NaN,
+          "Volume": 1038935
         }
       ],
       "heldPercentInsiders": 0.21045,
@@ -45748,9 +45748,9 @@
       "symbol": "HURGZ.IS",
       "name": "Hürriyet Gazetecilik ve Matbaacilik A.S.",
       "shortName": "HURRIYET GZT.",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 7.04,
+      "change": -0.33,
+      "changeRate": -4.48,
       "previousClose": 7.37,
       "open": 7.31,
       "dayLow": 6.99,
@@ -45759,7 +45759,7 @@
       "fiftyTwoWeekHigh": 9.98,
       "fiftyDayAverage": 6.92,
       "twoHundredDayAverage": 6.28,
-      "volume": "10,306,260",
+      "volume": "10,228,598",
       "averageVolume": 11709231,
       "averageVolume10days": 11316420,
       "marketCap": 4167680000,
@@ -45925,8 +45925,8 @@
           "Volume": 8808925
         },
         {
-          "Close": NaN,
-          "Volume": 10306260
+          "Close": 7.039999961853027,
+          "Volume": 10228598
         }
       ],
       "heldPercentInsiders": 0.81213,
@@ -46315,9 +46315,9 @@
       "symbol": "IDGYO.IS",
       "name": "Idealist Gayrimenkul Yatirim Ortakligi A.S.",
       "shortName": "IDEALIST GMYO",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 3.78,
+      "change": -0.21,
+      "changeRate": -5.26,
       "previousClose": 3.99,
       "open": 3.97,
       "dayLow": 3.6,
@@ -46326,7 +46326,7 @@
       "fiftyTwoWeekHigh": 5.5,
       "fiftyDayAverage": 4.6,
       "twoHundredDayAverage": 3.95,
-      "volume": "4,244,240",
+      "volume": "4,235,930",
       "averageVolume": 3143533,
       "averageVolume10days": 2114917,
       "marketCap": 567000000,
@@ -46492,8 +46492,8 @@
           "Volume": 1530590
         },
         {
-          "Close": NaN,
-          "Volume": 4244240
+          "Close": 3.7799999713897705,
+          "Volume": 4235930
         }
       ],
       "heldPercentInsiders": 0.37355,
@@ -46693,9 +46693,9 @@
       "symbol": "IHAAS.IS",
       "name": "Ihlas Haber Ajansi A.S.",
       "shortName": "IHLAS HABER AJANSI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 48.88,
+      "change": 1.38,
+      "changeRate": 2.91,
       "previousClose": 47.5,
       "open": 47.5,
       "dayLow": 47.5,
@@ -46704,7 +46704,7 @@
       "fiftyTwoWeekHigh": 106.0,
       "fiftyDayAverage": 70.35,
       "twoHundredDayAverage": 61.7,
-      "volume": "1,711,209",
+      "volume": "1,699,415",
       "averageVolume": 2303352,
       "averageVolume10days": 1368438,
       "marketCap": 7967440384,
@@ -46870,8 +46870,8 @@
           "Volume": 874244
         },
         {
-          "Close": NaN,
-          "Volume": 1711209
+          "Close": 48.880001068115234,
+          "Volume": 1699415
         }
       ],
       "heldPercentInsiders": 0.65625,
@@ -47260,9 +47260,9 @@
       "symbol": "IHLAS.IS",
       "name": "Ihlas Holding A.S.",
       "shortName": "IHLAS HOLDING",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 1.04,
+      "change": 0.03,
+      "changeRate": 2.97,
       "previousClose": 1.01,
       "open": 1.01,
       "dayLow": 1.0,
@@ -47271,7 +47271,7 @@
       "fiftyTwoWeekHigh": 4.59,
       "fiftyDayAverage": 1.32,
       "twoHundredDayAverage": 2.17,
-      "volume": "63,972,399",
+      "volume": "63,949,360",
       "averageVolume": 119367256,
       "averageVolume10days": 59882322,
       "marketCap": 3120000000,
@@ -47437,8 +47437,8 @@
           "Volume": 47194884
         },
         {
-          "Close": NaN,
-          "Volume": 63972399
+          "Close": 1.0399999618530273,
+          "Volume": 63949360
         }
       ],
       "heldPercentInsiders": 0.0645,
@@ -47449,9 +47449,9 @@
       "symbol": "IHLGM.IS",
       "name": "Ihlas Gayrimenkul Proje Gelistirme ve Ticaret A.S.",
       "shortName": "IHLAS GAYRIMENKUL",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 1.58,
+      "change": 0.02,
+      "changeRate": 1.28,
       "previousClose": 1.56,
       "open": 1.56,
       "dayLow": 1.56,
@@ -47460,7 +47460,7 @@
       "fiftyTwoWeekHigh": 3.58,
       "fiftyDayAverage": 1.83,
       "twoHundredDayAverage": 2.13,
-      "volume": "12,597,946",
+      "volume": "11,905,733",
       "averageVolume": 26827329,
       "averageVolume10days": 14849179,
       "marketCap": 1580000000,
@@ -47626,8 +47626,8 @@
           "Volume": 16949159
         },
         {
-          "Close": NaN,
-          "Volume": 12597946
+          "Close": 1.5800000429153442,
+          "Volume": 11905733
         }
       ],
       "heldPercentInsiders": 0.21073,
@@ -47638,9 +47638,9 @@
       "symbol": "IHYAY.IS",
       "name": "Ihlas Yayin Holding A.S.",
       "shortName": "IHLAS YAYIN HOLDING",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 1.25,
+      "change": 0.01,
+      "changeRate": 0.81,
       "previousClose": 1.24,
       "open": 1.24,
       "dayLow": 1.21,
@@ -47815,7 +47815,7 @@
           "Volume": 1676314
         },
         {
-          "Close": NaN,
+          "Close": 1.25,
           "Volume": 1544489
         }
       ],
@@ -48394,9 +48394,9 @@
       "symbol": "INGRM.IS",
       "name": "Ingram Micro Bilisim Sistemleri Anonim Sirketi",
       "shortName": "INGRAM BILISIM",
-      "price": 373.0,
-      "change": 1.0,
-      "changeRate": 0.27,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 372.0,
       "open": 370.75,
       "dayLow": 367.0,
@@ -48405,7 +48405,7 @@
       "fiftyTwoWeekHigh": 621.0,
       "fiftyDayAverage": 419.38,
       "twoHundredDayAverage": 419.33,
-      "volume": "21,118",
+      "volume": "21,133",
       "averageVolume": 83130,
       "averageVolume10days": 28665,
       "marketCap": 8952000512,
@@ -48571,8 +48571,8 @@
           "Volume": 25569
         },
         {
-          "Close": 373.0,
-          "Volume": 21118
+          "Close": NaN,
+          "Volume": 21133
         }
       ],
       "heldPercentInsiders": 0.91583997,
@@ -52552,9 +52552,9 @@
       "symbol": "KARTN.IS",
       "name": "Kartonsan Karton Sanayi ve Ticaret A.S.",
       "shortName": "KARTONSAN",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 211.0,
+      "change": -11.5,
+      "changeRate": -5.17,
       "previousClose": 222.5,
       "open": 220.0,
       "dayLow": 209.0,
@@ -52563,7 +52563,7 @@
       "fiftyTwoWeekHigh": 238.3,
       "fiftyDayAverage": 157.4,
       "twoHundredDayAverage": 101.46,
-      "volume": "2,283,953",
+      "volume": "2,270,197",
       "averageVolume": 1501167,
       "averageVolume10days": 1865657,
       "marketCap": 15825000448,
@@ -52729,8 +52729,8 @@
           "Volume": 2051038
         },
         {
-          "Close": NaN,
-          "Volume": 2283953
+          "Close": 211.0,
+          "Volume": 2270197
         }
       ],
       "heldPercentInsiders": 0.7721,
@@ -52930,9 +52930,9 @@
       "symbol": "KAYSE.IS",
       "name": "Kayseri Seker Fabrikasi Anonim Sirketi",
       "shortName": "KAYSERI SEKER FABRIKASI",
-      "price": 3.9,
-      "change": -0.02,
-      "changeRate": -0.51,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 3.92,
       "open": 3.92,
       "dayLow": 3.87,
@@ -52941,7 +52941,7 @@
       "fiftyTwoWeekHigh": 6.39,
       "fiftyDayAverage": 4.36,
       "twoHundredDayAverage": 4.59,
-      "volume": "2,540,139",
+      "volume": "2,576,195",
       "averageVolume": 12609023,
       "averageVolume10days": 6245856,
       "marketCap": 11700000768,
@@ -53107,8 +53107,8 @@
           "Volume": 4574619
         },
         {
-          "Close": 3.9000000953674316,
-          "Volume": 2540139
+          "Close": NaN,
+          "Volume": 2576195
         }
       ],
       "heldPercentInsiders": 0.59215,
@@ -54442,9 +54442,9 @@
       "symbol": "KLGYO.IS",
       "name": "Kiler Gayrimenkul Yatirim Ortakligi A.S.",
       "shortName": "KILER GMYO",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 4.47,
+      "change": 0.2,
+      "changeRate": 4.68,
       "previousClose": 4.27,
       "open": 4.27,
       "dayLow": 4.27,
@@ -54453,7 +54453,7 @@
       "fiftyTwoWeekHigh": 8.3,
       "fiftyDayAverage": 4.92,
       "twoHundredDayAverage": 5.88,
-      "volume": "7,812,845",
+      "volume": "7,723,929",
       "averageVolume": 12637639,
       "averageVolume10days": 9171981,
       "marketCap": 6235650048,
@@ -54619,8 +54619,8 @@
           "Volume": 8242076
         },
         {
-          "Close": NaN,
-          "Volume": 7812845
+          "Close": 4.46999979019165,
+          "Volume": 7723929
         }
       ],
       "heldPercentInsiders": 0.53543997,
@@ -54820,9 +54820,9 @@
       "symbol": "KLMSN.IS",
       "name": "Klimasan Klima Sanayi ve Ticaret A.S.",
       "shortName": "KLIMASAN KLIMA",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 27.5,
+      "change": 0.16,
+      "changeRate": 0.59,
       "previousClose": 27.34,
       "open": 27.6,
       "dayLow": 27.14,
@@ -54831,7 +54831,7 @@
       "fiftyTwoWeekHigh": 55.25,
       "fiftyDayAverage": 31.67,
       "twoHundredDayAverage": 31.76,
-      "volume": "384,435",
+      "volume": "384,151",
       "averageVolume": 1276957,
       "averageVolume10days": 643599,
       "marketCap": 2177999872,
@@ -54997,8 +54997,8 @@
           "Volume": 717030
         },
         {
-          "Close": NaN,
-          "Volume": 384435
+          "Close": 27.5,
+          "Volume": 384151
         }
       ],
       "heldPercentInsiders": 0.68274003,
@@ -55009,9 +55009,9 @@
       "symbol": "KLNMA.IS",
       "name": "Türkiye Kalkinma ve Yatirim Bankasi A.S.",
       "shortName": "T. KALKINMA BANK.",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 9.02,
+      "change": 0.02,
+      "changeRate": 0.22,
       "previousClose": 9.0,
       "open": 9.1,
       "dayLow": 9.02,
@@ -55186,7 +55186,7 @@
           "Volume": 168720
         },
         {
-          "Close": NaN,
+          "Close": 9.020000457763672,
           "Volume": 155978
         }
       ],
@@ -55387,9 +55387,9 @@
       "symbol": "KLSER.IS",
       "name": "Kaleseramik Canakkale Kalebodur Seramik Sanayi A.S.",
       "shortName": "KALESERAMIK",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 24.7,
+      "change": 0.3,
+      "changeRate": 1.23,
       "previousClose": 24.4,
       "open": 24.42,
       "dayLow": 24.18,
@@ -55398,7 +55398,7 @@
       "fiftyTwoWeekHigh": 35.38,
       "fiftyDayAverage": 27.21,
       "twoHundredDayAverage": 27.58,
-      "volume": "688,191",
+      "volume": "683,910",
       "averageVolume": 2153398,
       "averageVolume10days": 908370,
       "marketCap": 12715033600,
@@ -55564,8 +55564,8 @@
           "Volume": 491276
         },
         {
-          "Close": NaN,
-          "Volume": 688191
+          "Close": 24.700000762939453,
+          "Volume": 683910
         }
       ],
       "heldPercentInsiders": 0.61237,
@@ -58222,9 +58222,9 @@
       "symbol": "KRSTL.IS",
       "name": "Kristal Kola ve Mesrubat Sanayi Ticaret A.S.",
       "shortName": "KRISTAL KOLA",
-      "price": 10.27,
-      "change": -0.08,
-      "changeRate": -0.77,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 10.35,
       "open": 10.39,
       "dayLow": 10.06,
@@ -58233,7 +58233,7 @@
       "fiftyTwoWeekHigh": 13.26,
       "fiftyDayAverage": 10.95,
       "twoHundredDayAverage": 10.57,
-      "volume": "3,137,966",
+      "volume": "3,140,256",
       "averageVolume": 8914162,
       "averageVolume10days": 3516955,
       "marketCap": 1971840128,
@@ -58399,8 +58399,8 @@
           "Volume": 3041497
         },
         {
-          "Close": 10.270000457763672,
-          "Volume": 3137966
+          "Close": NaN,
+          "Volume": 3140256
         }
       ],
       "heldPercentInsiders": 0.15353,
@@ -58600,9 +58600,9 @@
       "symbol": "KRVGD.IS",
       "name": "Kervan Gida Sanayi ve Ticaret A.S.",
       "shortName": "KERVAN GIDA",
-      "price": 2.37,
-      "change": 0.08,
-      "changeRate": 3.49,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 2.29,
       "open": 2.3,
       "dayLow": 2.29,
@@ -58611,7 +58611,7 @@
       "fiftyTwoWeekHigh": 3.57,
       "fiftyDayAverage": 2.89,
       "twoHundredDayAverage": 2.85,
-      "volume": "11,044,635",
+      "volume": "11,073,667",
       "averageVolume": 11240701,
       "averageVolume10days": 11299387,
       "marketCap": 5119108608,
@@ -58777,8 +58777,8 @@
           "Volume": 41652528
         },
         {
-          "Close": 2.369999885559082,
-          "Volume": 11044635
+          "Close": NaN,
+          "Volume": 11073667
         }
       ],
       "heldPercentInsiders": 0.60789,
@@ -65026,9 +65026,9 @@
       "symbol": "MMCAS.IS",
       "name": "MMC Sanayi Ve Ticari Yatirimlar A.S.",
       "shortName": "MMC SAN. VE TIC. YAT.",
-      "price": 61.1,
-      "change": -3.4,
-      "changeRate": -5.27,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 64.5,
       "open": 61.95,
       "dayLow": 61.0,
@@ -65203,7 +65203,7 @@
           "Volume": 17852
         },
         {
-          "Close": 61.099998474121094,
+          "Close": NaN,
           "Volume": 15871
         }
       ],
@@ -65215,9 +65215,9 @@
       "symbol": "MNDRS.IS",
       "name": "Menderes Tekstil Sanayi ve Ticaret Anonim Sirketi",
       "shortName": "MENDERES TEKSTIL",
-      "price": 10.43,
-      "change": 0.01,
-      "changeRate": 0.1,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 10.42,
       "open": 10.42,
       "dayLow": 10.21,
@@ -65226,7 +65226,7 @@
       "fiftyTwoWeekHigh": 19.6,
       "fiftyDayAverage": 11.26,
       "twoHundredDayAverage": 13.17,
-      "volume": "1,361,186",
+      "volume": "1,371,537",
       "averageVolume": 3538845,
       "averageVolume10days": 1726551,
       "marketCap": 2892161536,
@@ -65392,8 +65392,8 @@
           "Volume": 1033852
         },
         {
-          "Close": 10.430000305175781,
-          "Volume": 1361186
+          "Close": NaN,
+          "Volume": 1371537
         }
       ],
       "heldPercentInsiders": 0.48224,
@@ -65593,9 +65593,9 @@
       "symbol": "MOBTL.IS",
       "name": "Mobiltel Iletisim Hizmetleri Sanayi ve Ticaret A.S.",
       "shortName": "MOBILTEL ILETISIM",
-      "price": 14.14,
-      "change": -0.1,
-      "changeRate": -0.7,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 14.24,
       "open": 15.0,
       "dayLow": 13.55,
@@ -65604,7 +65604,7 @@
       "fiftyTwoWeekHigh": 16.82,
       "fiftyDayAverage": 14.59,
       "twoHundredDayAverage": 11.29,
-      "volume": "7,988,152",
+      "volume": "8,011,218",
       "averageVolume": 5867766,
       "averageVolume10days": 4316397,
       "marketCap": 14493500416,
@@ -65770,8 +65770,8 @@
           "Volume": 3640061
         },
         {
-          "Close": 14.140000343322754,
-          "Volume": 7988152
+          "Close": NaN,
+          "Volume": 8011218
         }
       ],
       "heldPercentInsiders": 0.79707,
@@ -65782,9 +65782,9 @@
       "symbol": "MOGAN.IS",
       "name": "MOGAN ENERJI",
       "shortName": "MOGAN ENERJI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 16.98,
+      "change": 0.53,
+      "changeRate": 3.22,
       "previousClose": 16.45,
       "open": 16.48,
       "dayLow": 16.16,
@@ -65793,7 +65793,7 @@
       "fiftyTwoWeekHigh": 19.65,
       "fiftyDayAverage": 14.54,
       "twoHundredDayAverage": 11.41,
-      "volume": "10,352,895",
+      "volume": "10,325,185",
       "averageVolume": 26564201,
       "averageVolume10days": 24774666,
       "marketCap": 41433034752,
@@ -65959,8 +65959,8 @@
           "Volume": 9976752
         },
         {
-          "Close": NaN,
-          "Volume": 10352895
+          "Close": 16.979999542236328,
+          "Volume": 10325185
         }
       ],
       "heldPercentInsiders": 0.89388,
@@ -67483,9 +67483,9 @@
       "symbol": "NIBAS.IS",
       "name": "Nigbas Nigde Beton Sanayi Ve Ticaret A.S.",
       "shortName": "NIGBAS NIGDE BETON",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 3.8,
+      "change": 0.12,
+      "changeRate": 3.26,
       "previousClose": 3.68,
       "open": 3.7,
       "dayLow": 3.7,
@@ -67494,7 +67494,7 @@
       "fiftyTwoWeekHigh": 11.6,
       "fiftyDayAverage": 4.42,
       "twoHundredDayAverage": 5.1,
-      "volume": "27,457,933",
+      "volume": "27,425,395",
       "averageVolume": 15943762,
       "averageVolume10days": 8063630,
       "marketCap": 1231200000,
@@ -67660,8 +67660,8 @@
           "Volume": 2942779
         },
         {
-          "Close": NaN,
-          "Volume": 27457933
+          "Close": 3.799999952316284,
+          "Volume": 27425395
         }
       ],
       "heldPercentInsiders": 0.34654,
@@ -72397,9 +72397,9 @@
       "symbol": "PARSN.IS",
       "name": "Parsan Makina Parçalari Sanayii A.S.",
       "shortName": "PARSAN",
-      "price": 75.15,
-      "change": 0.55,
-      "changeRate": 0.74,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 74.6,
       "open": 75.0,
       "dayLow": 73.4,
@@ -72408,7 +72408,7 @@
       "fiftyTwoWeekHigh": 112.8,
       "fiftyDayAverage": 84.13,
       "twoHundredDayAverage": 88.52,
-      "volume": "336,359",
+      "volume": "336,810",
       "averageVolume": 634339,
       "averageVolume10days": 272951,
       "marketCap": 6522172416,
@@ -72574,8 +72574,8 @@
           "Volume": 155812
         },
         {
-          "Close": 75.1500015258789,
-          "Volume": 336359
+          "Close": NaN,
+          "Volume": 336810
         }
       ],
       "heldPercentInsiders": 0.59293,
@@ -72586,9 +72586,9 @@
       "symbol": "PASEU.IS",
       "name": "Pasifik Eurasia Lojistik Dis Ticaret A.S.",
       "shortName": "PASIFIK EURASIA LOJISTIK",
-      "price": 155.0,
-      "change": 5.0,
-      "changeRate": 3.33,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 150.0,
       "open": 149.5,
       "dayLow": 137.0,
@@ -72597,7 +72597,7 @@
       "fiftyTwoWeekHigh": 175.0,
       "fiftyDayAverage": 111.67,
       "twoHundredDayAverage": 128.8,
-      "volume": "11,254,327",
+      "volume": "11,303,139",
       "averageVolume": 14707913,
       "averageVolume10days": 12640744,
       "marketCap": 104160002048,
@@ -72763,8 +72763,8 @@
           "Volume": 36767879
         },
         {
-          "Close": 155.0,
-          "Volume": 11254327
+          "Close": NaN,
+          "Volume": 11303139
         }
       ],
       "heldPercentInsiders": 0.4725,
@@ -79768,9 +79768,9 @@
       "symbol": "SAYAS.IS",
       "name": "Say Yenilenebilir Enerji Ekipmanlari Sanayi ve Ticaret A.S.",
       "shortName": "SAY YENILENEBILIR ENERJI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 48.04,
+      "change": 2.94,
+      "changeRate": 6.52,
       "previousClose": 45.1,
       "open": 45.14,
       "dayLow": 44.72,
@@ -79779,7 +79779,7 @@
       "fiftyTwoWeekHigh": 71.5,
       "fiftyDayAverage": 51.67,
       "twoHundredDayAverage": 46.18,
-      "volume": "1,881,047",
+      "volume": "1,801,425",
       "averageVolume": 2548476,
       "averageVolume10days": 2139670,
       "marketCap": 3711090176,
@@ -79945,8 +79945,8 @@
           "Volume": 1370598
         },
         {
-          "Close": NaN,
-          "Volume": 1881047
+          "Close": 48.040000915527344,
+          "Volume": 1801425
         }
       ],
       "heldPercentInsiders": 0.42608002,
@@ -80524,9 +80524,9 @@
       "symbol": "SEKFK.IS",
       "name": "Seker Finansal Kiralama A.S.",
       "shortName": "SEKER FIN. KIR.",
-      "price": 4.92,
-      "change": 0.09,
-      "changeRate": 1.86,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 4.83,
       "open": 4.83,
       "dayLow": 4.78,
@@ -80701,7 +80701,7 @@
           "Volume": 281091
         },
         {
-          "Close": 4.920000076293945,
+          "Close": NaN,
           "Volume": 677226
         }
       ],
@@ -83737,9 +83737,9 @@
       "symbol": "SUMAS.IS",
       "name": "Sumas Suni Tahta ve Mobilya Sanayi A.S.",
       "shortName": "SUMAS SUNI TAHTA",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 300.0,
+      "change": -2.75,
+      "changeRate": -0.91,
       "previousClose": 302.75,
       "open": 286.25,
       "dayLow": 286.25,
@@ -83914,7 +83914,7 @@
           "Volume": 3272
         },
         {
-          "Close": NaN,
+          "Close": 300.0,
           "Volume": 6961
         }
       ],
@@ -85438,9 +85438,9 @@
       "symbol": "TERA.IS",
       "name": "Tera Yatirim Menkul Degerler A.S.",
       "shortName": "TERA YATIRIM MENKUL DEGERLER",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 180.0,
+      "change": 9.6,
+      "changeRate": 5.63,
       "previousClose": 170.4,
       "open": 171.4,
       "dayLow": 171.3,
@@ -85449,7 +85449,7 @@
       "fiftyTwoWeekHigh": 401.25,
       "fiftyDayAverage": 178.1,
       "twoHundredDayAverage": 238.87,
-      "volume": "13,935,559",
+      "volume": "13,892,555",
       "averageVolume": 15885964,
       "averageVolume10days": 11558285,
       "marketCap": 125999996928,
@@ -85615,8 +85615,8 @@
           "Volume": 7221068
         },
         {
-          "Close": NaN,
-          "Volume": 13935559
+          "Close": 180.0,
+          "Volume": 13892555
         }
       ],
       "heldPercentInsiders": 0.65586996,
@@ -88489,7 +88489,7 @@
       "description": "Türker Proje Gayrimenkul ve Yatirim Gelistirme A.S., owns and develops real estate properties in Turkey. The company was formerly known as Mutlu Yatirim Proje ve Gayrimenkul Gelistirme A.S. and changed its name to Türker Proje Gayrimenkul ve Yatirim Gelistirme A.S. in May 2015. The company was incorporated in 2013 and is headquartered in Istanbul, Turkey. Türker Proje Gayrimenkul ve Yatirim Gelistirme A.S. operates as a subsidiary of Turker Yatirim Holding A.S.",
       "pe": 1298.0,
       "forwardPE": null,
-      "priceToBook": 1.4983262,
+      "priceToBook": 1.3671072,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": null,
@@ -88508,7 +88508,7 @@
       "quickRatio": 4.529,
       "eps": 0.02,
       "forwardEps": null,
-      "bookValue": 17.326,
+      "bookValue": 18.989,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -89218,9 +89218,9 @@
       "symbol": "ULUSE.IS",
       "name": "Ulusoy Elektrik Imalat Taahhüt ve Ticaret A.S.",
       "shortName": "ULUSOY ELEKTRIK",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 261.0,
+      "change": -5.0,
+      "changeRate": -1.88,
       "previousClose": 266.0,
       "open": 267.0,
       "dayLow": 260.0,
@@ -89229,7 +89229,7 @@
       "fiftyTwoWeekHigh": 367.25,
       "fiftyDayAverage": 312.81,
       "twoHundredDayAverage": 218.53,
-      "volume": "113,431",
+      "volume": "111,996",
       "averageVolume": 600938,
       "averageVolume10days": 234309,
       "marketCap": 20879998976,
@@ -89395,8 +89395,8 @@
           "Volume": 137161
         },
         {
-          "Close": NaN,
-          "Volume": 113431
+          "Close": 261.0,
+          "Volume": 111996
         }
       ],
       "heldPercentInsiders": 0.93693,
@@ -89407,9 +89407,9 @@
       "symbol": "ULUUN.IS",
       "name": "Ulusoy Un Sanayi ve Ticaret A.S.",
       "shortName": "ULUSOY UN SANAYI",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 8.06,
+      "change": -0.24,
+      "changeRate": -2.89,
       "previousClose": 8.3,
       "open": 8.3,
       "dayLow": 7.97,
@@ -89418,7 +89418,7 @@
       "fiftyTwoWeekHigh": 10.79,
       "fiftyDayAverage": 8.9,
       "twoHundredDayAverage": 7.85,
-      "volume": "15,477,310",
+      "volume": "15,172,935",
       "averageVolume": 12360776,
       "averageVolume10days": 15860645,
       "marketCap": 6045000192,
@@ -89584,8 +89584,8 @@
           "Volume": 8569340
         },
         {
-          "Close": NaN,
-          "Volume": 15477310
+          "Close": 8.0600004196167,
+          "Volume": 15172935
         }
       ],
       "heldPercentInsiders": 0.61119,
@@ -90163,9 +90163,9 @@
       "symbol": "VAKFN.IS",
       "name": "Vakif Finansal Kiralama A.S.",
       "shortName": "VAKIF FIN. KIR.",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 1.21,
+      "change": 0.02,
+      "changeRate": 1.68,
       "previousClose": 1.19,
       "open": 1.21,
       "dayLow": 1.17,
@@ -90174,7 +90174,7 @@
       "fiftyTwoWeekHigh": 2.12,
       "fiftyDayAverage": 1.35,
       "twoHundredDayAverage": 1.55,
-      "volume": "43,641,852",
+      "volume": "43,504,135",
       "averageVolume": 78641886,
       "averageVolume10days": 31902189,
       "marketCap": 7260000256,
@@ -90340,8 +90340,8 @@
           "Volume": 30802529
         },
         {
-          "Close": NaN,
-          "Volume": 43641852
+          "Close": 1.2100000381469727,
+          "Volume": 43504135
         }
       ],
       "heldPercentInsiders": 0.52941,
@@ -90730,9 +90730,9 @@
       "symbol": "VBTYZ.IS",
       "name": "VBT Yazilim Anonim Sirketi",
       "shortName": "VBT YAZILIM",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 30.6,
+      "change": 0.92,
+      "changeRate": 3.1,
       "previousClose": 29.68,
       "open": 29.66,
       "dayLow": 29.4,
@@ -90741,7 +90741,7 @@
       "fiftyTwoWeekHigh": 35.46,
       "fiftyDayAverage": 29.57,
       "twoHundredDayAverage": 21.82,
-      "volume": "1,888,868",
+      "volume": "1,810,210",
       "averageVolume": 4332267,
       "averageVolume10days": 2825876,
       "marketCap": 3580199936,
@@ -90907,8 +90907,8 @@
           "Volume": 1222120
         },
         {
-          "Close": NaN,
-          "Volume": 1888868
+          "Close": 30.600000381469727,
+          "Volume": 1810210
         }
       ],
       "heldPercentInsiders": 0.49703997,
@@ -90919,9 +90919,9 @@
       "symbol": "VERTU.IS",
       "name": "Verusaturk Girisim Sermayesi Yatirim Ortakligi A.S.",
       "shortName": "VERUSATURK GIRISIM",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 36.0,
+      "change": 0.48,
+      "changeRate": 1.35,
       "previousClose": 35.52,
       "open": 35.6,
       "dayLow": 35.04,
@@ -90930,7 +90930,7 @@
       "fiftyTwoWeekHigh": 64.05,
       "fiftyDayAverage": 39.42,
       "twoHundredDayAverage": 39.75,
-      "volume": "236,354",
+      "volume": "233,061",
       "averageVolume": 924403,
       "averageVolume10days": 440975,
       "marketCap": 1845961088,
@@ -91096,8 +91096,8 @@
           "Volume": 350074
         },
         {
-          "Close": NaN,
-          "Volume": 236354
+          "Close": 36.0,
+          "Volume": 233061
         }
       ],
       "heldPercentInsiders": 0.63611,
@@ -91486,9 +91486,9 @@
       "symbol": "VKFYO.IS",
       "name": "Vakif Menkul Kiymet Yatirim Ortakligi A.S.",
       "shortName": "VAKIF YAT. ORT.",
-      "price": 23.9,
-      "change": 0.08,
-      "changeRate": 0.34,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 23.82,
       "open": 23.82,
       "dayLow": 23.62,
@@ -91663,7 +91663,7 @@
           "Volume": 163801
         },
         {
-          "Close": 23.899999618530273,
+          "Close": NaN,
           "Volume": 80836
         }
       ],
@@ -91675,9 +91675,9 @@
       "symbol": "VKING.IS",
       "name": "Viking Kagit ve Selüloz A.S.",
       "shortName": "VIKING KAGIT",
-      "price": 23.12,
-      "change": 0.34,
-      "changeRate": 1.49,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 22.78,
       "open": 22.96,
       "dayLow": 22.56,
@@ -91686,7 +91686,7 @@
       "fiftyTwoWeekHigh": 48.7,
       "fiftyDayAverage": 24.82,
       "twoHundredDayAverage": 29.76,
-      "volume": "491,007",
+      "volume": "491,207",
       "averageVolume": 579028,
       "averageVolume10days": 421666,
       "marketCap": 971040064,
@@ -91852,8 +91852,8 @@
           "Volume": 405238
         },
         {
-          "Close": 23.1200008392334,
-          "Volume": 491007
+          "Close": NaN,
+          "Volume": 491207
         }
       ],
       "heldPercentInsiders": 0.58781,
@@ -92053,9 +92053,9 @@
       "symbol": "YAPRK.IS",
       "name": "Yaprak Süt ve Besi Çiftlikleri Sanayi ve Ticaret A.S.",
       "shortName": "YAPRAK SUT VE BESI CIFT.",
-      "price": 10.38,
-      "change": 0.13,
-      "changeRate": 1.27,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 10.25,
       "open": 10.25,
       "dayLow": 10.13,
@@ -92064,7 +92064,7 @@
       "fiftyTwoWeekHigh": 18.1,
       "fiftyDayAverage": 12.12,
       "twoHundredDayAverage": 13.17,
-      "volume": "4,556,487",
+      "volume": "4,570,690",
       "averageVolume": 4016290,
       "averageVolume10days": 1842654,
       "marketCap": 3095315968,
@@ -92230,8 +92230,8 @@
           "Volume": 1147050
         },
         {
-          "Close": 10.380000114440918,
-          "Volume": 4556487
+          "Close": NaN,
+          "Volume": 4570690
         }
       ],
       "heldPercentInsiders": 0.71831,
@@ -92431,9 +92431,9 @@
       "symbol": "YESIL.IS",
       "name": "Yesil Yatirim Holding Anonim Sirketi",
       "shortName": "YESIL YATIRIM HOLDING",
-      "price": 1.24,
-      "change": 0.03,
-      "changeRate": 2.48,
+      "price": NaN,
+      "change": NaN,
+      "changeRate": NaN,
       "previousClose": 1.21,
       "open": 1.22,
       "dayLow": 1.21,
@@ -92442,7 +92442,7 @@
       "fiftyTwoWeekHigh": 3.52,
       "fiftyDayAverage": 1.39,
       "twoHundredDayAverage": 1.82,
-      "volume": "15,377,988",
+      "volume": "15,439,006",
       "averageVolume": 28847536,
       "averageVolume10days": 32100085,
       "marketCap": 799800000,
@@ -92608,8 +92608,8 @@
           "Volume": 20605532
         },
         {
-          "Close": 1.2400000095367432,
-          "Volume": 15377988
+          "Close": NaN,
+          "Volume": 15439006
         }
       ],
       "heldPercentInsiders": 0.08055,
@@ -93187,9 +93187,9 @@
       "symbol": "YUNSA.IS",
       "name": "Yünsa Yünlü Sanayi ve Ticaret A.S.",
       "shortName": "YUNSA",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
+      "price": 8.8,
+      "change": 0.11,
+      "changeRate": 1.27,
       "previousClose": 8.69,
       "open": 8.7,
       "dayLow": 8.59,
@@ -93198,7 +93198,7 @@
       "fiftyTwoWeekHigh": 11.2,
       "fiftyDayAverage": 9.75,
       "twoHundredDayAverage": 8.82,
-      "volume": "3,062,334",
+      "volume": "3,041,188",
       "averageVolume": 7673592,
       "averageVolume10days": 4223102,
       "marketCap": 4224000000,
@@ -93364,8 +93364,8 @@
           "Volume": 2524271
         },
         {
-          "Close": NaN,
-          "Volume": 3062334
+          "Close": 8.800000190734863,
+          "Volume": 3041188
         }
       ],
       "heldPercentInsiders": 0.57882,
