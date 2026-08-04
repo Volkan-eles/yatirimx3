@@ -1,5 +1,14 @@
 [
   {
+    "code": "VKGYO",
+    "company": "VKGYO Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%27.53",
+    "date": "10.08.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 10.08.2026"
+  },
+  {
     "code": "KTLEV",
     "company": "KTLEV Katılımevim Tasarruf Finansman A.Ş.",
     "type": "Bedelsiz",
@@ -13,18 +22,9 @@
     "company": "YEOTK Yeo Teknoloji Enerji ve Endüstri A.Ş.",
     "type": "Bedelsiz",
     "rate": "%133,80",
-    "date": "23.07.2026",
+    "date": "31.07.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "VKGYO",
-    "company": "VKGYO Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%27.53",
-    "date": "23.07.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
+    "description": "Bölünme Tarihi: 31.07.2026"
   },
   {
     "code": "KORDS",
@@ -414,24 +414,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "CVKMD",
-    "company": "CVKMD Cvk Maden İşletmeleri San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%170",
-    "date": "29.07.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 1 TL"
-  },
-  {
-    "code": "KRTEK",
-    "company": "KRTEK Karsu Tekstil San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%300",
-    "date": "29.07.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 105.301.495 TL"
-  },
-  {
     "code": "SEKFK",
     "company": "SEKFK Şeker Finansal Kiralama A.Ş.",
     "type": "Bedelli",
@@ -439,6 +421,24 @@
     "date": "23.07.2026 Bitiş : 06.08.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 23.07.2026 Bitiş : 06.08.2026 | Tutar: 1 TL"
+  },
+  {
+    "code": "KRTEK",
+    "company": "KRTEK Karsu Tekstil San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%300",
+    "date": "03.08.2026 Bitiş : 17.08.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 03.08.2026 Bitiş : 17.08.2026 | Tutar: 105.301.495 TL"
+  },
+  {
+    "code": "CVKMD",
+    "company": "CVKMD Cvk Maden İşletmeleri San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%170",
+    "date": "29.07.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 1 TL"
   },
   {
     "code": "ALGYO",
