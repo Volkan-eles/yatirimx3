@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-08T10:06:02.301335",
+  "last_update": "2026-08-08T11:04:06.541989",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -58,7 +58,7 @@
       "forwardEps": 33.84,
       "bookValue": 115.871,
       "dividendRate": 5.27,
-      "dividendYield": 4.12,
+      "dividendYield": 4.15,
       "exDividendDate": 1775520000,
       "payoutRatio": 0.18370001,
       "targetHighPrice": 205.73,
@@ -70,10 +70,6 @@
       "numberOfAnalystOpinions": 15,
       "beta": 0.513,
       "historicalData": [
-        {
-          "Close": 137.60000610351562,
-          "Volume": 30811428
-        },
         {
           "Close": 138.39999389648438,
           "Volume": 15148665
@@ -171,6 +167,10 @@
           "Volume": 35463365
         },
         {
+          "Close": 123.4000015258789,
+          "Volume": 58603631
+        },
+        {
           "Close": 127.9000015258789,
           "Volume": 43911194
         },
@@ -259,10 +259,6 @@
       "numberOfAnalystOpinions": 15,
       "beta": 0.684,
       "historicalData": [
-        {
-          "Close": 77.19999694824219,
-          "Volume": 114519923
-        },
         {
           "Close": 77.25,
           "Volume": 66354920
@@ -358,6 +354,10 @@
         {
           "Close": 61.599998474121094,
           "Volume": 168767186
+        },
+        {
+          "Close": 63.400001525878906,
+          "Volume": 181079262
         },
         {
           "Close": 66.0,
@@ -791,7 +791,7 @@
       "country": "Turkey",
       "phone": "90 216 724 10 00",
       "description": "Türkiye Vakiflar Bankasi Türk Anonim Ortakligi, together with its subsidiaries, provides corporate, commercial, SME, agricultural, and modern banking products and services in Turkey and internationally. It offers time, demand, and term deposits accounts; mortgage, car, personal, and private banking yacht loans; housing, comprehensive, motor, compulsory traffic, travel and complementary health, and compulsory earthquake insurance; and individual pension contract, private pension agreement, and life insurance products. The company also provides investment products, such as investment funds, Government Bonds and treasury bills, eurobond, bank bonds, gold trading, VakifBank Gold, stocks, VIOP, safe deposit boxes, options, dual currency deposit, contingent option, currency swap, and forward agreements. In addition, it offers export / import transactions, foreign currency transfer, Eximbank Loans, and foreign trade solutions; money transfer services; and factoring and leasing services, as well as digital banking services. The company was incorporated in 1954 and is headquartered in Istanbul, Turkey.",
-      "pe": 3.997399,
+      "pe": 4.002604,
       "forwardPE": 5.518851,
       "priceToBook": 0.89743966,
       "pegRatio": 0.45,
@@ -810,7 +810,7 @@
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
-      "eps": 7.69,
+      "eps": 7.68,
       "forwardEps": 5.57,
       "bookValue": 34.253,
       "dividendRate": null,
@@ -1726,7 +1726,7 @@
       "averageVolume": 76691297,
       "averageVolume10days": 90368548,
       "marketCap": 46937088000,
-      "enterpriseValue": 94805352448,
+      "enterpriseValue": 96034103296,
       "sharesOutstanding": 2534400000,
       "sector": "Basic Materials",
       "industry": "Chemicals",
@@ -1741,8 +1741,8 @@
       "priceToBook": 0.69107056,
       "pegRatio": 1.24,
       "priceToSales": 0.4327805,
-      "enterpriseToRevenue": 0.874,
-      "enterpriseToEbitda": -21.417,
+      "enterpriseToRevenue": 0.885,
+      "enterpriseToEbitda": -21.695,
       "profitMargins": -0.01502,
       "grossMargins": 0.01751,
       "operatingMargins": -0.00678,
@@ -1751,10 +1751,10 @@
       "totalRevenue": 108454715392,
       "revenuePerShare": 42.794,
       "totalCash": 6989085184,
-      "totalDebt": 54857420800,
-      "debtToEquity": 72.913,
+      "totalDebt": 56086175744,
+      "debtToEquity": 74.546,
       "currentRatio": 0.593,
-      "quickRatio": 0.344,
+      "quickRatio": 0.345,
       "eps": -2.59,
       "forwardEps": 4.18,
       "bookValue": 26.799,
@@ -1915,7 +1915,7 @@
       "averageVolume": 137593307,
       "averageVolume10days": 108407485,
       "marketCap": 260002168832,
-      "enterpriseValue": 320211386368,
+      "enterpriseValue": 309655470080,
       "sharesOutstanding": 6721875999,
       "sector": "Basic Materials",
       "industry": "Steel",
@@ -1929,26 +1929,26 @@
       "forwardPE": 6.279221,
       "priceToBook": 0.7914715,
       "pegRatio": 0.89,
-      "priceToSales": 1.2090305,
-      "enterpriseToRevenue": 1.489,
-      "enterpriseToEbitda": 15.186,
-      "profitMargins": 0.0021799998,
-      "grossMargins": 0.091000006,
-      "operatingMargins": 0.03257,
-      "returnOnAssets": 0.010720001,
-      "returnOnEquity": 0.0023100001,
-      "totalRevenue": 215050125312,
-      "revenuePerShare": 31.996,
-      "totalCash": 124155781120,
-      "totalDebt": 155627061248,
-      "debtToEquity": 51.051,
-      "currentRatio": 2.03,
-      "quickRatio": 1.196,
+      "priceToSales": 1.0900657,
+      "enterpriseToRevenue": 1.298,
+      "enterpriseToEbitda": 13.246,
+      "profitMargins": 0.03233,
+      "grossMargins": 0.09048,
+      "operatingMargins": 0.0374,
+      "returnOnAssets": 0.01138,
+      "returnOnEquity": 0.02681,
+      "totalRevenue": 238519713792,
+      "revenuePerShare": 35.484,
+      "totalCash": 121561497600,
+      "totalDebt": 161073823744,
+      "debtToEquity": 48.991,
+      "currentRatio": 1.784,
+      "quickRatio": 0.993,
       "eps": 0.07,
       "forwardEps": 6.16,
       "bookValue": 48.871,
       "dividendRate": 0.55,
-      "dividendYield": 1.31,
+      "dividendYield": 1.42,
       "exDividendDate": 1797292800,
       "payoutRatio": 3.5817,
       "targetHighPrice": 53.0,
@@ -1960,10 +1960,6 @@
       "numberOfAnalystOpinions": 14,
       "beta": 1.026,
       "historicalData": [
-        {
-          "Close": 40.31999969482422,
-          "Volume": 117385698
-        },
         {
           "Close": 42.119998931884766,
           "Volume": 237055734
@@ -2059,6 +2055,10 @@
         {
           "Close": 42.400001525878906,
           "Volume": 98597063
+        },
+        {
+          "Close": 42.540000915527344,
+          "Volume": 94060059
         },
         {
           "Close": 40.70000076293945,
@@ -2515,7 +2515,7 @@
       "forwardEps": 53.18,
       "bookValue": 159.369,
       "dividendRate": 9.5,
-      "dividendYield": 2.49,
+      "dividendYield": 2.46,
       "exDividendDate": 1789516800,
       "payoutRatio": 0.36169997,
       "targetHighPrice": 546.0,
@@ -2527,10 +2527,6 @@
       "numberOfAnalystOpinions": 14,
       "beta": -0.018,
       "historicalData": [
-        {
-          "Close": 375.5,
-          "Volume": 9885840
-        },
         {
           "Close": 374.5,
           "Volume": 7644194
@@ -2628,6 +2624,10 @@
           "Volume": 10230556
         },
         {
+          "Close": 390.25,
+          "Volume": 10260904
+        },
+        {
           "Close": 379.0,
           "Volume": 12448487
         },
@@ -2649,7 +2649,7 @@
         }
       ],
       "heldPercentInsiders": 0.27569,
-      "heldPercentInstitutions": 0.22396
+      "heldPercentInstitutions": 0.22424
     },
     {
       "code": "MGROS",
@@ -3271,7 +3271,7 @@
       "forwardEps": 12.54,
       "bookValue": 133.703,
       "dividendRate": 4.0,
-      "dividendYield": 3.8,
+      "dividendYield": 3.81,
       "exDividendDate": 1796774400,
       "payoutRatio": 0.4303,
       "targetHighPrice": 174.4,
@@ -3460,7 +3460,7 @@
       "forwardEps": 10.62,
       "bookValue": 135.231,
       "dividendRate": 0.59,
-      "dividendYield": 1.4,
+      "dividendYield": 1.42,
       "exDividendDate": 1780272000,
       "payoutRatio": 0.1729,
       "targetHighPrice": 65.0,
@@ -4027,7 +4027,7 @@
       "forwardEps": 27.68,
       "bookValue": 184.655,
       "dividendRate": 1.41,
-      "dividendYield": 1.6,
+      "dividendYield": 1.61,
       "exDividendDate": 1775001600,
       "payoutRatio": 0.3653,
       "targetHighPrice": 181.0,
@@ -5363,10 +5363,6 @@
       "beta": 0.689,
       "historicalData": [
         {
-          "Close": 20.799999237060547,
-          "Volume": 99793437
-        },
-        {
           "Close": 20.959999084472656,
           "Volume": 54578731
         },
@@ -5461,6 +5457,10 @@
         {
           "Close": 17.729999542236328,
           "Volume": 108956803
+        },
+        {
+          "Close": 17.90999984741211,
+          "Volume": 95983304
         },
         {
           "Close": 18.190000534057617,
@@ -6295,7 +6295,7 @@
       "forwardEps": 9.28,
       "bookValue": 335.95,
       "dividendRate": 103.0,
-      "dividendYield": 7.09,
+      "dividendYield": 7.17,
       "exDividendDate": 1776988800,
       "payoutRatio": 1.087,
       "targetHighPrice": null,
@@ -6307,10 +6307,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.418,
       "historicalData": [
-        {
-          "Close": 1601.0,
-          "Volume": 35044
-        },
         {
           "Close": 1603.0,
           "Volume": 22265
@@ -6406,6 +6402,10 @@
         {
           "Close": 1447.0,
           "Volume": 22995
+        },
+        {
+          "Close": 1443.0,
+          "Volume": 23632
         },
         {
           "Close": 1450.0,
@@ -6862,7 +6862,7 @@
       "forwardEps": 30.54,
       "bookValue": 20.152,
       "dividendRate": 0.34,
-      "dividendYield": 1.58,
+      "dividendYield": 1.57,
       "exDividendDate": 1791158400,
       "payoutRatio": 0.0866,
       "targetHighPrice": 31.6,
@@ -7064,10 +7064,6 @@
       "beta": 0.219,
       "historicalData": [
         {
-          "Close": 102.19999694824219,
-          "Volume": 5164290
-        },
-        {
           "Close": 102.4000015258789,
           "Volume": 4823792
         },
@@ -7162,6 +7158,10 @@
         {
           "Close": 87.9000015258789,
           "Volume": 4157265
+        },
+        {
+          "Close": 86.30000305175781,
+          "Volume": 8021901
         },
         {
           "Close": 87.69999694824219,
@@ -7631,10 +7631,6 @@
       "beta": -0.15,
       "historicalData": [
         {
-          "Close": 101.5,
-          "Volume": 2952002
-        },
-        {
           "Close": 105.19999694824219,
           "Volume": 5768971
         },
@@ -7731,6 +7727,10 @@
           "Volume": 3744358
         },
         {
+          "Close": 101.0,
+          "Volume": 2640710
+        },
+        {
           "Close": 102.9000015258789,
           "Volume": 3891512
         },
@@ -7819,10 +7819,6 @@
       "numberOfAnalystOpinions": 7,
       "beta": null,
       "historicalData": [
-        {
-          "Close": 39.400001525878906,
-          "Volume": 3421651
-        },
         {
           "Close": 39.880001068115234,
           "Volume": 5298277
@@ -7920,6 +7916,10 @@
           "Volume": 3904865
         },
         {
+          "Close": 39.119998931884766,
+          "Volume": 3085756
+        },
+        {
           "Close": 38.400001525878906,
           "Volume": 4425469
         },
@@ -8008,10 +8008,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.818,
       "historicalData": [
-        {
-          "Close": 13.25,
-          "Volume": 21788478
-        },
         {
           "Close": 13.079999923706055,
           "Volume": 8764557
@@ -8107,6 +8103,10 @@
         {
           "Close": 9.949999809265137,
           "Volume": 5516407
+        },
+        {
+          "Close": 10.050000190734863,
+          "Volume": 8388232
         },
         {
           "Close": 9.859999656677246,
@@ -8387,10 +8387,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 16.920000076293945,
-          "Volume": 60938611
-        },
-        {
           "Close": 15.449999809265137,
           "Volume": 78573390
         },
@@ -8487,6 +8483,10 @@
           "Volume": 13032941
         },
         {
+          "Close": 6.96999979019165,
+          "Volume": 354626162
+        },
+        {
           "Close": 6.28000020980835,
           "Volume": 959205927
         },
@@ -8563,7 +8563,7 @@
       "forwardEps": 151.14,
       "bookValue": 51.928,
       "dividendRate": 0.7,
-      "dividendYield": 2.01,
+      "dividendYield": 1.98,
       "exDividendDate": 1779235200,
       "payoutRatio": 0.4772,
       "targetHighPrice": 53.0,
@@ -8765,10 +8765,6 @@
       "beta": -0.038,
       "historicalData": [
         {
-          "Close": 11.5,
-          "Volume": 13327305
-        },
-        {
           "Close": 11.630000114440918,
           "Volume": 19935453
         },
@@ -8865,6 +8861,10 @@
           "Volume": 15126253
         },
         {
+          "Close": 13.0,
+          "Volume": 53203567
+        },
+        {
           "Close": 12.5,
           "Volume": 25459112
         },
@@ -8953,10 +8953,6 @@
       "numberOfAnalystOpinions": 6,
       "beta": -0.486,
       "historicalData": [
-        {
-          "Close": 81.25,
-          "Volume": 3018696
-        },
         {
           "Close": 82.5999984741211,
           "Volume": 2988438
@@ -9054,6 +9050,10 @@
           "Volume": 5729440
         },
         {
+          "Close": 94.1500015258789,
+          "Volume": 6927072
+        },
+        {
           "Close": 91.0,
           "Volume": 7427137
         },
@@ -9097,7 +9097,7 @@
       "averageVolume": 19197953,
       "averageVolume10days": 12437689,
       "marketCap": 20875001856,
-      "enterpriseValue": 69911633920,
+      "enterpriseValue": 17449000960,
       "sharesOutstanding": 2500000000,
       "sector": "Financial Services",
       "industry": "Banks - Regional",
@@ -9111,18 +9111,18 @@
       "forwardPE": 4.4892473,
       "priceToBook": 0.7090693,
       "pegRatio": 0.37,
-      "priceToSales": 0.80249083,
-      "enterpriseToRevenue": 2.688,
+      "priceToSales": 0.7195689,
+      "enterpriseToRevenue": 0.601,
       "enterpriseToEbitda": null,
-      "profitMargins": 0.31672,
+      "profitMargins": 0.32084998,
       "grossMargins": 0.0,
-      "operatingMargins": 0.21977,
-      "returnOnAssets": 0.01922,
-      "returnOnEquity": 0.33078998,
-      "totalRevenue": 26012760064,
-      "revenuePerShare": 10.405,
-      "totalCash": 101391228928,
-      "totalDebt": 150752854016,
+      "operatingMargins": 0.39735,
+      "returnOnAssets": 0.01994,
+      "returnOnEquity": 0.34395,
+      "totalRevenue": 29010427904,
+      "revenuePerShare": 12.488,
+      "totalCash": 156747005952,
+      "totalDebt": 153320996864,
       "debtToEquity": null,
       "currentRatio": null,
       "quickRatio": null,
@@ -9130,7 +9130,7 @@
       "forwardEps": 1.86,
       "bookValue": 11.776,
       "dividendRate": 0.26,
-      "dividendYield": 3.18,
+      "dividendYield": 3.14,
       "exDividendDate": 1776211200,
       "payoutRatio": 0.0523,
       "targetHighPrice": 11.94,
@@ -9140,12 +9140,8 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
-      "beta": 0.754,
+      "beta": null,
       "historicalData": [
-        {
-          "Close": 8.279999732971191,
-          "Volume": 32748287
-        },
         {
           "Close": 8.350000381469727,
           "Volume": 18475246
@@ -9241,6 +9237,10 @@
         {
           "Close": 7.949999809265137,
           "Volume": 10148098
+        },
+        {
+          "Close": 7.929999828338623,
+          "Volume": 10869704
         },
         {
           "Close": 8.029999732971191,
@@ -10420,7 +10420,7 @@
       "averageVolume": 185601,
       "averageVolume10days": 157422,
       "marketCap": 23875395584,
-      "enterpriseValue": 30269640704,
+      "enterpriseValue": 27506178048,
       "sharesOutstanding": 305116875,
       "sector": "Consumer Cyclical",
       "industry": "Auto Parts",
@@ -10434,21 +10434,21 @@
       "forwardPE": 4.6274395,
       "priceToBook": 0.91569734,
       "pegRatio": null,
-      "priceToSales": 0.5598384,
-      "enterpriseToRevenue": 0.71,
-      "enterpriseToEbitda": 4.234,
-      "profitMargins": -0.00931,
-      "grossMargins": 0.22787,
-      "operatingMargins": 0.11653,
-      "returnOnAssets": 0.053260002,
-      "returnOnEquity": -0.01699,
-      "totalRevenue": 42646941696,
-      "revenuePerShare": 139.681,
-      "totalCash": 9249763328,
-      "totalDebt": 15366650880,
-      "debtToEquity": 58.755,
-      "currentRatio": 1.059,
-      "quickRatio": 0.789,
+      "priceToSales": 0.5358849,
+      "enterpriseToRevenue": 0.617,
+      "enterpriseToEbitda": 3.507,
+      "profitMargins": 0.01117,
+      "grossMargins": 0.24279,
+      "operatingMargins": 0.061279997,
+      "returnOnAssets": 0.05223,
+      "returnOnEquity": 0.02033,
+      "totalRevenue": 44553216000,
+      "revenuePerShare": 146.178,
+      "totalCash": 9544260608,
+      "totalDebt": 15583570944,
+      "debtToEquity": 55.428,
+      "currentRatio": 1.049,
+      "quickRatio": 0.701,
       "eps": -1.39,
       "forwardEps": 16.91,
       "bookValue": 85.454,
@@ -10463,7 +10463,7 @@
       "recommendationMean": 2.33333,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
-      "beta": 0.073,
+      "beta": null,
       "historicalData": [
         {
           "Close": 87.30000305175781,
@@ -11600,10 +11600,6 @@
       "beta": 1.067,
       "historicalData": [
         {
-          "Close": 0.9900000095367432,
-          "Volume": 95792181
-        },
-        {
           "Close": 1.0,
           "Volume": 238570750
         },
@@ -11698,6 +11694,10 @@
         {
           "Close": 0.8399999737739563,
           "Volume": 98979615
+        },
+        {
+          "Close": 0.8700000047683716,
+          "Volume": 172566210
         },
         {
           "Close": 0.8399999737739563,
@@ -12721,7 +12721,7 @@
       "forwardEps": null,
       "bookValue": 20.428,
       "dividendRate": 0.46,
-      "dividendYield": 4.67,
+      "dividendYield": 4.64,
       "exDividendDate": 1776643200,
       "payoutRatio": 0.0941,
       "targetHighPrice": 14.03,
@@ -12877,7 +12877,7 @@
       "averageVolume": 2450396,
       "averageVolume10days": 2965861,
       "marketCap": 2811599872,
-      "enterpriseValue": 2809996544,
+      "enterpriseValue": 2803173888,
       "sharesOutstanding": 66000000,
       "sector": "Utilities",
       "industry": "Utilities - Renewable",
@@ -12891,21 +12891,21 @@
       "forwardPE": null,
       "priceToBook": 2.8407574,
       "pegRatio": null,
-      "priceToSales": 40.396465,
-      "enterpriseToRevenue": 40.373,
-      "enterpriseToEbitda": 217.134,
-      "profitMargins": -0.63178,
-      "grossMargins": 0.03799,
-      "operatingMargins": -0.55549,
-      "returnOnAssets": -0.00931,
-      "returnOnEquity": -0.0533,
-      "totalRevenue": 69600144,
-      "revenuePerShare": 1.055,
-      "totalCash": 10418177,
-      "totalDebt": 8814837,
-      "debtToEquity": 0.891,
-      "currentRatio": 1.762,
-      "quickRatio": 1.537,
+      "priceToSales": 41.932644,
+      "enterpriseToRevenue": 41.807,
+      "enterpriseToEbitda": 200.724,
+      "profitMargins": -1.20953,
+      "grossMargins": -0.046290003,
+      "operatingMargins": -0.31902,
+      "returnOnAssets": -0.01244,
+      "returnOnEquity": -0.092080005,
+      "totalRevenue": 67050384,
+      "revenuePerShare": 1.107,
+      "totalCash": 11072775,
+      "totalDebt": 2646743,
+      "debtToEquity": 0.254,
+      "currentRatio": 2.664,
+      "quickRatio": 2.334,
       "eps": -0.57,
       "forwardEps": null,
       "bookValue": 14.996,
@@ -12920,7 +12920,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.078,
+      "beta": null,
       "historicalData": [
         {
           "Close": 36.5,
@@ -13255,7 +13255,7 @@
       "averageVolume": 60266,
       "averageVolume10days": 49328,
       "marketCap": 7414199808,
-      "enterpriseValue": 8821175296,
+      "enterpriseValue": 8783640576,
       "sharesOutstanding": 10800000,
       "sector": "Industrials",
       "industry": "Specialty Industrial Machinery",
@@ -13269,22 +13269,22 @@
       "forwardPE": null,
       "priceToBook": 3.6465914,
       "pegRatio": 1.52,
-      "priceToSales": 0.97848094,
-      "enterpriseToRevenue": 1.164,
-      "enterpriseToEbitda": -43.15,
-      "profitMargins": -0.062319998,
-      "grossMargins": 0.16665001,
-      "operatingMargins": -0.0405,
-      "returnOnAssets": -0.03267,
-      "returnOnEquity": -0.20268999,
-      "totalRevenue": 7577255424,
-      "revenuePerShare": 701.598,
-      "totalCash": 531393984,
-      "totalDebt": 1938369024,
-      "debtToEquity": 95.336,
-      "currentRatio": 1.526,
-      "quickRatio": 0.851,
-      "eps": -43.73,
+      "priceToSales": 0.9977727,
+      "enterpriseToRevenue": 1.182,
+      "enterpriseToEbitda": -42.278,
+      "profitMargins": -0.07216,
+      "grossMargins": 0.16496,
+      "operatingMargins": 0.025239998,
+      "returnOnAssets": -0.04014,
+      "returnOnEquity": -0.26455,
+      "totalRevenue": 7430750208,
+      "revenuePerShare": 694.804,
+      "totalCash": 481135648,
+      "totalDebt": 1850576512,
+      "debtToEquity": 90.974,
+      "currentRatio": 1.377,
+      "quickRatio": 0.674,
+      "eps": -43.7,
       "forwardEps": null,
       "bookValue": 188.258,
       "dividendRate": 63.22,
@@ -13298,7 +13298,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.209,
+      "beta": null,
       "historicalData": [
         {
           "Close": 717.0,
@@ -13679,10 +13679,6 @@
       "beta": 0.107,
       "historicalData": [
         {
-          "Close": 49.279998779296875,
-          "Volume": 4961893
-        },
-        {
           "Close": 48.29999923706055,
           "Volume": 3335620
         },
@@ -13777,6 +13773,10 @@
         {
           "Close": 40.959999084472656,
           "Volume": 2217479
+        },
+        {
+          "Close": 41.040000915527344,
+          "Volume": 1213189
         },
         {
           "Close": 41.41999816894531,
@@ -14233,7 +14233,7 @@
       "forwardEps": 16.77,
       "bookValue": 32.344,
       "dividendRate": 8.14,
-      "dividendYield": 7.0,
+      "dividendYield": 7.27,
       "exDividendDate": 1774483200,
       "payoutRatio": 0.493,
       "targetHighPrice": 197.48,
@@ -15947,10 +15947,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 11.960000038146973,
-          "Volume": 198554
-        },
-        {
           "Close": 11.789999961853027,
           "Volume": 136573
         },
@@ -16045,6 +16041,10 @@
         {
           "Close": 10.15999984741211,
           "Volume": 269647
+        },
+        {
+          "Close": 10.699999809265137,
+          "Volume": 568221
         },
         {
           "Close": 10.600000381469727,
@@ -18013,7 +18013,7 @@
       "forwardEps": null,
       "bookValue": 20.266,
       "dividendRate": 0.35,
-      "dividendYield": 1.18,
+      "dividendYield": 1.07,
       "exDividendDate": 1780272000,
       "payoutRatio": 0.0128,
       "targetHighPrice": null,
@@ -18958,7 +18958,7 @@
       "forwardEps": null,
       "bookValue": 11.872,
       "dividendRate": 1.06,
-      "dividendYield": 8.01,
+      "dividendYield": 7.95,
       "exDividendDate": 1792540800,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
@@ -19147,7 +19147,7 @@
       "forwardEps": null,
       "bookValue": 47.885,
       "dividendRate": 2.0,
-      "dividendYield": 4.52,
+      "dividendYield": 4.58,
       "exDividendDate": 1784505600,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
@@ -25569,7 +25569,7 @@
       "debtToEquity": 177.587,
       "currentRatio": 0.621,
       "quickRatio": 0.579,
-      "eps": -205.3,
+      "eps": -205.25,
       "forwardEps": null,
       "bookValue": 134.86,
       "dividendRate": null,
@@ -27062,7 +27062,7 @@
       "country": "Turkey",
       "phone": "90 242 229 00 54",
       "description": "CW Enerji Mühendislik Ticaret ve Sanayi Anonim Sirketi operates in the photovoltaic power generation sector in Turkey. It provides solar panels; solar packs; heating, cooling, and hot water products; inverters; solar equipment; electric vehicle chargers; charge controllers; energy storage solutions; and solar lighting solutions. The company also offers solar powered camera systems and signages, LED lighting systems, solar-powered irrigation systems, off-grid and on-grid solutions, technical service and maintenance agreement, and application and follow-up counseling services. CW Enerji Mühendislik Ticaret ve Sanayi Anonim Sirketi was incorporated in 2010 and is headquartered in Antalya, Turkey.",
-      "pe": 19.537037,
+      "pe": 17.583332,
       "forwardPE": null,
       "priceToBook": 2.56691,
       "pegRatio": null,
@@ -27081,7 +27081,7 @@
       "debtToEquity": 55.867,
       "currentRatio": 1.147,
       "quickRatio": 0.568,
-      "eps": 2.16,
+      "eps": 2.4,
       "forwardEps": null,
       "bookValue": 16.44,
       "dividendRate": null,
@@ -30298,7 +30298,7 @@
       "forwardEps": 108.59,
       "bookValue": 308.219,
       "dividendRate": 30.0,
-      "dividendYield": 15.77,
+      "dividendYield": 15.44,
       "exDividendDate": 1786579200,
       "payoutRatio": 2.0269,
       "targetHighPrice": 320.0,
@@ -31067,10 +31067,6 @@
       "beta": -0.165,
       "historicalData": [
         {
-          "Close": 24.8799991607666,
-          "Volume": 524592
-        },
-        {
           "Close": 24.68000030517578,
           "Volume": 323624
         },
@@ -31165,6 +31161,10 @@
         {
           "Close": 21.139999389648438,
           "Volume": 260760
+        },
+        {
+          "Close": 21.520000457763672,
+          "Volume": 324346
         },
         {
           "Close": 21.200000762939453,
@@ -33524,10 +33524,6 @@
       "beta": -0.24,
       "historicalData": [
         {
-          "Close": 85.69999694824219,
-          "Volume": 17367
-        },
-        {
           "Close": 84.3499984741211,
           "Volume": 7876
         },
@@ -33622,6 +33618,10 @@
         {
           "Close": 69.19999694824219,
           "Volume": 8889
+        },
+        {
+          "Close": 68.0999984741211,
+          "Volume": 6209
         },
         {
           "Close": 69.25,
@@ -35779,7 +35779,7 @@
       "forwardEps": null,
       "bookValue": 14.325,
       "dividendRate": 0.48,
-      "dividendYield": 1.08,
+      "dividendYield": 1.07,
       "exDividendDate": 1758499200,
       "payoutRatio": 0.2969,
       "targetHighPrice": null,
@@ -37115,10 +37115,6 @@
       "beta": 0.758,
       "historicalData": [
         {
-          "Close": 80.25,
-          "Volume": 36194977
-        },
-        {
           "Close": 78.19999694824219,
           "Volume": 35217043
         },
@@ -37215,6 +37211,10 @@
           "Volume": 17732102
         },
         {
+          "Close": 85.0999984741211,
+          "Volume": 7496930
+        },
+        {
           "Close": 90.0999984741211,
           "Volume": 25602389
         },
@@ -37268,7 +37268,7 @@
       "country": "Turkey",
       "phone": "90 222 236 11 00",
       "description": "Europen Endustri Insaat Sanayi ve Ticaret A.S. provides PVC profiles, door and window, and glass products in Turkey. It offers profile, sheet, panel, PVC window, PVC door, refrigerator glass, oven glasses, furniture glass, and solar panel glass products. The company was founded in 1965 and is headquartered in Eskisehir, Turkey.",
-      "pe": 19.85,
+      "pe": 20.894737,
       "forwardPE": null,
       "priceToBook": 0.7338263,
       "pegRatio": null,
@@ -37287,7 +37287,7 @@
       "debtToEquity": 19.815,
       "currentRatio": 1.58,
       "quickRatio": 1.077,
-      "eps": 0.2,
+      "eps": 0.19,
       "forwardEps": null,
       "bookValue": 5.41,
       "dividendRate": null,
@@ -37665,11 +37665,11 @@
       "debtToEquity": 48.748,
       "currentRatio": 1.373,
       "quickRatio": 0.075,
-      "eps": -0.82,
+      "eps": -0.83,
       "forwardEps": null,
       "bookValue": 2.767,
       "dividendRate": 0.03,
-      "dividendYield": 1.04,
+      "dividendYield": 1.05,
       "exDividendDate": 1766620800,
       "payoutRatio": 0.048899997,
       "targetHighPrice": null,
@@ -40126,7 +40126,7 @@
       "forwardEps": null,
       "bookValue": 2.611,
       "dividendRate": 0.03,
-      "dividendYield": 0.36,
+      "dividendYield": 0.35,
       "exDividendDate": 1785801600,
       "payoutRatio": 0.1864,
       "targetHighPrice": null,
@@ -40315,7 +40315,7 @@
       "forwardEps": null,
       "bookValue": 5.485,
       "dividendRate": 0.16,
-      "dividendYield": 2.99,
+      "dividendYield": 2.96,
       "exDividendDate": 1779235200,
       "payoutRatio": 0.16790001,
       "targetHighPrice": null,
@@ -42016,7 +42016,7 @@
       "forwardEps": null,
       "bookValue": 31.101,
       "dividendRate": 1.23,
-      "dividendYield": 5.39,
+      "dividendYield": 5.37,
       "exDividendDate": 1786320000,
       "payoutRatio": 0.3065,
       "targetHighPrice": 36.11,
@@ -42361,7 +42361,7 @@
       "averageVolume": 32114221,
       "averageVolume10days": 10017357,
       "marketCap": 3860800000,
-      "enterpriseValue": 4353947136,
+      "enterpriseValue": 4422901760,
       "sharesOutstanding": 1520000000,
       "sector": "Consumer Cyclical",
       "industry": "Auto Parts",
@@ -42375,21 +42375,21 @@
       "forwardPE": null,
       "priceToBook": 1.6612164,
       "pegRatio": null,
-      "priceToSales": 0.14840926,
-      "enterpriseToRevenue": 0.167,
-      "enterpriseToEbitda": 8.27,
-      "profitMargins": -0.11635,
-      "grossMargins": 0.03611,
-      "operatingMargins": 0.00953,
-      "returnOnAssets": -0.01705,
-      "returnOnEquity": -0.9254,
-      "totalRevenue": 26014547968,
-      "revenuePerShare": 17.115,
-      "totalCash": 1423393152,
-      "totalDebt": 1916540160,
-      "debtToEquity": 82.455,
-      "currentRatio": 0.803,
-      "quickRatio": 0.456,
+      "priceToSales": 0.15155336,
+      "enterpriseToRevenue": 0.174,
+      "enterpriseToEbitda": 9.169,
+      "profitMargins": -0.12324,
+      "grossMargins": 0.03273,
+      "operatingMargins": -0.09571999,
+      "returnOnAssets": -0.02086,
+      "returnOnEquity": -1.1364,
+      "totalRevenue": 25474854912,
+      "revenuePerShare": 16.76,
+      "totalCash": 1077425280,
+      "totalDebt": 1639526912,
+      "debtToEquity": 100.907,
+      "currentRatio": 0.74,
+      "quickRatio": 0.401,
       "eps": -1.99,
       "forwardEps": null,
       "bookValue": 1.529,
@@ -42404,7 +42404,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 1,
-      "beta": 0.212,
+      "beta": null,
       "historicalData": [
         {
           "Close": 3.1813809871673584,
@@ -43541,10 +43541,6 @@
       "beta": 0.743,
       "historicalData": [
         {
-          "Close": 1.0299999713897705,
-          "Volume": 80768631
-        },
-        {
           "Close": 1.0199999809265137,
           "Volume": 120002629
         },
@@ -43639,6 +43635,10 @@
         {
           "Close": 0.9700000286102295,
           "Volume": 140622714
+        },
+        {
+          "Close": 0.9800000190734863,
+          "Volume": 80643303
         },
         {
           "Close": 0.9700000286102295,
@@ -49354,7 +49354,7 @@
       "averageVolume": 29783,
       "averageVolume10days": 15838,
       "marketCap": 2453318400,
-      "enterpriseValue": 7489484800,
+      "enterpriseValue": 5213402112,
       "sharesOutstanding": 32387040,
       "sector": "Consumer Cyclical",
       "industry": "Furnishings, Fixtures & Appliances",
@@ -49368,26 +49368,26 @@
       "forwardPE": null,
       "priceToBook": 0.34052292,
       "pegRatio": null,
-      "priceToSales": 0.27309293,
-      "enterpriseToRevenue": 0.834,
-      "enterpriseToEbitda": 7.815,
-      "profitMargins": -0.03644,
-      "grossMargins": 0.219,
-      "operatingMargins": 0.12738,
-      "returnOnAssets": 0.03287,
-      "returnOnEquity": -0.053179998,
-      "totalRevenue": 8983456768,
+      "priceToSales": 0.29938462,
+      "enterpriseToRevenue": 0.636,
+      "enterpriseToEbitda": 5.82,
+      "profitMargins": 0.123380005,
+      "grossMargins": 0.24537,
+      "operatingMargins": 0.10957,
+      "returnOnAssets": 0.03616,
+      "returnOnEquity": 0.14023,
+      "totalRevenue": 8194537472,
       "revenuePerShare": 277.378,
-      "totalCash": 1329036672,
-      "totalDebt": 4777210368,
-      "debtToEquity": 54.332,
-      "currentRatio": 1.399,
-      "quickRatio": 0.708,
+      "totalCash": 1046581312,
+      "totalDebt": 1905490816,
+      "debtToEquity": 18.207,
+      "currentRatio": 1.423,
+      "quickRatio": 0.783,
       "eps": 0.81,
       "forwardEps": null,
       "bookValue": 222.452,
       "dividendRate": 1.0,
-      "dividendYield": 1.45,
+      "dividendYield": 1.32,
       "exDividendDate": 1783900800,
       "payoutRatio": 1.0235,
       "targetHighPrice": null,
@@ -49397,7 +49397,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.628,
+      "beta": null,
       "historicalData": [
         {
           "Close": 69.97101593017578,
@@ -52286,7 +52286,7 @@
       "debtToEquity": 372.213,
       "currentRatio": 0.768,
       "quickRatio": 0.406,
-      "eps": -1.6,
+      "eps": -1.57,
       "forwardEps": null,
       "bookValue": 1.37,
       "dividendRate": null,
@@ -53046,7 +53046,7 @@
       "forwardEps": null,
       "bookValue": 8.552,
       "dividendRate": 0.02,
-      "dividendYield": 0.09,
+      "dividendYield": 0.08,
       "exDividendDate": 1794268800,
       "payoutRatio": 0.21450001,
       "targetHighPrice": null,
@@ -57582,7 +57582,7 @@
       "forwardEps": null,
       "bookValue": 2.622,
       "dividendRate": 0.04,
-      "dividendYield": 1.53,
+      "dividendYield": 1.54,
       "exDividendDate": 1778803200,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
@@ -58716,7 +58716,7 @@
       "forwardEps": null,
       "bookValue": 200.075,
       "dividendRate": 16.0,
-      "dividendYield": 0.64,
+      "dividendYield": 0.62,
       "exDividendDate": 1776643200,
       "payoutRatio": 38.081898,
       "targetHighPrice": null,
@@ -59073,7 +59073,7 @@
       "description": "Kutahya Seker Fabrikasi Anonim Sirketi produces and sells crystal sugar from beet in Turkey. It offers molasses and fresh pulps. The company was formerly known as Baha Esat Tekand Seker Fabrikasi A.S. and changed its name to Kutahya Seker Fabrikasi Anonim Sirketi in January 2005. Kutahya Seker Fabrikasi Anonim Sirketi was founded in 1953 and is based in Kütahya, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.64881927,
+      "priceToBook": 0.7075434,
       "pegRatio": null,
       "priceToSales": 2.6442814,
       "enterpriseToRevenue": 2.517,
@@ -59090,9 +59090,9 @@
       "debtToEquity": 2.268,
       "currentRatio": 4.955,
       "quickRatio": 1.199,
-      "eps": -3.37,
+      "eps": -3.33,
       "forwardEps": null,
-      "bookValue": 135.631,
+      "bookValue": 124.374,
       "dividendRate": 6.52,
       "dividendYield": 7.32,
       "exDividendDate": 1767139200,
@@ -60606,7 +60606,7 @@
       "forwardEps": null,
       "bookValue": 10.954,
       "dividendRate": 0.46,
-      "dividendYield": 3.4,
+      "dividendYield": 3.45,
       "exDividendDate": 1790553600,
       "payoutRatio": 0.643,
       "targetHighPrice": 25.27,
@@ -61140,7 +61140,7 @@
       "averageVolume": 82514,
       "averageVolume10days": 28569,
       "marketCap": 8467247104,
-      "enterpriseValue": 7743185408,
+      "enterpriseValue": 6431739904,
       "sharesOutstanding": 8640048,
       "sector": "Consumer Cyclical",
       "industry": "Lodging",
@@ -61150,26 +61150,26 @@
       "country": "Turkey",
       "phone": "90 242 248 68 00",
       "description": "Marmaris Altinyunus Turistik Tesisler A.S. engages in hotels and tourism services in Turkey. It operates tourist hotels in Antalya and Marmaris; and leases tourist facilities. The company was incorporated in 1986 and is based in Antalya, Turkey.",
-      "pe": 232.7791,
+      "pe": 231.1321,
       "forwardPE": null,
       "priceToBook": 1.5770383,
       "pegRatio": null,
-      "priceToSales": 169.70012,
-      "enterpriseToRevenue": 155.189,
-      "enterpriseToEbitda": 505.64,
-      "profitMargins": 0.53687,
-      "grossMargins": 0.40835997,
-      "operatingMargins": -0.4799,
-      "returnOnAssets": -0.00148,
-      "returnOnEquity": 0.00661,
-      "totalRevenue": 49895352,
-      "revenuePerShare": 6.756,
-      "totalCash": 784541696,
+      "priceToSales": 160.51611,
+      "enterpriseToRevenue": 121.928,
+      "enterpriseToEbitda": 610.054,
+      "profitMargins": 0.046090003,
+      "grossMargins": 0.39878,
+      "operatingMargins": -0.81262,
+      "returnOnAssets": -0.00247,
+      "returnOnEquity": 0.00056,
+      "totalRevenue": 52750136,
+      "revenuePerShare": 7.162,
+      "totalCash": 396009024,
       "totalDebt": 0,
       "debtToEquity": null,
-      "currentRatio": 2.505,
-      "quickRatio": 2.34,
-      "eps": 4.21,
+      "currentRatio": 0.812,
+      "quickRatio": 0.807,
+      "eps": 4.24,
       "forwardEps": null,
       "bookValue": 621.418,
       "dividendRate": null,
@@ -61183,7 +61183,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.261,
+      "beta": null,
       "historicalData": [
         {
           "Close": 1180.0,
@@ -63819,7 +63819,7 @@
       "forwardEps": null,
       "bookValue": 14.046,
       "dividendRate": 0.21,
-      "dividendYield": 1.11,
+      "dividendYield": 1.08,
       "exDividendDate": 1785196800,
       "payoutRatio": 0.066300005,
       "targetHighPrice": null,
@@ -65865,7 +65865,7 @@
       "averageVolume": 698208,
       "averageVolume10days": 892902,
       "marketCap": 81232445440,
-      "enterpriseValue": 97316372480,
+      "enterpriseValue": 97316216832,
       "sharesOutstanding": 102122233,
       "sector": "Healthcare",
       "industry": "Medical Care Facilities",
@@ -65875,26 +65875,26 @@
       "country": "Turkey",
       "phone": "90 212 227 55 55",
       "description": "MLP Saglik Hizmetleri A.S. provides healthcare services in Turkey and internationally. It provides treatment, laboratory, and hospital services, as well as trades in medical products. The company was formerly known as Medical Park. MLP Saglik Hizmetleri A.S. was founded in 1993 and is based in Istanbul, Turkey.",
-      "pe": 14.368687,
+      "pe": 14.359017,
       "forwardPE": 8.798969,
       "priceToBook": 2.0374694,
       "pegRatio": null,
-      "priceToSales": 1.4232339,
+      "priceToSales": 1.4232125,
       "enterpriseToRevenue": 1.705,
-      "enterpriseToEbitda": 7.65,
+      "enterpriseToEbitda": 7.476,
       "profitMargins": 0.09937,
-      "grossMargins": 0.27754998,
-      "operatingMargins": 0.1498,
-      "returnOnAssets": 0.07108,
-      "returnOnEquity": 0.1693,
-      "totalRevenue": 57075965952,
-      "revenuePerShare": 288.427,
-      "totalCash": 8256000000,
-      "totalDebt": 21506000896,
-      "debtToEquity": 46.369,
+      "grossMargins": 0.27772,
+      "operatingMargins": 0.14292,
+      "returnOnAssets": 0.0749,
+      "returnOnEquity": 0.16931999,
+      "totalRevenue": 57076822016,
+      "revenuePerShare": 298.813,
+      "totalCash": 8255897088,
+      "totalDebt": 21506168832,
+      "debtToEquity": 46.37,
       "currentRatio": 0.839,
-      "quickRatio": 0.702,
-      "eps": 29.7,
+      "quickRatio": 0.731,
+      "eps": 29.72,
       "forwardEps": 48.5,
       "bookValue": 209.451,
       "dividendRate": null,
@@ -65908,7 +65908,7 @@
       "recommendationMean": 1.42857,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 7,
-      "beta": null,
+      "beta": -0.067,
       "historicalData": [
         {
           "Close": 426.0,
@@ -68166,7 +68166,7 @@
       "forwardEps": null,
       "bookValue": 151.515,
       "dividendRate": 22.5,
-      "dividendYield": 10.18,
+      "dividendYield": 10.17,
       "exDividendDate": 1773705600,
       "payoutRatio": 45.9184,
       "targetHighPrice": null,
@@ -69867,7 +69867,7 @@
       "forwardEps": null,
       "bookValue": 7.536,
       "dividendRate": 0.17,
-      "dividendYield": 2.17,
+      "dividendYield": 2.19,
       "exDividendDate": 1792972800,
       "payoutRatio": 0.5076,
       "targetHighPrice": null,
@@ -70222,7 +70222,7 @@
       "country": "Turkey",
       "phone": "90 850 888 88 17",
       "description": "Otto Holding A.S., through its subsidiaries, engages in media, film, and content production activities in Turkey. It is also involved in the acquisition and marketing of copyright, broadcasting, reproduction, distribution, and the acquisition and/or leasing of rights under licensing agreements; development and maintenance of agriculture and livestock; information technology, gaming, and electrification; and leasing and/or operation of real estate. The company was formerly known as Taç Tarim Ürünleri Hayvancilik Gida Sanayi ve Ticaret A.S. and changed its name to Otto Holding A.S. in November 2021. Otto Holding A.S. was incorporated in 2011 and is headquartered in Istanbul, Turkey.",
-      "pe": 148.33333,
+      "pe": 152.13676,
       "forwardPE": null,
       "priceToBook": 2.0875602,
       "pegRatio": null,
@@ -70241,7 +70241,7 @@
       "debtToEquity": 1.026,
       "currentRatio": 1.408,
       "quickRatio": 1.157,
-      "eps": 1.2,
+      "eps": 1.17,
       "forwardEps": null,
       "bookValue": 85.267,
       "dividendRate": null,
@@ -70447,10 +70447,6 @@
       "beta": -0.695,
       "historicalData": [
         {
-          "Close": 20.579999923706055,
-          "Volume": 14279624
-        },
-        {
           "Close": 20.81999969482422,
           "Volume": 14436563
         },
@@ -70545,6 +70541,10 @@
         {
           "Close": 20.920000076293945,
           "Volume": 24646672
+        },
+        {
+          "Close": 20.299999237060547,
+          "Volume": 22216266
         },
         {
           "Close": 20.280000686645508,
@@ -71001,7 +71001,7 @@
       "forwardEps": null,
       "bookValue": 43.309,
       "dividendRate": 3.77,
-      "dividendYield": 11.12,
+      "dividendYield": 11.04,
       "exDividendDate": 1778025600,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
@@ -71379,7 +71379,7 @@
       "forwardEps": 9.45,
       "bookValue": 49.334,
       "dividendRate": 0.2,
-      "dividendYield": 1.56,
+      "dividendYield": 1.58,
       "exDividendDate": 1782259200,
       "payoutRatio": 0.0,
       "targetHighPrice": 24.0,
@@ -71757,7 +71757,7 @@
       "forwardEps": null,
       "bookValue": 10.215,
       "dividendRate": 0.62,
-      "dividendYield": 1.55,
+      "dividendYield": 1.49,
       "exDividendDate": 1783296000,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
@@ -73660,10 +73660,6 @@
       "beta": -0.036,
       "historicalData": [
         {
-          "Close": 11.9399995803833,
-          "Volume": 1687614
-        },
-        {
           "Close": 12.069999694824219,
           "Volume": 1609572
         },
@@ -73758,6 +73754,10 @@
         {
           "Close": 10.75,
           "Volume": 1649858
+        },
+        {
+          "Close": 10.779999732971191,
+          "Volume": 1545576
         },
         {
           "Close": 10.670000076293945,
@@ -74592,7 +74592,7 @@
       "forwardEps": null,
       "bookValue": 43.084,
       "dividendRate": 0.69,
-      "dividendYield": 1.49,
+      "dividendYield": 1.46,
       "exDividendDate": 1783468800,
       "payoutRatio": 0.045700002,
       "targetHighPrice": null,
@@ -74983,10 +74983,6 @@
       "beta": 1.211,
       "historicalData": [
         {
-          "Close": 20.440000534057617,
-          "Volume": 2825611
-        },
-        {
           "Close": 20.68000030517578,
           "Volume": 3839199
         },
@@ -75083,6 +75079,10 @@
           "Volume": 919303
         },
         {
+          "Close": 21.100000381469727,
+          "Volume": 1216817
+        },
+        {
           "Close": 21.020000457763672,
           "Volume": 1374750
         },
@@ -75136,7 +75136,7 @@
       "country": "Turkey",
       "phone": "90 216 504 02 75",
       "description": "Politeknik Metal Sanayi ve Ticaret Anonim Sirketi production and sale of aluminum surface treatment chemicals and the installation and sale of machinery and equipment in Turkey. The company offers aluminum surface finishing chemicals, turnkey anodizing lines, and equipment supply services, as well as engineering/design/consultancy services for anodizing lines. It also exports its products. The company was incorporated in 1985 and is headquartered in Istanbul, Turkey. Politeknik Metal Sanayi ve Ticaret Anonim Sirketi operates as a subsidiary of Coventya Beteiligung GmbH.",
-      "pe": 3344.6968,
+      "pe": 3370.2292,
       "forwardPE": null,
       "priceToBook": 541.3857,
       "pegRatio": null,
@@ -75155,7 +75155,7 @@
       "debtToEquity": 0.091,
       "currentRatio": 3.218,
       "quickRatio": 2.621,
-      "eps": 1.32,
+      "eps": 1.31,
       "forwardEps": null,
       "bookValue": 8.155,
       "dividendRate": null,
@@ -75171,10 +75171,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.227,
       "historicalData": [
-        {
-          "Close": 5017.5,
-          "Volume": 3198
-        },
         {
           "Close": 5325.0,
           "Volume": 24537
@@ -75270,6 +75266,10 @@
         {
           "Close": 4525.0,
           "Volume": 10606
+        },
+        {
+          "Close": 4550.0,
+          "Volume": 5390
         },
         {
           "Close": 4305.0,
@@ -76104,7 +76104,7 @@
       "forwardEps": null,
       "bookValue": 29.864,
       "dividendRate": 1.71,
-      "dividendYield": 1.08,
+      "dividendYield": 1.1,
       "exDividendDate": 1767139200,
       "payoutRatio": 0.3189,
       "targetHighPrice": null,
@@ -77215,7 +77215,7 @@
       "country": "Turkey",
       "phone": "90 312 840 10 00",
       "description": "Ronesans Gayrimenkul Yatirim A.S., together with its subsidiaries, operates as the commercial real estate development and investment company in Türkiye. The company develops and manages shopping malls, office buildings, and other commercial real estate projects, as well as residential properties. It also provides management and consulting and asset management services, as well as rents investment properties. Ronesans Gayrimenkul Yatirim A.S. was founded in 2006 and is headquartered in Ankara, Turkey. Ronesans Gayrimenkul Yatirim A.S. operates as a subsidiary of Ronesans Varlik ve Proje Yatirimlari A.S.",
-      "pe": 3.6049027,
+      "pe": 3.5778174,
       "forwardPE": null,
       "priceToBook": 0.4438822,
       "pegRatio": null,
@@ -77234,11 +77234,11 @@
       "debtToEquity": 24.528,
       "currentRatio": 1.885,
       "quickRatio": 1.749,
-      "eps": 55.48,
+      "eps": 55.9,
       "forwardEps": null,
       "bookValue": 450.57,
       "dividendRate": 7.82,
-      "dividendYield": 3.88,
+      "dividendYield": 3.91,
       "exDividendDate": 1798675200,
       "payoutRatio": 0.0293,
       "targetHighPrice": 310.1,
@@ -79294,7 +79294,7 @@
       "country": "Turkey",
       "phone": "90 342 211 30 00",
       "description": "Sanko Pazarlama Ithalat Ihracat Anonim Sirketi develops, purchases, imports, exports, markets, and sells dyed and undyed yarns made from artificial and synthetic fibers in Turkey and internationally. The company offers hydrophilic cotton weaving, knitting, and garment industrial goods and other textile products. It also provides ring carded and combed, melange, slub, core spun, dyed, core twist, and organic cotton yarns; and knitted fabrics, such as single jersey, rib, interlock, two and three thread fleece, terry and towel, and pique fabrics, as well as knitted fabrics with elasthane. In addition, the company offers woven fabrics, including stretch, novelty, and overdyed denim fabrics; sportswear; cotton woven fabrics; cot-stretch fabrics; color woven products; and curduroy fabrics, as well as printed fabrics. The company was formerly known as Temko Pazarlama Sanayi ve Ticaret Anonim Sirketi and changed its name to Sanko Pazarlama Ithalat Ihracat Anonim Sirketi in March 1998. Sanko Pazarlama Ithalat Ihracat Anonim Sirketi was incorporated in 1992 and is headquartered in Gaziantep, Turkey.",
-      "pe": 7.7881355,
+      "pe": 7.95671,
       "forwardPE": null,
       "priceToBook": 1.12306,
       "pegRatio": null,
@@ -79313,7 +79313,7 @@
       "debtToEquity": null,
       "currentRatio": 1.587,
       "quickRatio": 1.583,
-      "eps": 2.36,
+      "eps": 2.31,
       "forwardEps": null,
       "bookValue": 16.366,
       "dividendRate": null,
@@ -79506,7 +79506,7 @@
       "forwardEps": null,
       "bookValue": 12.91,
       "dividendRate": 0.35,
-      "dividendYield": 1.42,
+      "dividendYield": 1.39,
       "exDividendDate": 1779062400,
       "payoutRatio": 0.71209997,
       "targetHighPrice": null,
@@ -80229,7 +80229,7 @@
       "averageVolume": 6265696,
       "averageVolume10days": 3685656,
       "marketCap": 3206783744,
-      "enterpriseValue": 3452974080,
+      "enterpriseValue": 3516114176,
       "sharesOutstanding": 803705241,
       "sector": "Real Estate",
       "industry": "REIT - Diversified",
@@ -80243,21 +80243,21 @@
       "forwardPE": null,
       "priceToBook": 0.47910663,
       "pegRatio": null,
-      "priceToSales": 8.078002,
-      "enterpriseToRevenue": 8.698,
-      "enterpriseToEbitda": -2.287,
+      "priceToSales": 7.4714675,
+      "enterpriseToRevenue": 8.192,
+      "enterpriseToEbitda": -2.652,
       "profitMargins": 0.0,
-      "grossMargins": 0.0,
-      "operatingMargins": -4.76733,
-      "returnOnAssets": -0.12589,
-      "returnOnEquity": -0.22171,
-      "totalRevenue": 396977344,
-      "revenuePerShare": 0.49,
-      "totalCash": 34123408,
-      "totalDebt": 283429152,
-      "debtToEquity": 4.196,
-      "currentRatio": 17.157,
-      "quickRatio": 0.279,
+      "grossMargins": -2.81199,
+      "operatingMargins": -0.01543,
+      "returnOnAssets": -0.10665,
+      "returnOnEquity": -0.22834998,
+      "totalRevenue": 429204000,
+      "revenuePerShare": 0.527,
+      "totalCash": 45329456,
+      "totalDebt": 325333088,
+      "debtToEquity": 4.63,
+      "currentRatio": 7.849,
+      "quickRatio": 0.151,
       "eps": -1.79,
       "forwardEps": null,
       "bookValue": 8.328,
@@ -80272,7 +80272,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.605,
+      "beta": null,
       "historicalData": [
         {
           "Close": 4.650000095367432,
@@ -81220,10 +81220,6 @@
       "beta": 0.951,
       "historicalData": [
         {
-          "Close": 4.730000019073486,
-          "Volume": 1404500
-        },
-        {
           "Close": 4.630000114440918,
           "Volume": 883846
         },
@@ -81318,6 +81314,10 @@
         {
           "Close": 4.699999809265137,
           "Volume": 1564633
+        },
+        {
+          "Close": 4.769999980926514,
+          "Volume": 1361113
         },
         {
           "Close": 4.670000076293945,
@@ -81770,7 +81770,7 @@
       "debtToEquity": 22.586,
       "currentRatio": 1.992,
       "quickRatio": 1.909,
-      "eps": -2.72,
+      "eps": -2.73,
       "forwardEps": null,
       "bookValue": 27.13,
       "dividendRate": null,
@@ -83299,10 +83299,6 @@
       "beta": 0.47,
       "historicalData": [
         {
-          "Close": 128.5,
-          "Volume": 18015
-        },
-        {
           "Close": 126.5,
           "Volume": 12817
         },
@@ -83397,6 +83393,10 @@
         {
           "Close": 118.5,
           "Volume": 21882
+        },
+        {
+          "Close": 119.0999984741211,
+          "Volume": 24074
         },
         {
           "Close": 118.80000305175781,
@@ -83677,10 +83677,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 345.0,
-          "Volume": 2712
-        },
-        {
           "Close": 341.5,
           "Volume": 4941
         },
@@ -83775,6 +83771,10 @@
         {
           "Close": 302.75,
           "Volume": 3272
+        },
+        {
+          "Close": 300.0,
+          "Volume": 6961
         },
         {
           "Close": 295.25,
@@ -84042,7 +84042,7 @@
       "forwardEps": null,
       "bookValue": 2.942,
       "dividendRate": 0.18,
-      "dividendYield": 2.59,
+      "dividendYield": 2.54,
       "exDividendDate": 1788134400,
       "payoutRatio": 0.511,
       "targetHighPrice": null,
@@ -84433,10 +84433,6 @@
       "beta": -0.206,
       "historicalData": [
         {
-          "Close": 14.779999732971191,
-          "Volume": 15229811
-        },
-        {
           "Close": 14.6899995803833,
           "Volume": 12975523
         },
@@ -84531,6 +84527,10 @@
         {
           "Close": 12.390000343322754,
           "Volume": 19790223
+        },
+        {
+          "Close": 11.430000305175781,
+          "Volume": 30127503
         },
         {
           "Close": 10.9399995803833,
@@ -84798,7 +84798,7 @@
       "forwardEps": null,
       "bookValue": 77.969,
       "dividendRate": 9.52,
-      "dividendYield": 7.1,
+      "dividendYield": 7.18,
       "exDividendDate": 1788307200,
       "payoutRatio": 0.8702,
       "targetHighPrice": null,
@@ -85332,7 +85332,7 @@
       "averageVolume": 16434300,
       "averageVolume10days": 14818490,
       "marketCap": 129709998080,
-      "enterpriseValue": 119628365824,
+      "enterpriseValue": -17119671296,
       "sharesOutstanding": 700000000,
       "sector": "Financial Services",
       "industry": "Capital Markets",
@@ -85342,26 +85342,26 @@
       "country": "Turkey",
       "phone": "90 212 365 10 00",
       "description": "Tera Yatirim Menkul Degerler A.S. engages in investment banking and brokerage activities in Turkey. The company offers institutional sales and trading services for mutual funds, hedge funds, and alpha capture funds investors; private sales and trading services, as well as personalized financial advisory services, stocks, bonds, and funds; and investment banking services, such as initial public offering underwriting, debt instrument issuance facilitation, capital increase support, company valuation, financing options, and merger and acquisition consultancy. It is also involved in facilitating share purchase offers, exit rights, and rights to withdraw from partnership/sell; and managing the process of wholesale market transactions and the process of sales to corporate and qualified investors. The company was incorporated in 1990 and is headquartered in Istanbul, Turkey.",
-      "pe": 20.566038,
+      "pe": 20.611792,
       "forwardPE": null,
       "priceToBook": 2.1569083,
       "pegRatio": null,
-      "priceToSales": 0.29939207,
-      "enterpriseToRevenue": 0.276,
+      "priceToSales": 0.28757057,
+      "enterpriseToRevenue": -0.038,
       "enterpriseToEbitda": null,
-      "profitMargins": 0.1419,
-      "grossMargins": 0.04837,
-      "operatingMargins": -0.15901,
-      "returnOnAssets": 0.3992,
-      "returnOnEquity": 1.10237,
-      "totalRevenue": 433244602368,
-      "revenuePerShare": 568.235,
-      "totalCash": 23005503488,
+      "profitMargins": 0.13094,
+      "grossMargins": 0.09932,
+      "operatingMargins": 0.14174,
+      "returnOnAssets": 0.3838,
+      "returnOnEquity": 1.05985,
+      "totalRevenue": 451054501888,
+      "revenuePerShare": 643.447,
+      "totalCash": 169357656064,
       "totalDebt": 22494164992,
       "debtToEquity": 24.356,
-      "currentRatio": 0.66,
-      "quickRatio": 0.66,
-      "eps": 9.01,
+      "currentRatio": 1.583,
+      "quickRatio": 1.223,
+      "eps": 8.99,
       "forwardEps": null,
       "bookValue": 85.91,
       "dividendRate": null,
@@ -85375,7 +85375,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.471,
       "historicalData": [
         {
           "Close": 162.0,
@@ -85720,7 +85720,7 @@
       "country": "Turkey",
       "phone": "90 212 644 58 58",
       "description": "TGS Dis Ticaret Anonim Sirketi provides intermediary services to exporting companies in Turkey. Its primary activity is to mediate the export activities of the manufacturers and to collect the value-added tax refunds on behalf of its customers due to their export transactions in the textile, mining, and other sectors. The company was incorporated in 1999 and is headquartered in Istanbul, Turkey.",
-      "pe": 48.35655,
+      "pe": 48.222225,
       "forwardPE": null,
       "priceToBook": 7.2203975,
       "pegRatio": null,
@@ -85739,7 +85739,7 @@
       "debtToEquity": 4.457,
       "currentRatio": 1.016,
       "quickRatio": 0.996,
-      "eps": 3.59,
+      "eps": 3.6,
       "forwardEps": null,
       "bookValue": 24.043,
       "dividendRate": 0.3,
@@ -85932,7 +85932,7 @@
       "forwardEps": 13.82,
       "bookValue": 98.312,
       "dividendRate": 0.33,
-      "dividendYield": 0.17,
+      "dividendYield": 0.16,
       "exDividendDate": 1767139200,
       "payoutRatio": 0.0,
       "targetHighPrice": 104.0,
@@ -87444,7 +87444,7 @@
       "forwardEps": 3.34,
       "bookValue": 17.965,
       "dividendRate": 0.54,
-      "dividendYield": 4.77,
+      "dividendYield": 4.82,
       "exDividendDate": 1774569600,
       "payoutRatio": 0.1351,
       "targetHighPrice": 20.31572,
@@ -88578,7 +88578,7 @@
       "forwardEps": 3.5,
       "bookValue": 2.482,
       "dividendRate": 0.15,
-      "dividendYield": 2.42,
+      "dividendYield": 2.38,
       "exDividendDate": 1787788800,
       "payoutRatio": 0.0932,
       "targetHighPrice": 11.215,
@@ -89708,7 +89708,7 @@
       "debtToEquity": 85.193,
       "currentRatio": 1.261,
       "quickRatio": 1.057,
-      "eps": -1.28,
+      "eps": -1.27,
       "forwardEps": null,
       "bookValue": 16.643,
       "dividendRate": null,
@@ -91031,7 +91031,7 @@
       "debtToEquity": 13.986,
       "currentRatio": 3.824,
       "quickRatio": 3.595,
-      "eps": -6.45,
+      "eps": -6.44,
       "forwardEps": null,
       "bookValue": 67.111,
       "dividendRate": null,
