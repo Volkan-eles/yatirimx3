@@ -405,15 +405,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "SEKFK",
-    "company": "SEKFK Şeker Finansal Kiralama A.Ş.",
-    "type": "Bedelli",
-    "rate": "%100",
-    "date": "23.07.2026 Bitiş : 06.08.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 23.07.2026 Bitiş : 06.08.2026 | Tutar: 1 TL"
-  },
-  {
     "code": "KRTEK",
     "company": "KRTEK Karsu Tekstil San. ve Tic. A.Ş.",
     "type": "Bedelli",
@@ -430,6 +421,15 @@
     "date": "05.08.2026 Bitiş : 19.08.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 05.08.2026 Bitiş : 19.08.2026 | Tutar: 1 TL"
+  },
+  {
+    "code": "SEKFK",
+    "company": "SEKFK Şeker Finansal Kiralama A.Ş.",
+    "type": "Bedelli",
+    "rate": "%100",
+    "date": "23.07.2026 Bitiş : 06.08.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 23.07.2026 Bitiş : 06.08.2026 | Tutar: 1 TL"
   },
   {
     "code": "ALGYO",

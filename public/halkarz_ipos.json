@@ -21,6 +21,26 @@
       "lotCount": "12.500.000 Lot"
     },
     {
+      "company": "KPEKS",
+      "link": "https://halkarz.com/kapeks-kimya-sanayi-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "KPEKS",
+      "price": "94,00 TL",
+      "dates": "12-13-14 Ağustos 202609:00-17:00",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "25.100.000 Lot"
+    },
+    {
+      "company": "TKNKA",
+      "link": "https://halkarz.com/teknika-plast-teknik-kalip-plastik-san-ve-tic-a-s/",
+      "status": "Talep Toplanıyor",
+      "code": "TKNKA",
+      "price": "85,40 TL",
+      "dates": "12-13-14 Ağustos 202609:00-17:00",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "31.000.000 Lot"
+    },
+    {
       "company": "CITAS",
       "link": "https://halkarz.com/citlekci-magazacilik-gida-a-s/",
       "status": "Talep Toplanıyor",
@@ -48,7 +68,7 @@
       "price": "76,60 TL",
       "dates": "6 Ağustos 2026",
       "distributionType": "Eşit Dağıtım",
-      "lotCount": "48.312.950 Lot"
+      "lotCount": "%10.03"
     },
     {
       "company": "KARCL",
