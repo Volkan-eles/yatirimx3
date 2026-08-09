@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-09T09:47:58.903629",
+  "last_update": "2026-08-09T10:44:28.528027",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -449,10 +449,6 @@
       "beta": 0.445,
       "historicalData": [
         {
-          "Close": 40.5,
-          "Volume": 229428658
-        },
-        {
           "Close": 40.65999984741211,
           "Volume": 121592255
         },
@@ -547,6 +543,10 @@
         {
           "Close": 31.0,
           "Volume": 272016620
+        },
+        {
+          "Close": 32.7599983215332,
+          "Volume": 279386134
         },
         {
           "Close": 34.0,
@@ -3284,6 +3284,10 @@
       "beta": 0.673,
       "historicalData": [
         {
+          "Close": 110.5,
+          "Volume": 22063525
+        },
+        {
           "Close": 110.9000015258789,
           "Volume": 13689963
         },
@@ -3378,10 +3382,6 @@
         {
           "Close": 101.5,
           "Volume": 33927976
-        },
-        {
-          "Close": 99.94999694824219,
-          "Volume": 29786987
         },
         {
           "Close": 104.5,
@@ -4183,7 +4183,7 @@
       "averageVolume": 20540648,
       "averageVolume10days": 27432255,
       "marketCap": 503198973952,
-      "enterpriseValue": 2050353790976,
+      "enterpriseValue": 2050176974848,
       "sharesOutstanding": 2535007575,
       "sector": "Industrials",
       "industry": "Conglomerates",
@@ -4197,21 +4197,21 @@
       "forwardPE": 6.641017,
       "priceToBook": 0.7041978,
       "pegRatio": 0.52,
-      "priceToSales": 0.1648926,
-      "enterpriseToRevenue": 0.672,
-      "enterpriseToEbitda": 9.476,
-      "profitMargins": 0.011779999,
-      "grossMargins": 0.17568001,
-      "operatingMargins": 0.06531,
-      "returnOnAssets": 0.01651,
-      "returnOnEquity": 0.06396,
-      "totalRevenue": 3051677024256,
-      "revenuePerShare": 1087.687,
+      "priceToSales": 0.17376909,
+      "enterpriseToRevenue": 0.708,
+      "enterpriseToEbitda": 10.221,
+      "profitMargins": 0.01944,
+      "grossMargins": 0.1759,
+      "operatingMargins": 0.064380005,
+      "returnOnAssets": 0.01605,
+      "returnOnEquity": 0.06121,
+      "totalRevenue": 2895790997504,
+      "revenuePerShare": 1142.32,
       "totalCash": 541502996480,
       "totalDebt": 1589122039808,
       "debtToEquity": 122.997,
       "currentRatio": 0.905,
-      "quickRatio": 0.752,
+      "quickRatio": 0.757,
       "eps": 9.61,
       "forwardEps": 29.89,
       "bookValue": 281.881,
@@ -4226,7 +4226,7 @@
       "recommendationMean": 1.18182,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
-      "beta": null,
+      "beta": 0.272,
       "historicalData": [
         {
           "Close": 198.1999969482422,
@@ -11789,6 +11789,10 @@
       "beta": null,
       "historicalData": [
         {
+          "Close": 12.989999771118164,
+          "Volume": 1297737
+        },
+        {
           "Close": 13.170000076293945,
           "Volume": 1171053
         },
@@ -11885,10 +11889,6 @@
           "Volume": 3663135
         },
         {
-          "Close": 12.84000015258789,
-          "Volume": 3721161
-        },
-        {
           "Close": 12.529999732971191,
           "Volume": 804862
         },
@@ -11948,10 +11948,10 @@
       "pegRatio": null,
       "priceToSales": 0.80951905,
       "enterpriseToRevenue": 0.346,
-      "enterpriseToEbitda": 2.015,
+      "enterpriseToEbitda": 1.981,
       "profitMargins": 0.13239,
       "grossMargins": 0.55303,
-      "operatingMargins": 0.18735,
+      "operatingMargins": 0.18767,
       "returnOnAssets": 0.01276,
       "returnOnEquity": 0.70449996,
       "totalRevenue": 52475604992,
@@ -11959,8 +11959,8 @@
       "totalCash": 24625727488,
       "totalDebt": 318304224,
       "debtToEquity": 2.503,
-      "currentRatio": 24.774,
-      "quickRatio": 24.481,
+      "currentRatio": 22.775,
+      "quickRatio": 22.506,
       "eps": 34.05,
       "forwardEps": 18.11,
       "bookValue": 57.58,
@@ -11975,7 +11975,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 5,
-      "beta": null,
+      "beta": 0.439,
       "historicalData": [
         {
           "Close": 253.0,
@@ -12167,6 +12167,10 @@
       "beta": 0.707,
       "historicalData": [
         {
+          "Close": 12.989999771118164,
+          "Volume": 25143716
+        },
+        {
           "Close": 12.579999923706055,
           "Volume": 11617701
         },
@@ -12261,10 +12265,6 @@
         {
           "Close": 9.8100004196167,
           "Volume": 6340768
-        },
-        {
-          "Close": 9.979999542236328,
-          "Volume": 4442646
         },
         {
           "Close": 9.850000381469727,
@@ -14057,6 +14057,10 @@
       "beta": 2.546,
       "historicalData": [
         {
+          "Close": 112.5,
+          "Volume": 544822
+        },
+        {
           "Close": 114.0,
           "Volume": 607831
         },
@@ -14151,10 +14155,6 @@
         {
           "Close": 117.9000015258789,
           "Volume": 8490075
-        },
-        {
-          "Close": 121.0,
-          "Volume": 2400090
         },
         {
           "Close": 126.0,
@@ -21428,6 +21428,10 @@
       "beta": null,
       "historicalData": [
         {
+          "Close": 6.53000020980835,
+          "Volume": 2992525
+        },
+        {
           "Close": 6.449999809265137,
           "Volume": 5051975
         },
@@ -21522,10 +21526,6 @@
         {
           "Close": 6.050000190734863,
           "Volume": 4030757
-        },
-        {
-          "Close": 6.389999866485596,
-          "Volume": 10436468
         },
         {
           "Close": 6.210000038146973,
@@ -22894,7 +22894,7 @@
       "averageVolume": 2323315,
       "averageVolume10days": 1712380,
       "marketCap": 81093345280,
-      "enterpriseValue": 88597643264,
+      "enterpriseValue": 8116723777536,
       "sharesOutstanding": 141771582,
       "sector": "Basic Materials",
       "industry": "Steel",
@@ -22908,21 +22908,21 @@
       "forwardPE": null,
       "priceToBook": 2.0591614,
       "pegRatio": null,
-      "priceToSales": 1.03586,
-      "enterpriseToRevenue": 1.132,
-      "enterpriseToEbitda": 16.135,
-      "profitMargins": 0.02337,
-      "grossMargins": 0.08411,
-      "operatingMargins": 0.022119999,
-      "returnOnAssets": 0.02955,
-      "returnOnEquity": 0.05135,
-      "totalRevenue": 78286012416,
-      "revenuePerShare": 552.198,
-      "totalCash": 8552772096,
-      "totalDebt": 16057067520,
-      "debtToEquity": 40.773,
-      "currentRatio": 1.121,
-      "quickRatio": 0.425,
+      "priceToSales": 0.94434917,
+      "enterpriseToRevenue": 94.521,
+      "enterpriseToEbitda": 1183.956,
+      "profitMargins": 0.028770002,
+      "grossMargins": 0.09483,
+      "operatingMargins": 0.090679996,
+      "returnOnAssets": 0.03371,
+      "returnOnEquity": 0.06348,
+      "totalRevenue": 85872205824,
+      "revenuePerShare": 11.994,
+      "totalCash": 9393170432,
+      "totalDebt": 16780888064,
+      "debtToEquity": 38.663,
+      "currentRatio": 1.11,
+      "quickRatio": 0.44,
       "eps": 12.93,
       "forwardEps": null,
       "bookValue": 277.783,
@@ -22937,8 +22937,12 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.455,
+      "beta": null,
       "historicalData": [
+        {
+          "Close": 548.5,
+          "Volume": 2136985
+        },
         {
           "Close": 544.0,
           "Volume": 1038439
@@ -23034,10 +23038,6 @@
         {
           "Close": 528.0,
           "Volume": 1472285
-        },
-        {
-          "Close": 521.5,
-          "Volume": 2322238
         },
         {
           "Close": 532.0,
@@ -23885,6 +23885,10 @@
       "beta": 0.456,
       "historicalData": [
         {
+          "Close": 118.9000015258789,
+          "Volume": 538629
+        },
+        {
           "Close": 117.69999694824219,
           "Volume": 416422
         },
@@ -23979,10 +23983,6 @@
         {
           "Close": 105.0,
           "Volume": 347400
-        },
-        {
-          "Close": 106.4000015258789,
-          "Volume": 307480
         },
         {
           "Close": 107.5,
@@ -26153,6 +26153,10 @@
       "beta": -0.921,
       "historicalData": [
         {
+          "Close": 137.60000610351562,
+          "Volume": 75163
+        },
+        {
           "Close": 139.60000610351562,
           "Volume": 50879
         },
@@ -26247,10 +26251,6 @@
         {
           "Close": 118.0,
           "Volume": 43985
-        },
-        {
-          "Close": 119.80000305175781,
-          "Volume": 39872
         },
         {
           "Close": 116.30000305175781,
@@ -26485,7 +26485,7 @@
       "averageVolume": 959321,
       "averageVolume10days": 1479951,
       "marketCap": 26896377856,
-      "enterpriseValue": 47806181376,
+      "enterpriseValue": 51279060992,
       "sharesOutstanding": 127773766,
       "sector": "Consumer Defensive",
       "industry": "Grocery Stores",
@@ -26499,21 +26499,21 @@
       "forwardPE": null,
       "priceToBook": -9.060389,
       "pegRatio": null,
-      "priceToSales": 0.32819802,
-      "enterpriseToRevenue": 0.583,
-      "enterpriseToEbitda": -99.436,
-      "profitMargins": -0.0836,
-      "grossMargins": 0.22771,
-      "operatingMargins": -0.05692,
-      "returnOnAssets": -0.0355,
-      "returnOnEquity": -22.65734,
-      "totalRevenue": 81951678464,
-      "revenuePerShare": 641.381,
-      "totalCash": 1989671936,
-      "totalDebt": 22899474432,
+      "priceToSales": 0.3226075,
+      "enterpriseToRevenue": 0.615,
+      "enterpriseToEbitda": -31.476,
+      "profitMargins": -0.07672,
+      "grossMargins": 0.22700001,
+      "operatingMargins": -0.07199,
+      "returnOnAssets": -0.08011,
+      "returnOnEquity": null,
+      "totalRevenue": 83371835392,
+      "revenuePerShare": 654.372,
+      "totalCash": 3643436032,
+      "totalDebt": 28026118144,
       "debtToEquity": null,
-      "currentRatio": 0.402,
-      "quickRatio": 0.12,
+      "currentRatio": 0.418,
+      "quickRatio": 0.151,
       "eps": -29.07,
       "forwardEps": null,
       "bookValue": -23.233,
@@ -26528,7 +26528,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.076,
+      "beta": null,
       "historicalData": [
         {
           "Close": 148.8000030517578,
@@ -29366,6 +29366,10 @@
       "beta": 1.33,
       "historicalData": [
         {
+          "Close": 8.75,
+          "Volume": 4480678
+        },
+        {
           "Close": 8.680000305175781,
           "Volume": 4711948
         },
@@ -29462,10 +29466,6 @@
           "Volume": 5509783
         },
         {
-          "Close": 8.6899995803833,
-          "Volume": 4384944
-        },
-        {
           "Close": 8.630000114440918,
           "Volume": 4318122
         },
@@ -29554,6 +29554,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.086,
       "historicalData": [
+        {
+          "Close": 25.799999237060547,
+          "Volume": 17645
+        },
         {
           "Close": 25.399999618530273,
           "Volume": 19867
@@ -29651,10 +29655,6 @@
           "Volume": 83607
         },
         {
-          "Close": 23.219999313354492,
-          "Volume": 111180
-        },
-        {
           "Close": 23.100000381469727,
           "Volume": 42221
         },
@@ -29743,6 +29743,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.745,
       "historicalData": [
+        {
+          "Close": 34.779998779296875,
+          "Volume": 78276
+        },
         {
           "Close": 34.81999969482422,
           "Volume": 26460620
@@ -29838,10 +29842,6 @@
         {
           "Close": 24.200000762939453,
           "Volume": 2266801
-        },
-        {
-          "Close": 23.6200008392334,
-          "Volume": 1740578
         },
         {
           "Close": 23.979999542236328,
@@ -31445,6 +31445,10 @@
       "beta": 0.108,
       "historicalData": [
         {
+          "Close": 14.699999809265137,
+          "Volume": 2032904
+        },
+        {
           "Close": 14.460000038146973,
           "Volume": 1774449
         },
@@ -31541,10 +31545,6 @@
           "Volume": 805976
         },
         {
-          "Close": 12.720000267028809,
-          "Volume": 792400
-        },
-        {
           "Close": 12.359999656677246,
           "Volume": 865197
         },
@@ -31633,6 +31633,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
+        {
+          "Close": 8.380000114440918,
+          "Volume": 1037473
+        },
         {
           "Close": 8.40999984741211,
           "Volume": 1540947
@@ -31730,10 +31734,6 @@
           "Volume": 2456691
         },
         {
-          "Close": 7.170000076293945,
-          "Volume": 2398731
-        },
-        {
           "Close": 7.210000038146973,
           "Volume": 1421297
         },
@@ -31822,6 +31822,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
+        {
+          "Close": 78.5,
+          "Volume": 3222216
+        },
         {
           "Close": 76.30000305175781,
           "Volume": 2678944
@@ -31917,10 +31921,6 @@
         {
           "Close": 66.3499984741211,
           "Volume": 2102179
-        },
-        {
-          "Close": 68.30000305175781,
-          "Volume": 2581243
         },
         {
           "Close": 66.94999694824219,
@@ -33713,6 +33713,10 @@
       "beta": 0.571,
       "historicalData": [
         {
+          "Close": 7.239999771118164,
+          "Volume": 20863996
+        },
+        {
           "Close": 7.179999828338623,
           "Volume": 11758161
         },
@@ -33809,10 +33813,6 @@
           "Volume": 6902376
         },
         {
-          "Close": 5.400000095367432,
-          "Volume": 5938586
-        },
-        {
           "Close": 5.369999885559082,
           "Volume": 7509022
         },
@@ -33901,6 +33901,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.68,
       "historicalData": [
+        {
+          "Close": 6.75,
+          "Volume": 7979987
+        },
         {
           "Close": 6.900000095367432,
           "Volume": 5670355
@@ -33998,10 +34002,6 @@
           "Volume": 4383972
         },
         {
-          "Close": 6.21999979019165,
-          "Volume": 13242795
-        },
-        {
           "Close": 6.0,
           "Volume": 2678113
         },
@@ -34090,6 +34090,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.113,
       "historicalData": [
+        {
+          "Close": 36.41999816894531,
+          "Volume": 2310993
+        },
         {
           "Close": 35.7599983215332,
           "Volume": 1191158
@@ -34185,10 +34189,6 @@
         {
           "Close": 28.700000762939453,
           "Volume": 1183339
-        },
-        {
-          "Close": 28.639999389648438,
-          "Volume": 836585
         },
         {
           "Close": 28.200000762939453,
@@ -36926,6 +36926,10 @@
       "beta": null,
       "historicalData": [
         {
+          "Close": 11.289999961853027,
+          "Volume": 1040237
+        },
+        {
           "Close": 11.600000381469727,
           "Volume": 2714055
         },
@@ -37020,10 +37024,6 @@
         {
           "Close": 12.819999694824219,
           "Volume": 307239
-        },
-        {
-          "Close": 13.149999618530273,
-          "Volume": 1437378
         },
         {
           "Close": 13.149999618530273,
@@ -37304,6 +37304,10 @@
       "beta": 0.192,
       "historicalData": [
         {
+          "Close": 4.449999809265137,
+          "Volume": 20866951
+        },
+        {
           "Close": 4.46999979019165,
           "Volume": 30331399
         },
@@ -37398,10 +37402,6 @@
         {
           "Close": 3.869999885559082,
           "Volume": 67104716
-        },
-        {
-          "Close": 3.930000066757202,
-          "Volume": 22846653
         },
         {
           "Close": 3.880000114440918,
@@ -37682,6 +37682,10 @@
       "beta": 0.792,
       "historicalData": [
         {
+          "Close": 2.440000057220459,
+          "Volume": 5207595
+        },
+        {
           "Close": 2.4200000762939453,
           "Volume": 5015149
         },
@@ -37776,10 +37780,6 @@
         {
           "Close": 2.109999895095825,
           "Volume": 4928087
-        },
-        {
-          "Close": 2.1500000953674316,
-          "Volume": 3558893
         },
         {
           "Close": 2.200000047683716,
@@ -43163,6 +43163,10 @@
       "beta": 0.696,
       "historicalData": [
         {
+          "Close": 12.119999885559082,
+          "Volume": 3719196
+        },
+        {
           "Close": 12.039999961853027,
           "Volume": 2025306
         },
@@ -43257,10 +43261,6 @@
         {
           "Close": 12.09000015258789,
           "Volume": 4210199
-        },
-        {
-          "Close": 12.260000228881836,
-          "Volume": 3170081
         },
         {
           "Close": 12.020000457763672,
@@ -44251,7 +44251,7 @@
       "averageVolume": 5498563,
       "averageVolume10days": 3251195,
       "marketCap": 12614425600,
-      "enterpriseValue": 12876043264,
+      "enterpriseValue": 45389979648,
       "sharesOutstanding": 221500000,
       "sector": "Industrials",
       "industry": "Aerospace & Defense",
@@ -44265,21 +44265,21 @@
       "forwardPE": null,
       "priceToBook": 1.9976147,
       "pegRatio": null,
-      "priceToSales": 2.7529151,
-      "enterpriseToRevenue": 2.81,
-      "enterpriseToEbitda": 78.605,
-      "profitMargins": -0.07642,
-      "grossMargins": -0.029560002,
-      "operatingMargins": -0.20121999,
-      "returnOnAssets": -0.01747,
-      "returnOnEquity": -0.06131,
-      "totalRevenue": 4582206464,
-      "revenuePerShare": 20.687,
-      "totalCash": 679009792,
-      "totalDebt": 940627712,
-      "debtToEquity": 14.896,
-      "currentRatio": 1.172,
-      "quickRatio": 0.523,
+      "priceToSales": 3.033766,
+      "enterpriseToRevenue": 10.916,
+      "enterpriseToEbitda": -187.865,
+      "profitMargins": -0.19061,
+      "grossMargins": -0.14684,
+      "operatingMargins": -0.47446,
+      "returnOnAssets": -0.053979997,
+      "returnOnEquity": -0.13205,
+      "totalRevenue": 4158008576,
+      "revenuePerShare": 18.772,
+      "totalCash": 620632000,
+      "totalDebt": 869455360,
+      "debtToEquity": 13.453,
+      "currentRatio": 1.029,
+      "quickRatio": 0.409,
       "eps": -1.58,
       "forwardEps": null,
       "bookValue": 28.509,
@@ -44294,7 +44294,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.099,
+      "beta": null,
       "historicalData": [
         {
           "Close": 60.95000076293945,
@@ -48787,7 +48787,7 @@
       "averageVolume": 10930903,
       "averageVolume10days": 4068167,
       "marketCap": 7120000000,
-      "enterpriseValue": 11153740800,
+      "enterpriseValue": 13492604928,
       "sharesOutstanding": 1000000000,
       "sector": "Financial Services",
       "industry": "Asset Management",
@@ -48801,21 +48801,21 @@
       "forwardPE": null,
       "priceToBook": 0.69280916,
       "pegRatio": null,
-      "priceToSales": -16.881205,
-      "enterpriseToRevenue": -26.445,
+      "priceToSales": -1.1298891,
+      "enterpriseToRevenue": -2.141,
       "enterpriseToEbitda": null,
       "profitMargins": 0.0,
       "grossMargins": 0.0,
-      "operatingMargins": 1.01569,
-      "returnOnAssets": 0.01852,
-      "returnOnEquity": 0.024939999,
-      "totalRevenue": -421770848,
-      "revenuePerShare": -0.422,
-      "totalCash": 529125632,
-      "totalDebt": 4562866688,
-      "debtToEquity": 44.398,
-      "currentRatio": 0.119,
-      "quickRatio": 0.117,
+      "operatingMargins": 0.78606004,
+      "returnOnAssets": -0.34208,
+      "returnOnEquity": -0.43967998,
+      "totalRevenue": -6301503488,
+      "revenuePerShare": -6.301,
+      "totalCash": 154048,
+      "totalDebt": 6372604416,
+      "debtToEquity": 50.193,
+      "currentRatio": 0.071,
+      "quickRatio": 0.067,
       "eps": 0.03,
       "forwardEps": null,
       "bookValue": 10.277,
@@ -48830,7 +48830,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.016,
+      "beta": null,
       "historicalData": [
         {
           "Close": 8.050000190734863,
@@ -50345,6 +50345,10 @@
       "beta": 0.368,
       "historicalData": [
         {
+          "Close": 24.940000534057617,
+          "Volume": 14109742
+        },
+        {
           "Close": 27.299999237060547,
           "Volume": 19219987
         },
@@ -50439,10 +50443,6 @@
         {
           "Close": 25.700000762939453,
           "Volume": 2261468
-        },
-        {
-          "Close": 26.440000534057617,
-          "Volume": 1742270
         },
         {
           "Close": 26.040000915527344,
@@ -50791,6 +50791,10 @@
       "beta": 0.122,
       "historicalData": [
         {
+          "Close": 7.55973482131958,
+          "Volume": 1647262
+        },
+        {
           "Close": 7.510000228881836,
           "Volume": 2340815
         },
@@ -50887,10 +50891,6 @@
           "Volume": 1163778
         },
         {
-          "Close": 6.869999885559082,
-          "Volume": 512038
-        },
-        {
           "Close": 6.75,
           "Volume": 777969
         },
@@ -50979,6 +50979,10 @@
       "numberOfAnalystOpinions": 1,
       "beta": 0.234,
       "historicalData": [
+        {
+          "Close": 8.09000015258789,
+          "Volume": 2169278
+        },
         {
           "Close": 8.279999732971191,
           "Volume": 2937538
@@ -51074,10 +51078,6 @@
         {
           "Close": 7.659999847412109,
           "Volume": 552448
-        },
-        {
-          "Close": 7.690000057220459,
-          "Volume": 317964
         },
         {
           "Close": 7.690000057220459,
@@ -51736,6 +51736,10 @@
       "beta": 0.728,
       "historicalData": [
         {
+          "Close": 8.510000228881836,
+          "Volume": 4938488
+        },
+        {
           "Close": 8.399999618530273,
           "Volume": 6098440
         },
@@ -51830,10 +51834,6 @@
         {
           "Close": 11.369999885559082,
           "Volume": 27280562
-        },
-        {
-          "Close": 11.34000015258789,
-          "Volume": 14966711
         },
         {
           "Close": 12.100000381469727,
@@ -53059,6 +53059,10 @@
       "beta": -0.877,
       "historicalData": [
         {
+          "Close": 27.18000030517578,
+          "Volume": 29751487
+        },
+        {
           "Close": 26.540000915527344,
           "Volume": 10962843
         },
@@ -53153,10 +53157,6 @@
         {
           "Close": 25.459999084472656,
           "Volume": 5463000
-        },
-        {
-          "Close": 24.540000915527344,
-          "Volume": 4341800
         },
         {
           "Close": 24.559999465942383,
@@ -54382,6 +54382,10 @@
       "beta": 0.456,
       "historicalData": [
         {
+          "Close": 5.0,
+          "Volume": 8715248
+        },
+        {
           "Close": 5.03000020980835,
           "Volume": 8237779
         },
@@ -54476,10 +54480,6 @@
         {
           "Close": 4.269999980926514,
           "Volume": 8242076
-        },
-        {
-          "Close": 4.46999979019165,
-          "Volume": 7723929
         },
         {
           "Close": 4.480000019073486,
@@ -54760,6 +54760,10 @@
       "beta": 0.488,
       "historicalData": [
         {
+          "Close": 31.020000457763672,
+          "Volume": 570845
+        },
+        {
           "Close": 31.139999389648438,
           "Volume": 524824
         },
@@ -54854,10 +54858,6 @@
         {
           "Close": 27.34000015258789,
           "Volume": 717030
-        },
-        {
-          "Close": 27.5,
-          "Volume": 384151
         },
         {
           "Close": 27.18000030517578,
@@ -55516,6 +55516,10 @@
       "beta": 0.051,
       "historicalData": [
         {
+          "Close": 13.850000381469727,
+          "Volume": 3978237
+        },
+        {
           "Close": 13.550000190734863,
           "Volume": 4991430
         },
@@ -55610,10 +55614,6 @@
         {
           "Close": 12.069999694824219,
           "Volume": 2377580
-        },
-        {
-          "Close": 12.270000457763672,
-          "Volume": 2211618
         },
         {
           "Close": 12.3100004196167,
@@ -56650,6 +56650,10 @@
       "beta": 0.626,
       "historicalData": [
         {
+          "Close": 6.829999923706055,
+          "Volume": 17121607
+        },
+        {
           "Close": 7.230000019073486,
           "Volume": 30740064
         },
@@ -56744,10 +56748,6 @@
         {
           "Close": 5.400000095367432,
           "Volume": 7192124
-        },
-        {
-          "Close": 5.349999904632568,
-          "Volume": 9708247
         },
         {
           "Close": 5.369999885559082,
@@ -57028,6 +57028,10 @@
       "beta": 0.488,
       "historicalData": [
         {
+          "Close": 14.489999771118164,
+          "Volume": 2073356
+        },
+        {
           "Close": 14.59000015258789,
           "Volume": 2086077
         },
@@ -57122,10 +57126,6 @@
         {
           "Close": 12.510000228881836,
           "Volume": 3073582
-        },
-        {
-          "Close": 12.430000305175781,
-          "Volume": 3589185
         },
         {
           "Close": 12.380000114440918,
@@ -58162,6 +58162,10 @@
       "beta": 1.069,
       "historicalData": [
         {
+          "Close": 11.0,
+          "Volume": 6386136
+        },
+        {
           "Close": 10.989999771118164,
           "Volume": 3851168
         },
@@ -58256,10 +58260,6 @@
         {
           "Close": 10.350000381469727,
           "Volume": 3041497
-        },
-        {
-          "Close": 10.270000457763672,
-          "Volume": 3137966
         },
         {
           "Close": 10.229999542236328,
@@ -58540,6 +58540,10 @@
       "beta": 0.376,
       "historicalData": [
         {
+          "Close": 2.880000114440918,
+          "Volume": 9527119
+        },
+        {
           "Close": 2.869999885559082,
           "Volume": 2932492
         },
@@ -58634,10 +58638,6 @@
         {
           "Close": 2.2899999618530273,
           "Volume": 41652528
-        },
-        {
-          "Close": 2.369999885559082,
-          "Volume": 11044635
         },
         {
           "Close": 2.359999895095825,
@@ -59107,6 +59107,10 @@
       "beta": null,
       "historicalData": [
         {
+          "Close": 103.0,
+          "Volume": 3248311
+        },
+        {
           "Close": 99.19999694824219,
           "Volume": 1371899
         },
@@ -59203,10 +59207,6 @@
           "Volume": 777742
         },
         {
-          "Close": 87.25,
-          "Volume": 647793
-        },
-        {
           "Close": 89.75,
           "Volume": 729878
         },
@@ -59295,6 +59295,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.438,
       "historicalData": [
+        {
+          "Close": 88.94999694824219,
+          "Volume": 120571
+        },
         {
           "Close": 87.6500015258789,
           "Volume": 241150
@@ -59390,10 +59394,6 @@
         {
           "Close": 79.5,
           "Volume": 229360
-        },
-        {
-          "Close": 80.55000305175781,
-          "Volume": 189293
         },
         {
           "Close": 80.8499984741211,
@@ -59863,6 +59863,10 @@
       "beta": 0.379,
       "historicalData": [
         {
+          "Close": 2.9600000381469727,
+          "Volume": 64005721
+        },
+        {
           "Close": 2.799999952316284,
           "Volume": 79065661
         },
@@ -59957,10 +59961,6 @@
         {
           "Close": 2.0399999618530273,
           "Volume": 38737479
-        },
-        {
-          "Close": 2.059999942779541,
-          "Volume": 40294980
         },
         {
           "Close": 2.0,
@@ -60808,6 +60808,10 @@
       "beta": 0.741,
       "historicalData": [
         {
+          "Close": 3.430000066757202,
+          "Volume": 23396509
+        },
+        {
           "Close": 3.390000104904175,
           "Volume": 51683840
         },
@@ -60904,10 +60908,6 @@
           "Volume": 11336749
         },
         {
-          "Close": 2.799999952316284,
-          "Volume": 8016496
-        },
-        {
           "Close": 2.700000047683716,
           "Volume": 17099976
         },
@@ -60996,6 +60996,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.505,
       "historicalData": [
+        {
+          "Close": 105.30000305175781,
+          "Volume": 96490
+        },
         {
           "Close": 104.69999694824219,
           "Volume": 71404
@@ -61093,10 +61097,6 @@
           "Volume": 55867
         },
         {
-          "Close": 90.9000015258789,
-          "Volume": 61350
-        },
-        {
           "Close": 89.94999694824219,
           "Volume": 58333
         },
@@ -61185,6 +61185,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
+        {
+          "Close": 1160.0,
+          "Volume": 30113
+        },
         {
           "Close": 1180.0,
           "Volume": 32085
@@ -61280,10 +61284,6 @@
         {
           "Close": 999.0,
           "Volume": 25423
-        },
-        {
-          "Close": 1003.0,
-          "Volume": 31167
         },
         {
           "Close": 995.0,
@@ -62131,6 +62131,10 @@
       "beta": 0.744,
       "historicalData": [
         {
+          "Close": 29.059999465942383,
+          "Volume": 20554038
+        },
+        {
           "Close": 30.0,
           "Volume": 35676089
         },
@@ -62227,10 +62231,6 @@
           "Volume": 18178778
         },
         {
-          "Close": 28.719999313354492,
-          "Volume": 29634366
-        },
-        {
           "Close": 30.280000686645508,
           "Volume": 21738676
         },
@@ -62319,6 +62319,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.022,
       "historicalData": [
+        {
+          "Close": 13.399999618530273,
+          "Volume": 2886457
+        },
         {
           "Close": 13.350000381469727,
           "Volume": 1925912
@@ -62414,10 +62418,6 @@
         {
           "Close": 11.829999923706055,
           "Volume": 1253159
-        },
-        {
-          "Close": 11.890000343322754,
-          "Volume": 2087199
         },
         {
           "Close": 11.800000190734863,
@@ -62887,6 +62887,10 @@
       "beta": 0.398,
       "historicalData": [
         {
+          "Close": 29.251312255859375,
+          "Volume": 666543
+        },
+        {
           "Close": 28.3154296875,
           "Volume": 578836
         },
@@ -62983,10 +62987,6 @@
           "Volume": 332236
         },
         {
-          "Close": 25.440000534057617,
-          "Volume": 390576
-        },
-        {
           "Close": 25.100000381469727,
           "Volume": 118974
         },
@@ -63075,6 +63075,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.146,
       "historicalData": [
+        {
+          "Close": 2.200000047683716,
+          "Volume": 953557
+        },
         {
           "Close": 2.180000066757202,
           "Volume": 1201700
@@ -63172,10 +63176,6 @@
           "Volume": 844022
         },
         {
-          "Close": 1.75,
-          "Volume": 794386
-        },
-        {
           "Close": 1.7599999904632568,
           "Volume": 828149
         },
@@ -63264,6 +63264,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.449,
       "historicalData": [
+        {
+          "Close": 78.75,
+          "Volume": 4087554
+        },
         {
           "Close": 78.8499984741211,
           "Volume": 1980041
@@ -63359,10 +63363,6 @@
         {
           "Close": 71.5999984741211,
           "Volume": 9737003
-        },
-        {
-          "Close": 68.1500015258789,
-          "Volume": 4239976
         },
         {
           "Close": 68.0,
@@ -63643,6 +63643,10 @@
       "beta": 0.578,
       "historicalData": [
         {
+          "Close": 23.100000381469727,
+          "Volume": 323878
+        },
+        {
           "Close": 22.739999771118164,
           "Volume": 144766
         },
@@ -63739,10 +63743,6 @@
           "Volume": 377189
         },
         {
-          "Close": 18.010000228881836,
-          "Volume": 362619
-        },
-        {
           "Close": 19.030000686645508,
           "Volume": 275709
         },
@@ -63831,6 +63831,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.383,
       "historicalData": [
+        {
+          "Close": 25.809139251708984,
+          "Volume": 6917850
+        },
         {
           "Close": 25.96772003173828,
           "Volume": 6563812
@@ -63926,10 +63930,6 @@
         {
           "Close": 20.8799991607666,
           "Volume": 6334978
-        },
-        {
-          "Close": 21.139999389648438,
-          "Volume": 2291522
         },
         {
           "Close": 19.18000030517578,
@@ -64211,6 +64211,10 @@
       "historicalData": [
         {
           "Close": 1.649999976158142,
+          "Volume": 31936314
+        },
+        {
+          "Close": 1.649999976158142,
           "Volume": 34336797
         },
         {
@@ -64304,10 +64308,6 @@
         {
           "Close": 1.3600000143051147,
           "Volume": 28615770
-        },
-        {
-          "Close": 1.3700000047683716,
-          "Volume": 25122396
         },
         {
           "Close": 1.3600000143051147,
@@ -64542,7 +64542,7 @@
       "averageVolume": 6499266,
       "averageVolume10days": 3552635,
       "marketCap": 4155674880,
-      "enterpriseValue": 2429987072,
+      "enterpriseValue": 3780658176,
       "sharesOutstanding": 1240500000,
       "sector": "Real Estate",
       "industry": "REIT - Office",
@@ -64556,21 +64556,21 @@
       "forwardPE": null,
       "priceToBook": 0.4644392,
       "pegRatio": null,
-      "priceToSales": 10.37091,
-      "enterpriseToRevenue": 6.064,
-      "enterpriseToEbitda": 14.727,
-      "profitMargins": 1.1106501,
-      "grossMargins": 0.95497,
-      "operatingMargins": 0.57069,
-      "returnOnAssets": 0.01023,
-      "returnOnEquity": 0.05746,
-      "totalRevenue": 400704960,
-      "revenuePerShare": 0.336,
-      "totalCash": 1726308992,
-      "totalDebt": 621088,
-      "debtToEquity": 0.007,
-      "currentRatio": 34.223,
-      "quickRatio": 20.731,
+      "priceToSales": 9.338717,
+      "enterpriseToRevenue": 8.496,
+      "enterpriseToEbitda": 20.047,
+      "profitMargins": 0.8704,
+      "grossMargins": 0.94154,
+      "operatingMargins": 0.30274,
+      "returnOnAssets": 0.01096,
+      "returnOnEquity": 0.04736,
+      "totalRevenue": 444994176,
+      "revenuePerShare": 0.317,
+      "totalCash": 375331072,
+      "totalDebt": 314155,
+      "debtToEquity": 0.003,
+      "currentRatio": 28.276,
+      "quickRatio": 6.451,
       "eps": 0.97,
       "forwardEps": null,
       "bookValue": 7.213,
@@ -64585,7 +64585,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.487,
+      "beta": null,
       "historicalData": [
         {
           "Close": 3.8299999237060547,
@@ -64777,6 +64777,10 @@
       "beta": 0.409,
       "historicalData": [
         {
+          "Close": 40.0,
+          "Volume": 21646471
+        },
+        {
           "Close": 39.65999984741211,
           "Volume": 17307968
         },
@@ -64873,10 +64877,6 @@
           "Volume": 19838261
         },
         {
-          "Close": 30.81999969482422,
-          "Volume": 20067742
-        },
-        {
           "Close": 30.0,
           "Volume": 12252730
         },
@@ -64920,7 +64920,7 @@
       "averageVolume": 23705,
       "averageVolume10days": 21272,
       "marketCap": 733528320,
-      "enterpriseValue": 732794112,
+      "enterpriseValue": 718536768,
       "sharesOutstanding": 13336879,
       "sector": "Industrials",
       "industry": "Integrated Freight & Logistics",
@@ -64934,21 +64934,21 @@
       "forwardPE": null,
       "priceToBook": -254.62962,
       "pegRatio": null,
-      "priceToSales": 96.287186,
-      "enterpriseToRevenue": 96.191,
-      "enterpriseToEbitda": -413.745,
-      "profitMargins": -0.09047,
-      "grossMargins": 0.99596,
-      "operatingMargins": -814.8479,
-      "returnOnAssets": -0.14887,
-      "returnOnEquity": null,
-      "totalRevenue": 7618130,
-      "revenuePerShare": 0.568,
-      "totalCash": 734177,
+      "priceToSales": 148.30096,
+      "enterpriseToRevenue": 145.27,
+      "enterpriseToEbitda": -294.014,
+      "profitMargins": -0.21978001,
+      "grossMargins": 0.99377,
+      "operatingMargins": -0.49863,
+      "returnOnAssets": -0.11169,
+      "returnOnEquity": -0.14837,
+      "totalRevenue": 4946214,
+      "revenuePerShare": 0.604,
+      "totalCash": 14991587,
       "totalDebt": 0,
       "debtToEquity": null,
-      "currentRatio": 0.392,
-      "quickRatio": 0.209,
+      "currentRatio": 3.025,
+      "quickRatio": 2.75,
       "eps": 0.01,
       "forwardEps": null,
       "bookValue": -0.216,
@@ -64963,7 +64963,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.638,
+      "beta": null,
       "historicalData": [
         {
           "Close": 68.80000305175781,
@@ -65722,6 +65722,10 @@
       "beta": -0.407,
       "historicalData": [
         {
+          "Close": 14.699999809265137,
+          "Volume": 49450620
+        },
+        {
           "Close": 14.0,
           "Volume": 23441283
         },
@@ -65816,10 +65820,6 @@
         {
           "Close": 16.450000762939453,
           "Volume": 9976752
-        },
-        {
-          "Close": 16.979999542236328,
-          "Volume": 10325185
         },
         {
           "Close": 17.079999923706055,
@@ -66243,7 +66243,7 @@
       "averageVolume": 52476,
       "averageVolume10days": 52040,
       "marketCap": 18766987264,
-      "enterpriseValue": 19101712384,
+      "enterpriseValue": 18962427904,
       "sharesOutstanding": 10994134,
       "sector": "Basic Materials",
       "industry": "Specialty Chemicals",
@@ -66257,21 +66257,21 @@
       "forwardPE": null,
       "priceToBook": 16.488771,
       "pegRatio": null,
-      "priceToSales": 4.7683363,
-      "enterpriseToRevenue": 4.853,
-      "enterpriseToEbitda": 26.213,
-      "profitMargins": -0.05469,
-      "grossMargins": 0.47134998,
-      "operatingMargins": 0.17768998,
-      "returnOnAssets": 0.08208,
-      "returnOnEquity": -0.19695,
-      "totalRevenue": 3935751424,
-      "revenuePerShare": 357.986,
-      "totalCash": 327420608,
-      "totalDebt": 662145216,
-      "debtToEquity": 58.176,
-      "currentRatio": 1.003,
-      "quickRatio": 0.791,
+      "priceToSales": 4.2377687,
+      "enterpriseToRevenue": 4.282,
+      "enterpriseToEbitda": 23.917,
+      "profitMargins": -0.01975,
+      "grossMargins": 0.43093,
+      "operatingMargins": 0.14069,
+      "returnOnAssets": 0.06204,
+      "returnOnEquity": -0.07555,
+      "totalRevenue": 4428506624,
+      "revenuePerShare": 397.903,
+      "totalCash": 363883872,
+      "totalDebt": 559325440,
+      "debtToEquity": 45.19,
+      "currentRatio": 1.007,
+      "quickRatio": 0.854,
       "eps": -19.63,
       "forwardEps": null,
       "bookValue": 103.525,
@@ -66286,7 +66286,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.044,
+      "beta": null,
       "historicalData": [
         {
           "Close": 1832.0,
@@ -69313,6 +69313,10 @@
       "beta": null,
       "historicalData": [
         {
+          "Close": 3.990000009536743,
+          "Volume": 2159212
+        },
+        {
           "Close": 3.9600000381469727,
           "Volume": 1642940
         },
@@ -69407,10 +69411,6 @@
         {
           "Close": 3.75,
           "Volume": 822180
-        },
-        {
-          "Close": 3.7699999809265137,
-          "Volume": 2418786
         },
         {
           "Close": 3.6500000953674316,
@@ -69880,6 +69880,10 @@
       "beta": -0.183,
       "historicalData": [
         {
+          "Close": 8.607444763183594,
+          "Volume": 50341227
+        },
+        {
           "Close": 8.150236129760742,
           "Volume": 17072768
         },
@@ -69976,10 +69980,6 @@
           "Volume": 2336535
         },
         {
-          "Close": 7.800000190734863,
-          "Volume": 5390460
-        },
-        {
           "Close": 7.599999904632568,
           "Volume": 2955414
         },
@@ -70068,6 +70068,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.314,
       "historicalData": [
+        {
+          "Close": 2.049999952316284,
+          "Volume": 183989975
+        },
         {
           "Close": 1.9800000190734863,
           "Volume": 42168165
@@ -70163,10 +70167,6 @@
         {
           "Close": 1.5800000429153442,
           "Volume": 7272971
-        },
-        {
-          "Close": 1.5700000524520874,
-          "Volume": 19780653
         },
         {
           "Close": 1.559999942779541,
@@ -71770,6 +71770,10 @@
       "beta": -0.017,
       "historicalData": [
         {
+          "Close": 32.33517837524414,
+          "Volume": 2333868
+        },
+        {
           "Close": 32.13908767700195,
           "Volume": 1906145
         },
@@ -71864,10 +71868,6 @@
         {
           "Close": 32.400001525878906,
           "Volume": 1354285
-        },
-        {
-          "Close": 35.0,
-          "Volume": 2905577
         },
         {
           "Close": 35.040000915527344,
@@ -73614,7 +73614,7 @@
       "averageVolume": 1729437,
       "averageVolume10days": 1088741,
       "marketCap": 3236691200,
-      "enterpriseValue": 6936542208,
+      "enterpriseValue": 327588904960,
       "sharesOutstanding": 303345000,
       "sector": "Consumer Defensive",
       "industry": "Packaged Foods",
@@ -73628,21 +73628,21 @@
       "forwardPE": null,
       "priceToBook": 0.30832803,
       "pegRatio": null,
-      "priceToSales": 0.30387932,
-      "enterpriseToRevenue": 0.651,
-      "enterpriseToEbitda": 6.766,
-      "profitMargins": 0.01974,
-      "grossMargins": 0.17392999,
-      "operatingMargins": 0.042579997,
-      "returnOnAssets": 0.03017,
-      "returnOnEquity": 0.023510002,
-      "totalRevenue": 10651238400,
-      "revenuePerShare": 35.113,
-      "totalCash": 365004416,
-      "totalDebt": 4064855552,
-      "debtToEquity": 38.722,
-      "currentRatio": 1.319,
-      "quickRatio": 0.521,
+      "priceToSales": 0.28360704,
+      "enterpriseToRevenue": 28.704,
+      "enterpriseToEbitda": 291.615,
+      "profitMargins": 0.02135,
+      "grossMargins": 0.16459998,
+      "operatingMargins": 0.05826,
+      "returnOnAssets": 0.03142,
+      "returnOnEquity": 0.0255,
+      "totalRevenue": 11412591616,
+      "revenuePerShare": 0.745,
+      "totalCash": 224675440,
+      "totalDebt": 4125741824,
+      "debtToEquity": 36.699,
+      "currentRatio": 1.36,
+      "quickRatio": 0.972,
       "eps": 0.69,
       "forwardEps": null,
       "bookValue": 34.606,
@@ -73657,7 +73657,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": -0.036,
+      "beta": null,
       "historicalData": [
         {
           "Close": 12.069999694824219,
@@ -74416,6 +74416,10 @@
       "beta": -0.176,
       "historicalData": [
         {
+          "Close": 23.0,
+          "Volume": 1605229
+        },
+        {
           "Close": 22.860000610351562,
           "Volume": 1293197
         },
@@ -74512,10 +74516,6 @@
           "Volume": 1134558
         },
         {
-          "Close": 20.65999984741211,
-          "Volume": 738688
-        },
-        {
           "Close": 20.579999923706055,
           "Volume": 679061
         },
@@ -74604,6 +74604,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.357,
       "historicalData": [
+        {
+          "Close": 42.75318145751953,
+          "Volume": 558754
+        },
         {
           "Close": 42.14326858520508,
           "Volume": 546997
@@ -74699,10 +74703,6 @@
         {
           "Close": 45.2400016784668,
           "Volume": 2014109
-        },
-        {
-          "Close": 46.900001525878906,
-          "Volume": 823909
         },
         {
           "Close": 46.13999938964844,
@@ -75739,6 +75739,10 @@
       "beta": 0.081,
       "historicalData": [
         {
+          "Close": 18.670000076293945,
+          "Volume": 2272803
+        },
+        {
           "Close": 20.520000457763672,
           "Volume": 14908993
         },
@@ -75835,10 +75839,6 @@
           "Volume": 1554179
         },
         {
-          "Close": 17.1200008392334,
-          "Volume": 1178869
-        },
-        {
           "Close": 18.049999237060547,
           "Volume": 5072547
         },
@@ -75927,6 +75927,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 1.328,
       "historicalData": [
+        {
+          "Close": 47.65999984741211,
+          "Volume": 12511958
+        },
         {
           "Close": 52.400001525878906,
           "Volume": 10529028
@@ -76022,10 +76026,6 @@
         {
           "Close": 70.0,
           "Volume": 1158567
-        },
-        {
-          "Close": 65.5,
-          "Volume": 1725492
         },
         {
           "Close": 70.6500015258789,
@@ -78385,6 +78385,10 @@
       "beta": 0.139,
       "historicalData": [
         {
+          "Close": 21.700000762939453,
+          "Volume": 1535769
+        },
+        {
           "Close": 21.979999542236328,
           "Volume": 1290618
         },
@@ -78481,10 +78485,6 @@
           "Volume": 34565411
         },
         {
-          "Close": 22.200000762939453,
-          "Volume": 7003214
-        },
-        {
           "Close": 22.760000228881836,
           "Volume": 4955892
         },
@@ -78573,6 +78573,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.029,
       "historicalData": [
+        {
+          "Close": 23.860000610351562,
+          "Volume": 4226064
+        },
         {
           "Close": 22.65999984741211,
           "Volume": 5755400
@@ -78668,10 +78672,6 @@
         {
           "Close": 18.979999542236328,
           "Volume": 2795072
-        },
-        {
-          "Close": 19.510000228881836,
-          "Volume": 2123734
         },
         {
           "Close": 20.31999969482422,
@@ -79141,6 +79141,10 @@
       "beta": 0.264,
       "historicalData": [
         {
+          "Close": 9.079999923706055,
+          "Volume": 10285484
+        },
+        {
           "Close": 9.050000190734863,
           "Volume": 9830111
         },
@@ -79235,10 +79239,6 @@
         {
           "Close": 8.960000038146973,
           "Volume": 5367432
-        },
-        {
-          "Close": 9.170000076293945,
-          "Volume": 8343781
         },
         {
           "Close": 9.239999771118164,
@@ -79519,6 +79519,10 @@
       "beta": 1.101,
       "historicalData": [
         {
+          "Close": 27.260000228881836,
+          "Volume": 6360563
+        },
+        {
           "Close": 27.040000915527344,
           "Volume": 5027223
         },
@@ -79613,10 +79617,6 @@
         {
           "Close": 23.440000534057617,
           "Volume": 3632710
-        },
-        {
-          "Close": 23.760000228881836,
-          "Volume": 3489969
         },
         {
           "Close": 23.920000076293945,
@@ -80086,6 +80086,10 @@
       "beta": 1.305,
       "historicalData": [
         {
+          "Close": 52.20000076293945,
+          "Volume": 852977
+        },
+        {
           "Close": 52.599998474121094,
           "Volume": 1083499
         },
@@ -80182,10 +80186,6 @@
           "Volume": 919872
         },
         {
-          "Close": 45.5,
-          "Volume": 796636
-        },
-        {
           "Close": 45.880001068115234,
           "Volume": 644563
         },
@@ -80274,6 +80274,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
+        {
+          "Close": 4.730000019073486,
+          "Volume": 5774936
+        },
         {
           "Close": 4.650000095367432,
           "Volume": 3501130
@@ -80371,10 +80375,6 @@
           "Volume": 3263944
         },
         {
-          "Close": 4.010000228881836,
-          "Volume": 2924618
-        },
-        {
           "Close": 3.799999952316284,
           "Volume": 8152894
         },
@@ -80463,6 +80463,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.357,
       "historicalData": [
+        {
+          "Close": 10.300000190734863,
+          "Volume": 512828
+        },
         {
           "Close": 10.199999809265137,
           "Volume": 391487
@@ -80558,10 +80562,6 @@
         {
           "Close": 4.829999923706055,
           "Volume": 281091
-        },
-        {
-          "Close": 4.920000076293945,
-          "Volume": 677226
         },
         {
           "Close": 5.059999942779541,
@@ -81031,6 +81031,10 @@
       "beta": 0.257,
       "historicalData": [
         {
+          "Close": 2.180000066757202,
+          "Volume": 121546168
+        },
+        {
           "Close": 2.059999942779541,
           "Volume": 105609979
         },
@@ -81127,10 +81131,6 @@
           "Volume": 16770395
         },
         {
-          "Close": 1.7200000286102295,
-          "Volume": 17220426
-        },
-        {
           "Close": 1.7000000476837158,
           "Volume": 16120414
         },
@@ -81219,6 +81219,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.951,
       "historicalData": [
+        {
+          "Close": 4.730000019073486,
+          "Volume": 1404500
+        },
         {
           "Close": 4.630000114440918,
           "Volume": 883846
@@ -81314,10 +81318,6 @@
         {
           "Close": 4.699999809265137,
           "Volume": 1564633
-        },
-        {
-          "Close": 4.769999980926514,
-          "Volume": 1361113
         },
         {
           "Close": 4.670000076293945,
@@ -81787,6 +81787,10 @@
       "beta": 0.034,
       "historicalData": [
         {
+          "Close": 273.0,
+          "Volume": 37021
+        },
+        {
           "Close": 270.0,
           "Volume": 31583
         },
@@ -81883,10 +81887,6 @@
           "Volume": 60908
         },
         {
-          "Close": 276.0,
-          "Volume": 497849
-        },
-        {
           "Close": 269.0,
           "Volume": 56644
         },
@@ -81975,6 +81975,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.629,
       "historicalData": [
+        {
+          "Close": 15.100000381469727,
+          "Volume": 25130061
+        },
         {
           "Close": 13.850000381469727,
           "Volume": 10355459
@@ -82072,10 +82076,6 @@
           "Volume": 1473055
         },
         {
-          "Close": 14.180000305175781,
-          "Volume": 4075839
-        },
-        {
           "Close": 13.829999923706055,
           "Volume": 1703570
         },
@@ -82164,6 +82164,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 1.419,
       "historicalData": [
+        {
+          "Close": 31.8799991607666,
+          "Volume": 2176177
+        },
         {
           "Close": 32.2400016784668,
           "Volume": 2398407
@@ -82259,10 +82263,6 @@
         {
           "Close": 23.219999313354492,
           "Volume": 1000446
-        },
-        {
-          "Close": 23.6200008392334,
-          "Volume": 1058356
         },
         {
           "Close": 23.520000457763672,
@@ -82544,6 +82544,10 @@
       "historicalData": [
         {
           "Close": 3.7699999809265137,
+          "Volume": 21716196
+        },
+        {
+          "Close": 3.7699999809265137,
           "Volume": 35475013
         },
         {
@@ -82639,10 +82643,6 @@
           "Volume": 41158433
         },
         {
-          "Close": 3.1600000858306885,
-          "Volume": 27076585
-        },
-        {
           "Close": 3.180000066757202,
           "Volume": 18498898
         },
@@ -82731,6 +82731,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
+        {
+          "Close": 4.539999961853027,
+          "Volume": 124599683
+        },
         {
           "Close": 4.989999771118164,
           "Volume": 32311872
@@ -82828,10 +82832,6 @@
           "Volume": 10536840
         },
         {
-          "Close": 3.5299999713897705,
-          "Volume": 11907575
-        },
-        {
           "Close": 3.509999990463257,
           "Volume": 9799575
         },
@@ -82920,6 +82920,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.404,
       "historicalData": [
+        {
+          "Close": 21.739999771118164,
+          "Volume": 35932
+        },
         {
           "Close": 20.84000015258789,
           "Volume": 114017
@@ -83017,10 +83021,6 @@
           "Volume": 16518
         },
         {
-          "Close": 19.010000228881836,
-          "Volume": 32431
-        },
-        {
           "Close": 19.0,
           "Volume": 18709
         },
@@ -83109,6 +83109,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.215,
       "historicalData": [
+        {
+          "Close": 8.569999694824219,
+          "Volume": 70620
+        },
         {
           "Close": 8.550000190734863,
           "Volume": 83779
@@ -83206,10 +83210,6 @@
           "Volume": 53103
         },
         {
-          "Close": 8.199999809265137,
-          "Volume": 75278
-        },
-        {
           "Close": 8.100000381469727,
           "Volume": 96077
         },
@@ -83298,6 +83298,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.47,
       "historicalData": [
+        {
+          "Close": 128.5,
+          "Volume": 18015
+        },
         {
           "Close": 126.5,
           "Volume": 12817
@@ -83393,10 +83397,6 @@
         {
           "Close": 118.5,
           "Volume": 21882
-        },
-        {
-          "Close": 119.0999984741211,
-          "Volume": 24074
         },
         {
           "Close": 118.80000305175781,
@@ -83677,6 +83677,10 @@
       "beta": null,
       "historicalData": [
         {
+          "Close": 345.0,
+          "Volume": 2712
+        },
+        {
           "Close": 341.5,
           "Volume": 4941
         },
@@ -83773,10 +83777,6 @@
           "Volume": 3272
         },
         {
-          "Close": 300.0,
-          "Volume": 6961
-        },
-        {
           "Close": 295.25,
           "Volume": 2156
         },
@@ -83865,6 +83865,10 @@
       "numberOfAnalystOpinions": 1,
       "beta": -0.188,
       "historicalData": [
+        {
+          "Close": 29.100000381469727,
+          "Volume": 477127
+        },
         {
           "Close": 29.020000457763672,
           "Volume": 476424
@@ -83962,10 +83966,6 @@
           "Volume": 3936853
         },
         {
-          "Close": 49.20000076293945,
-          "Volume": 8002948
-        },
-        {
           "Close": 47.0,
           "Volume": 5523050
         },
@@ -84054,6 +84054,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.448,
       "historicalData": [
+        {
+          "Close": 7.150000095367432,
+          "Volume": 1549132
+        },
         {
           "Close": 7.150000095367432,
           "Volume": 961997
@@ -84149,10 +84153,6 @@
         {
           "Close": 6.179999828338623,
           "Volume": 3985205
-        },
-        {
-          "Close": 6.119999885559082,
-          "Volume": 2818813
         },
         {
           "Close": 6.0,
@@ -85189,6 +85189,10 @@
       "beta": 0.632,
       "historicalData": [
         {
+          "Close": 9.920000076293945,
+          "Volume": 8772123
+        },
+        {
           "Close": 9.670000076293945,
           "Volume": 5020983
         },
@@ -85285,10 +85289,6 @@
           "Volume": 10842829
         },
         {
-          "Close": 7.920000076293945,
-          "Volume": 4771662
-        },
-        {
           "Close": 7.659999847412109,
           "Volume": 4451135
         },
@@ -85377,6 +85377,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.471,
       "historicalData": [
+        {
+          "Close": 160.89999389648438,
+          "Volume": 13925876
+        },
         {
           "Close": 162.0,
           "Volume": 24499044
@@ -85472,10 +85476,6 @@
         {
           "Close": 170.39999389648438,
           "Volume": 7221068
-        },
-        {
-          "Close": 180.0,
-          "Volume": 13892555
         },
         {
           "Close": 181.89999389648438,
@@ -85756,6 +85756,10 @@
       "beta": 0.557,
       "historicalData": [
         {
+          "Close": 171.8000030517578,
+          "Volume": 158542
+        },
+        {
           "Close": 168.8000030517578,
           "Volume": 165764
         },
@@ -85852,10 +85856,6 @@
           "Volume": 183788
         },
         {
-          "Close": 187.3000030517578,
-          "Volume": 720976
-        },
-        {
           "Close": 181.0,
           "Volume": 137843
         },
@@ -85944,6 +85944,10 @@
       "numberOfAnalystOpinions": 2,
       "beta": -0.006,
       "historicalData": [
+        {
+          "Close": 132.8000030517578,
+          "Volume": 5499110
+        },
         {
           "Close": 141.6999969482422,
           "Volume": 7602068
@@ -86039,10 +86043,6 @@
         {
           "Close": 152.6999969482422,
           "Volume": 4415509
-        },
-        {
-          "Close": 154.5,
-          "Volume": 4394356
         },
         {
           "Close": 164.0,
@@ -86323,6 +86323,10 @@
       "beta": 0.441,
       "historicalData": [
         {
+          "Close": 95.0,
+          "Volume": 263127
+        },
+        {
           "Close": 93.80000305175781,
           "Volume": 174299
         },
@@ -86417,10 +86421,6 @@
         {
           "Close": 77.8499984741211,
           "Volume": 210813
-        },
-        {
-          "Close": 78.30000305175781,
-          "Volume": 136088
         },
         {
           "Close": 79.25,
@@ -87268,6 +87268,10 @@
       "beta": 0.867,
       "historicalData": [
         {
+          "Close": 6.840000152587891,
+          "Volume": 1617586
+        },
+        {
           "Close": 6.760000228881836,
           "Volume": 938432
         },
@@ -87364,10 +87368,6 @@
           "Volume": 1460967
         },
         {
-          "Close": 5.610000133514404,
-          "Volume": 2763311
-        },
-        {
           "Close": 5.579999923706055,
           "Volume": 1552920
         },
@@ -87456,6 +87456,10 @@
       "numberOfAnalystOpinions": 6,
       "beta": 0.674,
       "historicalData": [
+        {
+          "Close": 11.770000457763672,
+          "Volume": 19311297
+        },
         {
           "Close": 12.210000038146973,
           "Volume": 28822909
@@ -87551,10 +87555,6 @@
         {
           "Close": 10.869999885559082,
           "Volume": 17848701
-        },
-        {
-          "Close": 10.9399995803833,
-          "Volume": 14530145
         },
         {
           "Close": 11.220000267028809,
@@ -89347,6 +89347,10 @@
       "beta": -0.441,
       "historicalData": [
         {
+          "Close": 9.489999771118164,
+          "Volume": 9733998
+        },
+        {
           "Close": 9.600000381469727,
           "Volume": 9952031
         },
@@ -89441,10 +89445,6 @@
         {
           "Close": 8.300000190734863,
           "Volume": 8569340
-        },
-        {
-          "Close": 8.0600004196167,
-          "Volume": 15172935
         },
         {
           "Close": 7.869999885559082,
@@ -90103,6 +90103,10 @@
       "beta": 0.644,
       "historicalData": [
         {
+          "Close": 1.375,
+          "Volume": 43183058
+        },
+        {
           "Close": 1.3583329916000366,
           "Volume": 35157406
         },
@@ -90199,10 +90203,6 @@
           "Volume": 30802529
         },
         {
-          "Close": 1.2100000381469727,
-          "Volume": 43504135
-        },
-        {
           "Close": 1.190000057220459,
           "Volume": 123500522
         },
@@ -90291,6 +90291,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.174,
       "historicalData": [
+        {
+          "Close": 74.0,
+          "Volume": 162343
+        },
         {
           "Close": 74.9000015258789,
           "Volume": 90487
@@ -90388,10 +90392,6 @@
           "Volume": 113335
         },
         {
-          "Close": 66.4000015258789,
-          "Volume": 138261
-        },
-        {
           "Close": 65.55000305175781,
           "Volume": 98430
         },
@@ -90480,6 +90480,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.14,
       "historicalData": [
+        {
+          "Close": 95.94999694824219,
+          "Volume": 159950
+        },
         {
           "Close": 95.69999694824219,
           "Volume": 230096
@@ -90575,10 +90579,6 @@
         {
           "Close": 88.5,
           "Volume": 101335
-        },
-        {
-          "Close": 89.5999984741211,
-          "Volume": 134120
         },
         {
           "Close": 88.44999694824219,
@@ -92939,6 +92939,10 @@
       "historicalData": [
         {
           "Close": 3.119999885559082,
+          "Volume": 5592133
+        },
+        {
+          "Close": 3.119999885559082,
           "Volume": 3842500
         },
         {
@@ -93032,10 +93036,6 @@
         {
           "Close": 2.9000000953674316,
           "Volume": 4545529
-        },
-        {
-          "Close": 2.890000104904175,
-          "Volume": 6705000
         },
         {
           "Close": 2.7699999809265137,
@@ -93505,6 +93505,10 @@
       "beta": 0.143,
       "historicalData": [
         {
+          "Close": 9.199999809265137,
+          "Volume": 2210476
+        },
+        {
           "Close": 10.119999885559082,
           "Volume": 2612745
         },
@@ -93599,10 +93603,6 @@
         {
           "Close": 7.710000038146973,
           "Volume": 1293344
-        },
-        {
-          "Close": 7.800000190734863,
-          "Volume": 2088736
         },
         {
           "Close": 7.71999979019165,
@@ -93762,6 +93762,10 @@
       "beta": 0.294,
       "historicalData": [
         {
+          "Close": 2.7300000190734863,
+          "Volume": 40951874
+        },
+        {
           "Close": 2.8499999046325684,
           "Volume": 266444947
         },
@@ -93858,10 +93862,6 @@
           "Volume": 23600443
         },
         {
-          "Close": 2.3299999237060547,
-          "Volume": 30671876
-        },
-        {
           "Close": 2.309999942779541,
           "Volume": 27838096
         },
@@ -93950,6 +93950,10 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.376,
       "historicalData": [
+        {
+          "Close": 17.600000381469727,
+          "Volume": 3379923
+        },
         {
           "Close": 18.059999465942383,
           "Volume": 7199021
@@ -94045,10 +94049,6 @@
         {
           "Close": 18.100000381469727,
           "Volume": 537515
-        },
-        {
-          "Close": 18.700000762939453,
-          "Volume": 945615
         },
         {
           "Close": 18.25,
