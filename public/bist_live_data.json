@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-09T17:37:41.836211",
+  "last_update": "2026-08-09T18:49:24.497175",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -1584,10 +1584,6 @@
       "historicalData": [
         {
           "Close": 219.1999969482422,
-          "Volume": 28116816
-        },
-        {
-          "Close": 219.1999969482422,
           "Volume": 11219800
         },
         {
@@ -1683,6 +1679,10 @@
           "Volume": 22983322
         },
         {
+          "Close": 295.25,
+          "Volume": 22052293
+        },
+        {
           "Close": 290.5,
           "Volume": 21759393
         },
@@ -1771,10 +1771,6 @@
       "numberOfAnalystOpinions": 9,
       "beta": 0.105,
       "historicalData": [
-        {
-          "Close": 19.31999969482422,
-          "Volume": 42242464
-        },
         {
           "Close": 19.579999923706055,
           "Volume": 31771274
@@ -1870,6 +1866,10 @@
         {
           "Close": 19.010000228881836,
           "Volume": 77121992
+        },
+        {
+          "Close": 19.1200008392334,
+          "Volume": 89732176
         },
         {
           "Close": 19.079999923706055,
@@ -2144,8 +2144,8 @@
       "targetLowPrice": 37.394527,
       "targetMeanPrice": 47.172436,
       "targetMedianPrice": 48.269466,
-      "recommendationMean": 2.14286,
-      "recommendationKey": "buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
       "beta": 0.451,
       "historicalData": [
@@ -2304,7 +2304,7 @@
       "phone": "90 312 592 10 00",
       "description": "ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi engages in research, development, engineering, production, testing, assembly, integration, sale, support, consultancy, and trading of software, equipment, systems, tools, materials, and platforms in turkey. It operates in six divisions: Communication and Information Technologies; Microelectronics, Guidance & Electro-Optics; Avionics and Guidance Systems Vice Presidency; Integrated Defence Systems Technologies; Radar and Electronic Warfare Systems; and Transportation, Security, Energy, Automation and Healthcare Systems. The company offers military communication and information, mission critical communication, avionics and navigation, electro-optic, guidance and seeker, land and weapon, naval and underwater, air and missile, transportation and energy, and security and health systems; satellite and space technologies; radar technologies; electronic warfare system technologies; and command, control, communication and computer systems. It also provides geographic information system; business development and repair services; and consultancy services, as well as operates in the fields of augmented reality, artificial intelligence, simulation software, research, development, and design and engineering. In addition, the company is involved in serial production, maintenance and repair activities of visible precision optical and electro optical devices; designing of electronic industry and integrated circuit; marketing and business development business; research, designing, development, and engineering activities of weapons and weapons systems; after-sales services of electronic components within the field of military power electronics; and commercial and industrial activities related to electromechanical industrial products and slip ring. The company was incorporated in 1975 and is headquartered in Ankara, Turkey. ASELSAN Elektronik Sanayi ve Ticaret Anonim Sirketi is a subsidiary of Turkish Armed Forces Foundation.",
       "pe": 49.475525,
-      "forwardPE": 17.884668,
+      "forwardPE": 17.891453,
       "priceToBook": 5.258816,
       "pegRatio": null,
       "priceToSales": 8.147661,
@@ -2906,10 +2906,6 @@
       "beta": 0.066,
       "historicalData": [
         {
-          "Close": 47.0,
-          "Volume": 6596467
-        },
-        {
           "Close": 46.779998779296875,
           "Volume": 4496015
         },
@@ -3004,6 +3000,10 @@
         {
           "Close": 52.599998474121094,
           "Volume": 4725773
+        },
+        {
+          "Close": 51.0,
+          "Volume": 6036738
         },
         {
           "Close": 50.20000076293945,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.31,
       "exDividendDate": 1790035200,
       "payoutRatio": 0.0,
-      "targetHighPrice": 521.10876,
-      "targetLowPrice": 344.59265,
-      "targetMeanPrice": 430.91568,
-      "targetMedianPrice": 437.5946,
+      "targetHighPrice": 521.14087,
+      "targetLowPrice": 344.6139,
+      "targetMeanPrice": 430.94223,
+      "targetMedianPrice": 437.62155,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -6497,10 +6497,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 138.0,
-          "Volume": 827141
-        },
-        {
           "Close": 135.8000030517578,
           "Volume": 614993
         },
@@ -6595,6 +6591,10 @@
         {
           "Close": 133.6999969482422,
           "Volume": 383729
+        },
+        {
+          "Close": 136.0,
+          "Volume": 738410
         },
         {
           "Close": 135.0,
@@ -8945,9 +8945,9 @@
       "exDividendDate": 1717632000,
       "payoutRatio": 0.0,
       "targetHighPrice": 124.13947,
-      "targetLowPrice": 91.0,
-      "targetMeanPrice": 112.93991,
-      "targetMedianPrice": 116.1,
+      "targetLowPrice": 110.0,
+      "targetMeanPrice": 117.48991,
+      "targetMedianPrice": 117.9,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 6,
@@ -9109,7 +9109,7 @@
       "description": "Albaraka Türk Katilim Bankasi A.S. provides various banking products and services in Turkey. It provides participation, current, trend, and gold accounts. The company also offers housing, real estate, vehicle, consumer, dealer, and jet financing services; cards, including debit, trend, credit, and digital debit cards; insurance and pensions, such as private pensions, auto, home, health, life and personal accident; investment, comprising capital market and treasury products; payments and other banking services. In addition, it provides SME, commercial, and corporate cash and non-cash, leasing, credit guarantee fund, and dealer financing; foreign trade payments, financings, treasury products, electronic transfer notice form, other transactions; cash management, such as collections and payments, e-services, and intergrations; merchant and POS, including merchant member services, applications, products, and solutions; investment, which includes capital market products, treasury products, and electronic product certificate; insurance and pension for employees, responsibilities, assets, and farmers; and SME and chargeback cards. Further, the company offers digital banking; mobile banking; open banking; and internet branch services, as well as provides ATM banking and services. Albaraka Türk Katilim Bankasi A.S. was incorporated in 1984 and is headquartered in Ümraniye, Turkey.",
       "pe": 2.5303032,
       "forwardPE": 4.4892473,
-      "priceToBook": 0.7090693,
+      "priceToBook": 0.72785914,
       "pegRatio": 0.37,
       "priceToSales": 0.7195689,
       "enterpriseToRevenue": 0.601,
@@ -9128,7 +9128,7 @@
       "quickRatio": null,
       "eps": 3.3,
       "forwardEps": 1.86,
-      "bookValue": 11.776,
+      "bookValue": 11.472,
       "dividendRate": 0.26,
       "dividendYield": 3.14,
       "exDividendDate": 1776211200,
@@ -11970,10 +11970,10 @@
       "payoutRatio": 0.2039,
       "targetHighPrice": 397.5,
       "targetLowPrice": 300.0,
-      "targetMeanPrice": 344.82,
-      "targetMedianPrice": 328.24,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "targetMeanPrice": 347.898,
+      "targetMedianPrice": 343.63,
+      "recommendationMean": 1.2,
+      "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 5,
       "beta": 0.439,
       "historicalData": [
@@ -12725,11 +12725,11 @@
       "exDividendDate": 1776643200,
       "payoutRatio": 0.0941,
       "targetHighPrice": 14.03,
-      "targetLowPrice": 12.0,
-      "targetMeanPrice": 13.015,
-      "targetMedianPrice": 13.015,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "targetLowPrice": 13.5,
+      "targetMeanPrice": 13.765,
+      "targetMedianPrice": 13.765,
+      "recommendationMean": 1.0,
+      "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 2,
       "beta": -0.09,
       "historicalData": [
@@ -20294,10 +20294,6 @@
       "beta": 0.399,
       "historicalData": [
         {
-          "Close": 7.380000114440918,
-          "Volume": 27355507
-        },
-        {
           "Close": 7.349999904632568,
           "Volume": 12891737
         },
@@ -20394,6 +20390,10 @@
           "Volume": 4265874
         },
         {
+          "Close": 6.809999942779541,
+          "Volume": 4920557
+        },
+        {
           "Close": 6.829999923706055,
           "Volume": 6685728
         },
@@ -20482,10 +20482,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.795,
       "historicalData": [
-        {
-          "Close": 9.720000267028809,
-          "Volume": 66143599
-        },
         {
           "Close": 9.779999732971191,
           "Volume": 42964441
@@ -20583,6 +20579,10 @@
           "Volume": 13942023
         },
         {
+          "Close": 9.40999984741211,
+          "Volume": 21214238
+        },
+        {
           "Close": 9.34000015258789,
           "Volume": 14943077
         },
@@ -20671,10 +20671,6 @@
       "numberOfAnalystOpinions": 2,
       "beta": -0.139,
       "historicalData": [
-        {
-          "Close": 25.8799991607666,
-          "Volume": 376403
-        },
         {
           "Close": 25.799999237060547,
           "Volume": 321002
@@ -20770,6 +20766,10 @@
         {
           "Close": 23.799999237060547,
           "Volume": 161904
+        },
+        {
+          "Close": 23.760000228881836,
+          "Volume": 285930
         },
         {
           "Close": 23.200000762939453,
@@ -22562,10 +22562,6 @@
       "beta": 1.297,
       "historicalData": [
         {
-          "Close": 89.30000305175781,
-          "Volume": 848090
-        },
-        {
           "Close": 87.9000015258789,
           "Volume": 337758
         },
@@ -22660,6 +22656,10 @@
         {
           "Close": 74.4000015258789,
           "Volume": 170300
+        },
+        {
+          "Close": 75.0,
+          "Volume": 200245
         },
         {
           "Close": 73.9000015258789,
@@ -23507,10 +23507,6 @@
       "beta": 0.812,
       "historicalData": [
         {
-          "Close": 40.439998626708984,
-          "Volume": 1112973
-        },
-        {
           "Close": 40.18000030517578,
           "Volume": 4313316
         },
@@ -23605,6 +23601,10 @@
         {
           "Close": 36.439998626708984,
           "Volume": 1393304
+        },
+        {
+          "Close": 36.400001525878906,
+          "Volume": 1113128
         },
         {
           "Close": 36.619998931884766,
@@ -24074,10 +24074,6 @@
       "beta": -0.605,
       "historicalData": [
         {
-          "Close": 38.880001068115234,
-          "Volume": 864183
-        },
-        {
           "Close": 37.5,
           "Volume": 697081
         },
@@ -24172,6 +24168,10 @@
         {
           "Close": 37.959999084472656,
           "Volume": 652372
+        },
+        {
+          "Close": 38.220001220703125,
+          "Volume": 440491
         },
         {
           "Close": 38.380001068115234,
@@ -26342,10 +26342,6 @@
       "beta": 0.431,
       "historicalData": [
         {
-          "Close": 39.29999923706055,
-          "Volume": 1705426
-        },
-        {
           "Close": 37.5,
           "Volume": 3179736
         },
@@ -26440,6 +26436,10 @@
         {
           "Close": 43.02000045776367,
           "Volume": 3155401
+        },
+        {
+          "Close": 42.2599983215332,
+          "Volume": 2075604
         },
         {
           "Close": 41.5,
@@ -27997,7 +27997,7 @@
       "averageVolume": 33908214,
       "averageVolume10days": 22254377,
       "marketCap": 10683133952,
-      "enterpriseValue": 5253466112,
+      "enterpriseValue": 3547740672,
       "sharesOutstanding": 989179068,
       "sector": "Consumer Cyclical",
       "industry": "Apparel Manufacturing",
@@ -28012,8 +28012,8 @@
       "priceToBook": 1.1364832,
       "pegRatio": null,
       "priceToSales": 2.5367935,
-      "enterpriseToRevenue": 1.247,
-      "enterpriseToEbitda": 6.976,
+      "enterpriseToRevenue": 0.842,
+      "enterpriseToEbitda": 4.711,
       "profitMargins": -0.00179,
       "grossMargins": 0.28057,
       "operatingMargins": 0.18175,
@@ -28799,10 +28799,6 @@
       "beta": -0.13,
       "historicalData": [
         {
-          "Close": 70.5999984741211,
-          "Volume": 566605
-        },
-        {
           "Close": 69.80000305175781,
           "Volume": 257279
         },
@@ -28897,6 +28893,10 @@
         {
           "Close": 72.5,
           "Volume": 487358
+        },
+        {
+          "Close": 70.0999984741211,
+          "Volume": 523945
         },
         {
           "Close": 69.80000305175781,
@@ -29177,10 +29177,6 @@
       "beta": 0.247,
       "historicalData": [
         {
-          "Close": 44.040000915527344,
-          "Volume": 315477
-        },
-        {
           "Close": 39.91999816894531,
           "Volume": 373021
         },
@@ -29275,6 +29271,10 @@
         {
           "Close": 35.060001373291016,
           "Volume": 88793
+        },
+        {
+          "Close": 34.20000076293945,
+          "Volume": 90503
         },
         {
           "Close": 34.70000076293945,
@@ -37494,10 +37494,6 @@
       "historicalData": [
         {
           "Close": 5.809999942779541,
-          "Volume": 2237412
-        },
-        {
-          "Close": 5.809999942779541,
           "Volume": 1137136
         },
         {
@@ -37591,6 +37587,10 @@
         {
           "Close": 5.010000228881836,
           "Volume": 1534148
+        },
+        {
+          "Close": 5.0,
+          "Volume": 1187450
         },
         {
           "Close": 5.090000152587891,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 80.56007,
-      "targetLowPrice": 60.95664,
-      "targetMeanPrice": 68.477005,
-      "targetMedianPrice": 63.913845,
+      "targetHighPrice": 80.5604,
+      "targetLowPrice": 60.956894,
+      "targetMeanPrice": 68.477295,
+      "targetMedianPrice": 63.914116,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -57028,10 +57028,6 @@
       "beta": 0.488,
       "historicalData": [
         {
-          "Close": 14.489999771118164,
-          "Volume": 2073356
-        },
-        {
           "Close": 14.59000015258789,
           "Volume": 2086077
         },
@@ -57126,6 +57122,10 @@
         {
           "Close": 12.510000228881836,
           "Volume": 3073582
+        },
+        {
+          "Close": 12.430000305175781,
+          "Volume": 3589185
         },
         {
           "Close": 12.380000114440918,
@@ -60808,10 +60808,6 @@
       "beta": 0.741,
       "historicalData": [
         {
-          "Close": 3.430000066757202,
-          "Volume": 23396509
-        },
-        {
           "Close": 3.390000104904175,
           "Volume": 51683840
         },
@@ -60906,6 +60902,10 @@
         {
           "Close": 2.7699999809265137,
           "Volume": 11336749
+        },
+        {
+          "Close": 2.799999952316284,
+          "Volume": 8016496
         },
         {
           "Close": 2.700000047683716,
@@ -62131,10 +62131,6 @@
       "beta": 0.744,
       "historicalData": [
         {
-          "Close": 29.059999465942383,
-          "Volume": 20554038
-        },
-        {
           "Close": 30.0,
           "Volume": 35676089
         },
@@ -62229,6 +62225,10 @@
         {
           "Close": 26.979999542236328,
           "Volume": 18178778
+        },
+        {
+          "Close": 28.719999313354492,
+          "Volume": 29634366
         },
         {
           "Close": 30.280000686645508,
@@ -62698,10 +62698,6 @@
       "beta": 0.009,
       "historicalData": [
         {
-          "Close": 1.7799999713897705,
-          "Volume": 32626519
-        },
-        {
           "Close": 1.7599999904632568,
           "Volume": 29701151
         },
@@ -62796,6 +62792,10 @@
         {
           "Close": 1.4500000476837158,
           "Volume": 43978307
+        },
+        {
+          "Close": 1.4700000286102295,
+          "Volume": 38172878
         },
         {
           "Close": 1.3899999856948853,
@@ -78763,10 +78763,6 @@
       "beta": 0.596,
       "historicalData": [
         {
-          "Close": 7.210000038146973,
-          "Volume": 5723225
-        },
-        {
           "Close": 6.96999979019165,
           "Volume": 3762276
         },
@@ -78861,6 +78857,10 @@
         {
           "Close": 5.21999979019165,
           "Volume": 798482
+        },
+        {
+          "Close": 5.28000020980835,
+          "Volume": 624473
         },
         {
           "Close": 5.449999809265137,
@@ -80464,10 +80464,6 @@
       "beta": 0.357,
       "historicalData": [
         {
-          "Close": 10.300000190734863,
-          "Volume": 512828
-        },
-        {
           "Close": 10.199999809265137,
           "Volume": 391487
         },
@@ -80562,6 +80558,10 @@
         {
           "Close": 4.829999923706055,
           "Volume": 281091
+        },
+        {
+          "Close": 4.920000076293945,
+          "Volume": 677226
         },
         {
           "Close": 5.059999942779541,
@@ -86134,10 +86134,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 19.290000915527344,
-          "Volume": 4765001
-        },
-        {
           "Close": 19.93000030517578,
           "Volume": 5642667
         },
@@ -86234,6 +86230,10 @@
           "Volume": 2523662
         },
         {
+          "Close": 16.209999084472656,
+          "Volume": 2378199
+        },
+        {
           "Close": 16.079999923706055,
           "Volume": 1377960
         },
@@ -86322,10 +86322,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.441,
       "historicalData": [
-        {
-          "Close": 95.0,
-          "Volume": 263127
-        },
         {
           "Close": 93.80000305175781,
           "Volume": 174299
@@ -86423,6 +86419,10 @@
           "Volume": 210813
         },
         {
+          "Close": 78.30000305175781,
+          "Volume": 136088
+        },
+        {
           "Close": 79.25,
           "Volume": 129391
         },
@@ -86511,10 +86511,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.066,
       "historicalData": [
-        {
-          "Close": 458.25,
-          "Volume": 401252
-        },
         {
           "Close": 450.5,
           "Volume": 565637
@@ -86610,6 +86606,10 @@
         {
           "Close": 428.5,
           "Volume": 377207
+        },
+        {
+          "Close": 438.25,
+          "Volume": 426404
         },
         {
           "Close": 464.5,
@@ -87268,10 +87268,6 @@
       "beta": 0.867,
       "historicalData": [
         {
-          "Close": 6.840000152587891,
-          "Volume": 1617586
-        },
-        {
           "Close": 6.760000228881836,
           "Volume": 938432
         },
@@ -87366,6 +87362,10 @@
         {
           "Close": 5.800000190734863,
           "Volume": 1460967
+        },
+        {
+          "Close": 5.610000133514404,
+          "Volume": 2763311
         },
         {
           "Close": 5.579999923706055,
@@ -90103,10 +90103,6 @@
       "beta": 0.644,
       "historicalData": [
         {
-          "Close": 1.375,
-          "Volume": 43183058
-        },
-        {
           "Close": 1.3583329916000366,
           "Volume": 35157406
         },
@@ -90201,6 +90197,10 @@
         {
           "Close": 1.190000057220459,
           "Volume": 30802529
+        },
+        {
+          "Close": 1.2100000381469727,
+          "Volume": 43504135
         },
         {
           "Close": 1.190000057220459,
@@ -90670,10 +90670,6 @@
       "beta": 1.183,
       "historicalData": [
         {
-          "Close": 28.15999984741211,
-          "Volume": 3057323
-        },
-        {
           "Close": 28.399999618530273,
           "Volume": 2072286
         },
@@ -90768,6 +90764,10 @@
         {
           "Close": 29.68000030517578,
           "Volume": 1222120
+        },
+        {
+          "Close": 30.600000381469727,
+          "Volume": 1810210
         },
         {
           "Close": 30.799999237060547,
@@ -93127,10 +93127,6 @@
       "beta": -0.441,
       "historicalData": [
         {
-          "Close": 10.25,
-          "Volume": 3792107
-        },
-        {
           "Close": 10.039999961853027,
           "Volume": 3400725
         },
@@ -93225,6 +93221,10 @@
         {
           "Close": 8.6899995803833,
           "Volume": 2524271
+        },
+        {
+          "Close": 8.800000190734863,
+          "Volume": 3041188
         },
         {
           "Close": 8.649999618530273,
