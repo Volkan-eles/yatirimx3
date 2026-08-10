@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-10T18:29:45.193221",
+  "last_update": "2026-08-10T19:37:48.850230",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -1772,10 +1772,6 @@
       "beta": 0.105,
       "historicalData": [
         {
-          "Close": 19.579999923706055,
-          "Volume": 31771274
-        },
-        {
           "Close": 19.200000762939453,
           "Volume": 50732578
         },
@@ -1866,6 +1862,10 @@
         {
           "Close": 19.010000228881836,
           "Volume": 77121992
+        },
+        {
+          "Close": 19.1200008392334,
+          "Volume": 89732176
         },
         {
           "Close": 19.079999923706055,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 54.427673,
-      "targetLowPrice": 37.398155,
-      "targetMeanPrice": 47.17701,
-      "targetMedianPrice": 48.274147,
+      "targetHighPrice": 54.434147,
+      "targetLowPrice": 37.402603,
+      "targetMeanPrice": 47.18262,
+      "targetMedianPrice": 48.27989,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -4418,10 +4418,6 @@
       "beta": 0.471,
       "historicalData": [
         {
-          "Close": 21.139999389648438,
-          "Volume": 8343470
-        },
-        {
           "Close": 21.020000457763672,
           "Volume": 11190647
         },
@@ -4512,6 +4508,10 @@
         {
           "Close": 21.260000228881836,
           "Volume": 19581544
+        },
+        {
+          "Close": 20.920000076293945,
+          "Volume": 18467258
         },
         {
           "Close": 20.700000762939453,
@@ -4985,10 +4985,6 @@
       "beta": -0.237,
       "historicalData": [
         {
-          "Close": 89.30000305175781,
-          "Volume": 232046
-        },
-        {
           "Close": 86.75,
           "Volume": 469219
         },
@@ -5081,6 +5077,10 @@
           "Volume": 2473744
         },
         {
+          "Close": 81.5999984741211,
+          "Volume": 1980388
+        },
+        {
           "Close": 81.30000305175781,
           "Volume": 580527
         },
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.31,
       "exDividendDate": 1790035200,
       "payoutRatio": 0.0,
-      "targetHighPrice": 520.5236,
-      "targetLowPrice": 344.20572,
-      "targetMeanPrice": 430.43182,
-      "targetMedianPrice": 437.10324,
+      "targetHighPrice": 520.39886,
+      "targetLowPrice": 344.1232,
+      "targetMeanPrice": 430.3286,
+      "targetMedianPrice": 436.99844,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -6248,9 +6248,9 @@
       "name": "Çelebi Hava Servisi A.S.",
       "shortName": "CELEBI",
       "price": 1495.0,
-      "change": NaN,
-      "changeRate": 0,
-      "previousClose": NaN,
+      "change": 58.0,
+      "changeRate": 4.04,
+      "previousClose": 1437.0,
       "open": 1444.0,
       "dayLow": 1436.0,
       "dayHigh": 1509.0,
@@ -6306,7 +6306,128 @@
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
       "beta": -0.418,
-      "historicalData": [],
+      "historicalData": [
+        {
+          "Close": 1598.0,
+          "Volume": 25923
+        },
+        {
+          "Close": 1583.0,
+          "Volume": 21462
+        },
+        {
+          "Close": 1590.0,
+          "Volume": 40697
+        },
+        {
+          "Close": 1585.0,
+          "Volume": 23390
+        },
+        {
+          "Close": 1605.0,
+          "Volume": 28175
+        },
+        {
+          "Close": 1570.0,
+          "Volume": 50930
+        },
+        {
+          "Close": 1580.0,
+          "Volume": 59181
+        },
+        {
+          "Close": 1520.0,
+          "Volume": 42098
+        },
+        {
+          "Close": 1521.0,
+          "Volume": 21187
+        },
+        {
+          "Close": 1551.0,
+          "Volume": 24737
+        },
+        {
+          "Close": 1559.0,
+          "Volume": 25270
+        },
+        {
+          "Close": 1535.0,
+          "Volume": 20844
+        },
+        {
+          "Close": 1549.0,
+          "Volume": 28456
+        },
+        {
+          "Close": 1525.0,
+          "Volume": 20225
+        },
+        {
+          "Close": 1518.0,
+          "Volume": 18739
+        },
+        {
+          "Close": 1514.0,
+          "Volume": 14942
+        },
+        {
+          "Close": 1519.0,
+          "Volume": 20169
+        },
+        {
+          "Close": 1490.0,
+          "Volume": 29120
+        },
+        {
+          "Close": 1498.0,
+          "Volume": 21436
+        },
+        {
+          "Close": 1489.0,
+          "Volume": 37017
+        },
+        {
+          "Close": 1470.0,
+          "Volume": 23409
+        },
+        {
+          "Close": 1446.0,
+          "Volume": 56110
+        },
+        {
+          "Close": 1447.0,
+          "Volume": 22995
+        },
+        {
+          "Close": 1443.0,
+          "Volume": 23632
+        },
+        {
+          "Close": 1450.0,
+          "Volume": 33322
+        },
+        {
+          "Close": 1466.0,
+          "Volume": 39152
+        },
+        {
+          "Close": 1451.0,
+          "Volume": 23298
+        },
+        {
+          "Close": 1453.0,
+          "Volume": 19695
+        },
+        {
+          "Close": 1437.0,
+          "Volume": 24856
+        },
+        {
+          "Close": 1495.0,
+          "Volume": 43324
+        }
+      ],
       "heldPercentInsiders": 0.89912003,
       "heldPercentInstitutions": 0.00711
     },
@@ -6375,10 +6496,6 @@
       "numberOfAnalystOpinions": 4,
       "beta": null,
       "historicalData": [
-        {
-          "Close": 135.8000030517578,
-          "Volume": 614993
-        },
         {
           "Close": 138.10000610351562,
           "Volume": 917413
@@ -6470,6 +6587,10 @@
         {
           "Close": 133.6999969482422,
           "Volume": 383729
+        },
+        {
+          "Close": 136.0,
+          "Volume": 738410
         },
         {
           "Close": 135.0,
@@ -6565,10 +6686,6 @@
       "beta": -0.192,
       "historicalData": [
         {
-          "Close": 64.8499984741211,
-          "Volume": 435610
-        },
-        {
           "Close": 63.900001525878906,
           "Volume": 386990
         },
@@ -6659,6 +6776,10 @@
         {
           "Close": 61.54999923706055,
           "Volume": 362255
+        },
+        {
+          "Close": 64.44999694824219,
+          "Volume": 447629
         },
         {
           "Close": 62.79999923706055,
@@ -6888,7 +7009,7 @@
       "previousClose": 89.2,
       "open": 89.9,
       "dayLow": 88.85,
-      "dayHigh": 91.3,
+      "dayHigh": 91.25,
       "fiftyTwoWeekLow": 84.9,
       "fiftyTwoWeekHigh": 141.7,
       "fiftyDayAverage": 102.05,
@@ -6942,10 +7063,6 @@
       "numberOfAnalystOpinions": 9,
       "beta": 0.219,
       "historicalData": [
-        {
-          "Close": 102.4000015258789,
-          "Volume": 4823792
-        },
         {
           "Close": 102.0,
           "Volume": 4189250
@@ -7037,6 +7154,10 @@
         {
           "Close": 87.9000015258789,
           "Volume": 4157265
+        },
+        {
+          "Close": 86.30000305175781,
+          "Volume": 8021901
         },
         {
           "Close": 87.69999694824219,
@@ -10723,10 +10844,6 @@
       "beta": -0.501,
       "historicalData": [
         {
-          "Close": 5.760000228881836,
-          "Volume": 3350871
-        },
-        {
           "Close": 5.71999979019165,
           "Volume": 4424076
         },
@@ -10817,6 +10934,10 @@
         {
           "Close": 5.0,
           "Volume": 1630953
+        },
+        {
+          "Close": 5.039999961853027,
+          "Volume": 2897458
         },
         {
           "Close": 5.0,
@@ -11046,7 +11167,7 @@
       "previousClose": 44.82,
       "open": 45.0,
       "dayLow": 44.98,
-      "dayHigh": 46.04,
+      "dayHigh": 46.02,
       "fiftyTwoWeekLow": 41.18,
       "fiftyTwoWeekHigh": 60.0,
       "fiftyDayAverage": 48.6,
@@ -13502,7 +13623,7 @@
       "changeRate": -1.81,
       "previousClose": 42.08,
       "open": 42.06,
-      "dayLow": 41.02,
+      "dayLow": 41.0,
       "dayHigh": 42.24,
       "fiftyTwoWeekLow": 35.8,
       "fiftyTwoWeekHigh": 66.6,
@@ -14314,10 +14435,6 @@
       "beta": 0.326,
       "historicalData": [
         {
-          "Close": 28.079999923706055,
-          "Volume": 3239130
-        },
-        {
           "Close": 27.600000381469727,
           "Volume": 1778902
         },
@@ -14408,6 +14525,10 @@
         {
           "Close": 26.8799991607666,
           "Volume": 3751200
+        },
+        {
+          "Close": 27.200000762939453,
+          "Volume": 3732424
         },
         {
           "Close": 27.280000686645508,
@@ -14637,7 +14758,7 @@
       "previousClose": 77.3,
       "open": 77.3,
       "dayLow": 76.95,
-      "dayHigh": 79.45,
+      "dayHigh": 79.5,
       "fiftyTwoWeekLow": 24.42,
       "fiftyTwoWeekHigh": 79.45,
       "fiftyDayAverage": 64.98,
@@ -17660,7 +17781,7 @@
       "changeRate": -2.12,
       "previousClose": 34.0,
       "open": 34.52,
-      "dayLow": 33.22,
+      "dayLow": 33.2,
       "dayHigh": 34.76,
       "fiftyTwoWeekLow": 24.1,
       "fiftyTwoWeekHigh": 45.8,
@@ -22008,7 +22129,7 @@
       "previousClose": 6.12,
       "open": 6.21,
       "dayLow": 6.03,
-      "dayHigh": 6.62,
+      "dayHigh": 6.63,
       "fiftyTwoWeekLow": 5.9,
       "fiftyTwoWeekHigh": 8.39,
       "fiftyDayAverage": 6.49,
@@ -22819,10 +22940,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 544.0,
-          "Volume": 1038439
-        },
-        {
           "Close": 570.0,
           "Volume": 2254207
         },
@@ -22913,6 +23030,10 @@
         {
           "Close": 528.0,
           "Volume": 1472285
+        },
+        {
+          "Close": 521.5,
+          "Volume": 2322238
         },
         {
           "Close": 532.0,
@@ -23764,10 +23885,6 @@
       "beta": 0.456,
       "historicalData": [
         {
-          "Close": 117.69999694824219,
-          "Volume": 416422
-        },
-        {
           "Close": 118.5999984741211,
           "Volume": 384452
         },
@@ -23858,6 +23975,10 @@
         {
           "Close": 105.0,
           "Volume": 347400
+        },
+        {
+          "Close": 106.4000015258789,
+          "Volume": 307480
         },
         {
           "Close": 107.5,
@@ -26410,10 +26531,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 148.8000030517578,
-          "Volume": 429553
-        },
-        {
           "Close": 150.39999389648438,
           "Volume": 340554
         },
@@ -26506,6 +26623,10 @@
           "Volume": 1927506
         },
         {
+          "Close": 181.39999389648438,
+          "Volume": 2293878
+        },
+        {
           "Close": 165.0,
           "Volume": 2836721
         },
@@ -26544,7 +26665,7 @@
       "previousClose": 24.76,
       "open": 24.94,
       "dayLow": 24.48,
-      "dayHigh": 27.12,
+      "dayHigh": 27.22,
       "fiftyTwoWeekLow": 20.4,
       "fiftyTwoWeekHigh": 40.84,
       "fiftyDayAverage": 24.44,
@@ -26922,7 +27043,7 @@
       "previousClose": 42.2,
       "open": 39.98,
       "dayLow": 38.88,
-      "dayHigh": 42.44,
+      "dayHigh": 42.46,
       "fiftyTwoWeekLow": 15.23,
       "fiftyTwoWeekHigh": 48.3,
       "fiftyDayAverage": 39.28,
@@ -27355,10 +27476,6 @@
       "beta": -1.174,
       "historicalData": [
         {
-          "Close": 10.300000190734863,
-          "Volume": 181238060
-        },
-        {
           "Close": 10.09000015258789,
           "Volume": 112356301
         },
@@ -27449,6 +27566,10 @@
         {
           "Close": 8.75,
           "Volume": 48452594
+        },
+        {
+          "Close": 8.6899995803833,
+          "Volume": 70739573
         },
         {
           "Close": 8.5,
@@ -27733,10 +27854,6 @@
       "beta": 0.155,
       "historicalData": [
         {
-          "Close": 2.440000057220459,
-          "Volume": 14588544
-        },
-        {
           "Close": 2.430000066757202,
           "Volume": 11230073
         },
@@ -27827,6 +27944,10 @@
         {
           "Close": 2.2799999713897705,
           "Volume": 10835424
+        },
+        {
+          "Close": 2.3399999141693115,
+          "Volume": 14046198
         },
         {
           "Close": 2.380000114440918,
@@ -28300,10 +28421,6 @@
       "beta": 0.331,
       "historicalData": [
         {
-          "Close": 10.739999771118164,
-          "Volume": 3587598
-        },
-        {
           "Close": 10.5,
           "Volume": 1658661
         },
@@ -28394,6 +28511,10 @@
         {
           "Close": 9.329999923706055,
           "Volume": 2250233
+        },
+        {
+          "Close": 9.449999809265137,
+          "Volume": 1834912
         },
         {
           "Close": 9.1899995803833,
@@ -28489,10 +28610,6 @@
       "beta": 0.973,
       "historicalData": [
         {
-          "Close": 43.29999923706055,
-          "Volume": 207811
-        },
-        {
           "Close": 43.400001525878906,
           "Volume": 314029
         },
@@ -28583,6 +28700,10 @@
         {
           "Close": 39.779998779296875,
           "Volume": 791719
+        },
+        {
+          "Close": 41.02000045776367,
+          "Volume": 1308429
         },
         {
           "Close": 39.959999084472656,
@@ -32213,7 +32334,7 @@
       "changeRate": -0.52,
       "previousClose": 38.38,
       "open": 39.98,
-      "dayLow": 37.38,
+      "dayLow": 37.36,
       "dayHigh": 39.98,
       "fiftyTwoWeekLow": 30.22,
       "fiftyTwoWeekHigh": 44.6,
@@ -32647,10 +32768,6 @@
       "beta": 0.601,
       "historicalData": [
         {
-          "Close": 18.610000610351562,
-          "Volume": 3693834
-        },
-        {
           "Close": 18.899999618530273,
           "Volume": 1676929
         },
@@ -32741,6 +32858,10 @@
         {
           "Close": 18.1200008392334,
           "Volume": 1502347
+        },
+        {
+          "Close": 18.450000762939453,
+          "Volume": 3188216
         },
         {
           "Close": 18.020000457763672,
@@ -33914,7 +34035,7 @@
       "changeRate": -0.56,
       "previousClose": 28.8,
       "open": 28.8,
-      "dayLow": 28.62,
+      "dayLow": 28.6,
       "dayHigh": 29.46,
       "fiftyTwoWeekLow": 27.02,
       "fiftyTwoWeekHigh": 44.7,
@@ -34726,10 +34847,6 @@
       "beta": -0.493,
       "historicalData": [
         {
-          "Close": 6.050000190734863,
-          "Volume": 77724202
-        },
-        {
           "Close": 6.010000228881836,
           "Volume": 60539176
         },
@@ -34820,6 +34937,10 @@
         {
           "Close": 5.480000019073486,
           "Volume": 14063936
+        },
+        {
+          "Close": 5.369999885559082,
+          "Volume": 26936057
         },
         {
           "Close": 5.289999961853027,
@@ -37372,10 +37493,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 5.809999942779541,
-          "Volume": 1137136
-        },
-        {
           "Close": 5.699999809265137,
           "Volume": 645472
         },
@@ -37466,6 +37583,10 @@
         {
           "Close": 5.010000228881836,
           "Volume": 1534148
+        },
+        {
+          "Close": 5.0,
+          "Volume": 1187450
         },
         {
           "Close": 5.090000152587891,
@@ -38073,7 +38194,7 @@
       "previousClose": 10.05,
       "open": 10.05,
       "dayLow": 9.82,
-      "dayHigh": 10.17,
+      "dayHigh": 10.16,
       "fiftyTwoWeekLow": 8.33,
       "fiftyTwoWeekHigh": 16.6,
       "fiftyDayAverage": 11.88,
@@ -40396,10 +40517,6 @@
       "beta": 0.787,
       "historicalData": [
         {
-          "Close": 46.7599983215332,
-          "Volume": 9044937
-        },
-        {
           "Close": 43.400001525878906,
           "Volume": 12757812
         },
@@ -40490,6 +40607,10 @@
         {
           "Close": 41.0,
           "Volume": 6196148
+        },
+        {
+          "Close": 41.97999954223633,
+          "Volume": 7553072
         },
         {
           "Close": 41.97999954223633,
@@ -40963,10 +41084,6 @@
       "beta": -0.4,
       "historicalData": [
         {
-          "Close": 13.960000038146973,
-          "Volume": 1278404
-        },
-        {
           "Close": 13.470000267028809,
           "Volume": 902644
         },
@@ -41057,6 +41174,10 @@
         {
           "Close": 11.979999542236328,
           "Volume": 135463
+        },
+        {
+          "Close": 12.0,
+          "Volume": 114201
         },
         {
           "Close": 11.989999771118164,
@@ -41530,10 +41651,6 @@
       "beta": 0.594,
       "historicalData": [
         {
-          "Close": 17.520000457763672,
-          "Volume": 6204878
-        },
-        {
           "Close": 17.979999542236328,
           "Volume": 3770088
         },
@@ -41624,6 +41741,10 @@
         {
           "Close": 16.020000457763672,
           "Volume": 3100052
+        },
+        {
+          "Close": 16.280000686645508,
+          "Volume": 2042017
         },
         {
           "Close": 16.610000610351562,
@@ -41719,10 +41840,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 45.70000076293945,
-          "Volume": 1448076
-        },
-        {
           "Close": 44.70000076293945,
           "Volume": 1061855
         },
@@ -41813,6 +41930,10 @@
         {
           "Close": 47.0,
           "Volume": 1413635
+        },
+        {
+          "Close": 45.119998931884766,
+          "Volume": 1735088
         },
         {
           "Close": 45.880001068115234,
@@ -42853,10 +42974,6 @@
       "beta": 0.067,
       "historicalData": [
         {
-          "Close": 307.0,
-          "Volume": 505273
-        },
-        {
           "Close": 305.5,
           "Volume": 325988
         },
@@ -42947,6 +43064,10 @@
         {
           "Close": 360.0,
           "Volume": 371872
+        },
+        {
+          "Close": 356.0,
+          "Volume": 480953
         },
         {
           "Close": 348.75,
@@ -44932,10 +45053,6 @@
       "beta": 0.707,
       "historicalData": [
         {
-          "Close": 5.900000095367432,
-          "Volume": 32816081
-        },
-        {
           "Close": 5.920000076293945,
           "Volume": 16110628
         },
@@ -45028,6 +45145,10 @@
           "Volume": 6576785
         },
         {
+          "Close": 4.619999885559082,
+          "Volume": 10274380
+        },
+        {
           "Close": 4.690000057220459,
           "Volume": 14587747
         },
@@ -45111,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 80.577126,
-      "targetLowPrice": 60.969547,
-      "targetMeanPrice": 68.49151,
-      "targetMedianPrice": 63.927383,
+      "targetHighPrice": 80.57729,
+      "targetLowPrice": 60.969673,
+      "targetMeanPrice": 68.49165,
+      "targetMedianPrice": 63.927517,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -45310,10 +45431,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 2.809999942779541,
-          "Volume": 3074852
-        },
-        {
           "Close": 2.9700000286102295,
           "Volume": 3533402
         },
@@ -45404,6 +45521,10 @@
         {
           "Close": 2.7799999713897705,
           "Volume": 2005200
+        },
+        {
+          "Close": 2.7799999713897705,
+          "Volume": 1038930
         },
         {
           "Close": 2.700000047683716,
@@ -47389,10 +47510,6 @@
       "beta": 0.546,
       "historicalData": [
         {
-          "Close": 1.8799999952316284,
-          "Volume": 23816393
-        },
-        {
           "Close": 1.850000023841858,
           "Volume": 17860564
         },
@@ -47483,6 +47600,10 @@
         {
           "Close": 1.559999942779541,
           "Volume": 16949159
+        },
+        {
+          "Close": 1.5800000429153442,
+          "Volume": 11905733
         },
         {
           "Close": 1.5800000429153442,
@@ -47767,10 +47888,6 @@
       "beta": 0.65,
       "historicalData": [
         {
-          "Close": 3.0299999713897705,
-          "Volume": 15979490
-        },
-        {
           "Close": 3.009999990463257,
           "Volume": 15264822
         },
@@ -47861,6 +47978,10 @@
         {
           "Close": 2.490000009536743,
           "Volume": 14024559
+        },
+        {
+          "Close": 2.5199999809265137,
+          "Volume": 9975722
         },
         {
           "Close": 2.4200000762939453,
@@ -47956,10 +48077,6 @@
       "beta": 0.327,
       "historicalData": [
         {
-          "Close": 11.005532264709473,
-          "Volume": 3239465
-        },
-        {
           "Close": 11.093811988830566,
           "Volume": 7653469
         },
@@ -48050,6 +48167,10 @@
         {
           "Close": 9.760000228881836,
           "Volume": 5189959
+        },
+        {
+          "Close": 10.100000381469727,
+          "Volume": 4649639
         },
         {
           "Close": 10.100000381469727,
@@ -48145,10 +48266,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 8.0,
-          "Volume": 288871774
-        },
-        {
           "Close": 7.199999809265137,
           "Volume": 48554153
         },
@@ -48239,6 +48356,10 @@
         {
           "Close": 5.900000095367432,
           "Volume": 47169566
+        },
+        {
+          "Close": 5.630000114440918,
+          "Volume": 61806711
         },
         {
           "Close": 5.869999885559082,
@@ -48523,10 +48644,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 253.25,
-          "Volume": 38840
-        },
-        {
           "Close": 256.0,
           "Volume": 37700
         },
@@ -48619,6 +48736,10 @@
           "Volume": 48692
         },
         {
+          "Close": 238.89999389648438,
+          "Volume": 27832
+        },
+        {
           "Close": 236.8000030517578,
           "Volume": 29041
         },
@@ -48656,7 +48777,7 @@
       "changeRate": -0.28,
       "previousClose": 7.12,
       "open": 7.12,
-      "dayLow": 7.09,
+      "dayLow": 7.1,
       "dayHigh": 7.4,
       "fiftyTwoWeekLow": 6.84,
       "fiftyTwoWeekHigh": 14.72,
@@ -49468,10 +49589,6 @@
       "beta": 0.204,
       "historicalData": [
         {
-          "Close": 440000.0,
-          "Volume": 10
-        },
-        {
           "Close": 484000.0,
           "Volume": 33
         },
@@ -49562,6 +49679,10 @@
         {
           "Close": 468897.5,
           "Volume": 3
+        },
+        {
+          "Close": 468897.5,
+          "Volume": 2
         },
         {
           "Close": 468897.5,
@@ -49846,10 +49967,6 @@
       "beta": 0.386,
       "historicalData": [
         {
-          "Close": 20.15999984741211,
-          "Volume": 905014
-        },
-        {
           "Close": 19.899999618530273,
           "Volume": 2392596
         },
@@ -49942,6 +50059,10 @@
           "Volume": 2562448
         },
         {
+          "Close": 19.93000030517578,
+          "Volume": 1839453
+        },
+        {
           "Close": 19.940000534057617,
           "Volume": 2243442
         },
@@ -49980,7 +50101,7 @@
       "previousClose": 19.02,
       "open": 19.21,
       "dayLow": 18.5,
-      "dayHigh": 20.92,
+      "dayHigh": 20.86,
       "fiftyTwoWeekLow": 7.64,
       "fiftyTwoWeekHigh": 26.16,
       "fiftyDayAverage": 19.06,
@@ -50859,10 +50980,6 @@
       "beta": 0.234,
       "historicalData": [
         {
-          "Close": 8.279999732971191,
-          "Volume": 2937538
-        },
-        {
           "Close": 8.630000114440918,
           "Volume": 14544988
         },
@@ -50953,6 +51070,10 @@
         {
           "Close": 7.659999847412109,
           "Volume": 552448
+        },
+        {
+          "Close": 7.690000057220459,
+          "Volume": 317964
         },
         {
           "Close": 7.690000057220459,
@@ -51426,10 +51547,6 @@
       "beta": 0.201,
       "historicalData": [
         {
-          "Close": 67.5,
-          "Volume": 346231
-        },
-        {
           "Close": 65.55000305175781,
           "Volume": 314779
         },
@@ -51520,6 +51637,10 @@
         {
           "Close": 56.0,
           "Volume": 257617
+        },
+        {
+          "Close": 56.0,
+          "Volume": 171988
         },
         {
           "Close": 55.79999923706055,
@@ -51615,10 +51736,6 @@
       "beta": 0.728,
       "historicalData": [
         {
-          "Close": 8.399999618530273,
-          "Volume": 6098440
-        },
-        {
           "Close": 8.949999809265137,
           "Volume": 11382029
         },
@@ -51709,6 +51826,10 @@
         {
           "Close": 11.369999885559082,
           "Volume": 27280562
+        },
+        {
+          "Close": 11.34000015258789,
+          "Volume": 14966711
         },
         {
           "Close": 12.100000381469727,
@@ -51805,10 +51926,6 @@
       "historicalData": [
         {
           "Close": 15.899999618530273,
-          "Volume": 1931135
-        },
-        {
-          "Close": 15.899999618530273,
           "Volume": 1394287
         },
         {
@@ -51898,6 +52015,10 @@
         {
           "Close": 14.970000267028809,
           "Volume": 3672652
+        },
+        {
+          "Close": 14.9399995803833,
+          "Volume": 2529748
         },
         {
           "Close": 14.880000114440918,
@@ -51993,10 +52114,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 538.5,
-          "Volume": 57100
-        },
-        {
           "Close": 545.5,
           "Volume": 65092
         },
@@ -52087,6 +52204,10 @@
         {
           "Close": 405.75,
           "Volume": 95273
+        },
+        {
+          "Close": 438.0,
+          "Volume": 240701
         },
         {
           "Close": 434.0,
@@ -52182,10 +52303,6 @@
       "beta": 1.019,
       "historicalData": [
         {
-          "Close": 10.180000305175781,
-          "Volume": 11817389
-        },
-        {
           "Close": 10.859999656677246,
           "Volume": 30071969
         },
@@ -52276,6 +52393,10 @@
         {
           "Close": 8.899999618530273,
           "Volume": 39990333
+        },
+        {
+          "Close": 9.770000457763672,
+          "Volume": 50151817
         },
         {
           "Close": 9.350000381469727,
@@ -52750,10 +52871,6 @@
       "historicalData": [
         {
           "Close": 4.340000152587891,
-          "Volume": 5031122
-        },
-        {
-          "Close": 4.340000152587891,
           "Volume": 6043979
         },
         {
@@ -52843,6 +52960,10 @@
         {
           "Close": 3.9200000762939453,
           "Volume": 4574619
+        },
+        {
+          "Close": 3.9000000953674316,
+          "Volume": 2540139
         },
         {
           "Close": 3.869999885559082,
@@ -53127,10 +53248,6 @@
       "beta": 0.394,
       "historicalData": [
         {
-          "Close": 14.929155349731445,
-          "Volume": 8395660
-        },
-        {
           "Close": 14.830286979675293,
           "Volume": 15802099
         },
@@ -53221,6 +53338,10 @@
         {
           "Close": 14.770000457763672,
           "Volume": 13342754
+        },
+        {
+          "Close": 14.9399995803833,
+          "Volume": 10746596
         },
         {
           "Close": 14.199999809265137,
@@ -53639,7 +53760,7 @@
       "previousClose": 8.32,
       "open": 8.27,
       "dayLow": 8.27,
-      "dayHigh": 8.59,
+      "dayHigh": 8.57,
       "fiftyTwoWeekLow": 8.09,
       "fiftyTwoWeekHigh": 12.54,
       "fiftyDayAverage": 9.57,
@@ -53693,10 +53814,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.273,
       "historicalData": [
-        {
-          "Close": 9.399999618530273,
-          "Volume": 4172938
-        },
         {
           "Close": 9.399999618530273,
           "Volume": 3987750
@@ -53790,6 +53907,10 @@
           "Volume": 4206483
         },
         {
+          "Close": 8.350000381469727,
+          "Volume": 2759105
+        },
+        {
           "Close": 8.229999542236328,
           "Volume": 3448914
         },
@@ -53828,7 +53949,7 @@
       "previousClose": 8.9,
       "open": 9.14,
       "dayLow": 9.03,
-      "dayHigh": 9.78,
+      "dayHigh": 9.7,
       "fiftyTwoWeekLow": 3.16,
       "fiftyTwoWeekHigh": 13.34,
       "fiftyDayAverage": 10.83,
@@ -54072,10 +54193,6 @@
       "beta": -1.216,
       "historicalData": [
         {
-          "Close": 16.010244369506836,
-          "Volume": 1705463
-        },
-        {
           "Close": 15.901667594909668,
           "Volume": 1076758
         },
@@ -54166,6 +54283,10 @@
         {
           "Close": 14.020000457763672,
           "Volume": 921891
+        },
+        {
+          "Close": 14.329999923706055,
+          "Volume": 1117743
         },
         {
           "Close": 14.119999885559082,
@@ -54639,10 +54760,6 @@
       "beta": 0.488,
       "historicalData": [
         {
-          "Close": 31.139999389648438,
-          "Volume": 524824
-        },
-        {
           "Close": 34.2400016784668,
           "Volume": 3437631
         },
@@ -54733,6 +54850,10 @@
         {
           "Close": 27.34000015258789,
           "Volume": 717030
+        },
+        {
+          "Close": 27.5,
+          "Volume": 384151
         },
         {
           "Close": 27.18000030517578,
@@ -55962,10 +56083,6 @@
       "beta": -0.278,
       "historicalData": [
         {
-          "Close": 3.2799999713897705,
-          "Volume": 176075086
-        },
-        {
           "Close": 3.3499999046325684,
           "Volume": 172435885
         },
@@ -56056,6 +56173,10 @@
         {
           "Close": 5.349999904632568,
           "Volume": 64191242
+        },
+        {
+          "Close": 5.420000076293945,
+          "Volume": 104792948
         },
         {
           "Close": 5.510000228881836,
@@ -56529,10 +56650,6 @@
       "beta": 0.626,
       "historicalData": [
         {
-          "Close": 7.230000019073486,
-          "Volume": 30740064
-        },
-        {
           "Close": 6.670000076293945,
           "Volume": 40905484
         },
@@ -56623,6 +56740,10 @@
         {
           "Close": 5.400000095367432,
           "Volume": 7192124
+        },
+        {
+          "Close": 5.349999904632568,
+          "Volume": 9708247
         },
         {
           "Close": 5.369999885559082,
@@ -56718,10 +56839,6 @@
       "beta": 0.242,
       "historicalData": [
         {
-          "Close": 69.0,
-          "Volume": 2877931
-        },
-        {
           "Close": 70.5,
           "Volume": 2411988
         },
@@ -56812,6 +56929,10 @@
         {
           "Close": 68.94999694824219,
           "Volume": 2848874
+        },
+        {
+          "Close": 66.94999694824219,
+          "Volume": 2165248
         },
         {
           "Close": 65.25,
@@ -57096,10 +57217,6 @@
       "beta": 0.451,
       "historicalData": [
         {
-          "Close": 40.08000183105469,
-          "Volume": 11272159
-        },
-        {
           "Close": 40.0,
           "Volume": 11141846
         },
@@ -57190,6 +57307,10 @@
         {
           "Close": 42.29999923706055,
           "Volume": 6243448
+        },
+        {
+          "Close": 42.47999954223633,
+          "Volume": 4986652
         },
         {
           "Close": 41.02000045776367,
@@ -57285,10 +57406,6 @@
       "beta": 0.451,
       "historicalData": [
         {
-          "Close": 135.1999969482422,
-          "Volume": 17123911
-        },
-        {
           "Close": 136.8000030517578,
           "Volume": 2612223
         },
@@ -57379,6 +57496,10 @@
         {
           "Close": 133.5,
           "Volume": 1546845
+        },
+        {
+          "Close": 134.5,
+          "Volume": 1275872
         },
         {
           "Close": 131.3000030517578,
@@ -57474,10 +57595,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 2.619999885559082,
-          "Volume": 7675913
-        },
-        {
           "Close": 2.609999895095825,
           "Volume": 8745556
         },
@@ -57568,6 +57685,10 @@
         {
           "Close": 2.5,
           "Volume": 7664841
+        },
+        {
+          "Close": 2.5,
+          "Volume": 7682462
         },
         {
           "Close": 2.490000009536743,
@@ -57663,10 +57784,6 @@
       "beta": -0.385,
       "historicalData": [
         {
-          "Close": 21.940000534057617,
-          "Volume": 1709822
-        },
-        {
           "Close": 24.1200008392334,
           "Volume": 5572460
         },
@@ -57757,6 +57874,10 @@
         {
           "Close": 23.0,
           "Volume": 2365188
+        },
+        {
+          "Close": 23.239999771118164,
+          "Volume": 2383646
         },
         {
           "Close": 22.540000915527344,
@@ -58041,10 +58162,6 @@
       "beta": 1.069,
       "historicalData": [
         {
-          "Close": 10.989999771118164,
-          "Volume": 3851168
-        },
-        {
           "Close": 11.319999694824219,
           "Volume": 6236319
         },
@@ -58135,6 +58252,10 @@
         {
           "Close": 10.350000381469727,
           "Volume": 3041497
+        },
+        {
+          "Close": 10.270000457763672,
+          "Volume": 3137966
         },
         {
           "Close": 10.229999542236328,
@@ -58419,10 +58540,6 @@
       "beta": 0.376,
       "historicalData": [
         {
-          "Close": 2.869999885559082,
-          "Volume": 2932492
-        },
-        {
           "Close": 2.9000000953674316,
           "Volume": 3327766
         },
@@ -58513,6 +58630,10 @@
         {
           "Close": 2.2899999618530273,
           "Volume": 41652528
+        },
+        {
+          "Close": 2.369999885559082,
+          "Volume": 11044635
         },
         {
           "Close": 2.359999895095825,
@@ -58608,10 +58729,6 @@
       "beta": 0.559,
       "historicalData": [
         {
-          "Close": 2842.5,
-          "Volume": 652
-        },
-        {
           "Close": 2790.0,
           "Volume": 1643
         },
@@ -58702,6 +58819,10 @@
         {
           "Close": 2440.0,
           "Volume": 571
+        },
+        {
+          "Close": 2500.0,
+          "Volume": 1422
         },
         {
           "Close": 2522.5,
@@ -58797,10 +58918,6 @@
       "beta": 0.625,
       "historicalData": [
         {
-          "Close": 51.042537689208984,
-          "Volume": 46556012
-        },
-        {
           "Close": 51.57453918457031,
           "Volume": 69849367
         },
@@ -58893,6 +59010,10 @@
           "Volume": 56397603
         },
         {
+          "Close": 46.01314163208008,
+          "Volume": 39667812
+        },
+        {
           "Close": 41.41999816894531,
           "Volume": 74414255
         },
@@ -58930,7 +59051,7 @@
       "changeRate": -4.37,
       "previousClose": 88.0,
       "open": 87.2,
-      "dayLow": 83.95,
+      "dayLow": 83.9,
       "dayHigh": 89.3,
       "fiftyTwoWeekLow": 62.2,
       "fiftyTwoWeekHigh": 151.0,
@@ -59364,10 +59485,6 @@
       "beta": -0.778,
       "historicalData": [
         {
-          "Close": 139.5,
-          "Volume": 187516
-        },
-        {
           "Close": 135.89999389648438,
           "Volume": 79208
         },
@@ -59458,6 +59575,10 @@
         {
           "Close": 162.0,
           "Volume": 316218
+        },
+        {
+          "Close": 164.89999389648438,
+          "Volume": 223818
         },
         {
           "Close": 164.5,
@@ -60631,7 +60752,7 @@
       "changeRate": -1.83,
       "previousClose": 2.73,
       "open": 2.73,
-      "dayLow": 2.67,
+      "dayLow": 2.68,
       "dayHigh": 2.77,
       "fiftyTwoWeekLow": 2.67,
       "fiftyTwoWeekHigh": 6.82,
@@ -62143,7 +62264,7 @@
       "changeRate": -1.14,
       "previousClose": 12.25,
       "open": 12.3,
-      "dayLow": 12.11,
+      "dayLow": 12.09,
       "dayHigh": 12.44,
       "fiftyTwoWeekLow": 11.3,
       "fiftyTwoWeekHigh": 18.41,
@@ -62198,10 +62319,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.022,
       "historicalData": [
-        {
-          "Close": 13.350000381469727,
-          "Volume": 1925912
-        },
         {
           "Close": 12.970000267028809,
           "Volume": 2662242
@@ -62293,6 +62410,10 @@
         {
           "Close": 11.829999923706055,
           "Volume": 1253159
+        },
+        {
+          "Close": 11.890000343322754,
+          "Volume": 2087199
         },
         {
           "Close": 11.800000190734863,
@@ -64278,10 +64399,6 @@
       "beta": 1.212,
       "historicalData": [
         {
-          "Close": 8.510000228881836,
-          "Volume": 4333757
-        },
-        {
           "Close": 8.34000015258789,
           "Volume": 6638697
         },
@@ -64372,6 +64489,10 @@
         {
           "Close": 7.510000228881836,
           "Volume": 3775728
+        },
+        {
+          "Close": 7.460000038146973,
+          "Volume": 5074041
         },
         {
           "Close": 7.239999771118164,
@@ -64656,10 +64777,6 @@
       "beta": 0.409,
       "historicalData": [
         {
-          "Close": 39.65999984741211,
-          "Volume": 17307968
-        },
-        {
           "Close": 40.52000045776367,
           "Volume": 44251255
         },
@@ -64750,6 +64867,10 @@
         {
           "Close": 30.799999237060547,
           "Volume": 19838261
+        },
+        {
+          "Close": 30.81999969482422,
+          "Volume": 20067742
         },
         {
           "Close": 30.0,
@@ -64845,10 +64966,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 68.80000305175781,
-          "Volume": 19252
-        },
-        {
           "Close": 61.95000076293945,
           "Volume": 36756
         },
@@ -64939,6 +65056,10 @@
         {
           "Close": 64.5,
           "Volume": 17852
+        },
+        {
+          "Close": 61.099998474121094,
+          "Volume": 15871
         },
         {
           "Close": 56.650001525878906,
@@ -65223,10 +65344,6 @@
       "beta": -0.03,
       "historicalData": [
         {
-          "Close": 5.880000114440918,
-          "Volume": 2432722
-        },
-        {
           "Close": 5.75,
           "Volume": 2146760
         },
@@ -65317,6 +65434,10 @@
         {
           "Close": 5.210000038146973,
           "Volume": 1323818
+        },
+        {
+          "Close": 5.179999828338623,
+          "Volume": 1046145
         },
         {
           "Close": 5.21999979019165,
@@ -66168,10 +66289,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 1832.0,
-          "Volume": 47027
-        },
-        {
           "Close": 2015.0,
           "Volume": 28676
         },
@@ -66262,6 +66379,10 @@
         {
           "Close": 1500.0,
           "Volume": 28884
+        },
+        {
+          "Close": 1534.0,
+          "Volume": 112785
         },
         {
           "Close": 1520.0,
@@ -66546,10 +66667,6 @@
       "beta": 0.388,
       "historicalData": [
         {
-          "Close": 30.6200008392334,
-          "Volume": 1260466
-        },
-        {
           "Close": 30.100000381469727,
           "Volume": 901889
         },
@@ -66640,6 +66757,10 @@
         {
           "Close": 26.18000030517578,
           "Volume": 1013078
+        },
+        {
+          "Close": 26.280000686645508,
+          "Volume": 552490
         },
         {
           "Close": 27.18000030517578,
@@ -66735,10 +66856,6 @@
       "beta": 0.302,
       "historicalData": [
         {
-          "Close": 10.579999923706055,
-          "Volume": 266881
-        },
-        {
           "Close": 10.670000076293945,
           "Volume": 403736
         },
@@ -66831,6 +66948,10 @@
           "Volume": 272529
         },
         {
+          "Close": 8.979999542236328,
+          "Volume": 238783
+        },
+        {
           "Close": 8.869999885559082,
           "Volume": 621154
         },
@@ -66868,7 +66989,7 @@
       "changeRate": -1.32,
       "previousClose": 5.32,
       "open": 5.37,
-      "dayLow": 5.27,
+      "dayLow": 5.24,
       "dayHigh": 5.47,
       "fiftyTwoWeekLow": 5.1,
       "fiftyTwoWeekHigh": 8.5,
@@ -68758,7 +68879,7 @@
       "changeRate": -0.25,
       "previousClose": 241.7,
       "open": 242.9,
-      "dayLow": 239.4,
+      "dayLow": 239.7,
       "dayHigh": 250.75,
       "fiftyTwoWeekLow": 106.9,
       "fiftyTwoWeekHigh": 389.75,
@@ -68813,10 +68934,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.78,
       "historicalData": [
-        {
-          "Close": 252.0,
-          "Volume": 201153
-        },
         {
           "Close": 252.75,
           "Volume": 151221
@@ -68908,6 +69025,10 @@
         {
           "Close": 255.0,
           "Volume": 213250
+        },
+        {
+          "Close": 252.75,
+          "Volume": 385432
         },
         {
           "Close": 249.3000030517578,
@@ -69570,10 +69691,6 @@
       "beta": -0.322,
       "historicalData": [
         {
-          "Close": 188.5,
-          "Volume": 8561
-        },
-        {
           "Close": 185.0,
           "Volume": 9236
         },
@@ -69664,6 +69781,10 @@
         {
           "Close": 160.10000610351562,
           "Volume": 4668
+        },
+        {
+          "Close": 167.0,
+          "Volume": 7063
         },
         {
           "Close": 162.3000030517578,
@@ -69760,10 +69881,6 @@
       "historicalData": [
         {
           "Close": 8.150236129760742,
-          "Volume": 17072768
-        },
-        {
-          "Close": 8.150236129760742,
           "Volume": 12599030
         },
         {
@@ -69853,6 +69970,10 @@
         {
           "Close": 7.639999866485596,
           "Volume": 2336535
+        },
+        {
+          "Close": 7.800000190734863,
+          "Volume": 5390460
         },
         {
           "Close": 7.599999904632568,
@@ -71460,10 +71581,6 @@
       "beta": -0.468,
       "historicalData": [
         {
-          "Close": 29.0,
-          "Volume": 155129
-        },
-        {
           "Close": 28.8799991607666,
           "Volume": 127255
         },
@@ -71554,6 +71671,10 @@
         {
           "Close": 28.059999465942383,
           "Volume": 167927
+        },
+        {
+          "Close": 27.899999618530273,
+          "Volume": 243819
         },
         {
           "Close": 29.979999542236328,
@@ -71649,10 +71770,6 @@
       "beta": -0.017,
       "historicalData": [
         {
-          "Close": 32.13908767700195,
-          "Volume": 1906145
-        },
-        {
           "Close": 31.98221778869629,
           "Volume": 2097435
         },
@@ -71743,6 +71860,10 @@
         {
           "Close": 32.400001525878906,
           "Volume": 1354285
+        },
+        {
+          "Close": 35.0,
+          "Volume": 2905577
         },
         {
           "Close": 35.040000915527344,
@@ -72027,10 +72148,6 @@
       "beta": 0.327,
       "historicalData": [
         {
-          "Close": 15.619999885559082,
-          "Volume": 41415245
-        },
-        {
           "Close": 16.270000457763672,
           "Volume": 46270168
         },
@@ -72121,6 +72238,10 @@
         {
           "Close": 11.529999732971191,
           "Volume": 7609224
+        },
+        {
+          "Close": 11.569999694824219,
+          "Volume": 5502193
         },
         {
           "Close": 11.350000381469727,
@@ -72216,10 +72337,6 @@
       "beta": -0.138,
       "historicalData": [
         {
-          "Close": 88.05000305175781,
-          "Volume": 605151
-        },
-        {
           "Close": 88.75,
           "Volume": 695017
         },
@@ -72310,6 +72427,10 @@
         {
           "Close": 74.5999984741211,
           "Volume": 155812
+        },
+        {
+          "Close": 75.1500015258789,
+          "Volume": 336359
         },
         {
           "Close": 74.19999694824219,
@@ -72972,10 +73093,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 13.899999618530273,
-          "Volume": 148879575
-        },
-        {
           "Close": 13.989999771118164,
           "Volume": 80599784
         },
@@ -73066,6 +73183,10 @@
         {
           "Close": 14.699999809265137,
           "Volume": 79401795
+        },
+        {
+          "Close": 14.729999542236328,
+          "Volume": 77267907
         },
         {
           "Close": 14.699999809265137,
@@ -74295,10 +74416,6 @@
       "beta": -0.176,
       "historicalData": [
         {
-          "Close": 22.860000610351562,
-          "Volume": 1293197
-        },
-        {
           "Close": 22.579999923706055,
           "Volume": 899310
         },
@@ -74389,6 +74506,10 @@
         {
           "Close": 20.34000015258789,
           "Volume": 1134558
+        },
+        {
+          "Close": 20.65999984741211,
+          "Volume": 738688
         },
         {
           "Close": 20.579999923706055,
@@ -74862,10 +74983,6 @@
       "beta": 1.211,
       "historicalData": [
         {
-          "Close": 20.68000030517578,
-          "Volume": 3839199
-        },
-        {
           "Close": 20.700000762939453,
           "Volume": 4169606
         },
@@ -74956,6 +75073,10 @@
         {
           "Close": 20.799999237060547,
           "Volume": 919303
+        },
+        {
+          "Close": 21.100000381469727,
+          "Volume": 1216817
         },
         {
           "Close": 21.020000457763672,
@@ -75618,10 +75739,6 @@
       "beta": 0.081,
       "historicalData": [
         {
-          "Close": 20.520000457763672,
-          "Volume": 14908993
-        },
-        {
           "Close": 20.15999984741211,
           "Volume": 13626012
         },
@@ -75712,6 +75829,10 @@
         {
           "Close": 16.989999771118164,
           "Volume": 1554179
+        },
+        {
+          "Close": 17.1200008392334,
+          "Volume": 1178869
         },
         {
           "Close": 18.049999237060547,
@@ -75807,10 +75928,6 @@
       "beta": 1.328,
       "historicalData": [
         {
-          "Close": 52.400001525878906,
-          "Volume": 10529028
-        },
-        {
           "Close": 57.599998474121094,
           "Volume": 887925
         },
@@ -75901,6 +76018,10 @@
         {
           "Close": 70.0,
           "Volume": 1158567
+        },
+        {
+          "Close": 65.5,
+          "Volume": 1725492
         },
         {
           "Close": 70.6500015258789,
@@ -76129,7 +76250,7 @@
       "changeRate": -4.86,
       "previousClose": 3.7,
       "open": 3.7,
-      "dayLow": 3.53,
+      "dayLow": 3.52,
       "dayHigh": 3.72,
       "fiftyTwoWeekLow": 2.02,
       "fiftyTwoWeekHigh": 4.27,
@@ -76184,10 +76305,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.317,
       "historicalData": [
-        {
-          "Close": 3.569999933242798,
-          "Volume": 767100023
-        },
         {
           "Close": 3.4700000286102295,
           "Volume": 244727368
@@ -76279,6 +76396,10 @@
         {
           "Close": 3.5399999618530273,
           "Volume": 321509055
+        },
+        {
+          "Close": 3.490000009536743,
+          "Volume": 79617260
         },
         {
           "Close": 3.609999895095825,
@@ -77130,10 +77251,6 @@
       "beta": 0.863,
       "historicalData": [
         {
-          "Close": 192.10000610351562,
-          "Volume": 1372832
-        },
-        {
           "Close": 192.0,
           "Volume": 1080166
         },
@@ -77224,6 +77341,10 @@
         {
           "Close": 200.10000610351562,
           "Volume": 971231
+        },
+        {
+          "Close": 200.39999389648438,
+          "Volume": 1316043
         },
         {
           "Close": 198.10000610351562,
@@ -77831,7 +77952,7 @@
       "previousClose": 29.12,
       "open": 29.2,
       "dayLow": 27.74,
-      "dayHigh": 31.28,
+      "dayHigh": 31.26,
       "fiftyTwoWeekLow": 18.77,
       "fiftyTwoWeekHigh": 49.14,
       "fiftyDayAverage": 25.24,
@@ -78397,7 +78518,7 @@
       "changeRate": 0.84,
       "previousClose": 21.32,
       "open": 21.62,
-      "dayLow": 21.0,
+      "dayLow": 21.02,
       "dayHigh": 21.62,
       "fiftyTwoWeekLow": 18.16,
       "fiftyTwoWeekHigh": 30.74,
@@ -78642,10 +78763,6 @@
       "beta": 0.596,
       "historicalData": [
         {
-          "Close": 6.96999979019165,
-          "Volume": 3762276
-        },
-        {
           "Close": 6.550000190734863,
           "Volume": 3069544
         },
@@ -78736,6 +78853,10 @@
         {
           "Close": 5.21999979019165,
           "Volume": 798482
+        },
+        {
+          "Close": 5.28000020980835,
+          "Volume": 624473
         },
         {
           "Close": 5.449999809265137,
@@ -79154,7 +79275,7 @@
       "previousClose": 18.38,
       "open": 18.69,
       "dayLow": 18.51,
-      "dayHigh": 20.2,
+      "dayHigh": 20.16,
       "fiftyTwoWeekLow": 17.93,
       "fiftyTwoWeekHigh": 28.5,
       "fiftyDayAverage": 21.01,
@@ -79587,10 +79708,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 49.13999938964844,
-          "Volume": 1150404
-        },
-        {
           "Close": 51.54999923706055,
           "Volume": 2062308
         },
@@ -79681,6 +79798,10 @@
         {
           "Close": 45.099998474121094,
           "Volume": 1370598
+        },
+        {
+          "Close": 48.040000915527344,
+          "Volume": 1801425
         },
         {
           "Close": 47.5,
@@ -80311,7 +80432,7 @@
       "forwardPE": null,
       "priceToBook": 0.5293806,
       "pegRatio": null,
-      "priceToSales": 0.98198515,
+      "priceToSales": 1.0163203,
       "enterpriseToRevenue": 6.447,
       "enterpriseToEbitda": null,
       "profitMargins": 0.34954,
@@ -80665,7 +80786,7 @@
       "changeRate": -1.2,
       "previousClose": 216.7,
       "open": 218.0,
-      "dayLow": 214.2,
+      "dayLow": 214.1,
       "dayHigh": 224.2,
       "fiftyTwoWeekLow": 66.35,
       "fiftyTwoWeekHigh": 278.0,
@@ -81099,10 +81220,6 @@
       "beta": 0.951,
       "historicalData": [
         {
-          "Close": 4.630000114440918,
-          "Volume": 883846
-        },
-        {
           "Close": 4.889999866485596,
           "Volume": 2792457
         },
@@ -81193,6 +81310,10 @@
         {
           "Close": 4.699999809265137,
           "Volume": 1564633
+        },
+        {
+          "Close": 4.769999980926514,
+          "Volume": 1361113
         },
         {
           "Close": 4.670000076293945,
@@ -81666,10 +81787,6 @@
       "beta": 0.034,
       "historicalData": [
         {
-          "Close": 270.0,
-          "Volume": 31583
-        },
-        {
           "Close": 262.0,
           "Volume": 49829
         },
@@ -81760,6 +81877,10 @@
         {
           "Close": 269.25,
           "Volume": 60908
+        },
+        {
+          "Close": 276.0,
+          "Volume": 497849
         },
         {
           "Close": 269.0,
@@ -84445,7 +84566,7 @@
       "changeRate": -1.35,
       "previousClose": 17.73,
       "open": 17.76,
-      "dayLow": 17.4,
+      "dayLow": 17.38,
       "dayHigh": 17.81,
       "fiftyTwoWeekLow": 11.65,
       "fiftyTwoWeekHigh": 23.34,
@@ -86146,7 +86267,7 @@
       "changeRate": -1.86,
       "previousClose": 80.55,
       "open": 80.6,
-      "dayLow": 78.15,
+      "dayLow": 78.1,
       "dayHigh": 81.4,
       "fiftyTwoWeekLow": 76.95,
       "fiftyTwoWeekHigh": 119.3,
@@ -88604,7 +88725,7 @@
       "previousClose": 1749.0,
       "open": 1731.0,
       "dayLow": 1672.0,
-      "dayHigh": 1880.0,
+      "dayHigh": 1870.0,
       "fiftyTwoWeekLow": 809.5,
       "fiftyTwoWeekHigh": 2300.0,
       "fiftyDayAverage": 1600.78,
@@ -89983,10 +90104,6 @@
       "historicalData": [
         {
           "Close": 1.3583329916000366,
-          "Volume": 35157406
-        },
-        {
-          "Close": 1.3583329916000366,
           "Volume": 35892616
         },
         {
@@ -90076,6 +90193,10 @@
         {
           "Close": 1.190000057220459,
           "Volume": 30802529
+        },
+        {
+          "Close": 1.2100000381469727,
+          "Volume": 43504135
         },
         {
           "Close": 1.190000057220459,
@@ -90171,10 +90292,6 @@
       "beta": 0.174,
       "historicalData": [
         {
-          "Close": 74.9000015258789,
-          "Volume": 90487
-        },
-        {
           "Close": 73.19999694824219,
           "Volume": 146341
         },
@@ -90265,6 +90382,10 @@
         {
           "Close": 64.5999984741211,
           "Volume": 113335
+        },
+        {
+          "Close": 66.4000015258789,
+          "Volume": 138261
         },
         {
           "Close": 65.55000305175781,
@@ -90738,10 +90859,6 @@
       "beta": 0.083,
       "historicalData": [
         {
-          "Close": 39.79999923706055,
-          "Volume": 496884
-        },
-        {
           "Close": 39.400001525878906,
           "Volume": 393513
         },
@@ -90832,6 +90949,10 @@
         {
           "Close": 35.52000045776367,
           "Volume": 350074
+        },
+        {
+          "Close": 36.0,
+          "Volume": 233061
         },
         {
           "Close": 35.84000015258789,
@@ -90927,10 +91048,6 @@
       "beta": -0.297,
       "historicalData": [
         {
-          "Close": 617.0,
-          "Volume": 77536
-        },
-        {
           "Close": 612.5,
           "Volume": 65359
         },
@@ -91023,6 +91140,10 @@
           "Volume": 49273
         },
         {
+          "Close": 515.5,
+          "Volume": 66001
+        },
+        {
           "Close": 524.0,
           "Volume": 34281
         },
@@ -91110,8 +91231,8 @@
       "targetLowPrice": 8.9,
       "targetMeanPrice": 10.2,
       "targetMedianPrice": 10.2,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 3.0,
+      "recommendationKey": "hold",
       "numberOfAnalystOpinions": 2,
       "beta": 0.345,
       "historicalData": [
@@ -91249,7 +91370,7 @@
       "changeRate": -2.09,
       "previousClose": 23.88,
       "open": 23.88,
-      "dayLow": 23.22,
+      "dayLow": 23.1,
       "dayHigh": 24.12,
       "fiftyTwoWeekLow": 19.05,
       "fiftyTwoWeekHigh": 60.85,
