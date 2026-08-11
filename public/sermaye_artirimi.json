@@ -1,12 +1,12 @@
 [
   {
-    "code": "DERHL",
-    "company": "DERHL Derlüks Yatırım Holding A.Ş.",
+    "code": "VSNMD",
+    "company": "VSNMD Vişne Madencilik Üretim San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%401",
-    "date": "05.08.2026",
+    "rate": "%55",
+    "date": "11.08.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 791.897.760 TL"
+    "description": "Bölünme Tarihi: 11.08.2026 | Tutar: 64.350.000 TL"
   },
   {
     "code": "DNISI",
@@ -18,15 +18,6 @@
     "description": "SPK Onayı Alındı"
   },
   {
-    "code": "VSNMD",
-    "company": "VSNMD Vişne Madencilik Üretim San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%55",
-    "date": "05.08.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 64.350.000 TL"
-  },
-  {
     "code": "VKGYO",
     "company": "VKGYO Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
@@ -34,6 +25,15 @@
     "date": "10.08.2026",
     "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 10.08.2026"
+  },
+  {
+    "code": "DERHL",
+    "company": "DERHL Derlüks Yatırım Holding A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%401",
+    "date": "10.08.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 10.08.2026 | Tutar: 791.897.760 TL"
   },
   {
     "code": "KORDS",
