@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-11T16:08:16.226450",
+  "last_update": "2026-08-11T17:31:59.795156",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 54.467575,
-      "targetLowPrice": 37.42557,
-      "targetMeanPrice": 47.211597,
-      "targetMedianPrice": 48.309536,
+      "targetHighPrice": 54.465294,
+      "targetLowPrice": 37.424004,
+      "targetMeanPrice": 47.209618,
+      "targetMedianPrice": 48.307514,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 7,
@@ -3087,7 +3087,7 @@
       "payoutRatio": 0.0,
       "targetHighPrice": 97.9,
       "targetLowPrice": 56.0,
-      "targetMeanPrice": 81.99818,
+      "targetMeanPrice": 80.90727,
       "targetMedianPrice": 85.0,
       "recommendationMean": 1.63636,
       "recommendationKey": "buy",
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.32,
       "exDividendDate": 1790035200,
       "payoutRatio": 0.0,
-      "targetHighPrice": 520.7497,
-      "targetLowPrice": 344.35522,
-      "targetMeanPrice": 429.7963,
-      "targetMedianPrice": 432.35953,
+      "targetHighPrice": 520.4104,
+      "targetLowPrice": 344.13083,
+      "targetMeanPrice": 429.51624,
+      "targetMedianPrice": 432.07782,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
@@ -6875,10 +6875,6 @@
       "beta": 0.496,
       "historicalData": [
         {
-          "Close": 21.34000015258789,
-          "Volume": 34009640
-        },
-        {
           "Close": 21.040000915527344,
           "Volume": 42740925
         },
@@ -6965,6 +6961,10 @@
         {
           "Close": 22.079999923706055,
           "Volume": 38502951
+        },
+        {
+          "Close": 21.8799991607666,
+          "Volume": 40206033
         },
         {
           "Close": 22.079999923706055,
@@ -7425,7 +7425,7 @@
       "debtToEquity": 869.172,
       "currentRatio": 1.232,
       "quickRatio": 0.6,
-      "eps": -20.45,
+      "eps": -48.72,
       "forwardEps": null,
       "bookValue": 65.204,
       "dividendRate": null,
@@ -11978,10 +11978,6 @@
       "beta": 0.439,
       "historicalData": [
         {
-          "Close": 253.0,
-          "Volume": 62656
-        },
-        {
           "Close": 250.25,
           "Volume": 83386
         },
@@ -12068,6 +12064,10 @@
         {
           "Close": 237.89999389648438,
           "Volume": 139720
+        },
+        {
+          "Close": 242.89999389648438,
+          "Volume": 231537
         },
         {
           "Close": 240.0,
@@ -14758,7 +14758,7 @@
       "previousClose": 79.2,
       "open": 79.2,
       "dayLow": 77.7,
-      "dayHigh": 83.25,
+      "dayHigh": 83.2,
       "fiftyTwoWeekLow": 24.42,
       "fiftyTwoWeekHigh": 83.2,
       "fiftyDayAverage": 65.37,
@@ -16647,7 +16647,7 @@
       "changeRate": -5.11,
       "previousClose": 7.04,
       "open": 7.0,
-      "dayLow": 6.66,
+      "dayLow": 6.67,
       "dayHigh": 7.04,
       "fiftyTwoWeekLow": 5.49,
       "fiftyTwoWeekHigh": 12.05,
@@ -16702,10 +16702,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.575,
       "historicalData": [
-        {
-          "Close": 7.550000190734863,
-          "Volume": 457970
-        },
         {
           "Close": 7.909999847412109,
           "Volume": 1092241
@@ -16793,6 +16789,10 @@
         {
           "Close": 7.039999961853027,
           "Volume": 508986
+        },
+        {
+          "Close": 7.079999923706055,
+          "Volume": 462958
         },
         {
           "Close": 7.070000171661377,
@@ -19861,7 +19861,7 @@
       "previousClose": 23.84,
       "open": 23.7,
       "dayLow": 23.22,
-      "dayHigh": 24.44,
+      "dayHigh": 24.48,
       "fiftyTwoWeekLow": 23.0,
       "fiftyTwoWeekHigh": 44.0,
       "fiftyDayAverage": 25.84,
@@ -22506,7 +22506,7 @@
       "changeRate": -4.47,
       "previousClose": 77.2,
       "open": 76.0,
-      "dayLow": 73.0,
+      "dayLow": 72.3,
       "dayHigh": 76.0,
       "fiftyTwoWeekLow": 69.45,
       "fiftyTwoWeekHigh": 139.0,
@@ -23641,7 +23641,7 @@
       "previousClose": 807.0,
       "open": 805.0,
       "dayLow": 770.0,
-      "dayHigh": 821.5,
+      "dayHigh": 823.0,
       "fiftyTwoWeekLow": 105.3,
       "fiftyTwoWeekHigh": 1350.0,
       "fiftyDayAverage": 942.18,
@@ -28799,10 +28799,6 @@
       "beta": -0.13,
       "historicalData": [
         {
-          "Close": 70.0999984741211,
-          "Volume": 271460
-        },
-        {
           "Close": 71.6500015258789,
           "Volume": 368084
         },
@@ -28889,6 +28885,10 @@
         {
           "Close": 72.5,
           "Volume": 487358
+        },
+        {
+          "Close": 70.0999984741211,
+          "Volume": 523945
         },
         {
           "Close": 69.80000305175781,
@@ -30689,10 +30689,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 31.530553817749023,
-          "Volume": 728053
-        },
-        {
           "Close": 30.97389793395996,
           "Volume": 594922
         },
@@ -30779,6 +30775,10 @@
         {
           "Close": 28.0,
           "Volume": 484692
+        },
+        {
+          "Close": 27.440000534057617,
+          "Volume": 457560
         },
         {
           "Close": 27.639999389648438,
@@ -34224,7 +34224,7 @@
       "changeRate": -2.02,
       "previousClose": 18.28,
       "open": 18.3,
-      "dayLow": 17.91,
+      "dayLow": 17.9,
       "dayHigh": 18.31,
       "fiftyTwoWeekLow": 17.84,
       "fiftyTwoWeekHigh": 131.6,
@@ -36492,7 +36492,7 @@
       "changeRate": 1.76,
       "previousClose": 14.23,
       "open": 14.62,
-      "dayLow": 13.89,
+      "dayLow": 13.98,
       "dayHigh": 14.62,
       "fiftyTwoWeekLow": 4.79,
       "fiftyTwoWeekHigh": 14.62,
@@ -39572,10 +39572,6 @@
       "beta": 0.082,
       "historicalData": [
         {
-          "Close": 29.100000381469727,
-          "Volume": 429367
-        },
-        {
           "Close": 28.920000076293945,
           "Volume": 390714
         },
@@ -39662,6 +39658,10 @@
         {
           "Close": 26.1200008392334,
           "Volume": 2510419
+        },
+        {
+          "Close": 26.420000076293945,
+          "Volume": 1347269
         },
         {
           "Close": 26.139999389648438,
@@ -40840,7 +40840,7 @@
       "previousClose": 68.2,
       "open": 69.75,
       "dayLow": 67.65,
-      "dayHigh": 72.95,
+      "dayHigh": 73.0,
       "fiftyTwoWeekLow": 50.8,
       "fiftyTwoWeekHigh": 160.8,
       "fiftyDayAverage": 67.22,
@@ -41217,7 +41217,7 @@
       "changeRate": -6.07,
       "previousClose": 52.7,
       "open": 50.5,
-      "dayLow": 48.7,
+      "dayLow": 48.74,
       "dayHigh": 51.1,
       "fiftyTwoWeekLow": 48.74,
       "fiftyTwoWeekHigh": 84.5,
@@ -44242,7 +44242,7 @@
       "previousClose": 51.5,
       "open": 52.0,
       "dayLow": 50.2,
-      "dayHigh": 53.35,
+      "dayHigh": 53.4,
       "fiftyTwoWeekLow": 34.4,
       "fiftyTwoWeekHigh": 67.7,
       "fiftyDayAverage": 57.51,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 80.62408,
-      "targetLowPrice": 61.005074,
-      "targetMeanPrice": 68.53142,
-      "targetMedianPrice": 63.96463,
+      "targetHighPrice": 80.62442,
+      "targetLowPrice": 61.00533,
+      "targetMeanPrice": 68.53171,
+      "targetMedianPrice": 63.9649,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -50791,10 +50791,6 @@
       "beta": 0.122,
       "historicalData": [
         {
-          "Close": 7.510000228881836,
-          "Volume": 2101140
-        },
-        {
           "Close": 7.449999809265137,
           "Volume": 867336
         },
@@ -50881,6 +50877,10 @@
         {
           "Close": 6.849999904632568,
           "Volume": 1163778
+        },
+        {
+          "Close": 6.869999885559082,
+          "Volume": 512038
         },
         {
           "Close": 6.75,
@@ -52437,7 +52437,7 @@
       "previousClose": 180.2,
       "open": 180.2,
       "dayLow": 171.6,
-      "dayHigh": 183.0,
+      "dayHigh": 182.9,
       "fiftyTwoWeekLow": 61.65,
       "fiftyTwoWeekHigh": 238.3,
       "fiftyDayAverage": 167.63,
@@ -60563,7 +60563,7 @@
       "changeRate": -1.9,
       "previousClose": 13.65,
       "open": 13.72,
-      "dayLow": 13.37,
+      "dayLow": 13.38,
       "dayHigh": 13.79,
       "fiftyTwoWeekLow": 13.35,
       "fiftyTwoWeekHigh": 21.8,
@@ -61320,7 +61320,7 @@
       "previousClose": 34.8,
       "open": 34.8,
       "dayLow": 34.2,
-      "dayHigh": 35.6,
+      "dayHigh": 35.58,
       "fiftyTwoWeekLow": 23.96,
       "fiftyTwoWeekHigh": 48.1,
       "fiftyDayAverage": 35.19,
@@ -62265,7 +62265,7 @@
       "previousClose": 12.11,
       "open": 12.17,
       "dayLow": 11.94,
-      "dayHigh": 12.25,
+      "dayHigh": 12.24,
       "fiftyTwoWeekLow": 11.3,
       "fiftyTwoWeekHigh": 18.41,
       "fiftyDayAverage": 12.95,
@@ -63777,7 +63777,7 @@
       "previousClose": 20.44,
       "open": 20.68,
       "dayLow": 20.02,
-      "dayHigh": 21.76,
+      "dayHigh": 21.78,
       "fiftyTwoWeekLow": 15.22,
       "fiftyTwoWeekHigh": 52.65,
       "fiftyDayAverage": 23.72,
@@ -64552,7 +64552,7 @@
       "country": "Turkey",
       "phone": "90 216 227 5800",
       "description": "MHR Gayrimenkul Yatirim Ortakligi Anonim Sirketi engages in real estate rental activities. The company was founded in 2021 and is based in Istanbul, Turkey. MHR Gayrimenkul Yatirim Ortakligi Anonim Sirketi operates as a subsidiary of Quick Sigorta A.S.",
-      "pe": 3.4226801,
+      "pe": 3.531915,
       "forwardPE": null,
       "priceToBook": 0.46028006,
       "pegRatio": null,
@@ -64571,7 +64571,7 @@
       "debtToEquity": 0.003,
       "currentRatio": 28.276,
       "quickRatio": 6.451,
-      "eps": 0.97,
+      "eps": 0.94,
       "forwardEps": null,
       "bookValue": 7.213,
       "dividendRate": 0.07,
@@ -66478,10 +66478,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 6.210000038146973,
-          "Volume": 1958252
-        },
-        {
           "Close": 6.150000095367432,
           "Volume": 2341213
         },
@@ -66568,6 +66564,10 @@
         {
           "Close": 6.440000057220459,
           "Volume": 17619718
+        },
+        {
+          "Close": 6.429999828338623,
+          "Volume": 3859352
         },
         {
           "Close": 6.260000228881836,
@@ -68899,7 +68899,7 @@
       "country": "Turkey",
       "phone": "90 312 219 50 33",
       "description": "Oncosem Onkolojik Sistemler Sanayi Ve Ticaret Anonim Sirketi manufactures and sells chemotherapy drug preparation kits and equipment in Turkey. The company offers OncoCare Monolitik, an automated chemotherapy drug preparation device; OncoCare Plus, a chemotherapy drug guide; OncoWaste and M-Waste, a hazardous waste sealing system, chemotherapy drugs, cephalosporins, penicillins, infectious waste and toxic laboratory waste; OncoCare Set, a chemotherapy preparation and administration consumables; and Oncocare Infusion Pump. It also provides Oncosem components, such as pinch clamps, roller clamps, 3/4 way connectors, vial adapters, drip chambers, hydrophobic caps, male and rotating luer locks, spikes, taxol filters, check valves, and covers. The company was incorporated in 2008 and is headquartered in Ankara, Turkey.",
-      "pe": 123.03665,
+      "pe": 123.68421,
       "forwardPE": null,
       "priceToBook": 12.531328,
       "pegRatio": null,
@@ -68918,7 +68918,7 @@
       "debtToEquity": 34.985,
       "currentRatio": 2.249,
       "quickRatio": 1.723,
-      "eps": 1.91,
+      "eps": 1.9,
       "forwardEps": null,
       "bookValue": 18.753,
       "dividendRate": null,
@@ -72093,7 +72093,7 @@
       "previousClose": 11.46,
       "open": 11.48,
       "dayLow": 11.31,
-      "dayHigh": 11.72,
+      "dayHigh": 11.71,
       "fiftyTwoWeekLow": 11.1,
       "fiftyTwoWeekHigh": 21.96,
       "fiftyDayAverage": 14.18,
@@ -73057,7 +73057,7 @@
       "country": "Turkey",
       "phone": "90 212 444 32 64",
       "description": "Peker Gayrimenkul Yatirim Ortakligi Anonim Sirketi engages in the real estate investment business in Turkey, England, and Germany. The company qualifies as a real estate investment trust for federal income tax purposes. It generally would not be subject to federal corporate income taxes if it distributes at least 90% of its taxable income to its stockholders. The company was incorporated in 2017 and is based in Istanbul, Turkey.",
-      "pe": 30.638298,
+      "pe": 30.0,
       "forwardPE": null,
       "priceToBook": 1.3459201,
       "pegRatio": null,
@@ -73076,7 +73076,7 @@
       "debtToEquity": 26.41,
       "currentRatio": 1.215,
       "quickRatio": 0.065,
-      "eps": 0.47,
+      "eps": 0.48,
       "forwardEps": null,
       "bookValue": 10.699,
       "dividendRate": null,
@@ -73415,7 +73415,7 @@
       "changeRate": -1.53,
       "previousClose": 13.71,
       "open": 13.71,
-      "dayLow": 13.41,
+      "dayLow": 13.42,
       "dayHigh": 13.71,
       "fiftyTwoWeekLow": 12.49,
       "fiftyTwoWeekHigh": 19.5,
@@ -74569,7 +74569,7 @@
       "country": "Turkey",
       "phone": "90 312 342 03 82",
       "description": "Panelsan Cati Cephe Sistemleri Sanayi Ve Ticaret A.S. manufactures and sells sandwich panels, EPS insulation materials, and other products in Turkey. The company offers facade, roof, acoustic, and cold room panels; EPS products, including thermal insulation boards, injection sheets, EPS blocks, light filling products, mold injection products, decorative ceiling coverings, and geopans; trapezoidal overlays; solar power plant solutions; and complementary products. It is also involved in manufacturing, purchase, sale, import, and production of heating, ventilation, cooling, insulation, and roofing and facade cladding materials; production, import, export, purchase, sale, and domestic trade of prefabricated thermally insulated construction elements; and the manufacturing and trade of marble, iron, cement, ready-mixed concrete, and hardware materials. The company was incorporated in 2004 and is headquartered in Ankara, Turkey.",
-      "pe": 11.538462,
+      "pe": 11.328125,
       "forwardPE": null,
       "priceToBook": 1.0096556,
       "pegRatio": null,
@@ -74588,7 +74588,7 @@
       "debtToEquity": 9.321,
       "currentRatio": 1.221,
       "quickRatio": 0.781,
-      "eps": 3.77,
+      "eps": 3.84,
       "forwardEps": null,
       "bookValue": 43.084,
       "dividendRate": 0.69,
@@ -75722,7 +75722,7 @@
       "debtToEquity": null,
       "currentRatio": 1.083,
       "quickRatio": 0.523,
-      "eps": -2.53,
+      "eps": -2.54,
       "forwardEps": null,
       "bookValue": 34.358,
       "dividendRate": null,
@@ -76648,7 +76648,7 @@
       "country": "Turkey",
       "phone": "90 312 444 57 25",
       "description": "Ral Yatirim Holding A.S. engages in the construction, energy, properties, and education activities. It carries contracting works for residential projects, as well as large public projects. The company is also involved in the production and sale of renewable and clean energy; and produces calcites. Ral Yatirim Holding A.S. was incorporated in 1976 and is headquartered in Ankara, Turkey.",
-      "pe": 78.92976,
+      "pe": 80.821915,
       "forwardPE": null,
       "priceToBook": 9.726745,
       "pegRatio": null,
@@ -76667,7 +76667,7 @@
       "debtToEquity": 38.497,
       "currentRatio": 0.772,
       "quickRatio": 0.53,
-      "eps": 2.99,
+      "eps": 2.92,
       "forwardEps": null,
       "bookValue": 24.263,
       "dividendRate": null,
@@ -80598,7 +80598,7 @@
       "previousClose": 10.75,
       "open": 11.31,
       "dayLow": 11.0,
-      "dayHigh": 11.81,
+      "dayHigh": 11.63,
       "fiftyTwoWeekLow": 2.81,
       "fiftyTwoWeekHigh": 13.25,
       "fiftyDayAverage": 10.44,
@@ -86078,7 +86078,7 @@
       "changeRate": -0.88,
       "previousClose": 15.98,
       "open": 16.09,
-      "dayLow": 15.74,
+      "dayLow": 15.73,
       "dayHigh": 16.09,
       "fiftyTwoWeekLow": 15.71,
       "fiftyTwoWeekHigh": 29.76,
@@ -86457,7 +86457,7 @@
       "previousClose": 482.0,
       "open": 476.5,
       "dayLow": 467.0,
-      "dayHigh": 489.0,
+      "dayHigh": 485.0,
       "fiftyTwoWeekLow": 90.35,
       "fiftyTwoWeekHigh": 703.0,
       "fiftyDayAverage": 433.7,
@@ -86645,7 +86645,7 @@
       "changeRate": -1.54,
       "previousClose": 45.52,
       "open": 45.54,
-      "dayLow": 44.62,
+      "dayLow": 44.6,
       "dayHigh": 46.02,
       "fiftyTwoWeekLow": 33.34,
       "fiftyTwoWeekHigh": 55.95,
@@ -88724,7 +88724,7 @@
       "changeRate": 0.77,
       "previousClose": 1813.0,
       "open": 1813.0,
-      "dayLow": 1770.0,
+      "dayLow": 1774.0,
       "dayHigh": 1895.0,
       "fiftyTwoWeekLow": 809.5,
       "fiftyTwoWeekHigh": 2300.0,
@@ -90237,7 +90237,7 @@
       "previousClose": 66.8,
       "open": 66.05,
       "dayLow": 66.05,
-      "dayHigh": 67.95,
+      "dayHigh": 67.75,
       "fiftyTwoWeekLow": 54.6,
       "fiftyTwoWeekHigh": 101.9,
       "fiftyDayAverage": 73.03,
@@ -90425,7 +90425,7 @@
       "changeRate": 0.93,
       "previousClose": 91.7,
       "open": 91.7,
-      "dayLow": 90.55,
+      "dayLow": 90.6,
       "dayHigh": 93.1,
       "fiftyTwoWeekLow": 36.0,
       "fiftyTwoWeekHigh": 109.0,
@@ -90614,7 +90614,7 @@
       "changeRate": -1.72,
       "previousClose": 31.42,
       "open": 31.24,
-      "dayLow": 30.62,
+      "dayLow": 30.6,
       "dayHigh": 32.0,
       "fiftyTwoWeekLow": 15.02,
       "fiftyTwoWeekHigh": 35.46,
@@ -91231,8 +91231,8 @@
       "targetLowPrice": 8.9,
       "targetMeanPrice": 10.2,
       "targetMedianPrice": 10.2,
-      "recommendationMean": 3.0,
-      "recommendationKey": "hold",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
       "beta": 0.345,
       "historicalData": [
@@ -91559,7 +91559,7 @@
       "changeRate": -1.52,
       "previousClose": 22.4,
       "open": 22.4,
-      "dayLow": 21.96,
+      "dayLow": 21.94,
       "dayHigh": 22.4,
       "fiftyTwoWeekLow": 21.62,
       "fiftyTwoWeekHigh": 48.3,
@@ -93072,7 +93072,7 @@
       "previousClose": 9.06,
       "open": 9.07,
       "dayLow": 8.86,
-      "dayHigh": 9.17,
+      "dayHigh": 9.2,
       "fiftyTwoWeekLow": 6.15,
       "fiftyTwoWeekHigh": 11.2,
       "fiftyDayAverage": 9.59,
