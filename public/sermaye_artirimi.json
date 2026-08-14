@@ -1,5 +1,32 @@
 [
   {
+    "code": "AKFIS",
+    "company": "AKFIS Akfen İnşaat Turizm ve Ticaret A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%500",
+    "date": "13.08.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 3.182.920.390 TL"
+  },
+  {
+    "code": "SDTTR",
+    "company": "SDTTR Sdt Uzay ve Savunma Teknolojileri A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1000",
+    "date": "13.08.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "ORGE",
+    "company": "ORGE Orge Enerji Elektrik Taahhüt A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%400",
+    "date": "13.08.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "DNISI",
     "company": "DNISI Dinamik Isı Yalıtım Malzemeleri San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -180,15 +207,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "ORGE",
-    "company": "ORGE Orge Enerji Elektrik Taahhüt A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%400",
-    "date": "12.06.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "KUVVA",
     "company": "KUVVA Kuvva Gıda Tic. ve San. Yatırımları A.Ş.",
     "type": "Bedelsiz",
@@ -232,15 +250,6 @@
     "date": "22.05.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 561.198.000 TL"
-  },
-  {
-    "code": "AKFIS",
-    "company": "AKFIS Akfen İnşaat Turizm ve Ticaret A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%500",
-    "date": "18.05.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 3.182.920.390 TL"
   },
   {
     "code": "MEGMT",
@@ -292,15 +301,6 @@
     "company": "ODINE Odine Solutions Teknoloji Tic. ve San. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%1212.21",
-    "date": "15.04.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "SDTTR",
-    "company": "SDTTR Sdt Uzay ve Savunma Teknolojileri A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1000",
     "date": "15.04.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
