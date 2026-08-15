@@ -4,9 +4,9 @@
     "company": "AKFIS Akfen İnşaat Turizm ve Ticaret A.Ş.",
     "type": "Bedelsiz",
     "rate": "%500",
-    "date": "13.08.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 3.182.920.390 TL"
+    "date": "18.08.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 18.08.2026 | Tutar: 3.182.920.390 TL"
   },
   {
     "code": "SDTTR",
@@ -34,33 +34,6 @@
     "date": "05.08.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "VKGYO",
-    "company": "VKGYO Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%27.53",
-    "date": "10.08.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 10.08.2026"
-  },
-  {
-    "code": "DERHL",
-    "company": "DERHL Derlüks Yatırım Holding A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%401",
-    "date": "10.08.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 10.08.2026 | Tutar: 791.897.760 TL"
-  },
-  {
-    "code": "VSNMD",
-    "company": "VSNMD Vişne Madencilik Üretim San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%55",
-    "date": "11.08.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 11.08.2026 | Tutar: 64.350.000 TL"
   },
   {
     "code": "KORDS",
@@ -288,15 +261,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "RYSAS",
-    "company": "RYSAS Reysaş Taşımacılık ve Lojistik Ticaret A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "20.04.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "ODINE",
     "company": "ODINE Odine Solutions Teknoloji Tic. ve San. A.Ş.",
     "type": "Bedelsiz",
@@ -423,13 +387,13 @@
     "description": "Bölünme Tarihi: 05.08.2026 Bitiş : 19.08.2026 | Tutar: 1 TL"
   },
   {
-    "code": "SEKFK",
-    "company": "SEKFK Şeker Finansal Kiralama A.Ş.",
+    "code": "BIGTK",
+    "company": "BIGTK Big Medya Teknoloji A.Ş.",
     "type": "Bedelli",
-    "rate": "%100",
-    "date": "23.07.2026 Bitiş : 06.08.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 23.07.2026 Bitiş : 06.08.2026 | Tutar: 1 TL"
+    "rate": "%180",
+    "date": "13.08.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 60.861.116 TL"
   },
   {
     "code": "SNICA",
@@ -509,15 +473,6 @@
     "type": "Bedelli",
     "rate": "%100",
     "date": "22.04.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "RYSAS",
-    "company": "RYSAS Reysaş Taşımacılık ve Lojistik Ticaret A.Ş.",
-    "type": "Bedelli",
-    "rate": "%100",
-    "date": "20.04.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
