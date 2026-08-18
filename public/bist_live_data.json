@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-08-17T23:53:21.966263",
+  "last_update": "2026-08-18T01:31:50.537865",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 499,
-  "successful": 499,
-  "failed": 32,
+  "total_stocks": 498,
+  "successful": 498,
+  "failed": 33,
   "stocks": [
     {
       "code": "GARAN",
@@ -70,10 +70,6 @@
       "numberOfAnalystOpinions": 15,
       "beta": 0.513,
       "historicalData": [
-        {
-          "Close": 133.5,
-          "Volume": 34940065
-        },
         {
           "Close": 133.6999969482422,
           "Volume": 19909940
@@ -145,6 +141,10 @@
         {
           "Close": 123.0999984741211,
           "Volume": 35463365
+        },
+        {
+          "Close": 123.4000015258789,
+          "Volume": 58603631
         },
         {
           "Close": 127.9000015258789,
@@ -449,10 +449,6 @@
       "beta": 0.445,
       "historicalData": [
         {
-          "Close": 38.02000045776367,
-          "Volume": 275143601
-        },
-        {
           "Close": 37.459999084472656,
           "Volume": 189540500
         },
@@ -523,6 +519,10 @@
         {
           "Close": 31.0,
           "Volume": 272016620
+        },
+        {
+          "Close": 32.7599983215332,
+          "Volume": 279386134
         },
         {
           "Close": 34.0,
@@ -638,10 +638,6 @@
       "beta": 0.204,
       "historicalData": [
         {
-          "Close": 14.210000038146973,
-          "Volume": 486069237
-        },
-        {
           "Close": 14.34000015258789,
           "Volume": 338527505
         },
@@ -712,6 +708,10 @@
         {
           "Close": 12.029999732971191,
           "Volume": 686429506
+        },
+        {
+          "Close": 12.470000267028809,
+          "Volume": 686627710
         },
         {
           "Close": 12.680000305175781,
@@ -793,7 +793,7 @@
       "description": "Türkiye Vakiflar Bankasi Türk Anonim Ortakligi, together with its subsidiaries, provides corporate, commercial, SME, agricultural, and modern banking products and services in Turkey and internationally. It offers time, demand, and term deposits accounts; mortgage, car, personal, and private banking yacht loans; housing, comprehensive, motor, compulsory traffic, travel and complementary health, and compulsory earthquake insurance; and individual pension contract, private pension agreement, and life insurance products. The company also provides investment products, such as investment funds, Government Bonds and treasury bills, eurobond, bank bonds, gold trading, VakifBank Gold, stocks, VIOP, safe deposit boxes, options, dual currency deposit, contingent option, currency swap, and forward agreements. In addition, it offers export / import transactions, foreign currency transfer, Eximbank Loans, and foreign trade solutions; money transfer services; and factoring and leasing services, as well as digital banking services. The company was incorporated in 1954 and is headquartered in Istanbul, Turkey.",
       "pe": 3.7884378,
       "forwardPE": 5.5296226,
-      "priceToBook": 0.8991913,
+      "priceToBook": 0.84097856,
       "pegRatio": 0.45,
       "priceToSales": 1.1511098,
       "enterpriseToRevenue": 4.23,
@@ -812,7 +812,7 @@
       "quickRatio": null,
       "eps": 8.13,
       "forwardEps": 5.57,
-      "bookValue": 34.253,
+      "bookValue": 36.624,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1534377600,
@@ -826,10 +826,6 @@
       "numberOfAnalystOpinions": 10,
       "beta": 0.287,
       "historicalData": [
-        {
-          "Close": 31.8799991607666,
-          "Volume": 55057577
-        },
         {
           "Close": 31.940000534057617,
           "Volume": 28641962
@@ -901,6 +897,10 @@
         {
           "Close": 28.8799991607666,
           "Volume": 28716053
+        },
+        {
+          "Close": 29.219999313354492,
+          "Volume": 40991349
         },
         {
           "Close": 30.5,
@@ -1016,10 +1016,6 @@
       "beta": 0.727,
       "historicalData": [
         {
-          "Close": 43.7599983215332,
-          "Volume": 47238620
-        },
-        {
           "Close": 43.79999923706055,
           "Volume": 49954846
         },
@@ -1090,6 +1086,10 @@
         {
           "Close": 35.7400016784668,
           "Volume": 43716129
+        },
+        {
+          "Close": 37.439998626708984,
+          "Volume": 44089171
         },
         {
           "Close": 37.29999923706055,
@@ -1205,10 +1205,6 @@
       "beta": -0.03,
       "historicalData": [
         {
-          "Close": 334.0,
-          "Volume": 44008702
-        },
-        {
           "Close": 347.0,
           "Volume": 87354823
         },
@@ -1279,6 +1275,10 @@
         {
           "Close": 308.25,
           "Volume": 41895470
+        },
+        {
+          "Close": 314.0,
+          "Volume": 45799665
         },
         {
           "Close": 317.0,
@@ -1772,10 +1772,6 @@
       "beta": 0.105,
       "historicalData": [
         {
-          "Close": 18.93000030517578,
-          "Volume": 72404536
-        },
-        {
           "Close": 18.84000015258789,
           "Volume": 45024870
         },
@@ -1846,6 +1842,10 @@
         {
           "Close": 19.010000228881836,
           "Volume": 77121992
+        },
+        {
+          "Close": 19.1200008392334,
+          "Volume": 89732176
         },
         {
           "Close": 19.079999923706055,
@@ -1961,10 +1961,6 @@
       "beta": 1.026,
       "historicalData": [
         {
-          "Close": 40.099998474121094,
-          "Volume": 99353915
-        },
-        {
           "Close": 41.52000045776367,
           "Volume": 171886417
         },
@@ -2035,6 +2031,10 @@
         {
           "Close": 42.400001525878906,
           "Volume": 98597063
+        },
+        {
+          "Close": 42.540000915527344,
+          "Volume": 94060059
         },
         {
           "Close": 40.70000076293945,
@@ -2140,19 +2140,15 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 52.19694,
-      "targetLowPrice": 37.543484,
-      "targetMeanPrice": 46.922653,
-      "targetMedianPrice": 48.461742,
+      "targetHighPrice": 52.21754,
+      "targetLowPrice": 37.5583,
+      "targetMeanPrice": 46.941174,
+      "targetMedianPrice": 48.48087,
       "recommendationMean": 2.14286,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 7,
       "beta": null,
       "historicalData": [
-        {
-          "Close": 38.7400016784668,
-          "Volume": 66403787
-        },
         {
           "Close": 39.13999938964844,
           "Volume": 60053552
@@ -2224,6 +2220,10 @@
         {
           "Close": 40.880001068115234,
           "Volume": 40246444
+        },
+        {
+          "Close": 41.20000076293945,
+          "Volume": 34384936
         },
         {
           "Close": 40.220001220703125,
@@ -2528,10 +2528,6 @@
       "beta": -0.018,
       "historicalData": [
         {
-          "Close": 357.0,
-          "Volume": 10601694
-        },
-        {
           "Close": 371.0,
           "Volume": 13197769
         },
@@ -2602,6 +2598,10 @@
         {
           "Close": 383.0,
           "Volume": 10230556
+        },
+        {
+          "Close": 390.25,
+          "Volume": 10260904
         },
         {
           "Close": 379.0,
@@ -2717,10 +2717,6 @@
       "beta": -0.051,
       "historicalData": [
         {
-          "Close": 632.5,
-          "Volume": 2332368
-        },
-        {
           "Close": 639.0,
           "Volume": 1775451
         },
@@ -2791,6 +2787,10 @@
         {
           "Close": 623.0,
           "Volume": 2625158
+        },
+        {
+          "Close": 625.5,
+          "Volume": 3813797
         },
         {
           "Close": 610.5,
@@ -3095,10 +3095,6 @@
       "beta": 0.503,
       "historicalData": [
         {
-          "Close": 61.20000076293945,
-          "Volume": 35033424
-        },
-        {
           "Close": 60.45000076293945,
           "Volume": 23892551
         },
@@ -3169,6 +3165,10 @@
         {
           "Close": 50.70000076293945,
           "Volume": 40775902
+        },
+        {
+          "Close": 51.0,
+          "Volume": 38008011
         },
         {
           "Close": 52.75,
@@ -3473,10 +3473,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 44.34000015258789,
-          "Volume": 44328513
-        },
-        {
           "Close": 43.47999954223633,
           "Volume": 60662528
         },
@@ -3547,6 +3543,10 @@
         {
           "Close": 41.34000015258789,
           "Volume": 36982330
+        },
+        {
+          "Close": 41.7400016784668,
+          "Volume": 39419904
         },
         {
           "Close": 42.13999938964844,
@@ -4040,10 +4040,6 @@
       "beta": 0.412,
       "historicalData": [
         {
-          "Close": 94.5,
-          "Volume": 23600000
-        },
-        {
           "Close": 93.5999984741211,
           "Volume": 35417909
         },
@@ -4114,6 +4110,10 @@
         {
           "Close": 82.30000305175781,
           "Volume": 37704669
+        },
+        {
+          "Close": 84.5,
+          "Volume": 37955773
         },
         {
           "Close": 86.55000305175781,
@@ -4229,10 +4229,6 @@
       "beta": 0.272,
       "historicalData": [
         {
-          "Close": 189.60000610351562,
-          "Volume": 15206523
-        },
-        {
           "Close": 188.0,
           "Volume": 26602248
         },
@@ -4303,6 +4299,10 @@
         {
           "Close": 191.5,
           "Volume": 15667099
+        },
+        {
+          "Close": 196.89999389648438,
+          "Volume": 18259732
         },
         {
           "Close": 196.6999969482422,
@@ -4418,10 +4418,6 @@
       "beta": 0.471,
       "historicalData": [
         {
-          "Close": 20.479999542236328,
-          "Volume": 6745348
-        },
-        {
           "Close": 20.65999984741211,
           "Volume": 7255552
         },
@@ -4492,6 +4488,10 @@
         {
           "Close": 21.260000228881836,
           "Volume": 19581544
+        },
+        {
+          "Close": 20.920000076293945,
+          "Volume": 18467258
         },
         {
           "Close": 20.700000762939453,
@@ -4985,10 +4985,6 @@
       "beta": -0.237,
       "historicalData": [
         {
-          "Close": 89.55000305175781,
-          "Volume": 702219
-        },
-        {
           "Close": 88.0,
           "Volume": 404846
         },
@@ -5059,6 +5055,10 @@
         {
           "Close": 86.30000305175781,
           "Volume": 2473744
+        },
+        {
+          "Close": 81.5999984741211,
+          "Volume": 1980388
         },
         {
           "Close": 81.30000305175781,
@@ -5164,19 +5164,15 @@
       "dividendYield": 1.31,
       "exDividendDate": 1790035200,
       "payoutRatio": 0.0,
-      "targetHighPrice": 523.6195,
-      "targetLowPrice": 346.25293,
-      "targetMeanPrice": 432.16486,
-      "targetMedianPrice": 434.74225,
+      "targetHighPrice": 524.3615,
+      "targetLowPrice": 346.74356,
+      "targetMeanPrice": 432.77725,
+      "targetMedianPrice": 435.35828,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 12,
       "beta": -0.129,
       "historicalData": [
-        {
-          "Close": 274.66851806640625,
-          "Volume": 1941964
-        },
         {
           "Close": 270.69500732421875,
           "Volume": 4069324
@@ -5248,6 +5244,10 @@
         {
           "Close": 267.75,
           "Volume": 4710099
+        },
+        {
+          "Close": 271.75,
+          "Volume": 4216146
         },
         {
           "Close": 278.0,
@@ -5329,7 +5329,7 @@
       "description": "Emlak Konut Gayrimenkul Yatirim Ortakligi A.S., a long-established brand in the construction sector, began. Establishing environmentally friendly, modern cities that would add comfort to human life was determined as a corporate vision. With this basic purpose, Emlak Konut became the architect of many innovative applications in its sector. Emlak Konut carried out projects that set an example and left a mark in the planned urbanization of our country. It built the most innovative cities of its time, large enough to give its name to the district it was located in. This stable growth brought with it a serious turning point and in 2002, Emlak Konut became a real estate investment partnership. This transformation was the harbinger of giant projects, groundbreaking initiatives and becoming a bigger company. With becoming a Real Estate Investment Partnership, Emlak Konut was behind projects that resonated around the world in the field of design, included environmentally friendly technologies and added value to the city. Since 2003, it has tendered a total of 388 projects of various sizes, and because of the completion of these projects, it will have ensured the construction of 251,000 independent units. Emlak Konut went public twice with a breakthrough that would crown its rapid growth and carry its goals to broader horizons. The first offering in 2010 became one of the 5 largest public offerings in the history of the Republic. The secondary offering in 2013 was the largest public offering in the real estate sector in Europe in the last 5 years. Growing with the public offerings, Emlak Konut has further consolidated its place among the strongest companies in Turkey with its paid-in capital of 3.8 billion liras and total assets of 205 billion liras as of the end of 2024. Emlak Konut Gayrimenkul Yatirim Ortakligi A.S. was incorporated in 1953 in Turkey.",
       "pe": 232.62502,
       "forwardPE": 930.50006,
-      "priceToBook": 0.4904984,
+      "priceToBook": 0.5406426,
       "pegRatio": 0.06,
       "priceToSales": 0.7098512,
       "enterpriseToRevenue": 1.3,
@@ -5348,7 +5348,7 @@
       "quickRatio": 0.497,
       "eps": 0.08,
       "forwardEps": 0.02,
-      "bookValue": 37.941,
+      "bookValue": 34.422,
       "dividendRate": 0.6,
       "dividendYield": 3.28,
       "exDividendDate": 1782259200,
@@ -5362,10 +5362,6 @@
       "numberOfAnalystOpinions": 4,
       "beta": null,
       "historicalData": [
-        {
-          "Close": 20.799999237060547,
-          "Volume": 157544462
-        },
         {
           "Close": 20.5,
           "Volume": 110603353
@@ -5437,6 +5433,10 @@
         {
           "Close": 17.729999542236328,
           "Volume": 108956803
+        },
+        {
+          "Close": 17.90999984741211,
+          "Volume": 95983304
         },
         {
           "Close": 18.190000534057617,
@@ -5552,10 +5552,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 104.0,
-          "Volume": 1031392
-        },
-        {
           "Close": 103.19999694824219,
           "Volume": 1852405
         },
@@ -5626,6 +5622,10 @@
         {
           "Close": 109.5,
           "Volume": 4105956
+        },
+        {
+          "Close": 108.9000015258789,
+          "Volume": 4065673
         },
         {
           "Close": 110.19999694824219,
@@ -5741,10 +5741,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 2.4000000953674316,
-          "Volume": 981504350
-        },
-        {
           "Close": 2.3399999141693115,
           "Volume": 723722382
         },
@@ -5815,6 +5811,10 @@
         {
           "Close": 2.4800000190734863,
           "Volume": 0
+        },
+        {
+          "Close": 2.4700000286102295,
+          "Volume": 553948707
         },
         {
           "Close": 2.5199999809265137,
@@ -5930,10 +5930,6 @@
       "beta": 0.748,
       "historicalData": [
         {
-          "Close": 456.0,
-          "Volume": 1712568
-        },
-        {
           "Close": 460.25,
           "Volume": 2228873
         },
@@ -6004,6 +6000,10 @@
         {
           "Close": 401.0,
           "Volume": 1554514
+        },
+        {
+          "Close": 398.5,
+          "Volume": 2328052
         },
         {
           "Close": 404.5,
@@ -6119,10 +6119,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 3.2899999618530273,
-          "Volume": 643739459
-        },
-        {
           "Close": 3.1700000762939453,
           "Volume": 397257695
         },
@@ -6193,6 +6189,10 @@
         {
           "Close": 2.890000104904175,
           "Volume": 382114666
+        },
+        {
+          "Close": 2.9100000858306885,
+          "Volume": 374018757
         },
         {
           "Close": 2.930000066757202,
@@ -6308,10 +6308,6 @@
       "beta": -0.418,
       "historicalData": [
         {
-          "Close": 1605.0,
-          "Volume": 28175
-        },
-        {
           "Close": 1570.0,
           "Volume": 50930
         },
@@ -6382,6 +6378,10 @@
         {
           "Close": 1447.0,
           "Volume": 22995
+        },
+        {
+          "Close": 1443.0,
+          "Volume": 23632
         },
         {
           "Close": 1450.0,
@@ -6652,7 +6652,7 @@
       "description": "Netas Telekomünikasyon A.S. provides end-to-end information and communication technology infrastructures to service providers and institutions in Turkey and internationally. It operates through four segments: Telecom, System Integration, Technology, and BDH. The company offers internet of things, service management, event management and ticket sales, energy management, water meter and meter reading management, load performance test, device farm, BDD based test automation, and high security media platform. It also provides various solutions, including cyber security, data center, localized, mobile broadband, corporate, public, international markets, telecommunication, and strategic communication solutions; and managed services, cyber security operation center, Netas network operation center, and informatics support services. The company was founded in 1967 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": -14.703983,
+      "priceToBook": -12.447604,
       "pegRatio": null,
       "priceToSales": 0.33216354,
       "enterpriseToRevenue": 0.513,
@@ -6671,7 +6671,7 @@
       "quickRatio": 0.687,
       "eps": -5.4,
       "forwardEps": null,
-      "bookValue": -4.645,
+      "bookValue": -5.487,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1371081600,
@@ -6875,10 +6875,6 @@
       "beta": 0.496,
       "historicalData": [
         {
-          "Close": 20.5,
-          "Volume": 39082141
-        },
-        {
           "Close": 20.219999313354492,
           "Volume": 25539596
         },
@@ -6949,6 +6945,10 @@
         {
           "Close": 22.079999923706055,
           "Volume": 38502951
+        },
+        {
+          "Close": 21.8799991607666,
+          "Volume": 40206033
         },
         {
           "Close": 22.079999923706055,
@@ -7253,10 +7253,6 @@
       "beta": 0.211,
       "historicalData": [
         {
-          "Close": 441.0,
-          "Volume": 99433
-        },
-        {
           "Close": 440.0,
           "Volume": 151863
         },
@@ -7327,6 +7323,10 @@
         {
           "Close": 412.0,
           "Volume": 127706
+        },
+        {
+          "Close": 412.25,
+          "Volume": 120712
         },
         {
           "Close": 405.5,
@@ -7442,10 +7442,6 @@
       "beta": 0.417,
       "historicalData": [
         {
-          "Close": 388.25,
-          "Volume": 1627218
-        },
-        {
           "Close": 374.0,
           "Volume": 1627805
         },
@@ -7516,6 +7512,10 @@
         {
           "Close": 304.0,
           "Volume": 363202
+        },
+        {
+          "Close": 305.0,
+          "Volume": 344284
         },
         {
           "Close": 293.5,
@@ -8198,10 +8198,6 @@
       "beta": -0.017,
       "historicalData": [
         {
-          "Close": 8.100000381469727,
-          "Volume": 80686539
-        },
-        {
           "Close": 8.149999618530273,
           "Volume": 66003195
         },
@@ -8272,6 +8268,10 @@
         {
           "Close": 8.6899995803833,
           "Volume": 55190001
+        },
+        {
+          "Close": 7.840000152587891,
+          "Volume": 117844148
         },
         {
           "Close": 7.650000095367432,
@@ -8387,10 +8387,6 @@
       "beta": 0.853,
       "historicalData": [
         {
-          "Close": 17.700000762939453,
-          "Volume": 29285668
-        },
-        {
           "Close": 19.079999923706055,
           "Volume": 52393062
         },
@@ -8461,6 +8457,10 @@
         {
           "Close": 7.739999771118164,
           "Volume": 13032941
+        },
+        {
+          "Close": 6.96999979019165,
+          "Volume": 354626162
         },
         {
           "Close": 6.28000020980835,
@@ -8576,10 +8576,6 @@
       "beta": -0.009,
       "historicalData": [
         {
-          "Close": 33.279998779296875,
-          "Volume": 7723156
-        },
-        {
           "Close": 32.84000015258789,
           "Volume": 2891143
         },
@@ -8650,6 +8646,10 @@
         {
           "Close": 35.459999084472656,
           "Volume": 5000710
+        },
+        {
+          "Close": 35.5,
+          "Volume": 3792335
         },
         {
           "Close": 35.02000045776367,
@@ -8765,10 +8765,6 @@
       "beta": -0.038,
       "historicalData": [
         {
-          "Close": 12.149999618530273,
-          "Volume": 40709117
-        },
-        {
           "Close": 11.84000015258789,
           "Volume": 24415727
         },
@@ -8839,6 +8835,10 @@
         {
           "Close": 12.319999694824219,
           "Volume": 15126253
+        },
+        {
+          "Close": 13.0,
+          "Volume": 53203567
         },
         {
           "Close": 12.5,
@@ -8954,10 +8954,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 80.9000015258789,
-          "Volume": 2604753
-        },
-        {
           "Close": 85.05000305175781,
           "Volume": 9825561
         },
@@ -9028,6 +9024,10 @@
         {
           "Close": 97.0,
           "Volume": 5729440
+        },
+        {
+          "Close": 94.1500015258789,
+          "Volume": 6927072
         },
         {
           "Close": 91.0,
@@ -9332,10 +9332,6 @@
       "beta": 0.019,
       "historicalData": [
         {
-          "Close": 3.700000047683716,
-          "Volume": 54567211
-        },
-        {
           "Close": 3.6600000858306885,
           "Volume": 40098464
         },
@@ -9406,6 +9402,10 @@
         {
           "Close": 3.3299999237060547,
           "Volume": 24697184
+        },
+        {
+          "Close": 3.319999933242798,
+          "Volume": 18746339
         },
         {
           "Close": 3.299999952316284,
@@ -9710,10 +9710,6 @@
       "beta": -0.132,
       "historicalData": [
         {
-          "Close": 25.979999542236328,
-          "Volume": 1201281
-        },
-        {
           "Close": 26.219999313354492,
           "Volume": 2254980
         },
@@ -9784,6 +9780,10 @@
         {
           "Close": 22.65999984741211,
           "Volume": 2398945
+        },
+        {
+          "Close": 22.739999771118164,
+          "Volume": 2300405
         },
         {
           "Close": 23.040000915527344,
@@ -10088,10 +10088,6 @@
       "beta": 0.284,
       "historicalData": [
         {
-          "Close": 18.760000228881836,
-          "Volume": 10406685
-        },
-        {
           "Close": 18.809999465942383,
           "Volume": 8803615
         },
@@ -10162,6 +10158,10 @@
         {
           "Close": 17.200000762939453,
           "Volume": 7428547
+        },
+        {
+          "Close": 17.209999084472656,
+          "Volume": 4465959
         },
         {
           "Close": 17.56999969482422,
@@ -10277,10 +10277,6 @@
       "beta": 0.488,
       "historicalData": [
         {
-          "Close": 1.6799999475479126,
-          "Volume": 45749901
-        },
-        {
           "Close": 1.659999966621399,
           "Volume": 56531557
         },
@@ -10351,6 +10347,10 @@
         {
           "Close": 1.7599999904632568,
           "Volume": 81971468
+        },
+        {
+          "Close": 1.909999966621399,
+          "Volume": 157739301
         },
         {
           "Close": 1.8300000429153442,
@@ -11033,10 +11033,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 9.899999618530273,
-          "Volume": 1951716
-        },
-        {
           "Close": 9.760000228881836,
           "Volume": 1582857
         },
@@ -11107,6 +11103,10 @@
         {
           "Close": 8.90999984741211,
           "Volume": 2096378
+        },
+        {
+          "Close": 8.859999656677246,
+          "Volume": 1491510
         },
         {
           "Close": 8.800000190734863,
@@ -11222,10 +11222,6 @@
       "beta": -0.254,
       "historicalData": [
         {
-          "Close": 48.619998931884766,
-          "Volume": 10819432
-        },
-        {
           "Close": 48.2400016784668,
           "Volume": 7911095
         },
@@ -11296,6 +11292,10 @@
         {
           "Close": 46.220001220703125,
           "Volume": 5775145
+        },
+        {
+          "Close": 44.84000015258789,
+          "Volume": 11256373
         },
         {
           "Close": 44.959999084472656,
@@ -11600,10 +11600,6 @@
       "beta": 1.067,
       "historicalData": [
         {
-          "Close": 0.9599999785423279,
-          "Volume": 150278083
-        },
-        {
           "Close": 0.9399999976158142,
           "Volume": 139823886
         },
@@ -11674,6 +11670,10 @@
         {
           "Close": 0.8399999737739563,
           "Volume": 98979615
+        },
+        {
+          "Close": 0.8700000047683716,
+          "Volume": 172566210
         },
         {
           "Close": 0.8399999737739563,
@@ -11789,10 +11789,6 @@
       "beta": -0.85,
       "historicalData": [
         {
-          "Close": 12.989999771118164,
-          "Volume": 1826287
-        },
-        {
           "Close": 12.829999923706055,
           "Volume": 1990278
         },
@@ -11863,6 +11859,10 @@
         {
           "Close": 12.800000190734863,
           "Volume": 3663135
+        },
+        {
+          "Close": 12.84000015258789,
+          "Volume": 3721161
         },
         {
           "Close": 12.529999732971191,
@@ -11979,10 +11979,6 @@
       "historicalData": [
         {
           "Close": 247.0,
-          "Volume": 284406
-        },
-        {
-          "Close": 247.0,
           "Volume": 204695
         },
         {
@@ -12052,6 +12048,10 @@
         {
           "Close": 237.89999389648438,
           "Volume": 139720
+        },
+        {
+          "Close": 242.89999389648438,
+          "Volume": 231537
         },
         {
           "Close": 240.0,
@@ -12133,7 +12133,7 @@
       "description": "Akenerji Elektrik Üretim A.S., together with its subsidiaries, together with its subsidiaries, produces and trades in electricity in Turkey. The company operates hydroelectric, wind, and natural gas combined cycle power plants with a total installed capacity of 1,224 megawatts. It is also involved in the natural gas trading business. Akenerji Elektrik Üretim A.S. was incorporated in 1989 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": -11.861702,
-      "priceToBook": 0.5586732,
+      "priceToBook": 0.5108352,
       "pegRatio": 0.53,
       "priceToSales": 0.44234928,
       "enterpriseToRevenue": 1.817,
@@ -12152,7 +12152,7 @@
       "quickRatio": 0.08,
       "eps": -7.02,
       "forwardEps": -0.94,
-      "bookValue": 19.958,
+      "bookValue": 21.827,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1241395200,
@@ -12166,10 +12166,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
-        {
-          "Close": 11.569999694824219,
-          "Volume": 5533643
-        },
         {
           "Close": 11.40999984741211,
           "Volume": 10776678
@@ -12241,6 +12237,10 @@
         {
           "Close": 9.8100004196167,
           "Volume": 6340768
+        },
+        {
+          "Close": 9.979999542236328,
+          "Volume": 4442646
         },
         {
           "Close": 9.850000381469727,
@@ -12356,10 +12356,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 2.7300000190734863,
-          "Volume": 21142886
-        },
-        {
           "Close": 2.7200000286102295,
           "Volume": 11055133
         },
@@ -12430,6 +12426,10 @@
         {
           "Close": 2.7699999809265137,
           "Volume": 14573227
+        },
+        {
+          "Close": 2.7699999809265137,
+          "Volume": 18382387
         },
         {
           "Close": 2.7200000286102295,
@@ -12511,7 +12511,7 @@
       "description": "Akfen Yenilenebilir Enerji A.S. together with its subsidiaries, generates and sells electricity from renewable sources in Turkey. The company operates a portfolio of wind and hybrid solar power plants with a total installed capacity of 536.37 megawatts; hydroelectric plants with a capacity of 228.7; and solar power plants with an installed capacity of 121.4 megawatts. The company was founded in 2007 and is based in Ankara, Turkey. Akfen Yenilenebilir Enerji operates as a subsidiary of Akfen Holding Anonim Sirketi.",
       "pe": 20.192984,
       "forwardPE": 5.2081447,
-      "priceToBook": 0.43704435,
+      "priceToBook": 0.48878887,
       "pegRatio": null,
       "priceToSales": 4.531,
       "enterpriseToRevenue": 6.445,
@@ -12530,7 +12530,7 @@
       "quickRatio": 0.443,
       "eps": 1.14,
       "forwardEps": null,
-      "bookValue": 52.672,
+      "bookValue": 47.096,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -12734,10 +12734,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 9.609999656677246,
-          "Volume": 3938944
-        },
-        {
           "Close": 9.579999923706055,
           "Volume": 1351437
         },
@@ -12808,6 +12804,10 @@
         {
           "Close": 9.199999809265137,
           "Volume": 817646
+        },
+        {
+          "Close": 9.300000190734863,
+          "Volume": 3390282
         },
         {
           "Close": 9.600000381469727,
@@ -13112,10 +13112,6 @@
       "beta": 0.285,
       "historicalData": [
         {
-          "Close": 2.5799999237060547,
-          "Volume": 2926513
-        },
-        {
           "Close": 2.5399999618530273,
           "Volume": 1997693
         },
@@ -13186,6 +13182,10 @@
         {
           "Close": 2.2699999809265137,
           "Volume": 903919
+        },
+        {
+          "Close": 2.240000009536743,
+          "Volume": 1535579
         },
         {
           "Close": 2.2200000286102295,
@@ -13301,10 +13301,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 805.0,
-          "Volume": 111038
-        },
-        {
           "Close": 885.5,
           "Volume": 30189
         },
@@ -13375,6 +13371,10 @@
         {
           "Close": 725.0,
           "Volume": 62319
+        },
+        {
+          "Close": 740.0,
+          "Volume": 48938
         },
         {
           "Close": 720.5,
@@ -13490,10 +13490,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 153.1999969482422,
-          "Volume": 437005
-        },
-        {
           "Close": 145.6999969482422,
           "Volume": 219567
         },
@@ -13564,6 +13560,10 @@
         {
           "Close": 178.6999969482422,
           "Volume": 548970
+        },
+        {
+          "Close": 180.0,
+          "Volume": 1344797
         },
         {
           "Close": 170.89999389648438,
@@ -13679,10 +13679,6 @@
       "beta": 0.107,
       "historicalData": [
         {
-          "Close": 47.2400016784668,
-          "Volume": 4173551
-        },
-        {
           "Close": 45.880001068115234,
           "Volume": 2858936
         },
@@ -13753,6 +13749,10 @@
         {
           "Close": 40.959999084472656,
           "Volume": 2217479
+        },
+        {
+          "Close": 41.040000915527344,
+          "Volume": 1213189
         },
         {
           "Close": 41.41999816894531,
@@ -13868,10 +13868,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 9.260000228881836,
-          "Volume": 2316284
-        },
-        {
           "Close": 9.100000381469727,
           "Volume": 2928714
         },
@@ -13942,6 +13938,10 @@
         {
           "Close": 8.170000076293945,
           "Volume": 1977799
+        },
+        {
+          "Close": 8.15999984741211,
+          "Volume": 1871737
         },
         {
           "Close": 7.989999771118164,
@@ -14057,10 +14057,6 @@
       "beta": 2.546,
       "historicalData": [
         {
-          "Close": 103.4000015258789,
-          "Volume": 4769294
-        },
-        {
           "Close": 99.0,
           "Volume": 3259529
         },
@@ -14131,6 +14127,10 @@
         {
           "Close": 117.9000015258789,
           "Volume": 8490075
+        },
+        {
+          "Close": 121.0,
+          "Volume": 2400090
         },
         {
           "Close": 126.0,
@@ -14246,10 +14246,6 @@
       "beta": 0.221,
       "historicalData": [
         {
-          "Close": 101.5999984741211,
-          "Volume": 372170
-        },
-        {
           "Close": 101.5,
           "Volume": 369119
         },
@@ -14320,6 +14316,10 @@
         {
           "Close": 109.4000015258789,
           "Volume": 1088991
+        },
+        {
+          "Close": 115.0,
+          "Volume": 2636885
         },
         {
           "Close": 115.0999984741211,
@@ -14436,10 +14436,6 @@
       "historicalData": [
         {
           "Close": 27.040000915527344,
-          "Volume": 3054715
-        },
-        {
-          "Close": 27.040000915527344,
           "Volume": 2089325
         },
         {
@@ -14509,6 +14505,10 @@
         {
           "Close": 26.8799991607666,
           "Volume": 3751200
+        },
+        {
+          "Close": 27.200000762939453,
+          "Volume": 3732424
         },
         {
           "Close": 27.280000686645508,
@@ -14624,10 +14624,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 120.5,
-          "Volume": 479385
-        },
-        {
           "Close": 119.0,
           "Volume": 378655
         },
@@ -14698,6 +14694,10 @@
         {
           "Close": 111.0,
           "Volume": 427837
+        },
+        {
+          "Close": 113.4000015258789,
+          "Volume": 207212
         },
         {
           "Close": 112.0,
@@ -14813,10 +14813,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 58.79999923706055,
-          "Volume": 2583611
-        },
-        {
           "Close": 63.349998474121094,
           "Volume": 5085982
         },
@@ -14887,6 +14883,10 @@
         {
           "Close": 67.8499984741211,
           "Volume": 5404459
+        },
+        {
+          "Close": 72.30000305175781,
+          "Volume": 7813654
         },
         {
           "Close": 75.44999694824219,
@@ -15002,10 +15002,6 @@
       "beta": 0.382,
       "historicalData": [
         {
-          "Close": 28.200000762939453,
-          "Volume": 744933
-        },
-        {
           "Close": 28.0,
           "Volume": 1372732
         },
@@ -15076,6 +15072,10 @@
         {
           "Close": 21.360000610351562,
           "Volume": 2368722
+        },
+        {
+          "Close": 21.760000228881836,
+          "Volume": 981098
         },
         {
           "Close": 21.100000381469727,
@@ -15191,10 +15191,6 @@
       "beta": -0.205,
       "historicalData": [
         {
-          "Close": 3.490000009536743,
-          "Volume": 33561252
-        },
-        {
           "Close": 3.5299999713897705,
           "Volume": 56418811
         },
@@ -15265,6 +15261,10 @@
         {
           "Close": 3.2799999713897705,
           "Volume": 10139293
+        },
+        {
+          "Close": 3.369999885559082,
+          "Volume": 9094272
         },
         {
           "Close": 3.3399999141693115,
@@ -15380,10 +15380,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 43.619998931884766,
-          "Volume": 3031839
-        },
-        {
           "Close": 43.380001068115234,
           "Volume": 3379032
         },
@@ -15454,6 +15450,10 @@
         {
           "Close": 39.70000076293945,
           "Volume": 930633
+        },
+        {
+          "Close": 42.0,
+          "Volume": 1194160
         },
         {
           "Close": 43.5,
@@ -15569,10 +15569,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 1.9800000190734863,
-          "Volume": 52515171
-        },
-        {
           "Close": 1.9600000381469727,
           "Volume": 11170206
         },
@@ -15643,6 +15639,10 @@
         {
           "Close": 1.7100000381469727,
           "Volume": 15617319
+        },
+        {
+          "Close": 1.6699999570846558,
+          "Volume": 17689772
         },
         {
           "Close": 1.5700000524520874,
@@ -15758,10 +15758,6 @@
       "beta": 0.424,
       "historicalData": [
         {
-          "Close": 319.0,
-          "Volume": 52809175
-        },
-        {
           "Close": 317.5,
           "Volume": 29956360
         },
@@ -15832,6 +15828,10 @@
         {
           "Close": 287.5,
           "Volume": 21684022
+        },
+        {
+          "Close": 295.5,
+          "Volume": 31915978
         },
         {
           "Close": 290.5,
@@ -16325,10 +16325,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 212.10000610351562,
-          "Volume": 866927
-        },
-        {
           "Close": 209.0,
           "Volume": 756448
         },
@@ -16399,6 +16395,10 @@
         {
           "Close": 228.3000030517578,
           "Volume": 1399783
+        },
+        {
+          "Close": 251.0,
+          "Volume": 2604858
         },
         {
           "Close": 238.8000030517578,
@@ -16514,10 +16514,6 @@
       "beta": 0.714,
       "historicalData": [
         {
-          "Close": 125.0999984741211,
-          "Volume": 18255
-        },
-        {
           "Close": 133.6999969482422,
           "Volume": 27743
         },
@@ -16588,6 +16584,10 @@
         {
           "Close": 114.9000015258789,
           "Volume": 15001
+        },
+        {
+          "Close": 113.0,
+          "Volume": 8819
         },
         {
           "Close": 107.4000015258789,
@@ -16703,10 +16703,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 8.329999923706055,
-          "Volume": 1806449
-        },
-        {
           "Close": 8.100000381469727,
           "Volume": 782189
         },
@@ -16777,6 +16773,10 @@
         {
           "Close": 7.039999961853027,
           "Volume": 508986
+        },
+        {
+          "Close": 7.079999923706055,
+          "Volume": 462958
         },
         {
           "Close": 7.070000171661377,
@@ -16892,10 +16892,6 @@
       "beta": 1.289,
       "historicalData": [
         {
-          "Close": 14.510000228881836,
-          "Volume": 697884
-        },
-        {
           "Close": 14.550000190734863,
           "Volume": 690936
         },
@@ -16966,6 +16962,10 @@
         {
           "Close": 13.680000305175781,
           "Volume": 870814
+        },
+        {
+          "Close": 13.380000114440918,
+          "Volume": 2337724
         },
         {
           "Close": 13.09000015258789,
@@ -17082,10 +17082,6 @@
       "historicalData": [
         {
           "Close": 39.0,
-          "Volume": 1224374
-        },
-        {
-          "Close": 39.0,
           "Volume": 1192937
         },
         {
@@ -17155,6 +17151,10 @@
         {
           "Close": 40.040000915527344,
           "Volume": 5401296
+        },
+        {
+          "Close": 39.0,
+          "Volume": 1147686
         },
         {
           "Close": 37.79999923706055,
@@ -17270,10 +17270,6 @@
       "beta": 0.353,
       "historicalData": [
         {
-          "Close": 4.269999980926514,
-          "Volume": 8548868
-        },
-        {
           "Close": 4.230000019073486,
           "Volume": 8972309
         },
@@ -17344,6 +17340,10 @@
         {
           "Close": 3.700000047683716,
           "Volume": 2384160
+        },
+        {
+          "Close": 3.740000009536743,
+          "Volume": 3882836
         },
         {
           "Close": 3.7200000286102295,
@@ -17459,10 +17459,6 @@
       "beta": 0.352,
       "historicalData": [
         {
-          "Close": 16.270000457763672,
-          "Volume": 251191
-        },
-        {
           "Close": 15.899999618530273,
           "Volume": 351593
         },
@@ -17533,6 +17529,10 @@
         {
           "Close": 14.630000114440918,
           "Volume": 337149
+        },
+        {
+          "Close": 15.859999656677246,
+          "Volume": 403201
         },
         {
           "Close": 15.279999732971191,
@@ -17648,10 +17648,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 574.5,
-          "Volume": 90526
-        },
-        {
           "Close": 568.5,
           "Volume": 102356
         },
@@ -17722,6 +17718,10 @@
         {
           "Close": 465.0,
           "Volume": 86988
+        },
+        {
+          "Close": 460.0,
+          "Volume": 95728
         },
         {
           "Close": 463.0,
@@ -18215,10 +18215,6 @@
       "beta": 0.383,
       "historicalData": [
         {
-          "Close": 54.900001525878906,
-          "Volume": 838610
-        },
-        {
           "Close": 56.0,
           "Volume": 1416175
         },
@@ -18289,6 +18285,10 @@
         {
           "Close": 44.2599983215332,
           "Volume": 211438
+        },
+        {
+          "Close": 43.91999816894531,
+          "Volume": 330613
         },
         {
           "Close": 43.84000015258789,
@@ -18593,10 +18593,6 @@
       "beta": -0.111,
       "historicalData": [
         {
-          "Close": 173.0,
-          "Volume": 334775
-        },
-        {
           "Close": 172.1999969482422,
           "Volume": 297186
         },
@@ -18667,6 +18663,10 @@
         {
           "Close": 157.1999969482422,
           "Volume": 472948
+        },
+        {
+          "Close": 156.5,
+          "Volume": 112905
         },
         {
           "Close": 154.0,
@@ -18782,10 +18782,6 @@
       "beta": 0.279,
       "historicalData": [
         {
-          "Close": 69.5999984741211,
-          "Volume": 1063869
-        },
-        {
           "Close": 70.4000015258789,
           "Volume": 1370605
         },
@@ -18856,6 +18852,10 @@
         {
           "Close": 25.079999923706055,
           "Volume": 184876
+        },
+        {
+          "Close": 25.079999923706055,
+          "Volume": 0
         },
         {
           "Close": 22.579999923706055,
@@ -18972,10 +18972,6 @@
       "historicalData": [
         {
           "Close": 14.1899995803833,
-          "Volume": 97482
-        },
-        {
-          "Close": 14.1899995803833,
           "Volume": 49204
         },
         {
@@ -19045,6 +19041,10 @@
         {
           "Close": 12.630000114440918,
           "Volume": 48644
+        },
+        {
+          "Close": 13.600000381469727,
+          "Volume": 150107
         },
         {
           "Close": 13.109999656677246,
@@ -19538,10 +19538,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 4.130000114440918,
-          "Volume": 4964502
-        },
-        {
           "Close": 4.090000152587891,
           "Volume": 5543913
         },
@@ -19612,6 +19608,10 @@
         {
           "Close": 3.440000057220459,
           "Volume": 6479690
+        },
+        {
+          "Close": 3.4700000286102295,
+          "Volume": 5955436
         },
         {
           "Close": 3.390000104904175,
@@ -19727,10 +19727,6 @@
       "beta": -0.122,
       "historicalData": [
         {
-          "Close": 16.049999237060547,
-          "Volume": 3443885
-        },
-        {
           "Close": 15.40999984741211,
           "Volume": 16437410
         },
@@ -19801,6 +19797,10 @@
         {
           "Close": 12.65999984741211,
           "Volume": 5240494
+        },
+        {
+          "Close": 12.779999732971191,
+          "Volume": 5165609
         },
         {
           "Close": 12.619999885559082,
@@ -19916,10 +19916,6 @@
       "beta": 0.8,
       "historicalData": [
         {
-          "Close": 26.059999465942383,
-          "Volume": 438430
-        },
-        {
           "Close": 25.200000762939453,
           "Volume": 574364
         },
@@ -19990,6 +19986,10 @@
         {
           "Close": 23.959999084472656,
           "Volume": 833833
+        },
+        {
+          "Close": 23.899999618530273,
+          "Volume": 844824
         },
         {
           "Close": 23.559999465942383,
@@ -20105,10 +20105,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 136.8000030517578,
-          "Volume": 312371
-        },
-        {
           "Close": 135.39999389648438,
           "Volume": 177150
         },
@@ -20179,6 +20175,10 @@
         {
           "Close": 123.4000015258789,
           "Volume": 127000
+        },
+        {
+          "Close": 124.5999984741211,
+          "Volume": 115273
         },
         {
           "Close": 124.0999984741211,
@@ -20294,10 +20294,6 @@
       "beta": 0.399,
       "historicalData": [
         {
-          "Close": 6.949999809265137,
-          "Volume": 14198386
-        },
-        {
           "Close": 6.840000152587891,
           "Volume": 14598544
         },
@@ -20368,6 +20364,10 @@
         {
           "Close": 6.690000057220459,
           "Volume": 4265874
+        },
+        {
+          "Close": 6.809999942779541,
+          "Volume": 4920557
         },
         {
           "Close": 6.829999923706055,
@@ -20483,10 +20483,6 @@
       "beta": -0.795,
       "historicalData": [
         {
-          "Close": 10.8100004196167,
-          "Volume": 65748347
-        },
-        {
           "Close": 10.420000076293945,
           "Volume": 43004598
         },
@@ -20557,6 +20553,10 @@
         {
           "Close": 9.289999961853027,
           "Volume": 13942023
+        },
+        {
+          "Close": 9.40999984741211,
+          "Volume": 21214238
         },
         {
           "Close": 9.34000015258789,
@@ -20861,10 +20861,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 22.780000686645508,
-          "Volume": 6057003
-        },
-        {
           "Close": 23.0,
           "Volume": 3039726
         },
@@ -20935,6 +20931,10 @@
         {
           "Close": 19.420000076293945,
           "Volume": 968766
+        },
+        {
+          "Close": 19.40999984741211,
+          "Volume": 942395
         },
         {
           "Close": 18.770000457763672,
@@ -21050,10 +21050,6 @@
       "beta": -0.248,
       "historicalData": [
         {
-          "Close": 14.670000076293945,
-          "Volume": 2966647
-        },
-        {
           "Close": 14.550000190734863,
           "Volume": 1332443
         },
@@ -21124,6 +21120,10 @@
         {
           "Close": 12.34000015258789,
           "Volume": 908593
+        },
+        {
+          "Close": 12.420000076293945,
+          "Volume": 878462
         },
         {
           "Close": 12.020000457763672,
@@ -21239,10 +21239,6 @@
       "beta": -0.278,
       "historicalData": [
         {
-          "Close": 44.02000045776367,
-          "Volume": 2566230
-        },
-        {
           "Close": 42.29999923706055,
           "Volume": 2697296
         },
@@ -21313,6 +21309,10 @@
         {
           "Close": 42.959999084472656,
           "Volume": 1372828
+        },
+        {
+          "Close": 43.0,
+          "Volume": 1455602
         },
         {
           "Close": 42.2599983215332,
@@ -21428,10 +21428,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 6.300000190734863,
-          "Volume": 3699958
-        },
-        {
           "Close": 6.150000095367432,
           "Volume": 6516068
         },
@@ -21502,6 +21498,10 @@
         {
           "Close": 6.050000190734863,
           "Volume": 4030757
+        },
+        {
+          "Close": 6.389999866485596,
+          "Volume": 10436468
         },
         {
           "Close": 6.210000038146973,
@@ -22184,10 +22184,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 6.260000228881836,
-          "Volume": 2679143
-        },
-        {
           "Close": 6.21999979019165,
           "Volume": 2234150
         },
@@ -22258,6 +22254,10 @@
         {
           "Close": 6.230000019073486,
           "Volume": 2251918
+        },
+        {
+          "Close": 6.260000228881836,
+          "Volume": 2206570
         },
         {
           "Close": 6.239999771118164,
@@ -22373,10 +22373,6 @@
       "beta": 0.68,
       "historicalData": [
         {
-          "Close": 7.889999866485596,
-          "Volume": 189602
-        },
-        {
           "Close": 7.920000076293945,
           "Volume": 449332
         },
@@ -22447,6 +22443,10 @@
         {
           "Close": 7.409999847412109,
           "Volume": 331764
+        },
+        {
+          "Close": 7.489999771118164,
+          "Volume": 878067
         },
         {
           "Close": 7.539999961853027,
@@ -22562,10 +22562,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 89.0,
-          "Volume": 302137
-        },
-        {
           "Close": 86.5,
           "Volume": 346777
         },
@@ -22636,6 +22632,10 @@
         {
           "Close": 74.4000015258789,
           "Volume": 170300
+        },
+        {
+          "Close": 75.0,
+          "Volume": 200245
         },
         {
           "Close": 73.9000015258789,
@@ -22751,10 +22751,6 @@
       "beta": -0.029,
       "historicalData": [
         {
-          "Close": 19.200000762939453,
-          "Volume": 511627
-        },
-        {
           "Close": 19.540000915527344,
           "Volume": 643981
         },
@@ -22825,6 +22821,10 @@
         {
           "Close": 17.989999771118164,
           "Volume": 126450
+        },
+        {
+          "Close": 16.530000686645508,
+          "Volume": 255355
         },
         {
           "Close": 17.959999084472656,
@@ -23129,10 +23129,6 @@
       "beta": 0.558,
       "historicalData": [
         {
-          "Close": 37.20000076293945,
-          "Volume": 2006953
-        },
-        {
           "Close": 36.47999954223633,
           "Volume": 2821081
         },
@@ -23203,6 +23199,10 @@
         {
           "Close": 35.79999923706055,
           "Volume": 3360583
+        },
+        {
+          "Close": 35.560001373291016,
+          "Volume": 3119624
         },
         {
           "Close": 34.099998474121094,
@@ -23507,10 +23507,6 @@
       "beta": 0.812,
       "historicalData": [
         {
-          "Close": 41.220001220703125,
-          "Volume": 1452932
-        },
-        {
           "Close": 40.939998626708984,
           "Volume": 1695100
         },
@@ -23581,6 +23577,10 @@
         {
           "Close": 36.439998626708984,
           "Volume": 1393304
+        },
+        {
+          "Close": 36.400001525878906,
+          "Volume": 1113128
         },
         {
           "Close": 36.619998931884766,
@@ -23885,10 +23885,6 @@
       "beta": 0.456,
       "historicalData": [
         {
-          "Close": 117.30000305175781,
-          "Volume": 301870
-        },
-        {
           "Close": 115.69999694824219,
           "Volume": 363844
         },
@@ -23959,6 +23955,10 @@
         {
           "Close": 105.0,
           "Volume": 347400
+        },
+        {
+          "Close": 106.4000015258789,
+          "Volume": 307480
         },
         {
           "Close": 107.5,
@@ -24074,10 +24074,6 @@
       "beta": -0.605,
       "historicalData": [
         {
-          "Close": 38.13999938964844,
-          "Volume": 2689350
-        },
-        {
           "Close": 37.400001525878906,
           "Volume": 867439
         },
@@ -24148,6 +24144,10 @@
         {
           "Close": 37.959999084472656,
           "Volume": 652372
+        },
+        {
+          "Close": 38.220001220703125,
+          "Volume": 440491
         },
         {
           "Close": 38.380001068115234,
@@ -24263,10 +24263,6 @@
       "beta": -0.746,
       "historicalData": [
         {
-          "Close": 1.3200000524520874,
-          "Volume": 417954818
-        },
-        {
           "Close": 1.309999942779541,
           "Volume": 253456113
         },
@@ -24337,6 +24333,10 @@
         {
           "Close": 1.190000057220459,
           "Volume": 298314278
+        },
+        {
+          "Close": 1.2000000476837158,
+          "Volume": 196324544
         },
         {
           "Close": 1.1799999475479126,
@@ -24452,10 +24452,6 @@
       "beta": -0.284,
       "historicalData": [
         {
-          "Close": 79.44999694824219,
-          "Volume": 12230
-        },
-        {
           "Close": 82.4000015258789,
           "Volume": 15785
         },
@@ -24526,6 +24522,10 @@
         {
           "Close": 66.0,
           "Volume": 22935
+        },
+        {
+          "Close": 67.30000305175781,
+          "Volume": 17646
         },
         {
           "Close": 68.94999694824219,
@@ -24641,10 +24641,6 @@
       "beta": -1.068,
       "historicalData": [
         {
-          "Close": 41.15999984741211,
-          "Volume": 1351245
-        },
-        {
           "Close": 39.97999954223633,
           "Volume": 1565599
         },
@@ -24715,6 +24711,10 @@
         {
           "Close": 45.91999816894531,
           "Volume": 3077824
+        },
+        {
+          "Close": 47.79999923706055,
+          "Volume": 3461588
         },
         {
           "Close": 48.36000061035156,
@@ -24830,10 +24830,6 @@
       "beta": 0.267,
       "historicalData": [
         {
-          "Close": 85.80000305175781,
-          "Volume": 5253368
-        },
-        {
           "Close": 82.4000015258789,
           "Volume": 9535497
         },
@@ -24904,6 +24900,10 @@
         {
           "Close": 90.5,
           "Volume": 3693852
+        },
+        {
+          "Close": 91.05000305175781,
+          "Volume": 5725858
         },
         {
           "Close": 87.0,
@@ -25964,10 +25964,6 @@
       "beta": 0.338,
       "historicalData": [
         {
-          "Close": 2.569999933242798,
-          "Volume": 10038156
-        },
-        {
           "Close": 2.549999952316284,
           "Volume": 7440468
         },
@@ -26038,6 +26034,10 @@
         {
           "Close": 2.319999933242798,
           "Volume": 7866098
+        },
+        {
+          "Close": 2.359999895095825,
+          "Volume": 4620460
         },
         {
           "Close": 2.299999952316284,
@@ -27098,10 +27098,6 @@
       "beta": 0.624,
       "historicalData": [
         {
-          "Close": 41.0,
-          "Volume": 86629181
-        },
-        {
           "Close": 40.0,
           "Volume": 59267693
         },
@@ -27172,6 +27168,10 @@
         {
           "Close": 35.29999923706055,
           "Volume": 53263952
+        },
+        {
+          "Close": 34.0,
+          "Volume": 30190095
         },
         {
           "Close": 37.400001525878906,
@@ -27476,10 +27476,6 @@
       "beta": -1.174,
       "historicalData": [
         {
-          "Close": 9.539999961853027,
-          "Volume": 101242590
-        },
-        {
           "Close": 9.399999618530273,
           "Volume": 88376954
         },
@@ -27550,6 +27546,10 @@
         {
           "Close": 8.75,
           "Volume": 48452594
+        },
+        {
+          "Close": 8.6899995803833,
+          "Volume": 70739573
         },
         {
           "Close": 8.5,
@@ -27666,10 +27666,6 @@
       "historicalData": [
         {
           "Close": 1.9900000095367432,
-          "Volume": 8271804
-        },
-        {
-          "Close": 1.9900000095367432,
           "Volume": 9018501
         },
         {
@@ -27739,6 +27735,10 @@
         {
           "Close": 1.6699999570846558,
           "Volume": 14730695
+        },
+        {
+          "Close": 1.6799999475479126,
+          "Volume": 18944072
         },
         {
           "Close": 1.649999976158142,
@@ -27854,10 +27854,6 @@
       "beta": 0.155,
       "historicalData": [
         {
-          "Close": 2.4700000286102295,
-          "Volume": 17043948
-        },
-        {
           "Close": 2.5,
           "Volume": 25869207
         },
@@ -27928,6 +27924,10 @@
         {
           "Close": 2.2799999713897705,
           "Volume": 10835424
+        },
+        {
+          "Close": 2.3399999141693115,
+          "Volume": 14046198
         },
         {
           "Close": 2.380000114440918,
@@ -28009,7 +28009,7 @@
       "description": "Derluks Yatirim Holding Anonim Sirketi, together with its subsidiaries, operates in the clothing, energy, and food sectors in Türkiye and internationally. The company primarily offers menswear products. It also engages in the production and sale of solar power, as well as distribution and sale of fast-moving consumer goods. The company was formerly known as Derluks Deri Sanayi ve Ticaret Anonim Sirketi and changed its name to Derluks Yatirim Holding Anonim Sirketi in March 2021. The company was incorporated in 2002 and is headquartered in Istanbul, Türkiye.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.24097653,
+      "priceToBook": 1.3321699,
       "pegRatio": null,
       "priceToSales": 0.52228504,
       "enterpriseToRevenue": 1.205,
@@ -28028,7 +28028,7 @@
       "quickRatio": 0.614,
       "eps": -0.01,
       "forwardEps": null,
-      "bookValue": 9.503,
+      "bookValue": 1.719,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1593475200,
@@ -28232,10 +28232,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 38.20000076293945,
-          "Volume": 282694
-        },
-        {
           "Close": 37.86000061035156,
           "Volume": 378033
         },
@@ -28306,6 +28302,10 @@
         {
           "Close": 34.400001525878906,
           "Volume": 169822
+        },
+        {
+          "Close": 34.18000030517578,
+          "Volume": 376447
         },
         {
           "Close": 35.15999984741211,
@@ -28799,10 +28799,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 73.69999694824219,
-          "Volume": 541362
-        },
-        {
           "Close": 70.80000305175781,
           "Volume": 322118
         },
@@ -28873,6 +28869,10 @@
         {
           "Close": 72.5,
           "Volume": 487358
+        },
+        {
+          "Close": 70.0999984741211,
+          "Volume": 523945
         },
         {
           "Close": 69.80000305175781,
@@ -28988,10 +28988,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 106.69999694824219,
-          "Volume": 532763
-        },
-        {
           "Close": 107.0,
           "Volume": 183729
         },
@@ -29062,6 +29058,10 @@
         {
           "Close": 101.0999984741211,
           "Volume": 184242
+        },
+        {
+          "Close": 107.0,
+          "Volume": 456482
         },
         {
           "Close": 117.69999694824219,
@@ -29177,10 +29177,6 @@
       "beta": 0.247,
       "historicalData": [
         {
-          "Close": 38.119998931884766,
-          "Volume": 141730
-        },
-        {
           "Close": 36.279998779296875,
           "Volume": 283567
         },
@@ -29251,6 +29247,10 @@
         {
           "Close": 35.060001373291016,
           "Volume": 88793
+        },
+        {
+          "Close": 34.20000076293945,
+          "Volume": 90503
         },
         {
           "Close": 34.70000076293945,
@@ -29555,10 +29555,6 @@
       "beta": -0.086,
       "historicalData": [
         {
-          "Close": 24.15999984741211,
-          "Volume": 37557
-        },
-        {
           "Close": 23.260000228881836,
           "Volume": 30629
         },
@@ -29629,6 +29625,10 @@
         {
           "Close": 22.899999618530273,
           "Volume": 83607
+        },
+        {
+          "Close": 23.219999313354492,
+          "Volume": 111180
         },
         {
           "Close": 23.100000381469727,
@@ -29933,10 +29933,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 8.579999923706055,
-          "Volume": 10847107
-        },
-        {
           "Close": 8.359999656677246,
           "Volume": 5167713
         },
@@ -30007,6 +30003,10 @@
         {
           "Close": 8.4399995803833,
           "Volume": 2520046
+        },
+        {
+          "Close": 8.180000305175781,
+          "Volume": 1761191
         },
         {
           "Close": 8.0,
@@ -30122,14 +30122,6 @@
       "beta": -0.013,
       "historicalData": [
         {
-          "Close": 22.700000762939453,
-          "Volume": 1080360
-        },
-        {
-          "Close": 21.84000015258789,
-          "Volume": 1067806
-        },
-        {
           "Close": 21.459999084472656,
           "Volume": 741956
         },
@@ -30152,6 +30144,10 @@
         {
           "Close": 20.3799991607666,
           "Volume": 605161
+        },
+        {
+          "Close": 20.3799991607666,
+          "Volume": 0
         },
         {
           "Close": 20.600000381469727,
@@ -30196,6 +30192,10 @@
         {
           "Close": 18.770000457763672,
           "Volume": 448522
+        },
+        {
+          "Close": 18.8700008392334,
+          "Volume": 471361
         },
         {
           "Close": 19.200000762939453,
@@ -30500,10 +30500,6 @@
       "beta": 0.814,
       "historicalData": [
         {
-          "Close": 11772.287109375,
-          "Volume": 4693
-        },
-        {
           "Close": 11617.322265625,
           "Volume": 3905
         },
@@ -30574,6 +30570,10 @@
         {
           "Close": 11082.5,
           "Volume": 7424
+        },
+        {
+          "Close": 11082.5,
+          "Volume": 4882
         },
         {
           "Close": 11280.0,
@@ -30689,10 +30689,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 31.719999313354492,
-          "Volume": 740035
-        },
-        {
           "Close": 30.8799991607666,
           "Volume": 610631
         },
@@ -30763,6 +30759,10 @@
         {
           "Close": 28.0,
           "Volume": 484692
+        },
+        {
+          "Close": 27.440000534057617,
+          "Volume": 457560
         },
         {
           "Close": 27.639999389648438,
@@ -30878,10 +30878,6 @@
       "beta": 0.086,
       "historicalData": [
         {
-          "Close": 83.6500015258789,
-          "Volume": 343644
-        },
-        {
           "Close": 85.9000015258789,
           "Volume": 303544
         },
@@ -30952,6 +30948,10 @@
         {
           "Close": 84.30000305175781,
           "Volume": 309606
+        },
+        {
+          "Close": 80.9000015258789,
+          "Volume": 446441
         },
         {
           "Close": 76.19999694824219,
@@ -31067,10 +31067,6 @@
       "beta": -0.165,
       "historicalData": [
         {
-          "Close": 24.5,
-          "Volume": 405639
-        },
-        {
           "Close": 23.899999618530273,
           "Volume": 337624
         },
@@ -31141,6 +31137,10 @@
         {
           "Close": 21.139999389648438,
           "Volume": 260760
+        },
+        {
+          "Close": 21.520000457763672,
+          "Volume": 324346
         },
         {
           "Close": 21.200000762939453,
@@ -31257,10 +31257,6 @@
       "historicalData": [
         {
           "Close": 5.099999904632568,
-          "Volume": 3142391
-        },
-        {
-          "Close": 5.099999904632568,
           "Volume": 3069221
         },
         {
@@ -31330,6 +31326,10 @@
         {
           "Close": 4.71999979019165,
           "Volume": 1541256
+        },
+        {
+          "Close": 4.949999809265137,
+          "Volume": 2528154
         },
         {
           "Close": 5.0,
@@ -31445,10 +31445,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 14.130000114440918,
-          "Volume": 1540870
-        },
-        {
           "Close": 13.899999618530273,
           "Volume": 1643996
         },
@@ -31519,6 +31515,10 @@
         {
           "Close": 12.5,
           "Volume": 805976
+        },
+        {
+          "Close": 12.720000267028809,
+          "Volume": 792400
         },
         {
           "Close": 12.359999656677246,
@@ -31634,10 +31634,6 @@
       "beta": 0.752,
       "historicalData": [
         {
-          "Close": 8.800000190734863,
-          "Volume": 1512198
-        },
-        {
           "Close": 8.600000381469727,
           "Volume": 1600795
         },
@@ -31708,6 +31704,10 @@
         {
           "Close": 6.920000076293945,
           "Volume": 2456691
+        },
+        {
+          "Close": 7.170000076293945,
+          "Volume": 2398731
         },
         {
           "Close": 7.210000038146973,
@@ -31823,10 +31823,6 @@
       "beta": 0.272,
       "historicalData": [
         {
-          "Close": 76.94999694824219,
-          "Volume": 2845437
-        },
-        {
           "Close": 74.6500015258789,
           "Volume": 4811953
         },
@@ -31897,6 +31893,10 @@
         {
           "Close": 66.3499984741211,
           "Volume": 2102179
+        },
+        {
+          "Close": 68.30000305175781,
+          "Volume": 2581243
         },
         {
           "Close": 66.94999694824219,
@@ -32012,10 +32012,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 320.0,
-          "Volume": 252629
-        },
-        {
           "Close": 329.0,
           "Volume": 277955
         },
@@ -32088,6 +32084,10 @@
           "Volume": 189353
         },
         {
+          "Close": 315.5,
+          "Volume": 596784
+        },
+        {
           "Close": 316.75,
           "Volume": 475519
         },
@@ -32154,7 +32154,7 @@
       "volume": "13,687,919",
       "averageVolume": 6156547,
       "averageVolume10days": 4570479,
-      "marketCap": 8517960192,
+      "marketCap": 9129930752,
       "enterpriseValue": 8374423552,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -32200,10 +32200,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
-        {
-          "Close": 18.600000381469727,
-          "Volume": 2532930
-        },
         {
           "Close": 18.90999984741211,
           "Volume": 4116154
@@ -32275,6 +32271,10 @@
         {
           "Close": 17.1299991607666,
           "Volume": 7323217
+        },
+        {
+          "Close": 17.75,
+          "Volume": 2003232
         },
         {
           "Close": 17.700000762939453,
@@ -32390,10 +32390,6 @@
       "beta": 1.776,
       "historicalData": [
         {
-          "Close": 39.560001373291016,
-          "Volume": 810526
-        },
-        {
           "Close": 38.52000045776367,
           "Volume": 1079281
         },
@@ -32464,6 +32460,10 @@
         {
           "Close": 33.84000015258789,
           "Volume": 426123
+        },
+        {
+          "Close": 33.52000045776367,
+          "Volume": 267984
         },
         {
           "Close": 33.58000183105469,
@@ -32579,10 +32579,6 @@
       "beta": 0.357,
       "historicalData": [
         {
-          "Close": 5782.5,
-          "Volume": 30948
-        },
-        {
           "Close": 5642.5,
           "Volume": 14120
         },
@@ -32653,6 +32649,10 @@
         {
           "Close": 5212.5,
           "Volume": 8488
+        },
+        {
+          "Close": 5270.0,
+          "Volume": 6710
         },
         {
           "Close": 5242.5,
@@ -32957,10 +32957,6 @@
       "beta": -0.249,
       "historicalData": [
         {
-          "Close": 102.5,
-          "Volume": 743778
-        },
-        {
           "Close": 102.0,
           "Volume": 356850
         },
@@ -33031,6 +33027,10 @@
         {
           "Close": 91.6500015258789,
           "Volume": 531158
+        },
+        {
+          "Close": 94.05000305175781,
+          "Volume": 274262
         },
         {
           "Close": 93.5,
@@ -33146,10 +33146,6 @@
       "beta": 0.212,
       "historicalData": [
         {
-          "Close": 37.68000030517578,
-          "Volume": 901078
-        },
-        {
           "Close": 39.34000015258789,
           "Volume": 2926911
         },
@@ -33220,6 +33216,10 @@
         {
           "Close": 33.599998474121094,
           "Volume": 720085
+        },
+        {
+          "Close": 33.459999084472656,
+          "Volume": 1079295
         },
         {
           "Close": 33.02000045776367,
@@ -33524,10 +33524,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 76.0,
-          "Volume": 17164
-        },
-        {
           "Close": 75.0,
           "Volume": 12053
         },
@@ -33598,6 +33594,10 @@
         {
           "Close": 69.19999694824219,
           "Volume": 8889
+        },
+        {
+          "Close": 68.0999984741211,
+          "Volume": 6209
         },
         {
           "Close": 69.25,
@@ -33713,10 +33713,6 @@
       "beta": 0.571,
       "historicalData": [
         {
-          "Close": 6.949999809265137,
-          "Volume": 12614716
-        },
-        {
           "Close": 6.610000133514404,
           "Volume": 20114024
         },
@@ -33787,6 +33783,10 @@
         {
           "Close": 5.349999904632568,
           "Volume": 6902376
+        },
+        {
+          "Close": 5.400000095367432,
+          "Volume": 5938586
         },
         {
           "Close": 5.369999885559082,
@@ -33902,10 +33902,6 @@
       "beta": 0.68,
       "historicalData": [
         {
-          "Close": 6.75,
-          "Volume": 8052035
-        },
-        {
           "Close": 6.710000038146973,
           "Volume": 6080189
         },
@@ -33976,6 +33972,10 @@
         {
           "Close": 6.170000076293945,
           "Volume": 4383972
+        },
+        {
+          "Close": 6.21999979019165,
+          "Volume": 13242795
         },
         {
           "Close": 6.0,
@@ -34091,10 +34091,6 @@
       "beta": -0.113,
       "historicalData": [
         {
-          "Close": 33.36000061035156,
-          "Volume": 547062
-        },
-        {
           "Close": 32.52000045776367,
           "Volume": 903062
         },
@@ -34165,6 +34161,10 @@
         {
           "Close": 28.700000762939453,
           "Volume": 1183339
+        },
+        {
+          "Close": 28.639999389648438,
+          "Volume": 836585
         },
         {
           "Close": 28.200000762939453,
@@ -34280,10 +34280,6 @@
       "beta": 0.308,
       "historicalData": [
         {
-          "Close": 19.8700008392334,
-          "Volume": 22141183
-        },
-        {
           "Close": 19.149999618530273,
           "Volume": 11713528
         },
@@ -34354,6 +34350,10 @@
         {
           "Close": 18.25,
           "Volume": 2847707
+        },
+        {
+          "Close": 18.360000610351562,
+          "Volume": 3080489
         },
         {
           "Close": 18.309999465942383,
@@ -34470,10 +34470,6 @@
       "historicalData": [
         {
           "Close": 156.89999389648438,
-          "Volume": 4646
-        },
-        {
-          "Close": 156.89999389648438,
           "Volume": 6035
         },
         {
@@ -34543,6 +34539,10 @@
         {
           "Close": 146.60000610351562,
           "Volume": 4474
+        },
+        {
+          "Close": 154.8000030517578,
+          "Volume": 4585
         },
         {
           "Close": 165.39999389648438,
@@ -34658,10 +34658,6 @@
       "beta": 0.145,
       "historicalData": [
         {
-          "Close": 9.579999923706055,
-          "Volume": 145229856
-        },
-        {
           "Close": 9.640000343322754,
           "Volume": 103397713
         },
@@ -34732,6 +34728,10 @@
         {
           "Close": 9.119999885559082,
           "Volume": 21043599
+        },
+        {
+          "Close": 9.210000038146973,
+          "Volume": 12615533
         },
         {
           "Close": 8.829999923706055,
@@ -34847,10 +34847,6 @@
       "beta": -0.493,
       "historicalData": [
         {
-          "Close": 5.710000038146973,
-          "Volume": 30339259
-        },
-        {
           "Close": 5.670000076293945,
           "Volume": 38532338
         },
@@ -34921,6 +34917,10 @@
         {
           "Close": 5.480000019073486,
           "Volume": 14063936
+        },
+        {
+          "Close": 5.369999885559082,
+          "Volume": 26936057
         },
         {
           "Close": 5.289999961853027,
@@ -35036,10 +35036,6 @@
       "beta": 0.6,
       "historicalData": [
         {
-          "Close": 5.699999809265137,
-          "Volume": 2408993
-        },
-        {
           "Close": 5.960000038146973,
           "Volume": 3244469
         },
@@ -35110,6 +35106,10 @@
         {
           "Close": 5.210000038146973,
           "Volume": 15623191
+        },
+        {
+          "Close": 5.429999828338623,
+          "Volume": 5614578
         },
         {
           "Close": 5.400000095367432,
@@ -35225,10 +35225,6 @@
       "beta": -0.063,
       "historicalData": [
         {
-          "Close": 177.0,
-          "Volume": 544988
-        },
-        {
           "Close": 172.10000610351562,
           "Volume": 205414
         },
@@ -35299,6 +35295,10 @@
         {
           "Close": 153.89999389648438,
           "Volume": 56590
+        },
+        {
+          "Close": 153.6999969482422,
+          "Volume": 34859
         },
         {
           "Close": 153.6999969482422,
@@ -36170,10 +36170,6 @@
       "beta": 0.4,
       "historicalData": [
         {
-          "Close": 3.7200000286102295,
-          "Volume": 56266790
-        },
-        {
           "Close": 3.6600000858306885,
           "Volume": 30397631
         },
@@ -36246,6 +36242,10 @@
           "Volume": 30539354
         },
         {
+          "Close": 3.359999895095825,
+          "Volume": 24302442
+        },
+        {
           "Close": 3.299999952316284,
           "Volume": 24788166
         },
@@ -36296,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
+      "name": "ETILER GIDA",
       "shortName": "ETILER GIDA",
       "price": NaN,
       "change": NaN,
@@ -36312,9 +36312,9 @@
       "volume": "3,686,178",
       "averageVolume": 12094726,
       "averageVolume10days": 7858384,
-      "marketCap": 1512000000,
+      "marketCap": 0,
       "enterpriseValue": 2040614272,
-      "sharesOutstanding": 240000000,
+      "sharesOutstanding": 0,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -36358,10 +36358,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.602,
       "historicalData": [
-        {
-          "Close": 5.320000171661377,
-          "Volume": 4797006
-        },
         {
           "Close": 5.78000020980835,
           "Volume": 16656564
@@ -36433,6 +36429,10 @@
         {
           "Close": 5.5,
           "Volume": 6406928
+        },
+        {
+          "Close": 5.820000171661377,
+          "Volume": 8437277
         },
         {
           "Close": 5.829999923706055,
@@ -36548,10 +36548,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 13.899999618530273,
-          "Volume": 1826770
-        },
-        {
           "Close": 14.050000190734863,
           "Volume": 1218673
         },
@@ -36622,6 +36618,10 @@
         {
           "Close": 12.579999923706055,
           "Volume": 328126
+        },
+        {
+          "Close": 12.899999618530273,
+          "Volume": 603931
         },
         {
           "Close": 12.649999618530273,
@@ -36737,10 +36737,6 @@
       "beta": 1.179,
       "historicalData": [
         {
-          "Close": 10.600000381469727,
-          "Volume": 303552
-        },
-        {
           "Close": 10.460000038146973,
           "Volume": 442520
         },
@@ -36811,6 +36807,10 @@
         {
           "Close": 10.100000381469727,
           "Volume": 244973
+        },
+        {
+          "Close": 10.0,
+          "Volume": 2486259
         },
         {
           "Close": 10.100000381469727,
@@ -37304,10 +37304,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 4.389999866485596,
-          "Volume": 15790619
-        },
-        {
           "Close": 4.409999847412109,
           "Volume": 31441799
         },
@@ -37378,6 +37374,10 @@
         {
           "Close": 3.869999885559082,
           "Volume": 67104716
+        },
+        {
+          "Close": 3.930000066757202,
+          "Volume": 22846653
         },
         {
           "Close": 3.880000114440918,
@@ -37493,10 +37493,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 5.619999885559082,
-          "Volume": 480878
-        },
-        {
           "Close": 5.590000152587891,
           "Volume": 2007394
         },
@@ -37567,6 +37563,10 @@
         {
           "Close": 5.010000228881836,
           "Volume": 1534148
+        },
+        {
+          "Close": 5.0,
+          "Volume": 1187450
         },
         {
           "Close": 5.090000152587891,
@@ -37682,10 +37682,6 @@
       "beta": 0.792,
       "historicalData": [
         {
-          "Close": 2.380000114440918,
-          "Volume": 6919203
-        },
-        {
           "Close": 2.319999933242798,
           "Volume": 6194941
         },
@@ -37756,6 +37752,10 @@
         {
           "Close": 2.109999895095825,
           "Volume": 4928087
+        },
+        {
+          "Close": 2.1500000953674316,
+          "Volume": 3558893
         },
         {
           "Close": 2.200000047683716,
@@ -38060,10 +38060,6 @@
       "beta": -0.467,
       "historicalData": [
         {
-          "Close": 2.940000057220459,
-          "Volume": 84870527
-        },
-        {
           "Close": 3.109999895095825,
           "Volume": 239267583
         },
@@ -38134,6 +38130,10 @@
         {
           "Close": 2.940000057220459,
           "Volume": 134121339
+        },
+        {
+          "Close": 2.9700000286102295,
+          "Volume": 63104528
         },
         {
           "Close": 2.9700000286102295,
@@ -38249,10 +38249,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 11.199999809265137,
-          "Volume": 759130
-        },
-        {
           "Close": 11.010000228881836,
           "Volume": 760399
         },
@@ -38323,6 +38319,10 @@
         {
           "Close": 9.90999984741211,
           "Volume": 511657
+        },
+        {
+          "Close": 9.979999542236328,
+          "Volume": 496701
         },
         {
           "Close": 9.710000038146973,
@@ -38438,10 +38438,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 319.75,
-          "Volume": 196523
-        },
-        {
           "Close": 306.5,
           "Volume": 75917
         },
@@ -38512,6 +38508,10 @@
         {
           "Close": 279.0,
           "Volume": 36070
+        },
+        {
+          "Close": 283.0,
+          "Volume": 50442
         },
         {
           "Close": 282.25,
@@ -38627,10 +38627,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 5.25,
-          "Volume": 20096092
-        },
-        {
           "Close": 5.159999847412109,
           "Volume": 27192050
         },
@@ -38701,6 +38697,10 @@
         {
           "Close": 4.980000019073486,
           "Volume": 16869451
+        },
+        {
+          "Close": 5.260000228881836,
+          "Volume": 23501031
         },
         {
           "Close": 4.989999771118164,
@@ -38816,10 +38816,6 @@
       "beta": -0.45,
       "historicalData": [
         {
-          "Close": 2.180000066757202,
-          "Volume": 18531595
-        },
-        {
           "Close": 2.1600000858306885,
           "Volume": 26382242
         },
@@ -38890,6 +38886,10 @@
         {
           "Close": 1.7799999713897705,
           "Volume": 23431888
+        },
+        {
+          "Close": 1.7899999618530273,
+          "Volume": 14760676
         },
         {
           "Close": 1.7300000190734863,
@@ -39194,10 +39194,6 @@
       "beta": -0.257,
       "historicalData": [
         {
-          "Close": 1.8799999952316284,
-          "Volume": 152311856
-        },
-        {
           "Close": 1.850000023841858,
           "Volume": 55583055
         },
@@ -39268,6 +39264,10 @@
         {
           "Close": 2.1500000953674316,
           "Volume": 24334211
+        },
+        {
+          "Close": 2.130000114440918,
+          "Volume": 15150580
         },
         {
           "Close": 2.0799999237060547,
@@ -39950,10 +39950,6 @@
       "beta": 0.291,
       "historicalData": [
         {
-          "Close": 31.260000228881836,
-          "Volume": 750578
-        },
-        {
           "Close": 30.579999923706055,
           "Volume": 510860
         },
@@ -40024,6 +40020,10 @@
         {
           "Close": 27.219999313354492,
           "Volume": 240055
+        },
+        {
+          "Close": 27.239999771118164,
+          "Volume": 207863
         },
         {
           "Close": 27.219999313354492,
@@ -40140,10 +40140,6 @@
       "historicalData": [
         {
           "Close": 9.03443431854248,
-          "Volume": 29520431
-        },
-        {
-          "Close": 9.03443431854248,
           "Volume": 24824058
         },
         {
@@ -40213,6 +40209,10 @@
         {
           "Close": 9.03443431854248,
           "Volume": 20899711
+        },
+        {
+          "Close": 9.303969383239746,
+          "Volume": 27818116
         },
         {
           "Close": 9.363866806030273,
@@ -40328,10 +40328,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 6.21999979019165,
-          "Volume": 6228898
-        },
-        {
           "Close": 6.150000095367432,
           "Volume": 6236093
         },
@@ -40402,6 +40398,10 @@
         {
           "Close": 5.349999904632568,
           "Volume": 6778349
+        },
+        {
+          "Close": 5.510000228881836,
+          "Volume": 7643567
         },
         {
           "Close": 5.300000190734863,
@@ -40517,10 +40517,6 @@
       "beta": 0.787,
       "historicalData": [
         {
-          "Close": 37.29999923706055,
-          "Volume": 6994738
-        },
-        {
           "Close": 36.900001525878906,
           "Volume": 4926809
         },
@@ -40591,6 +40587,10 @@
         {
           "Close": 41.0,
           "Volume": 6196148
+        },
+        {
+          "Close": 41.97999954223633,
+          "Volume": 7553072
         },
         {
           "Close": 41.97999954223633,
@@ -40706,10 +40706,6 @@
       "beta": 0.018,
       "historicalData": [
         {
-          "Close": 77.6500015258789,
-          "Volume": 4473799
-        },
-        {
           "Close": 78.19999694824219,
           "Volume": 3499521
         },
@@ -40780,6 +40776,10 @@
         {
           "Close": 75.4000015258789,
           "Volume": 13020507
+        },
+        {
+          "Close": 74.75,
+          "Volume": 4312730
         },
         {
           "Close": 77.0,
@@ -40895,10 +40895,6 @@
       "beta": 0.143,
       "historicalData": [
         {
-          "Close": 69.84144592285156,
-          "Volume": 1573470
-        },
-        {
           "Close": 69.69145965576172,
           "Volume": 1269416
         },
@@ -40969,6 +40965,10 @@
         {
           "Close": 58.150001525878906,
           "Volume": 1101622
+        },
+        {
+          "Close": 57.45000076293945,
+          "Volume": 1975434
         },
         {
           "Close": 57.150001525878906,
@@ -41050,7 +41050,7 @@
       "description": "Global Menkul Degerler Anonim Sirketi provides capital market brokerage services to individuals, financial institutions, and local and international investors in Turkey. It offers investment services for stock; VIOP; foreign stock transaction; investment funds; portfolio management; corporate finance; investment advisory, and individual retirement system. It also provides digital platforms, as well as consulting and fund management services. The company was founded in 1990 and is based in Istanbul, Turkey. Global Menkul Degerler Anonim Sirketi operates as a subsidiary of GFS Holding Anonim Sirketi.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 2.6373627,
+      "priceToBook": 2.384255,
       "pegRatio": null,
       "priceToSales": 0.05052123,
       "enterpriseToRevenue": 0.059,
@@ -41069,7 +41069,7 @@
       "quickRatio": 1.023,
       "eps": -0.86,
       "forwardEps": null,
-      "bookValue": 4.823,
+      "bookValue": 5.335,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1338422400,
@@ -41273,10 +41273,6 @@
       "beta": 0.222,
       "historicalData": [
         {
-          "Close": 57.849998474121094,
-          "Volume": 340715
-        },
-        {
           "Close": 56.599998474121094,
           "Volume": 537616
         },
@@ -41347,6 +41343,10 @@
         {
           "Close": 50.849998474121094,
           "Volume": 363696
+        },
+        {
+          "Close": 51.0,
+          "Volume": 675024
         },
         {
           "Close": 51.150001525878906,
@@ -41840,10 +41840,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 46.15999984741211,
-          "Volume": 2009004
-        },
-        {
           "Close": 44.70000076293945,
           "Volume": 1295835
         },
@@ -41914,6 +41910,10 @@
         {
           "Close": 47.0,
           "Volume": 1413635
+        },
+        {
+          "Close": 45.119998931884766,
+          "Volume": 1735088
         },
         {
           "Close": 45.880001068115234,
@@ -42029,10 +42029,6 @@
       "beta": 0.072,
       "historicalData": [
         {
-          "Close": 23.67758560180664,
-          "Volume": 7449486
-        },
-        {
           "Close": 24.368183135986328,
           "Volume": 9709425
         },
@@ -42103,6 +42099,10 @@
         {
           "Close": 22.395050048828125,
           "Volume": 3143961
+        },
+        {
+          "Close": 22.888334274291992,
+          "Volume": 2952815
         },
         {
           "Close": 22.750213623046875,
@@ -42596,10 +42596,6 @@
       "beta": 0.131,
       "historicalData": [
         {
-          "Close": 24.940000534057617,
-          "Volume": 2011426
-        },
-        {
           "Close": 23.600000381469727,
           "Volume": 1780581
         },
@@ -42670,6 +42666,10 @@
         {
           "Close": 23.399999618530273,
           "Volume": 1649628
+        },
+        {
+          "Close": 23.68000030517578,
+          "Volume": 1921658
         },
         {
           "Close": 24.5,
@@ -42785,10 +42785,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 17.719999313354492,
-          "Volume": 181227
-        },
-        {
           "Close": 17.510000228881836,
           "Volume": 137423
         },
@@ -42859,6 +42855,10 @@
         {
           "Close": 13.390000343322754,
           "Volume": 423827
+        },
+        {
+          "Close": 13.720000267028809,
+          "Volume": 397300
         },
         {
           "Close": 13.329999923706055,
@@ -43163,10 +43163,6 @@
       "beta": 0.696,
       "historicalData": [
         {
-          "Close": 14.34000015258789,
-          "Volume": 44660144
-        },
-        {
           "Close": 15.399999618530273,
           "Volume": 20756628
         },
@@ -43237,6 +43233,10 @@
         {
           "Close": 12.09000015258789,
           "Volume": 4210199
+        },
+        {
+          "Close": 12.260000228881836,
+          "Volume": 3170081
         },
         {
           "Close": 12.020000457763672,
@@ -43352,10 +43352,6 @@
       "beta": 0.385,
       "historicalData": [
         {
-          "Close": 6.170000076293945,
-          "Volume": 43000991
-        },
-        {
           "Close": 6.119999885559082,
           "Volume": 43848950
         },
@@ -43426,6 +43422,10 @@
         {
           "Close": 4.739999771118164,
           "Volume": 11897260
+        },
+        {
+          "Close": 4.78000020980835,
+          "Volume": 12166683
         },
         {
           "Close": 4.800000190734863,
@@ -43542,10 +43542,6 @@
       "historicalData": [
         {
           "Close": 1.0099999904632568,
-          "Volume": 83872575
-        },
-        {
-          "Close": 1.0099999904632568,
           "Volume": 266645711
         },
         {
@@ -43615,6 +43611,10 @@
         {
           "Close": 0.9700000286102295,
           "Volume": 140622714
+        },
+        {
+          "Close": 0.9800000190734863,
+          "Volume": 80643303
         },
         {
           "Close": 0.9700000286102295,
@@ -43919,10 +43919,6 @@
       "beta": 0.2,
       "historicalData": [
         {
-          "Close": 64.05000305175781,
-          "Volume": 972615
-        },
-        {
           "Close": 62.900001525878906,
           "Volume": 1438553
         },
@@ -43993,6 +43989,10 @@
         {
           "Close": 62.0,
           "Volume": 1733785
+        },
+        {
+          "Close": 61.099998474121094,
+          "Volume": 1243266
         },
         {
           "Close": 59.5,
@@ -44108,10 +44108,6 @@
       "beta": 0.435,
       "historicalData": [
         {
-          "Close": 16.979999542236328,
-          "Volume": 1069152
-        },
-        {
           "Close": 16.549999237060547,
           "Volume": 1473713
         },
@@ -44182,6 +44178,10 @@
         {
           "Close": 14.720000267028809,
           "Volume": 14738227
+        },
+        {
+          "Close": 13.25,
+          "Volume": 12852617
         },
         {
           "Close": 11.930000305175781,
@@ -44297,10 +44297,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 54.20000076293945,
-          "Volume": 2602796
-        },
-        {
           "Close": 53.20000076293945,
           "Volume": 1914353
         },
@@ -44371,6 +44367,10 @@
         {
           "Close": 58.04999923706055,
           "Volume": 2450868
+        },
+        {
+          "Close": 56.099998474121094,
+          "Volume": 1872102
         },
         {
           "Close": 55.70000076293945,
@@ -44486,10 +44486,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 2.9000000953674316,
-          "Volume": 269425179
-        },
-        {
           "Close": 3.049999952316284,
           "Volume": 235999901
         },
@@ -44560,6 +44556,10 @@
         {
           "Close": 2.549999952316284,
           "Volume": 79237167
+        },
+        {
+          "Close": 2.609999895095825,
+          "Volume": 86664327
         },
         {
           "Close": 2.4800000190734863,
@@ -44675,10 +44675,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 156.0,
-          "Volume": 1459329
-        },
-        {
           "Close": 154.3000030517578,
           "Volume": 2176427
         },
@@ -44749,6 +44745,10 @@
         {
           "Close": 285.0,
           "Volume": 2968108
+        },
+        {
+          "Close": 304.25,
+          "Volume": 1679965
         },
         {
           "Close": 334.0,
@@ -44864,10 +44864,6 @@
       "beta": -1.0,
       "historicalData": [
         {
-          "Close": 11.039999961853027,
-          "Volume": 21154276
-        },
-        {
           "Close": 10.90999984741211,
           "Volume": 4953477
         },
@@ -44938,6 +44934,10 @@
         {
           "Close": 10.770000457763672,
           "Volume": 2888733
+        },
+        {
+          "Close": 10.779999732971191,
+          "Volume": 2567949
         },
         {
           "Close": 11.050000190734863,
@@ -45019,7 +45019,7 @@
       "description": "Halk Gayrimenkul Yatirim Ortakligi A.S operates as a subsidiary of Turkiye Halk Bankasi A.S.",
       "pe": 1.3220859,
       "forwardPE": null,
-      "priceToBook": 0.41546175,
+      "priceToBook": 0.2979194,
       "pegRatio": null,
       "priceToSales": 1.4642739,
       "enterpriseToRevenue": 1.904,
@@ -45038,7 +45038,7 @@
       "quickRatio": 0.159,
       "eps": 3.26,
       "forwardEps": null,
-      "bookValue": 10.374,
+      "bookValue": 14.467,
       "dividendRate": 0.58,
       "dividendYield": 12.73,
       "exDividendDate": 1782777600,
@@ -45052,10 +45052,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
-        {
-          "Close": 5.389999866485596,
-          "Volume": 18081985
-        },
         {
           "Close": 5.489999771118164,
           "Volume": 29938329
@@ -45127,6 +45123,10 @@
         {
           "Close": 4.619999885559082,
           "Volume": 6576785
+        },
+        {
+          "Close": 4.619999885559082,
+          "Volume": 10274380
         },
         {
           "Close": 4.690000057220459,
@@ -45232,19 +45232,15 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.286064,
-      "targetLowPrice": 61.196774,
-      "targetMeanPrice": 67.54965,
-      "targetMedianPrice": 64.165634,
+      "targetHighPrice": 77.3135,
+      "targetLowPrice": 61.2185,
+      "targetMeanPrice": 67.57363,
+      "targetMedianPrice": 64.18841,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
       "beta": 0.45,
       "historicalData": [
-        {
-          "Close": 39.68000030517578,
-          "Volume": 377120
-        },
         {
           "Close": 39.20000076293945,
           "Volume": 459731
@@ -45316,6 +45312,10 @@
         {
           "Close": 36.0,
           "Volume": 395536
+        },
+        {
+          "Close": 36.439998626708984,
+          "Volume": 674503
         },
         {
           "Close": 37.13999938964844,
@@ -45431,10 +45431,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 2.869999885559082,
-          "Volume": 1519187
-        },
-        {
           "Close": 3.0299999713897705,
           "Volume": 3815497
         },
@@ -45505,6 +45501,10 @@
         {
           "Close": 2.7799999713897705,
           "Volume": 2005200
+        },
+        {
+          "Close": 2.7799999713897705,
+          "Volume": 1038930
         },
         {
           "Close": 2.700000047683716,
@@ -45620,10 +45620,6 @@
       "beta": 0.607,
       "historicalData": [
         {
-          "Close": 3.9600000381469727,
-          "Volume": 130068428
-        },
-        {
           "Close": 3.75,
           "Volume": 91297455
         },
@@ -45694,6 +45690,10 @@
         {
           "Close": 3.4000000953674316,
           "Volume": 23330130
+        },
+        {
+          "Close": 3.4000000953674316,
+          "Volume": 32360755
         },
         {
           "Close": 3.359999895095825,
@@ -45809,10 +45809,6 @@
       "beta": 0.151,
       "historicalData": [
         {
-          "Close": 6.619999885559082,
-          "Volume": 4267422
-        },
-        {
           "Close": 6.670000076293945,
           "Volume": 4656042
         },
@@ -45883,6 +45879,10 @@
         {
           "Close": 7.369999885559082,
           "Volume": 8808925
+        },
+        {
+          "Close": 7.039999961853027,
+          "Volume": 10228598
         },
         {
           "Close": 7.369999885559082,
@@ -45998,10 +45998,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 21.719999313354492,
-          "Volume": 4114574
-        },
-        {
           "Close": 22.100000381469727,
           "Volume": 5647384
         },
@@ -46072,6 +46068,10 @@
         {
           "Close": 21.760000228881836,
           "Volume": 2535157
+        },
+        {
+          "Close": 21.020000457763672,
+          "Volume": 3481698
         },
         {
           "Close": 21.31999969482422,
@@ -46187,10 +46187,6 @@
       "beta": 0.824,
       "historicalData": [
         {
-          "Close": 5.809999942779541,
-          "Volume": 16940378
-        },
-        {
           "Close": 5.889999866485596,
           "Volume": 31227787
         },
@@ -46261,6 +46257,10 @@
         {
           "Close": 5.710000038146973,
           "Volume": 11703970
+        },
+        {
+          "Close": 5.449999809265137,
+          "Volume": 12645085
         },
         {
           "Close": 5.239999771118164,
@@ -46376,10 +46376,6 @@
       "beta": 0.331,
       "historicalData": [
         {
-          "Close": 4.670000076293945,
-          "Volume": 2843527
-        },
-        {
           "Close": 4.489999771118164,
           "Volume": 1106997
         },
@@ -46450,6 +46446,10 @@
         {
           "Close": 3.990000009536743,
           "Volume": 1530590
+        },
+        {
+          "Close": 3.7799999713897705,
+          "Volume": 4235930
         },
         {
           "Close": 3.5799999237060547,
@@ -46565,10 +46565,6 @@
       "beta": 0.298,
       "historicalData": [
         {
-          "Close": 152.0,
-          "Volume": 10573102
-        },
-        {
           "Close": 153.5,
           "Volume": 3608330
         },
@@ -46639,6 +46635,10 @@
         {
           "Close": 164.3000030517578,
           "Volume": 6195506
+        },
+        {
+          "Close": 167.5,
+          "Volume": 15843742
         },
         {
           "Close": 169.5,
@@ -46943,10 +46943,6 @@
       "beta": 0.283,
       "historicalData": [
         {
-          "Close": 2.0799999237060547,
-          "Volume": 548527
-        },
-        {
           "Close": 2.0999999046325684,
           "Volume": 2850246
         },
@@ -47017,6 +47013,10 @@
         {
           "Close": 1.9600000381469727,
           "Volume": 449001
+        },
+        {
+          "Close": 1.9299999475479126,
+          "Volume": 648875
         },
         {
           "Close": 1.940000057220459,
@@ -47132,10 +47132,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 1.340000033378601,
-          "Volume": 42342797
-        },
-        {
           "Close": 1.3300000429153442,
           "Volume": 7192459
         },
@@ -47206,6 +47202,10 @@
         {
           "Close": 1.190000057220459,
           "Volume": 11572305
+        },
+        {
+          "Close": 1.190000057220459,
+          "Volume": 9382209
         },
         {
           "Close": 1.1799999475479126,
@@ -47510,10 +47510,6 @@
       "beta": 0.546,
       "historicalData": [
         {
-          "Close": 1.8200000524520874,
-          "Volume": 25211606
-        },
-        {
           "Close": 1.7799999713897705,
           "Volume": 14047946
         },
@@ -47584,6 +47580,10 @@
         {
           "Close": 1.559999942779541,
           "Volume": 16949159
+        },
+        {
+          "Close": 1.5800000429153442,
+          "Volume": 11905733
         },
         {
           "Close": 1.5800000429153442,
@@ -48077,10 +48077,6 @@
       "beta": 0.327,
       "historicalData": [
         {
-          "Close": 11.010000228881836,
-          "Volume": 7205361
-        },
-        {
           "Close": 10.800000190734863,
           "Volume": 3721409
         },
@@ -48151,6 +48147,10 @@
         {
           "Close": 9.760000228881836,
           "Volume": 5189959
+        },
+        {
+          "Close": 10.100000381469727,
+          "Volume": 4649639
         },
         {
           "Close": 10.100000381469727,
@@ -48644,10 +48644,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 275.0,
-          "Volume": 109891
-        },
-        {
           "Close": 270.5,
           "Volume": 62579
         },
@@ -48718,6 +48714,10 @@
         {
           "Close": 237.5,
           "Volume": 48692
+        },
+        {
+          "Close": 238.89999389648438,
+          "Volume": 27832
         },
         {
           "Close": 236.8000030517578,
@@ -48833,10 +48833,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 8.960000038146973,
-          "Volume": 16446307
-        },
-        {
           "Close": 8.649999618530273,
           "Volume": 10353978
         },
@@ -48907,6 +48903,10 @@
         {
           "Close": 7.159999847412109,
           "Volume": 2807234
+        },
+        {
+          "Close": 7.119999885559082,
+          "Volume": 6062324
         },
         {
           "Close": 7.0,
@@ -49022,10 +49022,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 638.5,
-          "Volume": 33194
-        },
-        {
           "Close": 589.5,
           "Volume": 358499
         },
@@ -49096,6 +49092,10 @@
         {
           "Close": 695.0,
           "Volume": 26746
+        },
+        {
+          "Close": 716.0,
+          "Volume": 51470
         },
         {
           "Close": 726.0,
@@ -49400,10 +49400,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 68.78840637207031,
-          "Volume": 19183
-        },
-        {
           "Close": 67.50724792480469,
           "Volume": 37002
         },
@@ -49474,6 +49470,10 @@
         {
           "Close": 66.80000305175781,
           "Volume": 15621
+        },
+        {
+          "Close": 66.80000305175781,
+          "Volume": 20742
         },
         {
           "Close": 66.5999984741211,
@@ -49778,10 +49778,6 @@
       "beta": 0.486,
       "historicalData": [
         {
-          "Close": 56.20000076293945,
-          "Volume": 763911
-        },
-        {
           "Close": 56.75,
           "Volume": 1761190
         },
@@ -49852,6 +49848,10 @@
         {
           "Close": 54.45000076293945,
           "Volume": 2008869
+        },
+        {
+          "Close": 53.75,
+          "Volume": 1135527
         },
         {
           "Close": 53.20000076293945,
@@ -50345,10 +50345,6 @@
       "beta": 0.368,
       "historicalData": [
         {
-          "Close": 24.65999984741211,
-          "Volume": 5703458
-        },
-        {
           "Close": 26.899999618530273,
           "Volume": 11238962
         },
@@ -50419,6 +50415,10 @@
         {
           "Close": 25.700000762939453,
           "Volume": 2261468
+        },
+        {
+          "Close": 26.440000534057617,
+          "Volume": 1742270
         },
         {
           "Close": 26.040000915527344,
@@ -50534,10 +50534,6 @@
       "beta": -0.176,
       "historicalData": [
         {
-          "Close": 6.119999885559082,
-          "Volume": 37096354
-        },
-        {
           "Close": 6.190000057220459,
           "Volume": 42284511
         },
@@ -50608,6 +50604,10 @@
         {
           "Close": 7.78000020980835,
           "Volume": 99962511
+        },
+        {
+          "Close": 7.960000038146973,
+          "Volume": 65874253
         },
         {
           "Close": 7.630000114440918,
@@ -51101,10 +51101,6 @@
       "beta": 0.234,
       "historicalData": [
         {
-          "Close": 8.079999923706055,
-          "Volume": 1119254
-        },
-        {
           "Close": 8.020000457763672,
           "Volume": 1070212
         },
@@ -51175,6 +51171,10 @@
         {
           "Close": 7.659999847412109,
           "Volume": 552448
+        },
+        {
+          "Close": 7.690000057220459,
+          "Volume": 317964
         },
         {
           "Close": 7.690000057220459,
@@ -51857,10 +51857,6 @@
       "beta": 0.728,
       "historicalData": [
         {
-          "Close": 9.050000190734863,
-          "Volume": 11874775
-        },
-        {
           "Close": 9.300000190734863,
           "Volume": 19472893
         },
@@ -51931,6 +51927,10 @@
         {
           "Close": 11.369999885559082,
           "Volume": 27280562
+        },
+        {
+          "Close": 11.34000015258789,
+          "Volume": 14966711
         },
         {
           "Close": 12.100000381469727,
@@ -52046,10 +52046,6 @@
       "beta": 0.823,
       "historicalData": [
         {
-          "Close": 16.809999465942383,
-          "Volume": 5030655
-        },
-        {
           "Close": 16.540000915527344,
           "Volume": 17232140
         },
@@ -52120,6 +52116,10 @@
         {
           "Close": 14.970000267028809,
           "Volume": 3672652
+        },
+        {
+          "Close": 14.9399995803833,
+          "Volume": 2529748
         },
         {
           "Close": 14.880000114440918,
@@ -52424,10 +52424,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 11.579999923706055,
-          "Volume": 19315173
-        },
-        {
           "Close": 11.020000457763672,
           "Volume": 19608093
         },
@@ -52498,6 +52494,10 @@
         {
           "Close": 8.899999618530273,
           "Volume": 39990333
+        },
+        {
+          "Close": 9.770000457763672,
+          "Volume": 50151817
         },
         {
           "Close": 9.350000381469727,
@@ -52613,10 +52613,6 @@
       "beta": 0.534,
       "historicalData": [
         {
-          "Close": 165.60000610351562,
-          "Volume": 1469963
-        },
-        {
           "Close": 182.10000610351562,
           "Volume": 2371197
         },
@@ -52687,6 +52683,10 @@
         {
           "Close": 222.5,
           "Volume": 2051038
+        },
+        {
+          "Close": 211.0,
+          "Volume": 2270197
         },
         {
           "Close": 201.89999389648438,
@@ -52802,10 +52802,6 @@
       "beta": 0.066,
       "historicalData": [
         {
-          "Close": 2.7100000381469727,
-          "Volume": 51383865
-        },
-        {
           "Close": 2.6600000858306885,
           "Volume": 88191640
         },
@@ -52876,6 +52872,10 @@
         {
           "Close": 2.2100000381469727,
           "Volume": 65629013
+        },
+        {
+          "Close": 2.2100000381469727,
+          "Volume": 58795200
         },
         {
           "Close": 2.2200000286102295,
@@ -53369,10 +53369,6 @@
       "beta": 0.394,
       "historicalData": [
         {
-          "Close": 15.199999809265137,
-          "Volume": 17184859
-        },
-        {
           "Close": 15.0,
           "Volume": 8100738
         },
@@ -53443,6 +53439,10 @@
         {
           "Close": 14.770000457763672,
           "Volume": 13342754
+        },
+        {
+          "Close": 14.9399995803833,
+          "Volume": 10746596
         },
         {
           "Close": 14.199999809265137,
@@ -53558,10 +53558,6 @@
       "beta": -0.491,
       "historicalData": [
         {
-          "Close": 360.75,
-          "Volume": 3216
-        },
-        {
           "Close": 362.75,
           "Volume": 4522
         },
@@ -53632,6 +53628,10 @@
         {
           "Close": 321.0,
           "Volume": 3184
+        },
+        {
+          "Close": 316.0,
+          "Volume": 4146
         },
         {
           "Close": 316.75,
@@ -54280,7 +54280,7 @@
       "description": "Ersan Alisveris Hizmetleri ve Gida Sanayi Ticaret A.S. operates a chain of supermarkets and hypermarkets under the KIM brand in Turkey. The company also offers cleaning products comprising toilet paper, paper towels, concentrated fabric softeners, bleach, liquid dish detergents, dish lemons, glass cleaners, liquid soap, softener, and surface cleaners; and wheat for ashure, kidney bean, sweet corn, bean, rice, lentil, bulgur wheat, chickpeas, and granulated sugar under the under the KIMI brand. In addition, it engages in import and export activities. Ersan Alisveris Hizmetleri ve Gida Sanayi Ticaret A.S. was incorporated in 1997 and is headquartered in Istanbul, Turkey.",
       "pe": 5.48,
       "forwardPE": null,
-      "priceToBook": 0.74651265,
+      "priceToBook": 0.65471923,
       "pegRatio": null,
       "priceToSales": 0.20926778,
       "enterpriseToRevenue": 0.257,
@@ -54299,7 +54299,7 @@
       "quickRatio": 0.595,
       "eps": 2.5,
       "forwardEps": null,
-      "bookValue": 18.352,
+      "bookValue": 20.925,
       "dividendRate": 0.42,
       "dividendYield": 3.01,
       "exDividendDate": 1790726400,
@@ -54313,10 +54313,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
-        {
-          "Close": 15.84000015258789,
-          "Volume": 791818
-        },
         {
           "Close": 15.539999961853027,
           "Volume": 672243
@@ -54388,6 +54384,10 @@
         {
           "Close": 14.020000457763672,
           "Volume": 921891
+        },
+        {
+          "Close": 14.329999923706055,
+          "Volume": 1117743
         },
         {
           "Close": 14.119999885559082,
@@ -54692,10 +54692,6 @@
       "beta": -0.448,
       "historicalData": [
         {
-          "Close": 28.84000015258789,
-          "Volume": 1633606
-        },
-        {
           "Close": 28.239999771118164,
           "Volume": 1685135
         },
@@ -54766,6 +54762,10 @@
         {
           "Close": 24.8799991607666,
           "Volume": 1112701
+        },
+        {
+          "Close": 25.15999984741211,
+          "Volume": 1321271
         },
         {
           "Close": 25.239999771118164,
@@ -54881,10 +54881,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 33.119998931884766,
-          "Volume": 723197
-        },
-        {
           "Close": 34.900001525878906,
           "Volume": 8166566
         },
@@ -54955,6 +54951,10 @@
         {
           "Close": 27.34000015258789,
           "Volume": 717030
+        },
+        {
+          "Close": 27.5,
+          "Volume": 384151
         },
         {
           "Close": 27.18000030517578,
@@ -55070,10 +55070,6 @@
       "beta": -0.587,
       "historicalData": [
         {
-          "Close": 10.0,
-          "Volume": 309881
-        },
-        {
           "Close": 10.300000190734863,
           "Volume": 295335
         },
@@ -55144,6 +55140,10 @@
         {
           "Close": 9.0,
           "Volume": 168720
+        },
+        {
+          "Close": 9.020000457763672,
+          "Volume": 155978
         },
         {
           "Close": 8.850000381469727,
@@ -55259,10 +55259,6 @@
       "beta": 0.461,
       "historicalData": [
         {
-          "Close": 92.9000015258789,
-          "Volume": 3662770
-        },
-        {
           "Close": 91.6500015258789,
           "Volume": 7098431
         },
@@ -55333,6 +55329,10 @@
         {
           "Close": 76.94999694824219,
           "Volume": 2444301
+        },
+        {
+          "Close": 73.30000305175781,
+          "Volume": 2585449
         },
         {
           "Close": 73.80000305175781,
@@ -55637,10 +55637,6 @@
       "beta": 0.051,
       "historicalData": [
         {
-          "Close": 15.216715812683105,
-          "Volume": 21049544
-        },
-        {
           "Close": 14.741193771362305,
           "Volume": 12850662
         },
@@ -55711,6 +55707,10 @@
         {
           "Close": 11.957406044006348,
           "Volume": 2377580
+        },
+        {
+          "Close": 12.15554141998291,
+          "Volume": 2211618
         },
         {
           "Close": 12.195168495178223,
@@ -55826,10 +55826,6 @@
       "beta": -0.247,
       "historicalData": [
         {
-          "Close": 18.520000457763672,
-          "Volume": 1184681
-        },
-        {
           "Close": 18.040000915527344,
           "Volume": 1299771
         },
@@ -55900,6 +55896,10 @@
         {
           "Close": 19.459999084472656,
           "Volume": 2502674
+        },
+        {
+          "Close": 20.139999389648438,
+          "Volume": 2247578
         },
         {
           "Close": 19.700000762939453,
@@ -56015,10 +56015,6 @@
       "beta": 0.042,
       "historicalData": [
         {
-          "Close": 12.670000076293945,
-          "Volume": 3128117
-        },
-        {
           "Close": 12.270000457763672,
           "Volume": 3443164
         },
@@ -56089,6 +56085,10 @@
         {
           "Close": 10.390000343322754,
           "Volume": 2392727
+        },
+        {
+          "Close": 10.710000038146973,
+          "Volume": 1329362
         },
         {
           "Close": 10.609999656677246,
@@ -56170,7 +56170,7 @@
       "description": "Koç Metalürji Anonim Sirketi engages in the production and sales of metal billets, ribbed reinforced concrete bars, rebar, and construction iron in Turkey. It produces scrap metal. The company was formerly known as Koç Haddecilik Tekstil Insaat Sanayi ve Ticaret A.S. and changed its name to Koç Metalürji Anonim Sirketi in June 2016. Koç Metalürji Anonim Sirketi was founded in 1993 and is based in Payas, Turkey.",
       "pe": 12.260869,
       "forwardPE": null,
-      "priceToBook": 1.1032864,
+      "priceToBook": 1.1928934,
       "pegRatio": null,
       "priceToSales": 0.7858937,
       "enterpriseToRevenue": 0.802,
@@ -56189,7 +56189,7 @@
       "quickRatio": 0.761,
       "eps": 0.46,
       "forwardEps": null,
-      "bookValue": 5.112,
+      "bookValue": 4.728,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -56203,10 +56203,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
-        {
-          "Close": 4.449999809265137,
-          "Volume": 79347845
-        },
         {
           "Close": 4.889999866485596,
           "Volume": 42807945
@@ -56278,6 +56274,10 @@
         {
           "Close": 5.349999904632568,
           "Volume": 64191242
+        },
+        {
+          "Close": 5.420000076293945,
+          "Volume": 104792948
         },
         {
           "Close": 5.510000228881836,
@@ -56960,10 +56960,6 @@
       "beta": 0.242,
       "historicalData": [
         {
-          "Close": 70.75,
-          "Volume": 1310627
-        },
-        {
           "Close": 69.44999694824219,
           "Volume": 1502735
         },
@@ -57034,6 +57030,10 @@
         {
           "Close": 68.94999694824219,
           "Volume": 2848874
+        },
+        {
+          "Close": 66.94999694824219,
+          "Volume": 2165248
         },
         {
           "Close": 65.25,
@@ -57149,10 +57149,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 14.5,
-          "Volume": 3667181
-        },
-        {
           "Close": 15.180000305175781,
           "Volume": 14476983
         },
@@ -57223,6 +57219,10 @@
         {
           "Close": 12.510000228881836,
           "Volume": 3073582
+        },
+        {
+          "Close": 12.430000305175781,
+          "Volume": 3589185
         },
         {
           "Close": 12.380000114440918,
@@ -57338,10 +57338,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 39.5,
-          "Volume": 6411032
-        },
-        {
           "Close": 39.540000915527344,
           "Volume": 6782015
         },
@@ -57412,6 +57408,10 @@
         {
           "Close": 42.29999923706055,
           "Volume": 6243448
+        },
+        {
+          "Close": 42.47999954223633,
+          "Volume": 4986652
         },
         {
           "Close": 41.02000045776367,
@@ -57527,10 +57527,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 137.89999389648438,
-          "Volume": 1437504
-        },
-        {
           "Close": 136.3000030517578,
           "Volume": 1273020
         },
@@ -57601,6 +57597,10 @@
         {
           "Close": 133.5,
           "Volume": 1546845
+        },
+        {
+          "Close": 134.5,
+          "Volume": 1275872
         },
         {
           "Close": 131.3000030517578,
@@ -57716,10 +57716,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 2.619999885559082,
-          "Volume": 14444777
-        },
-        {
           "Close": 2.5999999046325684,
           "Volume": 10384462
         },
@@ -57790,6 +57786,10 @@
         {
           "Close": 2.5,
           "Volume": 7664841
+        },
+        {
+          "Close": 2.5,
+          "Volume": 7682462
         },
         {
           "Close": 2.490000009536743,
@@ -57905,10 +57905,6 @@
       "beta": -0.385,
       "historicalData": [
         {
-          "Close": 26.399999618530273,
-          "Volume": 1934001
-        },
-        {
           "Close": 26.200000762939453,
           "Volume": 1809636
         },
@@ -57979,6 +57975,10 @@
         {
           "Close": 23.0,
           "Volume": 2365188
+        },
+        {
+          "Close": 23.239999771118164,
+          "Volume": 2383646
         },
         {
           "Close": 22.540000915527344,
@@ -58094,10 +58094,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 9.319999694824219,
-          "Volume": 1630403
-        },
-        {
           "Close": 9.399999618530273,
           "Volume": 1038395
         },
@@ -58168,6 +58164,10 @@
         {
           "Close": 8.600000381469727,
           "Volume": 2998942
+        },
+        {
+          "Close": 8.739999771118164,
+          "Volume": 2981369
         },
         {
           "Close": 8.640000343322754,
@@ -58283,10 +58283,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 11.029999732971191,
-          "Volume": 3687055
-        },
-        {
           "Close": 10.6899995803833,
           "Volume": 3115564
         },
@@ -58357,6 +58353,10 @@
         {
           "Close": 10.350000381469727,
           "Volume": 3041497
+        },
+        {
+          "Close": 10.270000457763672,
+          "Volume": 3137966
         },
         {
           "Close": 10.229999542236328,
@@ -58616,7 +58616,7 @@
       "averageVolume10days": 5547991,
       "marketCap": 5162308608,
       "enterpriseValue": 10732050432,
-      "sharesOutstanding": 2159961700,
+      "sharesOutstanding": 2159961660,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
       "website": "https://kervangida.com",
@@ -58660,10 +58660,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.376,
       "historicalData": [
-        {
-          "Close": 2.819999933242798,
-          "Volume": 3145033
-        },
         {
           "Close": 2.8399999141693115,
           "Volume": 6591671
@@ -58735,6 +58731,10 @@
         {
           "Close": 2.2899999618530273,
           "Volume": 41652528
+        },
+        {
+          "Close": 2.369999885559082,
+          "Volume": 11044635
         },
         {
           "Close": 2.359999895095825,
@@ -58850,10 +58850,6 @@
       "beta": 0.559,
       "historicalData": [
         {
-          "Close": 2960.0,
-          "Volume": 806
-        },
-        {
           "Close": 3030.0,
           "Volume": 1130
         },
@@ -58924,6 +58920,10 @@
         {
           "Close": 2440.0,
           "Volume": 571
+        },
+        {
+          "Close": 2500.0,
+          "Volume": 1422
         },
         {
           "Close": 2522.5,
@@ -59039,10 +59039,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 54.53009796142578,
-          "Volume": 49297509
-        },
-        {
           "Close": 53.20009994506836,
           "Volume": 67675844
         },
@@ -59113,6 +59109,10 @@
         {
           "Close": 46.3975715637207,
           "Volume": 56397603
+        },
+        {
+          "Close": 46.01314163208008,
+          "Volume": 39667812
         },
         {
           "Close": 41.41999816894531,
@@ -59228,10 +59228,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 110.0999984741211,
-          "Volume": 997221
-        },
-        {
           "Close": 103.69999694824219,
           "Volume": 954513
         },
@@ -59302,6 +59298,10 @@
         {
           "Close": 85.5,
           "Volume": 777742
+        },
+        {
+          "Close": 87.25,
+          "Volume": 647793
         },
         {
           "Close": 89.75,
@@ -59984,10 +59984,6 @@
       "beta": 0.379,
       "historicalData": [
         {
-          "Close": 2.509999990463257,
-          "Volume": 27124144
-        },
-        {
           "Close": 2.319999933242798,
           "Volume": 110945560
         },
@@ -60058,6 +60054,10 @@
         {
           "Close": 2.0399999618530273,
           "Volume": 38737479
+        },
+        {
+          "Close": 2.059999942779541,
+          "Volume": 40294980
         },
         {
           "Close": 2.0,
@@ -60362,10 +60362,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 93.46782684326172,
-          "Volume": 2887379
-        },
-        {
           "Close": 101.3651123046875,
           "Volume": 7029196
         },
@@ -60436,6 +60432,10 @@
         {
           "Close": 94.44999694824219,
           "Volume": 7699031
+        },
+        {
+          "Close": 97.3499984741211,
+          "Volume": 13843857
         },
         {
           "Close": 87.69999694824219,
@@ -60551,10 +60551,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 7.519999980926514,
-          "Volume": 65873663
-        },
-        {
           "Close": 7.210000038146973,
           "Volume": 31419060
         },
@@ -60625,6 +60621,10 @@
         {
           "Close": 5.559999942779541,
           "Volume": 25572066
+        },
+        {
+          "Close": 5.760000228881836,
+          "Volume": 28970944
         },
         {
           "Close": 5.670000076293945,
@@ -60740,10 +60740,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 15.260000228881836,
-          "Volume": 1667155
-        },
-        {
           "Close": 15.399999618530273,
           "Volume": 1080165
         },
@@ -60814,6 +60810,10 @@
         {
           "Close": 14.109999656677246,
           "Volume": 967309
+        },
+        {
+          "Close": 14.380000114440918,
+          "Volume": 2262604
         },
         {
           "Close": 13.890000343322754,
@@ -60929,10 +60929,6 @@
       "beta": 0.741,
       "historicalData": [
         {
-          "Close": 3.3399999141693115,
-          "Volume": 14490830
-        },
-        {
           "Close": 3.25,
           "Volume": 17431682
         },
@@ -61003,6 +60999,10 @@
         {
           "Close": 2.7699999809265137,
           "Volume": 11336749
+        },
+        {
+          "Close": 2.799999952316284,
+          "Volume": 8016496
         },
         {
           "Close": 2.700000047683716,
@@ -61118,10 +61118,6 @@
       "beta": 0.505,
       "historicalData": [
         {
-          "Close": 107.9000015258789,
-          "Volume": 74288
-        },
-        {
           "Close": 104.5,
           "Volume": 86447
         },
@@ -61192,6 +61188,10 @@
         {
           "Close": 90.4000015258789,
           "Volume": 55867
+        },
+        {
+          "Close": 90.9000015258789,
+          "Volume": 61350
         },
         {
           "Close": 89.94999694824219,
@@ -61273,7 +61273,7 @@
       "description": "Marmaris Altinyunus Turistik Tesisler A.S. engages in hotels and tourism services in Turkey. It operates tourist hotels in Antalya and Marmaris; and leases tourist facilities. The company was incorporated in 1986 and is based in Antalya, Turkey.",
       "pe": 236.21494,
       "forwardPE": null,
-      "priceToBook": 1.4366325,
+      "priceToBook": 1.6269242,
       "pegRatio": null,
       "priceToSales": 175.06854,
       "enterpriseToRevenue": 167.132,
@@ -61292,7 +61292,7 @@
       "quickRatio": 0.712,
       "eps": 4.28,
       "forwardEps": null,
-      "bookValue": 703.729,
+      "bookValue": 621.418,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -61685,10 +61685,6 @@
       "beta": 0.337,
       "historicalData": [
         {
-          "Close": 32.959999084472656,
-          "Volume": 19826352
-        },
-        {
           "Close": 34.20000076293945,
           "Volume": 8765886
         },
@@ -61759,6 +61755,10 @@
         {
           "Close": 38.220001220703125,
           "Volume": 9133190
+        },
+        {
+          "Close": 36.900001525878906,
+          "Volume": 11013172
         },
         {
           "Close": 37.099998474121094,
@@ -62063,10 +62063,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 12.5,
-          "Volume": 3931967
-        },
-        {
           "Close": 12.25,
           "Volume": 2870743
         },
@@ -62137,6 +62133,10 @@
         {
           "Close": 9.720000267028809,
           "Volume": 5006663
+        },
+        {
+          "Close": 9.789999961853027,
+          "Volume": 2593199
         },
         {
           "Close": 9.670000076293945,
@@ -62252,10 +62252,6 @@
       "beta": 0.744,
       "historicalData": [
         {
-          "Close": 30.15999984741211,
-          "Volume": 14582153
-        },
-        {
           "Close": 29.899999618530273,
           "Volume": 13048791
         },
@@ -62326,6 +62322,10 @@
         {
           "Close": 26.979999542236328,
           "Volume": 18178778
+        },
+        {
+          "Close": 28.719999313354492,
+          "Volume": 29634366
         },
         {
           "Close": 30.280000686645508,
@@ -62819,10 +62819,6 @@
       "beta": 0.009,
       "historicalData": [
         {
-          "Close": 1.6799999475479126,
-          "Volume": 30340687
-        },
-        {
           "Close": 1.6299999952316284,
           "Volume": 36543618
         },
@@ -62893,6 +62889,10 @@
         {
           "Close": 1.4500000476837158,
           "Volume": 43978307
+        },
+        {
+          "Close": 1.4700000286102295,
+          "Volume": 38172878
         },
         {
           "Close": 1.3899999856948853,
@@ -63008,10 +63008,6 @@
       "beta": 0.398,
       "historicalData": [
         {
-          "Close": 28.733591079711914,
-          "Volume": 386847
-        },
-        {
           "Close": 28.773414611816406,
           "Volume": 290891
         },
@@ -63082,6 +63078,10 @@
         {
           "Close": 25.079999923706055,
           "Volume": 332236
+        },
+        {
+          "Close": 25.440000534057617,
+          "Volume": 390576
         },
         {
           "Close": 25.100000381469727,
@@ -63197,10 +63197,6 @@
       "beta": 0.146,
       "historicalData": [
         {
-          "Close": 2.180000066757202,
-          "Volume": 1075932
-        },
-        {
           "Close": 2.0899999141693115,
           "Volume": 843604
         },
@@ -63271,6 +63267,10 @@
         {
           "Close": 1.7599999904632568,
           "Volume": 844022
+        },
+        {
+          "Close": 1.75,
+          "Volume": 794386
         },
         {
           "Close": 1.7599999904632568,
@@ -63386,10 +63386,6 @@
       "beta": -0.449,
       "historicalData": [
         {
-          "Close": 75.0,
-          "Volume": 3554690
-        },
-        {
           "Close": 72.4000015258789,
           "Volume": 4355918
         },
@@ -63460,6 +63456,10 @@
         {
           "Close": 71.5999984741211,
           "Volume": 9737003
+        },
+        {
+          "Close": 68.1500015258789,
+          "Volume": 4239976
         },
         {
           "Close": 68.0,
@@ -63575,10 +63575,6 @@
       "beta": -0.819,
       "historicalData": [
         {
-          "Close": 3.5,
-          "Volume": 13380340
-        },
-        {
           "Close": 3.509999990463257,
           "Volume": 12835154
         },
@@ -63649,6 +63645,10 @@
         {
           "Close": 2.8399999141693115,
           "Volume": 16892074
+        },
+        {
+          "Close": 2.9200000762939453,
+          "Volume": 14366437
         },
         {
           "Close": 2.869999885559082,
@@ -63764,10 +63764,6 @@
       "beta": 0.578,
       "historicalData": [
         {
-          "Close": 22.68000030517578,
-          "Volume": 226891
-        },
-        {
           "Close": 22.399999618530273,
           "Volume": 211076
         },
@@ -63838,6 +63834,10 @@
         {
           "Close": 18.540000915527344,
           "Volume": 377189
+        },
+        {
+          "Close": 18.010000228881836,
+          "Volume": 362619
         },
         {
           "Close": 19.030000686645508,
@@ -64130,7 +64130,7 @@
       "bookValue": 56.576,
       "dividendRate": 1.0,
       "dividendYield": 6.11,
-      "exDividendDate": 1750032000,
+      "exDividendDate": 1793059200,
       "payoutRatio": 0.0622,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -64141,10 +64141,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.242,
       "historicalData": [
-        {
-          "Close": 18.0,
-          "Volume": 7471125
-        },
         {
           "Close": 17.649999618530273,
           "Volume": 4432207
@@ -64216,6 +64212,10 @@
         {
           "Close": 15.699999809265137,
           "Volume": 1552663
+        },
+        {
+          "Close": 16.3799991607666,
+          "Volume": 2296094
         },
         {
           "Close": 16.31999969482422,
@@ -65276,10 +65276,6 @@
       "beta": 0.275,
       "historicalData": [
         {
-          "Close": 11.270000457763672,
-          "Volume": 2318577
-        },
-        {
           "Close": 11.140000343322754,
           "Volume": 2125572
         },
@@ -65350,6 +65346,10 @@
         {
           "Close": 10.420000076293945,
           "Volume": 1033852
+        },
+        {
+          "Close": 10.430000305175781,
+          "Volume": 1361186
         },
         {
           "Close": 10.359999656677246,
@@ -65843,10 +65843,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 15.5,
-          "Volume": 36293235
-        },
-        {
           "Close": 15.859999656677246,
           "Volume": 34005803
         },
@@ -65917,6 +65913,10 @@
         {
           "Close": 16.450000762939453,
           "Volume": 9976752
+        },
+        {
+          "Close": 16.979999542236328,
+          "Volume": 10325185
         },
         {
           "Close": 17.079999923706055,
@@ -66221,10 +66221,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 1.5099999904632568,
-          "Volume": 65400199
-        },
-        {
           "Close": 1.4500000476837158,
           "Volume": 69531385
         },
@@ -66295,6 +66291,10 @@
         {
           "Close": 1.2799999713897705,
           "Volume": 61270382
+        },
+        {
+          "Close": 1.309999942779541,
+          "Volume": 29862299
         },
         {
           "Close": 1.2799999713897705,
@@ -66376,7 +66376,7 @@
       "description": "Marshall Boya Ve Vernik Sanayii A.S. manufactures and sells paint, coating, and varnish products in Turkey. It offers interior wall and exterior paint. Marshall Boya Ve Vernik Sanayii A.S. was founded in 1954 and is headquartered in Dilovasi, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 22.232225,
+      "priceToBook": 17.174595,
       "pegRatio": null,
       "priceToSales": 4.414032,
       "enterpriseToRevenue": 4.458,
@@ -66395,7 +66395,7 @@
       "quickRatio": 0.854,
       "eps": -7.3,
       "forwardEps": null,
-      "bookValue": 79.974,
+      "bookValue": 103.525,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1275004800,
@@ -66409,10 +66409,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
-        {
-          "Close": 2454.0,
-          "Volume": 120149
-        },
         {
           "Close": 2367.0,
           "Volume": 191812
@@ -66484,6 +66480,10 @@
         {
           "Close": 1500.0,
           "Volume": 28884
+        },
+        {
+          "Close": 1534.0,
+          "Volume": 112785
         },
         {
           "Close": 1520.0,
@@ -66599,10 +66599,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 6.239999771118164,
-          "Volume": 998235
-        },
-        {
           "Close": 6.03000020980835,
           "Volume": 1230802
         },
@@ -66673,6 +66669,10 @@
         {
           "Close": 6.440000057220459,
           "Volume": 17619718
+        },
+        {
+          "Close": 6.429999828338623,
+          "Volume": 3859352
         },
         {
           "Close": 6.260000228881836,
@@ -66788,10 +66788,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 30.860000610351562,
-          "Volume": 1548444
-        },
-        {
           "Close": 29.600000381469727,
           "Volume": 1940473
         },
@@ -66862,6 +66858,10 @@
         {
           "Close": 26.18000030517578,
           "Volume": 1013078
+        },
+        {
+          "Close": 26.280000686645508,
+          "Volume": 552490
         },
         {
           "Close": 27.18000030517578,
@@ -66977,10 +66977,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 11.0,
-          "Volume": 287495
-        },
-        {
           "Close": 11.1899995803833,
           "Volume": 312265
         },
@@ -67051,6 +67047,10 @@
         {
           "Close": 8.930000305175781,
           "Volume": 272529
+        },
+        {
+          "Close": 8.979999542236328,
+          "Volume": 238783
         },
         {
           "Close": 8.869999885559082,
@@ -67167,10 +67167,6 @@
       "historicalData": [
         {
           "Close": 5.75,
-          "Volume": 269873
-        },
-        {
-          "Close": 5.75,
           "Volume": 227260
         },
         {
@@ -67240,6 +67236,10 @@
         {
           "Close": 5.440000057220459,
           "Volume": 715990
+        },
+        {
+          "Close": 5.320000171661377,
+          "Volume": 643962
         },
         {
           "Close": 5.269999980926514,
@@ -67355,10 +67355,6 @@
       "beta": 0.185,
       "historicalData": [
         {
-          "Close": 6.639999866485596,
-          "Volume": 29785156
-        },
-        {
           "Close": 6.449999809265137,
           "Volume": 10814684
         },
@@ -67429,6 +67425,10 @@
         {
           "Close": 5.840000152587891,
           "Volume": 3893276
+        },
+        {
+          "Close": 5.909999847412109,
+          "Volume": 5061328
         },
         {
           "Close": 5.809999942779541,
@@ -67544,10 +67544,6 @@
       "beta": -0.507,
       "historicalData": [
         {
-          "Close": 4.349999904632568,
-          "Volume": 5072711
-        },
-        {
           "Close": 4.239999771118164,
           "Volume": 6201859
         },
@@ -67618,6 +67614,10 @@
         {
           "Close": 3.680000066757202,
           "Volume": 2942779
+        },
+        {
+          "Close": 3.799999952316284,
+          "Volume": 27425395
         },
         {
           "Close": 3.740000009536743,
@@ -67733,10 +67733,6 @@
       "beta": 0.63,
       "historicalData": [
         {
-          "Close": 11.34000015258789,
-          "Volume": 2666064
-        },
-        {
           "Close": 11.470000267028809,
           "Volume": 4204477
         },
@@ -67807,6 +67803,10 @@
         {
           "Close": 10.59000015258789,
           "Volume": 1591213
+        },
+        {
+          "Close": 11.210000038146973,
+          "Volume": 4568039
         },
         {
           "Close": 11.170000076293945,
@@ -67910,7 +67910,7 @@
       "bookValue": 167.931,
       "dividendRate": 1.0,
       "dividendYield": 2.16,
-      "exDividendDate": 1371686400,
+      "exDividendDate": 1797379200,
       "payoutRatio": 0.0,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -67921,10 +67921,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.167,
       "historicalData": [
-        {
-          "Close": 46.18000030517578,
-          "Volume": 5074942
-        },
         {
           "Close": 47.380001068115234,
           "Volume": 6724118
@@ -67996,6 +67992,10 @@
         {
           "Close": 44.040000915527344,
           "Volume": 932313
+        },
+        {
+          "Close": 45.560001373291016,
+          "Volume": 1934437
         },
         {
           "Close": 45.63999938964844,
@@ -68678,10 +68678,6 @@
       "beta": -0.731,
       "historicalData": [
         {
-          "Close": 1805.0,
-          "Volume": 802920
-        },
-        {
           "Close": 1800.0,
           "Volume": 721093
         },
@@ -68752,6 +68748,10 @@
         {
           "Close": 2316.0,
           "Volume": 988021
+        },
+        {
+          "Close": 2500.0,
+          "Volume": 1385637
         },
         {
           "Close": 2670.0,
@@ -69056,10 +69056,6 @@
       "beta": 0.78,
       "historicalData": [
         {
-          "Close": 250.5,
-          "Volume": 160559
-        },
-        {
           "Close": 248.5,
           "Volume": 218305
         },
@@ -69130,6 +69126,10 @@
         {
           "Close": 255.0,
           "Volume": 213250
+        },
+        {
+          "Close": 252.75,
+          "Volume": 385432
         },
         {
           "Close": 249.3000030517578,
@@ -69245,10 +69245,6 @@
       "beta": 1.061,
       "historicalData": [
         {
-          "Close": 69.8499984741211,
-          "Volume": 2277045
-        },
-        {
           "Close": 66.5999984741211,
           "Volume": 2059769
         },
@@ -69319,6 +69315,10 @@
         {
           "Close": 58.349998474121094,
           "Volume": 1107977
+        },
+        {
+          "Close": 58.400001525878906,
+          "Volume": 631325
         },
         {
           "Close": 61.75,
@@ -69434,10 +69434,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 4.179999828338623,
-          "Volume": 2528628
-        },
-        {
           "Close": 4.050000190734863,
           "Volume": 1443982
         },
@@ -69508,6 +69504,10 @@
         {
           "Close": 3.75,
           "Volume": 822180
+        },
+        {
+          "Close": 3.7699999809265137,
+          "Volume": 2418786
         },
         {
           "Close": 3.6500000953674316,
@@ -69623,10 +69623,6 @@
       "beta": -0.387,
       "historicalData": [
         {
-          "Close": 113.9000015258789,
-          "Volume": 1033853
-        },
-        {
           "Close": 108.80000305175781,
           "Volume": 852289
         },
@@ -69697,6 +69693,10 @@
         {
           "Close": 103.0,
           "Volume": 715989
+        },
+        {
+          "Close": 101.4000015258789,
+          "Volume": 712722
         },
         {
           "Close": 100.69999694824219,
@@ -70001,10 +70001,6 @@
       "beta": -0.183,
       "historicalData": [
         {
-          "Close": 8.52793025970459,
-          "Volume": 6110273
-        },
-        {
           "Close": 9.372772216796875,
           "Volume": 6532737
         },
@@ -70075,6 +70071,10 @@
         {
           "Close": 7.639999866485596,
           "Volume": 2336535
+        },
+        {
+          "Close": 7.800000190734863,
+          "Volume": 5390460
         },
         {
           "Close": 7.599999904632568,
@@ -70379,10 +70379,6 @@
       "beta": -0.534,
       "historicalData": [
         {
-          "Close": 170.6999969482422,
-          "Volume": 242300
-        },
-        {
           "Close": 174.89999389648438,
           "Volume": 394060
         },
@@ -70453,6 +70449,10 @@
         {
           "Close": 171.0,
           "Volume": 247794
+        },
+        {
+          "Close": 178.10000610351562,
+          "Volume": 207668
         },
         {
           "Close": 195.60000610351562,
@@ -70568,10 +70568,6 @@
       "beta": -0.695,
       "historicalData": [
         {
-          "Close": 20.959999084472656,
-          "Volume": 14612120
-        },
-        {
           "Close": 20.559999465942383,
           "Volume": 12801220
         },
@@ -70642,6 +70638,10 @@
         {
           "Close": 20.920000076293945,
           "Volume": 24646672
+        },
+        {
+          "Close": 20.299999237060547,
+          "Volume": 22216266
         },
         {
           "Close": 20.280000686645508,
@@ -70946,10 +70946,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 8.100000381469727,
-          "Volume": 316668
-        },
-        {
           "Close": 8.350000381469727,
           "Volume": 694345
         },
@@ -71020,6 +71016,10 @@
         {
           "Close": 7.53000020980835,
           "Volume": 172004
+        },
+        {
+          "Close": 7.550000190734863,
+          "Volume": 98575
         },
         {
           "Close": 7.460000038146973,
@@ -71135,10 +71135,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 41.5,
-          "Volume": 227019
-        },
-        {
           "Close": 40.5,
           "Volume": 326279
         },
@@ -71209,6 +71205,10 @@
         {
           "Close": 33.040000915527344,
           "Volume": 451508
+        },
+        {
+          "Close": 33.52000045776367,
+          "Volume": 272530
         },
         {
           "Close": 34.02000045776367,
@@ -71513,10 +71513,6 @@
       "beta": 0.156,
       "historicalData": [
         {
-          "Close": 14.109999656677246,
-          "Volume": 2828104
-        },
-        {
           "Close": 14.039999961853027,
           "Volume": 4849260
         },
@@ -71587,6 +71583,10 @@
         {
           "Close": 12.270000457763672,
           "Volume": 2101739
+        },
+        {
+          "Close": 12.6899995803833,
+          "Volume": 3936785
         },
         {
           "Close": 12.369999885559082,
@@ -71702,10 +71702,6 @@
       "beta": -0.468,
       "historicalData": [
         {
-          "Close": 26.479999542236328,
-          "Volume": 162841
-        },
-        {
           "Close": 27.34000015258789,
           "Volume": 300273
         },
@@ -71776,6 +71772,10 @@
         {
           "Close": 28.059999465942383,
           "Volume": 167927
+        },
+        {
+          "Close": 27.899999618530273,
+          "Volume": 243819
         },
         {
           "Close": 29.979999542236328,
@@ -71891,10 +71891,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 30.9233341217041,
-          "Volume": 2192753
-        },
-        {
           "Close": 30.65999984741211,
           "Volume": 2026616
         },
@@ -71965,6 +71961,10 @@
         {
           "Close": 32.400001525878906,
           "Volume": 1354285
+        },
+        {
+          "Close": 35.0,
+          "Volume": 2905577
         },
         {
           "Close": 35.040000915527344,
@@ -72080,10 +72080,6 @@
       "beta": 0.113,
       "historicalData": [
         {
-          "Close": 87.4000015258789,
-          "Volume": 271083
-        },
-        {
           "Close": 85.94999694824219,
           "Volume": 214120
         },
@@ -72154,6 +72150,10 @@
         {
           "Close": 78.19999694824219,
           "Volume": 84904
+        },
+        {
+          "Close": 78.0999984741211,
+          "Volume": 103331
         },
         {
           "Close": 82.5,
@@ -72269,10 +72269,6 @@
       "beta": 0.327,
       "historicalData": [
         {
-          "Close": 14.9399995803833,
-          "Volume": 7167749
-        },
-        {
           "Close": 15.029999732971191,
           "Volume": 13595938
         },
@@ -72343,6 +72339,10 @@
         {
           "Close": 11.529999732971191,
           "Volume": 7609224
+        },
+        {
+          "Close": 11.569999694824219,
+          "Volume": 5502193
         },
         {
           "Close": 11.350000381469727,
@@ -72458,10 +72458,6 @@
       "beta": -0.138,
       "historicalData": [
         {
-          "Close": 85.0,
-          "Volume": 406804
-        },
-        {
           "Close": 83.30000305175781,
           "Volume": 393363
         },
@@ -72532,6 +72528,10 @@
         {
           "Close": 74.5999984741211,
           "Volume": 155812
+        },
+        {
+          "Close": 75.1500015258789,
+          "Volume": 336359
         },
         {
           "Close": 74.19999694824219,
@@ -72647,10 +72647,6 @@
       "beta": -0.095,
       "historicalData": [
         {
-          "Close": 94.25,
-          "Volume": 12183095
-        },
-        {
           "Close": 100.0999984741211,
           "Volume": 19209557
         },
@@ -72721,6 +72717,10 @@
         {
           "Close": 150.0,
           "Volume": 36767879
+        },
+        {
+          "Close": 155.0,
+          "Volume": 11254327
         },
         {
           "Close": 169.0,
@@ -72836,10 +72836,6 @@
       "beta": 0.59,
       "historicalData": [
         {
-          "Close": 24.860000610351562,
-          "Volume": 32401229
-        },
-        {
           "Close": 24.1200008392334,
           "Volume": 32005989
         },
@@ -72910,6 +72906,10 @@
         {
           "Close": 18.700000762939453,
           "Volume": 8045447
+        },
+        {
+          "Close": 19.0,
+          "Volume": 6725544
         },
         {
           "Close": 18.719999313354492,
@@ -73025,10 +73025,6 @@
       "beta": 1.199,
       "historicalData": [
         {
-          "Close": 29.794620513916016,
-          "Volume": 857538
-        },
-        {
           "Close": 28.798391342163086,
           "Volume": 2241518
         },
@@ -73099,6 +73095,10 @@
         {
           "Close": 28.226484298706055,
           "Volume": 1039292
+        },
+        {
+          "Close": 30.440324783325195,
+          "Volume": 3032738
         },
         {
           "Close": 29.241161346435547,
@@ -73403,10 +73403,6 @@
       "beta": -0.124,
       "historicalData": [
         {
-          "Close": 11.239999771118164,
-          "Volume": 2421134
-        },
-        {
           "Close": 10.779999732971191,
           "Volume": 3930274
         },
@@ -73477,6 +73473,10 @@
         {
           "Close": 9.369999885559082,
           "Volume": 1992948
+        },
+        {
+          "Close": 9.699999809265137,
+          "Volume": 1959423
         },
         {
           "Close": 9.6899995803833,
@@ -73781,10 +73781,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 11.920000076293945,
-          "Volume": 959466
-        },
-        {
           "Close": 11.8100004196167,
           "Volume": 786708
         },
@@ -73855,6 +73851,10 @@
         {
           "Close": 10.75,
           "Volume": 1649858
+        },
+        {
+          "Close": 10.779999732971191,
+          "Volume": 1545576
         },
         {
           "Close": 10.670000076293945,
@@ -74159,10 +74159,6 @@
       "beta": 0.931,
       "historicalData": [
         {
-          "Close": 130.89999389648438,
-          "Volume": 425689
-        },
-        {
           "Close": 127.69999694824219,
           "Volume": 231546
         },
@@ -74233,6 +74229,10 @@
         {
           "Close": 114.5999984741211,
           "Volume": 887101
+        },
+        {
+          "Close": 120.0,
+          "Volume": 484872
         },
         {
           "Close": 123.0,
@@ -74348,10 +74348,6 @@
       "beta": 0.06,
       "historicalData": [
         {
-          "Close": 146.6999969482422,
-          "Volume": 139792
-        },
-        {
           "Close": 142.0,
           "Volume": 167672
         },
@@ -74422,6 +74418,10 @@
         {
           "Close": 124.0999984741211,
           "Volume": 111100
+        },
+        {
+          "Close": 127.19999694824219,
+          "Volume": 164374
         },
         {
           "Close": 123.19999694824219,
@@ -74525,7 +74525,7 @@
       "bookValue": 38.42,
       "dividendRate": 1.22,
       "dividendYield": 5.89,
-      "exDividendDate": 1786924800,
+      "exDividendDate": 1788998400,
       "payoutRatio": 0.3352,
       "targetHighPrice": null,
       "targetLowPrice": null,
@@ -74726,10 +74726,6 @@
       "beta": 0.357,
       "historicalData": [
         {
-          "Close": 42.65481185913086,
-          "Volume": 786340
-        },
-        {
           "Close": 41.474327087402344,
           "Volume": 645377
         },
@@ -74800,6 +74796,10 @@
         {
           "Close": 45.2400016784668,
           "Volume": 2014109
+        },
+        {
+          "Close": 46.900001525878906,
+          "Volume": 823909
         },
         {
           "Close": 46.13999938964844,
@@ -75293,10 +75293,6 @@
       "beta": 0.227,
       "historicalData": [
         {
-          "Close": 5650.0,
-          "Volume": 32567
-        },
-        {
           "Close": 5310.0,
           "Volume": 13214
         },
@@ -75367,6 +75363,10 @@
         {
           "Close": 4525.0,
           "Volume": 10606
+        },
+        {
+          "Close": 4550.0,
+          "Volume": 5390
         },
         {
           "Close": 4305.0,
@@ -75448,7 +75448,7 @@
       "description": "Pardus Girisim Sermayesi Yatirim Ortakligi Anonim Sirketi is a venture capital firm specializing in growth capital, restructuring and acquisitions. Pardus Girisim Sermayesi Yatirim Ortakligi Anonim Sirketi is headquartered in Istanbul, Turkey.",
       "pe": 161.20001,
       "forwardPE": null,
-      "priceToBook": 0.64770174,
+      "priceToBook": 0.69512725,
       "pegRatio": null,
       "priceToSales": 3.7522385,
       "enterpriseToRevenue": 3.519,
@@ -75467,7 +75467,7 @@
       "quickRatio": 5.722,
       "eps": 0.05,
       "forwardEps": null,
-      "bookValue": 12.444,
+      "bookValue": 11.595,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -75860,10 +75860,6 @@
       "beta": 0.081,
       "historicalData": [
         {
-          "Close": 22.920000076293945,
-          "Volume": 28849270
-        },
-        {
           "Close": 21.139999389648438,
           "Volume": 15815983
         },
@@ -75934,6 +75930,10 @@
         {
           "Close": 16.989999771118164,
           "Volume": 1554179
+        },
+        {
+          "Close": 17.1200008392334,
+          "Volume": 1178869
         },
         {
           "Close": 18.049999237060547,
@@ -76238,10 +76238,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 147.5,
-          "Volume": 1360311
-        },
-        {
           "Close": 143.3000030517578,
           "Volume": 372831
         },
@@ -76312,6 +76308,10 @@
         {
           "Close": 140.0,
           "Volume": 1404710
+        },
+        {
+          "Close": 154.0,
+          "Volume": 1191946
         },
         {
           "Close": 169.39999389648438,
@@ -76994,10 +76994,6 @@
       "beta": -0.065,
       "historicalData": [
         {
-          "Close": 183.60000610351562,
-          "Volume": 172984
-        },
-        {
           "Close": 184.0,
           "Volume": 181501
         },
@@ -77068,6 +77064,10 @@
         {
           "Close": 160.5,
           "Volume": 153436
+        },
+        {
+          "Close": 163.60000610351562,
+          "Volume": 95791
         },
         {
           "Close": 162.0,
@@ -77183,10 +77183,6 @@
       "beta": 0.455,
       "historicalData": [
         {
-          "Close": 6.480000019073486,
-          "Volume": 15086906
-        },
-        {
           "Close": 6.489999771118164,
           "Volume": 15259192
         },
@@ -77257,6 +77253,10 @@
         {
           "Close": 6.369999885559082,
           "Volume": 8445289
+        },
+        {
+          "Close": 6.559999942779541,
+          "Volume": 15446762
         },
         {
           "Close": 6.679999828338623,
@@ -77372,10 +77372,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 191.89999389648438,
-          "Volume": 684043
-        },
-        {
           "Close": 193.6999969482422,
           "Volume": 626912
         },
@@ -77446,6 +77442,10 @@
         {
           "Close": 200.10000610351562,
           "Volume": 971231
+        },
+        {
+          "Close": 200.39999389648438,
+          "Volume": 1316043
         },
         {
           "Close": 198.10000610351562,
@@ -77561,10 +77561,6 @@
       "beta": 0.542,
       "historicalData": [
         {
-          "Close": 2.5199999809265137,
-          "Volume": 3461332
-        },
-        {
           "Close": 2.549999952316284,
           "Volume": 5294855
         },
@@ -77635,6 +77631,10 @@
         {
           "Close": 2.190000057220459,
           "Volume": 1454930
+        },
+        {
+          "Close": 2.259999990463257,
+          "Volume": 1714651
         },
         {
           "Close": 2.1700000762939453,
@@ -77750,10 +77750,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 27.299999237060547,
-          "Volume": 267001
-        },
-        {
           "Close": 27.81999969482422,
           "Volume": 338350
         },
@@ -77824,6 +77820,10 @@
         {
           "Close": 25.260000228881836,
           "Volume": 735129
+        },
+        {
+          "Close": 24.1200008392334,
+          "Volume": 328644
         },
         {
           "Close": 23.899999618530273,
@@ -77939,10 +77939,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 3.5999999046325684,
-          "Volume": 34493741
-        },
-        {
           "Close": 3.5199999809265137,
           "Volume": 38442760
         },
@@ -78013,6 +78009,10 @@
         {
           "Close": 3.009999990463257,
           "Volume": 16894045
+        },
+        {
+          "Close": 3.049999952316284,
+          "Volume": 11629050
         },
         {
           "Close": 2.990000009536743,
@@ -78128,10 +78128,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 22.700000762939453,
-          "Volume": 1298712
-        },
-        {
           "Close": 22.600000381469727,
           "Volume": 2047561
         },
@@ -78202,6 +78198,10 @@
         {
           "Close": 21.81999969482422,
           "Volume": 2238556
+        },
+        {
+          "Close": 22.920000076293945,
+          "Volume": 3939996
         },
         {
           "Close": 23.18000030517578,
@@ -78506,10 +78506,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 20.65999984741211,
-          "Volume": 1627934
-        },
-        {
           "Close": 20.799999237060547,
           "Volume": 1725535
         },
@@ -78580,6 +78576,10 @@
         {
           "Close": 22.899999618530273,
           "Volume": 34565411
+        },
+        {
+          "Close": 22.200000762939453,
+          "Volume": 7003214
         },
         {
           "Close": 22.760000228881836,
@@ -78695,10 +78695,6 @@
       "beta": 0.029,
       "historicalData": [
         {
-          "Close": 20.540000915527344,
-          "Volume": 5938797
-        },
-        {
           "Close": 19.75,
           "Volume": 7577795
         },
@@ -78769,6 +78765,10 @@
         {
           "Close": 18.979999542236328,
           "Volume": 2795072
+        },
+        {
+          "Close": 19.510000228881836,
+          "Volume": 2123734
         },
         {
           "Close": 20.31999969482422,
@@ -78884,10 +78884,6 @@
       "beta": 0.596,
       "historicalData": [
         {
-          "Close": 6.880000114440918,
-          "Volume": 2098558
-        },
-        {
           "Close": 6.699999809265137,
           "Volume": 2400472
         },
@@ -78958,6 +78954,10 @@
         {
           "Close": 5.21999979019165,
           "Volume": 798482
+        },
+        {
+          "Close": 5.28000020980835,
+          "Volume": 624473
         },
         {
           "Close": 5.449999809265137,
@@ -79073,10 +79073,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 83.8499984741211,
-          "Volume": 663954
-        },
-        {
           "Close": 75.5,
           "Volume": 222887
         },
@@ -79147,6 +79143,10 @@
         {
           "Close": 65.5,
           "Volume": 186220
+        },
+        {
+          "Close": 66.0,
+          "Volume": 125087
         },
         {
           "Close": 71.8499984741211,
@@ -79262,10 +79262,6 @@
       "beta": 0.264,
       "historicalData": [
         {
-          "Close": 9.260000228881836,
-          "Volume": 8872084
-        },
-        {
           "Close": 9.1899995803833,
           "Volume": 5745456
         },
@@ -79336,6 +79332,10 @@
         {
           "Close": 8.960000038146973,
           "Volume": 5367432
+        },
+        {
+          "Close": 9.170000076293945,
+          "Volume": 8343781
         },
         {
           "Close": 9.239999771118164,
@@ -79451,10 +79451,6 @@
       "beta": 0.522,
       "historicalData": [
         {
-          "Close": 21.719999313354492,
-          "Volume": 457216
-        },
-        {
           "Close": 21.639999389648438,
           "Volume": 349217
         },
@@ -79525,6 +79521,10 @@
         {
           "Close": 18.65999984741211,
           "Volume": 284105
+        },
+        {
+          "Close": 18.729999542236328,
+          "Volume": 121937
         },
         {
           "Close": 18.520000457763672,
@@ -79640,10 +79640,6 @@
       "beta": 1.101,
       "historicalData": [
         {
-          "Close": 27.260000228881836,
-          "Volume": 4379339
-        },
-        {
           "Close": 27.020000457763672,
           "Volume": 3369533
         },
@@ -79714,6 +79710,10 @@
         {
           "Close": 23.440000534057617,
           "Volume": 3632710
+        },
+        {
+          "Close": 23.760000228881836,
+          "Volume": 3489969
         },
         {
           "Close": 23.920000076293945,
@@ -79829,10 +79829,6 @@
       "beta": 0.206,
       "historicalData": [
         {
-          "Close": 50.54999923706055,
-          "Volume": 711844
-        },
-        {
           "Close": 49.5,
           "Volume": 934222
         },
@@ -79903,6 +79899,10 @@
         {
           "Close": 45.099998474121094,
           "Volume": 1370598
+        },
+        {
+          "Close": 48.040000915527344,
+          "Volume": 1801425
         },
         {
           "Close": 47.5,
@@ -80018,10 +80018,6 @@
       "beta": 0.791,
       "historicalData": [
         {
-          "Close": 273.25,
-          "Volume": 981723
-        },
-        {
           "Close": 263.0,
           "Volume": 1710851
         },
@@ -80092,6 +80088,10 @@
         {
           "Close": 219.89999389648438,
           "Volume": 1038375
+        },
+        {
+          "Close": 225.8000030517578,
+          "Volume": 745237
         },
         {
           "Close": 226.0,
@@ -80396,10 +80396,6 @@
       "beta": 0.605,
       "historicalData": [
         {
-          "Close": 4.610000133514404,
-          "Volume": 2060001
-        },
-        {
           "Close": 4.590000152587891,
           "Volume": 3529306
         },
@@ -80470,6 +80466,10 @@
         {
           "Close": 4.019999980926514,
           "Volume": 3263944
+        },
+        {
+          "Close": 4.010000228881836,
+          "Volume": 2924618
         },
         {
           "Close": 3.799999952316284,
@@ -80774,10 +80774,6 @@
       "beta": 0.344,
       "historicalData": [
         {
-          "Close": 10.479999542236328,
-          "Volume": 1768476
-        },
-        {
           "Close": 11.100000381469727,
           "Volume": 1454619
         },
@@ -80848,6 +80844,10 @@
         {
           "Close": 11.949999809265137,
           "Volume": 4714452
+        },
+        {
+          "Close": 12.1899995803833,
+          "Volume": 2233777
         },
         {
           "Close": 12.0,
@@ -81341,10 +81341,6 @@
       "beta": 0.951,
       "historicalData": [
         {
-          "Close": 4.690000057220459,
-          "Volume": 1163745
-        },
-        {
           "Close": 4.639999866485596,
           "Volume": 1547530
         },
@@ -81415,6 +81411,10 @@
         {
           "Close": 4.699999809265137,
           "Volume": 1564633
+        },
+        {
+          "Close": 4.769999980926514,
+          "Volume": 1361113
         },
         {
           "Close": 4.670000076293945,
@@ -81530,10 +81530,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 2.630000114440918,
-          "Volume": 3571408
-        },
-        {
           "Close": 2.559999942779541,
           "Volume": 1728422
         },
@@ -81604,6 +81600,10 @@
         {
           "Close": 2.2300000190734863,
           "Volume": 3411677
+        },
+        {
+          "Close": 2.259999990463257,
+          "Volume": 1264439
         },
         {
           "Close": 2.259999990463257,
@@ -81719,10 +81719,6 @@
       "beta": 0.917,
       "historicalData": [
         {
-          "Close": 3.7300000190734863,
-          "Volume": 30866466
-        },
-        {
           "Close": 3.690000057220459,
           "Volume": 22421064
         },
@@ -81793,6 +81789,10 @@
         {
           "Close": 3.0999999046325684,
           "Volume": 5308615
+        },
+        {
+          "Close": 3.1600000858306885,
+          "Volume": 7881713
         },
         {
           "Close": 3.140000104904175,
@@ -82097,10 +82097,6 @@
       "beta": -0.629,
       "historicalData": [
         {
-          "Close": 14.630000114440918,
-          "Volume": 3421251
-        },
-        {
           "Close": 15.350000381469727,
           "Volume": 5324905
         },
@@ -82171,6 +82167,10 @@
         {
           "Close": 14.300000190734863,
           "Volume": 1473055
+        },
+        {
+          "Close": 14.180000305175781,
+          "Volume": 4075839
         },
         {
           "Close": 13.829999923706055,
@@ -82286,10 +82286,6 @@
       "beta": 1.419,
       "historicalData": [
         {
-          "Close": 28.100000381469727,
-          "Volume": 11045312
-        },
-        {
           "Close": 26.700000762939453,
           "Volume": 2079485
         },
@@ -82360,6 +82356,10 @@
         {
           "Close": 23.219999313354492,
           "Volume": 1000446
+        },
+        {
+          "Close": 23.6200008392334,
+          "Volume": 1058356
         },
         {
           "Close": 23.520000457763672,
@@ -82475,10 +82475,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 11.510000228881836,
-          "Volume": 35323870
-        },
-        {
           "Close": 11.229999542236328,
           "Volume": 39953822
         },
@@ -82549,6 +82545,10 @@
         {
           "Close": 11.100000381469727,
           "Volume": 36189841
+        },
+        {
+          "Close": 10.699999809265137,
+          "Volume": 23844468
         },
         {
           "Close": 10.6899995803833,
@@ -82664,10 +82664,6 @@
       "beta": -0.189,
       "historicalData": [
         {
-          "Close": 3.880000114440918,
-          "Volume": 14547008
-        },
-        {
           "Close": 3.75,
           "Volume": 16863447
         },
@@ -82738,6 +82734,10 @@
         {
           "Close": 3.059999942779541,
           "Volume": 41158433
+        },
+        {
+          "Close": 3.1600000858306885,
+          "Volume": 27076585
         },
         {
           "Close": 3.180000066757202,
@@ -82853,10 +82853,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 4.619999885559082,
-          "Volume": 133951771
-        },
-        {
           "Close": 4.409999847412109,
           "Volume": 35091503
         },
@@ -82927,6 +82923,10 @@
         {
           "Close": 3.509999990463257,
           "Volume": 10536840
+        },
+        {
+          "Close": 3.5299999713897705,
+          "Volume": 11907575
         },
         {
           "Close": 3.509999990463257,
@@ -83043,10 +83043,6 @@
       "historicalData": [
         {
           "Close": 21.0,
-          "Volume": 30616
-        },
-        {
-          "Close": 21.0,
           "Volume": 28044
         },
         {
@@ -83116,6 +83112,10 @@
         {
           "Close": 18.790000915527344,
           "Volume": 16518
+        },
+        {
+          "Close": 19.010000228881836,
+          "Volume": 32431
         },
         {
           "Close": 19.0,
@@ -83231,10 +83231,6 @@
       "beta": -0.143,
       "historicalData": [
         {
-          "Close": 8.899999618530273,
-          "Volume": 39753
-        },
-        {
           "Close": 8.699999809265137,
           "Volume": 105116
         },
@@ -83305,6 +83301,10 @@
         {
           "Close": 8.050000190734863,
           "Volume": 53103
+        },
+        {
+          "Close": 8.199999809265137,
+          "Volume": 75278
         },
         {
           "Close": 8.100000381469727,
@@ -83420,10 +83420,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 127.0,
-          "Volume": 27288
-        },
-        {
           "Close": 126.19999694824219,
           "Volume": 27755
         },
@@ -83494,6 +83490,10 @@
         {
           "Close": 118.5,
           "Volume": 21882
+        },
+        {
+          "Close": 119.0999984741211,
+          "Volume": 24074
         },
         {
           "Close": 118.80000305175781,
@@ -83575,7 +83575,7 @@
       "description": "Servet Gayrimenkul Yatirim Ortakligi A.S. is a real estate investment trust. Servet Gayrimenkul Yatirim Ortakligi A.S. is based in Instanbul, Turkey.",
       "pe": 3.36,
       "forwardPE": null,
-      "priceToBook": 0.29384327,
+      "priceToBook": 0.27222642,
       "pegRatio": null,
       "priceToSales": 1.9827487,
       "enterpriseToRevenue": 4.648,
@@ -83594,7 +83594,7 @@
       "quickRatio": 0.343,
       "eps": 0.75,
       "forwardEps": null,
-      "bookValue": 8.576,
+      "bookValue": 9.257,
       "dividendRate": 0.31,
       "dividendYield": 12.16,
       "exDividendDate": 1792972800,
@@ -83608,10 +83608,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": 0.365,
       "historicalData": [
-        {
-          "Close": 2.7799999713897705,
-          "Volume": 15970137
-        },
         {
           "Close": 2.75,
           "Volume": 13779993
@@ -83683,6 +83679,10 @@
         {
           "Close": 2.4100000858306885,
           "Volume": 10051898
+        },
+        {
+          "Close": 2.4100000858306885,
+          "Volume": 9004494
         },
         {
           "Close": 2.4000000953674316,
@@ -83798,10 +83798,6 @@
       "beta": -0.221,
       "historicalData": [
         {
-          "Close": 380.0,
-          "Volume": 5459
-        },
-        {
           "Close": 369.5,
           "Volume": 1947
         },
@@ -83872,6 +83868,10 @@
         {
           "Close": 302.75,
           "Volume": 3272
+        },
+        {
+          "Close": 300.0,
+          "Volume": 6961
         },
         {
           "Close": 295.25,
@@ -83987,10 +83987,6 @@
       "beta": -0.188,
       "historicalData": [
         {
-          "Close": 28.0,
-          "Volume": 717910
-        },
-        {
           "Close": 27.700000762939453,
           "Volume": 1436820
         },
@@ -84061,6 +84057,10 @@
         {
           "Close": 46.7400016784668,
           "Volume": 3936853
+        },
+        {
+          "Close": 49.20000076293945,
+          "Volume": 8002948
         },
         {
           "Close": 47.0,
@@ -84365,10 +84365,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 519.0,
-          "Volume": 109059
-        },
-        {
           "Close": 527.0,
           "Volume": 140625
         },
@@ -84439,6 +84435,10 @@
         {
           "Close": 466.25,
           "Volume": 111794
+        },
+        {
+          "Close": 463.0,
+          "Volume": 94290
         },
         {
           "Close": 449.5,
@@ -84554,10 +84554,6 @@
       "beta": -0.206,
       "historicalData": [
         {
-          "Close": 12.699999809265137,
-          "Volume": 17523525
-        },
-        {
           "Close": 12.5,
           "Volume": 13073815
         },
@@ -84628,6 +84624,10 @@
         {
           "Close": 12.390000343322754,
           "Volume": 19790223
+        },
+        {
+          "Close": 11.430000305175781,
+          "Volume": 30127503
         },
         {
           "Close": 10.9399995803833,
@@ -84743,10 +84743,6 @@
       "beta": 0.114,
       "historicalData": [
         {
-          "Close": 19.389999389648438,
-          "Volume": 909199
-        },
-        {
           "Close": 19.219999313354492,
           "Volume": 2229578
         },
@@ -84817,6 +84813,10 @@
         {
           "Close": 18.829999923706055,
           "Volume": 2827420
+        },
+        {
+          "Close": 17.860000610351562,
+          "Volume": 9749867
         },
         {
           "Close": 16.989999771118164,
@@ -84932,10 +84932,6 @@
       "beta": -0.233,
       "historicalData": [
         {
-          "Close": 135.1999969482422,
-          "Volume": 141599
-        },
-        {
           "Close": 134.39999389648438,
           "Volume": 98258
         },
@@ -85006,6 +85002,10 @@
         {
           "Close": 129.10000610351562,
           "Volume": 401777
+        },
+        {
+          "Close": 130.10000610351562,
+          "Volume": 165088
         },
         {
           "Close": 134.8000030517578,
@@ -85121,10 +85121,6 @@
       "beta": 0.069,
       "historicalData": [
         {
-          "Close": 16.100000381469727,
-          "Volume": 1028387
-        },
-        {
           "Close": 17.469999313354492,
           "Volume": 2121964
         },
@@ -85195,6 +85191,10 @@
         {
           "Close": 17.020000457763672,
           "Volume": 1822201
+        },
+        {
+          "Close": 16.579999923706055,
+          "Volume": 1473187
         },
         {
           "Close": 16.6200008392334,
@@ -85310,10 +85310,6 @@
       "beta": 0.632,
       "historicalData": [
         {
-          "Close": 9.020000457763672,
-          "Volume": 5385981
-        },
-        {
           "Close": 9.149999618530273,
           "Volume": 9175020
         },
@@ -85384,6 +85380,10 @@
         {
           "Close": 8.029999732971191,
           "Volume": 10842829
+        },
+        {
+          "Close": 7.920000076293945,
+          "Volume": 4771662
         },
         {
           "Close": 7.659999847412109,
@@ -85499,10 +85499,6 @@
       "beta": -0.471,
       "historicalData": [
         {
-          "Close": 148.6999969482422,
-          "Volume": 30423763
-        },
-        {
           "Close": 149.5,
           "Volume": 9856975
         },
@@ -85573,6 +85569,10 @@
         {
           "Close": 170.39999389648438,
           "Volume": 7221068
+        },
+        {
+          "Close": 180.0,
+          "Volume": 13892555
         },
         {
           "Close": 181.89999389648438,
@@ -85688,10 +85688,6 @@
       "beta": 0.374,
       "historicalData": [
         {
-          "Close": 16.219999313354492,
-          "Volume": 5139991
-        },
-        {
           "Close": 16.0,
           "Volume": 2340009
         },
@@ -85762,6 +85758,10 @@
         {
           "Close": 11.449999809265137,
           "Volume": 4325879
+        },
+        {
+          "Close": 10.3100004196167,
+          "Volume": 15005132
         },
         {
           "Close": 9.9399995803833,
@@ -86066,10 +86066,6 @@
       "beta": -0.006,
       "historicalData": [
         {
-          "Close": 140.5,
-          "Volume": 6179867
-        },
-        {
           "Close": 134.5,
           "Volume": 5452884
         },
@@ -86140,6 +86136,10 @@
         {
           "Close": 152.6999969482422,
           "Volume": 4415509
+        },
+        {
+          "Close": 154.5,
+          "Volume": 4394356
         },
         {
           "Close": 164.0,
@@ -86444,10 +86444,6 @@
       "beta": 0.441,
       "historicalData": [
         {
-          "Close": 91.0999984741211,
-          "Volume": 248229
-        },
-        {
           "Close": 90.4000015258789,
           "Volume": 372348
         },
@@ -86518,6 +86514,10 @@
         {
           "Close": 77.8499984741211,
           "Volume": 210813
+        },
+        {
+          "Close": 78.30000305175781,
+          "Volume": 136088
         },
         {
           "Close": 79.25,
@@ -86633,10 +86633,6 @@
       "beta": 0.066,
       "historicalData": [
         {
-          "Close": 448.25,
-          "Volume": 329156
-        },
-        {
           "Close": 435.25,
           "Volume": 309031
         },
@@ -86707,6 +86703,10 @@
         {
           "Close": 428.5,
           "Volume": 377207
+        },
+        {
+          "Close": 438.25,
+          "Volume": 426404
         },
         {
           "Close": 464.5,
@@ -86822,10 +86822,6 @@
       "beta": -0.689,
       "historicalData": [
         {
-          "Close": 42.08000183105469,
-          "Volume": 501901
-        },
-        {
           "Close": 41.220001220703125,
           "Volume": 505151
         },
@@ -86896,6 +86892,10 @@
         {
           "Close": 42.5,
           "Volume": 415517
+        },
+        {
+          "Close": 42.5,
+          "Volume": 912714
         },
         {
           "Close": 41.81999969482422,
@@ -87011,10 +87011,6 @@
       "beta": 0.418,
       "historicalData": [
         {
-          "Close": 99.1500015258789,
-          "Volume": 2700921
-        },
-        {
           "Close": 98.5,
           "Volume": 749471
         },
@@ -87085,6 +87081,10 @@
         {
           "Close": 93.0999984741211,
           "Volume": 604898
+        },
+        {
+          "Close": 93.75,
+          "Volume": 1074305
         },
         {
           "Close": 93.80000305175781,
@@ -87200,10 +87200,6 @@
       "beta": 0.215,
       "historicalData": [
         {
-          "Close": 1.159999966621399,
-          "Volume": 6195994
-        },
-        {
           "Close": 1.190000057220459,
           "Volume": 5850279
         },
@@ -87274,6 +87270,10 @@
         {
           "Close": 1.2000000476837158,
           "Volume": 6465812
+        },
+        {
+          "Close": 1.25,
+          "Volume": 2766950
         },
         {
           "Close": 1.2000000476837158,
@@ -87578,10 +87578,6 @@
       "beta": 0.674,
       "historicalData": [
         {
-          "Close": 11.800000190734863,
-          "Volume": 12689596
-        },
-        {
           "Close": 11.779999732971191,
           "Volume": 9172927
         },
@@ -87652,6 +87648,10 @@
         {
           "Close": 10.869999885559082,
           "Volume": 17848701
+        },
+        {
+          "Close": 10.9399995803833,
+          "Volume": 14530145
         },
         {
           "Close": 11.220000267028809,
@@ -87768,10 +87768,6 @@
       "historicalData": [
         {
           "Close": 0.9100000262260437,
-          "Volume": 110640432
-        },
-        {
-          "Close": 0.9100000262260437,
           "Volume": 162616225
         },
         {
@@ -87841,6 +87837,10 @@
         {
           "Close": 0.9300000071525574,
           "Volume": 264018984
+        },
+        {
+          "Close": 0.9300000071525574,
+          "Volume": 451185633
         },
         {
           "Close": 0.9200000166893005,
@@ -87956,10 +87956,6 @@
       "beta": 0.177,
       "historicalData": [
         {
-          "Close": 4.110000133514404,
-          "Volume": 4428771
-        },
-        {
           "Close": 4.050000190734863,
           "Volume": 4919037
         },
@@ -88030,6 +88026,10 @@
         {
           "Close": 3.680000066757202,
           "Volume": 5275728
+        },
+        {
+          "Close": 3.8499999046325684,
+          "Volume": 13959758
         },
         {
           "Close": 3.740000009536743,
@@ -88145,10 +88145,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 2.259999990463257,
-          "Volume": 68998575
-        },
-        {
           "Close": 2.240000009536743,
           "Volume": 36710457
         },
@@ -88219,6 +88215,10 @@
         {
           "Close": 1.9700000286102295,
           "Volume": 62130565
+        },
+        {
+          "Close": 1.9900000095367432,
+          "Volume": 41701338
         },
         {
           "Close": 1.9700000286102295,
@@ -88523,10 +88523,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 28.299999237060547,
-          "Volume": 521881
-        },
-        {
           "Close": 27.920000076293945,
           "Volume": 404623
         },
@@ -88597,6 +88593,10 @@
         {
           "Close": 25.780000686645508,
           "Volume": 349932
+        },
+        {
+          "Close": 25.959999084472656,
+          "Volume": 339532
         },
         {
           "Close": 26.0,
@@ -88712,10 +88712,6 @@
       "beta": 0.159,
       "historicalData": [
         {
-          "Close": 6.039999961853027,
-          "Volume": 73357838
-        },
-        {
           "Close": 6.0,
           "Volume": 72177330
         },
@@ -88786,6 +88782,10 @@
         {
           "Close": 6.269999980926514,
           "Volume": 35516951
+        },
+        {
+          "Close": 6.289999961853027,
+          "Volume": 42263207
         },
         {
           "Close": 6.300000190734863,
@@ -89279,10 +89279,6 @@
       "beta": 0.502,
       "historicalData": [
         {
-          "Close": 279.75,
-          "Volume": 279229
-        },
-        {
           "Close": 271.0,
           "Volume": 154049
         },
@@ -89353,6 +89349,10 @@
         {
           "Close": 266.0,
           "Volume": 137161
+        },
+        {
+          "Close": 261.0,
+          "Volume": 111996
         },
         {
           "Close": 265.0,
@@ -89434,7 +89434,7 @@
       "description": "Ulusoy Un Sanayi ve Ticaret A.S. produces and sells flour in Turkey. It operates through Production and Agricultural Commodity Trading and Licensed Warehousing segments. It provides baguette, sugar bread-toast bread, croissant, pastry, chapati, noodle, biscuit, all purpose flour, industrial wheat flour, pizza, and Arabic bread. The company also engages in warehousing activities for the storage of agricultural products; production, wholesale, retail purchase, sale, distribution, import, and export of food products; manufacture, purchase, sale, import, and export of warehousing activities for the storage of agricultural products; buying and selling of real estate; and production, distribution, and trading of pasta. It provides its products under the U Plus, U Pro, and U Chef brand names. The company also exports its products. Ulusoy Un Sanayi ve Ticaret A.S. was founded in 1969 and is headquartered in Samsun, Turkey.",
       "pe": 104.87501,
       "forwardPE": null,
-      "priceToBook": 0.45879588,
+      "priceToBook": 0.41722614,
       "pegRatio": null,
       "priceToSales": 0.09358985,
       "enterpriseToRevenue": 0.103,
@@ -89453,7 +89453,7 @@
       "quickRatio": 1.061,
       "eps": 0.08,
       "forwardEps": null,
-      "bookValue": 18.287,
+      "bookValue": 20.109,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1683504000,
@@ -89467,10 +89467,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": -0.441,
       "historicalData": [
-        {
-          "Close": 9.039999961853027,
-          "Volume": 10257620
-        },
         {
           "Close": 9.170000076293945,
           "Volume": 6693081
@@ -89542,6 +89538,10 @@
         {
           "Close": 8.300000190734863,
           "Volume": 8569340
+        },
+        {
+          "Close": 8.0600004196167,
+          "Volume": 15172935
         },
         {
           "Close": 7.869999885559082,
@@ -89846,10 +89846,6 @@
       "beta": 0.099,
       "historicalData": [
         {
-          "Close": 13.0,
-          "Volume": 1864551
-        },
-        {
           "Close": 13.09000015258789,
           "Volume": 2752721
         },
@@ -89920,6 +89916,10 @@
         {
           "Close": 11.25,
           "Volume": 893110
+        },
+        {
+          "Close": 11.119999885559082,
+          "Volume": 718074
         },
         {
           "Close": 10.9399995803833,
@@ -90001,7 +90001,7 @@
       "description": "Usak Seramik Sanayi A.S. engages in the production and sale of ceramics in Turkey, the United States, Germany, Italy, Canada, and internationally. It offers ceramic wall tile, floor tile, kerb, décor, and porcelain, as well as border products. The company was formerly known as Usak Elektro Porselen Sanayi A.S and changed its name to Usak Seramik Sanayi A.S. in 1986. The company was incorporated in 1972 and is headquartered in Banaz, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.46199703,
+      "priceToBook": 0.3047432,
       "pegRatio": null,
       "priceToSales": 0.61324537,
       "enterpriseToRevenue": 1.151,
@@ -90020,7 +90020,7 @@
       "quickRatio": 0.404,
       "eps": -0.01,
       "forwardEps": null,
-      "bookValue": 2.684,
+      "bookValue": 4.069,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -90034,10 +90034,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": -1.11,
       "historicalData": [
-        {
-          "Close": 1.4800000190734863,
-          "Volume": 35282887
-        },
         {
           "Close": 1.440000057220459,
           "Volume": 71851069
@@ -90109,6 +90105,10 @@
         {
           "Close": 1.2999999523162842,
           "Volume": 38426921
+        },
+        {
+          "Close": 1.309999942779541,
+          "Volume": 26486597
         },
         {
           "Close": 1.2899999618530273,
@@ -90190,7 +90190,7 @@
       "description": "Vakif Finansal Kiralama A.S. engages in the provision of financial leasing services in Turkey. It also offers financial intermediation to SMEs and investors. The company was founded in 1988 and is headquartered in Istanbul, Turkey. Vakif Finansal Kiralama A.S. is a subsidiary of Türkiye Vakiflar Bankasi Türk Anonim Ortakligi.",
       "pe": 3.7741933,
       "forwardPE": null,
-      "priceToBook": 0.7442748,
+      "priceToBook": 0.89312977,
       "pegRatio": null,
       "priceToSales": 4.2208705,
       "enterpriseToRevenue": 17.752,
@@ -90209,7 +90209,7 @@
       "quickRatio": 15.302,
       "eps": 0.31,
       "forwardEps": null,
-      "bookValue": 1.572,
+      "bookValue": 1.31,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 810864000,
@@ -90413,10 +90413,6 @@
       "beta": 0.174,
       "historicalData": [
         {
-          "Close": 72.5999984741211,
-          "Volume": 296069
-        },
-        {
           "Close": 73.0,
           "Volume": 142863
         },
@@ -90487,6 +90483,10 @@
         {
           "Close": 64.5999984741211,
           "Volume": 113335
+        },
+        {
+          "Close": 66.4000015258789,
+          "Volume": 138261
         },
         {
           "Close": 65.55000305175781,
@@ -90791,10 +90791,6 @@
       "beta": 1.183,
       "historicalData": [
         {
-          "Close": 28.979999542236328,
-          "Volume": 1165258
-        },
-        {
           "Close": 28.799999237060547,
           "Volume": 2621230
         },
@@ -90865,6 +90861,10 @@
         {
           "Close": 29.68000030517578,
           "Volume": 1222120
+        },
+        {
+          "Close": 30.600000381469727,
+          "Volume": 1810210
         },
         {
           "Close": 30.799999237060547,
@@ -90980,10 +90980,6 @@
       "beta": 0.083,
       "historicalData": [
         {
-          "Close": 39.900001525878906,
-          "Volume": 374117
-        },
-        {
           "Close": 38.79999923706055,
           "Volume": 459430
         },
@@ -91054,6 +91050,10 @@
         {
           "Close": 35.52000045776367,
           "Volume": 350074
+        },
+        {
+          "Close": 36.0,
+          "Volume": 233061
         },
         {
           "Close": 35.84000015258789,
@@ -91169,10 +91169,6 @@
       "beta": -0.297,
       "historicalData": [
         {
-          "Close": 548.5,
-          "Volume": 31930
-        },
-        {
           "Close": 513.0,
           "Volume": 315545
         },
@@ -91245,6 +91241,10 @@
           "Volume": 49273
         },
         {
+          "Close": 515.5,
+          "Volume": 66001
+        },
+        {
           "Close": 524.0,
           "Volume": 34281
         },
@@ -91291,195 +91291,6 @@
       ],
       "heldPercentInsiders": 0.78873,
       "heldPercentInstitutions": 0.0004
-    },
-    {
-      "code": "VESBE",
-      "symbol": "VESBE.IS",
-      "name": "Vestel Beyaz Esya Sanayi ve Ticaret A.S.",
-      "shortName": "VESTEL BEYAZ ESYA",
-      "price": NaN,
-      "change": NaN,
-      "changeRate": NaN,
-      "previousClose": 5.58,
-      "open": 5.6,
-      "dayLow": 5.43,
-      "dayHigh": 5.66,
-      "fiftyTwoWeekLow": 5.43,
-      "fiftyTwoWeekHigh": 14.5,
-      "fiftyDayAverage": 6.17,
-      "twoHundredDayAverage": 7.38,
-      "volume": "12,175,382",
-      "averageVolume": 10838261,
-      "averageVolume10days": 6271386,
-      "marketCap": 8720000000,
-      "enterpriseValue": 35255586816,
-      "sharesOutstanding": 1600000000,
-      "sector": "Consumer Cyclical",
-      "industry": "Furnishings, Fixtures & Appliances",
-      "website": "https://www.vestel.com.tr",
-      "address": "BUeyUekdere Caddesi No: 199",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 456 22 00",
-      "description": "Vestel Beyaz Esya Sanayi ve Ticaret A.S. engages in the production and sale of white goods in Turkey. The company produces and sells refrigerators, room air conditioning units, washing machines, cookers, dryers, dishwashers, and water heaters. It also exports its products. The company was incorporated in 1997 and is headquartered in Istanbul, Turkey. Vestel Beyaz Esya Sanayi ve Ticaret A.S. operates as a subsidiary of Vestel Elektronik Sanayi ve Ticaret A.S.",
-      "pe": null,
-      "forwardPE": 1.2004405,
-      "priceToBook": 0.21118301,
-      "pegRatio": 2.6,
-      "priceToSales": 0.17189343,
-      "enterpriseToRevenue": 0.695,
-      "enterpriseToEbitda": -43.69,
-      "profitMargins": -0.094799995,
-      "grossMargins": 0.026199998,
-      "operatingMargins": -0.12241,
-      "returnOnAssets": -0.027490001,
-      "returnOnEquity": -0.12513,
-      "totalRevenue": 50729103360,
-      "revenuePerShare": 31.706,
-      "totalCash": 863772992,
-      "totalDebt": 27399358464,
-      "debtToEquity": 66.356,
-      "currentRatio": 0.781,
-      "quickRatio": 0.296,
-      "eps": -3.0,
-      "forwardEps": 4.54,
-      "bookValue": 25.807,
-      "dividendRate": 0.04,
-      "dividendYield": 0.72,
-      "exDividendDate": 1753315200,
-      "payoutRatio": 4.2702,
-      "targetHighPrice": 11.5,
-      "targetLowPrice": 8.0,
-      "targetMeanPrice": 9.75,
-      "targetMedianPrice": 9.75,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 2,
-      "beta": 0.345,
-      "historicalData": [
-        {
-          "Close": 6.260000228881836,
-          "Volume": 9172197
-        },
-        {
-          "Close": 6.199999809265137,
-          "Volume": 13608759
-        },
-        {
-          "Close": 6.159999847412109,
-          "Volume": 7616404
-        },
-        {
-          "Close": 6.039999961853027,
-          "Volume": 5512980
-        },
-        {
-          "Close": 6.039999961853027,
-          "Volume": 23855336
-        },
-        {
-          "Close": 6.639999866485596,
-          "Volume": 26019668
-        },
-        {
-          "Close": 6.349999904632568,
-          "Volume": 27102753
-        },
-        {
-          "Close": 6.329999923706055,
-          "Volume": 14125931
-        },
-        {
-          "Close": 6.340000152587891,
-          "Volume": 6661483
-        },
-        {
-          "Close": 6.190000057220459,
-          "Volume": 5407057
-        },
-        {
-          "Close": 6.21999979019165,
-          "Volume": 8474713
-        },
-        {
-          "Close": 6.119999885559082,
-          "Volume": 4108183
-        },
-        {
-          "Close": 6.130000114440918,
-          "Volume": 7349483
-        },
-        {
-          "Close": 6.099999904632568,
-          "Volume": 4987924
-        },
-        {
-          "Close": 6.119999885559082,
-          "Volume": 16122246
-        },
-        {
-          "Close": 6.010000228881836,
-          "Volume": 6345368
-        },
-        {
-          "Close": 6.03000020980835,
-          "Volume": 30294025
-        },
-        {
-          "Close": 5.900000095367432,
-          "Volume": 12687041
-        },
-        {
-          "Close": 5.789999961853027,
-          "Volume": 7104289
-        },
-        {
-          "Close": 5.730000019073486,
-          "Volume": 3901492
-        },
-        {
-          "Close": 5.809999942779541,
-          "Volume": 5375735
-        },
-        {
-          "Close": 5.840000152587891,
-          "Volume": 7593283
-        },
-        {
-          "Close": 5.75,
-          "Volume": 4572832
-        },
-        {
-          "Close": 5.739999771118164,
-          "Volume": 8865769
-        },
-        {
-          "Close": 5.690000057220459,
-          "Volume": 5462325
-        },
-        {
-          "Close": 5.579999923706055,
-          "Volume": 8246360
-        },
-        {
-          "Close": 5.590000152587891,
-          "Volume": 4828082
-        },
-        {
-          "Close": 5.619999885559082,
-          "Volume": 9407729
-        },
-        {
-          "Close": 5.579999923706055,
-          "Volume": 4460260
-        },
-        {
-          "Close": NaN,
-          "Volume": 12175382
-        }
-      ],
-      "heldPercentInsiders": 0.77331,
-      "heldPercentInstitutions": 0.00971
     },
     {
       "code": "VKFYO",
@@ -91546,10 +91357,6 @@
       "numberOfAnalystOpinions": 0,
       "beta": null,
       "historicalData": [
-        {
-          "Close": 25.959999084472656,
-          "Volume": 103138
-        },
         {
           "Close": 28.540000915527344,
           "Volume": 626084
@@ -91621,6 +91428,10 @@
         {
           "Close": 23.81999969482422,
           "Volume": 163801
+        },
+        {
+          "Close": 23.899999618530273,
+          "Volume": 80836
         },
         {
           "Close": 24.0,
@@ -91736,10 +91547,6 @@
       "beta": -0.332,
       "historicalData": [
         {
-          "Close": 24.6200008392334,
-          "Volume": 288444
-        },
-        {
           "Close": 24.040000915527344,
           "Volume": 275374
         },
@@ -91810,6 +91617,10 @@
         {
           "Close": 22.780000686645508,
           "Volume": 405238
+        },
+        {
+          "Close": 23.1200008392334,
+          "Volume": 491007
         },
         {
           "Close": 22.719999313354492,
@@ -92114,10 +91925,6 @@
       "beta": -0.357,
       "historicalData": [
         {
-          "Close": 11.829999923706055,
-          "Volume": 2156104
-        },
-        {
           "Close": 11.720000267028809,
           "Volume": 1497388
         },
@@ -92188,6 +91995,10 @@
         {
           "Close": 10.25,
           "Volume": 1147050
+        },
+        {
+          "Close": 10.380000114440918,
+          "Volume": 4556487
         },
         {
           "Close": 10.15999984741211,
@@ -92458,7 +92269,7 @@
       "description": "Yesil Yatirim Holding Anonim Sirketi provides technical planning, programming, budgeting, and project planning, and financial organization in Turkey. It also offers real estate valuation services; and consultancy in various areas, such as firm valuation, investment and research on commercial, and industrial and financial issues. The company was incorporated in 2003 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.5555556,
+      "priceToBook": 0.5729418,
       "pegRatio": null,
       "priceToSales": -298.359,
       "enterpriseToRevenue": -298.263,
@@ -92477,7 +92288,7 @@
       "quickRatio": 71.887,
       "eps": -0.03,
       "forwardEps": null,
-      "bookValue": 2.142,
+      "bookValue": 2.077,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -93059,10 +92870,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 3.299999952316284,
-          "Volume": 7365265
-        },
-        {
           "Close": 3.2699999809265137,
           "Volume": 5619463
         },
@@ -93133,6 +92940,10 @@
         {
           "Close": 2.9000000953674316,
           "Volume": 4545529
+        },
+        {
+          "Close": 2.890000104904175,
+          "Volume": 6705000
         },
         {
           "Close": 2.7699999809265137,
@@ -93248,10 +93059,6 @@
       "beta": -0.441,
       "historicalData": [
         {
-          "Close": 9.279999732971191,
-          "Volume": 1818495
-        },
-        {
           "Close": 9.09000015258789,
           "Volume": 3893688
         },
@@ -93322,6 +93129,10 @@
         {
           "Close": 8.6899995803833,
           "Volume": 2524271
+        },
+        {
+          "Close": 8.800000190734863,
+          "Volume": 3041188
         },
         {
           "Close": 8.649999618530273,
@@ -93592,7 +93403,7 @@
       "description": "Zedur Enerji Elektrik Üretim Anonim Sirketi primarily engages in the production, distribution, and sale of electricity in Turkey. The company generates electricity through hydroelectric and solar power plants. It is also involved in the provision of construction and contracting services for superstructure and infrastructure projects, including mass housing, office buildings, commercial centers, shopping malls, factories, luxury hotels, and holiday resorts, as well as infrastructure, canal, sewer, and tunnel construction projects; and the supply and sale of construction raw materials, intermediate materials, and supplies. The company was formerly known as Utopya Turizm Insaat Isletmecilik Ticaret A.S. and changed its name to Zedur Enerji Elektrik Üretim Anonim Sirketi in September 2022. Zedur Enerji Elektrik Üretim Anonim Sirketi was founded in 1980 and is headquartered in Ankara, Turkey.",
       "pe": 17.886364,
       "forwardPE": null,
-      "priceToBook": 0.60951054,
+      "priceToBook": 0.5619823,
       "pegRatio": null,
       "priceToSales": 10.883967,
       "enterpriseToRevenue": 14.558,
@@ -93611,7 +93422,7 @@
       "quickRatio": 0.225,
       "eps": 0.44,
       "forwardEps": null,
-      "bookValue": 12.912,
+      "bookValue": 14.004,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -93883,10 +93694,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 2.7200000286102295,
-          "Volume": 30190642
-        },
-        {
           "Close": 2.690000057220459,
           "Volume": 30570435
         },
@@ -93957,6 +93764,10 @@
         {
           "Close": 2.359999895095825,
           "Volume": 23600443
+        },
+        {
+          "Close": 2.3299999237060547,
+          "Volume": 30671876
         },
         {
           "Close": 2.309999942779541,
@@ -94072,10 +93883,6 @@
       "beta": null,
       "historicalData": [
         {
-          "Close": 17.760000228881836,
-          "Volume": 5748717
-        },
-        {
           "Close": 17.81999969482422,
           "Volume": 3162962
         },
@@ -94146,6 +93953,10 @@
         {
           "Close": 18.100000381469727,
           "Volume": 537515
+        },
+        {
+          "Close": 18.700000762939453,
+          "Volume": 945615
         },
         {
           "Close": 18.25,
