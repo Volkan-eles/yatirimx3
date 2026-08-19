@@ -1,5 +1,32 @@
 [
   {
+    "code": "SDTTR",
+    "company": "SDTTR Sdt Uzay ve Savunma Teknolojileri A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1000",
+    "date": "19.08.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 19.08.2026"
+  },
+  {
+    "code": "ORGE",
+    "company": "ORGE Orge Enerji Elektrik Taahhüt A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%400",
+    "date": "19.08.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 19.08.2026"
+  },
+  {
+    "code": "DNISI",
+    "company": "DNISI Dinamik Isı Yalıtım Malzemeleri San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%334",
+    "date": "19.08.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 19.08.2026"
+  },
+  {
     "code": "AKFIS",
     "company": "AKFIS Akfen İnşaat Turizm ve Ticaret A.Ş.",
     "type": "Bedelsiz",
@@ -9,31 +36,13 @@
     "description": "Bölünme Tarihi: 18.08.2026 | Tutar: 3.182.920.390 TL"
   },
   {
-    "code": "SDTTR",
-    "company": "SDTTR Sdt Uzay ve Savunma Teknolojileri A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1000",
-    "date": "19.08.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 19.08.2026"
-  },
-  {
-    "code": "ORGE",
-    "company": "ORGE Orge Enerji Elektrik Taahhüt A.Ş.",
+    "code": "EGEGY",
+    "company": "EGEGY Egeyapı Avrupa Gayrimenkul Yatırım Ortaklığı A.Ş.",
     "type": "Bedelsiz",
     "rate": "%400",
-    "date": "13.08.2026",
+    "date": "18.08.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "DNISI",
-    "company": "DNISI Dinamik Isı Yalıtım Malzemeleri San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%334",
-    "date": "05.08.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "KORDS",
@@ -369,15 +378,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "KRTEK",
-    "company": "KRTEK Karsu Tekstil San. ve Tic. A.Ş.",
-    "type": "Bedelli",
-    "rate": "%300",
-    "date": "03.08.2026 Bitiş : 17.08.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 03.08.2026 Bitiş : 17.08.2026 | Tutar: 105.301.495 TL"
-  },
-  {
     "code": "CVKMD",
     "company": "CVKMD Cvk Maden İşletmeleri San. ve Tic. A.Ş.",
     "type": "Bedelli",
@@ -385,6 +385,15 @@
     "date": "05.08.2026 Bitiş : 19.08.2026",
     "status": "Onaylandı",
     "description": "Bölünme Tarihi: 05.08.2026 Bitiş : 19.08.2026 | Tutar: 1 TL"
+  },
+  {
+    "code": "KRTEK",
+    "company": "KRTEK Karsu Tekstil San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%300",
+    "date": "03.08.2026 Bitiş : 17.08.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 03.08.2026 Bitiş : 17.08.2026 | Tutar: 105.301.495 TL"
   },
   {
     "code": "BIGTK",
