@@ -1,5 +1,23 @@
 [
   {
+    "code": "LIDFA",
+    "company": "LIDFA Lider Faktoring A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%51,54",
+    "date": "20.08.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 561.198.000 TL"
+  },
+  {
+    "code": "BLCYT",
+    "company": "BLCYT Bilici Yatırım San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%900",
+    "date": "20.08.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
     "code": "SDTTR",
     "company": "SDTTR Sdt Uzay ve Savunma Teknolojileri A.Ş.",
     "type": "Bedelsiz",
@@ -198,15 +216,6 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 418.957.992 TL"
   },
   {
-    "code": "BLCYT",
-    "company": "BLCYT Bilici Yatırım San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%900",
-    "date": "02.06.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
     "code": "KONKA",
     "company": "KONKA Konya Kağıt San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -223,15 +232,6 @@
     "date": "25.05.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 620.250.000 TL"
-  },
-  {
-    "code": "LIDFA",
-    "company": "LIDFA Lider Faktoring A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%51,54",
-    "date": "22.05.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 561.198.000 TL"
   },
   {
     "code": "MEGMT",
