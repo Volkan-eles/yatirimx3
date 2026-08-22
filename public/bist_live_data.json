@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-22T19:29:04.799620",
+  "last_update": "2026-08-22T19:51:39.079750",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -793,7 +793,7 @@
       "description": "Türkiye Vakiflar Bankasi Türk Anonim Ortakligi, together with its subsidiaries, provides corporate, commercial, SME, agricultural, and modern banking products and services in Turkey and internationally. It offers time, demand, and term deposits accounts; mortgage, car, personal, and private banking yacht loans; housing, comprehensive, motor, compulsory traffic, travel and complementary health, and compulsory earthquake insurance; and individual pension contract, private pension agreement, and life insurance products. The company also provides investment products, such as investment funds, Government Bonds and treasury bills, eurobond, bank bonds, gold trading, VakifBank Gold, stocks, VIOP, safe deposit boxes, options, dual currency deposit, contingent option, currency swap, and forward agreements. In addition, it offers export / import transactions, foreign currency transfer, Eximbank Loans, and foreign trade solutions; money transfer services; and factoring and leasing services, as well as digital banking services. The company was incorporated in 1954 and is headquartered in Istanbul, Turkey.",
       "pe": 3.8345866,
       "forwardPE": 5.4937162,
-      "priceToBook": 0.89335245,
+      "priceToBook": 0.8355177,
       "pegRatio": 0.45,
       "priceToSales": 1.1436352,
       "enterpriseToRevenue": 4.223,
@@ -812,7 +812,7 @@
       "quickRatio": null,
       "eps": 7.98,
       "forwardEps": 5.57,
-      "bookValue": 34.253,
+      "bookValue": 36.624,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1534377600,
@@ -4557,7 +4557,7 @@
       "fiftyTwoWeekHigh": 135.4,
       "fiftyDayAverage": 82.53,
       "twoHundredDayAverage": 96.62,
-      "volume": "22,375,825",
+      "volume": "22,375,728",
       "averageVolume": 24069448,
       "averageVolume10days": 20758452,
       "marketCap": 281429803008,
@@ -4724,7 +4724,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 22375825
+          "Volume": 22375728
         }
       ],
       "heldPercentInsiders": 0.79687,
@@ -5502,7 +5502,7 @@
       "fiftyTwoWeekHigh": 127.9,
       "fiftyDayAverage": 106.76,
       "twoHundredDayAverage": 104.38,
-      "volume": "4,493,913",
+      "volume": "4,491,919",
       "averageVolume": 2847217,
       "averageVolume10days": 4412186,
       "marketCap": 130390007808,
@@ -5669,7 +5669,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 4493913
+          "Volume": 4491919
         }
       ],
       "heldPercentInsiders": 0.8,
@@ -5875,7 +5875,7 @@
       "previousClose": 462.75,
       "open": 468.5,
       "dayLow": 463.75,
-      "dayHigh": 482.0,
+      "dayHigh": 482.25,
       "fiftyTwoWeekLow": 254.0,
       "fiftyTwoWeekHigh": 625.5,
       "fiftyDayAverage": 445.49,
@@ -6113,8 +6113,8 @@
       "targetLowPrice": 4.3,
       "targetMeanPrice": 4.3,
       "targetMedianPrice": 4.3,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 3.0,
+      "recommendationKey": "hold",
       "numberOfAnalystOpinions": 1,
       "beta": -0.169,
       "historicalData": [
@@ -6447,7 +6447,7 @@
       "fiftyTwoWeekHigh": 194.9,
       "fiftyDayAverage": 137.59,
       "twoHundredDayAverage": 148.45,
-      "volume": "626,193",
+      "volume": "626,054",
       "averageVolume": 696213,
       "averageVolume10days": 689102,
       "marketCap": 13052999680,
@@ -6614,7 +6614,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 626193
+          "Volume": 626054
         }
       ],
       "heldPercentInsiders": 0.354,
@@ -6652,7 +6652,7 @@
       "description": "Netas Telekomünikasyon A.S. provides end-to-end information and communication technology infrastructures to service providers and institutions in Turkey and internationally. It operates through four segments: Telecom, System Integration, Technology, and BDH. The company offers internet of things, service management, event management and ticket sales, energy management, water meter and meter reading management, load performance test, device farm, BDD based test automation, and high security media platform. It also provides various solutions, including cyber security, data center, localized, mobile broadband, corporate, public, international markets, telecommunication, and strategic communication solutions; and managed services, cyber security operation center, Netas network operation center, and informatics support services. The company was founded in 1967 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": -21.345533,
+      "priceToBook": -18.069984,
       "pegRatio": null,
       "priceToSales": 0.48219645,
       "enterpriseToRevenue": 0.513,
@@ -6671,7 +6671,7 @@
       "quickRatio": 0.687,
       "eps": -1.89,
       "forwardEps": null,
-      "bookValue": -4.645,
+      "bookValue": -5.487,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1371081600,
@@ -7770,7 +7770,7 @@
       "fiftyTwoWeekHigh": 50.75,
       "fiftyDayAverage": 39.64,
       "twoHundredDayAverage": 42.14,
-      "volume": "3,749,276",
+      "volume": "3,742,565",
       "averageVolume": 4753956,
       "averageVolume10days": 3328265,
       "marketCap": 29855332352,
@@ -7937,7 +7937,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 3749276
+          "Volume": 3742565
         }
       ],
       "heldPercentInsiders": 0.27186,
@@ -7975,7 +7975,7 @@
       "description": "Karsan Otomotiv Sanayii ve Ticaret A.S. engages in the production and sale of automotives and related vehicles, and spare parts in Turkey and internationally. It operates through Karsan Branded Products and Spare Parts and other branded sales segments. The company provides passenger cars, trucks, minibuses, buses, hydrogen buses, and electric and diesel buses. It also offers after-sales, marketing, and financial leasing services. The company sells its products under the JEST, ATAK, and STAR brand names. Karsan Otomotiv Sanayii ve Ticaret A.S. was incorporated in 1966 and is headquartered in Bursa, Turkey. The company operates as a subsidiary of Kiraca Holding AS.",
       "pe": 25.777777,
       "forwardPE": null,
-      "priceToBook": 1.1546597,
+      "priceToBook": 1.0443394,
       "pegRatio": 0.37,
       "priceToSales": 0.40131328,
       "enterpriseToRevenue": 0.831,
@@ -7994,7 +7994,7 @@
       "quickRatio": 0.659,
       "eps": 0.36,
       "forwardEps": null,
-      "bookValue": 8.037,
+      "bookValue": 8.886,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -8731,7 +8731,7 @@
       "description": "Aksa Akrilik Kimya Sanayii A.S., together with its subsidiaries, manufactures and sells textiles, chemicals, and other industrial products in Turkey and internationally. It operates through Fibers, Energy, Advanced Material, and Other segments. The company offers acrylic fibers, textile fibers, outdoor fibers, industrial fibers, acrylic filament, modacrylic fibers, recycled fiber, aksafil yarn, acrybella, and polyethylene fiber. It also provides textile and technical textile raw materials for carpets, upholstery, sweaters, socks, velvet, rugs, blankets, tents, and industrial filters; carbon fiber and carbon fiber-reinforced composite solutions; artificial, synthetic, natural fibers, carbon fibers, filaments, yarns, and polymers. In addition, the company is involved in production, processing, storage, import, export, marketing, and trading of products, raw materials, auxiliary materials, and intermediates; production, supply, and trading of machinery, equipment, facilities, and spare parts; establishment, operation, and leasing of power generation facilities; production and sale of electricity, as well as production, supply, trading, import, export, and research and development activities related to aircraft, helicopters, display aircraft, gliders, motorized and non-motorized parachutes, and other equipment for the aviation and defense industries. Aksa Akrilik Kimya Sanayii A.S. was founded in 1968 and is headquartered in Yalova, Turkey.",
       "pe": 9.867256,
       "forwardPE": 17.98387,
-      "priceToBook": 1.3237563,
+      "priceToBook": 1.2872316,
       "pegRatio": 0.32,
       "priceToSales": 1.1382278,
       "enterpriseToRevenue": 1.772,
@@ -8750,7 +8750,7 @@
       "quickRatio": 0.501,
       "eps": 1.13,
       "forwardEps": 0.62,
-      "bookValue": 8.423,
+      "bookValue": 8.662,
       "dividendRate": 0.58,
       "dividendYield": 5.2,
       "exDividendDate": 1775174400,
@@ -11923,7 +11923,7 @@
       "previousClose": 236.1,
       "open": 236.2,
       "dayLow": 236.0,
-      "dayHigh": 246.5,
+      "dayHigh": 249.1,
       "fiftyTwoWeekLow": 152.9,
       "fiftyTwoWeekHigh": 264.0,
       "fiftyDayAverage": 243.61,
@@ -15891,7 +15891,7 @@
       "changeRate": NaN,
       "previousClose": 10.38,
       "open": 10.38,
-      "dayLow": 10.27,
+      "dayLow": 10.26,
       "dayHigh": 10.47,
       "fiftyTwoWeekLow": 10.0,
       "fiftyTwoWeekHigh": 18.48,
@@ -16647,13 +16647,13 @@
       "changeRate": NaN,
       "previousClose": 6.56,
       "open": 6.46,
-      "dayLow": 6.35,
+      "dayLow": 6.36,
       "dayHigh": 6.66,
       "fiftyTwoWeekLow": 5.49,
       "fiftyTwoWeekHigh": 12.05,
       "fiftyDayAverage": 7.49,
       "twoHundredDayAverage": 7.54,
-      "volume": "738,438",
+      "volume": "736,532",
       "averageVolume": 954801,
       "averageVolume10days": 683347,
       "marketCap": 390600000,
@@ -16820,7 +16820,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 738438
+          "Volume": 736532
         }
       ],
       "heldPercentInsiders": 0.06983,
@@ -17404,7 +17404,7 @@
       "previousClose": 12.46,
       "open": 12.46,
       "dayLow": 12.3,
-      "dayHigh": 12.52,
+      "dayHigh": 12.53,
       "fiftyTwoWeekLow": 12.3,
       "fiftyTwoWeekHigh": 22.76,
       "fiftyDayAverage": 15.31,
@@ -19105,7 +19105,7 @@
       "previousClose": 43.78,
       "open": 43.78,
       "dayLow": 43.68,
-      "dayHigh": 46.88,
+      "dayHigh": 46.98,
       "fiftyTwoWeekLow": 31.3,
       "fiftyTwoWeekHigh": 53.75,
       "fiftyDayAverage": 46.5,
@@ -19672,7 +19672,7 @@
       "previousClose": 13.27,
       "open": 13.29,
       "dayLow": 13.25,
-      "dayHigh": 14.49,
+      "dayHigh": 14.5,
       "fiftyTwoWeekLow": 12.48,
       "fiftyTwoWeekHigh": 23.1,
       "fiftyDayAverage": 14.76,
@@ -20427,7 +20427,7 @@
       "changeRate": NaN,
       "previousClose": 11.06,
       "open": 11.08,
-      "dayLow": 10.73,
+      "dayLow": 10.71,
       "dayHigh": 11.4,
       "fiftyTwoWeekLow": 7.98,
       "fiftyTwoWeekHigh": 14.01,
@@ -20617,7 +20617,7 @@
       "previousClose": 24.7,
       "open": 24.7,
       "dayLow": 24.4,
-      "dayHigh": 25.4,
+      "dayHigh": 25.42,
       "fiftyTwoWeekLow": 22.9,
       "fiftyTwoWeekHigh": 36.7,
       "fiftyDayAverage": 25.24,
@@ -21000,7 +21000,7 @@
       "fiftyTwoWeekHigh": 33.44,
       "fiftyDayAverage": 13.86,
       "twoHundredDayAverage": 18.2,
-      "volume": "1,281,168",
+      "volume": "1,274,688",
       "averageVolume": 1621312,
       "averageVolume10days": 1360048,
       "marketCap": 1214000000,
@@ -21167,7 +21167,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 1281168
+          "Volume": 1274688
         }
       ],
       "heldPercentInsiders": 0.36411,
@@ -21183,7 +21183,7 @@
       "changeRate": NaN,
       "previousClose": 45.68,
       "open": 45.9,
-      "dayLow": 44.76,
+      "dayLow": 44.74,
       "dayHigh": 45.96,
       "fiftyTwoWeekLow": 30.18,
       "fiftyTwoWeekHigh": 66.0,
@@ -21750,7 +21750,7 @@
       "changeRate": NaN,
       "previousClose": 5.04,
       "open": 5.25,
-      "dayLow": 4.75,
+      "dayLow": 4.78,
       "dayHigh": 5.4,
       "fiftyTwoWeekLow": 2.59,
       "fiftyTwoWeekHigh": 33.16,
@@ -22128,7 +22128,7 @@
       "changeRate": NaN,
       "previousClose": 6.61,
       "open": 6.61,
-      "dayLow": 6.53,
+      "dayLow": 6.54,
       "dayHigh": 6.67,
       "fiftyTwoWeekLow": 5.9,
       "fiftyTwoWeekHigh": 8.24,
@@ -25351,7 +25351,7 @@
       "averageVolume": 2583917,
       "averageVolume10days": 1158799,
       "marketCap": 1085040000,
-      "enterpriseValue": 626477248,
+      "enterpriseValue": 633517248,
       "sharesOutstanding": 44000000,
       "sector": "Industrials",
       "industry": "Specialty Business Services",
@@ -25366,8 +25366,8 @@
       "priceToBook": 2.4868898,
       "pegRatio": null,
       "priceToSales": 1.1702964,
-      "enterpriseToRevenue": 0.676,
-      "enterpriseToEbitda": 32.893,
+      "enterpriseToRevenue": 0.683,
+      "enterpriseToEbitda": 33.262,
       "profitMargins": 0.00488,
       "grossMargins": 0.08389,
       "operatingMargins": -0.41314,
@@ -26098,12 +26098,12 @@
       "previousClose": 113.8,
       "open": 113.4,
       "dayLow": 111.6,
-      "dayHigh": 115.0,
+      "dayHigh": 114.9,
       "fiftyTwoWeekLow": 109.1,
       "fiftyTwoWeekHigh": 312.75,
       "fiftyDayAverage": 133.0,
       "twoHundredDayAverage": 190.74,
-      "volume": "29,295",
+      "volume": "29,075",
       "averageVolume": 52344,
       "averageVolume10days": 38462,
       "marketCap": 788599360,
@@ -26270,7 +26270,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 29295
+          "Volume": 29075
         }
       ],
       "heldPercentInsiders": 0.42856997,
@@ -26287,7 +26287,7 @@
       "previousClose": 27.3,
       "open": 27.3,
       "dayLow": 26.96,
-      "dayHigh": 29.98,
+      "dayHigh": 29.9,
       "fiftyTwoWeekLow": 6.41,
       "fiftyTwoWeekHigh": 45.88,
       "fiftyDayAverage": 37.6,
@@ -27042,7 +27042,7 @@
       "changeRate": NaN,
       "previousClose": 37.46,
       "open": 37.9,
-      "dayLow": 35.82,
+      "dayLow": 35.8,
       "dayHigh": 37.9,
       "fiftyTwoWeekLow": 15.23,
       "fiftyTwoWeekHigh": 48.3,
@@ -27615,7 +27615,7 @@
       "fiftyTwoWeekHigh": 3.12,
       "fiftyDayAverage": 1.87,
       "twoHundredDayAverage": 2.14,
-      "volume": "17,667,907",
+      "volume": "17,667,180",
       "averageVolume": 18410146,
       "averageVolume10days": 16634146,
       "marketCap": 3891698944,
@@ -27782,7 +27782,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 17667907
+          "Volume": 17667180
         }
       ],
       "heldPercentInsiders": 0.51542,
@@ -28366,7 +28366,7 @@
       "previousClose": 9.84,
       "open": 9.91,
       "dayLow": 9.83,
-      "dayHigh": 10.74,
+      "dayHigh": 10.73,
       "fiftyTwoWeekLow": 9.05,
       "fiftyTwoWeekHigh": 16.91,
       "fiftyDayAverage": 10.54,
@@ -28938,7 +28938,7 @@
       "fiftyTwoWeekHigh": 135.2,
       "fiftyDayAverage": 110.15,
       "twoHundredDayAverage": 87.13,
-      "volume": "314,846",
+      "volume": "311,263",
       "averageVolume": 467094,
       "averageVolume10days": 431221,
       "marketCap": 3094611200,
@@ -29105,7 +29105,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 314846
+          "Volume": 311263
         }
       ],
       "heldPercentInsiders": 0.59242,
@@ -29127,7 +29127,7 @@
       "fiftyTwoWeekHigh": 49.3,
       "fiftyDayAverage": 37.5,
       "twoHundredDayAverage": 32.9,
-      "volume": "125,779",
+      "volume": "125,759",
       "averageVolume": 206767,
       "averageVolume10days": 143707,
       "marketCap": 11288264704,
@@ -29294,7 +29294,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 125779
+          "Volume": 125759
         }
       ],
       "heldPercentInsiders": 0.94435996,
@@ -30277,7 +30277,7 @@
       "description": "Dogus Otomotiv Servis ve Ticaret A.S., together with its subsidiaries, engages in automotive and real estate businesses in Turkey. The company operates through Automotive and Real Estate segments. The Automotive segments engages in the importing, marketing, and selling passenger and commercial vehicles, spare parts of Volkswagen Group brands VW, Audi, Seat, Cupra, Porsche, Bentley, Lamborghini, Meiller, Scania, Scania Power Solutions, Wielton semi-trailers, and Thermoking vehicle cooling systems; purchasing and selling used vehicles through dealers under the DOD brand; sales and service of Novamarine brand boats and speedboats, as well as after-sales services and spare parts field; and sales and service operations of Aerofoil brand e-foil products and Mate brand electric-assisted bicycles. The Real Estate segment operates a portfolio consisting of real estate-based assets and rights. It also offers installation and operation of charging units, charging stations, and charging network; and creates and manages a portfolio of real estate and real estate-based capital market instruments. The company was founded in 1994 and is headquartered in Istanbul, Turkey. Dogus Otomotiv Servis ve Ticaret A.S. operates as a subsidiary of Dogus Holding A.S.",
       "pe": 19.67555,
       "forwardPE": 1.5636799,
-      "priceToBook": 0.55632,
+      "priceToBook": 0.550907,
       "pegRatio": 0.87,
       "priceToSales": 0.16199623,
       "enterpriseToRevenue": 0.307,
@@ -30296,7 +30296,7 @@
       "quickRatio": 0.53,
       "eps": 8.63,
       "forwardEps": 108.59,
-      "bookValue": 305.22,
+      "bookValue": 308.219,
       "dividendRate": 30.0,
       "dividendYield": 17.67,
       "exDividendDate": 1786579200,
@@ -30655,7 +30655,7 @@
       "description": "Dofer Yapi Malzemeleri Sanayi ve Ticaret A.S. manufactures and sells iron, steel mesh, and reinforcing bar products in Turkey. It offers cold drawing rods and pipe ducts, as well as prefabricated, reinforced concrete structure, and concrete transformer substation mesh products. Dofer Yapi Malzemeleri Sanayi ve Ticaret A.S. was founded in 1985 and is headquartered in Ankara, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.958162,
+      "priceToBook": 1.0992138,
       "pegRatio": null,
       "priceToSales": 0.21011432,
       "enterpriseToRevenue": 0.243,
@@ -30674,7 +30674,7 @@
       "quickRatio": 0.869,
       "eps": -1.0,
       "forwardEps": null,
-      "bookValue": 30.642,
+      "bookValue": 26.71,
       "dividendRate": 0.19,
       "dividendYield": 0.65,
       "exDividendDate": 1782950400,
@@ -30823,7 +30823,7 @@
       "previousClose": 75.0,
       "open": 75.0,
       "dayLow": 73.5,
-      "dayHigh": 78.65,
+      "dayHigh": 78.5,
       "fiftyTwoWeekLow": 20.18,
       "fiftyTwoWeekHigh": 146.5,
       "fiftyDayAverage": 85.57,
@@ -31768,7 +31768,7 @@
       "previousClose": 75.8,
       "open": 76.05,
       "dayLow": 75.0,
-      "dayHigh": 77.15,
+      "dayHigh": 77.1,
       "fiftyTwoWeekLow": 53.45,
       "fiftyTwoWeekHigh": 132.6,
       "fiftyDayAverage": 74.97,
@@ -32154,7 +32154,7 @@
       "volume": "5,170,399",
       "averageVolume": 6089197,
       "averageVolume10days": 5322659,
-      "marketCap": 8003182592,
+      "marketCap": 8578168832,
       "enterpriseValue": 7859645952,
       "sharesOutstanding": 402170000,
       "sector": "Technology",
@@ -33289,7 +33289,7 @@
       "averageVolume": 3975573,
       "averageVolume10days": 3613480,
       "marketCap": 2181600000,
-      "enterpriseValue": 4604854784,
+      "enterpriseValue": 4611661824,
       "sharesOutstanding": 720000000,
       "sector": "Basic Materials",
       "industry": "Building Materials",
@@ -33301,26 +33301,26 @@
       "description": "Ege Seramik Sanayi ve Ticaret A.S. produces and sells floor and wall tiles in Turkey and internationally. The company also offers glazed porcelain, floor, wall, and color body products. Its products are used in bathroom wall and floor, kitchen countertop and floor, corridor, and decorative; garden/terrace floor and front wall; and facede, floor, industrial, and pool areas. The company was incorporated in 1972 and is headquartered in Izmir, Turkey. Ege Seramik Sanayi ve Ticaret A.S. operates as a subsidiary of Ibrahim Polat Holding A.S.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.0257279,
+      "priceToBook": 1.0958408,
       "pegRatio": null,
-      "priceToSales": 0.4147471,
-      "enterpriseToRevenue": 0.875,
-      "enterpriseToEbitda": 13.778,
-      "profitMargins": -0.12043,
-      "grossMargins": 0.18771,
-      "operatingMargins": 0.09252,
-      "returnOnAssets": 0.00066,
-      "returnOnEquity": -0.29403,
-      "totalRevenue": 5260072960,
-      "revenuePerShare": 6.272,
+      "priceToSales": 0.4376464,
+      "enterpriseToRevenue": 0.925,
+      "enterpriseToEbitda": 8.835,
+      "profitMargins": -0.112849995,
+      "grossMargins": 0.18370001,
+      "operatingMargins": 0.06294,
+      "returnOnAssets": 0.02526,
+      "returnOnEquity": -0.26108998,
+      "totalRevenue": 4984846336,
+      "revenuePerShare": 6.923,
       "totalCash": 169648848,
-      "totalDebt": 2592903680,
-      "debtToEquity": 121.927,
+      "totalDebt": 2599710720,
+      "debtToEquity": 122.247,
       "currentRatio": 0.961,
       "quickRatio": 0.662,
       "eps": -0.78,
       "forwardEps": null,
-      "bookValue": 2.954,
+      "bookValue": 2.765,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1650240000,
@@ -33332,7 +33332,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": 0.136,
       "historicalData": [
         {
           "Close": 3.0199999809265137,
@@ -35179,7 +35179,7 @@
       "averageVolume": 75906,
       "averageVolume10days": 62554,
       "marketCap": 3092000000,
-      "enterpriseValue": 3959941888,
+      "enterpriseValue": 3977098752,
       "sharesOutstanding": 20000000,
       "sector": "Industrials",
       "industry": "Metal Fabrication",
@@ -35193,19 +35193,19 @@
       "forwardPE": null,
       "priceToBook": 0.8804351,
       "pegRatio": null,
-      "priceToSales": 0.54876775,
-      "enterpriseToRevenue": 0.703,
-      "enterpriseToEbitda": 4.893,
-      "profitMargins": -0.0073100002,
-      "grossMargins": 0.1347,
-      "operatingMargins": 0.12917,
-      "returnOnAssets": 0.08351,
-      "returnOnEquity": -0.01209,
-      "totalRevenue": 5634442240,
-      "revenuePerShare": 281.24,
+      "priceToSales": 0.58088046,
+      "enterpriseToRevenue": 0.747,
+      "enterpriseToEbitda": 8.023,
+      "profitMargins": -0.00787,
+      "grossMargins": 0.13662,
+      "operatingMargins": 0.03782,
+      "returnOnAssets": 0.04117,
+      "returnOnEquity": -0.0123000005,
+      "totalRevenue": 5322954240,
+      "revenuePerShare": 266.148,
       "totalCash": 323021344,
-      "totalDebt": 1193380864,
-      "debtToEquity": 30.274,
+      "totalDebt": 1208120064,
+      "debtToEquity": 30.648,
       "currentRatio": 2.406,
       "quickRatio": 1.08,
       "eps": -0.76,
@@ -35222,7 +35222,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "beta": -0.063,
       "historicalData": [
         {
           "Close": 168.89999389648438,
@@ -36296,7 +36296,7 @@
     {
       "code": "ETILR",
       "symbol": "ETILR.IS",
-      "name": "Etiler Gida Ve Ticari Yatirimlar Sanayi Ve Ticaret Anonim Sirketi",
+      "name": "ETILER GIDA",
       "shortName": "ETILER GIDA",
       "price": NaN,
       "change": NaN,
@@ -36312,9 +36312,9 @@
       "volume": "3,211,456",
       "averageVolume": 11440368,
       "averageVolume10days": 7961134,
-      "marketCap": 1483200000,
+      "marketCap": 0,
       "enterpriseValue": 2017541248,
-      "sharesOutstanding": 240000000,
+      "sharesOutstanding": 0,
       "sector": "Consumer Cyclical",
       "industry": "Restaurants",
       "website": "https://www.etilermarmaris.com.tr",
@@ -36514,7 +36514,7 @@
       "description": "Euro Trend Yatirim Ortakligi A.S. manages the portfolio of capital market instruments. It monitors the development related to securities, financial markets, institutions, and partnerships for portfolio management. The company was incorporated in 2007 and is headquartered in Ankara, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 12.242425,
+      "priceToBook": 12.681615,
       "pegRatio": null,
       "priceToSales": 13.121202,
       "enterpriseToRevenue": 12.077,
@@ -36533,7 +36533,7 @@
       "quickRatio": 18.285,
       "eps": -0.36,
       "forwardEps": null,
-      "bookValue": 1.155,
+      "bookValue": 1.115,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1691452800,
@@ -37816,7 +37816,7 @@
       "previousClose": 15.33,
       "open": 15.36,
       "dayLow": 15.29,
-      "dayHigh": 15.62,
+      "dayHigh": 15.65,
       "fiftyTwoWeekLow": 12.83,
       "fiftyTwoWeekHigh": 19.75,
       "fiftyDayAverage": 15.95,
@@ -41034,7 +41034,7 @@
       "fiftyTwoWeekHigh": 15.4,
       "fiftyDayAverage": 13.01,
       "twoHundredDayAverage": 12.55,
-      "volume": "233,273",
+      "volume": "226,281",
       "averageVolume": 444071,
       "averageVolume10days": 329619,
       "marketCap": 1413639936,
@@ -41201,7 +41201,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 233273
+          "Volume": 226281
         }
       ],
       "heldPercentInsiders": 0.75,
@@ -41217,7 +41217,7 @@
       "changeRate": NaN,
       "previousClose": 51.4,
       "open": 51.75,
-      "dayLow": 51.0,
+      "dayLow": 50.95,
       "dayHigh": 52.25,
       "fiftyTwoWeekLow": 48.7,
       "fiftyTwoWeekHigh": 84.5,
@@ -43113,7 +43113,7 @@
       "fiftyTwoWeekHigh": 18.88,
       "fiftyDayAverage": 13.22,
       "twoHundredDayAverage": 11.27,
-      "volume": "12,014,425",
+      "volume": "12,005,190",
       "averageVolume": 9909596,
       "averageVolume10days": 5106600,
       "marketCap": 2191500032,
@@ -43280,7 +43280,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 12014425
+          "Volume": 12005190
         }
       ],
       "heldPercentInsiders": 0.68,
@@ -43724,8 +43724,8 @@
       "targetLowPrice": 35.0,
       "targetMeanPrice": 36.73333,
       "targetMedianPrice": 36.2,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 1.66667,
+      "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
       "beta": -0.222,
       "historicalData": [
@@ -44053,7 +44053,7 @@
       "previousClose": 12.83,
       "open": 12.82,
       "dayLow": 12.69,
-      "dayHigh": 14.11,
+      "dayHigh": 14.08,
       "fiftyTwoWeekLow": 11.21,
       "fiftyTwoWeekHigh": 25.2,
       "fiftyDayAverage": 14.68,
@@ -45236,8 +45236,8 @@
       "targetLowPrice": 61.38234,
       "targetMeanPrice": 67.75448,
       "targetMedianPrice": 64.3602,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 1.66667,
+      "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
       "beta": 0.45,
       "historicalData": [
@@ -45570,7 +45570,7 @@
       "fiftyTwoWeekHigh": 4.26,
       "fiftyDayAverage": 3.68,
       "twoHundredDayAverage": 3.43,
-      "volume": "98,862,509",
+      "volume": "98,843,004",
       "averageVolume": 42685418,
       "averageVolume10days": 29194735,
       "marketCap": 4020000000,
@@ -45737,7 +45737,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 98862509
+          "Volume": 98843004
         }
       ],
       "heldPercentInsiders": 0.32886,
@@ -48409,7 +48409,7 @@
       "averageVolume": 62775,
       "averageVolume10days": 39377,
       "marketCap": 9509999616,
-      "enterpriseValue": 15160386560,
+      "enterpriseValue": 15190386688,
       "sharesOutstanding": 24000000,
       "sector": "Technology",
       "industry": "Electronics & Computer Distribution",
@@ -48424,8 +48424,8 @@
       "priceToBook": 4.9025674,
       "pegRatio": 1.05,
       "priceToSales": 0.327155,
-      "enterpriseToRevenue": 0.522,
-      "enterpriseToEbitda": 20.287,
+      "enterpriseToRevenue": 0.523,
+      "enterpriseToEbitda": 20.327,
       "profitMargins": -0.00468,
       "grossMargins": 0.054229997,
       "operatingMargins": 0.01648,
@@ -50663,9 +50663,9 @@
       "name": "Türkiye Is Bankasi A.S.",
       "shortName": "IS BANKASI (KUR.)",
       "price": 4125000.0,
-      "change": 0.0,
-      "changeRate": 0.0,
-      "previousClose": 4125000.0,
+      "change": NaN,
+      "changeRate": 0,
+      "previousClose": NaN,
       "open": 4125000.0,
       "dayLow": 4125000.0,
       "dayHigh": 4125000.0,
@@ -50721,128 +50721,7 @@
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
       "beta": 0.204,
-      "historicalData": [
-        {
-          "Close": 4000000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3600000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3240000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3100000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3000000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2702500.0,
-          "Volume": 1
-        },
-        {
-          "Close": NaN,
-          "Volume": 0
-        },
-        {
-          "Close": 2702492.5,
-          "Volume": 2
-        },
-        {
-          "Close": 2703002.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2433000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2676300.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2499997.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2351112.5,
-          "Volume": 2
-        },
-        {
-          "Close": 2499987.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2499987.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2749985.0,
-          "Volume": 2
-        },
-        {
-          "Close": 2475017.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2702000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2702000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2431800.0,
-          "Volume": 1
-        },
-        {
-          "Close": 2431802.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2431802.5,
-          "Volume": 1
-        },
-        {
-          "Close": 2650000.0,
-          "Volume": 2
-        },
-        {
-          "Close": 2915000.0,
-          "Volume": 3
-        },
-        {
-          "Close": 2950000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3245000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3560000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 3750000.0,
-          "Volume": 1
-        },
-        {
-          "Close": 4125000.0,
-          "Volume": 2
-        },
-        {
-          "Close": 4125000.0,
-          "Volume": 1
-        }
-      ],
+      "historicalData": [],
       "heldPercentInsiders": 0.0,
       "heldPercentInstitutions": 0.0
     },
@@ -51990,7 +51869,7 @@
       "changeRate": NaN,
       "previousClose": 16.52,
       "open": 17.18,
-      "dayLow": 15.85,
+      "dayLow": 15.87,
       "dayHigh": 17.45,
       "fiftyTwoWeekLow": 14.42,
       "fiftyTwoWeekHigh": 25.56,
@@ -53890,7 +53769,7 @@
       "averageVolume": 8988752,
       "averageVolume10days": 5101123,
       "marketCap": 1639250048,
-      "enterpriseValue": 1415478272,
+      "enterpriseValue": 1558302464,
       "sharesOutstanding": 197500000,
       "sector": "Technology",
       "industry": "Software - Application",
@@ -53904,21 +53783,21 @@
       "forwardPE": null,
       "priceToBook": 1.1640954,
       "pegRatio": null,
-      "priceToSales": 0.5468713,
-      "enterpriseToRevenue": 0.472,
-      "enterpriseToEbitda": 5.992,
-      "profitMargins": 0.01749,
-      "grossMargins": 0.17872,
-      "operatingMargins": 0.042529996,
-      "returnOnAssets": 0.075830005,
-      "returnOnEquity": 0.054899998,
-      "totalRevenue": 2997506048,
-      "revenuePerShare": 15.177,
-      "totalCash": 270672032,
-      "totalDebt": 17499584,
-      "debtToEquity": 1.216,
-      "currentRatio": 2.154,
-      "quickRatio": 2.005,
+      "priceToSales": 0.49971688,
+      "enterpriseToRevenue": 0.475,
+      "enterpriseToEbitda": 6.087,
+      "profitMargins": 0.0033399998,
+      "grossMargins": 0.16187,
+      "operatingMargins": -0.08796,
+      "returnOnAssets": 0.067779996,
+      "returnOnEquity": 0.01988,
+      "totalRevenue": 3280357632,
+      "revenuePerShare": 14.401,
+      "totalCash": 129846096,
+      "totalDebt": 20861012,
+      "debtToEquity": 1.446,
+      "currentRatio": 1.927,
+      "quickRatio": 1.863,
       "eps": -1.18,
       "forwardEps": null,
       "bookValue": 7.13,
@@ -53933,7 +53812,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.273,
+      "beta": null,
       "historicalData": [
         {
           "Close": 8.880000114440918,
@@ -54070,7 +53949,7 @@
       "previousClose": 12.45,
       "open": 12.46,
       "dayLow": 12.11,
-      "dayHigh": 13.46,
+      "dayHigh": 13.43,
       "fiftyTwoWeekLow": 3.16,
       "fiftyTwoWeekHigh": 14.0,
       "fiftyDayAverage": 10.77,
@@ -54280,7 +54159,7 @@
       "description": "Ersan Alisveris Hizmetleri ve Gida Sanayi Ticaret A.S. operates a chain of supermarkets and hypermarkets under the KIM brand in Turkey. The company also offers cleaning products comprising toilet paper, paper towels, concentrated fabric softeners, bleach, liquid dish detergents, dish lemons, glass cleaners, liquid soap, softener, and surface cleaners; and wheat for ashure, kidney bean, sweet corn, bean, rice, lentil, bulgur wheat, chickpeas, and granulated sugar under the under the KIMI brand. In addition, it engages in import and export activities. Ersan Alisveris Hizmetleri ve Gida Sanayi Ticaret A.S. was incorporated in 1997 and is headquartered in Istanbul, Turkey.",
       "pe": 5.6706824,
       "forwardPE": null,
-      "priceToBook": 0.76939845,
+      "priceToBook": 0.6747909,
       "pegRatio": null,
       "priceToSales": 0.2156833,
       "enterpriseToRevenue": 0.264,
@@ -54299,7 +54178,7 @@
       "quickRatio": 0.595,
       "eps": 2.49,
       "forwardEps": null,
-      "bookValue": 18.352,
+      "bookValue": 20.925,
       "dividendRate": 0.42,
       "dividendYield": 2.95,
       "exDividendDate": 1790726400,
@@ -54447,7 +54326,7 @@
       "changeRate": NaN,
       "previousClose": 4.59,
       "open": 4.57,
-      "dayLow": 4.53,
+      "dayLow": 4.54,
       "dayHigh": 4.64,
       "fiftyTwoWeekLow": 4.21,
       "fiftyTwoWeekHigh": 8.3,
@@ -54486,7 +54365,7 @@
       "debtToEquity": 3.514,
       "currentRatio": 2.57,
       "quickRatio": 0.248,
-      "eps": -0.6,
+      "eps": -0.59,
       "forwardEps": null,
       "bookValue": 16.962,
       "dividendRate": null,
@@ -54642,7 +54521,7 @@
       "fiftyTwoWeekHigh": 44.2,
       "fiftyDayAverage": 27.88,
       "twoHundredDayAverage": 33.68,
-      "volume": "4,180,622",
+      "volume": "4,169,735",
       "averageVolume": 1908739,
       "averageVolume10days": 2196642,
       "marketCap": 13128400896,
@@ -54809,7 +54688,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 4180622
+          "Volume": 4169735
         }
       ],
       "heldPercentInsiders": 0.68671995,
@@ -58417,12 +58296,12 @@
       "previousClose": 5.58,
       "open": 5.5,
       "dayLow": 5.49,
-      "dayHigh": 5.66,
+      "dayHigh": 5.68,
       "fiftyTwoWeekLow": 5.49,
       "fiftyTwoWeekHigh": 40.74,
       "fiftyDayAverage": 16.53,
       "twoHundredDayAverage": 23.61,
-      "volume": "858,281",
+      "volume": "856,653",
       "averageVolume": 473785,
       "averageVolume10days": 1567223,
       "marketCap": 773615040,
@@ -58520,8 +58399,8 @@
           "Volume": 185128
         },
         {
-          "Close": 5.986976146697998,
-          "Volume": 405212
+          "Close": 20.700000762939453,
+          "Volume": 117198
         },
         {
           "Close": 5.784517765045166,
@@ -58589,7 +58468,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 858281
+          "Volume": 856653
         }
       ],
       "heldPercentInsiders": 0.41584,
@@ -58616,7 +58495,7 @@
       "averageVolume10days": 7580787,
       "marketCap": 4967911424,
       "enterpriseValue": 10402362368,
-      "sharesOutstanding": 2159961700,
+      "sharesOutstanding": 2159961660,
       "sector": "Consumer Defensive",
       "industry": "Confectioners",
       "website": "https://kervangida.com",
@@ -59087,8 +58966,8 @@
           "Volume": 125082181
         },
         {
-          "Close": 46.13142776489258,
-          "Volume": 75369486
+          "Close": 156.0,
+          "Volume": 22287834
         },
         {
           "Close": 46.3975715637207,
@@ -59178,7 +59057,7 @@
       "fiftyTwoWeekHigh": 151.0,
       "fiftyDayAverage": 95.42,
       "twoHundredDayAverage": 88.71,
-      "volume": "374,065",
+      "volume": "374,029",
       "averageVolume": 1052068,
       "averageVolume10days": 463784,
       "marketCap": 3896199936,
@@ -59345,7 +59224,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 374065
+          "Volume": 374029
         }
       ],
       "heldPercentInsiders": 0.62061,
@@ -59367,7 +59246,7 @@
       "fiftyTwoWeekHigh": 144.2,
       "fiftyDayAverage": 85.32,
       "twoHundredDayAverage": 96.09,
-      "volume": "401,487",
+      "volume": "400,485",
       "averageVolume": 170776,
       "averageVolume10days": 157394,
       "marketCap": 3225277440,
@@ -59534,7 +59413,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 401487
+          "Volume": 400485
         }
       ],
       "heldPercentInsiders": 0.74097,
@@ -60690,7 +60569,7 @@
       "fiftyTwoWeekHigh": 21.8,
       "fiftyDayAverage": 14.62,
       "twoHundredDayAverage": 15.97,
-      "volume": "936,970",
+      "volume": "936,969",
       "averageVolume": 1545964,
       "averageVolume10days": 1816555,
       "marketCap": 2982960128,
@@ -60857,7 +60736,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 936970
+          "Volume": 936969
         }
       ],
       "heldPercentInsiders": 0.00185,
@@ -61257,7 +61136,7 @@
       "fiftyTwoWeekHigh": 1576.0,
       "fiftyDayAverage": 1086.77,
       "twoHundredDayAverage": 1067.56,
-      "volume": "36,127",
+      "volume": "36,114",
       "averageVolume": 65997,
       "averageVolume10days": 39825,
       "marketCap": 8709168128,
@@ -61273,7 +61152,7 @@
       "description": "Marmaris Altinyunus Turistik Tesisler A.S. engages in hotels and tourism services in Turkey. It operates tourist hotels in Antalya and Marmaris; and leases tourist facilities. The company was incorporated in 1986 and is based in Antalya, Turkey.",
       "pe": 240.00002,
       "forwardPE": null,
-      "priceToBook": 1.4323696,
+      "priceToBook": 1.6220965,
       "pegRatio": null,
       "priceToSales": 174.54906,
       "enterpriseToRevenue": 166.612,
@@ -61292,7 +61171,7 @@
       "quickRatio": 0.712,
       "eps": 4.2,
       "forwardEps": null,
-      "bookValue": 703.729,
+      "bookValue": 621.418,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -61424,7 +61303,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 36127
+          "Volume": 36114
         }
       ],
       "heldPercentInsiders": 0.73370004,
@@ -61446,7 +61325,7 @@
       "fiftyTwoWeekHigh": 48.1,
       "fiftyDayAverage": 34.39,
       "twoHundredDayAverage": 35.79,
-      "volume": "1,350,545",
+      "volume": "1,350,089",
       "averageVolume": 954188,
       "averageVolume10days": 1557909,
       "marketCap": 3588000000,
@@ -61613,7 +61492,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 1350545
+          "Volume": 1350089
         }
       ],
       "heldPercentInsiders": 0.82077,
@@ -62958,7 +62837,7 @@
       "fiftyTwoWeekHigh": 34.48,
       "fiftyDayAverage": 27.47,
       "twoHundredDayAverage": 28.73,
-      "volume": "383,536",
+      "volume": "381,275",
       "averageVolume": 510575,
       "averageVolume10days": 379974,
       "marketCap": 2396308224,
@@ -63125,7 +63004,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 383536
+          "Volume": 381275
         }
       ],
       "heldPercentInsiders": 0.79412,
@@ -64464,7 +64343,7 @@
       "changeRate": NaN,
       "previousClose": 8.73,
       "open": 8.76,
-      "dayLow": 8.55,
+      "dayLow": 8.56,
       "dayHigh": 8.82,
       "fiftyTwoWeekLow": 3.77,
       "fiftyTwoWeekHigh": 9.65,
@@ -64654,7 +64533,7 @@
       "previousClose": 3.33,
       "open": 3.34,
       "dayLow": 3.34,
-      "dayHigh": 3.41,
+      "dayHigh": 3.42,
       "fiftyTwoWeekLow": 3.15,
       "fiftyTwoWeekHigh": 5.21,
       "fiftyDayAverage": 3.64,
@@ -65620,7 +65499,7 @@
       "description": "Mobiltel Iletisim Hizmetleri Sanayi ve Ticaret A.S. distributes mobile phones in Turkey. It provides smart phones, tablets, desktop phones, laptops, ecosystem, wearable technology and accessories, and modems. Mobiltel Iletisim Hizmetleri Sanayi ve Ticaret A.S. was incorporated in 2001 and is based in Bahçelievler, Turkey.",
       "pe": 18.380283,
       "forwardPE": null,
-      "priceToBook": 1.569264,
+      "priceToBook": 1.4931351,
       "pegRatio": null,
       "priceToSales": 0.7662809,
       "enterpriseToRevenue": 0.91,
@@ -65639,7 +65518,7 @@
       "quickRatio": 1.049,
       "eps": 0.71,
       "forwardEps": null,
-      "bookValue": 8.316,
+      "bookValue": 8.74,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -66171,7 +66050,7 @@
       "fiftyTwoWeekHigh": 3.98,
       "fiftyDayAverage": 1.43,
       "twoHundredDayAverage": 1.92,
-      "volume": "24,935,149",
+      "volume": "24,916,821",
       "averageVolume": 66074143,
       "averageVolume10days": 48823985,
       "marketCap": 3192207360,
@@ -66338,7 +66217,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 24935149
+          "Volume": 24916821
         }
       ],
       "heldPercentInsiders": 0.27482,
@@ -66376,7 +66255,7 @@
       "description": "Marshall Boya Ve Vernik Sanayii A.S. manufactures and sells paint, coating, and varnish products in Turkey. It offers interior wall and exterior paint. Marshall Boya Ve Vernik Sanayii A.S. was founded in 1954 and is headquartered in Dilovasi, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 21.381948,
+      "priceToBook": 16.51775,
       "pegRatio": null,
       "priceToSales": 4.5205874,
       "enterpriseToRevenue": 4.568,
@@ -66395,7 +66274,7 @@
       "quickRatio": 0.828,
       "eps": -7.16,
       "forwardEps": null,
-      "bookValue": 79.974,
+      "bookValue": 103.525,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1275004800,
@@ -67489,7 +67368,7 @@
       "previousClose": 3.5,
       "open": 3.51,
       "dayLow": 3.49,
-      "dayHigh": 3.84,
+      "dayHigh": 3.85,
       "fiftyTwoWeekLow": 3.3,
       "fiftyTwoWeekHigh": 11.6,
       "fiftyDayAverage": 4.03,
@@ -68065,7 +67944,7 @@
       "averageVolume": 2712599,
       "averageVolume10days": 1974043,
       "marketCap": 3098615552,
-      "enterpriseValue": 2963603968,
+      "enterpriseValue": 2977017856,
       "sharesOutstanding": 335348000,
       "sector": "Real Estate",
       "industry": "REIT - Diversified",
@@ -68080,8 +67959,8 @@
       "priceToBook": 0.48240578,
       "pegRatio": null,
       "priceToSales": 5.053718,
-      "enterpriseToRevenue": 4.834,
-      "enterpriseToEbitda": -44.757,
+      "enterpriseToRevenue": 4.855,
+      "enterpriseToEbitda": -44.96,
       "profitMargins": -0.64751,
       "grossMargins": 0.49418,
       "operatingMargins": -1.09031,
@@ -68245,7 +68124,7 @@
       "previousClose": 217.1,
       "open": 216.5,
       "dayLow": 216.1,
-      "dayHigh": 222.8,
+      "dayHigh": 223.1,
       "fiftyTwoWeekLow": 210.0,
       "fiftyTwoWeekHigh": 353.0,
       "fiftyDayAverage": 221.1,
@@ -72219,7 +72098,7 @@
       "fiftyTwoWeekHigh": 21.48,
       "fiftyDayAverage": 13.66,
       "twoHundredDayAverage": 16.01,
-      "volume": "5,074,994",
+      "volume": "5,057,661",
       "averageVolume": 10537385,
       "averageVolume10days": 6861794,
       "marketCap": 2526562560,
@@ -72386,7 +72265,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 5074994
+          "Volume": 5057661
         }
       ],
       "heldPercentInsiders": 0.16988,
@@ -72402,7 +72281,7 @@
       "changeRate": NaN,
       "previousClose": 74.7,
       "open": 74.7,
-      "dayLow": 73.0,
+      "dayLow": 72.9,
       "dayHigh": 75.2,
       "fiftyTwoWeekLow": 68.7,
       "fiftyTwoWeekHigh": 112.8,
@@ -74104,7 +73983,7 @@
       "previousClose": 132.7,
       "open": 132.0,
       "dayLow": 130.6,
-      "dayHigh": 139.7,
+      "dayHigh": 140.0,
       "fiftyTwoWeekLow": 67.0,
       "fiftyTwoWeekHigh": 185.0,
       "fiftyDayAverage": 129.05,
@@ -75427,7 +75306,7 @@
       "previousClose": 8.25,
       "open": 8.26,
       "dayLow": 8.09,
-      "dayHigh": 8.54,
+      "dayHigh": 8.55,
       "fiftyTwoWeekLow": 5.81,
       "fiftyTwoWeekHigh": 9.59,
       "fiftyDayAverage": 7.42,
@@ -77511,7 +77390,7 @@
       "fiftyTwoWeekHigh": 3.38,
       "fiftyDayAverage": 2.44,
       "twoHundredDayAverage": 2.39,
-      "volume": "1,593,818",
+      "volume": "1,590,497",
       "averageVolume": 3543912,
       "averageVolume10days": 3811839,
       "marketCap": 1488000000,
@@ -77527,7 +77406,7 @@
       "description": "Rainbow Polikarbonat Sanayi Ticaret Anonim Sirketi provides polycarbonate, polymer, plastic, and related products. It offers polycarbonate roof panels, polycarbonate H and U shape products, rainbow 27/200 products, and polycarbonate hollow sheets. Rainbow Polikarbonat Sanayi Ticaret Anonim Sirketi was incorporated in 1995 and is based in Kayseri, Türkiye.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 1.356674,
+      "priceToBook": 1.2984294,
       "pegRatio": null,
       "priceToSales": 0.72255343,
       "enterpriseToRevenue": 1.148,
@@ -77546,7 +77425,7 @@
       "quickRatio": 0.964,
       "eps": -0.05,
       "forwardEps": null,
-      "bookValue": 1.828,
+      "bookValue": 1.91,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -77678,7 +77557,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 1593818
+          "Volume": 1590497
         }
       ],
       "heldPercentInsiders": 0.43460998,
@@ -78267,7 +78146,7 @@
       "fiftyTwoWeekHigh": 44.1,
       "fiftyDayAverage": 34.65,
       "twoHundredDayAverage": 29.55,
-      "volume": "2,097,093",
+      "volume": "2,091,095",
       "averageVolume": 2429790,
       "averageVolume10days": 2965663,
       "marketCap": 86000001024,
@@ -78434,7 +78313,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 2097093
+          "Volume": 2091095
         }
       ],
       "heldPercentInsiders": 0.70875,
@@ -78456,7 +78335,7 @@
       "fiftyTwoWeekHigh": 28.34,
       "fiftyDayAverage": 22.63,
       "twoHundredDayAverage": 19.29,
-      "volume": "25,542,486",
+      "volume": "25,536,286",
       "averageVolume": 10751084,
       "averageVolume10days": 8931599,
       "marketCap": 46400000000,
@@ -78472,7 +78351,7 @@
       "description": "Reysas Tasimacilik ve Lojistik Ticaret A.S. provides logistics solutions in Turkey and internationally. The company offers local transportation and distribution, automotive logistics, warehousing, railway transportation, international services, fuel logistics, and bonded warehousing. It also provides technology solutions, such as software services and vehicle tracking systems. In addition, the company distributes and markets tobacco products, and operates vehicle inspection station, as well as engages in the real estate investments. Reysas Tasimacilik ve Lojistik Ticaret A.S. was incorporated in 1989 and is headquartered in Istanbul, Turkey.",
       "pe": 12.473119,
       "forwardPE": null,
-      "priceToBook": 1.9151396,
+      "priceToBook": 1.7145814,
       "pegRatio": null,
       "priceToSales": 3.4999466,
       "enterpriseToRevenue": 4.655,
@@ -78491,7 +78370,7 @@
       "quickRatio": 1.17,
       "eps": 1.86,
       "forwardEps": null,
-      "bookValue": 12.114,
+      "bookValue": 13.531,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -78623,7 +78502,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 25542486
+          "Volume": 25536286
         }
       ],
       "heldPercentInsiders": 0.42663,
@@ -79039,7 +78918,7 @@
       "description": "San-el Mühendislik Elektrik Taahhüt Sanayi ve Ticaret A.S. designs, manufactures, and sells electrical panels in Turkey. It offers LV panel, LV harmonic filter system, MV compensation and harmonic filter, SVC flicker compensation, and weak current systems, as well as OG metal clad cells. The company engages in distribution of control panels related activities. It also operates in the field of turnkey electrical contracting; provides energy quality analysis and reporting services in transmission and distribution network. San-el Mühendislik Elektrik Taahhüt Sanayi ve Ticaret A.S. was incorporated in 2005 and is based in Istanbul, Turkey.",
       "pe": 4.5300355,
       "forwardPE": null,
-      "priceToBook": 8.312799,
+      "priceToBook": 5.7831106,
       "pegRatio": null,
       "priceToSales": 3.190234,
       "enterpriseToRevenue": 3.394,
@@ -79058,7 +78937,7 @@
       "quickRatio": 0.971,
       "eps": 14.15,
       "forwardEps": null,
-      "bookValue": 7.711,
+      "bookValue": 11.084,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1475193600,
@@ -80539,7 +80418,7 @@
       "averageVolume": 700893,
       "averageVolume10days": 1133883,
       "marketCap": 889999936,
-      "enterpriseValue": 4021391104,
+      "enterpriseValue": 5062098944,
       "sharesOutstanding": 200000000,
       "sector": "Financial Services",
       "industry": "Credit Services",
@@ -80553,21 +80432,21 @@
       "forwardPE": null,
       "priceToBook": 0.47114876,
       "pegRatio": null,
-      "priceToSales": 1.426737,
-      "enterpriseToRevenue": 6.447,
+      "priceToSales": 1.4228979,
+      "enterpriseToRevenue": 8.093,
       "enterpriseToEbitda": null,
-      "profitMargins": 0.34954,
-      "grossMargins": -0.0097,
-      "operatingMargins": -1.02213,
-      "returnOnAssets": 0.04995,
-      "returnOnEquity": 0.24596001,
-      "totalRevenue": 623801024,
-      "revenuePerShare": 6.238,
-      "totalCash": 128924000,
-      "totalDebt": 3638315008,
-      "debtToEquity": 357.289,
-      "currentRatio": 0.972,
-      "quickRatio": 0.908,
+      "profitMargins": 0.34652,
+      "grossMargins": -0.04415,
+      "operatingMargins": -0.06829,
+      "returnOnAssets": 0.04208,
+      "returnOnEquity": 0.23211999,
+      "totalRevenue": 625484032,
+      "revenuePerShare": 6.486,
+      "totalCash": 134157000,
+      "totalDebt": 4751256064,
+      "debtToEquity": 445.256,
+      "currentRatio": 256.176,
+      "quickRatio": 254.915,
       "eps": 1.2,
       "forwardEps": null,
       "bookValue": 9.445,
@@ -80582,7 +80461,7 @@
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 0,
-      "beta": 0.357,
+      "beta": null,
       "historicalData": [
         {
           "Close": 5.582639217376709,
@@ -80705,7 +80584,7 @@
           "Volume": 944070
         }
       ],
-      "heldPercentInsiders": 0.45803002,
+      "heldPercentInsiders": 0.22900999,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -82419,7 +82298,7 @@
       "changeRate": NaN,
       "previousClose": 9.91,
       "open": 10.0,
-      "dayLow": 9.83,
+      "dayLow": 9.81,
       "dayHigh": 10.07,
       "fiftyTwoWeekLow": 6.27,
       "fiftyTwoWeekHigh": 13.33,
@@ -82614,7 +82493,7 @@
       "fiftyTwoWeekHigh": 5.45,
       "fiftyDayAverage": 3.53,
       "twoHundredDayAverage": 4.14,
-      "volume": "10,803,561",
+      "volume": "10,680,420",
       "averageVolume": 19845790,
       "averageVolume10days": 14785219,
       "marketCap": 12709506048,
@@ -82781,7 +82660,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 10803561
+          "Volume": 10680420
         }
       ],
       "heldPercentInsiders": 0.42703998,
@@ -83364,13 +83243,13 @@
       "changeRate": NaN,
       "previousClose": 146.5,
       "open": 143.0,
-      "dayLow": 142.6,
+      "dayLow": 142.0,
       "dayHigh": 146.5,
       "fiftyTwoWeekLow": 110.0,
       "fiftyTwoWeekHigh": 200.0,
       "fiftyDayAverage": 128.67,
       "twoHundredDayAverage": 143.77,
-      "volume": "49,978",
+      "volume": "49,878",
       "averageVolume": 36342,
       "averageVolume10days": 64833,
       "marketCap": 10796599296,
@@ -83537,7 +83416,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 49978
+          "Volume": 49878
         }
       ],
       "heldPercentInsiders": 0.92112,
@@ -83575,7 +83454,7 @@
       "description": "Servet Gayrimenkul Yatirim Ortakligi A.S. is a real estate investment trust. Servet Gayrimenkul Yatirim Ortakligi A.S. is based in Instanbul, Turkey.",
       "pe": 2.9204545,
       "forwardPE": null,
-      "priceToBook": 0.2996735,
+      "priceToBook": 0.27762774,
       "pegRatio": null,
       "priceToSales": 1.8577894,
       "enterpriseToRevenue": 4.559,
@@ -83594,7 +83473,7 @@
       "quickRatio": 0.059,
       "eps": 0.88,
       "forwardEps": null,
-      "bookValue": 8.576,
+      "bookValue": 9.257,
       "dividendRate": 0.31,
       "dividendYield": 11.97,
       "exDividendDate": 1792972800,
@@ -83953,7 +83832,7 @@
       "description": "Sun Tekstil Sanayi ve Ticaret A.S. designs, produces, and sells women's clothing collections for brands operating in the retail sector in Turkey and internationally. The company offers knit fabrics and ready-made womenswear garments. It also exports its products. The company was founded in 1987 and is headquartered in Izmir, Turkey.",
       "pe": 35.740738,
       "forwardPE": null,
-      "priceToBook": 2.381246,
+      "priceToBook": 2.5935628,
       "pegRatio": null,
       "priceToSales": 1.4590306,
       "enterpriseToRevenue": 1.474,
@@ -83972,7 +83851,7 @@
       "quickRatio": 0.868,
       "eps": 1.08,
       "forwardEps": null,
-      "bookValue": 16.21,
+      "bookValue": 14.883,
       "dividendRate": 1.09,
       "dividendYield": 2.83,
       "exDividendDate": 1762300800,
@@ -85822,7 +85701,7 @@
       "previousClose": 213.1,
       "open": 225.0,
       "dayLow": 220.0,
-      "dayHigh": 234.3,
+      "dayHigh": 233.0,
       "fiftyTwoWeekLow": 153.9,
       "fiftyTwoWeekHigh": 256.5,
       "fiftyDayAverage": 181.45,
@@ -86249,8 +86128,8 @@
       "targetLowPrice": 36.78,
       "targetMeanPrice": 55.59,
       "targetMedianPrice": 55.59,
-      "recommendationMean": 1.0,
-      "recommendationKey": "strong_buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 2,
       "beta": 0.043,
       "historicalData": [
@@ -86394,7 +86273,7 @@
       "fiftyTwoWeekHigh": 119.3,
       "fiftyDayAverage": 87.5,
       "twoHundredDayAverage": 93.76,
-      "volume": "189,916",
+      "volume": "187,895",
       "averageVolume": 284770,
       "averageVolume10days": 125306,
       "marketCap": 1680000000,
@@ -86561,7 +86440,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 189916
+          "Volume": 187895
         }
       ],
       "heldPercentInsiders": 0.5721,
@@ -86956,7 +86835,7 @@
       "previousClose": 92.75,
       "open": 92.8,
       "dayLow": 92.4,
-      "dayHigh": 96.8,
+      "dayHigh": 96.7,
       "fiftyTwoWeekLow": 67.9,
       "fiftyTwoWeekHigh": 107.8,
       "fiftyDayAverage": 96.63,
@@ -88867,7 +88746,7 @@
       "description": "UFUK Yatirim Yonetim ve Gayrimenkul A.S. engages in the financial leasing business in Turkey. It also offers business management and consultancy services, such as advisory on strategic, financial, marketing, business processes, and project services, as well as on trademark and franchise issues. The company was formerly known as Fon Sinai Yatirimlar A.S. and changed its name to UFUK Yatirim Yonetim ve Gayrimenkul A.S. in May 2016. UFUK Yatirim Yonetim ve Gayrimenkul A.S. was founded in 1995 and is headquartered in Istanbul, Turkey. UFUK Yatirim Yonetim ve Gayrimenkul A.S. operates as a subsidiary of Lydia Holding A.S.",
       "pe": 174.57306,
       "forwardPE": null,
-      "priceToBook": 35.165504,
+      "priceToBook": 30.047194,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": null,
@@ -88886,7 +88765,7 @@
       "quickRatio": 18.41,
       "eps": 10.54,
       "forwardEps": null,
-      "bookValue": 52.324,
+      "bookValue": 61.237,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -89056,7 +88935,7 @@
       "description": "Ulusal Faktoring A.S. provides factoring services in Turkey. The company was incorporated in 1999 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.8524427,
+      "priceToBook": 0.912,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": 1.833,
@@ -89075,7 +88954,7 @@
       "quickRatio": 1.082,
       "eps": null,
       "forwardEps": null,
-      "bookValue": 2.006,
+      "bookValue": 1.875,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -90001,7 +89880,7 @@
       "description": "Usak Seramik Sanayi A.S. engages in the production and sale of ceramics in Turkey, the United States, Germany, Italy, Canada, and internationally. It offers ceramic wall tile, floor tile, kerb, décor, and porcelain, as well as border products. The company was formerly known as Usak Elektro Porselen Sanayi A.S and changed its name to Usak Seramik Sanayi A.S. in 1986. The company was incorporated in 1972 and is headquartered in Banaz, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.4657228,
+      "priceToBook": 0.3072008,
       "pegRatio": null,
       "priceToSales": 0.6181909,
       "enterpriseToRevenue": 1.156,
@@ -90020,7 +89899,7 @@
       "quickRatio": 0.404,
       "eps": -0.01,
       "forwardEps": null,
-      "bookValue": 2.684,
+      "bookValue": 4.069,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -90190,7 +90069,7 @@
       "description": "Vakif Finansal Kiralama A.S. engages in the provision of financial leasing services in Turkey. It also offers financial intermediation to SMEs and investors. The company was founded in 1988 and is headquartered in Istanbul, Turkey. Vakif Finansal Kiralama A.S. is a subsidiary of Türkiye Vakiflar Bankasi Türk Anonim Ortakligi.",
       "pe": 3.8064513,
       "forwardPE": null,
-      "priceToBook": 0.7506361,
+      "priceToBook": 0.90076333,
       "pegRatio": null,
       "priceToSales": 4.308,
       "enterpriseToRevenue": 18.027,
@@ -90209,7 +90088,7 @@
       "quickRatio": 1.896,
       "eps": 0.31,
       "forwardEps": null,
-      "bookValue": 1.572,
+      "bookValue": 1.31,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 810864000,
@@ -90946,7 +90825,7 @@
       "description": "Verusaturk Girisim Sermayesi Yatirim Ortakligi A.S. is a private equity and venture capital firm specializing in bridge financing, recapitalizations, and growth capital investments. It prefers to invest in incubation, seed, startup ,early-mid-late venture, emerging growth, middle market, mature, turnaround, and later stage companies. The firm typically invests in following sectors: renewable energy, telecom, logistics, energy, technology and software, food, manufacturing, and mining. The firm prefers to invest in companies based in Turkey. The firm prefers to invest through its balance sheet investments. Verusaturk Girisim Sermayesi Yatirim Ortakligi A.S. was founded in January 09, 2012 and is based in Istanbul, Turkey. Verusaturk Girisim Sermayesi Yatirim Ortakligi A.S. operates as a subsidiary of Verusa Holding A.S.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.40970626,
+      "priceToBook": 0.41570023,
       "pegRatio": null,
       "priceToSales": null,
       "enterpriseToRevenue": null,
@@ -90965,7 +90844,7 @@
       "quickRatio": 92.571,
       "eps": -0.86,
       "forwardEps": null,
-      "bookValue": 89.674,
+      "bookValue": 88.381,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1731628800,
@@ -91114,7 +90993,7 @@
       "previousClose": 672.5,
       "open": 672.5,
       "dayLow": 662.0,
-      "dayHigh": 713.0,
+      "dayHigh": 729.5,
       "fiftyTwoWeekLow": 168.7,
       "fiftyTwoWeekHigh": 729.5,
       "fiftyDayAverage": 561.99,
@@ -91308,7 +91187,7 @@
       "fiftyTwoWeekHigh": 14.5,
       "fiftyDayAverage": 6.08,
       "twoHundredDayAverage": 7.31,
-      "volume": "16,721,725",
+      "volume": "16,663,521",
       "averageVolume": 11100283,
       "averageVolume10days": 8697983,
       "marketCap": 8464000000,
@@ -91475,7 +91354,7 @@
         },
         {
           "Close": NaN,
-          "Volume": 16721725
+          "Volume": 16663521
         }
       ],
       "heldPercentInsiders": 0.77331,
@@ -92247,7 +92126,7 @@
       "changeRate": NaN,
       "previousClose": 32.5,
       "open": 32.52,
-      "dayLow": 31.66,
+      "dayLow": 31.62,
       "dayHigh": 32.66,
       "fiftyTwoWeekLow": 30.48,
       "fiftyTwoWeekHigh": 49.0,
@@ -92458,7 +92337,7 @@
       "description": "Yesil Yatirim Holding Anonim Sirketi provides technical planning, programming, budgeting, and project planning, and financial organization in Turkey. It also offers real estate valuation services; and consultancy in various areas, such as firm valuation, investment and research on commercial, and industrial and financial issues. The company was incorporated in 2003 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.5742297,
+      "priceToBook": 0.59220034,
       "pegRatio": null,
       "priceToSales": -308.38788,
       "enterpriseToRevenue": -308.292,
@@ -92477,7 +92356,7 @@
       "quickRatio": 71.887,
       "eps": -0.03,
       "forwardEps": null,
-      "bookValue": 2.142,
+      "bookValue": 2.077,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -93592,7 +93471,7 @@
       "description": "Zedur Enerji Elektrik Üretim Anonim Sirketi primarily engages in the production, distribution, and sale of electricity in Turkey. The company generates electricity through hydroelectric and solar power plants. It is also involved in the provision of construction and contracting services for superstructure and infrastructure projects, including mass housing, office buildings, commercial centers, shopping malls, factories, luxury hotels, and holiday resorts, as well as infrastructure, canal, sewer, and tunnel construction projects; and the supply and sale of construction raw materials, intermediate materials, and supplies. The company was formerly known as Utopya Turizm Insaat Isletmecilik Ticaret A.S. and changed its name to Zedur Enerji Elektrik Üretim Anonim Sirketi in September 2022. Zedur Enerji Elektrik Üretim Anonim Sirketi was founded in 1980 and is headquartered in Ankara, Turkey.",
       "pe": 17.568182,
       "forwardPE": null,
-      "priceToBook": 0.5986679,
+      "priceToBook": 0.55198514,
       "pegRatio": null,
       "priceToSales": 10.690352,
       "enterpriseToRevenue": 14.364,
@@ -93611,7 +93490,7 @@
       "quickRatio": 0.225,
       "eps": 0.44,
       "forwardEps": null,
-      "bookValue": 12.912,
+      "bookValue": 14.004,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
