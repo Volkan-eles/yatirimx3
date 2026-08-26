@@ -1,5 +1,14 @@
 [
   {
+    "code": "BLCYT",
+    "company": "BLCYT Bilici Yatırım San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%900",
+    "date": "01.09.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 01.09.2026"
+  },
+  {
     "code": "LIDFA",
     "company": "LIDFA Lider Faktoring A.Ş.",
     "type": "Bedelsiz",
@@ -7,15 +16,6 @@
     "date": "20.08.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı | Tutar: 561.198.000 TL"
-  },
-  {
-    "code": "BLCYT",
-    "company": "BLCYT Bilici Yatırım San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%900",
-    "date": "20.08.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
   },
   {
     "code": "SDTTR",
@@ -49,7 +49,7 @@
     "company": "RALYH Ral Yatırım Holding A.Ş.",
     "type": "Bedelsiz",
     "rate": "%148",
-    "date": "23.08.2026",
+    "date": "23.07.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
   },
@@ -106,6 +106,15 @@
     "date": "06.07.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "CWENE",
+    "company": "CWENE Cw Enerji Mühendislik Tic. ve San. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%53,02",
+    "date": "01.07.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 571.709.991 TL"
   },
   {
     "code": "BYDNR",
@@ -349,6 +358,15 @@
     "date": "08.05.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "NETAS",
+    "company": "NETAS Netaş Telekomünikasyon A.Ş.",
+    "type": "Bedelli",
+    "rate": "%300",
+    "date": "25.08.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 194.594.400 TL"
   },
   {
     "code": "BIGTK",
