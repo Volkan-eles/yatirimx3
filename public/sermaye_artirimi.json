@@ -1,5 +1,14 @@
 [
   {
+    "code": "SDTTR",
+    "company": "SDTTR Sdt Uzay ve Savunma Teknolojileri A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1000",
+    "date": "27.08.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 27.08.2026"
+  },
+  {
     "code": "BLCYT",
     "company": "BLCYT Bilici Yatırım San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -18,13 +27,13 @@
     "description": "SPK Onayı Alındı | Tutar: 561.198.000 TL"
   },
   {
-    "code": "SDTTR",
-    "company": "SDTTR Sdt Uzay ve Savunma Teknolojileri A.Ş.",
+    "code": "MTRKS",
+    "company": "MTRKS Matriks Finansal Teknolojiler A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%1000",
-    "date": "13.08.2026",
+    "rate": "%200",
+    "date": "26.08.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "EGEGY",
