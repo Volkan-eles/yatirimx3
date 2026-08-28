@@ -1,14 +1,5 @@
 [
   {
-    "code": "SDTTR",
-    "company": "SDTTR Sdt Uzay ve Savunma Teknolojileri A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1000",
-    "date": "27.08.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 27.08.2026"
-  },
-  {
     "code": "BLCYT",
     "company": "BLCYT Bilici Yatırım San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -25,6 +16,24 @@
     "date": "20.08.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı | Tutar: 561.198.000 TL"
+  },
+  {
+    "code": "SDTTR",
+    "company": "SDTTR Sdt Uzay ve Savunma Teknolojileri A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1000",
+    "date": "27.08.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 27.08.2026"
+  },
+  {
+    "code": "SARKY",
+    "company": "SARKY Sarkuysan Elektrolit Bakır San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%50",
+    "date": "27.08.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı"
   },
   {
     "code": "MTRKS",
