@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-30T01:36:30.961633",
+  "last_update": "2026-08-30T08:08:13.765983",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -61,13 +61,13 @@
       "dividendYield": 3.96,
       "exDividendDate": 1775520000,
       "payoutRatio": 0.18370001,
-      "targetHighPrice": 205.73,
+      "targetHighPrice": 210.8,
       "targetLowPrice": 143.0,
-      "targetMeanPrice": 181.54933,
-      "targetMedianPrice": 189.65,
-      "recommendationMean": 1.46667,
+      "targetMeanPrice": 181.715,
+      "targetMedianPrice": 187.075,
+      "recommendationMean": 1.5,
       "recommendationKey": "strong_buy",
-      "numberOfAnalystOpinions": 15,
+      "numberOfAnalystOpinions": 16,
       "beta": 0.513,
       "historicalData": [
         {
@@ -192,7 +192,7 @@
         }
       ],
       "heldPercentInsiders": 0.85974,
-      "heldPercentInstitutions": 0.02327
+      "heldPercentInstitutions": 0.02273
     },
     {
       "code": "AKBNK",
@@ -247,7 +247,7 @@
       "forwardEps": 17.48,
       "bookValue": 62.459,
       "dividendRate": 2.2,
-      "dividendYield": 3.02,
+      "dividendYield": 3.01,
       "exDividendDate": 1774483200,
       "payoutRatio": 0.1715,
       "targetHighPrice": 116.6,
@@ -381,7 +381,7 @@
         }
       ],
       "heldPercentInsiders": 0.41277,
-      "heldPercentInstitutions": 0.19287
+      "heldPercentInstitutions": 0.19308001
     },
     {
       "code": "YKBNK",
@@ -570,7 +570,7 @@
         }
       ],
       "heldPercentInsiders": 0.61166,
-      "heldPercentInstitutions": 0.14042
+      "heldPercentInstitutions": 0.13897
     },
     {
       "code": "ISCTR",
@@ -759,7 +759,7 @@
         }
       ],
       "heldPercentInsiders": 0.66977996,
-      "heldPercentInstitutions": 0.0637
+      "heldPercentInstitutions": 0.06371
     },
     {
       "code": "VAKBN",
@@ -1915,7 +1915,7 @@
       "averageVolume": 148963761,
       "averageVolume10days": 184917695,
       "marketCap": 263228669952,
-      "enterpriseValue": 309117681664,
+      "enterpriseValue": 312882036736,
       "sharesOutstanding": 6721875999,
       "sector": "Basic Materials",
       "industry": "Steel",
@@ -1930,8 +1930,8 @@
       "priceToBook": 0.82610804,
       "pegRatio": 0.89,
       "priceToSales": 1.1035929,
-      "enterpriseToRevenue": 1.296,
-      "enterpriseToEbitda": 13.223,
+      "enterpriseToRevenue": 1.312,
+      "enterpriseToEbitda": 13.384,
       "profitMargins": 0.03233,
       "grossMargins": 0.09048,
       "operatingMargins": 0.0374,
@@ -1955,8 +1955,8 @@
       "targetLowPrice": 23.119,
       "targetMeanPrice": 39.83666,
       "targetMedianPrice": 41.0,
-      "recommendationMean": 2.64286,
-      "recommendationKey": "hold",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 14,
       "beta": 1.026,
       "historicalData": [
@@ -2460,7 +2460,7 @@
         }
       ],
       "heldPercentInsiders": 0.74195,
-      "heldPercentInstitutions": 0.09476
+      "heldPercentInstitutions": 0.09477
     },
     {
       "code": "BIMAS",
@@ -2515,7 +2515,7 @@
       "forwardEps": 53.18,
       "bookValue": 169.807,
       "dividendRate": 9.5,
-      "dividendYield": 2.3,
+      "dividendYield": 2.29,
       "exDividendDate": 1789516800,
       "payoutRatio": 0.3148,
       "targetHighPrice": 546.0,
@@ -2649,7 +2649,7 @@
         }
       ],
       "heldPercentInsiders": 0.27569,
-      "heldPercentInstitutions": 0.2283
+      "heldPercentInstitutions": 0.22838
     },
     {
       "code": "MGROS",
@@ -3049,7 +3049,7 @@
       "averageVolume": 36764052,
       "averageVolume10days": 28769254,
       "marketCap": 187249999872,
-      "enterpriseValue": 306454167552,
+      "enterpriseValue": 306629115904,
       "sharesOutstanding": 3500000000,
       "sector": "Communication Services",
       "industry": "Telecom Services",
@@ -3065,7 +3065,7 @@
       "pegRatio": 0.78,
       "priceToSales": 0.73730147,
       "enterpriseToRevenue": 1.207,
-      "enterpriseToEbitda": 3.062,
+      "enterpriseToEbitda": 3.064,
       "profitMargins": 0.10436,
       "grossMargins": 0.41224998,
       "operatingMargins": 0.16662,
@@ -3216,7 +3216,7 @@
         }
       ],
       "heldPercentInsiders": 0.8668,
-      "heldPercentInstitutions": 0.02537
+      "heldPercentInstitutions": 0.0253
     },
     {
       "code": "TCELL",
@@ -3405,7 +3405,7 @@
         }
       ],
       "heldPercentInsiders": 0.46,
-      "heldPercentInstitutions": 0.13407
+      "heldPercentInstitutions": 0.13408
     },
     {
       "code": "SISE",
@@ -3783,7 +3783,7 @@
         }
       ],
       "heldPercentInsiders": 0.6614,
-      "heldPercentInstitutions": 0.03312
+      "heldPercentInstitutions": 0.03309
     },
     {
       "code": "VESTL",
@@ -4601,8 +4601,8 @@
       "targetLowPrice": 90.0,
       "targetMeanPrice": 131.29167,
       "targetMedianPrice": 127.5,
-      "recommendationMean": 2.08333,
-      "recommendationKey": "buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 12,
       "beta": 0.317,
       "historicalData": [
@@ -4783,7 +4783,7 @@
       "forwardEps": 31.71,
       "bookValue": 131.482,
       "dividendRate": 20.0,
-      "dividendYield": 7.31,
+      "dividendYield": 7.35,
       "exDividendDate": 1774224000,
       "payoutRatio": 0.7981,
       "targetHighPrice": 442.45,
@@ -5295,7 +5295,7 @@
         }
       ],
       "heldPercentInsiders": 0.5017,
-      "heldPercentInstitutions": 0.18888001
+      "heldPercentInstitutions": 0.18901
     },
     {
       "code": "EKGYO",
@@ -6484,7 +6484,7 @@
       "forwardEps": 13.18,
       "bookValue": 56.725,
       "dividendRate": 5.26,
-      "dividendYield": 3.83,
+      "dividendYield": 3.86,
       "exDividendDate": 1782777600,
       "payoutRatio": 0.79150003,
       "targetHighPrice": 245.32,
@@ -9508,7 +9508,7 @@
       "forwardEps": null,
       "bookValue": 61.392,
       "dividendRate": 2.38,
-      "dividendYield": 4.85,
+      "dividendYield": 4.88,
       "exDividendDate": 1778544000,
       "payoutRatio": 0.5759,
       "targetHighPrice": null,
@@ -11020,7 +11020,7 @@
       "forwardEps": null,
       "bookValue": 14.699,
       "dividendRate": 0.3,
-      "dividendYield": 3.36,
+      "dividendYield": 3.34,
       "exDividendDate": 1782259200,
       "payoutRatio": 5.6122,
       "targetHighPrice": null,
@@ -15879,7 +15879,7 @@
         }
       ],
       "heldPercentInsiders": 0.37249002,
-      "heldPercentInstitutions": 0.23659
+      "heldPercentInstitutions": 0.23663001
     },
     {
       "code": "ATAGY",
@@ -16690,7 +16690,7 @@
       "forwardEps": null,
       "bookValue": 9.103,
       "dividendRate": 0.03,
-      "dividendYield": 0.45,
+      "dividendYield": 0.46,
       "exDividendDate": 1765152000,
       "payoutRatio": 0.0202,
       "targetHighPrice": null,
@@ -24951,7 +24951,7 @@
         }
       ],
       "heldPercentInsiders": 0.7043,
-      "heldPercentInstitutions": 0.09563
+      "heldPercentInstitutions": 0.096049994
     },
     {
       "code": "CELHA",
@@ -37236,7 +37236,7 @@
         }
       ],
       "heldPercentInsiders": 0.64123,
-      "heldPercentInstitutions": 0.04535
+      "heldPercentInstitutions": 0.0458
     },
     {
       "code": "EUREN",
@@ -38369,7 +38369,7 @@
           "Volume": 960491
         }
       ],
-      "heldPercentInsiders": 0.25825,
+      "heldPercentInsiders": 0.25985,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -38425,7 +38425,7 @@
       "forwardEps": null,
       "bookValue": 49.899,
       "dividendRate": 4.76,
-      "dividendYield": 1.61,
+      "dividendYield": 1.59,
       "exDividendDate": 1774569600,
       "payoutRatio": 0.4804,
       "targetHighPrice": null,
@@ -39125,7 +39125,7 @@
           "Volume": 2519772
         }
       ],
-      "heldPercentInsiders": 0.64585996,
+      "heldPercentInsiders": 0.63677,
       "heldPercentInstitutions": 0.00215
     },
     {
@@ -41015,7 +41015,7 @@
           "Volume": 7790906
         }
       ],
-      "heldPercentInsiders": 0.52207,
+      "heldPercentInsiders": 0.52161,
       "heldPercentInstitutions": 0.0019200001
     },
     {
@@ -46686,7 +46686,7 @@
         }
       ],
       "heldPercentInsiders": 0.36551,
-      "heldPercentInstitutions": 0.33986
+      "heldPercentInstitutions": 0.33987
     },
     {
       "code": "IHAAS",
@@ -59038,7 +59038,7 @@
           "Volume": 74378207
         }
       ],
-      "heldPercentInsiders": 0.38186002,
+      "heldPercentInsiders": 0.38944,
       "heldPercentInstitutions": 0.43058997
     },
     {
@@ -62440,7 +62440,7 @@
           "Volume": 877960
         }
       ],
-      "heldPercentInsiders": 0.68055,
+      "heldPercentInsiders": 0.6795,
       "heldPercentInstitutions": 0.0
     },
     {
@@ -70568,7 +70568,7 @@
         }
       ],
       "heldPercentInsiders": 0.80051005,
-      "heldPercentInstitutions": 0.041279998
+      "heldPercentInstitutions": 0.04133
     },
     {
       "code": "OYAYO",
@@ -77205,7 +77205,7 @@
       "averageVolume": 1661213,
       "averageVolume10days": 2393384,
       "marketCap": 70337503232,
-      "enterpriseValue": 95084371968,
+      "enterpriseValue": 96011173888,
       "sharesOutstanding": 331000000,
       "sector": "Real Estate",
       "industry": "Real Estate - Development",
@@ -77220,8 +77220,8 @@
       "priceToBook": 0.429071,
       "pegRatio": null,
       "priceToSales": 4.393973,
-      "enterpriseToRevenue": 5.94,
-      "enterpriseToEbitda": 8.979,
+      "enterpriseToRevenue": 5.998,
+      "enterpriseToEbitda": 9.066,
       "profitMargins": 1.20684,
       "grossMargins": 0.72525,
       "operatingMargins": 0.65454,
@@ -87011,7 +87011,7 @@
         }
       ],
       "heldPercentInsiders": 0.85276,
-      "heldPercentInstitutions": 0.0152900005
+      "heldPercentInstitutions": 0.01525
     },
     {
       "code": "TRILC",
