@@ -1,14 +1,5 @@
 [
   {
-    "code": "BLCYT",
-    "company": "BLCYT Bilici Yatırım San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%900",
-    "date": "01.09.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 01.09.2026"
-  },
-  {
     "code": "LIDFA",
     "company": "LIDFA Lider Faktoring A.Ş.",
     "type": "Bedelsiz",
@@ -25,6 +16,15 @@
     "date": "27.08.2026",
     "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 27.08.2026"
+  },
+  {
+    "code": "BLCYT",
+    "company": "BLCYT Bilici Yatırım San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%900",
+    "date": "01.09.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 01.09.2026"
   },
   {
     "code": "SARKY",
