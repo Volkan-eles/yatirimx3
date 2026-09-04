@@ -1,5 +1,23 @@
 [
   {
+    "code": "ONRYT",
+    "company": "ONRYT Onur Yüksek Teknoloji A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%300",
+    "date": "03.09.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 188.490.000 TL"
+  },
+  {
+    "code": "MHRGY",
+    "company": "MHRGY Mhr Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%50",
+    "date": "03.09.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 620.250.000 TL"
+  },
+  {
     "code": "LIDFA",
     "company": "LIDFA Lider Faktoring A.Ş.",
     "type": "Bedelsiz",
@@ -225,15 +243,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "MHRGY",
-    "company": "MHRGY Mhr Gayrimenkul Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%50",
-    "date": "25.05.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 620.250.000 TL"
-  },
-  {
     "code": "MEGMT",
     "company": "MEGMT Mega Metal San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -277,15 +286,6 @@
     "date": "15.04.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "ONRYT",
-    "company": "ONRYT Onur Yüksek Teknoloji A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%300",
-    "date": "10.04.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 188.490.000 TL"
   },
   {
     "code": "DSTKF",
