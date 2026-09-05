@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-05T03:48:47.537904",
+  "last_update": "2026-09-05T08:15:04.092074",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -2144,8 +2144,8 @@
       "targetLowPrice": 43.48547,
       "targetMeanPrice": 50.539516,
       "targetMedianPrice": 50.43443,
-      "recommendationMean": 2.14286,
-      "recommendationKey": "buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 6,
       "beta": 0.466,
       "historicalData": [
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.36,
       "exDividendDate": 1790035200,
       "payoutRatio": 0.0,
-      "targetHighPrice": 512.3922,
-      "targetLowPrice": 351.40128,
-      "targetMeanPrice": 434.87805,
-      "targetMedianPrice": 434.25928,
+      "targetHighPrice": 512.5088,
+      "targetLowPrice": 351.48123,
+      "targetMeanPrice": 434.977,
+      "targetMedianPrice": 434.35806,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -8164,7 +8164,7 @@
       "description": "Odas Elektrik Üretim Sanayi Ticaret A.S., together with its subsidiaries, produces and sells electricity by natural gas combined cycles in Turkey and internationally. The company operates a thermal power plant with an installed capacity of 340 MW. It also produces, imports, and wholesales natural gas, liquefied natural gas (LNG), and compressed natural gas (CNG) to exporters, LNG and CNG clients, wholesale companies, and consumers. In addition, the company extracts, purchases, manufactures, imports, exports, sells, and installs various natural stone and mineral ores that primarily include gold, silver, antimony, and coal. The company was founded in 2010 and is headquartered in Istanbul, Turkey.",
       "pe": null,
       "forwardPE": 6.5818176,
-      "priceToBook": 0.6521935,
+      "priceToBook": 0.6392936,
       "pegRatio": null,
       "priceToSales": 1.1216109,
       "enterpriseToRevenue": 3.552,
@@ -8183,7 +8183,7 @@
       "quickRatio": 1.367,
       "eps": -0.09,
       "forwardEps": 1.1,
-      "bookValue": 11.101,
+      "bookValue": 11.325,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": 1432857600,
@@ -8567,9 +8567,9 @@
       "exDividendDate": 1779235200,
       "payoutRatio": 0.3856,
       "targetHighPrice": 53.0,
-      "targetLowPrice": 39.96,
-      "targetMeanPrice": 46.92,
-      "targetMedianPrice": 46.74,
+      "targetLowPrice": 44.0,
+      "targetMeanPrice": 49.05,
+      "targetMedianPrice": 50.61,
       "recommendationMean": 1.0,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 5,
@@ -28920,7 +28920,7 @@
         }
       ],
       "heldPercentInsiders": 0.82204,
-      "heldPercentInstitutions": 0.00257
+      "heldPercentInstitutions": 0.00281
     },
     {
       "code": "DGATE",
@@ -31789,7 +31789,7 @@
       "description": "EIS Eczacibasi Ilaç, Sinai ve Finansal Yatirimlar Sanayi ve Ticaret A.S., together with subsidiaries, engages in health and real estate development businesses in Turkey and internationally. The Health segment is involved in the production, marketing, and sale of medicines related to human health and veterinary medicines. The Real Estate Development segment engages in development of real estate properties; rental activities for serum facilities; and providing consulting services on land development and project management. The company was incorporated in 1951 and is based in Istanbul, Turkey. EIS Eczacibasi Ilaç, Sinai ve Finansal Yatirimlar Sanayi ve Ticaret A.S. is a subsidiary of Eczacibasi Holding A.S.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 0.8212089,
+      "priceToBook": 0.7284406,
       "pegRatio": null,
       "priceToSales": 5.3755484,
       "enterpriseToRevenue": 5.533,
@@ -31808,7 +31808,7 @@
       "quickRatio": 0.975,
       "eps": -3.38,
       "forwardEps": null,
-      "bookValue": 89.076,
+      "bookValue": 100.42,
       "dividendRate": 1.75,
       "dividendYield": 2.5,
       "exDividendDate": 1778025600,
@@ -53890,7 +53890,7 @@
       "averageVolume": 6423855,
       "averageVolume10days": 4122482,
       "marketCap": 1558274944,
-      "enterpriseValue": 1478010496,
+      "enterpriseValue": 1468218880,
       "sharesOutstanding": 197500000,
       "sector": "Technology",
       "industry": "Software - Application",
@@ -53905,8 +53905,8 @@
       "priceToBook": 1.1967238,
       "pegRatio": null,
       "priceToSales": 0.5008052,
-      "enterpriseToRevenue": 0.475,
-      "enterpriseToEbitda": 7.824,
+      "enterpriseToRevenue": 0.472,
+      "enterpriseToEbitda": 7.772,
       "profitMargins": 0.0075,
       "grossMargins": 0.16274999,
       "operatingMargins": 0.011770001,
@@ -54686,8 +54686,8 @@
       "targetLowPrice": 48.6,
       "targetMeanPrice": 52.6425,
       "targetMedianPrice": 51.31,
-      "recommendationMean": 1.75,
-      "recommendationKey": "buy",
+      "recommendationMean": null,
+      "recommendationKey": "none",
       "numberOfAnalystOpinions": 4,
       "beta": -0.443,
       "historicalData": [
@@ -55981,7 +55981,7 @@
       "description": "Konfrut Tarim A.S., together with its subsidiaries, operates in agricultural and food sectors. It engages in cultivation, harvesting, storage, packaging, wholesale and retail trade, import, and export of all kinds of legumes, grains, and fruits and vegetables, including strawberry, beet, apple, carrot, pomegranate, watermelon, orange, pear, mandarin, quince, tomatoes, and lemon. The company also provides logistics solutions for agricultural products. Konfrut Tarim A.S. was formerly known as Konfrut Gida Sanayi ve Ticaret A.S. and changed its name to Konfrut Tarim A.S. in January 2025. Konfrut Tarim A.S. was founded in 1968 and is headquartered in Istanbul, Turkey. Konfrut Gida Sanayi ve Ticaret A.S. operates as a subsidiary of Dohler Gida Sanayi Anonim Sirketi.",
       "pe": null,
       "forwardPE": null,
-      "priceToBook": 2.0412726,
+      "priceToBook": 1.9684908,
       "pegRatio": null,
       "priceToSales": 0.43355006,
       "enterpriseToRevenue": 0.522,
@@ -56000,7 +56000,7 @@
       "quickRatio": 1.401,
       "eps": -0.4,
       "forwardEps": null,
-      "bookValue": 5.815,
+      "bookValue": 6.03,
       "dividendRate": null,
       "dividendYield": null,
       "exDividendDate": null,
@@ -68799,7 +68799,7 @@
         }
       ],
       "heldPercentInsiders": 0.65205,
-      "heldPercentInstitutions": 0.08403
+      "heldPercentInstitutions": 0.08415
     },
     {
       "code": "OFSYM",
@@ -87699,7 +87699,7 @@
         }
       ],
       "heldPercentInsiders": 0.56345004,
-      "heldPercentInstitutions": 0.07674
+      "heldPercentInstitutions": 0.07653
     },
     {
       "code": "TSPOR",
