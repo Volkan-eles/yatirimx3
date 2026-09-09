@@ -1,21 +1,12 @@
 [
   {
-    "code": "MHRGY",
-    "company": "MHRGY Mhr Gayrimenkul Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%50",
-    "date": "08.09.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 08.09.2026 | Tutar: 620.250.000 TL"
-  },
-  {
     "code": "ONRYT",
     "company": "ONRYT Onur Yüksek Teknoloji A.Ş.",
     "type": "Bedelsiz",
     "rate": "%300",
-    "date": "03.09.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 188.490.000 TL"
+    "date": "14.09.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 14.09.2026 | Tutar: 188.490.000 TL"
   },
   {
     "code": "LIDFA",
@@ -25,6 +16,15 @@
     "date": "20.08.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı | Tutar: 561.198.000 TL"
+  },
+  {
+    "code": "MHRGY",
+    "company": "MHRGY Mhr Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%50",
+    "date": "08.09.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 08.09.2026 | Tutar: 620.250.000 TL"
   },
   {
     "code": "SARKY",
