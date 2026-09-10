@@ -1,5 +1,41 @@
 [
   {
+    "code": "MEGMT",
+    "company": "MEGMT Mega Metal San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%860",
+    "date": "09.09.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "KORDS",
+    "company": "KORDS Kordsa Teknik Tekstil A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1799",
+    "date": "09.09.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 3.501.331.195 TL"
+  },
+  {
+    "code": "HRKET",
+    "company": "HRKET Hareket Proje Taşımacılığı ve Yük Mühendisliği A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1300",
+    "date": "09.09.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "INFO",
+    "company": "INFO İnfo Yatırım Menkul Değerler A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "09.09.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 960.336.000 TL"
+  },
+  {
     "code": "ONRYT",
     "company": "ONRYT Onur Yüksek Teknoloji A.Ş.",
     "type": "Bedelsiz",
@@ -52,15 +88,6 @@
     "date": "18.08.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "KORDS",
-    "company": "KORDS Kordsa Teknik Tekstil A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1799",
-    "date": "24.07.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 3.501.331.195 TL"
   },
   {
     "code": "RALYH",
@@ -171,15 +198,6 @@
     "description": "Yönetim Kurulu Kararı"
   },
   {
-    "code": "INFO",
-    "company": "INFO İnfo Yatırım Menkul Değerler A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "26.06.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 960.336.000 TL"
-  },
-  {
     "code": "FLAP",
     "company": "FLAP Flap Kongre ve Turizm Hizmetleri A.Ş.",
     "type": "Bedelsiz",
@@ -221,15 +239,6 @@
     "type": "Bedelsiz",
     "rate": "%200",
     "date": "03.07.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "MEGMT",
-    "company": "MEGMT Mega Metal San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%860",
-    "date": "08.05.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
   },
