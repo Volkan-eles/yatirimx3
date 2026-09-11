@@ -1,5 +1,23 @@
 [
   {
+    "code": "ONRYT",
+    "company": "ONRYT Onur Yüksek Teknoloji A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%300",
+    "date": "14.09.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 14.09.2026 | Tutar: 188.490.000 TL"
+  },
+  {
+    "code": "LIDFA",
+    "company": "LIDFA Lider Faktoring A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%51,54",
+    "date": "15.09.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 15.09.2026 | Tutar: 561.198.000 TL"
+  },
+  {
     "code": "MEGMT",
     "company": "MEGMT Mega Metal San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -34,24 +52,6 @@
     "date": "09.09.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı | Tutar: 960.336.000 TL"
-  },
-  {
-    "code": "ONRYT",
-    "company": "ONRYT Onur Yüksek Teknoloji A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%300",
-    "date": "14.09.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 14.09.2026 | Tutar: 188.490.000 TL"
-  },
-  {
-    "code": "LIDFA",
-    "company": "LIDFA Lider Faktoring A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%51,54",
-    "date": "20.08.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 561.198.000 TL"
   },
   {
     "code": "MHRGY",
@@ -619,15 +619,6 @@
     "date": "25.02.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "ETILR",
-    "company": "ETILR Etiler Gıda ve Ticari Yatırımlar San. ve Tic. A.Ş.",
-    "type": "Tahsisli",
-    "rate": "%26.73",
-    "date": "27.08.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 64.175.957 TL"
   },
   {
     "code": "KLYPV",
