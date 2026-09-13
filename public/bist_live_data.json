@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-09-13T19:17:59.323207",
+  "last_update": "2026-09-13T21:39:11.586623",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 499,
-  "successful": 499,
-  "failed": 32,
+  "total_stocks": 498,
+  "successful": 498,
+  "failed": 33,
   "stocks": [
     {
       "code": "GARAN",
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 60.3002,
-      "targetLowPrice": 43.250465,
-      "targetMeanPrice": 50.266388,
-      "targetMedianPrice": 50.16187,
+      "targetHighPrice": 60.810642,
+      "targetLowPrice": 43.61658,
+      "targetMeanPrice": 50.69189,
+      "targetMedianPrice": 50.586487,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 6,
@@ -2709,8 +2709,8 @@
       "payoutRatio": 0.2344,
       "targetHighPrice": 1061.74,
       "targetLowPrice": 700.0,
-      "targetMeanPrice": 903.5523,
-      "targetMedianPrice": 900.0,
+      "targetMeanPrice": 915.5523,
+      "targetMedianPrice": 910.0,
       "recommendationMean": 1.21429,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 13,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.32,
       "exDividendDate": 1790035200,
       "payoutRatio": 0.0,
-      "targetHighPrice": 513.8706,
-      "targetLowPrice": 352.41516,
-      "targetMeanPrice": 437.47653,
-      "targetMedianPrice": 435.5122,
+      "targetHighPrice": 513.0404,
+      "targetLowPrice": 351.8458,
+      "targetMeanPrice": 436.76978,
+      "targetMedianPrice": 434.80862,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 77.735245,
-      "targetLowPrice": 61.552444,
-      "targetMeanPrice": 67.942245,
-      "targetMedianPrice": 64.53856,
+      "targetHighPrice": 78.39601,
+      "targetLowPrice": 62.075653,
+      "targetMeanPrice": 68.51977,
+      "targetMedianPrice": 65.08715,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -94005,195 +94005,6 @@
       ],
       "heldPercentInsiders": 0.622,
       "heldPercentInstitutions": 0.051119998
-    },
-    {
-      "code": "ZRGYO",
-      "symbol": "ZRGYO.IS",
-      "name": "Ziraat Gayrimenkul Yatirim Ortakligi A.S.",
-      "shortName": "ZIRAAT GMYO",
-      "price": 20.0,
-      "change": 0.14,
-      "changeRate": 0.7,
-      "previousClose": 19.86,
-      "open": 19.73,
-      "dayLow": 19.66,
-      "dayHigh": 20.98,
-      "fiftyTwoWeekLow": 14.78,
-      "fiftyTwoWeekHigh": 25.86,
-      "fiftyDayAverage": 18.72,
-      "twoHundredDayAverage": 20.75,
-      "volume": "3,688,001",
-      "averageVolume": 2577872,
-      "averageVolume10days": 1008000,
-      "marketCap": 93872406528,
-      "enterpriseValue": 104015224832,
-      "sharesOutstanding": 4693620000,
-      "sector": "Real Estate",
-      "industry": "REIT - Diversified",
-      "website": "https://www.ziraatgyo.com.tr",
-      "address": "Sahrayi Cedit Mahallesi",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 216 369 77 72",
-      "description": "Ziraat Gayrimenkul Yatirim Ortakligi A.S. operates as a real estate investment company in Turkey. Its portfolio consists of office building, and hotel and housing investments. The company was founded in 2016 and is based in Istanbul, Turkey.",
-      "pe": 16.393442,
-      "forwardPE": null,
-      "priceToBook": 1.0015023,
-      "pegRatio": null,
-      "priceToSales": 22.771544,
-      "enterpriseToRevenue": 25.232,
-      "enterpriseToEbitda": 46.067,
-      "profitMargins": 1.38493,
-      "grossMargins": 0.62562,
-      "operatingMargins": 0.5542,
-      "returnOnAssets": 0.014780001,
-      "returnOnEquity": 0.07145,
-      "totalRevenue": 4122355968,
-      "revenuePerShare": 0.878,
-      "totalCash": 414978784,
-      "totalDebt": 10557807616,
-      "debtToEquity": 11.264,
-      "currentRatio": 1.019,
-      "quickRatio": 0.098,
-      "eps": 1.22,
-      "forwardEps": null,
-      "bookValue": 19.97,
-      "dividendRate": 0.09,
-      "dividendYield": 0.46,
-      "exDividendDate": 1782777600,
-      "payoutRatio": 0.1266,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": -0.376,
-      "historicalData": [
-        {
-          "Close": 18.700000762939453,
-          "Volume": 945615
-        },
-        {
-          "Close": 18.25,
-          "Volume": 33747435
-        },
-        {
-          "Close": 17.920000076293945,
-          "Volume": 708496
-        },
-        {
-          "Close": 17.899999618530273,
-          "Volume": 1331517
-        },
-        {
-          "Close": 17.690000534057617,
-          "Volume": 388456
-        },
-        {
-          "Close": 17.81999969482422,
-          "Volume": 662604
-        },
-        {
-          "Close": 18.299999237060547,
-          "Volume": 693539
-        },
-        {
-          "Close": 18.90999984741211,
-          "Volume": 2965417
-        },
-        {
-          "Close": 19.719999313354492,
-          "Volume": 1986801
-        },
-        {
-          "Close": 19.530000686645508,
-          "Volume": 1201956
-        },
-        {
-          "Close": 19.530000686645508,
-          "Volume": 703846
-        },
-        {
-          "Close": 19.84000015258789,
-          "Volume": 592793
-        },
-        {
-          "Close": 19.5,
-          "Volume": 488687
-        },
-        {
-          "Close": 19.489999771118164,
-          "Volume": 718508
-        },
-        {
-          "Close": 19.860000610351562,
-          "Volume": 706445
-        },
-        {
-          "Close": 19.799999237060547,
-          "Volume": 853080
-        },
-        {
-          "Close": 19.790000915527344,
-          "Volume": 1768668
-        },
-        {
-          "Close": 19.670000076293945,
-          "Volume": 624962
-        },
-        {
-          "Close": 19.530000686645508,
-          "Volume": 1208229
-        },
-        {
-          "Close": 19.5,
-          "Volume": 595960
-        },
-        {
-          "Close": 19.450000762939453,
-          "Volume": 1013089
-        },
-        {
-          "Close": 19.520000457763672,
-          "Volume": 1434597
-        },
-        {
-          "Close": 19.489999771118164,
-          "Volume": 509507
-        },
-        {
-          "Close": 19.540000915527344,
-          "Volume": 1453906
-        },
-        {
-          "Close": 19.489999771118164,
-          "Volume": 502202
-        },
-        {
-          "Close": 19.700000762939453,
-          "Volume": 351531
-        },
-        {
-          "Close": 19.559999465942383,
-          "Volume": 537429
-        },
-        {
-          "Close": 19.479999542236328,
-          "Volume": 658904
-        },
-        {
-          "Close": 19.860000610351562,
-          "Volume": 623583
-        },
-        {
-          "Close": 20.0,
-          "Volume": 3688001
-        }
-      ],
-      "heldPercentInsiders": 0.81058997,
-      "heldPercentInstitutions": 0.17038
     }
   ]
 }
