@@ -5,8 +5,17 @@
     "type": "Bedelsiz",
     "rate": "%300",
     "date": "14.09.2026",
-    "status": "Onaylandı",
+    "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 14.09.2026 | Tutar: 188.490.000 TL"
+  },
+  {
+    "code": "KORDS",
+    "company": "KORDS Kordsa Teknik Tekstil A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1799",
+    "date": "14.09.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 14.09.2026 | Tutar: 3.501.331.195 TL"
   },
   {
     "code": "LIDFA",
@@ -18,6 +27,15 @@
     "description": "Bölünme Tarihi: 15.09.2026 | Tutar: 561.198.000 TL"
   },
   {
+    "code": "INFO",
+    "company": "INFO İnfo Yatırım Menkul Değerler A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "15.09.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 15.09.2026 | Tutar: 960.336.000 TL"
+  },
+  {
     "code": "MEGMT",
     "company": "MEGMT Mega Metal San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -27,15 +45,6 @@
     "description": "SPK Onayı Alındı"
   },
   {
-    "code": "KORDS",
-    "company": "KORDS Kordsa Teknik Tekstil A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1799",
-    "date": "09.09.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 3.501.331.195 TL"
-  },
-  {
     "code": "HRKET",
     "company": "HRKET Hareket Proje Taşımacılığı ve Yük Mühendisliği A.Ş.",
     "type": "Bedelsiz",
@@ -43,15 +52,6 @@
     "date": "09.09.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "INFO",
-    "company": "INFO İnfo Yatırım Menkul Değerler A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "09.09.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı | Tutar: 960.336.000 TL"
   },
   {
     "code": "MHRGY",
