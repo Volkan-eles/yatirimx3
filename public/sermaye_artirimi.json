@@ -1,5 +1,50 @@
 [
   {
+    "code": "LIDFA",
+    "company": "LIDFA Lider Faktoring A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%51,54",
+    "date": "15.09.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 15.09.2026 | Tutar: 561.198.000 TL"
+  },
+  {
+    "code": "INFO",
+    "company": "INFO İnfo Yatırım Menkul Değerler A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%100",
+    "date": "15.09.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 15.09.2026 | Tutar: 960.336.000 TL"
+  },
+  {
+    "code": "HRKET",
+    "company": "HRKET Hareket Proje Taşımacılığı ve Yük Mühendisliği A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1300",
+    "date": "21.09.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 21.09.2026"
+  },
+  {
+    "code": "MEGMT",
+    "company": "MEGMT Mega Metal San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%860",
+    "date": "09.09.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı"
+  },
+  {
+    "code": "MHRGY",
+    "company": "MHRGY Mhr Gayrimenkul Yatırım Ortaklığı A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%50",
+    "date": "08.09.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 08.09.2026 | Tutar: 620.250.000 TL"
+  },
+  {
     "code": "ONRYT",
     "company": "ONRYT Onur Yüksek Teknoloji A.Ş.",
     "type": "Bedelsiz",
@@ -16,51 +61,6 @@
     "date": "14.09.2026",
     "status": "Tamamlandı",
     "description": "Bölünme Tarihi: 14.09.2026 | Tutar: 3.501.331.195 TL"
-  },
-  {
-    "code": "LIDFA",
-    "company": "LIDFA Lider Faktoring A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%51,54",
-    "date": "15.09.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 15.09.2026 | Tutar: 561.198.000 TL"
-  },
-  {
-    "code": "INFO",
-    "company": "INFO İnfo Yatırım Menkul Değerler A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%100",
-    "date": "15.09.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 15.09.2026 | Tutar: 960.336.000 TL"
-  },
-  {
-    "code": "MEGMT",
-    "company": "MEGMT Mega Metal San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%860",
-    "date": "09.09.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "HRKET",
-    "company": "HRKET Hareket Proje Taşımacılığı ve Yük Mühendisliği A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1300",
-    "date": "09.09.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
-    "code": "MHRGY",
-    "company": "MHRGY Mhr Gayrimenkul Yatırım Ortaklığı A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%50",
-    "date": "08.09.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 08.09.2026 | Tutar: 620.250.000 TL"
   },
   {
     "code": "SARKY",
