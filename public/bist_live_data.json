@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-20T19:01:28.883984",
+  "last_update": "2026-09-20T21:32:47.956782",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -2140,10 +2140,10 @@
       "dividendYield": null,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 61.063168,
-      "targetLowPrice": 43.11489,
-      "targetMeanPrice": 50.788265,
-      "targetMedianPrice": 50.796555,
+      "targetHighPrice": 61.045517,
+      "targetLowPrice": 43.102425,
+      "targetMeanPrice": 50.773582,
+      "targetMedianPrice": 50.78187,
       "recommendationMean": 2.14286,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 6,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.31,
       "exDividendDate": 1790035200,
       "payoutRatio": 0.0,
-      "targetHighPrice": 509.2112,
-      "targetLowPrice": 349.9882,
-      "targetMeanPrice": 434.36182,
-      "targetMedianPrice": 432.513,
+      "targetHighPrice": 509.423,
+      "targetLowPrice": 350.13376,
+      "targetMeanPrice": 434.54248,
+      "targetMedianPrice": 432.69287,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -45232,10 +45232,10 @@
       "dividendYield": null,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 78.71881,
-      "targetLowPrice": 62.331253,
-      "targetMeanPrice": 68.8019,
-      "targetMedianPrice": 65.35515,
+      "targetHighPrice": 78.68314,
+      "targetLowPrice": 62.303013,
+      "targetMeanPrice": 68.77073,
+      "targetMedianPrice": 65.32554,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 3,
@@ -73599,10 +73599,10 @@
       "symbol": "PETUN.IS",
       "name": "Pinar Entegre Et ve Un Sanayii A.S.",
       "shortName": "PINAR ET VE UN",
-      "price": 10.81,
-      "change": -0.24,
+      "price": 10.57,
+      "change": -0.23,
       "changeRate": -2.17,
-      "previousClose": 11.05,
+      "previousClose": 10.8,
       "open": 11.16,
       "dayLow": 10.61,
       "dayHigh": 11.16,
@@ -73660,123 +73660,123 @@
       "beta": -0.025,
       "historicalData": [
         {
-          "Close": 10.670000076293945,
+          "Close": 10.428173065185547,
           "Volume": 1150625
         },
         {
-          "Close": 10.84000015258789,
+          "Close": 10.594320297241211,
           "Volume": 1836066
         },
         {
-          "Close": 10.970000267028809,
+          "Close": 10.72137451171875,
           "Volume": 3484271
         },
         {
-          "Close": 10.949999809265137,
+          "Close": 10.701827049255371,
           "Volume": 1408532
         },
         {
-          "Close": 10.930000305175781,
+          "Close": 10.682280540466309,
           "Volume": 1932239
         },
         {
-          "Close": 11.109999656677246,
+          "Close": 10.858200073242188,
           "Volume": 1223601
         },
         {
-          "Close": 11.050000190734863,
+          "Close": 10.799560546875,
           "Volume": 1631089
         },
         {
-          "Close": 11.119999885559082,
+          "Close": 10.867974281311035,
           "Volume": 961353
         },
         {
-          "Close": 11.220000267028809,
+          "Close": 10.965707778930664,
           "Volume": 938465
         },
         {
-          "Close": 11.369999885559082,
+          "Close": 11.112308502197266,
           "Volume": 1640464
         },
         {
-          "Close": 11.350000381469727,
+          "Close": 11.092761993408203,
           "Volume": 972994
         },
         {
-          "Close": 11.34000015258789,
+          "Close": 11.082987785339355,
           "Volume": 700265
         },
         {
-          "Close": 11.149999618530273,
+          "Close": 10.897294044494629,
           "Volume": 759513
         },
         {
-          "Close": 11.220000267028809,
+          "Close": 10.965707778930664,
           "Volume": 773282
         },
         {
-          "Close": 11.59000015258789,
+          "Close": 11.327322006225586,
           "Volume": 7287283
         },
         {
-          "Close": 11.539999961853027,
+          "Close": 11.278454780578613,
           "Volume": 2334308
         },
         {
-          "Close": 11.930000305175781,
+          "Close": 11.659616470336914,
           "Volume": 18220528
         },
         {
-          "Close": 11.75,
+          "Close": 11.483695983886719,
           "Volume": 3086138
         },
         {
-          "Close": 11.5,
+          "Close": 11.239361763000488,
           "Volume": 2838096
         },
         {
-          "Close": 11.350000381469727,
+          "Close": 11.092761993408203,
           "Volume": 1383083
         },
         {
-          "Close": 11.699999809265137,
+          "Close": 11.434828758239746,
           "Volume": 4471367
         },
         {
-          "Close": 12.289999961853027,
+          "Close": 12.011457443237305,
           "Volume": 7158785
         },
         {
-          "Close": 12.039999961853027,
+          "Close": 11.767123222351074,
           "Volume": 6393369
         },
         {
-          "Close": 12.09000015258789,
+          "Close": 11.815990447998047,
           "Volume": 3369072
         },
         {
-          "Close": 12.199999809265137,
+          "Close": 11.92349624633789,
           "Volume": 2708666
         },
         {
-          "Close": 11.899999618530273,
+          "Close": 11.630295753479004,
           "Volume": 1590155
         },
         {
-          "Close": 11.729999542236328,
+          "Close": 11.46414852142334,
           "Volume": 1207242
         },
         {
-          "Close": 11.460000038146973,
+          "Close": 11.200268745422363,
           "Volume": 1883625
         },
         {
-          "Close": 11.050000190734863,
+          "Close": 10.799560546875,
           "Volume": 2534486
         },
         {
-          "Close": 10.8100004196167,
+          "Close": 10.565000534057617,
           "Volume": 1087184
         }
       ],
