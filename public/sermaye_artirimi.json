@@ -1,48 +1,21 @@
 [
   {
-    "code": "KLRHO",
-    "company": "KLRHO Kiler Holding A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%80",
-    "date": "23.09.2026",
-    "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
-  },
-  {
     "code": "AYES",
     "company": "AYES Ayes Çelik Hasır ve Çit Sanayi A.Ş.",
     "type": "Bedelsiz",
     "rate": "%233",
-    "date": "23.09.2026",
+    "date": "29.09.2026",
     "status": "Tamamlandı",
-    "description": "SPK Onayı Alındı"
+    "description": "Bölünme Tarihi: 29.09.2026"
   },
   {
-    "code": "AKFYE",
-    "company": "AKFYE Akfen Yenilenebilir Enerji A.Ş.",
+    "code": "KLRHO",
+    "company": "KLRHO Kiler Holding A.Ş.",
     "type": "Bedelsiz",
-    "rate": "%500",
-    "date": "21.09.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 21.09.2026 | Tutar: 5.984.812.230 TL"
-  },
-  {
-    "code": "HRKET",
-    "company": "HRKET Hareket Proje Taşımacılığı ve Yük Mühendisliği A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%1300",
-    "date": "21.09.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 21.09.2026"
-  },
-  {
-    "code": "MEGMT",
-    "company": "MEGMT Mega Metal San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%860",
-    "date": "21.09.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 21.09.2026"
+    "rate": "%80",
+    "date": "30.09.2026",
+    "status": "Onaylandı",
+    "description": "Bölünme Tarihi: 30.09.2026"
   },
   {
     "code": "SARKY",
@@ -331,6 +304,15 @@
     "date": "08.05.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "ALKA",
+    "company": "ALKA Alkim Kağıt San. ve Tic. A.Ş.",
+    "type": "Bedelli",
+    "rate": "%37",
+    "date": "25.09.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı | Tutar: 275.625.000 TL"
   },
   {
     "code": "SEGYO",
