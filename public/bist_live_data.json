@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-10-03T13:13:05.610966",
+  "last_update": "2026-10-03T17:34:08.052810",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 498,
-  "successful": 498,
-  "failed": 33,
+  "total_stocks": 497,
+  "successful": 497,
+  "failed": 34,
   "stocks": [
     {
       "code": "GARAN",
@@ -5109,195 +5109,6 @@
       "heldPercentInstitutions": 0.01301
     },
     {
-      "code": "TAVHL",
-      "symbol": "TAVHL.IS",
-      "name": "TAV Havalimanlari Holding A.S.",
-      "shortName": "TAV HAVALIMANLARI",
-      "price": 266.25,
-      "change": 4.25,
-      "changeRate": 1.62,
-      "previousClose": 262.0,
-      "open": 261.5,
-      "dayLow": 260.25,
-      "dayHigh": 268.5,
-      "fiftyTwoWeekLow": 217.6,
-      "fiftyTwoWeekHigh": 369.0,
-      "fiftyDayAverage": 272.85,
-      "twoHundredDayAverage": 293.14,
-      "volume": "2,003,766",
-      "averageVolume": 3553954,
-      "averageVolume10days": 3523167,
-      "marketCap": 96723632128,
-      "enterpriseValue": 192012058624,
-      "sharesOutstanding": 363281250,
-      "sector": "Industrials",
-      "industry": "Airports & Air Services",
-      "website": "https://www.tavhavalimanlari.com.tr",
-      "address": "Vadistanbul Bulvar",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 463 30 00",
-      "description": "TAV Havalimanlari Holding A.S., together with its subsidiaries, constructs terminal buildings, and manages and operates terminals or airports in Turkey, Georgia, Kazakhstan, Macedonia, Tunisia, Croatia, Oman, Latvia, Spain, Qatar, Saudi Arabia, and internationally. It operates through Terminal Operations, Catering Operations, Duty Free Operations, Ground Handling and Bus Operations, and Other segments. The Terminal Operations segment engages in the operation of terminal buildings, car parks, general aviation terminals, and parking-apron-taxi way, as well as ground handling operations. Its Catering Operations segment manages food and beverage operations of the terminal for passengers and the terminal personnel. The Duty Free Operations segment sells duty free goods for the international arriving and departing passengers. Its Ground Handling and Bus Operations segment is involved in the provision of traffic, ramp, flight operations, cargo, and other ground handling services for domestic and international flights, as well as the operation of buses. The Other segment provides lounge, IT, security and education, and airline taxi services, as well as software and system services. The company was formerly known as Tepe Akfen Vie Yatirim Yapim ve Isletme A.S. and changed its name to TAV Havalimanlari Holding A.S. in August 2006. TAV Havalimanlari Holding A.S. was founded in 1997 and is based in Istanbul, Turkey.",
-      "pe": 15.971806,
-      "forwardPE": 13.305847,
-      "priceToBook": 1.1796947,
-      "pegRatio": 0.55,
-      "priceToSales": 1.0362762,
-      "enterpriseToRevenue": 2.057,
-      "enterpriseToEbitda": 7.248,
-      "profitMargins": 0.056500003,
-      "grossMargins": 0.38095,
-      "operatingMargins": 0.22284001,
-      "returnOnAssets": 0.04454,
-      "returnOnEquity": 0.07955,
-      "totalRevenue": 93337690112,
-      "revenuePerShare": 256.93,
-      "totalCash": 16347753472,
-      "totalDebt": 110976319488,
-      "debtToEquity": 134.272,
-      "currentRatio": 0.881,
-      "quickRatio": 0.563,
-      "eps": 16.67,
-      "forwardEps": 20.01,
-      "bookValue": 225.694,
-      "dividendRate": 3.61,
-      "dividendYield": 1.36,
-      "exDividendDate": 1790035200,
-      "payoutRatio": 0.0,
-      "targetHighPrice": 502.26904,
-      "targetLowPrice": 345.21674,
-      "targetMeanPrice": 428.44006,
-      "targetMedianPrice": 426.61646,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 11,
-      "beta": -0.14,
-      "historicalData": [
-        {
-          "Close": 274.21600341796875,
-          "Volume": 2948376
-        },
-        {
-          "Close": 283.4062194824219,
-          "Volume": 5339624
-        },
-        {
-          "Close": 282.4126892089844,
-          "Volume": 7306873
-        },
-        {
-          "Close": 281.1707763671875,
-          "Volume": 3078636
-        },
-        {
-          "Close": 281.1707763671875,
-          "Volume": 2938464
-        },
-        {
-          "Close": 263.287109375,
-          "Volume": 6566722
-        },
-        {
-          "Close": 258.56781005859375,
-          "Volume": 6748195
-        },
-        {
-          "Close": 259.3129577636719,
-          "Volume": 3963841
-        },
-        {
-          "Close": 264.529052734375,
-          "Volume": 2196366
-        },
-        {
-          "Close": 266.51611328125,
-          "Volume": 2506173
-        },
-        {
-          "Close": 268.00640869140625,
-          "Volume": 2694546
-        },
-        {
-          "Close": 273.4708557128906,
-          "Volume": 3046511
-        },
-        {
-          "Close": 274.21600341796875,
-          "Volume": 3075871
-        },
-        {
-          "Close": 273.4708557128906,
-          "Volume": 1807253
-        },
-        {
-          "Close": 272.7257080078125,
-          "Volume": 3354487
-        },
-        {
-          "Close": 266.7644958496094,
-          "Volume": 2407355
-        },
-        {
-          "Close": 253.10337829589844,
-          "Volume": 3188281
-        },
-        {
-          "Close": 250.867919921875,
-          "Volume": 5302200
-        },
-        {
-          "Close": 271.9805603027344,
-          "Volume": 5662675
-        },
-        {
-          "Close": 274.4643859863281,
-          "Volume": 4593366
-        },
-        {
-          "Close": 277.44500732421875,
-          "Volume": 5618982
-        },
-        {
-          "Close": 278.0,
-          "Volume": 4745534
-        },
-        {
-          "Close": 281.0,
-          "Volume": 4190774
-        },
-        {
-          "Close": 272.0,
-          "Volume": 2442244
-        },
-        {
-          "Close": 272.75,
-          "Volume": 1785543
-        },
-        {
-          "Close": 267.75,
-          "Volume": 2149690
-        },
-        {
-          "Close": 266.5,
-          "Volume": 2274887
-        },
-        {
-          "Close": 261.25,
-          "Volume": 3549148
-        },
-        {
-          "Close": 262.0,
-          "Volume": 3881509
-        },
-        {
-          "Close": 266.25,
-          "Volume": 2003766
-        }
-      ],
-      "heldPercentInsiders": 0.5017,
-      "heldPercentInstitutions": 0.17266001
-    },
-    {
       "code": "EKGYO",
       "symbol": "EKGYO.IS",
       "name": "Emlak Konut Gayrimenkul Yatirim Ortakligi A.S.",
@@ -5306,61 +5117,61 @@
       "change": 0.04,
       "changeRate": 0.21,
       "previousClose": 19.03,
-      "open": 19.0,
-      "dayLow": 18.81,
-      "dayHigh": 19.16,
+      "open": 19.07,
+      "dayLow": 18.69,
+      "dayHigh": 19.45,
       "fiftyTwoWeekLow": 17.47,
       "fiftyTwoWeekHigh": 27.12,
       "fiftyDayAverage": 19.24,
       "twoHundredDayAverage": 20.83,
       "volume": "71,654,256",
-      "averageVolume": 146351722,
-      "averageVolume10days": 118299338,
+      "averageVolume": 71654256,
+      "averageVolume10days": 71654256,
       "marketCap": 69817565184,
-      "enterpriseValue": 135784112128,
+      "enterpriseValue": 0,
       "sharesOutstanding": 3661120138,
-      "sector": "Real Estate",
-      "industry": "REIT - Residential",
-      "website": "https://www.emlakkonut.com.tr",
-      "address": "Barbaros Mahallesi",
-      "city": "Atasehir",
+      "sector": "Diğer",
+      "industry": "",
+      "website": "",
+      "address": "",
+      "city": "",
       "country": "Turkey",
-      "phone": "90 216 579 15 15",
-      "description": "Emlak Konut Gayrimenkul Yatirim Ortakligi A.S., a long-established brand in the construction sector, began. Establishing environmentally friendly, modern cities that would add comfort to human life was determined as a corporate vision. With this basic purpose, Emlak Konut became the architect of many innovative applications in its sector. Emlak Konut carried out projects that set an example and left a mark in the planned urbanization of our country. It built the most innovative cities of its time, large enough to give its name to the district it was located in. This stable growth brought with it a serious turning point and in 2002, Emlak Konut became a real estate investment partnership. This transformation was the harbinger of giant projects, groundbreaking initiatives and becoming a bigger company. With becoming a Real Estate Investment Partnership, Emlak Konut was behind projects that resonated around the world in the field of design, included environmentally friendly technologies and added value to the city. Since 2003, it has tendered a total of 388 projects of various sizes, and because of the completion of these projects, it will have ensured the construction of 251,000 independent units. Emlak Konut went public twice with a breakthrough that would crown its rapid growth and carry its goals to broader horizons. The first offering in 2010 became one of the 5 largest public offerings in the history of the Republic. The secondary offering in 2013 was the largest public offering in the real estate sector in Europe in the last 5 years. Growing with the public offerings, Emlak Konut has further consolidated its place among the strongest companies in Turkey with its paid-in capital of 3.8 billion liras and total assets of 205 billion liras as of the end of 2024. Emlak Konut Gayrimenkul Yatirim Ortakligi A.S. was incorporated in 1953 in Turkey.",
+      "phone": "",
+      "description": "",
       "pe": null,
       "forwardPE": 953.5,
       "priceToBook": 0.47357702,
-      "pegRatio": 0.06,
-      "priceToSales": 0.77694285,
-      "enterpriseToRevenue": 1.511,
-      "enterpriseToEbitda": 5.988,
-      "profitMargins": -0.04566,
-      "grossMargins": 0.24075001,
-      "operatingMargins": 0.17865999,
-      "returnOnAssets": 0.040949997,
-      "returnOnEquity": -0.03012,
-      "totalRevenue": 89861906432,
-      "revenuePerShare": 23.705,
-      "totalCash": 40620756992,
-      "totalDebt": 104025645056,
-      "debtToEquity": 68.064,
-      "currentRatio": 2.086,
-      "quickRatio": 0.483,
-      "eps": -0.11,
-      "forwardEps": 0.02,
+      "pegRatio": null,
+      "priceToSales": null,
+      "enterpriseToRevenue": null,
+      "enterpriseToEbitda": null,
+      "profitMargins": null,
+      "grossMargins": null,
+      "operatingMargins": null,
+      "returnOnAssets": null,
+      "returnOnEquity": null,
+      "totalRevenue": null,
+      "revenuePerShare": null,
+      "totalCash": null,
+      "totalDebt": null,
+      "debtToEquity": null,
+      "currentRatio": null,
+      "quickRatio": null,
+      "eps": null,
+      "forwardEps": null,
       "bookValue": 40.268,
       "dividendRate": 0.6,
       "dividendYield": 3.15,
-      "exDividendDate": 1782259200,
-      "payoutRatio": 5.0524,
-      "targetHighPrice": 33.15,
-      "targetLowPrice": 32.8,
-      "targetMeanPrice": 32.93,
-      "targetMedianPrice": 32.84,
-      "recommendationMean": 1.0,
-      "recommendationKey": "strong_buy",
-      "numberOfAnalystOpinions": 3,
-      "beta": 0.697,
+      "exDividendDate": null,
+      "payoutRatio": null,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "",
+      "numberOfAnalystOpinions": 0,
+      "beta": null,
       "historicalData": [
         {
           "Close": 20.719999313354492,
@@ -5483,8 +5294,8 @@
           "Volume": 71654256
         }
       ],
-      "heldPercentInsiders": 0.49338,
-      "heldPercentInstitutions": 0.07192
+      "heldPercentInsiders": null,
+      "heldPercentInstitutions": null
     },
     {
       "code": "ENJSA",
@@ -6272,7 +6083,7 @@
       "country": "Turkey",
       "phone": "90 212 952 92 00",
       "description": "Çelebi Hava Servisi A.S. provides ground handling and cargo warehouse services to domestic and foreign airlines, and private air cargo companies in Turkey. It offers ground handling services, such as representation, traffic, ramp, cargo, and flight operations. The company was founded in 1958 and is headquartered in Istanbul, Turkey. Çelebi Hava Servisi A.S. operates as a subsidiary of Çelebi Aviation Holding A.S.",
-      "pe": 9.401416,
+      "pe": 9.398187,
       "forwardPE": 147.4138,
       "priceToBook": 4.7418337,
       "pegRatio": 4.88,
@@ -6291,7 +6102,7 @@
       "debtToEquity": 134.038,
       "currentRatio": 1.267,
       "quickRatio": 0.88,
-      "eps": 145.51,
+      "eps": 145.56,
       "forwardEps": 9.28,
       "bookValue": 288.496,
       "dividendRate": 103.0,
@@ -12669,6 +12480,195 @@
       "heldPercentInstitutions": 0.01749
     },
     {
+      "code": "AKSGY",
+      "symbol": "AKSGY.IS",
+      "name": "Akis Gayrimenkul Yatirim Ortakligi A.S.",
+      "shortName": "AKIS GMYO",
+      "price": 9.5,
+      "change": 0.13,
+      "changeRate": 1.39,
+      "previousClose": 9.37,
+      "open": 9.37,
+      "dayLow": 9.31,
+      "dayHigh": 9.58,
+      "fiftyTwoWeekLow": 7.12,
+      "fiftyTwoWeekHigh": 10.34,
+      "fiftyDayAverage": 9.73,
+      "twoHundredDayAverage": 9.07,
+      "volume": "4,262,485",
+      "averageVolume": 4362354,
+      "averageVolume10days": 4956953,
+      "marketCap": 22942500864,
+      "enterpriseValue": 22545473536,
+      "sharesOutstanding": 2415000000,
+      "sector": "Real Estate",
+      "industry": "REIT - Diversified",
+      "website": "https://www.akisgyo.com",
+      "address": "Akasya AVM",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "phone": "90 212 393 01 00",
+      "description": "Akis Gayrimenkul Yatirim A.S is based in Turkey.",
+      "pe": 6.9343066,
+      "forwardPE": null,
+      "priceToBook": 0.43613994,
+      "pegRatio": null,
+      "priceToSales": 5.0273914,
+      "enterpriseToRevenue": 4.94,
+      "enterpriseToEbitda": 7.34,
+      "profitMargins": 0.71833,
+      "grossMargins": 0.75259,
+      "operatingMargins": 0.64910007,
+      "returnOnAssets": 0.03497,
+      "returnOnEquity": 0.072680004,
+      "totalRevenue": 4563500032,
+      "revenuePerShare": 1.893,
+      "totalCash": 2011420032,
+      "totalDebt": 1661892992,
+      "debtToEquity": 3.166,
+      "currentRatio": 3.289,
+      "quickRatio": 1.881,
+      "eps": 1.37,
+      "forwardEps": null,
+      "bookValue": 21.782,
+      "dividendRate": 0.46,
+      "dividendYield": 4.79,
+      "exDividendDate": 1776643200,
+      "payoutRatio": 0.3325,
+      "targetHighPrice": 14.03,
+      "targetLowPrice": 13.5,
+      "targetMeanPrice": 13.765,
+      "targetMedianPrice": 13.765,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 2,
+      "beta": -0.088,
+      "historicalData": [
+        {
+          "Close": 10.109999656677246,
+          "Volume": 6034402
+        },
+        {
+          "Close": 10.220000267028809,
+          "Volume": 6059836
+        },
+        {
+          "Close": 10.319999694824219,
+          "Volume": 6350794
+        },
+        {
+          "Close": 10.09000015258789,
+          "Volume": 3651053
+        },
+        {
+          "Close": 10.109999656677246,
+          "Volume": 4440065
+        },
+        {
+          "Close": 10.010000228881836,
+          "Volume": 3451814
+        },
+        {
+          "Close": 9.970000267028809,
+          "Volume": 6547694
+        },
+        {
+          "Close": 9.899999618530273,
+          "Volume": 9021914
+        },
+        {
+          "Close": 9.949999809265137,
+          "Volume": 10426899
+        },
+        {
+          "Close": 9.960000038146973,
+          "Volume": 3330968
+        },
+        {
+          "Close": 9.880000114440918,
+          "Volume": 4000415
+        },
+        {
+          "Close": 9.869999885559082,
+          "Volume": 2099998
+        },
+        {
+          "Close": 10.010000228881836,
+          "Volume": 5779459
+        },
+        {
+          "Close": 9.930000305175781,
+          "Volume": 5791939
+        },
+        {
+          "Close": 10.199999809265137,
+          "Volume": 5718742
+        },
+        {
+          "Close": 10.0,
+          "Volume": 6171176
+        },
+        {
+          "Close": 9.890000343322754,
+          "Volume": 5934013
+        },
+        {
+          "Close": 9.609999656677246,
+          "Volume": 4142536
+        },
+        {
+          "Close": 9.5600004196167,
+          "Volume": 5020874
+        },
+        {
+          "Close": 9.270000457763672,
+          "Volume": 6001925
+        },
+        {
+          "Close": 9.489999771118164,
+          "Volume": 5923780
+        },
+        {
+          "Close": 9.40999984741211,
+          "Volume": 3909279
+        },
+        {
+          "Close": 9.470000267028809,
+          "Volume": 1547032
+        },
+        {
+          "Close": 9.470000267028809,
+          "Volume": 3930492
+        },
+        {
+          "Close": 9.40999984741211,
+          "Volume": 8949745
+        },
+        {
+          "Close": 9.350000381469727,
+          "Volume": 3001018
+        },
+        {
+          "Close": 9.609999656677246,
+          "Volume": 5746619
+        },
+        {
+          "Close": 9.449999809265137,
+          "Volume": 6877428
+        },
+        {
+          "Close": 9.369999885559082,
+          "Volume": 3682220
+        },
+        {
+          "Close": 9.5,
+          "Volume": 4262485
+        }
+      ],
+      "heldPercentInsiders": 0.54089,
+      "heldPercentInstitutions": 0.02898
+    },
+    {
       "code": "AKSUE",
       "symbol": "AKSUE.IS",
       "name": "Aksu Enerji ve Ticaret Anonim Sirketi",
@@ -18746,7 +18746,7 @@
       "country": "Turkey",
       "phone": "90 312 864 01 00",
       "description": "Bastas Baskent Cimento Sanayi ve Ticaret A.S. produces and sells ready-mixed concrete and cement products in Turkey. The company was incorporated in 1967 and is based in Ankara, Turkey. Bastas Baskent Cimento Sanayi ve Ticaret A.S. is a subsidiary of Parficim S.A.",
-      "pe": 19.016394,
+      "pe": 19.661018,
       "forwardPE": null,
       "priceToBook": 0.9409475,
       "pegRatio": null,
@@ -18765,7 +18765,7 @@
       "debtToEquity": 7.877,
       "currentRatio": 1.397,
       "quickRatio": 0.894,
-      "eps": 0.61,
+      "eps": 0.59,
       "forwardEps": null,
       "bookValue": 12.328,
       "dividendRate": 1.06,
@@ -20277,7 +20277,7 @@
       "debtToEquity": 1.639,
       "currentRatio": 1.441,
       "quickRatio": 1.418,
-      "eps": -3.91,
+      "eps": -3.96,
       "forwardEps": null,
       "bookValue": 11.106,
       "dividendRate": null,
@@ -25380,7 +25380,7 @@
       "debtToEquity": 146.852,
       "currentRatio": 0.674,
       "quickRatio": 0.64,
-      "eps": -207.54,
+      "eps": -205.29,
       "forwardEps": null,
       "bookValue": 141.925,
       "dividendRate": null,
@@ -26873,7 +26873,7 @@
       "country": "Turkey",
       "phone": "90 242 229 00 54",
       "description": "CW Enerji Mühendislik Ticaret ve Sanayi Anonim Sirketi operates in the photovoltaic power generation sector in Turkey. It provides solar panels; solar packs; heating, cooling, and hot water products; inverters; solar equipment; electric vehicle chargers; charge controllers; energy storage solutions; and solar lighting solutions. The company also offers solar powered camera systems and signages, LED lighting systems, solar-powered irrigation systems, off-grid and on-grid solutions, technical service and maintenance agreement, and application and follow-up counseling services. CW Enerji Mühendislik Ticaret ve Sanayi Anonim Sirketi was incorporated in 2010 and is headquartered in Antalya, Turkey.",
-      "pe": 7.492537,
+      "pe": 7.6641226,
       "forwardPE": null,
       "priceToBook": 1.2214111,
       "pegRatio": null,
@@ -26892,7 +26892,7 @@
       "debtToEquity": 55.867,
       "currentRatio": 1.147,
       "quickRatio": 0.568,
-      "eps": 2.68,
+      "eps": 2.62,
       "forwardEps": null,
       "bookValue": 16.44,
       "dividendRate": null,
@@ -32732,7 +32732,7 @@
       "country": "Turkey",
       "phone": "",
       "description": "Ege Gübre Sanayii A.S. primarily provides port services. The company operates through Chemical Fertilizers and Port Services segments. It offers port services, including container handling, storage, container stuffing/unloading, container repair/cleaning, yard stacking, and OFFDOCK services; loading and terminal services; terminal management services; and insurance brokerage services. The company also provides compound, supply, and specialized fertilizers, as well as organic solvents. Ege Gübre Sanayii A.S. was incorporated in 1973 and is headquartered in Izmir, Turkey.",
-      "pe": 13.983402,
+      "pe": 14.13986,
       "forwardPE": null,
       "priceToBook": 0.9914097,
       "pegRatio": null,
@@ -32751,7 +32751,7 @@
       "debtToEquity": 13.36,
       "currentRatio": 1.75,
       "quickRatio": 1.547,
-      "eps": 7.23,
+      "eps": 7.15,
       "forwardEps": null,
       "bookValue": 101.976,
       "dividendRate": 2.5,
@@ -35756,7 +35756,7 @@
       "country": "Turkey",
       "phone": "90 212 340 60 00",
       "description": "Escort Teknoloji Yatirim A.S. provides technology-based products, solutions, and services in Turkey. The company engages in the development of AI-powered product categorization, content enrichment, and conversion optimization solutions; credit card shipping; detection of damage during vehicle delivery and retrieval; production of mobile games and application software; AI-based recruitment management systems; optimization of game development processes; safe driving and accident prevention systems; video analysis services; and curriculum-based training and book content. It is also involved in the creation of operating systems; online environments for exercising; real-time case consultation applications for general practitioners; development of technology on liposomes; data analytics, scouting, and team management platforms; beauty and care products; protection and control of sensitive data; SaaS data analytics tools; a library of digital twins of building materials; medical devices to treat glaucoma and neurological disorders; marketplaces for digital advertising, marketing, and software projects, as well as for after-sales services; online platforms for secure counseling services; and mobile quiz applications. In addition, the company engages in the management of communication channels; solutions that digitize and optimize shift work personnel management processes; research and development on malware; social platforms to practice English; online psychological support platforms; wireless sensors and industrial IoT technology; payment processing; nickel-based cathodes; online software to invoice orders; digital beauty assistants; UX/UI, mobile/web application, API, service, and cloud and integration technology development services; mobile applications to order water; solar-based renewable energy; and complete passive network infrastructure products. Escort Teknoloji Yatirim A.S. was founded in 1991 and is based in Istanbul, Turkey.",
-      "pe": 2.107623,
+      "pe": 2.2274883,
       "forwardPE": null,
       "priceToBook": 0.77724487,
       "pegRatio": null,
@@ -35775,7 +35775,7 @@
       "debtToEquity": null,
       "currentRatio": 0.432,
       "quickRatio": 0.406,
-      "eps": 2.23,
+      "eps": 2.11,
       "forwardEps": null,
       "bookValue": 6.047,
       "dividendRate": null,
@@ -38043,7 +38043,7 @@
       "debtToEquity": 7.947,
       "currentRatio": 1.834,
       "quickRatio": 0.607,
-      "eps": -0.73,
+      "eps": -0.75,
       "forwardEps": null,
       "bookValue": 11.917,
       "dividendRate": 0.07,
@@ -52238,195 +52238,6 @@
       "heldPercentInstitutions": 0.015
     },
     {
-      "code": "KARTN",
-      "symbol": "KARTN.IS",
-      "name": "Kartonsan Karton Sanayi ve Ticaret A.S.",
-      "shortName": "KARTONSAN",
-      "price": 88.2,
-      "change": 5.95,
-      "changeRate": 7.23,
-      "previousClose": 82.25,
-      "open": 82.5,
-      "dayLow": 82.4,
-      "dayHigh": 89.5,
-      "fiftyTwoWeekLow": 61.65,
-      "fiftyTwoWeekHigh": 238.3,
-      "fiftyDayAverage": 162.61,
-      "twoHundredDayAverage": 117.43,
-      "volume": "1,359,299",
-      "averageVolume": 1318836,
-      "averageVolume10days": 1087600,
-      "marketCap": 6614999552,
-      "enterpriseValue": 7051341312,
-      "sharesOutstanding": 75000000,
-      "sector": "Consumer Cyclical",
-      "industry": "Packaging & Containers",
-      "website": "https://www.kartonsan.com.tr",
-      "address": "Prof. Dr. Bülent Tarcan Caddesi No: 5",
-      "city": "Istanbul",
-      "country": "Turkey",
-      "phone": "90 212 273 20 00",
-      "description": "Kartonsan Karton Sanayi ve Ticaret A.S. produces and trades in coated cardboards in Turkey and internationally. It provides normprint, exprint, and luxtriplex multi-coated cardboards from recycled paper. The company's products are used in the food, pharmaceuticals, cosmetics, advertising and promotion sectors. Kartonsan Karton Sanayi ve Ticaret A.S. was incorporated in 1967 and is headquartered in Istanbul, Turkey.",
-      "pe": null,
-      "forwardPE": null,
-      "priceToBook": 2.265663,
-      "pegRatio": null,
-      "priceToSales": 1.8746691,
-      "enterpriseToRevenue": 1.998,
-      "enterpriseToEbitda": -9.465,
-      "profitMargins": -0.108219996,
-      "grossMargins": -0.23121001,
-      "operatingMargins": -0.30864,
-      "returnOnAssets": -0.17412001,
-      "returnOnEquity": -0.13678999,
-      "totalRevenue": 3528622592,
-      "revenuePerShare": 47.048,
-      "totalCash": 344760832,
-      "totalDebt": 779520192,
-      "debtToEquity": 26.685,
-      "currentRatio": 1.556,
-      "quickRatio": 0.79,
-      "eps": -5.09,
-      "forwardEps": null,
-      "bookValue": 38.929,
-      "dividendRate": null,
-      "dividendYield": null,
-      "exDividendDate": 1680652800,
-      "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
-      "beta": 0.492,
-      "historicalData": [
-        {
-          "Close": 172.39999389648438,
-          "Volume": 700176
-        },
-        {
-          "Close": 163.5,
-          "Volume": 455241
-        },
-        {
-          "Close": 167.5,
-          "Volume": 583454
-        },
-        {
-          "Close": 162.0,
-          "Volume": 390812
-        },
-        {
-          "Close": 160.0,
-          "Volume": 490869
-        },
-        {
-          "Close": 165.60000610351562,
-          "Volume": 1274221
-        },
-        {
-          "Close": 157.1999969482422,
-          "Volume": 591565
-        },
-        {
-          "Close": 153.89999389648438,
-          "Volume": 556085
-        },
-        {
-          "Close": 163.0,
-          "Volume": 3172585
-        },
-        {
-          "Close": 160.0,
-          "Volume": 499796
-        },
-        {
-          "Close": 161.10000610351562,
-          "Volume": 3398882
-        },
-        {
-          "Close": 170.10000610351562,
-          "Volume": 1146867
-        },
-        {
-          "Close": 167.5,
-          "Volume": 588716
-        },
-        {
-          "Close": 156.5,
-          "Volume": 958077
-        },
-        {
-          "Close": 161.5,
-          "Volume": 565419
-        },
-        {
-          "Close": 160.6999969482422,
-          "Volume": 343612
-        },
-        {
-          "Close": 150.10000610351562,
-          "Volume": 315923
-        },
-        {
-          "Close": 141.39999389648438,
-          "Volume": 603747
-        },
-        {
-          "Close": 133.89999389648438,
-          "Volume": 1528065
-        },
-        {
-          "Close": 125.5999984741211,
-          "Volume": 582722
-        },
-        {
-          "Close": 113.0999984741211,
-          "Volume": 242408
-        },
-        {
-          "Close": 105.0,
-          "Volume": 1769753
-        },
-        {
-          "Close": 111.4000015258789,
-          "Volume": 908556
-        },
-        {
-          "Close": 107.0,
-          "Volume": 577714
-        },
-        {
-          "Close": 101.9000015258789,
-          "Volume": 699540
-        },
-        {
-          "Close": 91.75,
-          "Volume": 100353
-        },
-        {
-          "Close": 88.0999984741211,
-          "Volume": 1359710
-        },
-        {
-          "Close": 83.55000305175781,
-          "Volume": 586215
-        },
-        {
-          "Close": 82.25,
-          "Volume": 4049038
-        },
-        {
-          "Close": 88.19999694824219,
-          "Volume": 1359299
-        }
-      ],
-      "heldPercentInsiders": 0.7721,
-      "heldPercentInstitutions": 0.0
-    },
-    {
       "code": "KATMR",
       "symbol": "KATMR.IS",
       "name": "Katmerciler Arac Üstü Ekipman Sanayi ve Ticaret A.S.",
@@ -60961,7 +60772,7 @@
       "country": "Turkey",
       "phone": "90 242 248 68 00",
       "description": "Marmaris Altinyunus Turistik Tesisler A.S. engages in hotels and tourism services in Turkey. It operates tourist hotels in Antalya and Marmaris; and leases tourist facilities. The company was incorporated in 1986 and is based in Antalya, Turkey.",
-      "pe": 200.58963,
+      "pe": 200.11765,
       "forwardPE": null,
       "priceToBook": 1.2771268,
       "pegRatio": null,
@@ -60980,7 +60791,7 @@
       "debtToEquity": null,
       "currentRatio": 0.812,
       "quickRatio": 0.712,
-      "eps": 4.24,
+      "eps": 4.25,
       "forwardEps": null,
       "bookValue": 665.948,
       "dividendRate": null,
@@ -67954,7 +67765,7 @@
       "country": "Turkey",
       "phone": "90 262 316 20 00",
       "description": "Nuh Çimento Sanayi A.S. produces and sells cement, clinker, and mineral additives in Turkey. It offers ready-mixed concrete, and lime and gas concrete products; and port services, including cargo handling services. The company also engages in the construction and contracting works; and extraction, loading, and shipping agency activities. It offers its products through a dealer network and direct sales system. The company also exports its products to Africa, South and North America, Togo, Nigeria, Ivory Coast, Algeria, Italy, France, Spain, Belgium, Albania, Holland, Ireland, Portugal, Brazil, Canada, the United States, Georgia, Israel, Egypt, Lebanon, Gambia, Ghana, Senegal, Tunis, TRNC, and Mauritius. Nuh Çimento Sanayi A.S. was incorporated in 1966 and is based in Istanbul, Turkey.",
-      "pe": 254.21687,
+      "pe": 251.19049,
       "forwardPE": null,
       "priceToBook": 1.2771934,
       "pegRatio": 1.64,
@@ -67973,7 +67784,7 @@
       "debtToEquity": 5.563,
       "currentRatio": 3.321,
       "quickRatio": 2.659,
-      "eps": 0.83,
+      "eps": 0.84,
       "forwardEps": null,
       "bookValue": 165.206,
       "dividendRate": 22.5,
@@ -69107,7 +68918,7 @@
       "debtToEquity": 92.014,
       "currentRatio": 0.875,
       "quickRatio": 0.331,
-      "eps": -1.23,
+      "eps": -1.17,
       "forwardEps": null,
       "bookValue": 3.619,
       "dividendRate": null,
@@ -69655,7 +69466,7 @@
       "country": "Turkey",
       "phone": "90 212 366 88 00",
       "description": "Osmanli Yatirim Menkul Degerler A.S., together with its subsidiaries, provides various investment banking services in Turkey. The company offers asset and portfolio management; custody and investment advisory services; online capital market trading platforms; financial planning and consulting; brokerage; and banking transactions, including ETF and online bank transfer transactions, credit card and bills payments, and portfolio and statements. It also provides investment products, such stocks, warrants, futures and options trading, foreign exchange, mutual and pension funds, government and private sector bonds and debentures, public bond offerings, and structured derivative instruments, as well as retirement products. The company was formerly known as Osmanli Menkul Degerler A.S. and changed its name to Osmanli Yatirim Menkul Degerler A.S. in June 2016. Osmanli Yatirim Menkul Degerler A.S. was incorporated in 1996 and is headquartered in Istanbul, Turkey.",
-      "pe": 6.321429,
+      "pe": 6.3975906,
       "forwardPE": null,
       "priceToBook": 0.65660936,
       "pegRatio": null,
@@ -69674,7 +69485,7 @@
       "debtToEquity": 83.106,
       "currentRatio": 1.642,
       "quickRatio": 1.554,
-      "eps": 0.84,
+      "eps": 0.83,
       "forwardEps": null,
       "bookValue": 8.087,
       "dividendRate": 0.17,
@@ -75703,7 +75514,7 @@
       "country": "Turkey",
       "phone": "90 212 771 46 36",
       "description": "Prizma Pres Matbaacilik Yayincilik Sanayi ve Ticaret A.S. engages in the printing and publishing activities in Turkey. The company offers printing services for textbooks and supplementary textbooks, children's story and fairy tale books, and question banks and test books. It also engages in the purchasing and selling of paper; publishing and distribution of books, newspapers, and magazines; and importing and selling of printing machines. Prizma Pres Matbaacilik Yayincilik Sanayi ve Ticaret A.S. was founded in 1975 and is headquartered in Istanbul, Turkey.",
-      "pe": 61.448277,
+      "pe": 68.53846,
       "forwardPE": null,
       "priceToBook": 2.7670808,
       "pegRatio": null,
@@ -75722,7 +75533,7 @@
       "debtToEquity": 4.961,
       "currentRatio": 1.777,
       "quickRatio": 0.818,
-      "eps": 0.29,
+      "eps": 0.26,
       "forwardEps": null,
       "bookValue": 6.44,
       "dividendRate": null,
@@ -76648,7 +76459,7 @@
       "country": "Turkey",
       "phone": "90 212 363 25 00",
       "description": "Ray Sigorta Anonim Sirketi engages in the non-life insurance business in Turkey. The company offers personal accidents, casco, motor third party liability, travel, workplace, cyber security, health, and home insurance. It also provides fire, TCIP, marine, casualty, engineering, liability, and agriculture insurance, as well as motor own damage; motor facultative TPL; legal protection; and company's personal accident for buses insurance products. It sells its products through agencies, agency branches, brokers, broker branches, banks, and leasing companies. The company was incorporated in 1958 and is headquartered in Istanbul, Turkey. Ray Sigorta Anonim Sirketi operates as a subsidiary of ATBIH GmbH.",
-      "pe": 6.0063605,
+      "pe": 6.009091,
       "forwardPE": null,
       "priceToBook": 2.0820866,
       "pegRatio": null,
@@ -76667,7 +76478,7 @@
       "debtToEquity": 0.212,
       "currentRatio": 1.143,
       "quickRatio": 0.919,
-      "eps": 22.01,
+      "eps": 22.0,
       "forwardEps": null,
       "bookValue": 63.494,
       "dividendRate": null,
@@ -85172,7 +84983,7 @@
       "debtToEquity": 24.356,
       "currentRatio": 1.583,
       "quickRatio": 1.223,
-      "eps": -36.55,
+      "eps": -36.56,
       "forwardEps": null,
       "bookValue": 131.889,
       "dividendRate": null,
