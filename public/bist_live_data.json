@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-10-03T17:34:08.052810",
+  "last_update": "2026-10-03T20:51:18.270903",
   "source": "Yahoo Finance (yfinance)",
-  "total_stocks": 497,
-  "successful": 497,
-  "failed": 34,
+  "total_stocks": 499,
+  "successful": 499,
+  "failed": 32,
   "stocks": [
     {
       "code": "GARAN",
@@ -5109,6 +5109,195 @@
       "heldPercentInstitutions": 0.01301
     },
     {
+      "code": "TAVHL",
+      "symbol": "TAVHL.IS",
+      "name": "TAV Havalimanlari Holding A.S.",
+      "shortName": "TAV HAVALIMANLARI",
+      "price": 266.25,
+      "change": 4.25,
+      "changeRate": 1.62,
+      "previousClose": 262.0,
+      "open": 261.5,
+      "dayLow": 260.25,
+      "dayHigh": 268.5,
+      "fiftyTwoWeekLow": 217.6,
+      "fiftyTwoWeekHigh": 369.0,
+      "fiftyDayAverage": 272.85,
+      "twoHundredDayAverage": 293.14,
+      "volume": "2,003,766",
+      "averageVolume": 3553954,
+      "averageVolume10days": 3523167,
+      "marketCap": 96723632128,
+      "enterpriseValue": 192012058624,
+      "sharesOutstanding": 363281250,
+      "sector": "Industrials",
+      "industry": "Airports & Air Services",
+      "website": "https://www.tavhavalimanlari.com.tr",
+      "address": "Vadistanbul Bulvar",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "phone": "90 212 463 30 00",
+      "description": "TAV Havalimanlari Holding A.S., together with its subsidiaries, constructs terminal buildings, and manages and operates terminals or airports in Turkey, Georgia, Kazakhstan, Macedonia, Tunisia, Croatia, Oman, Latvia, Spain, Qatar, Saudi Arabia, and internationally. It operates through Terminal Operations, Catering Operations, Duty Free Operations, Ground Handling and Bus Operations, and Other segments. The Terminal Operations segment engages in the operation of terminal buildings, car parks, general aviation terminals, and parking-apron-taxi way, as well as ground handling operations. Its Catering Operations segment manages food and beverage operations of the terminal for passengers and the terminal personnel. The Duty Free Operations segment sells duty free goods for the international arriving and departing passengers. Its Ground Handling and Bus Operations segment is involved in the provision of traffic, ramp, flight operations, cargo, and other ground handling services for domestic and international flights, as well as the operation of buses. The Other segment provides lounge, IT, security and education, and airline taxi services, as well as software and system services. The company was formerly known as Tepe Akfen Vie Yatirim Yapim ve Isletme A.S. and changed its name to TAV Havalimanlari Holding A.S. in August 2006. TAV Havalimanlari Holding A.S. was founded in 1997 and is based in Istanbul, Turkey.",
+      "pe": 15.971806,
+      "forwardPE": 13.305847,
+      "priceToBook": 1.1796947,
+      "pegRatio": 0.55,
+      "priceToSales": 1.0362762,
+      "enterpriseToRevenue": 2.057,
+      "enterpriseToEbitda": 7.248,
+      "profitMargins": 0.056500003,
+      "grossMargins": 0.38095,
+      "operatingMargins": 0.22284001,
+      "returnOnAssets": 0.04454,
+      "returnOnEquity": 0.07955,
+      "totalRevenue": 93337690112,
+      "revenuePerShare": 256.93,
+      "totalCash": 16347753472,
+      "totalDebt": 110976319488,
+      "debtToEquity": 134.272,
+      "currentRatio": 0.881,
+      "quickRatio": 0.563,
+      "eps": 16.67,
+      "forwardEps": 20.01,
+      "bookValue": 225.694,
+      "dividendRate": 3.61,
+      "dividendYield": 1.36,
+      "exDividendDate": 1790035200,
+      "payoutRatio": 0.0,
+      "targetHighPrice": 502.26904,
+      "targetLowPrice": 345.21674,
+      "targetMeanPrice": 428.44006,
+      "targetMedianPrice": 426.61646,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 11,
+      "beta": -0.14,
+      "historicalData": [
+        {
+          "Close": 274.21600341796875,
+          "Volume": 2948376
+        },
+        {
+          "Close": 283.4062194824219,
+          "Volume": 5339624
+        },
+        {
+          "Close": 282.4126892089844,
+          "Volume": 7306873
+        },
+        {
+          "Close": 281.1707763671875,
+          "Volume": 3078636
+        },
+        {
+          "Close": 281.1707763671875,
+          "Volume": 2938464
+        },
+        {
+          "Close": 263.287109375,
+          "Volume": 6566722
+        },
+        {
+          "Close": 258.56781005859375,
+          "Volume": 6748195
+        },
+        {
+          "Close": 259.3129577636719,
+          "Volume": 3963841
+        },
+        {
+          "Close": 264.529052734375,
+          "Volume": 2196366
+        },
+        {
+          "Close": 266.51611328125,
+          "Volume": 2506173
+        },
+        {
+          "Close": 268.00640869140625,
+          "Volume": 2694546
+        },
+        {
+          "Close": 273.4708557128906,
+          "Volume": 3046511
+        },
+        {
+          "Close": 274.21600341796875,
+          "Volume": 3075871
+        },
+        {
+          "Close": 273.4708557128906,
+          "Volume": 1807253
+        },
+        {
+          "Close": 272.7257080078125,
+          "Volume": 3354487
+        },
+        {
+          "Close": 266.7644958496094,
+          "Volume": 2407355
+        },
+        {
+          "Close": 253.10337829589844,
+          "Volume": 3188281
+        },
+        {
+          "Close": 250.867919921875,
+          "Volume": 5302200
+        },
+        {
+          "Close": 271.9805603027344,
+          "Volume": 5662675
+        },
+        {
+          "Close": 274.4643859863281,
+          "Volume": 4593366
+        },
+        {
+          "Close": 277.44500732421875,
+          "Volume": 5618982
+        },
+        {
+          "Close": 278.0,
+          "Volume": 4745534
+        },
+        {
+          "Close": 281.0,
+          "Volume": 4190774
+        },
+        {
+          "Close": 272.0,
+          "Volume": 2442244
+        },
+        {
+          "Close": 272.75,
+          "Volume": 1785543
+        },
+        {
+          "Close": 267.75,
+          "Volume": 2149690
+        },
+        {
+          "Close": 266.5,
+          "Volume": 2274887
+        },
+        {
+          "Close": 261.25,
+          "Volume": 3549148
+        },
+        {
+          "Close": 262.0,
+          "Volume": 3881509
+        },
+        {
+          "Close": 266.25,
+          "Volume": 2003766
+        }
+      ],
+      "heldPercentInsiders": 0.5017,
+      "heldPercentInstitutions": 0.17266001
+    },
+    {
       "code": "EKGYO",
       "symbol": "EKGYO.IS",
       "name": "Emlak Konut Gayrimenkul Yatirim Ortakligi A.S.",
@@ -5117,61 +5306,61 @@
       "change": 0.04,
       "changeRate": 0.21,
       "previousClose": 19.03,
-      "open": 19.07,
-      "dayLow": 18.69,
-      "dayHigh": 19.45,
+      "open": 19.0,
+      "dayLow": 18.81,
+      "dayHigh": 19.16,
       "fiftyTwoWeekLow": 17.47,
       "fiftyTwoWeekHigh": 27.12,
       "fiftyDayAverage": 19.24,
       "twoHundredDayAverage": 20.83,
       "volume": "71,654,256",
-      "averageVolume": 71654256,
-      "averageVolume10days": 71654256,
+      "averageVolume": 146351722,
+      "averageVolume10days": 118299338,
       "marketCap": 69817565184,
-      "enterpriseValue": 0,
+      "enterpriseValue": 135784112128,
       "sharesOutstanding": 3661120138,
-      "sector": "Diğer",
-      "industry": "",
-      "website": "",
-      "address": "",
-      "city": "",
+      "sector": "Real Estate",
+      "industry": "REIT - Residential",
+      "website": "https://www.emlakkonut.com.tr",
+      "address": "Barbaros Mahallesi",
+      "city": "Atasehir",
       "country": "Turkey",
-      "phone": "",
-      "description": "",
+      "phone": "90 216 579 15 15",
+      "description": "Emlak Konut Gayrimenkul Yatirim Ortakligi A.S., a long-established brand in the construction sector, began. Establishing environmentally friendly, modern cities that would add comfort to human life was determined as a corporate vision. With this basic purpose, Emlak Konut became the architect of many innovative applications in its sector. Emlak Konut carried out projects that set an example and left a mark in the planned urbanization of our country. It built the most innovative cities of its time, large enough to give its name to the district it was located in. This stable growth brought with it a serious turning point and in 2002, Emlak Konut became a real estate investment partnership. This transformation was the harbinger of giant projects, groundbreaking initiatives and becoming a bigger company. With becoming a Real Estate Investment Partnership, Emlak Konut was behind projects that resonated around the world in the field of design, included environmentally friendly technologies and added value to the city. Since 2003, it has tendered a total of 388 projects of various sizes, and because of the completion of these projects, it will have ensured the construction of 251,000 independent units. Emlak Konut went public twice with a breakthrough that would crown its rapid growth and carry its goals to broader horizons. The first offering in 2010 became one of the 5 largest public offerings in the history of the Republic. The secondary offering in 2013 was the largest public offering in the real estate sector in Europe in the last 5 years. Growing with the public offerings, Emlak Konut has further consolidated its place among the strongest companies in Turkey with its paid-in capital of 3.8 billion liras and total assets of 205 billion liras as of the end of 2024. Emlak Konut Gayrimenkul Yatirim Ortakligi A.S. was incorporated in 1953 in Turkey.",
       "pe": null,
       "forwardPE": 953.5,
       "priceToBook": 0.47357702,
-      "pegRatio": null,
-      "priceToSales": null,
-      "enterpriseToRevenue": null,
-      "enterpriseToEbitda": null,
-      "profitMargins": null,
-      "grossMargins": null,
-      "operatingMargins": null,
-      "returnOnAssets": null,
-      "returnOnEquity": null,
-      "totalRevenue": null,
-      "revenuePerShare": null,
-      "totalCash": null,
-      "totalDebt": null,
-      "debtToEquity": null,
-      "currentRatio": null,
-      "quickRatio": null,
-      "eps": null,
-      "forwardEps": null,
+      "pegRatio": 0.06,
+      "priceToSales": 0.77694285,
+      "enterpriseToRevenue": 1.511,
+      "enterpriseToEbitda": 5.988,
+      "profitMargins": -0.04566,
+      "grossMargins": 0.24075001,
+      "operatingMargins": 0.17865999,
+      "returnOnAssets": 0.040949997,
+      "returnOnEquity": -0.03012,
+      "totalRevenue": 89861906432,
+      "revenuePerShare": 23.705,
+      "totalCash": 40620756992,
+      "totalDebt": 104025645056,
+      "debtToEquity": 68.064,
+      "currentRatio": 2.086,
+      "quickRatio": 0.483,
+      "eps": -0.11,
+      "forwardEps": 0.02,
       "bookValue": 40.268,
       "dividendRate": 0.6,
       "dividendYield": 3.15,
-      "exDividendDate": null,
-      "payoutRatio": null,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
-      "recommendationMean": null,
-      "recommendationKey": "",
-      "numberOfAnalystOpinions": 0,
-      "beta": null,
+      "exDividendDate": 1782259200,
+      "payoutRatio": 5.0524,
+      "targetHighPrice": 33.15,
+      "targetLowPrice": 32.8,
+      "targetMeanPrice": 32.93,
+      "targetMedianPrice": 32.84,
+      "recommendationMean": 1.0,
+      "recommendationKey": "strong_buy",
+      "numberOfAnalystOpinions": 3,
+      "beta": 0.697,
       "historicalData": [
         {
           "Close": 20.719999313354492,
@@ -5294,8 +5483,8 @@
           "Volume": 71654256
         }
       ],
-      "heldPercentInsiders": null,
-      "heldPercentInstitutions": null
+      "heldPercentInsiders": 0.49338,
+      "heldPercentInstitutions": 0.07192
     },
     {
       "code": "ENJSA",
@@ -6480,7 +6669,7 @@
       "debtToEquity": null,
       "currentRatio": 0.822,
       "quickRatio": 0.736,
-      "eps": -2.18,
+      "eps": -2.06,
       "forwardEps": null,
       "bookValue": -2.529,
       "dividendRate": null,
@@ -28593,7 +28782,7 @@
       "debtToEquity": 19.884,
       "currentRatio": 2.102,
       "quickRatio": 1.244,
-      "eps": -3.91,
+      "eps": -4.04,
       "forwardEps": null,
       "bookValue": 157.638,
       "dividendRate": null,
@@ -37476,7 +37665,7 @@
       "debtToEquity": 48.249,
       "currentRatio": 1.173,
       "quickRatio": 0.222,
-      "eps": -0.81,
+      "eps": -0.82,
       "forwardEps": null,
       "bookValue": 2.92,
       "dividendRate": 0.03,
@@ -42749,7 +42938,7 @@
       "country": "Turkey",
       "phone": "90 216 575 33 55",
       "description": "Gür-Sel Turizm Tasimacilik ve Servis Ticaret A.S. provides transportation services in Turkey. It provides personnel transportation; student transportation; passenger car, minibus, bus rental services; urban public transport; and intercity transportation services. The company was founded in 1993 and is headquartered in Istanbul, Turkey.",
-      "pe": 14.473683,
+      "pe": 13.90609,
       "forwardPE": null,
       "priceToBook": 1.9742866,
       "pegRatio": null,
@@ -42768,7 +42957,7 @@
       "debtToEquity": 2.781,
       "currentRatio": 3.074,
       "quickRatio": 2.881,
-      "eps": 18.62,
+      "eps": 19.38,
       "forwardEps": null,
       "bookValue": 136.505,
       "dividendRate": 1.47,
@@ -52238,6 +52427,195 @@
       "heldPercentInstitutions": 0.015
     },
     {
+      "code": "KARTN",
+      "symbol": "KARTN.IS",
+      "name": "Kartonsan Karton Sanayi ve Ticaret A.S.",
+      "shortName": "KARTONSAN",
+      "price": 88.2,
+      "change": 5.95,
+      "changeRate": 7.23,
+      "previousClose": 82.25,
+      "open": 82.5,
+      "dayLow": 82.4,
+      "dayHigh": 89.5,
+      "fiftyTwoWeekLow": 61.65,
+      "fiftyTwoWeekHigh": 238.3,
+      "fiftyDayAverage": 162.61,
+      "twoHundredDayAverage": 117.43,
+      "volume": "1,359,299",
+      "averageVolume": 1318836,
+      "averageVolume10days": 1087600,
+      "marketCap": 6614999552,
+      "enterpriseValue": 7051341312,
+      "sharesOutstanding": 75000000,
+      "sector": "Consumer Cyclical",
+      "industry": "Packaging & Containers",
+      "website": "https://www.kartonsan.com.tr",
+      "address": "Prof. Dr. Bülent Tarcan Caddesi No: 5",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "phone": "90 212 273 20 00",
+      "description": "Kartonsan Karton Sanayi ve Ticaret A.S. produces and trades in coated cardboards in Turkey and internationally. It provides normprint, exprint, and luxtriplex multi-coated cardboards from recycled paper. The company's products are used in the food, pharmaceuticals, cosmetics, advertising and promotion sectors. Kartonsan Karton Sanayi ve Ticaret A.S. was incorporated in 1967 and is headquartered in Istanbul, Turkey.",
+      "pe": null,
+      "forwardPE": null,
+      "priceToBook": 2.265663,
+      "pegRatio": null,
+      "priceToSales": 1.8746691,
+      "enterpriseToRevenue": 1.998,
+      "enterpriseToEbitda": -9.465,
+      "profitMargins": -0.108219996,
+      "grossMargins": -0.23121001,
+      "operatingMargins": -0.30864,
+      "returnOnAssets": -0.17412001,
+      "returnOnEquity": -0.13678999,
+      "totalRevenue": 3528622592,
+      "revenuePerShare": 47.048,
+      "totalCash": 344760832,
+      "totalDebt": 779520192,
+      "debtToEquity": 26.685,
+      "currentRatio": 1.556,
+      "quickRatio": 0.79,
+      "eps": -5.09,
+      "forwardEps": null,
+      "bookValue": 38.929,
+      "dividendRate": null,
+      "dividendYield": null,
+      "exDividendDate": 1680652800,
+      "payoutRatio": 0.0,
+      "targetHighPrice": null,
+      "targetLowPrice": null,
+      "targetMeanPrice": null,
+      "targetMedianPrice": null,
+      "recommendationMean": null,
+      "recommendationKey": "none",
+      "numberOfAnalystOpinions": 0,
+      "beta": 0.492,
+      "historicalData": [
+        {
+          "Close": 172.39999389648438,
+          "Volume": 700176
+        },
+        {
+          "Close": 163.5,
+          "Volume": 455241
+        },
+        {
+          "Close": 167.5,
+          "Volume": 583454
+        },
+        {
+          "Close": 162.0,
+          "Volume": 390812
+        },
+        {
+          "Close": 160.0,
+          "Volume": 490869
+        },
+        {
+          "Close": 165.60000610351562,
+          "Volume": 1274221
+        },
+        {
+          "Close": 157.1999969482422,
+          "Volume": 591565
+        },
+        {
+          "Close": 153.89999389648438,
+          "Volume": 556085
+        },
+        {
+          "Close": 163.0,
+          "Volume": 3172585
+        },
+        {
+          "Close": 160.0,
+          "Volume": 499796
+        },
+        {
+          "Close": 161.10000610351562,
+          "Volume": 3398882
+        },
+        {
+          "Close": 170.10000610351562,
+          "Volume": 1146867
+        },
+        {
+          "Close": 167.5,
+          "Volume": 588716
+        },
+        {
+          "Close": 156.5,
+          "Volume": 958077
+        },
+        {
+          "Close": 161.5,
+          "Volume": 565419
+        },
+        {
+          "Close": 160.6999969482422,
+          "Volume": 343612
+        },
+        {
+          "Close": 150.10000610351562,
+          "Volume": 315923
+        },
+        {
+          "Close": 141.39999389648438,
+          "Volume": 603747
+        },
+        {
+          "Close": 133.89999389648438,
+          "Volume": 1528065
+        },
+        {
+          "Close": 125.5999984741211,
+          "Volume": 582722
+        },
+        {
+          "Close": 113.0999984741211,
+          "Volume": 242408
+        },
+        {
+          "Close": 105.0,
+          "Volume": 1769753
+        },
+        {
+          "Close": 111.4000015258789,
+          "Volume": 908556
+        },
+        {
+          "Close": 107.0,
+          "Volume": 577714
+        },
+        {
+          "Close": 101.9000015258789,
+          "Volume": 699540
+        },
+        {
+          "Close": 91.75,
+          "Volume": 100353
+        },
+        {
+          "Close": 88.0999984741211,
+          "Volume": 1359710
+        },
+        {
+          "Close": 83.55000305175781,
+          "Volume": 586215
+        },
+        {
+          "Close": 82.25,
+          "Volume": 4049038
+        },
+        {
+          "Close": 88.19999694824219,
+          "Volume": 1359299
+        }
+      ],
+      "heldPercentInsiders": 0.7721,
+      "heldPercentInstitutions": 0.0
+    },
+    {
       "code": "KATMR",
       "symbol": "KATMR.IS",
       "name": "Katmerciler Arac Üstü Ekipman Sanayi ve Ticaret A.S.",
@@ -56066,7 +56444,7 @@
       "debtToEquity": 168.388,
       "currentRatio": 0.947,
       "quickRatio": 0.491,
-      "eps": -0.93,
+      "eps": -0.88,
       "forwardEps": null,
       "bookValue": 5.013,
       "dividendRate": 0.02,
@@ -60413,7 +60791,7 @@
       "debtToEquity": 6.14,
       "currentRatio": 2.221,
       "quickRatio": 0.338,
-      "eps": -0.89,
+      "eps": -0.9,
       "forwardEps": null,
       "bookValue": 9.243,
       "dividendRate": null,
@@ -70411,7 +70789,7 @@
       "country": "Turkey",
       "phone": "90 352 321 11 32",
       "description": "Oylum Sinai Yatirimlar Anonim Sirketi produces general foodstuffs in Turkey. It offers biscuits, chocolate, wafers, chocolate coated biscuits, waffles, cakes, crackers, chewing gum, candy, turkish delight, halva, jam, etc. all kinds of floury and sugary, cakes, crackers, chewing gum, halva, fibrous biscuits, cream biscuits, marshmallows, spreadable creams, and jam etc. The company is also involved in buying, selling, importing, and exporting substances. The company was founded in 1969 and is headquartered in Kayseri, Turkey.",
-      "pe": 114.00001,
+      "pe": 97.71429,
       "forwardPE": null,
       "priceToBook": 0.47655544,
       "pegRatio": null,
@@ -70430,7 +70808,7 @@
       "debtToEquity": 13.276,
       "currentRatio": 2.13,
       "quickRatio": 1.542,
-      "eps": 0.06,
+      "eps": 0.07,
       "forwardEps": null,
       "bookValue": 14.353,
       "dividendRate": null,
