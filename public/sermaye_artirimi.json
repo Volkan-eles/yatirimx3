@@ -1,10 +1,28 @@
 [
   {
+    "code": "MERCN",
+    "company": "MERCN Mercan Kimya San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%200",
+    "date": "16.10.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 380.741.892 TL"
+  },
+  {
     "code": "LILAK",
     "company": "LILAK Lila Kağıt San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
     "rate": "%200",
     "date": "13.10.2026",
+    "status": "Tamamlandı",
+    "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "VANGD",
+    "company": "VANGD Vanet Gıda Sanayi İç ve Dış Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%270",
+    "date": "09.10.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
   },
@@ -180,15 +198,6 @@
     "description": "Yönetim Kurulu Kararı | Tutar: 232.487.544 TL"
   },
   {
-    "code": "MERCN",
-    "company": "MERCN Mercan Kimya San. ve Tic. A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%200",
-    "date": "24.04.2025",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 380.741.892 TL"
-  },
-  {
     "code": "ALKLC",
     "company": "ALKLC Altınkılıç Gıda ve Süt San. Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -295,6 +304,15 @@
     "date": "08.05.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
+  },
+  {
+    "code": "SKBNK",
+    "company": "SKBNK Şekerbank T.A.Ş.",
+    "type": "Bedelli",
+    "rate": "%40",
+    "date": "16.10.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 1 TL"
   },
   {
     "code": "YKSLN",
@@ -410,15 +428,6 @@
     "type": "Bedelli",
     "rate": "%100",
     "date": "08.05.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
-  },
-  {
-    "code": "SKBNK",
-    "company": "SKBNK Şekerbank T.A.Ş.",
-    "type": "Bedelli",
-    "rate": "%40",
-    "date": "07.05.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı | Tutar: 1 TL"
   },
