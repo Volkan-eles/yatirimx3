@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-20T15:50:41.018633",
+  "last_update": "2026-10-20T19:58:21.969563",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -1755,7 +1755,7 @@
       "debtToEquity": 74.546,
       "currentRatio": 0.593,
       "quickRatio": 0.383,
-      "eps": -0.9,
+      "eps": -0.91,
       "forwardEps": 4.18,
       "bookValue": 29.686,
       "dividendRate": null,
@@ -2140,10 +2140,10 @@
       "dividendYield": 0.0,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 62.063515,
-      "targetLowPrice": 43.821205,
-      "targetMeanPrice": 51.62029,
-      "targetMedianPrice": 51.628716,
+      "targetHighPrice": 62.06014,
+      "targetLowPrice": 43.81882,
+      "targetMeanPrice": 51.61748,
+      "targetMedianPrice": 51.625904,
       "recommendationMean": null,
       "recommendationKey": "none",
       "numberOfAnalystOpinions": 6,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.32,
       "exDividendDate": 1790035200,
       "payoutRatio": 0.0,
-      "targetHighPrice": 506.15247,
-      "targetLowPrice": 347.88586,
-      "targetMeanPrice": 430.01132,
-      "targetMedianPrice": 429.91498,
+      "targetHighPrice": 506.56177,
+      "targetLowPrice": 348.1672,
+      "targetMeanPrice": 430.35907,
+      "targetMedianPrice": 430.26263,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -5313,7 +5313,7 @@
       "fiftyTwoWeekHigh": 27.12,
       "fiftyDayAverage": 19.55,
       "twoHundredDayAverage": 20.76,
-      "volume": "107,537,275",
+      "volume": "107,437,426",
       "averageVolume": 139263678,
       "averageVolume10days": 78380181,
       "marketCap": 69671124992,
@@ -5480,7 +5480,7 @@
         },
         {
           "Close": 19.030000686645508,
-          "Volume": 107537275
+          "Volume": 107437426
         }
       ],
       "heldPercentInsiders": 0.49338,
@@ -5502,7 +5502,7 @@
       "fiftyTwoWeekHigh": 127.9,
       "fiftyDayAverage": 111.26,
       "twoHundredDayAverage": 110.34,
-      "volume": "2,992,837",
+      "volume": "2,993,677",
       "averageVolume": 3958114,
       "averageVolume10days": 2548921,
       "marketCap": 137712631808,
@@ -5669,7 +5669,7 @@
         },
         {
           "Close": 116.5999984741211,
-          "Volume": 2992837
+          "Volume": 2993677
         }
       ],
       "heldPercentInsiders": 0.8,
@@ -8540,7 +8540,7 @@
       "country": "Turkey",
       "phone": "90 216 578 85 00",
       "description": "AG Anadolu Grubu Holding A.S., together with its subsidiaries, operates in the retail market in Turkey and internationally. The company operates through Beer, Soft Drinks, Migros, Automotive, Agriculture, Energy, Industry, and Other segments. It is involved in the production, bottling, distribution, and sales of beer, carbonated, and non-carbonated beverages; sales of food, beverage, and durable goods; distribution and sale of Coca-Cola products; production and sales of Isuzu branded commercial vehicles; wholesale and retail sale of electricity and its capacity; and production and transmission of electricity, and establishment and operation of distribution facilities, as well as IT, internet, and e-commerce service activities. The company also engages in import, distribution, and marketing of Kia motor vehicles and motor vehicle renting; production of industrial engines, sale of tractors, and manufacturing of boats; production of writing instruments under Adel, Johann Faber, and Faber Castell brand names; car rental service activities; insurance agency activities; purchase, sale, and rental of real estate; and purchase and sale of spare parts. In addition, it is involved in online food retailing; e-money legislation; media activities; logistics activities; electric vehicles charging service activities; packaged food production; marketing and distribution company of Anadolu Efes; production, distribution, and sale of fresh fruit; and production and sale of fruit juice concentrate and puree, as well as fresh fruit. The company was formerly known as Yazicilar Holding A.S. and changed its name to AG Anadolu Grubu Holding A.S. in December 2017. AG Anadolu Grubu Holding A.S. was founded in 1950 and is based in Istanbul, Turkey.",
-      "pe": 16.041237,
+      "pe": 15.56,
       "forwardPE": 0.20590182,
       "priceToBook": 0.57127124,
       "pegRatio": null,
@@ -8559,7 +8559,7 @@
       "debtToEquity": 48.318,
       "currentRatio": 0.947,
       "quickRatio": 0.521,
-      "eps": 1.94,
+      "eps": 2.0,
       "forwardEps": 151.14,
       "bookValue": 54.475,
       "dividendRate": 0.7,
@@ -8710,7 +8710,7 @@
       "previousClose": 9.85,
       "open": 9.85,
       "dayLow": 9.77,
-      "dayHigh": 10.25,
+      "dayHigh": 10.24,
       "fiftyTwoWeekLow": 9.26,
       "fiftyTwoWeekHigh": 13.28,
       "fiftyDayAverage": 10.89,
@@ -8904,7 +8904,7 @@
       "fiftyTwoWeekHigh": 117.5,
       "fiftyDayAverage": 76.32,
       "twoHundredDayAverage": 79.16,
-      "volume": "3,315,798",
+      "volume": "3,316,570",
       "averageVolume": 9426379,
       "averageVolume10days": 3863160,
       "marketCap": 86886055936,
@@ -9071,7 +9071,7 @@
         },
         {
           "Close": 70.8499984741211,
-          "Volume": 3315798
+          "Volume": 3316570
         }
       ],
       "heldPercentInsiders": 0.80129,
@@ -9282,7 +9282,7 @@
       "fiftyTwoWeekHigh": 8.35,
       "fiftyDayAverage": 3.32,
       "twoHundredDayAverage": 4.75,
-      "volume": "13,868,283",
+      "volume": "13,873,283",
       "averageVolume": 23804244,
       "averageVolume10days": 12454257,
       "marketCap": 5294645760,
@@ -9449,7 +9449,7 @@
         },
         {
           "Close": 2.609999895095825,
-          "Volume": 13868283
+          "Volume": 13873283
         }
       ],
       "heldPercentInsiders": 0.56214,
@@ -9700,13 +9700,13 @@
       "dividendYield": 0.0,
       "exDividendDate": 1722297600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 40.3,
+      "targetHighPrice": 45.0,
       "targetLowPrice": 40.3,
-      "targetMeanPrice": 40.3,
-      "targetMedianPrice": 40.3,
+      "targetMeanPrice": 42.65,
+      "targetMedianPrice": 42.65,
       "recommendationMean": null,
       "recommendationKey": "none",
-      "numberOfAnalystOpinions": 1,
+      "numberOfAnalystOpinions": 2,
       "beta": -0.134,
       "historicalData": [
         {
@@ -9849,7 +9849,7 @@
       "fiftyTwoWeekHigh": 41.78,
       "fiftyDayAverage": 24.54,
       "twoHundredDayAverage": 28.57,
-      "volume": "717,016",
+      "volume": "717,472",
       "averageVolume": 964022,
       "averageVolume10days": 504861,
       "marketCap": 2517750016,
@@ -10016,7 +10016,7 @@
         },
         {
           "Close": 18.649999618530273,
-          "Volume": 717016
+          "Volume": 717472
         }
       ],
       "heldPercentInsiders": 0.50289,
@@ -10411,7 +10411,7 @@
       "previousClose": 67.5,
       "open": 67.9,
       "dayLow": 67.85,
-      "dayHigh": 74.05,
+      "dayHigh": 74.25,
       "fiftyTwoWeekLow": 67.05,
       "fiftyTwoWeekHigh": 104.0,
       "fiftyDayAverage": 74.86,
@@ -10430,7 +10430,7 @@
       "country": "Turkey",
       "phone": "90 216 544 35 00",
       "description": "Brisa Bridgestone Sabanci Lastik Sanayi ve Ticaret A.S. engages in the manufacture, marketing, and sale of vehicle tires in Turkey and internationally. The company offers tires for radial, passenger car, truck, minibus, bus outer tires, automobiles, light commercial vehicles, buses, trucks, and agricultural and construction machinery under the Bridgestone, Lassa, Dayton, Firestone, and Kinesis brand names; tire retreading services under the Bandag brand name; and vehicle maintenance services. It provides digital fleet services through Filofix road assistance mobile application and fleet services under the Probox, Mobilfix, and Propratik brands. The company offers its products and services through its stores and e-commerce platform under Lastik.com.tr website. The company was formerly known as Lassa Lastik Sanayi ve Ticaret A.S. and changed its name to Brisa Bridgestone Sabanci Lastik Sanayi ve Ticaret A.S. in 1988. Brisa Bridgestone Sabanci Lastik Sanayi ve Ticaret A.S. was incorporated in 1974 and is headquartered in Istanbul, Turkey.",
-      "pe": 62.901783,
+      "pe": 64.04545,
       "forwardPE": 4.166174,
       "priceToBook": 0.76527005,
       "pegRatio": null,
@@ -10449,7 +10449,7 @@
       "debtToEquity": 55.428,
       "currentRatio": 1.049,
       "quickRatio": 0.734,
-      "eps": 1.12,
+      "eps": 1.1,
       "forwardEps": 16.91,
       "bookValue": 92.059,
       "dividendRate": null,
@@ -10983,7 +10983,7 @@
       "fiftyTwoWeekHigh": 13.29,
       "fiftyDayAverage": 8.31,
       "twoHundredDayAverage": 10.09,
-      "volume": "1,407,619",
+      "volume": "1,399,640",
       "averageVolume": 1607086,
       "averageVolume10days": 979977,
       "marketCap": 3549999872,
@@ -11150,7 +11150,7 @@
         },
         {
           "Close": 7.099999904632568,
-          "Volume": 1407619
+          "Volume": 1399640
         }
       ],
       "heldPercentInsiders": 0.66972,
@@ -11734,7 +11734,7 @@
       "previousClose": 10.69,
       "open": 10.73,
       "dayLow": 10.73,
-      "dayHigh": 11.75,
+      "dayHigh": 11.74,
       "fiftyTwoWeekLow": 10.63,
       "fiftyTwoWeekHigh": 18.25,
       "fiftyDayAverage": 11.93,
@@ -13057,7 +13057,7 @@
       "previousClose": 1.45,
       "open": 1.45,
       "dayLow": 1.42,
-      "dayHigh": 1.55,
+      "dayHigh": 1.53,
       "fiftyTwoWeekLow": 1.41,
       "fiftyTwoWeekHigh": 3.27,
       "fiftyDayAverage": 1.92,
@@ -15141,7 +15141,7 @@
       "fiftyTwoWeekHigh": 4.96,
       "fiftyDayAverage": 3.68,
       "twoHundredDayAverage": 3.7,
-      "volume": "10,746,755",
+      "volume": "10,685,622",
       "averageVolume": 20551711,
       "averageVolume10days": 13945518,
       "marketCap": 5374099968,
@@ -15308,7 +15308,7 @@
         },
         {
           "Close": 3.049999952316284,
-          "Volume": 10746755
+          "Volume": 10685622
         }
       ],
       "heldPercentInsiders": 0.57423997,
@@ -16081,7 +16081,7 @@
       "previousClose": 32.54,
       "open": 32.3,
       "dayLow": 32.3,
-      "dayHigh": 35.4,
+      "dayHigh": 35.42,
       "fiftyTwoWeekLow": 30.6,
       "fiftyTwoWeekHigh": 64.8,
       "fiftyDayAverage": 39.05,
@@ -16270,7 +16270,7 @@
       "previousClose": 203.0,
       "open": 203.0,
       "dayLow": 198.8,
-      "dayHigh": 212.1,
+      "dayHigh": 212.0,
       "fiftyTwoWeekLow": 123.1,
       "fiftyTwoWeekHigh": 368.5,
       "fiftyDayAverage": 267.94,
@@ -16653,7 +16653,7 @@
       "fiftyTwoWeekHigh": 12.05,
       "fiftyDayAverage": 5.8,
       "twoHundredDayAverage": 7.49,
-      "volume": "1,257,244",
+      "volume": "1,237,244",
       "averageVolume": 901433,
       "averageVolume10days": 580692,
       "marketCap": 319200000,
@@ -16820,7 +16820,7 @@
         },
         {
           "Close": 5.320000171661377,
-          "Volume": 1257244
+          "Volume": 1237244
         }
       ],
       "heldPercentInsiders": 0.17436,
@@ -17220,7 +17220,7 @@
       "fiftyTwoWeekHigh": 5.91,
       "fiftyDayAverage": 3.58,
       "twoHundredDayAverage": 4.22,
-      "volume": "4,484,747",
+      "volume": "4,566,671",
       "averageVolume": 6889054,
       "averageVolume10days": 4023090,
       "marketCap": 669600000,
@@ -17387,7 +17387,7 @@
         },
         {
           "Close": 2.4800000190734863,
-          "Volume": 4484747
+          "Volume": 4566671
         }
       ],
       "heldPercentInsiders": 0.061100002,
@@ -17592,13 +17592,13 @@
       "changeRate": 0.32,
       "previousClose": 313.0,
       "open": 313.25,
-      "dayLow": 310.75,
+      "dayLow": 308.75,
       "dayHigh": 320.0,
-      "fiftyTwoWeekLow": 310.75,
+      "fiftyTwoWeekLow": 308.75,
       "fiftyTwoWeekHigh": 1327.0,
       "fiftyDayAverage": 410.61,
       "twoHundredDayAverage": 584.07,
-      "volume": "45,562",
+      "volume": "45,561",
       "averageVolume": 90445,
       "averageVolume10days": 35279,
       "marketCap": 7849999872,
@@ -17765,7 +17765,7 @@
         },
         {
           "Close": 314.0,
-          "Volume": 45562
+          "Volume": 45561
         }
       ],
       "heldPercentInsiders": 0.90615,
@@ -17976,7 +17976,7 @@
       "fiftyTwoWeekHigh": 11.51,
       "fiftyDayAverage": 8.31,
       "twoHundredDayAverage": 8.64,
-      "volume": "130,624",
+      "volume": "130,754",
       "averageVolume": 654142,
       "averageVolume10days": 1455086,
       "marketCap": 3415000064,
@@ -18143,7 +18143,7 @@
         },
         {
           "Close": 6.829999923706055,
-          "Volume": 130624
+          "Volume": 130754
         }
       ],
       "heldPercentInsiders": null,
@@ -18368,7 +18368,7 @@
       "country": "Turkey",
       "phone": "90 546 527 46 69",
       "description": "Balatacilar Balatacilik Sanayi Ve Ticaret A.S. provides automotive parts in Turkey. It manufactures, imports, and sells drums, brakes, and clutch linings. The company was incorporated in 1988 and is headquartered in Izmir, Turkey.",
-      "pe": 23.560312,
+      "pe": 25.229166,
       "forwardPE": null,
       "priceToBook": 22.425924,
       "pegRatio": null,
@@ -18387,7 +18387,7 @@
       "debtToEquity": null,
       "currentRatio": 1.29,
       "quickRatio": 0.725,
-      "eps": 2.57,
+      "eps": 2.4,
       "forwardEps": null,
       "bookValue": 2.7,
       "dividendRate": null,
@@ -18543,7 +18543,7 @@
       "fiftyTwoWeekHigh": 191.8,
       "fiftyDayAverage": 143.71,
       "twoHundredDayAverage": 158.0,
-      "volume": "45,394",
+      "volume": "45,398",
       "averageVolume": 126115,
       "averageVolume10days": 108429,
       "marketCap": 12512949248,
@@ -18710,7 +18710,7 @@
         },
         {
           "Close": 125.0999984741211,
-          "Volume": 45394
+          "Volume": 45398
         }
       ],
       "heldPercentInsiders": 0.91705,
@@ -19124,7 +19124,7 @@
       "country": "Turkey",
       "phone": "90 312 584 04 29",
       "description": "Baskent Dogalgaz Dagitim Gayrimenkul Yatirim Ortakligi A.S. engages in natural gas distribution activities in Ankara. The company was incorporated in 2007 and is headquartered in Ankara, Turkey. Baskent Dogalgaz Dagitim Gayrimenkul Yatirim Ortakligi A.S. is a subsidiary of Torunlar Enerji Sanayi Ve Tic.A.S.",
-      "pe": 18.190477,
+      "pe": 17.76744,
       "forwardPE": null,
       "priceToBook": 0.7500344,
       "pegRatio": null,
@@ -19143,7 +19143,7 @@
       "debtToEquity": 4.764,
       "currentRatio": 0.282,
       "quickRatio": 0.273,
-      "eps": 2.1,
+      "eps": 2.15,
       "forwardEps": null,
       "bookValue": 50.931,
       "dividendRate": 2.0,
@@ -19866,7 +19866,7 @@
       "fiftyTwoWeekHigh": 37.58,
       "fiftyDayAverage": 20.36,
       "twoHundredDayAverage": 26.31,
-      "volume": "324,379",
+      "volume": "329,834",
       "averageVolume": 983610,
       "averageVolume10days": 486693,
       "marketCap": 1430515712,
@@ -20033,7 +20033,7 @@
         },
         {
           "Close": 14.350000381469727,
-          "Volume": 324379
+          "Volume": 329834
         }
       ],
       "heldPercentInsiders": 0.75448,
@@ -20622,7 +20622,7 @@
       "fiftyTwoWeekHigh": 36.7,
       "fiftyDayAverage": 22.14,
       "twoHundredDayAverage": 26.39,
-      "volume": "107,111",
+      "volume": "107,121",
       "averageVolume": 245429,
       "averageVolume10days": 146809,
       "marketCap": 1408331264,
@@ -20789,7 +20789,7 @@
         },
         {
           "Close": 17.5,
-          "Volume": 107111
+          "Volume": 107121
         }
       ],
       "heldPercentInsiders": 0.72072,
@@ -21373,12 +21373,12 @@
       "previousClose": 4.79,
       "open": 4.92,
       "dayLow": 4.9,
-      "dayHigh": 5.05,
+      "dayHigh": 5.06,
       "fiftyTwoWeekLow": 4.79,
       "fiftyTwoWeekHigh": 7.6,
       "fiftyDayAverage": 5.88,
       "twoHundredDayAverage": 6.39,
-      "volume": "5,196,733",
+      "volume": "5,196,737",
       "averageVolume": 3572174,
       "averageVolume10days": 1658220,
       "marketCap": 1212522240,
@@ -21545,7 +21545,7 @@
         },
         {
           "Close": 5.019999980926514,
-          "Volume": 5196733
+          "Volume": 5196737
         }
       ],
       "heldPercentInsiders": 0.39897,
@@ -22129,12 +22129,12 @@
       "previousClose": 5.13,
       "open": 5.2,
       "dayLow": 5.2,
-      "dayHigh": 5.64,
+      "dayHigh": 5.53,
       "fiftyTwoWeekLow": 5.0,
       "fiftyTwoWeekHigh": 7.91,
       "fiftyDayAverage": 6.29,
       "twoHundredDayAverage": 6.49,
-      "volume": "377,026",
+      "volume": "384,470",
       "averageVolume": 3682377,
       "averageVolume10days": 352584,
       "marketCap": 7096411648,
@@ -22301,7 +22301,7 @@
         },
         {
           "Close": 5.619999885559082,
-          "Volume": 377026
+          "Volume": 384470
         }
       ],
       "heldPercentInsiders": 0.8914,
@@ -22323,7 +22323,7 @@
       "fiftyTwoWeekHigh": 9.68,
       "fiftyDayAverage": 7.07,
       "twoHundredDayAverage": 8.11,
-      "volume": "145,506",
+      "volume": "144,697",
       "averageVolume": 337909,
       "averageVolume10days": 283427,
       "marketCap": 508247968,
@@ -22490,7 +22490,7 @@
         },
         {
           "Close": 5.429999828338623,
-          "Volume": 145506
+          "Volume": 144697
         }
       ],
       "heldPercentInsiders": 0.41349,
@@ -22512,7 +22512,7 @@
       "fiftyTwoWeekHigh": 139.0,
       "fiftyDayAverage": 68.68,
       "twoHundredDayAverage": 88.28,
-      "volume": "173,259",
+      "volume": "174,968",
       "averageVolume": 429494,
       "averageVolume10days": 255568,
       "marketCap": 2487520000,
@@ -22679,7 +22679,7 @@
         },
         {
           "Close": 44.41999816894531,
-          "Volume": 173259
+          "Volume": 174968
         }
       ],
       "heldPercentInsiders": 0.74684995,
@@ -23262,9 +23262,9 @@
       "changeRate": -0.59,
       "previousClose": 1.7,
       "open": 1.68,
-      "dayLow": 1.54,
+      "dayLow": 1.53,
       "dayHigh": 1.71,
-      "fiftyTwoWeekLow": 1.54,
+      "fiftyTwoWeekLow": 1.53,
       "fiftyTwoWeekHigh": 7.09,
       "fiftyDayAverage": 3.28,
       "twoHundredDayAverage": 5.05,
@@ -23835,7 +23835,7 @@
       "fiftyTwoWeekHigh": 165.5,
       "fiftyDayAverage": 93.94,
       "twoHundredDayAverage": 110.85,
-      "volume": "319,127",
+      "volume": "319,316",
       "averageVolume": 865597,
       "averageVolume10days": 391570,
       "marketCap": 2257880064,
@@ -24002,7 +24002,7 @@
         },
         {
           "Close": 60.04999923706055,
-          "Volume": 319127
+          "Volume": 319316
         }
       ],
       "heldPercentInsiders": 0.60431,
@@ -25725,7 +25725,7 @@
       "fiftyTwoWeekHigh": 389.25,
       "fiftyDayAverage": 245.84,
       "twoHundredDayAverage": 299.14,
-      "volume": "4,097",
+      "volume": "4,147",
       "averageVolume": 4124,
       "averageVolume10days": 3367,
       "marketCap": 18972352512,
@@ -25892,7 +25892,7 @@
         },
         {
           "Close": 219.10000610351562,
-          "Volume": 4097
+          "Volume": 4147
         }
       ],
       "heldPercentInsiders": 0.97172,
@@ -27092,8 +27092,8 @@
       "targetLowPrice": 60.0,
       "targetMeanPrice": 60.0,
       "targetMedianPrice": 60.0,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 1.0,
+      "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 1,
       "beta": 0.768,
       "historicalData": [
@@ -27615,7 +27615,7 @@
       "fiftyTwoWeekHigh": 2.78,
       "fiftyDayAverage": 1.41,
       "twoHundredDayAverage": 1.95,
-      "volume": "9,293,923",
+      "volume": "9,249,397",
       "averageVolume": 16071264,
       "averageVolume10days": 10693362,
       "marketCap": 2414728960,
@@ -27782,7 +27782,7 @@
         },
         {
           "Close": 1.0299999713897705,
-          "Volume": 9293923
+          "Volume": 9249397
         }
       ],
       "heldPercentInsiders": 0.51542,
@@ -28182,7 +28182,7 @@
       "fiftyTwoWeekHigh": 44.82,
       "fiftyDayAverage": 31.77,
       "twoHundredDayAverage": 35.95,
-      "volume": "273,164",
+      "volume": "274,920",
       "averageVolume": 340095,
       "averageVolume10days": 158930,
       "marketCap": 1178279936,
@@ -28349,7 +28349,7 @@
         },
         {
           "Close": 21.81999969482422,
-          "Volume": 273164
+          "Volume": 274920
         }
       ],
       "heldPercentInsiders": 0.72997004,
@@ -28938,7 +28938,7 @@
       "fiftyTwoWeekHigh": 135.2,
       "fiftyDayAverage": 81.67,
       "twoHundredDayAverage": 88.92,
-      "volume": "196,734",
+      "volume": "195,854",
       "averageVolume": 383863,
       "averageVolume10days": 250428,
       "marketCap": 1760675584,
@@ -29105,7 +29105,7 @@
         },
         {
           "Close": 59.0,
-          "Volume": 196734
+          "Volume": 195854
         }
       ],
       "heldPercentInsiders": 0.59242,
@@ -29127,7 +29127,7 @@
       "fiftyTwoWeekHigh": 49.3,
       "fiftyDayAverage": 31.21,
       "twoHundredDayAverage": 32.61,
-      "volume": "42,441",
+      "volume": "42,413",
       "averageVolume": 117836,
       "averageVolume10days": 70787,
       "marketCap": 8964209664,
@@ -29294,7 +29294,7 @@
         },
         {
           "Close": 27.0,
-          "Volume": 42441
+          "Volume": 42413
         }
       ],
       "heldPercentInsiders": 0.94435996,
@@ -29311,7 +29311,7 @@
       "previousClose": 3.88,
       "open": 3.73,
       "dayLow": 3.73,
-      "dayHigh": 4.26,
+      "dayHigh": 4.25,
       "fiftyTwoWeekLow": 3.37,
       "fiftyTwoWeekHigh": 10.68,
       "fiftyDayAverage": 6.24,
@@ -30256,7 +30256,7 @@
       "previousClose": 134.7,
       "open": 134.7,
       "dayLow": 132.3,
-      "dayHigh": 136.5,
+      "dayHigh": 136.4,
       "fiftyTwoWeekLow": 132.3,
       "fiftyTwoWeekHigh": 247.0,
       "fiftyDayAverage": 158.41,
@@ -31012,7 +31012,7 @@
       "previousClose": 14.2,
       "open": 14.2,
       "dayLow": 13.6,
-      "dayHigh": 14.23,
+      "dayHigh": 14.22,
       "fiftyTwoWeekLow": 13.6,
       "fiftyTwoWeekHigh": 32.5,
       "fiftyDayAverage": 19.9,
@@ -31239,7 +31239,7 @@
       "debtToEquity": 66.69,
       "currentRatio": 1.027,
       "quickRatio": 0.619,
-      "eps": -0.73,
+      "eps": -0.79,
       "forwardEps": null,
       "bookValue": 3.374,
       "dividendRate": null,
@@ -31962,7 +31962,7 @@
       "fiftyTwoWeekHigh": 426.75,
       "fiftyDayAverage": 271.56,
       "twoHundredDayAverage": 316.25,
-      "volume": "409,841",
+      "volume": "409,834",
       "averageVolume": 474437,
       "averageVolume10days": 338903,
       "marketCap": 20275501056,
@@ -32129,7 +32129,7 @@
         },
         {
           "Close": 193.10000610351562,
-          "Volume": 409841
+          "Volume": 409834
         }
       ],
       "heldPercentInsiders": 0.81574994,
@@ -32921,7 +32921,7 @@
       "country": "Turkey",
       "phone": "",
       "description": "Ege Gübre Sanayii A.S. primarily provides port services. The company operates through Chemical Fertilizers and Port Services segments. It offers port services, including container handling, storage, container stuffing/unloading, container repair/cleaning, yard stacking, and OFFDOCK services; loading and terminal services; terminal management services; and insurance brokerage services. The company also provides compound, supply, and specialized fertilizers, as well as organic solvents. Ege Gübre Sanayii A.S. was incorporated in 1973 and is headquartered in Izmir, Turkey.",
-      "pe": 20.0,
+      "pe": 18.929337,
       "forwardPE": null,
       "priceToBook": 0.86687064,
       "pegRatio": null,
@@ -32940,7 +32940,7 @@
       "debtToEquity": 13.36,
       "currentRatio": 1.75,
       "quickRatio": 1.547,
-      "eps": 4.42,
+      "eps": 4.67,
       "forwardEps": null,
       "bookValue": 101.976,
       "dividendRate": 2.5,
@@ -33474,7 +33474,7 @@
       "fiftyTwoWeekHigh": 160.0,
       "fiftyDayAverage": 54.87,
       "twoHundredDayAverage": 87.47,
-      "volume": "17,616",
+      "volume": "17,666",
       "averageVolume": 14155,
       "averageVolume10days": 11528,
       "marketCap": 403874432,
@@ -33641,7 +33641,7 @@
         },
         {
           "Close": 43.5,
-          "Volume": 17616
+          "Volume": 17666
         }
       ],
       "heldPercentInsiders": 0.35847,
@@ -34433,7 +34433,7 @@
       "country": "Turkey",
       "phone": "90 262 754 52 38",
       "description": "Eminis Ambalaj Sanayi ve Ticaret A.S. engages in the manufacture and sale of plastic and metal packaging products in Turkey and internationally. The company offers plastic products, including bucket, heavy bucket, performance bucket, light bucket, and can products; and can, spout cap, monoblock, drum, putty can, diameter box, bucket, and bottom ring metal products. Its products are used in paint and chemical, mineral oil, construction chemicals, pool chemicals, confectionery, marmalade and chocolate, powder beverage, and cosmetics industries. Eminis Ambalaj Sanayi ve Ticaret A.S. was incorporated in 1970 and is based in Dilovasi, Turkey.",
-      "pe": 48.639706,
+      "pe": 48.819187,
       "forwardPE": null,
       "priceToBook": 3.0326648,
       "pegRatio": null,
@@ -34452,7 +34452,7 @@
       "debtToEquity": null,
       "currentRatio": 2.399,
       "quickRatio": 1.596,
-      "eps": 2.72,
+      "eps": 2.71,
       "forwardEps": null,
       "bookValue": 43.625,
       "dividendRate": null,
@@ -35175,7 +35175,7 @@
       "fiftyTwoWeekHigh": 226.0,
       "fiftyDayAverage": 134.65,
       "twoHundredDayAverage": 174.37,
-      "volume": "123,497",
+      "volume": "123,469",
       "averageVolume": 112511,
       "averageVolume10days": 35600,
       "marketCap": 2064000000,
@@ -35342,7 +35342,7 @@
         },
         {
           "Close": 103.19999694824219,
-          "Volume": 123497
+          "Volume": 123469
         }
       ],
       "heldPercentInsiders": 0.17578,
@@ -35359,7 +35359,7 @@
       "previousClose": 34.6,
       "open": 34.96,
       "dayLow": 34.72,
-      "dayHigh": 37.9,
+      "dayHigh": 37.86,
       "fiftyTwoWeekLow": 33.74,
       "fiftyTwoWeekHigh": 105.0,
       "fiftyDayAverage": 41.73,
@@ -35742,7 +35742,7 @@
       "fiftyTwoWeekHigh": 57.0,
       "fiftyDayAverage": 32.9,
       "twoHundredDayAverage": 38.6,
-      "volume": "1,699,831",
+      "volume": "1,708,555",
       "averageVolume": 2894779,
       "averageVolume10days": 3998962,
       "marketCap": 5744999936,
@@ -35909,7 +35909,7 @@
         },
         {
           "Close": 11.489999771118164,
-          "Volume": 1699831
+          "Volume": 1708555
         }
       ],
       "heldPercentInsiders": 0.79613,
@@ -35931,7 +35931,7 @@
       "fiftyTwoWeekHigh": 6.93,
       "fiftyDayAverage": 4.98,
       "twoHundredDayAverage": 4.99,
-      "volume": "11,900,199",
+      "volume": "11,908,613",
       "averageVolume": 19876770,
       "averageVolume10days": 9613547,
       "marketCap": 2671351808,
@@ -35945,7 +35945,7 @@
       "country": "Turkey",
       "phone": "90 212 340 60 00",
       "description": "Escort Teknoloji Yatirim A.S. provides technology-based products, solutions, and services in Turkey. The company engages in the development of AI-powered product categorization, content enrichment, and conversion optimization solutions; credit card shipping; detection of damage during vehicle delivery and retrieval; production of mobile games and application software; AI-based recruitment management systems; optimization of game development processes; safe driving and accident prevention systems; video analysis services; and curriculum-based training and book content. It is also involved in the creation of operating systems; online environments for exercising; real-time case consultation applications for general practitioners; development of technology on liposomes; data analytics, scouting, and team management platforms; beauty and care products; protection and control of sensitive data; SaaS data analytics tools; a library of digital twins of building materials; medical devices to treat glaucoma and neurological disorders; marketplaces for digital advertising, marketing, and software projects, as well as for after-sales services; online platforms for secure counseling services; and mobile quiz applications. In addition, the company engages in the management of communication channels; solutions that digitize and optimize shift work personnel management processes; research and development on malware; social platforms to practice English; online psychological support platforms; wireless sensors and industrial IoT technology; payment processing; nickel-based cathodes; online software to invoice orders; digital beauty assistants; UX/UI, mobile/web application, API, service, and cloud and integration technology development services; mobile applications to order water; solar-based renewable energy; and complete passive network infrastructure products. Escort Teknoloji Yatirim A.S. was founded in 1991 and is based in Istanbul, Turkey.",
-      "pe": 1.7877359,
+      "pe": 1.6769911,
       "forwardPE": null,
       "priceToBook": 0.6267571,
       "pegRatio": null,
@@ -35964,7 +35964,7 @@
       "debtToEquity": null,
       "currentRatio": 0.432,
       "quickRatio": 0.406,
-      "eps": 2.12,
+      "eps": 2.26,
       "forwardEps": null,
       "bookValue": 6.047,
       "dividendRate": null,
@@ -36098,7 +36098,7 @@
         },
         {
           "Close": 3.7899999618530273,
-          "Volume": 11900199
+          "Volume": 11908613
         }
       ],
       "heldPercentInsiders": 0.43633,
@@ -36120,7 +36120,7 @@
       "fiftyTwoWeekHigh": 16.77,
       "fiftyDayAverage": 3.07,
       "twoHundredDayAverage": 3.77,
-      "volume": "9,109,540",
+      "volume": "9,117,737",
       "averageVolume": 29925277,
       "averageVolume10days": 12303904,
       "marketCap": 3967600128,
@@ -36287,7 +36287,7 @@
         },
         {
           "Close": 2.180000066757202,
-          "Volume": 9109540
+          "Volume": 9117737
         }
       ],
       "heldPercentInsiders": 0.55,
@@ -36876,7 +36876,7 @@
       "fiftyTwoWeekHigh": 15.5,
       "fiftyDayAverage": 11.87,
       "twoHundredDayAverage": 9.18,
-      "volume": "554,425",
+      "volume": "564,425",
       "averageVolume": 865642,
       "averageVolume10days": 554912,
       "marketCap": 553200000,
@@ -37043,7 +37043,7 @@
         },
         {
           "Close": 9.220000267028809,
-          "Volume": 554425
+          "Volume": 564425
         }
       ],
       "heldPercentInsiders": 0.15132,
@@ -37060,7 +37060,7 @@
       "previousClose": 42.26,
       "open": 41.5,
       "dayLow": 40.74,
-      "dayHigh": 44.2,
+      "dayHigh": 44.18,
       "fiftyTwoWeekLow": 25.7,
       "fiftyTwoWeekHigh": 109.3,
       "fiftyDayAverage": 71.37,
@@ -41264,12 +41264,12 @@
       "exDividendDate": 1776038400,
       "payoutRatio": 0.14140001,
       "targetHighPrice": 118.79,
-      "targetLowPrice": 118.79,
-      "targetMeanPrice": 118.79,
-      "targetMedianPrice": 118.79,
+      "targetLowPrice": 107.0,
+      "targetMeanPrice": 112.895,
+      "targetMedianPrice": 112.895,
       "recommendationMean": null,
       "recommendationKey": "none",
-      "numberOfAnalystOpinions": 1,
+      "numberOfAnalystOpinions": 2,
       "beta": 0.244,
       "historicalData": [
         {
@@ -41973,9 +41973,9 @@
       "changeRate": 0.94,
       "previousClose": 12.72,
       "open": 12.72,
-      "dayLow": 12.5,
+      "dayLow": 12.51,
       "dayHigh": 12.9,
-      "fiftyTwoWeekLow": 12.5,
+      "fiftyTwoWeekLow": 12.51,
       "fiftyTwoWeekHigh": 28.92,
       "fiftyDayAverage": 16.79,
       "twoHundredDayAverage": 21.31,
@@ -42163,7 +42163,7 @@
       "previousClose": 227.5,
       "open": 227.5,
       "dayLow": 225.8,
-      "dayHigh": 234.5,
+      "dayHigh": 234.9,
       "fiftyTwoWeekLow": 225.8,
       "fiftyTwoWeekHigh": 405.75,
       "fiftyDayAverage": 279.21,
@@ -42938,7 +42938,7 @@
       "country": "Turkey",
       "phone": "90 216 575 33 55",
       "description": "Gür-Sel Turizm Tasimacilik ve Servis Ticaret A.S. provides transportation services in Turkey. It provides personnel transportation; student transportation; passenger car, minibus, bus rental services; urban public transport; and intercity transportation services. The company was founded in 1993 and is headquartered in Istanbul, Turkey.",
-      "pe": 13.861641,
+      "pe": 13.078422,
       "forwardPE": null,
       "priceToBook": 1.9669608,
       "pegRatio": null,
@@ -42957,7 +42957,7 @@
       "debtToEquity": 2.781,
       "currentRatio": 3.074,
       "quickRatio": 2.881,
-      "eps": 19.37,
+      "eps": 20.53,
       "forwardEps": null,
       "bookValue": 136.505,
       "dividendRate": 1.47,
@@ -44052,9 +44052,9 @@
       "changeRate": 1.46,
       "previousClose": 6.87,
       "open": 6.7,
-      "dayLow": 6.56,
+      "dayLow": 6.55,
       "dayHigh": 6.97,
-      "fiftyTwoWeekLow": 6.56,
+      "fiftyTwoWeekLow": 6.55,
       "fiftyTwoWeekHigh": 25.2,
       "fiftyDayAverage": 10.91,
       "twoHundredDayAverage": 14.38,
@@ -44808,7 +44808,7 @@
       "changeRate": -1.69,
       "previousClose": 11.86,
       "open": 11.89,
-      "dayLow": 11.53,
+      "dayLow": 11.5,
       "dayHigh": 12.04,
       "fiftyTwoWeekLow": 8.82,
       "fiftyTwoWeekHigh": 17.22,
@@ -45186,7 +45186,7 @@
       "changeRate": 1.72,
       "previousClose": 30.3,
       "open": 30.3,
-      "dayLow": 30.04,
+      "dayLow": 30.16,
       "dayHigh": 31.9,
       "fiftyTwoWeekLow": 29.2,
       "fiftyTwoWeekHigh": 50.85,
@@ -45232,10 +45232,10 @@
       "dividendYield": 0.0,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 80.00856,
-      "targetLowPrice": 60.32864,
-      "targetMeanPrice": 68.92088,
-      "targetMedianPrice": 66.42595,
+      "targetHighPrice": 80.00566,
+      "targetLowPrice": 60.32645,
+      "targetMeanPrice": 68.91838,
+      "targetMedianPrice": 66.42354,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
@@ -46326,7 +46326,7 @@
       "fiftyTwoWeekHigh": 5.5,
       "fiftyDayAverage": 2.64,
       "twoHundredDayAverage": 3.78,
-      "volume": "1,261,395",
+      "volume": "1,262,395",
       "averageVolume": 1584246,
       "averageVolume10days": 1274739,
       "marketCap": 295500000,
@@ -46493,7 +46493,7 @@
         },
         {
           "Close": 1.9700000286102295,
-          "Volume": 1261395
+          "Volume": 1262395
         }
       ],
       "heldPercentInsiders": 0.37355,
@@ -46515,7 +46515,7 @@
       "fiftyTwoWeekHigh": 234.9,
       "fiftyDayAverage": 142.69,
       "twoHundredDayAverage": 116.78,
-      "volume": "22,099",
+      "volume": "22,120",
       "averageVolume": 2792038,
       "averageVolume10days": 141352,
       "marketCap": 9050868736,
@@ -46682,7 +46682,7 @@
         },
         {
           "Close": 16.649999618530273,
-          "Volume": 22099
+          "Volume": 22120
         }
       ],
       "heldPercentInsiders": 0.39040002,
@@ -47455,7 +47455,7 @@
       "previousClose": 1.07,
       "open": 1.09,
       "dayLow": 1.07,
-      "dayHigh": 1.16,
+      "dayHigh": 1.17,
       "fiftyTwoWeekLow": 1.07,
       "fiftyTwoWeekHigh": 3.14,
       "fiftyDayAverage": 1.42,
@@ -48405,7 +48405,7 @@
       "fiftyTwoWeekHigh": 536.0,
       "fiftyDayAverage": 347.23,
       "twoHundredDayAverage": 401.74,
-      "volume": "15,992",
+      "volume": "15,861",
       "averageVolume": 42883,
       "averageVolume10days": 21926,
       "marketCap": 6305999872,
@@ -48572,7 +48572,7 @@
         },
         {
           "Close": 262.75,
-          "Volume": 15992
+          "Volume": 15861
         }
       ],
       "heldPercentInsiders": 0.91583997,
@@ -48594,7 +48594,7 @@
       "fiftyTwoWeekHigh": 497.5,
       "fiftyDayAverage": 226.28,
       "twoHundredDayAverage": 279.58,
-      "volume": "44,228",
+      "volume": "44,315",
       "averageVolume": 47284,
       "averageVolume10days": 26939,
       "marketCap": 3171678464,
@@ -48761,7 +48761,7 @@
         },
         {
           "Close": 165.5,
-          "Volume": 44228
+          "Volume": 44315
         }
       ],
       "heldPercentInsiders": 0.85896003,
@@ -48783,7 +48783,7 @@
       "fiftyTwoWeekHigh": 11.78,
       "fiftyDayAverage": 6.3,
       "twoHundredDayAverage": 7.63,
-      "volume": "2,501,494",
+      "volume": "2,528,443",
       "averageVolume": 4734936,
       "averageVolume10days": 2681290,
       "marketCap": 4655340032,
@@ -48950,7 +48950,7 @@
         },
         {
           "Close": 4.659999847412109,
-          "Volume": 2501494
+          "Volume": 2528443
         }
       ],
       "heldPercentInsiders": 0.81499,
@@ -49364,7 +49364,7 @@
       "country": "Turkey",
       "phone": "90 312 418 10 43",
       "description": "Isbir Holding A.S. manufactures and sells sponges, mattresses, big bags, and carpet bases in Turkey and internationally. It operates through the Sponge and Mattress, and Synthetic Textile segments. The company offers polyurethane canvas, tarpaulin, greenhouse cover, carpet underlay, and lined and unlined valves. It is also involved in marketing, export, sale and import of all kinds of industrial goods produced by the group companies. The company offers its products for mattresses, armchairs, sofas and seating groups, as well as for the home textile, manufacturing sector, automotive, upholstery, packaging, and heat and sound insulation applications. It also exports its products. The company was incorporated in 1968 and is headquartered in Ankara, Turkey.",
-      "pe": 116.25001,
+      "pe": 113.66667,
       "forwardPE": null,
       "priceToBook": 0.19342323,
       "pegRatio": null,
@@ -49383,7 +49383,7 @@
       "debtToEquity": 48.87,
       "currentRatio": 1.423,
       "quickRatio": 0.783,
-      "eps": 0.44,
+      "eps": 0.45,
       "forwardEps": null,
       "bookValue": 264.446,
       "dividendRate": 1.0,
@@ -51119,7 +51119,7 @@
       "fiftyTwoWeekHigh": 13.39,
       "fiftyDayAverage": 5.99,
       "twoHundredDayAverage": 8.86,
-      "volume": "25,517,273",
+      "volume": "25,517,253",
       "averageVolume": 43052895,
       "averageVolume10days": 46391624,
       "marketCap": 8162124288,
@@ -51286,7 +51286,7 @@
         },
         {
           "Close": 3.3399999141693115,
-          "Volume": 25517273
+          "Volume": 25517253
         }
       ],
       "heldPercentInsiders": 0.60797,
@@ -51302,7 +51302,7 @@
       "changeRate": -9.95,
       "previousClose": 19.59,
       "open": 19.59,
-      "dayLow": 17.64,
+      "dayLow": 17.65,
       "dayHigh": 20.24,
       "fiftyTwoWeekLow": 9.48,
       "fiftyTwoWeekHigh": 74.95,
@@ -51497,7 +51497,7 @@
       "fiftyTwoWeekHigh": 87.5,
       "fiftyDayAverage": 43.05,
       "twoHundredDayAverage": 59.77,
-      "volume": "116,667",
+      "volume": "115,711",
       "averageVolume": 256760,
       "averageVolume10days": 162262,
       "marketCap": 502257248,
@@ -51664,7 +51664,7 @@
         },
         {
           "Close": 28.68000030517578,
-          "Volume": 116667
+          "Volume": 115711
         }
       ],
       "heldPercentInsiders": 0.38069,
@@ -51719,7 +51719,7 @@
       "debtToEquity": 104.992,
       "currentRatio": 0.633,
       "quickRatio": 0.245,
-      "eps": -1.53,
+      "eps": -1.56,
       "forwardEps": null,
       "bookValue": 13.757,
       "dividendRate": null,
@@ -52475,7 +52475,7 @@
       "debtToEquity": 26.685,
       "currentRatio": 1.556,
       "quickRatio": 0.79,
-      "eps": -7.32,
+      "eps": -7.03,
       "forwardEps": null,
       "bookValue": 38.929,
       "dividendRate": null,
@@ -53760,7 +53760,7 @@
       "previousClose": 5.1,
       "open": 5.12,
       "dayLow": 5.1,
-      "dayHigh": 5.61,
+      "dayHigh": 5.55,
       "fiftyTwoWeekLow": 5.1,
       "fiftyTwoWeekHigh": 12.54,
       "fiftyDayAverage": 7.2,
@@ -54326,7 +54326,7 @@
       "changeRate": 2.1,
       "previousClose": 3.81,
       "open": 3.81,
-      "dayLow": 3.71,
+      "dayLow": 3.7,
       "dayHigh": 3.9,
       "fiftyTwoWeekLow": 3.46,
       "fiftyTwoWeekHigh": 8.3,
@@ -54565,8 +54565,8 @@
       "targetLowPrice": 48.6,
       "targetMeanPrice": 52.6425,
       "targetMedianPrice": 51.31,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 1.75,
+      "recommendationKey": "buy",
       "numberOfAnalystOpinions": 4,
       "beta": -0.441,
       "historicalData": [
@@ -55466,7 +55466,7 @@
       "fiftyTwoWeekHigh": 17.48,
       "fiftyDayAverage": 15.0,
       "twoHundredDayAverage": 12.01,
-      "volume": "2,764,686",
+      "volume": "2,780,046",
       "averageVolume": 3413498,
       "averageVolume10days": 2967640,
       "marketCap": 6574837760,
@@ -55633,7 +55633,7 @@
         },
         {
           "Close": 15.239999771118164,
-          "Volume": 2764686
+          "Volume": 2780046
         }
       ],
       "heldPercentInsiders": 0.72764,
@@ -56444,7 +56444,7 @@
       "debtToEquity": 212.843,
       "currentRatio": 0.686,
       "quickRatio": 0.381,
-      "eps": -0.77,
+      "eps": -0.8,
       "forwardEps": null,
       "bookValue": 4.048,
       "dividendRate": 0.02,
@@ -57923,7 +57923,7 @@
       "fiftyTwoWeekHigh": 14.98,
       "fiftyDayAverage": 11.21,
       "twoHundredDayAverage": 9.49,
-      "volume": "1,633,388",
+      "volume": "1,639,465",
       "averageVolume": 4556566,
       "averageVolume10days": 2042493,
       "marketCap": 1639494016,
@@ -58090,7 +58090,7 @@
         },
         {
           "Close": 9.390000343322754,
-          "Volume": 1633388
+          "Volume": 1639465
         }
       ],
       "heldPercentInsiders": 0.5504,
@@ -58295,7 +58295,7 @@
       "changeRate": 0.2,
       "previousClose": 4.93,
       "open": 5.05,
-      "dayLow": 4.9,
+      "dayLow": 4.92,
       "dayHigh": 5.18,
       "fiftyTwoWeekLow": 4.85,
       "fiftyTwoWeekHigh": 40.74,
@@ -59241,7 +59241,7 @@
       "previousClose": 57.65,
       "open": 57.7,
       "dayLow": 57.05,
-      "dayHigh": 63.35,
+      "dayHigh": 63.4,
       "fiftyTwoWeekLow": 57.05,
       "fiftyTwoWeekHigh": 125.0,
       "fiftyDayAverage": 74.11,
@@ -59638,7 +59638,7 @@
       "country": "Turkey",
       "phone": "90 212 603 32 00",
       "description": "Kuyas Yatirim A.S. engages in the real estate business in Turkey. Its portfolio includes hotel, additional workshop units, exhibition and conference areas, gold exchange building, and parking area, as well as providing human resource support to jewelry sector through training facilities. The company was incorporated in 2005 and is headquartered in Istanbul, Turkey.",
-      "pe": 27.317074,
+      "pe": 26.04651,
       "forwardPE": null,
       "priceToBook": 2.1659253,
       "pegRatio": null,
@@ -59657,7 +59657,7 @@
       "debtToEquity": 69.922,
       "currentRatio": 1.39,
       "quickRatio": 1.178,
-      "eps": 0.41,
+      "eps": 0.43,
       "forwardEps": null,
       "bookValue": 5.171,
       "dividendRate": null,
@@ -60380,7 +60380,7 @@
       "fiftyTwoWeekHigh": 9.46,
       "fiftyDayAverage": 4.65,
       "twoHundredDayAverage": 5.75,
-      "volume": "11,479,628",
+      "volume": "11,412,496",
       "averageVolume": 16510514,
       "averageVolume10days": 9826131,
       "marketCap": 2782275328,
@@ -60547,7 +60547,7 @@
         },
         {
           "Close": 3.119999885559082,
-          "Volume": 11479628
+          "Volume": 11412496
         }
       ],
       "heldPercentInsiders": 0.43304002,
@@ -60583,7 +60583,7 @@
       "country": "Turkey",
       "phone": "90 444 99 11",
       "description": "Lokman Hekim Engürüsag Saglik, Turizm, Egitim Hizmetleri ve Insaat Taahhüt A.S., together with its subsidiaries, operates hospitals, medical centers, laboratories, and medical units in Turkey. The company offers health care; e-health; imaging and diagnostic; and logistics and support services. It is also involved in the insurance and brokerage; construction and tourism; production of milk; raising of livestock; sale of feeds; and hospital rental businesses. Lokman Hekim Engürüsag Saglik, Turizm, Egitim Hizmetleri ve Insaat Taahhüt A.S. was incorporated in 1996 and is based in Ankara, Turkey.",
-      "pe": 20.181818,
+      "pe": 20.943398,
       "forwardPE": null,
       "priceToBook": 0.87291604,
       "pegRatio": null,
@@ -60602,7 +60602,7 @@
       "debtToEquity": 89.285,
       "currentRatio": 0.811,
       "quickRatio": 0.465,
-      "eps": 0.55,
+      "eps": 0.53,
       "forwardEps": null,
       "bookValue": 12.716,
       "dividendRate": 0.46,
@@ -60942,12 +60942,12 @@
       "previousClose": 53.7,
       "open": 53.75,
       "dayLow": 52.1,
-      "dayHigh": 55.4,
+      "dayHigh": 55.5,
       "fiftyTwoWeekLow": 52.1,
       "fiftyTwoWeekHigh": 135.0,
       "fiftyDayAverage": 75.48,
       "twoHundredDayAverage": 96.44,
-      "volume": "128,958",
+      "volume": "129,441",
       "averageVolume": 132862,
       "averageVolume10days": 363178,
       "marketCap": 1528800000,
@@ -61114,7 +61114,7 @@
         },
         {
           "Close": 54.599998474121094,
-          "Volume": 128958
+          "Volume": 129441
         }
       ],
       "heldPercentInsiders": 0.80126,
@@ -61150,7 +61150,7 @@
       "country": "Turkey",
       "phone": "90 242 248 68 00",
       "description": "Marmaris Altinyunus Turistik Tesisler A.S. engages in hotels and tourism services in Turkey. It operates tourist hotels in Antalya and Marmaris; and leases tourist facilities. The company was incorporated in 1986 and is based in Antalya, Turkey.",
-      "pe": 168.58824,
+      "pe": 161.73816,
       "forwardPE": null,
       "priceToBook": 1.0759099,
       "pegRatio": null,
@@ -61169,7 +61169,7 @@
       "debtToEquity": null,
       "currentRatio": 0.812,
       "quickRatio": 0.712,
-      "eps": 4.25,
+      "eps": 4.43,
       "forwardEps": null,
       "bookValue": 665.948,
       "dividendRate": null,
@@ -61320,7 +61320,7 @@
       "previousClose": 22.64,
       "open": 22.64,
       "dayLow": 22.42,
-      "dayHigh": 24.46,
+      "dayHigh": 24.5,
       "fiftyTwoWeekLow": 22.42,
       "fiftyTwoWeekHigh": 48.1,
       "fiftyDayAverage": 30.67,
@@ -61698,12 +61698,12 @@
       "previousClose": 12.5,
       "open": 12.56,
       "dayLow": 12.54,
-      "dayHigh": 13.7,
+      "dayHigh": 13.73,
       "fiftyTwoWeekLow": 11.4,
       "fiftyTwoWeekHigh": 20.9,
       "fiftyDayAverage": 14.36,
       "twoHundredDayAverage": 16.35,
-      "volume": "3,814,345",
+      "volume": "3,815,395",
       "averageVolume": 1228664,
       "averageVolume10days": 1136671,
       "marketCap": 1431360000,
@@ -61870,7 +61870,7 @@
         },
         {
           "Close": 12.779999732971191,
-          "Volume": 3814345
+          "Volume": 3815395
         }
       ],
       "heldPercentInsiders": 0.61944,
@@ -62075,7 +62075,7 @@
       "changeRate": -10.0,
       "previousClose": 4.2,
       "open": 4.15,
-      "dayLow": 3.8,
+      "dayLow": 3.81,
       "dayHigh": 4.34,
       "fiftyTwoWeekLow": 3.58,
       "fiftyTwoWeekHigh": 40.42,
@@ -62454,7 +62454,7 @@
       "previousClose": 67.2,
       "open": 83.2,
       "dayLow": 80.6,
-      "dayHigh": 85.0,
+      "dayHigh": 84.95,
       "fiftyTwoWeekLow": 21.8,
       "fiftyTwoWeekHigh": 95.25,
       "fiftyDayAverage": 82.51,
@@ -62648,7 +62648,7 @@
       "fiftyTwoWeekHigh": 3.68,
       "fiftyDayAverage": 1.71,
       "twoHundredDayAverage": 1.9,
-      "volume": "167,663,333",
+      "volume": "167,666,730",
       "averageVolume": 126323729,
       "averageVolume10days": 224135620,
       "marketCap": 2098152448,
@@ -62815,7 +62815,7 @@
         },
         {
           "Close": 1.399999976158142,
-          "Volume": 167663333
+          "Volume": 167666730
         }
       ],
       "heldPercentInsiders": 0.24222,
@@ -63040,7 +63040,7 @@
       "country": "Turkey",
       "phone": "90 416 318 27 33",
       "description": "Mega Polietilen Köpük Sanayi ve Ticaret Anonim Sirketi produces and sells foam products in Turkey and internationally. The company manufactures, imports, and exports polyethylene and foam, EVA, natural and synthetic rubber, plastic products, auxiliary chemicals, dyes, polyethylene foam rubber, and industrial mineral oils. It also provides slippers, shoes, artificial and natural leather, fabric, yarn, insoles, leather adhesives, polyethylene plates, closed and open-cell foam plates, EVA plates, and EVA sole products. In addition, the company produces textiles and textile auxiliary materials, including knitted and apparel textile products, and manufactures outerwear, woven, knitted, and crocheted products such as coats, jackets, trousers, suits, dresses, anoraks, raincoats, and evening wear. The company was incorporated in 2005 and is headquartered in Adiyaman, Turkey.",
-      "pe": 2.6944444,
+      "pe": 3.1290324,
       "forwardPE": null,
       "priceToBook": 0.11604259,
       "pegRatio": null,
@@ -63059,7 +63059,7 @@
       "debtToEquity": 39.178,
       "currentRatio": 1.206,
       "quickRatio": 0.861,
-      "eps": 0.36,
+      "eps": 0.31,
       "forwardEps": null,
       "bookValue": 8.359,
       "dividendRate": null,
@@ -63404,7 +63404,7 @@
       "fiftyTwoWeekHigh": 8.5,
       "fiftyDayAverage": 2.54,
       "twoHundredDayAverage": 4.12,
-      "volume": "5,168,584",
+      "volume": "5,168,934",
       "averageVolume": 8170775,
       "averageVolume10days": 4079561,
       "marketCap": 1408000000,
@@ -63571,7 +63571,7 @@
         },
         {
           "Close": 1.7599999904632568,
-          "Volume": 5168584
+          "Volume": 5168934
         }
       ],
       "heldPercentInsiders": 0.6296,
@@ -63593,7 +63593,7 @@
       "fiftyTwoWeekHigh": 33.86,
       "fiftyDayAverage": 20.25,
       "twoHundredDayAverage": 22.43,
-      "volume": "239,429",
+      "volume": "240,075",
       "averageVolume": 394180,
       "averageVolume10days": 279024,
       "marketCap": 1353814912,
@@ -63760,7 +63760,7 @@
         },
         {
           "Close": 18.469999313354492,
-          "Volume": 239429
+          "Volume": 240075
         }
       ],
       "heldPercentInsiders": 0.49195,
@@ -64916,7 +64916,7 @@
       "fiftyTwoWeekHigh": 150.0,
       "fiftyDayAverage": 35.03,
       "twoHundredDayAverage": 71.48,
-      "volume": "286,373",
+      "volume": "294,812",
       "averageVolume": 74680,
       "averageVolume10days": 134785,
       "marketCap": 127233824,
@@ -65083,7 +65083,7 @@
         },
         {
           "Close": 9.539999961853027,
-          "Volume": 286373
+          "Volume": 294812
         }
       ],
       "heldPercentInsiders": 0.29518,
@@ -65667,7 +65667,7 @@
       "previousClose": 8.03,
       "open": 7.8,
       "dayLow": 7.8,
-      "dayHigh": 8.15,
+      "dayHigh": 8.14,
       "fiftyTwoWeekLow": 7.56,
       "fiftyTwoWeekHigh": 21.86,
       "fiftyDayAverage": 13.64,
@@ -66428,7 +66428,7 @@
       "fiftyTwoWeekHigh": 10.58,
       "fiftyDayAverage": 5.37,
       "twoHundredDayAverage": 6.31,
-      "volume": "946,620",
+      "volume": "943,248",
       "averageVolume": 2323180,
       "averageVolume10days": 974982,
       "marketCap": 1702594304,
@@ -66595,7 +66595,7 @@
         },
         {
           "Close": 4.320000171661377,
-          "Volume": 946620
+          "Volume": 943248
         }
       ],
       "heldPercentInsiders": 0.55896,
@@ -66617,7 +66617,7 @@
       "fiftyTwoWeekHigh": 37.2,
       "fiftyDayAverage": 27.26,
       "twoHundredDayAverage": 25.27,
-      "volume": "399,947",
+      "volume": "399,421",
       "averageVolume": 1259781,
       "averageVolume10days": 669640,
       "marketCap": 1670733568,
@@ -66784,7 +66784,7 @@
         },
         {
           "Close": 17.100000381469727,
-          "Volume": 399947
+          "Volume": 399421
         }
       ],
       "heldPercentInsiders": 0.25163,
@@ -66989,9 +66989,9 @@
       "changeRate": 0.77,
       "previousClose": 3.88,
       "open": 3.89,
-      "dayLow": 3.67,
+      "dayLow": 3.65,
       "dayHigh": 3.91,
-      "fiftyTwoWeekLow": 3.67,
+      "fiftyTwoWeekLow": 3.65,
       "fiftyTwoWeekHigh": 7.83,
       "fiftyDayAverage": 4.93,
       "twoHundredDayAverage": 5.88,
@@ -68124,7 +68124,7 @@
       "previousClose": 205.7,
       "open": 206.0,
       "dayLow": 203.7,
-      "dayHigh": 222.0,
+      "dayHigh": 221.0,
       "fiftyTwoWeekLow": 196.0,
       "fiftyTwoWeekHigh": 353.0,
       "fiftyDayAverage": 213.57,
@@ -68313,7 +68313,7 @@
       "previousClose": 20.78,
       "open": 20.7,
       "dayLow": 20.26,
-      "dayHigh": 21.4,
+      "dayHigh": 21.44,
       "fiftyTwoWeekLow": 20.0,
       "fiftyTwoWeekHigh": 52.6,
       "fiftyDayAverage": 32.05,
@@ -69825,12 +69825,12 @@
       "previousClose": 5.09,
       "open": 5.15,
       "dayLow": 5.04,
-      "dayHigh": 5.21,
+      "dayHigh": 5.17,
       "fiftyTwoWeekLow": 4.8,
       "fiftyTwoWeekHigh": 10.99,
       "fiftyDayAverage": 6.48,
       "twoHundredDayAverage": 7.58,
-      "volume": "515,063",
+      "volume": "514,679",
       "averageVolume": 3505349,
       "averageVolume10days": 1653520,
       "marketCap": 2071281792,
@@ -69997,7 +69997,7 @@
         },
         {
           "Close": 5.159999847412109,
-          "Volume": 515063
+          "Volume": 514679
         }
       ],
       "heldPercentInsiders": 0.58742,
@@ -70441,8 +70441,8 @@
       "targetLowPrice": 33.35,
       "targetMeanPrice": 35.1675,
       "targetMedianPrice": 34.2,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 1.0,
+      "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 4,
       "beta": -0.706,
       "historicalData": [
@@ -70789,7 +70789,7 @@
       "country": "Turkey",
       "phone": "90 352 321 11 32",
       "description": "Oylum Sinai Yatirimlar Anonim Sirketi produces general foodstuffs in Turkey. It offers biscuits, chocolate, wafers, chocolate coated biscuits, waffles, cakes, crackers, chewing gum, candy, turkish delight, halva, jam, etc. all kinds of floury and sugary, cakes, crackers, chewing gum, halva, fibrous biscuits, cream biscuits, marshmallows, spreadable creams, and jam etc. The company is also involved in buying, selling, importing, and exporting substances. The company was founded in 1969 and is headquartered in Kayseri, Turkey.",
-      "pe": 37.35294,
+      "pe": 39.6875,
       "forwardPE": null,
       "priceToBook": 0.44241622,
       "pegRatio": null,
@@ -70808,7 +70808,7 @@
       "debtToEquity": 13.276,
       "currentRatio": 2.13,
       "quickRatio": 1.542,
-      "eps": 0.17,
+      "eps": 0.16,
       "forwardEps": null,
       "bookValue": 14.353,
       "dividendRate": null,
@@ -70958,9 +70958,9 @@
       "changeRate": -1.03,
       "previousClose": 25.14,
       "open": 24.8,
-      "dayLow": 24.14,
+      "dayLow": 24.1,
       "dayHigh": 25.12,
-      "fiftyTwoWeekLow": 24.14,
+      "fiftyTwoWeekLow": 24.1,
       "fiftyTwoWeekHigh": 75.95,
       "fiftyDayAverage": 31.75,
       "twoHundredDayAverage": 44.99,
@@ -71337,7 +71337,7 @@
       "previousClose": 10.92,
       "open": 10.95,
       "dayLow": 10.74,
-      "dayHigh": 11.35,
+      "dayHigh": 11.33,
       "fiftyTwoWeekLow": 10.74,
       "fiftyTwoWeekHigh": 16.48,
       "fiftyDayAverage": 12.59,
@@ -71720,7 +71720,7 @@
       "fiftyTwoWeekHigh": 45.8,
       "fiftyDayAverage": 39.63,
       "twoHundredDayAverage": 29.18,
-      "volume": "2,666,792",
+      "volume": "2,663,946",
       "averageVolume": 2799358,
       "averageVolume10days": 944663,
       "marketCap": 3585600000,
@@ -71887,7 +71887,7 @@
         },
         {
           "Close": 29.8799991607666,
-          "Volume": 2666792
+          "Volume": 2663946
         }
       ],
       "heldPercentInsiders": 0.59599996,
@@ -72659,9 +72659,9 @@
       "changeRate": 0.55,
       "previousClose": 10.82,
       "open": 10.85,
-      "dayLow": 10.51,
+      "dayLow": 10.54,
       "dayHigh": 11.14,
-      "fiftyTwoWeekLow": 10.51,
+      "fiftyTwoWeekLow": 10.54,
       "fiftyTwoWeekHigh": 32.86,
       "fiftyDayAverage": 18.06,
       "twoHundredDayAverage": 20.22,
@@ -72854,7 +72854,7 @@
       "fiftyTwoWeekHigh": 40.18,
       "fiftyDayAverage": 31.49,
       "twoHundredDayAverage": 29.75,
-      "volume": "5,369,961",
+      "volume": "5,371,543",
       "averageVolume": 1832920,
       "averageVolume10days": 830004,
       "marketCap": 3586004992,
@@ -73021,7 +73021,7 @@
         },
         {
           "Close": 30.299999237060547,
-          "Volume": 5369961
+          "Volume": 5371543
         }
       ],
       "heldPercentInsiders": 0.59283,
@@ -73421,7 +73421,7 @@
       "fiftyTwoWeekHigh": 17.23,
       "fiftyDayAverage": 11.71,
       "twoHundredDayAverage": 13.51,
-      "volume": "769,155",
+      "volume": "769,175",
       "averageVolume": 1584287,
       "averageVolume10days": 884560,
       "marketCap": 3561319936,
@@ -73588,7 +73588,7 @@
         },
         {
           "Close": 9.050000190734863,
-          "Volume": 769155
+          "Volume": 769175
         }
       ],
       "heldPercentInsiders": 0.28394,
@@ -74555,7 +74555,7 @@
       "fiftyTwoWeekHigh": 56.65,
       "fiftyDayAverage": 37.85,
       "twoHundredDayAverage": 43.59,
-      "volume": "319,211",
+      "volume": "320,437",
       "averageVolume": 751127,
       "averageVolume10days": 288034,
       "marketCap": 2268000000,
@@ -74722,7 +74722,7 @@
         },
         {
           "Close": 30.239999771118164,
-          "Volume": 319211
+          "Volume": 320437
         }
       ],
       "heldPercentInsiders": 0.45533,
@@ -74927,9 +74927,9 @@
       "changeRate": -4.44,
       "previousClose": 14.85,
       "open": 14.83,
-      "dayLow": 13.41,
+      "dayLow": 13.44,
       "dayHigh": 14.83,
-      "fiftyTwoWeekLow": 13.41,
+      "fiftyTwoWeekLow": 13.44,
       "fiftyTwoWeekHigh": 25.3,
       "fiftyDayAverage": 20.43,
       "twoHundredDayAverage": 19.95,
@@ -74966,7 +74966,7 @@
       "debtToEquity": 15.997,
       "currentRatio": 0.597,
       "quickRatio": 0.359,
-      "eps": -2.37,
+      "eps": -2.4,
       "forwardEps": null,
       "bookValue": 3.846,
       "dividendRate": null,
@@ -75122,7 +75122,7 @@
       "fiftyTwoWeekHigh": 13252.5,
       "fiftyDayAverage": 3795.6,
       "twoHundredDayAverage": 5036.46,
-      "volume": "3,970",
+      "volume": "3,983",
       "averageVolume": 9153,
       "averageVolume10days": 14803,
       "marketCap": 11193749504,
@@ -75289,7 +75289,7 @@
         },
         {
           "Close": 2985.0,
-          "Volume": 3970
+          "Volume": 3983
         }
       ],
       "heldPercentInsiders": 0.80273,
@@ -75494,9 +75494,9 @@
       "changeRate": 0.19,
       "previousClose": 20.6,
       "open": 20.66,
-      "dayLow": 20.12,
+      "dayLow": 20.08,
       "dayHigh": 20.94,
-      "fiftyTwoWeekLow": 20.12,
+      "fiftyTwoWeekLow": 20.08,
       "fiftyTwoWeekHigh": 70.95,
       "fiftyDayAverage": 28.69,
       "twoHundredDayAverage": 37.68,
@@ -75689,7 +75689,7 @@
       "fiftyTwoWeekHigh": 27.6,
       "fiftyDayAverage": 16.86,
       "twoHundredDayAverage": 18.57,
-      "volume": "902,954",
+      "volume": "902,873",
       "averageVolume": 3267873,
       "averageVolume10days": 4721992,
       "marketCap": 1898057472,
@@ -75856,7 +75856,7 @@
         },
         {
           "Close": 12.75,
-          "Volume": 902954
+          "Volume": 902873
         }
       ],
       "heldPercentInsiders": 0.68004996,
@@ -76445,7 +76445,7 @@
       "fiftyTwoWeekHigh": 9.63,
       "fiftyDayAverage": 2.65,
       "twoHundredDayAverage": 3.19,
-      "volume": "39,000,489",
+      "volume": "38,952,153",
       "averageVolume": 50892172,
       "averageVolume10days": 67704364,
       "marketCap": 3854400000,
@@ -76612,7 +76612,7 @@
         },
         {
           "Close": 1.4600000381469727,
-          "Volume": 39000489
+          "Volume": 38952153
         }
       ],
       "heldPercentInsiders": 0.44896,
@@ -76823,7 +76823,7 @@
       "fiftyTwoWeekHigh": 277.75,
       "fiftyDayAverage": 143.66,
       "twoHundredDayAverage": 185.34,
-      "volume": "209,342",
+      "volume": "209,686",
       "averageVolume": 149907,
       "averageVolume10days": 251571,
       "marketCap": 17709385728,
@@ -76990,7 +76990,7 @@
         },
         {
           "Close": 108.5999984741211,
-          "Volume": 209342
+          "Volume": 209686
         }
       ],
       "heldPercentInsiders": 0.94262004,
@@ -77196,7 +77196,7 @@
       "previousClose": 179.2,
       "open": 179.2,
       "dayLow": 178.1,
-      "dayHigh": 188.4,
+      "dayHigh": 188.0,
       "fiftyTwoWeekLow": 133.8,
       "fiftyTwoWeekHigh": 216.1,
       "fiftyDayAverage": 198.38,
@@ -77245,8 +77245,8 @@
       "targetLowPrice": 265.0,
       "targetMeanPrice": 287.945,
       "targetMedianPrice": 287.89,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 1.0,
+      "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 4,
       "beta": 0.914,
       "historicalData": [
@@ -77579,7 +77579,7 @@
       "fiftyTwoWeekHigh": 33.54,
       "fiftyDayAverage": 20.88,
       "twoHundredDayAverage": 23.17,
-      "volume": "472,768",
+      "volume": "473,019",
       "averageVolume": 237532,
       "averageVolume10days": 191459,
       "marketCap": 357084000,
@@ -77746,7 +77746,7 @@
         },
         {
           "Close": 12.600000381469727,
-          "Volume": 472768
+          "Volume": 473019
         }
       ],
       "heldPercentInsiders": 0.40978,
@@ -77768,7 +77768,7 @@
       "fiftyTwoWeekHigh": 5.08,
       "fiftyDayAverage": 2.56,
       "twoHundredDayAverage": 3.38,
-      "volume": "22,785,997",
+      "volume": "22,743,087",
       "averageVolume": 25213557,
       "averageVolume10days": 54084162,
       "marketCap": 1049999936,
@@ -77935,7 +77935,7 @@
         },
         {
           "Close": 2.0999999046325684,
-          "Volume": 22785997
+          "Volume": 22743087
         }
       ],
       "heldPercentInsiders": 0.16595,
@@ -77957,7 +77957,7 @@
       "fiftyTwoWeekHigh": 49.14,
       "fiftyDayAverage": 25.05,
       "twoHundredDayAverage": 29.95,
-      "volume": "2,206,883",
+      "volume": "2,208,122",
       "averageVolume": 3123212,
       "averageVolume10days": 2187981,
       "marketCap": 1069447488,
@@ -78124,7 +78124,7 @@
         },
         {
           "Close": 13.050000190734863,
-          "Volume": 2206883
+          "Volume": 2208122
         }
       ],
       "heldPercentInsiders": 0.39902002,
@@ -78186,13 +78186,13 @@
       "dividendYield": 0.0,
       "exDividendDate": 1306800000,
       "payoutRatio": 0.0,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
+      "targetHighPrice": 33.0,
+      "targetLowPrice": 33.0,
+      "targetMeanPrice": 33.0,
+      "targetMedianPrice": 33.0,
       "recommendationMean": null,
       "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
+      "numberOfAnalystOpinions": 1,
       "beta": 0.821,
       "historicalData": [
         {
@@ -78335,7 +78335,7 @@
       "fiftyTwoWeekHigh": 30.54,
       "fiftyDayAverage": 25.54,
       "twoHundredDayAverage": 21.68,
-      "volume": "4,189,511",
+      "volume": "4,191,511",
       "averageVolume": 14533333,
       "averageVolume10days": 8531962,
       "marketCap": 51399999488,
@@ -78502,7 +78502,7 @@
         },
         {
           "Close": 25.700000762939453,
-          "Volume": 4189511
+          "Volume": 4191511
         }
       ],
       "heldPercentInsiders": 0.42663,
@@ -78708,7 +78708,7 @@
       "previousClose": 3.43,
       "open": 3.47,
       "dayLow": 3.37,
-      "dayHigh": 3.5,
+      "dayHigh": 3.49,
       "fiftyTwoWeekLow": 3.37,
       "fiftyTwoWeekHigh": 8.59,
       "fiftyDayAverage": 4.71,
@@ -78897,7 +78897,7 @@
       "previousClose": 25.48,
       "open": 25.48,
       "dayLow": 24.22,
-      "dayHigh": 26.3,
+      "dayHigh": 26.42,
       "fiftyTwoWeekLow": 24.22,
       "fiftyTwoWeekHigh": 88.9,
       "fiftyDayAverage": 45.74,
@@ -79086,7 +79086,7 @@
       "previousClose": 4.04,
       "open": 4.04,
       "dayLow": 3.96,
-      "dayHigh": 4.22,
+      "dayHigh": 4.24,
       "fiftyTwoWeekLow": 3.52,
       "fiftyTwoWeekHigh": 11.6,
       "fiftyDayAverage": 7.33,
@@ -79847,7 +79847,7 @@
       "fiftyTwoWeekHigh": 27.27,
       "fiftyDayAverage": 19.33,
       "twoHundredDayAverage": 20.7,
-      "volume": "3,048,250",
+      "volume": "3,045,853",
       "averageVolume": 8609688,
       "averageVolume10days": 2941594,
       "marketCap": 8695940096,
@@ -80014,7 +80014,7 @@
         },
         {
           "Close": 13.630000114440918,
-          "Volume": 3048250
+          "Volume": 3045853
         }
       ],
       "heldPercentInsiders": 0.63108003,
@@ -80409,7 +80409,7 @@
       "previousClose": 3.48,
       "open": 3.34,
       "dayLow": 3.25,
-      "dayHigh": 3.64,
+      "dayHigh": 3.69,
       "fiftyTwoWeekLow": 3.25,
       "fiftyTwoWeekHigh": 12.62,
       "fiftyDayAverage": 4.31,
@@ -81014,7 +81014,7 @@
       "debtToEquity": 47.905,
       "currentRatio": 0.471,
       "quickRatio": 0.238,
-      "eps": -0.83,
+      "eps": -0.79,
       "forwardEps": null,
       "bookValue": 2.471,
       "dividendRate": null,
@@ -83816,7 +83816,7 @@
       "fiftyTwoWeekHigh": 61.45,
       "fiftyDayAverage": 31.1,
       "twoHundredDayAverage": 35.25,
-      "volume": "306,836",
+      "volume": "308,810",
       "averageVolume": 2120190,
       "averageVolume10days": 647319,
       "marketCap": 9221478400,
@@ -83983,7 +83983,7 @@
         },
         {
           "Close": 19.43000030517578,
-          "Volume": 306836
+          "Volume": 308810
         }
       ],
       "heldPercentInsiders": 0.76131,
@@ -84944,9 +84944,9 @@
       "changeRate": -3.39,
       "previousClose": 6.2,
       "open": 6.13,
-      "dayLow": 5.6,
+      "dayLow": 5.59,
       "dayHigh": 6.48,
-      "fiftyTwoWeekLow": 5.6,
+      "fiftyTwoWeekLow": 5.59,
       "fiftyTwoWeekHigh": 42.56,
       "fiftyDayAverage": 13.47,
       "twoHundredDayAverage": 18.72,
@@ -86084,7 +86084,7 @@
       "fiftyTwoWeekHigh": 28.28,
       "fiftyDayAverage": 15.99,
       "twoHundredDayAverage": 20.17,
-      "volume": "915,570",
+      "volume": "916,004",
       "averageVolume": 4692499,
       "averageVolume10days": 1529768,
       "marketCap": 2538630144,
@@ -86128,8 +86128,8 @@
       "targetLowPrice": 36.78,
       "targetMeanPrice": 55.59,
       "targetMedianPrice": 55.59,
-      "recommendationMean": null,
-      "recommendationKey": "none",
+      "recommendationMean": 1.0,
+      "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 2,
       "beta": 0.051,
       "historicalData": [
@@ -86251,7 +86251,7 @@
         },
         {
           "Close": 12.630000114440918,
-          "Volume": 915570
+          "Volume": 916004
         }
       ],
       "heldPercentInsiders": 0.5,
@@ -86456,7 +86456,7 @@
       "changeRate": -9.99,
       "previousClose": 140.2,
       "open": 131.0,
-      "dayLow": 126.2,
+      "dayLow": 126.4,
       "dayHigh": 145.3,
       "fiftyTwoWeekLow": 64.3,
       "fiftyTwoWeekHigh": 703.0,
@@ -86645,7 +86645,7 @@
       "changeRate": -1.01,
       "previousClose": 41.7,
       "open": 41.7,
-      "dayLow": 40.66,
+      "dayLow": 40.62,
       "dayHigh": 42.2,
       "fiftyTwoWeekLow": 35.22,
       "fiftyTwoWeekHigh": 55.95,
@@ -86691,13 +86691,13 @@
       "dividendYield": 8.17,
       "exDividendDate": 1778630400,
       "payoutRatio": 0.7597,
-      "targetHighPrice": null,
-      "targetLowPrice": null,
-      "targetMeanPrice": null,
-      "targetMedianPrice": null,
+      "targetHighPrice": 88.0,
+      "targetLowPrice": 88.0,
+      "targetMeanPrice": 88.0,
+      "targetMedianPrice": 88.0,
       "recommendationMean": null,
       "recommendationKey": "none",
-      "numberOfAnalystOpinions": 0,
+      "numberOfAnalystOpinions": 1,
       "beta": -0.698,
       "historicalData": [
         {
@@ -87212,9 +87212,9 @@
       "changeRate": -1.67,
       "previousClose": 4.79,
       "open": 4.75,
-      "dayLow": 4.61,
+      "dayLow": 4.66,
       "dayHigh": 4.82,
-      "fiftyTwoWeekLow": 4.61,
+      "fiftyTwoWeekLow": 4.65,
       "fiftyTwoWeekHigh": 10.25,
       "fiftyDayAverage": 5.44,
       "twoHundredDayAverage": 6.47,
@@ -88346,13 +88346,13 @@
       "changeRate": 1.24,
       "previousClose": 25.78,
       "open": 27.0,
-      "dayLow": 25.66,
+      "dayLow": 25.68,
       "dayHigh": 27.02,
       "fiftyTwoWeekLow": 22.46,
       "fiftyTwoWeekHigh": 46.64,
       "fiftyDayAverage": 26.78,
       "twoHundredDayAverage": 28.91,
-      "volume": "306,839",
+      "volume": "307,758",
       "averageVolume": 691166,
       "averageVolume10days": 365146,
       "marketCap": 3345303040,
@@ -88519,7 +88519,7 @@
         },
         {
           "Close": 26.100000381469727,
-          "Volume": 306839
+          "Volume": 307758
         }
       ],
       "heldPercentInsiders": 0.74889,
@@ -88555,7 +88555,7 @@
       "country": "Turkey",
       "phone": "90 850 202 20 20",
       "description": "Türkiye Sigorta A.S. operates as a non-life insurance company in Turkey. It offers auto and non-auto accident, fire, transportation, engineering, health, agriculture, liability, financial losses, credit, and legal protection insurance products. Türkiye Sigorta A.S. was formerly known as Günes Sigorta Anonim Sirketi and changed its name to Türkiye Sigorta A.S. in August 2020. The company was incorporated in 1957 and is based in Istanbul, Turkey. Türkiye Sigorta A.S. operates as a subsidiary of TVF Finansal Yatirimlar AS.",
-      "pe": 4.1196585,
+      "pe": 4.084746,
       "forwardPE": 1.3771429,
       "priceToBook": 1.6327914,
       "pegRatio": null,
@@ -88574,7 +88574,7 @@
       "debtToEquity": 26.767,
       "currentRatio": 1.376,
       "quickRatio": 1.227,
-      "eps": 1.17,
+      "eps": 1.18,
       "forwardEps": 3.5,
       "bookValue": 2.952,
       "dividendRate": 0.15,
@@ -89108,7 +89108,7 @@
       "fiftyTwoWeekHigh": 367.25,
       "fiftyDayAverage": 211.08,
       "twoHundredDayAverage": 233.12,
-      "volume": "137,061",
+      "volume": "137,075",
       "averageVolume": 215114,
       "averageVolume10days": 208278,
       "marketCap": 11520000000,
@@ -89275,7 +89275,7 @@
         },
         {
           "Close": 144.0,
-          "Volume": 137061
+          "Volume": 137075
         }
       ],
       "heldPercentInsiders": 0.93693,
@@ -89864,7 +89864,7 @@
       "fiftyTwoWeekHigh": 3.88,
       "fiftyDayAverage": 0.93,
       "twoHundredDayAverage": 1.54,
-      "volume": "12,860,670",
+      "volume": "12,850,670",
       "averageVolume": 52171548,
       "averageVolume10days": 30246056,
       "marketCap": 955499904,
@@ -90031,7 +90031,7 @@
         },
         {
           "Close": 0.38999998569488525,
-          "Volume": 12860670
+          "Volume": 12850670
         }
       ],
       "heldPercentInsiders": 0.29432,
@@ -90809,7 +90809,7 @@
       "fiftyTwoWeekHigh": 49.38,
       "fiftyDayAverage": 31.02,
       "twoHundredDayAverage": 37.41,
-      "volume": "328,932",
+      "volume": "327,463",
       "averageVolume": 310368,
       "averageVolume10days": 209203,
       "marketCap": 1197823616,
@@ -90976,7 +90976,7 @@
         },
         {
           "Close": 23.360000610351562,
-          "Volume": 328932
+          "Volume": 327463
         }
       ],
       "heldPercentInsiders": 0.63611,
@@ -93449,9 +93449,9 @@
       "changeRate": -0.42,
       "previousClose": 4.75,
       "open": 4.77,
-      "dayLow": 4.58,
+      "dayLow": 4.55,
       "dayHigh": 4.78,
-      "fiftyTwoWeekLow": 4.58,
+      "fiftyTwoWeekLow": 4.55,
       "fiftyTwoWeekHigh": 11.95,
       "fiftyDayAverage": 6.73,
       "twoHundredDayAverage": 8.36,
