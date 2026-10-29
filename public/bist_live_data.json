@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-29T16:50:07.049500",
+  "last_update": "2026-10-29T21:45:46.833639",
   "source": "Yahoo Finance (yfinance)",
   "total_stocks": 499,
   "successful": 499,
@@ -2140,10 +2140,10 @@
       "dividendYield": 0.0,
       "exDividendDate": 1701129600,
       "payoutRatio": 0.0,
-      "targetHighPrice": 62.392418,
-      "targetLowPrice": 44.053436,
-      "targetMeanPrice": 51.495174,
-      "targetMedianPrice": 50.706303,
+      "targetHighPrice": 62.45627,
+      "targetLowPrice": 44.09852,
+      "targetMeanPrice": 51.54787,
+      "targetMedianPrice": 50.758194,
       "recommendationMean": 2.33333,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 6,
@@ -3654,8 +3654,8 @@
       "payoutRatio": 0.0,
       "targetHighPrice": 245.0,
       "targetLowPrice": 87.0,
-      "targetMeanPrice": 148.74924,
-      "targetMedianPrice": 149.5,
+      "targetMeanPrice": 145.78769,
+      "targetMedianPrice": 135.0,
       "recommendationMean": 2.07692,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 13,
@@ -5164,10 +5164,10 @@
       "dividendYield": 1.42,
       "exDividendDate": 1790035200,
       "payoutRatio": 0.0866,
-      "targetHighPrice": 506.5966,
-      "targetLowPrice": 373.04996,
-      "targetMeanPrice": 431.05746,
-      "targetMedianPrice": 430.29218,
+      "targetHighPrice": 507.04767,
+      "targetLowPrice": 373.3821,
+      "targetMeanPrice": 431.44128,
+      "targetMedianPrice": 430.67532,
       "recommendationMean": 1.16667,
       "recommendationKey": "strong_buy",
       "numberOfAnalystOpinions": 11,
@@ -28360,10 +28360,10 @@
       "symbol": "DESA.IS",
       "name": "Desa Deri Sanayi ve Ticaret A.S.",
       "shortName": "DESA DERI",
-      "price": 7.84,
+      "price": 7.74,
       "change": 0.05,
       "changeRate": 0.64,
-      "previousClose": 7.79,
+      "previousClose": 7.69,
       "open": 7.88,
       "dayLow": 7.69,
       "dayHigh": 7.92,
@@ -28421,123 +28421,123 @@
       "beta": 0.299,
       "historicalData": [
         {
-          "Close": 8.963774681091309,
+          "Close": 8.853970527648926,
           "Volume": 2557496
         },
         {
-          "Close": 8.924156188964844,
+          "Close": 8.814836502075195,
           "Volume": 1502908
         },
         {
-          "Close": 8.765680313110352,
+          "Close": 8.658302307128906,
           "Volume": 2412964
         },
         {
-          "Close": 8.755775451660156,
+          "Close": 8.648519515991211,
           "Volume": 1701298
         },
         {
-          "Close": 8.914251327514648,
+          "Close": 8.8050537109375,
           "Volume": 2182792
         },
         {
-          "Close": 8.696346282958984,
+          "Close": 8.589818954467773,
           "Volume": 1460540
         },
         {
-          "Close": 8.67653751373291,
+          "Close": 8.57025146484375,
           "Volume": 1200618
         },
         {
-          "Close": 8.60720443725586,
+          "Close": 8.501768112182617,
           "Volume": 2407463
         },
         {
-          "Close": 8.735965728759766,
+          "Close": 8.628952026367188,
           "Volume": 1461278
         },
         {
-          "Close": 8.579999923706055,
+          "Close": 8.474897384643555,
           "Volume": 1884600
         },
         {
-          "Close": 8.920000076293945,
+          "Close": 8.810731887817383,
           "Volume": 1846368
         },
         {
-          "Close": 9.170000076293945,
+          "Close": 9.057669639587402,
           "Volume": 1463361
         },
         {
-          "Close": 8.9399995803833,
+          "Close": 8.830486297607422,
           "Volume": 2307035
         },
         {
-          "Close": 8.770000457763672,
+          "Close": 8.662569999694824,
           "Volume": 1288196
         },
         {
-          "Close": 8.539999961853027,
+          "Close": 8.435386657714844,
           "Volume": 1138059
         },
         {
-          "Close": 8.630000114440918,
+          "Close": 8.524284362792969,
           "Volume": 1094321
         },
         {
-          "Close": 8.649999618530273,
+          "Close": 8.544038772583008,
           "Volume": 1335870
         },
         {
-          "Close": 8.5,
+          "Close": 8.39587688446045,
           "Volume": 1323060
         },
         {
-          "Close": 8.489999771118164,
+          "Close": 8.38599967956543,
           "Volume": 767405
         },
         {
-          "Close": 8.119999885559082,
+          "Close": 8.02053165435791,
           "Volume": 1429513
         },
         {
-          "Close": 8.300000190734863,
+          "Close": 8.19832706451416,
           "Volume": 1248726
         },
         {
-          "Close": 8.239999771118164,
+          "Close": 8.13906192779541,
           "Volume": 3021431
         },
         {
-          "Close": 7.949999809265137,
+          "Close": 7.852613925933838,
           "Volume": 1231792
         },
         {
-          "Close": 8.229999542236328,
+          "Close": 8.129183769226074,
           "Volume": 893248
         },
         {
-          "Close": 8.0,
+          "Close": 7.902001857757568,
           "Volume": 576041
         },
         {
-          "Close": 7.71999979019165,
+          "Close": 7.625431537628174,
           "Volume": 833077
         },
         {
-          "Close": 8.069999694824219,
+          "Close": 7.971144199371338,
           "Volume": 1398769
         },
         {
-          "Close": 7.929999828338623,
+          "Close": 7.832859039306641,
           "Volume": 1111948
         },
         {
-          "Close": 7.789999961853027,
+          "Close": 7.694574356079102,
           "Volume": 858472
         },
         {
-          "Close": 7.840000152587891,
+          "Close": 7.743961811065674,
           "Volume": 447992
         }
       ],
@@ -45232,10 +45232,10 @@
       "dividendYield": 0.0,
       "exDividendDate": null,
       "payoutRatio": 0.0,
-      "targetHighPrice": 80.429344,
-      "targetLowPrice": 60.64592,
-      "targetMeanPrice": 69.283356,
-      "targetMedianPrice": 66.7753,
+      "targetHighPrice": 80.51471,
+      "targetLowPrice": 60.71029,
+      "targetMeanPrice": 69.35689,
+      "targetMedianPrice": 66.84617,
       "recommendationMean": 1.66667,
       "recommendationKey": "buy",
       "numberOfAnalystOpinions": 3,
@@ -88583,11 +88583,11 @@
       "payoutRatio": 0.0851,
       "targetHighPrice": 11.215,
       "targetLowPrice": 7.925,
-      "targetMeanPrice": 9.8425,
+      "targetMeanPrice": 9.82,
       "targetMedianPrice": 10.0,
-      "recommendationMean": 1.25,
+      "recommendationMean": 1.14286,
       "recommendationKey": "strong_buy",
-      "numberOfAnalystOpinions": 8,
+      "numberOfAnalystOpinions": 7,
       "beta": 0.138,
       "historicalData": [
         {
