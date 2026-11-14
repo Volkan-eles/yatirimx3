@@ -1,5 +1,23 @@
 [
   {
+    "code": "PKART",
+    "company": "PKART Plastikkart Akıllı Kart İletişim Sistemleri San. ve Tic. A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%1218,68",
+    "date": "13.11.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 277.250.000 TL"
+  },
+  {
+    "code": "FLAP",
+    "company": "FLAP Flap Kongre ve Turizm Hizmetleri A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%326,66",
+    "date": "13.11.2026",
+    "status": "Tamamlandı",
+    "description": "SPK Onayı Alındı | Tutar: 306.250.000 TL"
+  },
+  {
     "code": "LILAK",
     "company": "LILAK Lila Kağıt San. ve Tic. A.Ş.",
     "type": "Bedelsiz",
@@ -124,15 +142,6 @@
     "date": "30.06.2026",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "FLAP",
-    "company": "FLAP Flap Kongre ve Turizm Hizmetleri A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%326,66",
-    "date": "23.06.2026",
-    "status": "Tamamlandı",
-    "description": "Yönetim Kurulu Kararı | Tutar: 306.250.000 TL"
   },
   {
     "code": "BARMA",
@@ -286,15 +295,6 @@
     "date": "08.05.2025",
     "status": "Tamamlandı",
     "description": "Yönetim Kurulu Kararı"
-  },
-  {
-    "code": "SKBNK",
-    "company": "SKBNK Şekerbank T.A.Ş.",
-    "type": "Bedelli",
-    "rate": "%40",
-    "date": "22.10.2026 Bitiş: 05.11.2026",
-    "status": "Onaylandı",
-    "description": "Bölünme Tarihi: 22.10.2026 Bitiş: 05.11.2026 | Tutar: 1 TL"
   },
   {
     "code": "CEMAS",
