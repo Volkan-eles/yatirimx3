@@ -4883,7 +4883,7 @@
     {
       "company": "GRNYO",
       "link": "https://halkarz.com/garanti-yatirim-ortakligi-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "GRNYO",
       "price": "1.050 TL *YTL Öncesi",
       "dates": "18 Kasım 1996",
@@ -4893,7 +4893,7 @@
     {
       "company": "CLEBI",
       "link": "https://halkarz.com/celebi-hava-servisi-a-s/",
-      "status": "Talep Toplanıyor",
+      "status": "İşlem Görüyor",
       "code": "CLEBI",
       "price": "21.000 TL *YTL Öncesi",
       "dates": "18 Kasım 1996",
@@ -6313,6 +6313,16 @@
   ],
   "draft_ipos": [
     {
+      "company": "TVKDN",
+      "link": "https://halkarz.com/tavuk-dunyasi-gida-san-ve-tic-a-s/",
+      "status": "Taslak",
+      "code": "TVKDN",
+      "price": "Hazırlanıyor...",
+      "dates": "Tarih Bekleniyor",
+      "distributionType": "Eşit Dağıtım **",
+      "lotCount": "137.500.000 Lot"
+    },
+    {
       "company": "BLSMD",
       "link": "https://halkarz.com/bulls-yatirim-menkul-degerler-a-s/",
       "status": "Taslak",
@@ -6351,56 +6361,6 @@
       "dates": "Tarih Bekleniyor",
       "distributionType": "Eşit Dağıtım **",
       "lotCount": "70.000.000 Lot"
-    },
-    {
-      "company": "OTOSR",
-      "link": "https://halkarz.com/otosor-otomotiv-a-s/",
-      "status": "Taslak",
-      "code": "OTOSR",
-      "price": "Hazırlanıyor...",
-      "dates": "Tarih Bekleniyor",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "70.000.000 Lot"
-    },
-    {
-      "company": "TIMUR",
-      "link": "https://halkarz.com/timur-gayrimenkul-gelistirme-yapi-ve-yatirim-a-s/",
-      "status": "Taslak",
-      "code": "TIMUR",
-      "price": "Hazırlanıyor...",
-      "dates": "Tarih Bekleniyor",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "116.545.019 Lot"
-    },
-    {
-      "company": "GLMND",
-      "link": "https://halkarz.com/gulluk-mandalya-turizm-liman-isletmeleri-a-s/",
-      "status": "Taslak",
-      "code": "GLMND",
-      "price": "Hazırlanıyor...",
-      "dates": "Tarih Bekleniyor",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "25.650.000 Lot"
-    },
-    {
-      "company": "TV8TV",
-      "link": "https://halkarz.com/tv8-tv-yayincilik-a-s/",
-      "status": "Taslak",
-      "code": "TV8TV",
-      "price": "Hazırlanıyor...",
-      "dates": "Tarih Bekleniyor",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "35.000.000 Lot"
-    },
-    {
-      "company": "QYHOL",
-      "link": "https://halkarz.com/q-yatirim-holding-a-s/",
-      "status": "Taslak",
-      "code": "QYHOL",
-      "price": "Hazırlanıyor...",
-      "dates": "Tarih Bekleniyor",
-      "distributionType": "Eşit Dağıtım **",
-      "lotCount": "500.000.000 Lot"
     }
   ]
 }
