@@ -1,14 +1,5 @@
 [
   {
-    "code": "FLAP",
-    "company": "FLAP Flap Kongre ve Turizm Hizmetleri A.Ş.",
-    "type": "Bedelsiz",
-    "rate": "%326,66",
-    "date": "23.11.2026",
-    "status": "Tamamlandı",
-    "description": "Bölünme Tarihi: 23.11.2026 | Tutar: 306.250.000 TL"
-  },
-  {
     "code": "BUCIM",
     "company": "BUCIM Bursa Çimento Fabrikası A.Ş.",
     "type": "Bedelsiz",
@@ -25,6 +16,15 @@
     "date": "13.11.2026",
     "status": "Tamamlandı",
     "description": "SPK Onayı Alındı | Tutar: 277.250.000 TL"
+  },
+  {
+    "code": "FLAP",
+    "company": "FLAP Flap Kongre ve Turizm Hizmetleri A.Ş.",
+    "type": "Bedelsiz",
+    "rate": "%326,66",
+    "date": "23.11.2026",
+    "status": "Tamamlandı",
+    "description": "Bölünme Tarihi: 23.11.2026 | Tutar: 306.250.000 TL"
   },
   {
     "code": "LILAK",
